@@ -6,3 +6,4 @@
  * Running on http://127.0.0.1:8888
  * Running on http://192.168.45.157:8888
 [33mPress CTRL+C to quit[0m
+127.0.0.1 - - [13/May/2026 11:49:13] "GET /api/health HTTP/1.1" 200 -
