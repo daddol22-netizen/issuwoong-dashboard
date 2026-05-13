@@ -98,8 +98,17 @@
     .script-panel { margin-top: 12px; display: none; }
     .script-panel.open { display: block; }
     .script-panel-inner { background: #0d1018; border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
-    .script-toolbar { display: flex; align-items: center; justify-content: space-between; padding: 10px 14px; border-bottom: 1px solid var(--border); background: var(--surface2); }
-    .script-toolbar-title { font-size: 0.8rem; color: var(--muted); }
+    /* 버전 탭 바 */
+    .version-tabs { display: flex; align-items: center; gap: 4px; padding: 8px 12px; border-bottom: 1px solid var(--border); background: var(--surface2); overflow-x: auto; scrollbar-width: none; }
+    .version-tabs::-webkit-scrollbar { display: none; }
+    .vtab { padding: 4px 12px; border-radius: 5px; border: 1px solid var(--border); background: var(--surface); color: var(--muted); font-size: 0.75rem; cursor: pointer; white-space: nowrap; transition: all .15s; flex-shrink: 0; }
+    .vtab:hover { color: var(--text); border-color: var(--accent); }
+    .vtab.active { background: rgba(108,99,255,.2); color: var(--accent); border-color: var(--accent); font-weight: 600; }
+    .vtab-del { margin-left: 4px; opacity: 0.5; font-size: 0.65rem; }
+    .vtab-del:hover { opacity: 1; color: #f87171; }
+    /* 툴바 */
+    .script-toolbar { display: flex; align-items: center; justify-content: space-between; padding: 8px 14px; border-bottom: 1px solid var(--border); background: #111420; }
+    .script-toolbar-title { font-size: 0.75rem; color: var(--muted); }
     .script-toolbar-btns { display: flex; gap: 8px; }
     .tbtn { padding: 4px 12px; border-radius: 5px; border: 1px solid var(--border); background: var(--surface); color: var(--muted); font-size: 0.75rem; cursor: pointer; transition: all .15s; }
     .tbtn:hover { color: var(--text); border-color: var(--accent); }
@@ -262,8 +271,9 @@ function renderTopics(data) {
       </button>
       <div class="script-panel" id="${scriptId}">
         <div class="script-panel-inner">
+          <div class="version-tabs" id="${scriptId}-vtabs"></div>
           <div class="script-toolbar">
-            <span class="script-toolbar-title">생성된 대본</span>
+            <span class="script-toolbar-title" id="${scriptId}-label">생성된 대본</span>
             <div class="script-toolbar-btns">
               <button class="tbtn primary" onclick="copyScript('${scriptId}')">복사</button>
               <button class="tbtn" onclick="downloadScript('${scriptId}', '${esc(t.keyword)}')">다운로드</button>
@@ -278,11 +288,46 @@ function renderTopics(data) {
   }).join('');
 }
 
+// 버전 저장소: { 'script-1': [{script, meta, time}, ...], ... }
+const scriptVersions = {};
+
 function handleScriptBtn(btn) {
   const rank = parseInt(btn.dataset.rank);
   const keyword = btn.dataset.keyword;
   const headlines = JSON.parse(btn.dataset.headlines);
   generateScript(rank, keyword, headlines, btn);
+}
+
+function renderVersionTabs(panelId) {
+  const versions = scriptVersions[panelId] || [];
+  const active = versions.findIndex(v => v.active);
+  const tabsEl = document.getElementById(`${panelId}-vtabs`);
+  if (!tabsEl) return;
+  tabsEl.innerHTML = versions.map((v, i) => `
+    <span class="vtab ${i === active ? 'active' : ''}" onclick="switchVersion('${panelId}', ${i})">
+      v${i + 1} <span style="opacity:.5;font-size:.65rem">${v.time}</span>
+      <span class="vtab-del" onclick="event.stopPropagation();deleteVersion('${panelId}', ${i})">✕</span>
+    </span>
+  `).join('');
+}
+
+function switchVersion(panelId, idx) {
+  const versions = scriptVersions[panelId];
+  if (!versions) return;
+  versions.forEach((v, i) => v.active = (i === idx));
+  const v = versions[idx];
+  document.getElementById(`${panelId}-content`).textContent = v.script;
+  document.getElementById(`${panelId}-meta`).textContent = v.meta;
+  document.getElementById(`${panelId}-label`).textContent = `대본 v${idx + 1}`;
+  renderVersionTabs(panelId);
+}
+
+function deleteVersion(panelId, idx) {
+  const versions = scriptVersions[panelId];
+  if (!versions || versions.length <= 1) return;
+  versions.splice(idx, 1);
+  const newActive = Math.min(idx, versions.length - 1);
+  switchVersion(panelId, newActive);
 }
 
 async function generateScript(rank, keyword, headlines, btn) {
@@ -303,12 +348,20 @@ async function generateScript(rank, keyword, headlines, btn) {
       body: JSON.stringify({ topic: keyword, headlines })
     });
     const data = await res.json();
-
     if (data.error) throw new Error(data.error);
 
+    const now = new Date().toLocaleTimeString('ko-KR', {hour:'2-digit', minute:'2-digit'});
+    const meta = `토큰: 입력 ${(data.input_tokens||0).toLocaleString()} · 출력 ${(data.output_tokens||0).toLocaleString()} · 비용 ~$${((data.input_tokens||0)*0.000003 + (data.output_tokens||0)*0.000015).toFixed(3)}`;
+
+    if (!scriptVersions[panelId]) scriptVersions[panelId] = [];
+    scriptVersions[panelId].forEach(v => v.active = false);
+    scriptVersions[panelId].push({ script: data.script, meta, time: now, active: true });
+
+    const newIdx = scriptVersions[panelId].length - 1;
     document.getElementById(`${panelId}-content`).textContent = data.script;
-    document.getElementById(`${panelId}-meta`).textContent =
-      `토큰 사용: 입력 ${(data.input_tokens||0).toLocaleString()} · 출력 ${(data.output_tokens||0).toLocaleString()} · 예상 비용 ~$${((data.input_tokens||0)*0.000003 + (data.output_tokens||0)*0.000015).toFixed(3)}`;
+    document.getElementById(`${panelId}-meta`).textContent = meta;
+    document.getElementById(`${panelId}-label`).textContent = `대본 v${newIdx + 1}`;
+    renderVersionTabs(panelId);
 
     document.getElementById(panelId).classList.add('open');
     document.getElementById(panelId).scrollIntoView({ behavior: 'smooth', block: 'nearest' });
@@ -326,10 +379,13 @@ function copyScript(panelId) {
 }
 
 function downloadScript(panelId, keyword) {
+  const versions = scriptVersions[panelId] || [];
+  const activeIdx = versions.findIndex(v => v.active);
+  const vLabel = activeIdx >= 0 ? `_v${activeIdx + 1}` : '';
   const text = document.getElementById(`${panelId}-content`).textContent;
   const a = document.createElement('a');
   a.href = URL.createObjectURL(new Blob([text], {type:'text/plain;charset=utf-8'}));
-  a.download = `이슈웅_대본_${keyword}_${new Date().toISOString().slice(0,10)}.txt`;
+  a.download = `이슈웅_대본_${keyword}${vLabel}_${new Date().toISOString().slice(0,10)}.txt`;
   a.click();
 }
 
