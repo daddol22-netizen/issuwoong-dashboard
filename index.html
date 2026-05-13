@@ -252,7 +252,11 @@ function renderTopics(data) {
       ${relatedArticles.length ? `<div class="related-list">${renderRelated(relatedArticles)}</div>` : ''}
       ${hint ? `<div class="yt-hint">유튜브 힌트: ${hint}</div>` : ''}
 
-      <button class="script-btn" onclick="generateScript(${t.rank}, '${esc(t.keyword)}', ${JSON.stringify(t.related_titles||[])})">
+      <button class="script-btn"
+        data-rank="${t.rank}"
+        data-keyword="${esc(t.keyword)}"
+        data-headlines="${esc(JSON.stringify(t.related_titles||[]))}"
+        onclick="handleScriptBtn(this)">
         <span>✍️</span> 대본 생성
       </button>
       <div class="script-panel" id="${scriptId}">
@@ -273,13 +277,20 @@ function renderTopics(data) {
   }).join('');
 }
 
-async function generateScript(rank, keyword, headlines) {
+function handleScriptBtn(btn) {
+  const rank = parseInt(btn.dataset.rank);
+  const keyword = btn.dataset.keyword;
+  const headlines = JSON.parse(btn.dataset.headlines);
+  generateScript(rank, keyword, headlines, btn);
+}
+
+async function generateScript(rank, keyword, headlines, btn) {
+  btn = btn || document.querySelector(`.script-btn[data-rank="${rank}"]`);
   if (!apiAvailable) {
     alert('대본 생성 API가 꺼져 있습니다.\nMac에서 python3 script_api.py 를 실행해주세요.');
     return;
   }
   const panelId = `script-${rank}`;
-  const btn = document.querySelector(`.topic-card:nth-child(${rank}) .script-btn`);
 
   btn.disabled = true;
   btn.innerHTML = '<span class="spin">⟳</span> 생성 중... (30~60초)';
