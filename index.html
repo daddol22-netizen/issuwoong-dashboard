@@ -419,7 +419,12 @@ async function init() {
       const label = hour ? `${date.slice(5)} ${hour}시` : date.slice(5);
       return `<div class="date-tab" data-date="${d}" onclick="loadDate('${d}')">${i === 0 ? label + ' 🔴' : label}</div>`;
     }).join('');
-    if (dates.length) loadDate(dates[0]);
+    if (dates.length) {
+      loadDate(dates[0]);
+    } else {
+      document.getElementById('topics-container').innerHTML =
+        `<div class="state-msg"><div class="icon">🌕</div><p>아직 데이터가 없습니다.<br>다음 업데이트: 매일 07 / 10 / 13 / 16시</p></div>`;
+    }
   } catch {
     try {
       renderTopics(await (await fetch(`data/latest.json?t=${Date.now()}`)).json());
