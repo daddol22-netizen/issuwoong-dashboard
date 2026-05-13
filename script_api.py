@@ -1,0 +1,102 @@
+#!/usr/bin/env python3
+"""대본 생성 API 서버 — localhost:8888"""
+
+import sys
+import os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'youtube_pipeline'))
+
+from flask import Flask, request, jsonify
+from flask_cors import CORS
+
+app = Flask(__name__)
+CORS(app)  # GitHub Pages → localhost 크로스 오리진 허용
+
+
+def _build_script_prompt(topic: str, headlines: list[str]) -> str:
+    headlines_text = "\n".join(f"- {h}" for h in headlines) if headlines else ""
+    return f"""다음 주제로 이슈웅 채널 유튜브 대본을 작성해주세요.
+
+주제: {topic}
+관련 뉴스 헤드라인:
+{headlines_text}
+
+채널 성격: 사회 문제를 꼬집는 정보성 콘텐츠
+채널 스타일: 사회 구조적 문제를 날카롭게 분석하되 무겁지 않게, 시청자가 몰랐던 관점을 제시
+
+【필수 대본 원칙】
+- 두괄식 구성: 충격적 결론/반전 → 이유 분석 → 근거 → 마무리
+- 씬1(훅): 배경 설명 절대 금지. 첫 문장부터 핵심 치기
+- 씬2(이탈방지): 2~3분 지점에 핵심 수치/데이터 배치
+- 구어체: 말하듯이 (글 형식 금지)
+- 각 씬 끝에 다음 씬 궁금증 유발
+- 목표 분량: 4,000자 이상 (10분 이상 영상)
+
+【고정 인트로 — 그대로 사용】
+"몰라도 사는 데 지장 없지만, 알면 세상이 달라 보이는 이야기. 이슈웅입니다."
+
+【고정 아웃트로 — 그대로 사용】
+"오늘 얘기 어떠셨나요? 당연하다고 생각했던 것들, 사실 한 번쯤은 짚어볼 필요가 있잖아요. 이슈웅은 앞으로도 그냥 지나치기 아까운 이야기들을 계속 가져올게요. 구독이랑 좋아요는 저한테 큰 힘이 됩니다. 다음 영상에서 만나요."
+
+---
+
+아래 형식으로 작성해주세요:
+
+[제목 후보 3개]
+1.
+2.
+3.
+
+[썸네일 텍스트]
+(10자 이내, 강렬하게)
+
+[대본]
+(인트로부터 아웃트로까지 완성 대본)
+"""
+
+
+@app.route('/api/generate-script', methods=['POST'])
+def generate_script():
+    data = request.get_json()
+    topic = data.get('topic', '').strip()
+    headlines = data.get('headlines', [])
+
+    if not topic:
+        return jsonify({"error": "topic이 필요합니다"}), 400
+
+    try:
+        import anthropic
+        from config import ANTHROPIC_API_KEY, MODEL
+
+        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+        response = client.messages.create(
+            model=MODEL,
+            max_tokens=8000,
+            messages=[{"role": "user", "content": _build_script_prompt(topic, headlines)}],
+            system=[{
+                "type": "text",
+                "text": "당신은 유튜브 채널 이슈웅의 전문 대본 작가입니다. 성공 데이터 기반 두괄식 구성으로 완성도 높은 대본을 작성합니다.",
+                "cache_control": {"type": "ephemeral"}
+            }]
+        )
+        script = response.content[0].text
+        usage = response.usage
+        return jsonify({
+            "script": script,
+            "input_tokens": usage.input_tokens,
+            "output_tokens": usage.output_tokens,
+        })
+
+    except ImportError:
+        return jsonify({"error": "youtube_pipeline 모듈을 찾을 수 없습니다. Mac에서 실행해주세요."}), 500
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route('/api/health', methods=['GET'])
+def health():
+    return jsonify({"status": "ok", "service": "이슈웅 대본 API"})
+
+
+if __name__ == '__main__':
+    print("🚀 대본 생성 API 서버 시작: http://localhost:8888")
+    app.run(host='0.0.0.0', port=8888, debug=False)

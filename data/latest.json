@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-13",
+  "crawled_at": "2026-05-13 11:47:50",
+  "total_articles": 405,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "삼성전자",
+      "count": 51,
+      "representative_title": "구윤철 부총리 “삼성전자 파업 절대 안 돼”",
+      "representative_link": "https://n.news.naver.com/article/449/0000344992?ntype=RANKING",
+      "press": "채널A",
+      "related_articles": [
+        {
+          "title": "김민석 총리 \"삼성전자, 어떠한 경우에도 파업으로 이어지지 않도록\"",
+          "link": "https://n.news.naver.com/article/214/0001498610?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "[인터뷰] 삼성전자 파업이 두려운 사람들…美 업계 “한국이 핵심”",
+          "link": "https://n.news.naver.com/article/056/0012179808?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "코스피 이틀 연속 내림세...삼성전자 4%대 하락",
+          "link": "https://n.news.naver.com/article/052/0002352288?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "\"삼성전자 5% 급락? 단톡방 난리\"…코스피 요동쳐도 꿋꿋한 '소심개미'들이 간 곳은 [개미의 세계]",
+          "link": "https://n.news.naver.com/article/014/0005520640?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "[속보] 김민석 총리 “삼성전자, 어떤 경우에도 파업하지 않게 노사대화 지원”",
+          "link": "https://n.news.naver.com/article/009/0005679240?ntype=RANKING",
+          "press": "매일경제"
+        }
+      ],
+      "related_titles": [
+        "김민석 총리 \"삼성전자, 어떠한 경우에도 파업으로 이어지지 않도록\"",
+        "[인터뷰] 삼성전자 파업이 두려운 사람들…美 업계 “한국이 핵심”",
+        "코스피 이틀 연속 내림세...삼성전자 4%대 하락",
+        "\"삼성전자 5% 급락? 단톡방 난리\"…코스피 요동쳐도 꿋꿋한 '소심개미'들이 간 곳은 [개미의 세계]",
+        "[속보] 김민석 총리 “삼성전자, 어떤 경우에도 파업하지 않게 노사대화 지원”"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 2,
+      "keyword": "초등생",
+      "count": 24,
+      "representative_title": "주왕산 실종 초등생, 사흘만에 숨진 채 발견",
+      "representative_link": "https://n.news.naver.com/article/094/0000013517?ntype=RANKING",
+      "press": "월간 산",
+      "related_articles": [
+        {
+          "title": "주왕산 사망 초등생 1차 검시 결과 나왔다…“추락에 의한 손상”",
+          "link": "https://n.news.naver.com/article/016/0002642552?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "[속보]“추락에 의한 손상”…주왕산 실종 초등생 검시 결과 1차 소견",
+          "link": "https://n.news.naver.com/article/021/0002790857?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "주왕산 실종 초등생 1차 검시 결과 “추락에 의한 손상”",
+          "link": "https://n.news.naver.com/article/081/0003643291?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "청송 주왕산 사망 초등생 '추락에 의한 손상'…부검 검토",
+          "link": "https://n.news.naver.com/article/421/0008941374?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "“주왕산 사망 초등생, 추락에 의한 손상”…경찰 1차 소견, 빈소는 대구",
+          "link": "https://n.news.naver.com/article/028/0002804824?ntype=RANKING",
+          "press": "한겨레"
+        }
+      ],
+      "related_titles": [
+        "주왕산 사망 초등생 1차 검시 결과 나왔다…“추락에 의한 손상”",
+        "[속보]“추락에 의한 손상”…주왕산 실종 초등생 검시 결과 1차 소견",
+        "주왕산 실종 초등생 1차 검시 결과 “추락에 의한 손상”",
+        "청송 주왕산 사망 초등생 '추락에 의한 손상'…부검 검토",
+        "“주왕산 사망 초등생, 추락에 의한 손상”…경찰 1차 소견, 빈소는 대구"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 3,
+      "keyword": "노사",
+      "count": 15,
+      "representative_title": "“반도체 언제까지 가나 싶었는데”…노사 협상 불발에 ‘삼전닉스’ 동반 하락",
+      "representative_link": "https://n.news.naver.com/article/009/0005679193?ntype=RANKING",
+      "press": "매일경제",
+      "related_articles": [
+        {
+          "title": "“반도체 언제까지 가나 싶었는데”…노사 협상 불발에 ‘삼전닉스’ 동반 하락",
+          "link": "https://n.news.naver.com/article/009/0005679193?ntype=RANKING",
+          "press": "매일경제"
+        }
+      ],
+      "related_titles": [
+        "“반도체 언제까지 가나 싶었는데”…노사 협상 불발에 ‘삼전닉스’ 동반 하락"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 4,
+      "keyword": "노조",
+      "count": 15,
+      "representative_title": "조정안 끝내 거부한 삼성 노조, '40조 증발' 총파업 카운트다운",
+      "representative_link": "https://n.news.naver.com/article/119/0003089800?ntype=RANKING",
+      "press": "데일리안",
+      "related_articles": [
+        {
+          "title": "“노조 안돼” 외쳤던 삼성 이병철…글로벌 반도체는 ‘무노조 경영’ 왜",
+          "link": "https://n.news.naver.com/article/025/0003522869?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "[속보] 노동장관 “파업하고 말고는 노조 선택…정부 ‘대화’ 최대한 조율”",
+          "link": "https://n.news.naver.com/article/029/0003026375?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "조정안 끝내 거부한 삼성 노조, '40조 증발' 총파업 카운트다운",
+          "link": "https://n.news.naver.com/article/119/0003089800?ntype=RANKING",
+          "press": "데일리안"
+        }
+      ],
+      "related_titles": [
+        "“노조 안돼” 외쳤던 삼성 이병철…글로벌 반도체는 ‘무노조 경영’ 왜",
+        "[속보] 노동장관 “파업하고 말고는 노조 선택…정부 ‘대화’ 최대한 조율”",
+        "조정안 끝내 거부한 삼성 노조, '40조 증발' 총파업 카운트다운"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 5,
+      "keyword": "코스피",
+      "count": 14,
+      "representative_title": "코스피, 장중 상승전환…1%대 올라 7,700선 회복",
+      "representative_link": "https://n.news.naver.com/article/374/0000509797?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "‘팔천피’ 바라봤는데…미국발 반도체 충격에 코스피 7500선 아래로 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002642618?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "[속보]‘국민배당금·노조리스크’ 삼전, 장초반 5%대 하락…코스피 7500선도 붕괴",
+          "link": "https://n.news.naver.com/article/021/0002790885?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "\"'단군이래 최고' 코스피 환상 빠진 민주당 성장론, 녹색당은 반대한다\"",
+          "link": "https://n.news.naver.com/article/002/0002441073?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "외인, 9분간 1조 팔아 치웠다…개장부터 시퍼렇게 멍든 코스피",
+          "link": "https://n.news.naver.com/article/008/0005356808?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "코스피, 장중 상승전환…1%대 올라 7,700선 회복",
+          "link": "https://n.news.naver.com/article/374/0000509797?ntype=RANKING",
+          "press": "SBS Biz"
+        }
+      ],
+      "related_titles": [
+        "‘팔천피’ 바라봤는데…미국발 반도체 충격에 코스피 7500선 아래로 [투자360]",
+        "[속보]‘국민배당금·노조리스크’ 삼전, 장초반 5%대 하락…코스피 7500선도 붕괴",
+        "\"'단군이래 최고' 코스피 환상 빠진 민주당 성장론, 녹색당은 반대한다\"",
+        "외인, 9분간 1조 팔아 치웠다…개장부터 시퍼렇게 멍든 코스피",
+        "코스피, 장중 상승전환…1%대 올라 7,700선 회복"
+      ],
+      "category": "경제/투자"
+    }
+  ]
+}
