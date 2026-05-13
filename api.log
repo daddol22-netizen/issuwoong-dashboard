@@ -7,3 +7,40 @@
  * Running on http://192.168.45.157:8888
 [33mPress CTRL+C to quit[0m
 127.0.0.1 - - [13/May/2026 11:49:13] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:05:17] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:05:56] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:09:28] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:09:30] "OPTIONS /api/generate-script HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:10:10] "OPTIONS /api/generate-script HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:11:07] "POST /api/generate-script HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:11:37] "POST /api/generate-script HTTP/1.1" 200 -
+🚀 대본 생성 API 서버 시작: http://localhost:8888
+ * Serving Flask app 'script_api'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://192.168.45.157:8888
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [13/May/2026 14:15:02] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:35:48] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:35:51] "OPTIONS /api/generate-script HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:35:58] "OPTIONS /api/generate-script HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:37:23] "POST /api/generate-script HTTP/1.1" 200 -
+🚀 대본 생성 API 서버 시작: http://localhost:8888
+ * Serving Flask app 'script_api'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://192.168.45.157:8888
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [13/May/2026 14:37:39] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:37:49] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:37:51] "OPTIONS /api/generate-script HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:38:52] "GET /api/health HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:40:01] "POST /api/generate-script HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:40:20] "POST /api/generate-script HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:43:45] "OPTIONS /api/generate-script HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:44:35] "OPTIONS /api/generate-script HTTP/1.1" 200 -
+127.0.0.1 - - [13/May/2026 14:45:33] "POST /api/generate-script HTTP/1.1" 200 -

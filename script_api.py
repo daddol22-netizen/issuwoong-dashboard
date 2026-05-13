@@ -29,7 +29,16 @@ def _build_script_prompt(topic: str, headlines: list[str]) -> str:
 - 씬2(이탈방지): 2~3분 지점에 핵심 수치/데이터 배치
 - 구어체: 말하듯이 (글 형식 금지)
 - 각 씬 끝에 다음 씬 궁금증 유발
-- 목표 분량: 4,000자 이상 (10분 이상 영상)
+- 목표 분량: 순수 내레이션(말하는 부분)만 공백 제외 최소 6,000자 이상 (15분+ 영상 기준)
+- 씬을 최소 6개 이상 구성하고 각 씬마다 충분한 분량 확보
+- 분량이 부족하면 수치/사례/반론/전문가 의견 등으로 내용 보강 (늘리기 위한 반복 금지)
+
+【저작권 원칙 — 반드시 준수】
+- 뉴스 기사에서 가져올 수 있는 것: 사실, 수치, 데이터, 사건의 흐름
+- 절대 가져오면 안 되는 것: 기사의 문장 표현, 단어 선택, 특정 비유나 어구
+- 기사 문장을 그대로 쓰거나 살짝 바꾸는 것 금지
+- 같은 사실을 다루더라도 문장은 완전히 새로 써야 함
+- 판단 기준: "이 문장이 뉴스 기사 없이도 나올 수 있는가?" → NO면 다시 쓸 것
 
 【고정 인트로 — 그대로 사용】
 "몰라도 사는 데 지장 없지만, 알면 세상이 달라 보이는 이야기. 이슈웅입니다."
@@ -70,7 +79,7 @@ def generate_script():
         client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
         response = client.messages.create(
             model=MODEL,
-            max_tokens=8000,
+            max_tokens=12000,
             messages=[{"role": "user", "content": _build_script_prompt(topic, headlines)}],
             system=[{
                 "type": "text",

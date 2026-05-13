@@ -414,9 +414,11 @@ async function init() {
     const res = await fetch(`data/index.json?t=${Date.now()}`);
     const dates = await res.json();
     const nav = document.getElementById('date-nav');
-    nav.innerHTML = dates.map(d =>
-      `<div class="date-tab" data-date="${d}" onclick="loadDate('${d}')">${d === dates[0] ? d + ' (오늘)' : d}</div>`
-    ).join('');
+    nav.innerHTML = dates.map((d, i) => {
+      const [date, hour] = d.split('_');
+      const label = hour ? `${date.slice(5)} ${hour}시` : date.slice(5);
+      return `<div class="date-tab" data-date="${d}" onclick="loadDate('${d}')">${i === 0 ? label + ' 🔴' : label}</div>`;
+    }).join('');
     if (dates.length) loadDate(dates[0]);
   } catch {
     try {

@@ -2,7 +2,10 @@ name: Daily News Crawl
 
 on:
   schedule:
-    - cron: '0 22 * * *'   # 매일 오후 10시 UTC = 한국 오전 7시 KST
+    - cron: '0 22 * * *'   # 한국 오전  7시 KST (UTC 22:00 전날)
+    - cron: '0  1 * * *'   # 한국 오전 10시 KST (UTC 01:00)
+    - cron: '0  4 * * *'   # 한국 오후  1시 KST (UTC 04:00)
+    - cron: '0  7 * * *'   # 한국 오후  4시 KST (UTC 07:00)
   workflow_dispatch:         # 수동 실행 버튼
 
 jobs:

@@ -142,8 +142,12 @@ def categorize(keyword: str, titles: list[str]) -> str:
 
 
 def main():
-    today = datetime.now().strftime("%Y-%m-%d")
-    print(f"[{datetime.now().strftime('%H:%M:%S')}] 크롤링 시작: {today}")
+    now = datetime.now()
+    today = now.strftime("%Y-%m-%d")
+    hour = now.strftime("%H")
+    slot_key = f"{today}_{hour}"   # e.g. 2026-05-13_07
+
+    print(f"[{now.strftime('%H:%M:%S')}] 크롤링 시작: {slot_key}")
 
     url = "https://news.naver.com/main/ranking/popularDay.naver?mid=etc&sid1=111"
     html = fetch_html(url)
@@ -153,20 +157,21 @@ def main():
 
     topics = cluster_topics(articles, top_n=5)
 
-    # 카테고리 추가
     for t in topics:
         t['category'] = categorize(t['keyword'], t['related_titles'])
 
     result = {
         "date": today,
-        "crawled_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "hour": hour,
+        "slot": slot_key,
+        "crawled_at": now.strftime("%Y-%m-%d %H:%M:%S"),
         "total_articles": len(articles),
         "topics": topics,
     }
 
-    # 날짜별 파일 저장
-    daily_path = DATA_DIR / f"{today}.json"
-    with open(daily_path, "w", encoding="utf-8") as f:
+    # 시간대별 파일 저장 (e.g. 2026-05-13_07.json)
+    slot_path = DATA_DIR / f"{slot_key}.json"
+    with open(slot_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
     # latest.json 업데이트
@@ -174,17 +179,17 @@ def main():
     with open(latest_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    # index.json (전체 날짜 목록) 업데이트
+    # index.json 업데이트 (slot_key 목록, 최신순)
     index_path = DATA_DIR / "index.json"
     existing = []
     if index_path.exists():
         with open(index_path, encoding="utf-8") as f:
             existing = json.load(f)
-    dates = sorted(set(existing + [today]), reverse=True)
+    slots = sorted(set(existing + [slot_key]), reverse=True)
     with open(index_path, "w", encoding="utf-8") as f:
-        json.dump(dates, f, ensure_ascii=False)
+        json.dump(slots, f, ensure_ascii=False)
 
-    print(f"  → 저장 완료: {daily_path}")
+    print(f"  → 저장 완료: {slot_path}")
     print()
     print("=== 오늘의 핫토픽 TOP 5 ===")
     for t in topics:
