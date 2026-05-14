@@ -268,7 +268,7 @@ function renderTopics(data, section) {
       ? t.related_articles.filter(a => a.title !== t.representative_title)
       : (t.related_titles || []).filter(x => x !== t.representative_title).map(x => ({title:x,link:'',press:''}));
 
-    const scriptId = `script-${t.rank}`;
+    const scriptId = `script-${section}-${t.rank}`;
 
     return `
     <div class="topic-card">
