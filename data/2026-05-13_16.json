@@ -1,0 +1,200 @@
+{
+  "date": "2026-05-13",
+  "hour": "16",
+  "slot": "2026-05-13_16",
+  "crawled_at": "2026-05-13 16:00:06",
+  "total_articles": 402,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "삼성전자",
+      "count": 30,
+      "representative_title": "삼성전자 파업 어디로…남은 변수 총정리",
+      "representative_link": "https://n.news.naver.com/article/056/0012180054?ntype=RANKING",
+      "press": "KBS",
+      "related_articles": [
+        {
+          "title": "삼성전자 파업 어디로…남은 변수 총정리",
+          "link": "https://n.news.naver.com/article/056/0012180054?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "김민석 총리 \"삼성전자, 어떠한 경우에도 파업으로 이어지지 않도록\"",
+          "link": "https://n.news.naver.com/article/214/0001498610?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "\"왜 하이닉스와 비교해요?\"…삼성전자 노조 기자 앞 서더니 [현장영상]",
+          "link": "https://n.news.naver.com/article/437/0000491187?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "판 깨진 삼성전자 노사 협상...막판 대화 '실낱 희망'",
+          "link": "https://n.news.naver.com/article/052/0002352399?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "[속보] 삼성전자 노사, 오후 8시20분 성과급 협상 결론…입장차 못 좁혀",
+          "link": "https://n.news.naver.com/article/029/0003026288?ntype=RANKING",
+          "press": "디지털타임스"
+        }
+      ],
+      "related_titles": [
+        "삼성전자 파업 어디로…남은 변수 총정리",
+        "김민석 총리 \"삼성전자, 어떠한 경우에도 파업으로 이어지지 않도록\"",
+        "\"왜 하이닉스와 비교해요?\"…삼성전자 노조 기자 앞 서더니 [현장영상]",
+        "판 깨진 삼성전자 노사 협상...막판 대화 '실낱 희망'",
+        "[속보] 삼성전자 노사, 오후 8시20분 성과급 협상 결론…입장차 못 좁혀"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 2,
+      "keyword": "대통령",
+      "count": 26,
+      "representative_title": "이 대통령 \"보도에 진심으로 감사드립니다\"",
+      "representative_link": "https://n.news.naver.com/article/006/0000135699?ntype=RANKING",
+      "press": "미디어오늘",
+      "related_articles": [
+        {
+          "title": "李대통령 “국민배당금은 초과세수 환원…기업 이윤 배당은 가짜뉴스”",
+          "link": "https://n.news.naver.com/article/666/0000106829?ntype=RANKING",
+          "press": "경기일보"
+        },
+        {
+          "title": "이 대통령 “‘초과이윤 국민배당’ 음해성 가짜뉴스…비판 사실 기반해야”",
+          "link": "https://n.news.naver.com/article/056/0012180116?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "이 대통령 \"김용범 국민배당, 초과세수…초과이윤 주장은 가짜뉴스\"",
+          "link": "https://n.news.naver.com/article/437/0000491189?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "직접 나선 이 대통령 “AI 초과 ‘세수’ 국민배당 검토…‘이윤’ 아닌데 음해”",
+          "link": "https://n.news.naver.com/article/028/0002804871?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "이 대통령 \"김용범 말은 '초과세수' 배당…초과이윤 주장 가짜뉴스\"",
+          "link": "https://n.news.naver.com/article/057/0001948868?ntype=RANKING",
+          "press": "MBN"
+        }
+      ],
+      "related_titles": [
+        "李대통령 “국민배당금은 초과세수 환원…기업 이윤 배당은 가짜뉴스”",
+        "이 대통령 “‘초과이윤 국민배당’ 음해성 가짜뉴스…비판 사실 기반해야”",
+        "이 대통령 \"김용범 국민배당, 초과세수…초과이윤 주장은 가짜뉴스\"",
+        "직접 나선 이 대통령 “AI 초과 ‘세수’ 국민배당 검토…‘이윤’ 아닌데 음해”",
+        "이 대통령 \"김용범 말은 '초과세수' 배당…초과이윤 주장 가짜뉴스\""
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 3,
+      "keyword": "가짜뉴스",
+      "count": 21,
+      "representative_title": "李 “김용범, 국민배당 초과세수 말한 것…초과이윤은 가짜뉴스”",
+      "representative_link": "https://n.news.naver.com/article/024/0000105522?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "李 “김용범 말은 ‘초과세수’ 국민배당…‘초과이윤’은 음해성 가짜뉴스”",
+          "link": "https://n.news.naver.com/article/020/0003719258?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "李 \"김용범, '초과세수'로 국민배당…'기업 초과이윤'은 가짜뉴스\"",
+          "link": "https://n.news.naver.com/article/031/0001028298?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "李 “김용범, 국민배당 초과세수 말한 것…초과이윤은 가짜뉴스”",
+          "link": "https://n.news.naver.com/article/024/0000105522?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "이대통령, 김용범 '국민배당금' 논란에 \"기업 이윤 배당 아냐…가짜뉴스\"",
+          "link": "https://n.news.naver.com/article/053/0000058266?ntype=RANKING",
+          "press": "주간조선"
+        },
+        {
+          "title": "장동혁 \"이재명 마음에 안 들면 다 가짜뉴스.. 나는 안 지운다\"",
+          "link": "https://n.news.naver.com/article/661/0000076199?ntype=RANKING",
+          "press": "JIBS"
+        }
+      ],
+      "related_titles": [
+        "李 “김용범 말은 ‘초과세수’ 국민배당…‘초과이윤’은 음해성 가짜뉴스”",
+        "李 \"김용범, '초과세수'로 국민배당…'기업 초과이윤'은 가짜뉴스\"",
+        "李 “김용범, 국민배당 초과세수 말한 것…초과이윤은 가짜뉴스”",
+        "이대통령, 김용범 '국민배당금' 논란에 \"기업 이윤 배당 아냐…가짜뉴스\"",
+        "장동혁 \"이재명 마음에 안 들면 다 가짜뉴스.. 나는 안 지운다\""
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 4,
+      "keyword": "노조",
+      "count": 19,
+      "representative_title": "코바코·시청자재단 통합, 과방위 통과… 노조, 고용승계 환영",
+      "representative_link": "https://n.news.naver.com/article/127/0000039239?ntype=RANKING",
+      "press": "기자협회보",
+      "related_articles": [
+        {
+          "title": "\"더는 협상 없다\" 삼성 노조 강경 선언…법원, 가처분 심문 종료",
+          "link": "https://n.news.naver.com/article/079/0004146440?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "삼전 노조 \"사측과 대화 없다\"... '위법 쟁의 금지' 가처분에 쏠린 눈",
+          "link": "https://n.news.naver.com/article/469/0000930474?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "파국 향해가는 ‘성과급 갈등’… 삼전 노조 “회사와 대화 없다”",
+          "link": "https://n.news.naver.com/article/023/0003976196?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "HD현대중공업 노조, ‘영업이익 30%’ 성과급 요구…교섭 준비 본격화",
+          "link": "https://n.news.naver.com/article/005/0001848705?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "“노조 안돼” 외쳤던 삼성 이병철…글로벌 반도체는 ‘무노조 경영’ 왜",
+          "link": "https://n.news.naver.com/article/025/0003522869?ntype=RANKING",
+          "press": "중앙일보"
+        }
+      ],
+      "related_titles": [
+        "\"더는 협상 없다\" 삼성 노조 강경 선언…법원, 가처분 심문 종료",
+        "삼전 노조 \"사측과 대화 없다\"... '위법 쟁의 금지' 가처분에 쏠린 눈",
+        "파국 향해가는 ‘성과급 갈등’… 삼전 노조 “회사와 대화 없다”",
+        "HD현대중공업 노조, ‘영업이익 30%’ 성과급 요구…교섭 준비 본격화",
+        "“노조 안돼” 외쳤던 삼성 이병철…글로벌 반도체는 ‘무노조 경영’ 왜"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 5,
+      "keyword": "김용범",
+      "count": 19,
+      "representative_title": "8000 앞 고꾸라진 코스피… “국민 배당금” 김용범 탓일까, 아닐까",
+      "representative_link": "https://n.news.naver.com/article/005/0001848639?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "8000 앞 고꾸라진 코스피… “국민 배당금” 김용범 탓일까, 아닐까",
+          "link": "https://n.news.naver.com/article/005/0001848639?ntype=RANKING",
+          "press": "국민일보"
+        }
+      ],
+      "related_titles": [
+        "8000 앞 고꾸라진 코스피… “국민 배당금” 김용범 탓일까, 아닐까"
+      ],
+      "category": "경제/투자"
+    }
+  ]
+}

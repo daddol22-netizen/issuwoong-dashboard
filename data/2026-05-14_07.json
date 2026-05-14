@@ -1,0 +1,200 @@
+{
+  "date": "2026-05-14",
+  "hour": "07",
+  "slot": "2026-05-14_07",
+  "crawled_at": "2026-05-14 07:00:06",
+  "total_articles": 406,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "여성",
+      "count": 15,
+      "representative_title": "북한산 올라간 50대 여성 27일째 실종…경찰 수색중",
+      "representative_link": "https://n.news.naver.com/article/666/0000106910?ntype=RANKING",
+      "press": "경기일보",
+      "related_articles": [
+        {
+          "title": "\"북한산서 실종된 50대 여성 찾습니다…파마 단발에 보통체격\"",
+          "link": "https://n.news.naver.com/article/015/0005286686?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "북한산 오른 50대 여성 한 달째 행방 묘연…경찰·소방 수색 계속",
+          "link": "https://n.news.naver.com/article/087/0001192959?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "북한산 오르던 50대 여성 27일째 실종....경찰 \"수색 중\"",
+          "link": "https://n.news.naver.com/article/469/0000930612?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "북한산 오른 뒤 사라진 50대 여성…경찰, 27일째 수색",
+          "link": "https://n.news.naver.com/article/003/0013943236?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "불법 촬영 들키자 폭행·협박…피해 여성 \"보복 두려워 고소 취하 후회\"",
+          "link": "https://n.news.naver.com/article/003/0013943382?ntype=RANKING",
+          "press": "뉴시스"
+        }
+      ],
+      "related_titles": [
+        "\"북한산서 실종된 50대 여성 찾습니다…파마 단발에 보통체격\"",
+        "북한산 오른 50대 여성 한 달째 행방 묘연…경찰·소방 수색 계속",
+        "북한산 오르던 50대 여성 27일째 실종....경찰 \"수색 중\"",
+        "북한산 오른 뒤 사라진 50대 여성…경찰, 27일째 수색",
+        "불법 촬영 들키자 폭행·협박…피해 여성 \"보복 두려워 고소 취하 후회\""
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 2,
+      "keyword": "일째",
+      "count": 15,
+      "representative_title": "\"아내가 사라졌어요\"…50대女 27일째 행방 묘연",
+      "representative_link": "https://n.news.naver.com/article/215/0001252044?ntype=RANKING",
+      "press": "한국경제TV",
+      "related_articles": [
+        {
+          "title": "“아내가 실종됐어요”…50대女, 북한산 입산 후 27일째 행방 묘연",
+          "link": "https://n.news.naver.com/article/025/0003523064?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "“북한산서 실종된 50대女 찾습니다”…27일째 행방 묘연",
+          "link": "https://n.news.naver.com/article/011/0004620533?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "\"아내가 사라졌어요\"…50대女 27일째 행방 묘연",
+          "link": "https://n.news.naver.com/article/215/0001252044?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "27일째 행방 묘연…“북한산서 실종된 50대 아내 찾아 주세요”",
+          "link": "https://n.news.naver.com/article/009/0005679648?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "“폰 두고 나갔는데”…북한산 오른 뒤 실종된 50대女, 27일째 수색 중",
+          "link": "https://n.news.naver.com/article/081/0003643539?ntype=RANKING",
+          "press": "서울신문"
+        }
+      ],
+      "related_titles": [
+        "“아내가 실종됐어요”…50대女, 북한산 입산 후 27일째 행방 묘연",
+        "“북한산서 실종된 50대女 찾습니다”…27일째 행방 묘연",
+        "\"아내가 사라졌어요\"…50대女 27일째 행방 묘연",
+        "27일째 행방 묘연…“북한산서 실종된 50대 아내 찾아 주세요”",
+        "“폰 두고 나갔는데”…북한산 오른 뒤 실종된 50대女, 27일째 수색 중"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 3,
+      "keyword": "북한산",
+      "count": 14,
+      "representative_title": "\"아내 실종\" 다급한 신고...폰도 카드도 두고 북한산 오른 50대 행방 묘연",
+      "representative_link": "https://n.news.naver.com/article/008/0005357321?ntype=RANKING",
+      "press": "머니투데이",
+      "related_articles": [
+        {
+          "title": "\"아내 실종\" 다급한 신고...폰도 카드도 두고 북한산 오른 50대 행방 묘연",
+          "link": "https://n.news.naver.com/article/008/0005357321?ntype=RANKING",
+          "press": "머니투데이"
+        }
+      ],
+      "related_titles": [
+        "\"아내 실종\" 다급한 신고...폰도 카드도 두고 북한산 오른 50대 행방 묘연"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성전자",
+      "count": 14,
+      "representative_title": "성과급에 발목잡힌 삼성전자…반도체 슈퍼사이클에도 찬물",
+      "representative_link": "https://n.news.naver.com/article/374/0000509717?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "'협상 결렬' 삼성전자 노조 결국 총파업 수순…21년 만에 긴급조정권 발동될까",
+          "link": "https://n.news.naver.com/article/057/0001948947?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "\"빅테크들 대만업체로 갈아탈 것\"...삼성전자, 노조 리스크에 '발목'",
+          "link": "https://n.news.naver.com/article/014/0005521091?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "삼성전자 노조위원장 \"중노위, '조합원 투표' 헛소리\"…중대국면 속 잇단 과격 발언 논란",
+          "link": "https://n.news.naver.com/article/003/0013943087?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "하루만 멈춰도 웨이퍼 2.2만장 버려야…1분마다 수십억 증발[삼성전자 파국 초읽기]",
+          "link": "https://n.news.naver.com/article/011/0004620483?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "8% 오르내리며 롤러코스터 탄 삼성전자 주가…노사 협상 결렬 여파? 외인·개인 줄다리기 탓?",
+          "link": "https://n.news.naver.com/article/032/0003445540?ntype=RANKING",
+          "press": "경향신문"
+        }
+      ],
+      "related_titles": [
+        "'협상 결렬' 삼성전자 노조 결국 총파업 수순…21년 만에 긴급조정권 발동될까",
+        "\"빅테크들 대만업체로 갈아탈 것\"...삼성전자, 노조 리스크에 '발목'",
+        "삼성전자 노조위원장 \"중노위, '조합원 투표' 헛소리\"…중대국면 속 잇단 과격 발언 논란",
+        "하루만 멈춰도 웨이퍼 2.2만장 버려야…1분마다 수십억 증발[삼성전자 파국 초읽기]",
+        "8% 오르내리며 롤러코스터 탄 삼성전자 주가…노사 협상 결렬 여파? 외인·개인 줄다리기 탓?"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 5,
+      "keyword": "트럼프",
+      "count": 12,
+      "representative_title": "젠슨 황, 트럼프 요청으로 방중 수행단 막판 합류",
+      "representative_link": "https://n.news.naver.com/article/293/0000084577?ntype=RANKING",
+      "press": "블로터",
+      "related_articles": [
+        {
+          "title": "위성락 \"트럼프, 나무호 '이란 공격' 정확한 정보인지 의문\"",
+          "link": "https://n.news.naver.com/article/057/0001948918?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "트럼프 맞으러 왜 한정이 나왔나…중국 의전에 숨은 메시지",
+          "link": "https://n.news.naver.com/article/014/0005521235?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "[속보] 대만, 트럼프 방중 직전 ‘對中 무력시위’…최전방서 美미사일로 실사격 훈련",
+          "link": "https://n.news.naver.com/article/029/0003026524?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "중국 가던 트럼프, 알래스카서 젠슨 황 태우자‥반도체 뛰고 '200만 닉스' 눈앞",
+          "link": "https://n.news.naver.com/article/214/0001498752?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "베이징行 에어포스원, 트럼프 '한마디'에 비행 멈춰…무슨 일",
+          "link": "https://n.news.naver.com/article/088/0001009866?ntype=RANKING",
+          "press": "매일신문"
+        }
+      ],
+      "related_titles": [
+        "위성락 \"트럼프, 나무호 '이란 공격' 정확한 정보인지 의문\"",
+        "트럼프 맞으러 왜 한정이 나왔나…중국 의전에 숨은 메시지",
+        "[속보] 대만, 트럼프 방중 직전 ‘對中 무력시위’…최전방서 美미사일로 실사격 훈련",
+        "중국 가던 트럼프, 알래스카서 젠슨 황 태우자‥반도체 뛰고 '200만 닉스' 눈앞",
+        "베이징行 에어포스원, 트럼프 '한마디'에 비행 멈춰…무슨 일"
+      ],
+      "category": "산업/테크"
+    }
+  ]
+}
