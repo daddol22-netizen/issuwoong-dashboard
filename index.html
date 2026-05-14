@@ -126,6 +126,12 @@
     .state-msg p { font-size: 0.88rem; line-height: 1.6; }
     .state-msg code { background: var(--surface2); padding: 2px 7px; border-radius: 4px; font-size: 0.82rem; }
 
+    /* 섹션 탭 */
+    .sec-tab { padding: 9px 20px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface); color: var(--muted); font-size: 0.85rem; font-weight: 600; cursor: pointer; transition: all .2s; }
+    .sec-tab:hover { color: var(--text); border-color: var(--accent); }
+    .sec-tab.active { background: rgba(108,99,255,.15); color: var(--accent); border-color: var(--accent); }
+    .sec-tab#tab-stock.active { background: rgba(52,211,153,.12); color: #34d399; border-color: rgba(52,211,153,.3); }
+
     footer { text-align: center; padding: 20px; color: var(--muted); font-size: 0.75rem; border-top: 1px solid var(--border); margin-top: 32px; }
 
     @media (max-width: 600px) {
@@ -160,7 +166,13 @@
     <div class="stat"><div class="n" id="stat-date">-</div><div class="l">기준 날짜</div></div>
   </div>
 
-  <div class="sec-title">오늘의 핫토픽 TOP 5</div>
+  <!-- 섹션 탭 -->
+  <div style="display:flex;gap:8px;margin-bottom:20px;">
+    <button class="sec-tab active" id="tab-general" onclick="switchSection('general')">🔥 전체 핫토픽</button>
+    <button class="sec-tab" id="tab-stock" onclick="switchSection('stock')">📈 주식/코인</button>
+  </div>
+
+  <div class="sec-title" id="sec-title">전체 핫토픽 TOP 5</div>
   <div id="topics-container">
     <div class="state-msg"><div class="icon">⏳</div><p>불러오는 중...</p></div>
   </div>
@@ -175,6 +187,17 @@
 <script>
 const API = 'http://localhost:8888';
 let apiAvailable = false;
+let currentData = null;
+let currentSection = 'general'; // 'general' | 'stock'
+
+function switchSection(section) {
+  currentSection = section;
+  document.getElementById('tab-general').classList.toggle('active', section === 'general');
+  document.getElementById('tab-stock').classList.toggle('active', section === 'stock');
+  document.getElementById('sec-title').textContent =
+    section === 'stock' ? '주식/코인 TOP 5' : '전체 핫토픽 TOP 5';
+  if (currentData) renderTopics(currentData, section);
+}
 
 const HINTS = {
   '경제/투자': '개인 투자자 공감 스토리 → "나도 이 주식 샀는데..." 포맷',
@@ -216,18 +239,24 @@ function renderRelated(articles) {
   }).join('');
 }
 
-function renderTopics(data) {
+function renderTopics(data, section) {
+  section = section || currentSection;
+  currentData = data;
   document.getElementById('crawled-at').textContent = data.crawled_at || '-';
   document.getElementById('stat-total').textContent = (data.total_articles||0).toLocaleString();
   document.getElementById('stat-date').textContent = data.date || '-';
 
+  const topics = section === 'stock' ? (data.stock_topics || []) : (data.topics || []);
   const c = document.getElementById('topics-container');
-  if (!data.topics?.length) {
-    c.innerHTML = `<div class="state-msg"><div class="icon">📭</div><p>토픽 데이터가 없습니다.</p></div>`;
+
+  if (!topics.length) {
+    const msg = section === 'stock'
+      ? '주식/코인 관련 기사가 없습니다.' : '토픽 데이터가 없습니다.';
+    c.innerHTML = `<div class="state-msg"><div class="icon">📭</div><p>${msg}</p></div>`;
     return;
   }
 
-  c.innerHTML = data.topics.map(t => {
+  c.innerHTML = topics.map(t => {
     const rc = t.rank <= 3 ? `r${t.rank}` : 'rn';
     const hint = HINTS[t.category] || '';
     const repLink = t.representative_link
@@ -401,7 +430,7 @@ async function loadDate(date) {
   try {
     const res = await fetch(`data/${date}.json?t=${Date.now()}`);
     if (!res.ok) throw new Error();
-    renderTopics(await res.json());
+    renderTopics(await res.json(), currentSection);
   } catch {
     document.getElementById('topics-container').innerHTML =
       `<div class="state-msg"><div class="icon">📭</div><p>${date} 데이터가 없습니다.</p></div>`;

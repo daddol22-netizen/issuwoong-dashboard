@@ -141,24 +141,73 @@ def categorize(keyword: str, titles: list[str]) -> str:
     return "사회/일반"
 
 
+STOCK_KEYWORDS = {
+    '주식', '코스피', '코스닥', '증권', '코인', '비트코인', '이더리움', '가상자산', '암호화폐',
+    '투자', '펀드', 'ETF', 'ETF', '상장', '종목', '주가', '배당', '공모', '채권', '금리',
+    '환율', '달러', '원화', '나스닥', 'S&P', '다우', '선물', '옵션', '매수', '매도',
+    '급등', '급락', '반등', '조정', '강세', '약세', '시총', '외인', '기관', '개인투자',
+    '하이닉스', '삼성전자', '카카오', '네이버', '엔비디아', '테슬라', '애플',
+}
+
+def is_stock_article(title: str) -> bool:
+    words = re.findall(r'[가-힣A-Za-z&]+', title)
+    return any(w in STOCK_KEYWORDS for w in words)
+
+
+def crawl_stock_topics() -> list[dict]:
+    """네이버 증권(102) + 경제(101) 랭킹에서 주식/코인 토픽 추출"""
+    all_articles = []
+    for sid in ['102', '101']:
+        try:
+            url = f"https://news.naver.com/main/ranking/popularDay.naver?mid=etc&sid1={sid}"
+            html = fetch_html(url)
+            articles = extract_titles(html)
+            # 주식/코인 관련 기사만 필터
+            filtered = [a for a in articles if is_stock_article(a['title'])]
+            all_articles.extend(filtered)
+        except Exception as e:
+            print(f"  ⚠ sid1={sid} 크롤링 실패: {e}")
+
+    # 전체 랭킹에서도 주식/코인 기사 보완
+    try:
+        url = "https://news.naver.com/main/ranking/popularDay.naver?mid=etc&sid1=111"
+        html = fetch_html(url)
+        articles = extract_titles(html)
+        filtered = [a for a in articles if is_stock_article(a['title'])]
+        all_articles.extend(filtered)
+    except Exception as e:
+        print(f"  ⚠ 전체 랭킹 주식 보완 실패: {e}")
+
+    if not all_articles:
+        return []
+
+    print(f"  → 주식/코인 관련 기사 {len(all_articles)}개 수집")
+    topics = cluster_topics(all_articles, top_n=5)
+    for t in topics:
+        t['category'] = '주식/코인'
+    return topics
+
+
 def main():
     now = datetime.now()
     today = now.strftime("%Y-%m-%d")
     hour = now.strftime("%H")
-    slot_key = f"{today}_{hour}"   # e.g. 2026-05-13_07
+    slot_key = f"{today}_{hour}"
 
     print(f"[{now.strftime('%H:%M:%S')}] 크롤링 시작: {slot_key}")
 
+    # ── 전체 핫토픽 ──
     url = "https://news.naver.com/main/ranking/popularDay.naver?mid=etc&sid1=111"
     html = fetch_html(url)
-
     articles = extract_titles(html)
-    print(f"  → 총 {len(articles)}개 기사 수집")
+    print(f"  → 전체 기사 {len(articles)}개 수집")
 
     topics = cluster_topics(articles, top_n=5)
-
     for t in topics:
         t['category'] = categorize(t['keyword'], t['related_titles'])
+
+    # ── 주식/코인 토픽 ──
+    stock_topics = crawl_stock_topics()
 
     result = {
         "date": today,
@@ -167,19 +216,17 @@ def main():
         "crawled_at": now.strftime("%Y-%m-%d %H:%M:%S"),
         "total_articles": len(articles),
         "topics": topics,
+        "stock_topics": stock_topics,
     }
 
-    # 시간대별 파일 저장 (e.g. 2026-05-13_07.json)
     slot_path = DATA_DIR / f"{slot_key}.json"
     with open(slot_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    # latest.json 업데이트
     latest_path = DATA_DIR / "latest.json"
     with open(latest_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    # index.json 업데이트 (slot_key 목록, 최신순)
     index_path = DATA_DIR / "index.json"
     existing = []
     if index_path.exists():
@@ -191,9 +238,14 @@ def main():
 
     print(f"  → 저장 완료: {slot_path}")
     print()
-    print("=== 오늘의 핫토픽 TOP 5 ===")
+    print("=== 전체 핫토픽 TOP 5 ===")
     for t in topics:
         print(f"{t['rank']}위 [{t['category']}] #{t['keyword']} ({t['count']}건)")
+        print(f"   → {t['representative_title']}")
+    print()
+    print("=== 주식/코인 TOP 5 ===")
+    for t in stock_topics:
+        print(f"{t['rank']}위 #{t['keyword']} ({t['count']}건)")
         print(f"   → {t['representative_title']}")
     print()
 
