@@ -1,0 +1,182 @@
+{
+  "date": "2026-05-14",
+  "hour": "13",
+  "slot": "2026-05-14_13",
+  "crawled_at": "2026-05-14 13:00:01",
+  "total_articles": 407,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "여고생",
+      "count": 37,
+      "representative_title": "‘광주 여고생 살해범’ 장윤기 신상 공개",
+      "representative_link": "https://n.news.naver.com/article/666/0000106926?ntype=RANKING",
+      "press": "경기일보",
+      "related_articles": [
+        {
+          "title": "얼굴 공개된 여고생 살해범, 고개 꼿꼿이 들고 \"죄송\"",
+          "link": "https://n.news.naver.com/article/055/0001356072?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "[속보]광주 여고생 살해 피의자 23세 장윤기 신상 공개…경찰, ‘계획형 분노범죄’ 결론",
+          "link": "https://n.news.naver.com/article/087/0001193085?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "'여고생 살해' 23살 장윤기 신상 공개...검찰 구속 송치",
+          "link": "https://n.news.naver.com/article/052/0002352736?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "'여고생 살해' 장윤기, 스토킹 여성 못 찾자 애꿎은 학생 노렸다",
+          "link": "https://n.news.naver.com/article/437/0000491335?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "여고생 살해범은 장윤기‥스토킹 신고에 분풀이",
+          "link": "https://n.news.naver.com/article/214/0001498858?ntype=RANKING",
+          "press": "MBC"
+        }
+      ],
+      "related_titles": [
+        "얼굴 공개된 여고생 살해범, 고개 꼿꼿이 들고 \"죄송\"",
+        "[속보]광주 여고생 살해 피의자 23세 장윤기 신상 공개…경찰, ‘계획형 분노범죄’ 결론",
+        "'여고생 살해' 23살 장윤기 신상 공개...검찰 구속 송치",
+        "'여고생 살해' 장윤기, 스토킹 여성 못 찾자 애꿎은 학생 노렸다",
+        "여고생 살해범은 장윤기‥스토킹 신고에 분풀이"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 2,
+      "keyword": "장윤기",
+      "count": 35,
+      "representative_title": "고개 빳빳이 든 장윤기…당초 범행 대상은 '스토킹 신고자'",
+      "representative_link": "https://n.news.naver.com/article/057/0001948984?ntype=RANKING",
+      "press": "MBN",
+      "related_articles": [
+        {
+          "title": "취재진 빤히 보던 광주 살해범 장윤기…범행 동기 묻자 ‘입꾹’",
+          "link": "https://n.news.naver.com/article/029/0003026569?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "고개 빳빳이 든 장윤기…당초 범행 대상은 '스토킹 신고자'",
+          "link": "https://n.news.naver.com/article/057/0001948984?ntype=RANKING",
+          "press": "MBN"
+        }
+      ],
+      "related_titles": [
+        "취재진 빤히 보던 광주 살해범 장윤기…범행 동기 묻자 ‘입꾹’",
+        "고개 빳빳이 든 장윤기…당초 범행 대상은 '스토킹 신고자'"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 3,
+      "keyword": "트럼프",
+      "count": 18,
+      "representative_title": "트럼프 \"미-중 관계, 어느 때보다 좋아질 것\"",
+      "representative_link": "https://n.news.naver.com/article/374/0000510093?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "시진핑 입지 높인 이란전…아쉬워진 트럼프, 베이징서 종전해법 찾을까",
+          "link": "https://n.news.naver.com/article/028/0002804984?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "[속보]시진핑 “미·중, 적수돼선 안돼”, 트럼프 “미·중 관계, 미래 환상적”",
+          "link": "https://n.news.naver.com/article/032/0003445702?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "[속보] 트럼프 \"중국과의 무역·비즈니스, 상호주의적으로 할 것\"",
+          "link": "https://n.news.naver.com/article/214/0001498883?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "트럼프 공항영접에 실권없는 부주석 보내…中 “특별대우 없다” 속내",
+          "link": "https://n.news.naver.com/article/020/0003719549?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "[속보] 트럼프·시진핑, 베이징서 환영행사 이어 정상회담 시작",
+          "link": "https://n.news.naver.com/article/056/0012180900?ntype=RANKING",
+          "press": "KBS"
+        }
+      ],
+      "related_titles": [
+        "시진핑 입지 높인 이란전…아쉬워진 트럼프, 베이징서 종전해법 찾을까",
+        "[속보]시진핑 “미·중, 적수돼선 안돼”, 트럼프 “미·중 관계, 미래 환상적”",
+        "[속보] 트럼프 \"중국과의 무역·비즈니스, 상호주의적으로 할 것\"",
+        "트럼프 공항영접에 실권없는 부주석 보내…中 “특별대우 없다” 속내",
+        "[속보] 트럼프·시진핑, 베이징서 환영행사 이어 정상회담 시작"
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 4,
+      "keyword": "살해",
+      "count": 15,
+      "representative_title": "'두살 아들 살해' 20대 부부, 다른 자녀 2명도 학대 혐의 송치",
+      "representative_link": "https://n.news.naver.com/article/660/0000109309?ntype=RANKING",
+      "press": "kbc광주방송",
+      "related_articles": [
+        {
+          "title": "'두살 아들 살해' 20대 부부, 다른 자녀 2명도 학대 혐의 송치",
+          "link": "https://n.news.naver.com/article/660/0000109309?ntype=RANKING",
+          "press": "kbc광주방송"
+        }
+      ],
+      "related_titles": [
+        "'두살 아들 살해' 20대 부부, 다른 자녀 2명도 학대 혐의 송치"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "공개",
+      "count": 15,
+      "representative_title": "[6·3 픽] 주진우, '정원오 폭행 피해자' 육성 증언 공개…\"당장 사퇴하라\"",
+      "representative_link": "https://n.news.naver.com/article/119/0003090309?ntype=RANKING",
+      "press": "데일리안",
+      "related_articles": [
+        {
+          "title": "[단독] \"정원오 폭행 진상규명\" 국민의힘 성평등가족위 소집 예고…“5·18 시비 없었다” 녹취 공개",
+          "link": "https://n.news.naver.com/article/437/0000491341?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "주진우, ‘정원오 폭행’ 피해자 음성 공개 “5·18 논쟁 없었다”…정원오 “판결문·언론보도 보라”",
+          "link": "https://n.news.naver.com/article/056/0012180892?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "[단독] MS \"미토스 능가 AI 공개\"...KAIST 출신 김태수 교수가 개발 주도",
+          "link": "https://n.news.naver.com/article/092/0002422702?ntype=RANKING",
+          "press": "지디넷코리아"
+        },
+        {
+          "title": "주진우, 정원오 폭행 피해자 녹취 공개…\"피해자는 5·18 관련 언쟁 없었다고 해\"",
+          "link": "https://n.news.naver.com/article/003/0013944182?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "[6·3 픽] 주진우, '정원오 폭행 피해자' 육성 증언 공개…\"당장 사퇴하라\"",
+          "link": "https://n.news.naver.com/article/119/0003090309?ntype=RANKING",
+          "press": "데일리안"
+        }
+      ],
+      "related_titles": [
+        "[단독] \"정원오 폭행 진상규명\" 국민의힘 성평등가족위 소집 예고…“5·18 시비 없었다” 녹취 공개",
+        "주진우, ‘정원오 폭행’ 피해자 음성 공개 “5·18 논쟁 없었다”…정원오 “판결문·언론보도 보라”",
+        "[단독] MS \"미토스 능가 AI 공개\"...KAIST 출신 김태수 교수가 개발 주도",
+        "주진우, 정원오 폭행 피해자 녹취 공개…\"피해자는 5·18 관련 언쟁 없었다고 해\"",
+        "[6·3 픽] 주진우, '정원오 폭행 피해자' 육성 증언 공개…\"당장 사퇴하라\""
+      ],
+      "category": "산업/테크"
+    }
+  ]
+}
