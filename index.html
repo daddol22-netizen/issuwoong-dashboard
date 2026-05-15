@@ -87,6 +87,11 @@
     .yt-hint { background: rgba(255,101,132,.07); border: 1px solid rgba(255,101,132,.18); border-radius: 8px; padding: 9px 12px; font-size: 0.78rem; color: #ff6584; margin-bottom: 12px; }
     .yt-hint::before { content: '▶  '; font-size: 0.7rem; }
 
+    /* 방향성 입력 */
+    .direction-input { width: 100%; padding: 9px 13px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface2); color: var(--text); font-size: 0.83rem; outline: none; margin-bottom: 8px; transition: border-color .2s; }
+    .direction-input::placeholder { color: var(--muted); }
+    .direction-input:focus { border-color: var(--accent); }
+
     /* 대본 생성 버튼 */
     .script-btn { width: 100%; padding: 11px; border-radius: 8px; border: 1px solid var(--accent); background: rgba(108,99,255,.1); color: var(--accent); font-size: 0.88rem; font-weight: 600; cursor: pointer; transition: all .2s; display: flex; align-items: center; justify-content: center; gap: 7px; }
     .script-btn:hover { background: rgba(108,99,255,.2); }
@@ -291,8 +296,12 @@ function renderTopics(data, section) {
       ${relatedArticles.length ? `<div class="related-list">${renderRelated(relatedArticles)}</div>` : ''}
       ${hint ? `<div class="yt-hint">유튜브 힌트: ${hint}</div>` : ''}
 
+      <input type="text" class="direction-input"
+        id="${scriptId}-direction"
+        placeholder="방향성 (선택) — 예: 직장인 공감 위주로, 삼성보다 노조 시각에서">
       <button class="script-btn"
         data-rank="${t.rank}"
+        data-section="${section}"
         data-keyword="${esc(t.keyword)}"
         data-headlines="${esc(JSON.stringify(t.related_titles||[]))}"
         onclick="handleScriptBtn(this)">
@@ -322,9 +331,12 @@ const scriptVersions = {};
 
 function handleScriptBtn(btn) {
   const rank = parseInt(btn.dataset.rank);
+  const section = btn.dataset.section || currentSection;
   const keyword = btn.dataset.keyword;
   const headlines = JSON.parse(btn.dataset.headlines);
-  generateScript(rank, keyword, headlines, btn);
+  const scriptId = `script-${section}-${rank}`;
+  const direction = (document.getElementById(`${scriptId}-direction`)?.value || '').trim();
+  generateScript(rank, keyword, headlines, btn, scriptId, direction);
 }
 
 function renderVersionTabs(panelId) {
@@ -359,13 +371,13 @@ function deleteVersion(panelId, idx) {
   switchVersion(panelId, newActive);
 }
 
-async function generateScript(rank, keyword, headlines, btn) {
+async function generateScript(rank, keyword, headlines, btn, scriptId, direction) {
   btn = btn || document.querySelector(`.script-btn[data-rank="${rank}"]`);
   if (!apiAvailable) {
     alert('대본 생성 API가 꺼져 있습니다.\nMac에서 python3 script_api.py 를 실행해주세요.');
     return;
   }
-  const panelId = `script-${rank}`;
+  const panelId = scriptId || `script-${currentSection}-${rank}`;
 
   btn.disabled = true;
   btn.innerHTML = '<span class="spin">⟳</span> 생성 중... (30~60초)';
@@ -374,7 +386,7 @@ async function generateScript(rank, keyword, headlines, btn) {
     const res = await fetch(`${API}/api/generate-script`, {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({ topic: keyword, headlines })
+      body: JSON.stringify({ topic: keyword, headlines, direction: direction || '' })
     });
     const data = await res.json();
     if (data.error) throw new Error(data.error);

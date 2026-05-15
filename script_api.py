@@ -12,13 +12,14 @@ app = Flask(__name__)
 CORS(app)  # GitHub Pages → localhost 크로스 오리진 허용
 
 
-def _build_script_prompt(topic: str, headlines: list[str]) -> str:
+def _build_script_prompt(topic: str, headlines: list[str], direction: str = "") -> str:
     headlines_text = "\n".join(f"- {h}" for h in headlines) if headlines else ""
+    direction_block = f"\n【작성 방향】\n{direction}\n" if direction else ""
     return f"""다음 주제로 이슈웅 채널 유튜브 대본을 작성해주세요.
 
 주제: {topic}
 관련 뉴스 헤드라인:
-{headlines_text}
+{headlines_text}{direction_block}
 
 채널 성격: 사회 문제를 꼬집는 정보성 콘텐츠
 채널 스타일: 사회 구조적 문제를 날카롭게 분석하되 무겁지 않게, 시청자가 몰랐던 관점을 제시
@@ -68,6 +69,7 @@ def generate_script():
     data = request.get_json()
     topic = data.get('topic', '').strip()
     headlines = data.get('headlines', [])
+    direction = data.get('direction', '').strip()
 
     if not topic:
         return jsonify({"error": "topic이 필요합니다"}), 400
@@ -80,7 +82,7 @@ def generate_script():
         response = client.messages.create(
             model=MODEL,
             max_tokens=12000,
-            messages=[{"role": "user", "content": _build_script_prompt(topic, headlines)}],
+            messages=[{"role": "user", "content": _build_script_prompt(topic, headlines, direction)}],
             system=[{
                 "type": "text",
                 "text": "당신은 유튜브 채널 이슈웅의 전문 대본 작가입니다. 성공 데이터 기반 두괄식 구성으로 완성도 높은 대본을 작성합니다.",
