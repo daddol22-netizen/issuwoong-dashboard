@@ -298,7 +298,10 @@ function renderTopics(data, section) {
 
       <input type="text" class="direction-input"
         id="${scriptId}-direction"
-        placeholder="방향성 (선택) — 예: 직장인 공감 위주로, 삼성보다 노조 시각에서">
+        placeholder="방향성 (선택) — 예: 직장인 공감 위주로, 노조 시각에서">
+      <input type="text" class="direction-input"
+        id="${scriptId}-target"
+        placeholder="타겟 (선택) — 예: 30대 직장인, 주식 투자 초보자, 육아 중인 부모">
       <button class="script-btn"
         data-rank="${t.rank}"
         data-section="${section}"
@@ -336,7 +339,8 @@ function handleScriptBtn(btn) {
   const headlines = JSON.parse(btn.dataset.headlines);
   const scriptId = `script-${section}-${rank}`;
   const direction = (document.getElementById(`${scriptId}-direction`)?.value || '').trim();
-  generateScript(rank, keyword, headlines, btn, scriptId, direction);
+  const target = (document.getElementById(`${scriptId}-target`)?.value || '').trim();
+  generateScript(rank, keyword, headlines, btn, scriptId, direction, target);
 }
 
 function renderVersionTabs(panelId) {
@@ -371,7 +375,7 @@ function deleteVersion(panelId, idx) {
   switchVersion(panelId, newActive);
 }
 
-async function generateScript(rank, keyword, headlines, btn, scriptId, direction) {
+async function generateScript(rank, keyword, headlines, btn, scriptId, direction, target) {
   btn = btn || document.querySelector(`.script-btn[data-rank="${rank}"]`);
   if (!apiAvailable) {
     alert('대본 생성 API가 꺼져 있습니다.\nMac에서 python3 script_api.py 를 실행해주세요.');
@@ -386,7 +390,7 @@ async function generateScript(rank, keyword, headlines, btn, scriptId, direction
     const res = await fetch(`${API}/api/generate-script`, {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({ topic: keyword, headlines, direction: direction || '' })
+      body: JSON.stringify({ topic: keyword, headlines, direction: direction || '', target: target || '' })
     });
     const data = await res.json();
     if (data.error) throw new Error(data.error);

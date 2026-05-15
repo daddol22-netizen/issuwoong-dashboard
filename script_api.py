@@ -12,17 +12,17 @@ app = Flask(__name__)
 CORS(app)  # GitHub Pages → localhost 크로스 오리진 허용
 
 
-def _build_script_prompt(topic: str, headlines: list[str], direction: str = "") -> str:
+def _build_script_prompt(topic: str, headlines: list[str], direction: str = "", target: str = "") -> str:
     headlines_text = "\n".join(f"- {h}" for h in headlines) if headlines else ""
     direction_block = f"\n【작성 방향】\n{direction}\n" if direction else ""
+    target_block = f"\n【타겟 시청자】\n{target}\n" if target else ""
     return f"""다음 주제로 이슈웅 채널 유튜브 대본을 작성해주세요.
 
 주제: {topic}
 관련 뉴스 헤드라인:
-{headlines_text}{direction_block}
-
+{headlines_text}{direction_block}{target_block}
 채널 성격: 사회 문제를 꼬집는 정보성 콘텐츠
-채널 스타일: 사회 구조적 문제를 날카롭게 분석하되 무겁지 않게, 시청자가 몰랐던 관점을 제시
+채널 스타일: 특정 시각에서 날카롭게 분석, 시청자가 몰랐던 관점을 제시
 
 【필수 대본 원칙】
 - 두괄식 구성: 충격적 결론/반전 → 이유 분석 → 근거 → 마무리
@@ -33,6 +33,13 @@ def _build_script_prompt(topic: str, headlines: list[str], direction: str = "") 
 - 목표 분량: 순수 내레이션(말하는 부분)만 공백 제외 최소 7,000자 이상 (18분+ 영상 기준)
 - 씬을 최소 6개 이상 구성하고 각 씬마다 충분한 분량 확보
 - 분량이 부족하면 수치/사례/반론/전문가 의견 등으로 내용 보강 (늘리기 위한 반복 금지)
+
+【관점 원칙 — 반드시 준수】
+- 대본 전체가 하나의 일관된 시각으로 흘러야 함
+- "A도 맞고 B도 맞다", "양측 입장을 들어보면" 식의 중립적 균형 서술 금지
+- 방향성/타겟이 지정된 경우: 그 시각에서 끝까지 밀어붙일 것
+- 방향성/타겟이 없는 경우: 콘텐츠에서 가장 자극적인 단일 시각을 스스로 선택해서 그것으로 관통
+- 반론을 다루더라도 "그 주장이 왜 틀렸는지"를 보여주기 위한 용도로만 사용
 
 【저작권 원칙 — 반드시 준수】
 - 뉴스 기사에서 가져올 수 있는 것: 사실, 수치, 데이터, 사건의 흐름
@@ -70,6 +77,7 @@ def generate_script():
     topic = data.get('topic', '').strip()
     headlines = data.get('headlines', [])
     direction = data.get('direction', '').strip()
+    target = data.get('target', '').strip()
 
     if not topic:
         return jsonify({"error": "topic이 필요합니다"}), 400
@@ -82,7 +90,7 @@ def generate_script():
         response = client.messages.create(
             model=MODEL,
             max_tokens=12000,
-            messages=[{"role": "user", "content": _build_script_prompt(topic, headlines, direction)}],
+            messages=[{"role": "user", "content": _build_script_prompt(topic, headlines, direction, target)}],
             system=[{
                 "type": "text",
                 "text": "당신은 유튜브 채널 이슈웅의 전문 대본 작가입니다. 성공 데이터 기반 두괄식 구성으로 완성도 높은 대본을 작성합니다.",
