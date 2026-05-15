@@ -14,15 +14,39 @@ CORS(app)  # GitHub Pages → localhost 크로스 오리진 허용
 
 def _build_script_prompt(topic: str, headlines: list[str], direction: str = "", target: str = "") -> str:
     headlines_text = "\n".join(f"- {h}" for h in headlines) if headlines else ""
-    direction_block = f"\n【작성 방향】\n{direction}\n" if direction else ""
-    target_block = f"\n【타겟 시청자】\n{target}\n" if target else ""
+
+    # 방향성/타겟이 있으면 프롬프트 앞부분에 강하게 박음
+    if direction or target:
+        perspective_lines = []
+        if direction:
+            perspective_lines.append(f"- 작성 방향: {direction}")
+        if target:
+            perspective_lines.append(f"- 타겟 시청자: {target}")
+        perspective_block = "\n".join(perspective_lines)
+        stance_instruction = f"""
+【이 대본의 핵심 관점 — 모든 내용이 여기서 출발해야 함】
+{perspective_block}
+
+이 관점이 대본의 첫 문장부터 마지막 문장까지 일관되게 관통해야 합니다.
+타겟 시청자가 "맞아, 내 얘기잖아"라고 느끼도록 모든 사례·수치·감정선을 이 관점에 맞게 선택하세요.
+반대 시각은 "왜 그 주장이 틀렸는지" 보여주는 도구로만 쓸 것 — 균형을 위해 소개하지 말 것.
+"""
+    else:
+        stance_instruction = """
+【관점 설정 — 스스로 선택할 것】
+방향성/타겟이 지정되지 않았습니다.
+이 주제에서 가장 공감을 끌어낼 수 있는 단일 시각을 직접 선택하고, 그 관점으로 처음부터 끝까지 밀어붙이세요.
+"A도 맞고 B도 맞다" 식의 균형 서술은 이 채널의 포맷에 맞지 않습니다.
+"""
+
     return f"""다음 주제로 이슈웅 채널 유튜브 대본을 작성해주세요.
 
 주제: {topic}
 관련 뉴스 헤드라인:
-{headlines_text}{direction_block}{target_block}
-채널 성격: 사회 문제를 꼬집는 정보성 콘텐츠
-채널 스타일: 특정 시각에서 날카롭게 분석, 시청자가 몰랐던 관점을 제시
+{headlines_text}
+{stance_instruction}
+채널 성격: 하나의 뚜렷한 시각으로 사회 문제를 꼬집는 정보성 콘텐츠. 시청자가 "이 사람 말이 맞네"라고 설득당하는 구조.
+채널 스타일: 구어체, 날카롭되 무겁지 않게, 시청자가 몰랐던 관점 제시
 
 【필수 대본 원칙】
 - 두괄식 구성: 충격적 결론/반전 → 이유 분석 → 근거 → 마무리
@@ -33,13 +57,6 @@ def _build_script_prompt(topic: str, headlines: list[str], direction: str = "", 
 - 목표 분량: 순수 내레이션(말하는 부분)만 공백 제외 최소 7,000자 이상 (18분+ 영상 기준)
 - 씬을 최소 6개 이상 구성하고 각 씬마다 충분한 분량 확보
 - 분량이 부족하면 수치/사례/반론/전문가 의견 등으로 내용 보강 (늘리기 위한 반복 금지)
-
-【관점 원칙 — 반드시 준수】
-- 대본 전체가 하나의 일관된 시각으로 흘러야 함
-- "A도 맞고 B도 맞다", "양측 입장을 들어보면" 식의 중립적 균형 서술 금지
-- 방향성/타겟이 지정된 경우: 그 시각에서 끝까지 밀어붙일 것
-- 방향성/타겟이 없는 경우: 콘텐츠에서 가장 자극적인 단일 시각을 스스로 선택해서 그것으로 관통
-- 반론을 다루더라도 "그 주장이 왜 틀렸는지"를 보여주기 위한 용도로만 사용
 
 【저작권 원칙 — 반드시 준수】
 - 뉴스 기사에서 가져올 수 있는 것: 사실, 수치, 데이터, 사건의 흐름
@@ -93,7 +110,7 @@ def generate_script():
             messages=[{"role": "user", "content": _build_script_prompt(topic, headlines, direction, target)}],
             system=[{
                 "type": "text",
-                "text": "당신은 유튜브 채널 이슈웅의 전문 대본 작가입니다. 성공 데이터 기반 두괄식 구성으로 완성도 높은 대본을 작성합니다.",
+                "text": "당신은 유튜브 채널 이슈웅의 전문 대본 작가입니다. 이 채널의 포맷은 하나의 명확한 시각으로 시청자를 설득하는 구조입니다. 균형 잡힌 양시론적 서술은 이 채널에 맞지 않으며, 지정된 방향성과 타겟이 있으면 그것이 대본 전체를 관통하는 절대 기준입니다.",
                 "cache_control": {"type": "ephemeral"}
             }]
         )
