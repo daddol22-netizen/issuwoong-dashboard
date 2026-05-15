@@ -87,10 +87,12 @@
     .yt-hint { background: rgba(255,101,132,.07); border: 1px solid rgba(255,101,132,.18); border-radius: 8px; padding: 9px 12px; font-size: 0.78rem; color: #ff6584; margin-bottom: 12px; }
     .yt-hint::before { content: '▶  '; font-size: 0.7rem; }
 
-    /* 방향성 입력 */
-    .direction-input { width: 100%; padding: 9px 13px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface2); color: var(--text); font-size: 0.83rem; outline: none; margin-bottom: 8px; transition: border-color .2s; }
-    .direction-input::placeholder { color: var(--muted); }
-    .direction-input:focus { border-color: var(--accent); }
+    /* 썸네일 입력 */
+    .thumb-wrap { margin-bottom: 10px; }
+    .thumb-label { font-size: 0.7rem; color: var(--muted); margin-bottom: 5px; }
+    .thumb-input { width: 100%; padding: 9px 13px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface2); color: var(--text); font-size: 0.83rem; outline: none; margin-bottom: 6px; transition: border-color .2s; }
+    .thumb-input::placeholder { color: var(--muted); }
+    .thumb-input:focus { border-color: var(--accent); }
 
     /* 대본 생성 버튼 */
     .script-btn { width: 100%; padding: 11px; border-radius: 8px; border: 1px solid var(--accent); background: rgba(108,99,255,.1); color: var(--accent); font-size: 0.88rem; font-weight: 600; cursor: pointer; transition: all .2s; display: flex; align-items: center; justify-content: center; gap: 7px; }
@@ -296,12 +298,12 @@ function renderTopics(data, section) {
       ${relatedArticles.length ? `<div class="related-list">${renderRelated(relatedArticles)}</div>` : ''}
       ${hint ? `<div class="yt-hint">유튜브 힌트: ${hint}</div>` : ''}
 
-      <input type="text" class="direction-input"
-        id="${scriptId}-direction"
-        placeholder="방향성 (선택) — 예: 직장인 공감 위주로, 노조 시각에서">
-      <input type="text" class="direction-input"
-        id="${scriptId}-target"
-        placeholder="타겟 (선택) — 예: 30대 직장인, 주식 투자 초보자, 육아 중인 부모">
+      <div class="thumb-wrap">
+        <div class="thumb-label">예상 썸네일 (최대 3개 — 입력한 썸네일 방향으로 대본이 작성됩니다)</div>
+        <input type="text" class="thumb-input" id="${scriptId}-thumb1" placeholder="썸네일 1 — 예: 노조 파업, 사실 이기적인 이유가 있었다">
+        <input type="text" class="thumb-input" id="${scriptId}-thumb2" placeholder="썸네일 2 (선택)">
+        <input type="text" class="thumb-input" id="${scriptId}-thumb3" placeholder="썸네일 3 (선택)">
+      </div>
       <button class="script-btn"
         data-rank="${t.rank}"
         data-section="${section}"
@@ -338,9 +340,10 @@ function handleScriptBtn(btn) {
   const keyword = btn.dataset.keyword;
   const headlines = JSON.parse(btn.dataset.headlines);
   const scriptId = `script-${section}-${rank}`;
-  const direction = (document.getElementById(`${scriptId}-direction`)?.value || '').trim();
-  const target = (document.getElementById(`${scriptId}-target`)?.value || '').trim();
-  generateScript(rank, keyword, headlines, btn, scriptId, direction, target);
+  const thumbnails = [1,2,3]
+    .map(i => (document.getElementById(`${scriptId}-thumb${i}`)?.value || '').trim())
+    .filter(Boolean);
+  generateScript(rank, keyword, headlines, btn, scriptId, thumbnails);
 }
 
 function renderVersionTabs(panelId) {
@@ -375,7 +378,7 @@ function deleteVersion(panelId, idx) {
   switchVersion(panelId, newActive);
 }
 
-async function generateScript(rank, keyword, headlines, btn, scriptId, direction, target) {
+async function generateScript(rank, keyword, headlines, btn, scriptId, thumbnails) {
   btn = btn || document.querySelector(`.script-btn[data-rank="${rank}"]`);
   if (!apiAvailable) {
     alert('대본 생성 API가 꺼져 있습니다.\nMac에서 python3 script_api.py 를 실행해주세요.');
@@ -390,7 +393,7 @@ async function generateScript(rank, keyword, headlines, btn, scriptId, direction
     const res = await fetch(`${API}/api/generate-script`, {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({ topic: keyword, headlines, direction: direction || '', target: target || '' })
+      body: JSON.stringify({ topic: keyword, headlines, thumbnails: thumbnails || [] })
     });
     const data = await res.json();
     if (data.error) throw new Error(data.error);
