@@ -3,7 +3,10 @@
 
 import re
 import json
+import time
 import urllib.request
+import urllib.parse
+from html import unescape as html_unescape
 from datetime import datetime
 from collections import Counter
 from pathlib import Path
@@ -188,6 +191,144 @@ def crawl_stock_topics() -> list[dict]:
     return topics
 
 
+def fetch_google_news_rss(query: str, days: int = 7) -> list[dict]:
+    """Google News RSS로 최근 N일 기사 수집 (Naver 검색이 SPA라 대체)"""
+    from datetime import timedelta
+    try:
+        from email.utils import parsedate_to_datetime
+    except ImportError:
+        parsedate_to_datetime = None
+
+    encoded = urllib.parse.quote(query)
+    url = f"https://news.google.com/rss/search?q={encoded}&hl=ko&gl=KR&ceid=KR:ko"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=15) as res:
+            xml = res.read().decode('utf-8', errors='replace')
+    except Exception as e:
+        print(f"  ⚠ Google News RSS 실패: {e}")
+        return []
+
+    cutoff = datetime.utcnow() - timedelta(days=days)
+    results = []
+
+    for item in re.findall(r'<item>(.*?)</item>', xml, re.DOTALL):
+        title_m = re.search(r'<title>(.*?)</title>', item, re.DOTALL)
+        link_m = re.search(r'<link>(.*?)</link>', item, re.DOTALL)
+        date_m = re.search(r'<pubDate>(.*?)</pubDate>', item, re.DOTALL)
+        if not (title_m and link_m):
+            continue
+
+        raw_title = re.sub(r'<!\[CDATA\[|\]\]>', '', title_m.group(1)).strip()
+        # "제목 - 언론사" 형식에서 언론사 제거
+        title = re.sub(r'\s*-\s*[^\-]+$', '', raw_title).strip()
+        link = link_m.group(1).strip()
+
+        # 날짜 필터
+        if date_m and parsedate_to_datetime:
+            try:
+                pub = parsedate_to_datetime(date_m.group(1).strip()).replace(tzinfo=None)
+                if pub < cutoff:
+                    continue
+            except Exception:
+                pass
+
+        results.append({"title": title, "link": link, "press": ""})
+
+    return results
+
+
+def extract_moljak_subject(title: str) -> str:
+    """제목에서 '몰락'의 주체 추출 — 'X의 몰락', 'X 몰락', '몰락한 X' 패턴"""
+    # 1. "X의 몰락" — X가 2~12자
+    m = re.search(r'([가-힣A-Za-z0-9·\s]{2,12})의\s*몰락', title)
+    if m:
+        subject = m.group(1).strip()
+        # 마지막 의미 단어 추출 (앞의 수식어 날리기)
+        words = re.findall(r'[가-힣A-Za-z0-9·]{2,}', subject)
+        if words:
+            return words[-1]
+
+    # 2. "X 몰락" — X가 조사 없이 붙는 경우
+    m = re.search(r"'?([가-힣A-Za-z0-9·]{2,10})'?\s+몰락", title)
+    if m:
+        return m.group(1)
+
+    # 3. "몰락한 X"
+    m = re.search(r'몰락한\s+([가-힣A-Za-z0-9·]{2,10})', title)
+    if m:
+        return m.group(1)
+
+    return ""
+
+
+def cluster_moljak_topics(articles: list[dict], top_n: int = 5) -> list[dict]:
+    """'몰락' 기사 클러스터링 — 제목에서 주체 직접 추출"""
+    filtered = [a for a in articles if '몰락' in a['title']]
+    if not filtered:
+        return []
+
+    subject_to_articles: dict[str, list] = {}
+
+    for art in filtered:
+        subject = extract_moljak_subject(art['title'])
+        if not subject or len(subject) < 2:
+            continue
+        # '몰락' 자체가 포함된 단어 제외 (e.g. "몰락한", "몰락의")
+        if '몰락' in subject:
+            continue
+        subject_to_articles.setdefault(subject, [])
+        subject_to_articles[subject].append(art)
+
+    subject_counts = {k: len({a['title'] for a in v}) for k, v in subject_to_articles.items()}
+    top_subjects = sorted(subject_counts.items(), key=lambda x: x[1], reverse=True)
+
+    seen_titles: set[str] = set()
+    topics = []
+
+    for subject, count in top_subjects:
+        if len(topics) >= top_n:
+            break
+
+        related = [a for a in subject_to_articles[subject] if a['title'] not in seen_titles]
+        if not related:
+            continue
+
+        related_sorted = sorted(related, key=lambda a: len(a['title']))
+        representative = related_sorted[0]
+
+        for a in related:
+            seen_titles.add(a['title'])
+
+        topics.append({
+            "rank": len(topics) + 1,
+            "keyword": subject,
+            "series_title": f"{subject}의 몰락",
+            "count": count,
+            "representative_title": representative['title'],
+            "representative_link": representative['link'],
+            "press": representative.get('press', ''),
+            "related_articles": [
+                {"title": a['title'], "link": a['link'], "press": a.get('press', '')}
+                for a in related[:5]
+            ],
+            "related_titles": [a['title'] for a in related[:5]],
+            "category": "몰락",
+        })
+
+    return topics
+
+
+def crawl_moljak() -> list[dict]:
+    """몰락 주제 기사 크롤링 (Google News RSS 기반)"""
+    print("  → 몰락 기사 검색 중...")
+    articles = fetch_google_news_rss('몰락', days=7)
+    title_count = sum(1 for a in articles if '몰락' in a['title'])
+    print(f"  → 몰락 관련 기사 {len(articles)}개 수집 (제목 포함: {title_count}건)")
+    topics = cluster_moljak_topics(articles, top_n=5)
+    return topics
+
+
 def main():
     now = datetime.now()
     today = now.strftime("%Y-%m-%d")
@@ -209,6 +350,9 @@ def main():
     # ── 주식/코인 토픽 ──
     stock_topics = crawl_stock_topics()
 
+    # ── 몰락 토픽 ──
+    moljak_topics = crawl_moljak()
+
     result = {
         "date": today,
         "hour": hour,
@@ -217,6 +361,7 @@ def main():
         "total_articles": len(articles),
         "topics": topics,
         "stock_topics": stock_topics,
+        "moljak_topics": moljak_topics,
     }
 
     slot_path = DATA_DIR / f"{slot_key}.json"
@@ -246,6 +391,11 @@ def main():
     print("=== 주식/코인 TOP 5 ===")
     for t in stock_topics:
         print(f"{t['rank']}위 #{t['keyword']} ({t['count']}건)")
+        print(f"   → {t['representative_title']}")
+    print()
+    print("=== 몰락 시리즈 TOP 5 ===")
+    for t in moljak_topics:
+        print(f"{t['rank']}위 [{t['series_title']}] ({t['count']}건)")
         print(f"   → {t['representative_title']}")
     print()
 

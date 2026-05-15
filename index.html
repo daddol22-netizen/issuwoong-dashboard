@@ -138,6 +138,8 @@
     .sec-tab:hover { color: var(--text); border-color: var(--accent); }
     .sec-tab.active { background: rgba(108,99,255,.15); color: var(--accent); border-color: var(--accent); }
     .sec-tab#tab-stock.active { background: rgba(52,211,153,.12); color: #34d399; border-color: rgba(52,211,153,.3); }
+    .sec-tab#tab-moljak.active { background: rgba(248,113,113,.12); color: #f87171; border-color: rgba(248,113,113,.3); }
+    .cat-몰락 { background:rgba(248,113,113,.12);color:#f87171;border:1px solid rgba(248,113,113,.25); }
 
     footer { text-align: center; padding: 20px; color: var(--muted); font-size: 0.75rem; border-top: 1px solid var(--border); margin-top: 32px; }
 
@@ -177,6 +179,7 @@
   <div style="display:flex;gap:8px;margin-bottom:20px;">
     <button class="sec-tab active" id="tab-general" onclick="switchSection('general')">🔥 전체 핫토픽</button>
     <button class="sec-tab" id="tab-stock" onclick="switchSection('stock')">📈 주식/코인</button>
+    <button class="sec-tab" id="tab-moljak" onclick="switchSection('moljak')">📉 몰락</button>
   </div>
 
   <div class="sec-title" id="sec-title">전체 핫토픽 TOP 5</div>
@@ -201,8 +204,9 @@ function switchSection(section) {
   currentSection = section;
   document.getElementById('tab-general').classList.toggle('active', section === 'general');
   document.getElementById('tab-stock').classList.toggle('active', section === 'stock');
-  document.getElementById('sec-title').textContent =
-    section === 'stock' ? '주식/코인 TOP 5' : '전체 핫토픽 TOP 5';
+  document.getElementById('tab-moljak').classList.toggle('active', section === 'moljak');
+  const titles = { general: '전체 핫토픽 TOP 5', stock: '주식/코인 TOP 5', moljak: '몰락 시리즈 TOP 5' };
+  document.getElementById('sec-title').textContent = titles[section] || '';
   if (currentData) renderTopics(currentData, section);
 }
 
@@ -253,13 +257,18 @@ function renderTopics(data, section) {
   document.getElementById('stat-total').textContent = (data.total_articles||0).toLocaleString();
   document.getElementById('stat-date').textContent = data.date || '-';
 
-  const topics = section === 'stock' ? (data.stock_topics || []) : (data.topics || []);
+  const topics = section === 'stock' ? (data.stock_topics || [])
+              : section === 'moljak' ? (data.moljak_topics || [])
+              : (data.topics || []);
   const c = document.getElementById('topics-container');
 
   if (!topics.length) {
-    const msg = section === 'stock'
-      ? '주식/코인 관련 기사가 없습니다.' : '토픽 데이터가 없습니다.';
-    c.innerHTML = `<div class="state-msg"><div class="icon">📭</div><p>${msg}</p></div>`;
+    const msgs = {
+      stock: '주식/코인 관련 기사가 없습니다.',
+      moljak: '최근 1주일간 몰락 관련 기사가 없습니다.',
+      general: '토픽 데이터가 없습니다.',
+    };
+    c.innerHTML = `<div class="state-msg"><div class="icon">📭</div><p>${msgs[section] || msgs.general}</p></div>`;
     return;
   }
 
@@ -283,7 +292,7 @@ function renderTopics(data, section) {
         <div class="rank-badge ${rc}">${t.rank}</div>
         <div style="flex:1">
           <div class="topic-kw">
-            <span class="kw-tag">#${esc(t.keyword)}</span>
+            <span class="kw-tag">${t.series_title ? esc(t.series_title) : '#' + esc(t.keyword)}</span>
             <span class="cat-tag ${catCls(t.category)}">${esc(t.category)}</span>
           </div>
           <div class="topic-cnt">관련 기사 ${t.count}건 · ${esc(t.press||'')}</div>
