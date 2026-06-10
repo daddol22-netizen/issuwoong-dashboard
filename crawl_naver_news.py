@@ -329,6 +329,71 @@ def crawl_moljak() -> list[dict]:
     return topics
 
 
+# 부동산 전용 스톱워드 (너무 일반적인 부동산 용어는 키워드 제외)
+BUDONGSAN_STOPWORDS = STOPWORDS | {
+    '부동산', '아파트', '주택', '집값', '시장', '정책', '규제', '완화', '강화',
+    '상승', '하락', '급등', '급락', '거래', '매물', '가격', '시세', '공급',
+    '수요', '매매', '임대', '전세', '월세', '분양', '청약', '건설', '개발',
+}
+
+
+def crawl_budongsan() -> list[dict]:
+    """부동산 주제 기사 크롤링 (Google News RSS 기반)"""
+    print("  → 부동산 기사 검색 중...")
+    articles = fetch_google_news_rss('부동산 아파트 집값', days=7)
+    print(f"  → 부동산 관련 기사 {len(articles)}개 수집")
+    if not articles:
+        return []
+
+    # 부동산 전용 stopwords로 클러스터링
+    keyword_to_articles: dict[str, list] = {}
+    for art in articles:
+        words = re.findall(r'[가-힣]{2,}', art['title'])
+        for w in words:
+            if w not in BUDONGSAN_STOPWORDS:
+                keyword_to_articles.setdefault(w, [])
+                keyword_to_articles[w].append(art)
+
+    keyword_counts = {k: len({a['title'] for a in v}) for k, v in keyword_to_articles.items()}
+    top_keywords = sorted(keyword_counts.items(), key=lambda x: x[1], reverse=True)
+
+    seen_titles: set[str] = set()
+    topics = []
+
+    for keyword, count in top_keywords:
+        if len(topics) >= 5:
+            break
+        if count < 2:
+            break
+
+        related = [a for a in keyword_to_articles[keyword] if a['title'] not in seen_titles]
+        if not related:
+            continue
+
+        related_sorted = sorted(related, key=lambda a: len(a['title']))
+        representative = related_sorted[0]
+
+        for a in related:
+            seen_titles.add(a['title'])
+
+        topics.append({
+            "rank": len(topics) + 1,
+            "keyword": keyword,
+            "count": count,
+            "representative_title": representative['title'],
+            "representative_link": representative['link'],
+            "press": representative.get('press', ''),
+            "related_articles": [
+                {"title": a['title'], "link": a['link'], "press": a.get('press', '')}
+                for a in related[:5]
+            ],
+            "related_titles": [a['title'] for a in related[:5]],
+            "category": "부동산",
+        })
+
+    return topics
+
+
 def main():
     now = datetime.now()
     today = now.strftime("%Y-%m-%d")
@@ -353,6 +418,9 @@ def main():
     # ── 몰락 토픽 ──
     moljak_topics = crawl_moljak()
 
+    # ── 부동산 토픽 ──
+    budongsan_topics = crawl_budongsan()
+
     result = {
         "date": today,
         "hour": hour,
@@ -362,6 +430,7 @@ def main():
         "topics": topics,
         "stock_topics": stock_topics,
         "moljak_topics": moljak_topics,
+        "budongsan_topics": budongsan_topics,
     }
 
     slot_path = DATA_DIR / f"{slot_key}.json"
@@ -396,6 +465,11 @@ def main():
     print("=== 몰락 시리즈 TOP 5 ===")
     for t in moljak_topics:
         print(f"{t['rank']}위 [{t['series_title']}] ({t['count']}건)")
+        print(f"   → {t['representative_title']}")
+    print()
+    print("=== 부동산 TOP 5 ===")
+    for t in budongsan_topics:
+        print(f"{t['rank']}위 #{t['keyword']} ({t['count']}건)")
         print(f"   → {t['representative_title']}")
     print()
 
