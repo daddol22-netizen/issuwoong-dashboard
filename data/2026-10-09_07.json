@@ -1,0 +1,632 @@
+{
+  "date": "2026-10-09",
+  "hour": "07",
+  "slot": "2026-10-09_07",
+  "crawled_at": "2026-10-09 07:07:45",
+  "total_articles": 403,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "대통령",
+      "count": 20,
+      "representative_title": "北 지뢰엔 눈감고 우크라에 화내는 대통령",
+      "representative_link": "https://n.news.naver.com/article/262/0000019745?ntype=RANKING",
+      "press": "신동아",
+      "related_articles": [
+        {
+          "title": "[속보]李대통령 지지율 38.3%…TK선 부정평가 81.2%",
+          "link": "https://n.news.naver.com/article/021/0002823905?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "윤석열·김건희, 1년간 영치금 21.9억…대통령 연봉의 8배",
+          "link": "https://n.news.naver.com/article/079/0004197185?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "윤석열·김건희, 1년여간 영치금 21억원…\"대통령 연봉 8배\"(종합)",
+          "link": "https://n.news.naver.com/article/001/0016367082?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "윤석열·김건희, 구속이후 1년여간 영치금 21억원…“대통령 연봉 8배”",
+          "link": "https://n.news.naver.com/article/016/0002707232?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "윤석열·김건희, 1년여 동안 영치금 21억 원…\"대통령 연봉 8배\"",
+          "link": "https://n.news.naver.com/article/422/0000913932?ntype=RANKING",
+          "press": "연합뉴스TV"
+        }
+      ],
+      "related_titles": [
+        "[속보]李대통령 지지율 38.3%…TK선 부정평가 81.2%",
+        "윤석열·김건희, 1년간 영치금 21.9억…대통령 연봉의 8배",
+        "윤석열·김건희, 1년여간 영치금 21억원…\"대통령 연봉 8배\"(종합)",
+        "윤석열·김건희, 구속이후 1년여간 영치금 21억원…“대통령 연봉 8배”",
+        "윤석열·김건희, 1년여 동안 영치금 21억 원…\"대통령 연봉 8배\""
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 2,
+      "keyword": "비자",
+      "count": 15,
+      "representative_title": "국정원 직원 이어 정청래까지…美비자 발급 보류 파장",
+      "representative_link": "https://n.news.naver.com/article/025/0003556717?ntype=RANKING",
+      "press": "중앙일보",
+      "related_articles": [
+        {
+          "title": "‘미국서 국감’ 사흘 앞인데... 정청래만 비자 못 받았다",
+          "link": "https://n.news.naver.com/article/023/0004002847?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "“이유 몰라” 정청래, 美비자 못받아…외통위 국감 미국→유럽 변경",
+          "link": "https://n.news.naver.com/article/021/0002824004?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "미국 가려던 정청래, 비자 안 나와 행선지 변경...\"전직 여당 대표인데 유감\"",
+          "link": "https://n.news.naver.com/article/437/0000514843?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "정청래, 美 비자 안 나와 국감 '미국→유럽'…김민석 \"강한 유감\"",
+          "link": "https://n.news.naver.com/article/079/0004197183?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "[단독] \"정청래 의원, 외통위 미국 현장 국감 비자 발급 보류\"",
+          "link": "https://n.news.naver.com/article/057/0001972578?ntype=RANKING",
+          "press": "MBN"
+        }
+      ],
+      "related_titles": [
+        "‘미국서 국감’ 사흘 앞인데... 정청래만 비자 못 받았다",
+        "“이유 몰라” 정청래, 美비자 못받아…외통위 국감 미국→유럽 변경",
+        "미국 가려던 정청래, 비자 안 나와 행선지 변경...\"전직 여당 대표인데 유감\"",
+        "정청래, 美 비자 안 나와 국감 '미국→유럽'…김민석 \"강한 유감\"",
+        "[단독] \"정청래 의원, 외통위 미국 현장 국감 비자 발급 보류\""
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 3,
+      "keyword": "국감",
+      "count": 13,
+      "representative_title": "\"혼자 6인분 먹어\" \"후원금 구걸\" 막말로 얼룩진 국감",
+      "representative_link": "https://n.news.naver.com/article/417/0001160437?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "정청래, 국감 출국 앞두고 미국 비자발급 보류…김민석 \"강한 유감\"",
+          "link": "https://n.news.naver.com/article/422/0000913917?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "개인정보 中 이전 거부하면 차 못 사나…국감서 BYD코리아 뭇매 [2026 국감]",
+          "link": "https://n.news.naver.com/article/138/0002244194?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "中, 발해유적 세계유산 등재 추진…국가유산청 “동향 파악 못해” [2026 국감]",
+          "link": "https://n.news.naver.com/article/138/0002244197?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "[2026 국감] 尹부부, 영치금 22억…법무장관 대행 \"개선안 찾아볼 것\"",
+          "link": "https://n.news.naver.com/article/119/0003141079?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "\"혼자 6인분 먹어\" \"후원금 구걸\" 막말로 얼룩진 국감",
+          "link": "https://n.news.naver.com/article/417/0001160437?ntype=RANKING",
+          "press": "동행미디어 시대"
+        }
+      ],
+      "related_titles": [
+        "정청래, 국감 출국 앞두고 미국 비자발급 보류…김민석 \"강한 유감\"",
+        "개인정보 中 이전 거부하면 차 못 사나…국감서 BYD코리아 뭇매 [2026 국감]",
+        "中, 발해유적 세계유산 등재 추진…국가유산청 “동향 파악 못해” [2026 국감]",
+        "[2026 국감] 尹부부, 영치금 22억…법무장관 대행 \"개선안 찾아볼 것\"",
+        "\"혼자 6인분 먹어\" \"후원금 구걸\" 막말로 얼룩진 국감"
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성전자",
+      "count": 13,
+      "representative_title": "삼성전자 역대 최대 실적에도…코스피 6600선 턱걸이",
+      "representative_link": "https://n.news.naver.com/article/648/0000051439?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "“성과급 7.5억 기대했는데”…삼성전자, 세금 떼고 나면 절반도 안 남나",
+          "link": "https://n.news.naver.com/article/018/0006383874?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "63만원 or 27만원…'역대급 실적' 삼성전자 주가 향방은[종목e슈]",
+          "link": "https://n.news.naver.com/article/018/0006384329?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "\"성과급 최소 30억\" 삼성전자 '메모리 부부'…\"서민 탈출한 것 같다\"",
+          "link": "https://n.news.naver.com/article/014/0005587029?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "‘악! 내 주식 왜 이래’…107조 벌고도 주가 하락한 삼성전자, 왜?",
+          "link": "https://n.news.naver.com/article/021/0002823967?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "반도체 ETF 리밸런싱에 변동성 커져…삼성전자 2000억 팔고 소부장 더 담는다",
+          "link": "https://n.news.naver.com/article/030/0003473639?ntype=RANKING",
+          "press": "전자신문"
+        }
+      ],
+      "related_titles": [
+        "“성과급 7.5억 기대했는데”…삼성전자, 세금 떼고 나면 절반도 안 남나",
+        "63만원 or 27만원…'역대급 실적' 삼성전자 주가 향방은[종목e슈]",
+        "\"성과급 최소 30억\" 삼성전자 '메모리 부부'…\"서민 탈출한 것 같다\"",
+        "‘악! 내 주식 왜 이래’…107조 벌고도 주가 하락한 삼성전자, 왜?",
+        "반도체 ETF 리밸런싱에 변동성 커져…삼성전자 2000억 팔고 소부장 더 담는다"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 5,
+      "keyword": "이화영",
+      "count": 10,
+      "representative_title": "이화영 \"이재명 대통령에 화났단 보도, 진의와 달라\"",
+      "representative_link": "https://n.news.naver.com/article/003/0014242855?ntype=RANKING",
+      "press": "뉴시스",
+      "related_articles": [
+        {
+          "title": "“李에 화 많이 났다”던 이화영, 이번엔 “대통령님 고뇌 공감”",
+          "link": "https://n.news.naver.com/article/023/0004002840?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "[단독] 이화영 공동변호인단 “이대통령에게 화났단 얘기 들어본 적 없어”",
+          "link": "https://n.news.naver.com/article/022/0004165210?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "'이화영 가석방 요구' 논란에...법무 차관 \"심사 대상 아냐\"",
+          "link": "https://n.news.naver.com/article/052/0002416510?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "가석방 선그은 법무부... 이화영 \"대통령에 화났다는 건 진의 달라\"",
+          "link": "https://n.news.naver.com/article/047/0002531654?ntype=RANKING",
+          "press": "오마이뉴스"
+        },
+        {
+          "title": "이화영·최서원 앞서 朴·DJ도…'옥중분투'의 정치학 [시사뒷담]",
+          "link": "https://n.news.naver.com/article/088/0001032975?ntype=RANKING",
+          "press": "매일신문"
+        }
+      ],
+      "related_titles": [
+        "“李에 화 많이 났다”던 이화영, 이번엔 “대통령님 고뇌 공감”",
+        "[단독] 이화영 공동변호인단 “이대통령에게 화났단 얘기 들어본 적 없어”",
+        "'이화영 가석방 요구' 논란에...법무 차관 \"심사 대상 아냐\"",
+        "가석방 선그은 법무부... 이화영 \"대통령에 화났다는 건 진의 달라\"",
+        "이화영·최서원 앞서 朴·DJ도…'옥중분투'의 정치학 [시사뒷담]"
+      ],
+      "category": "정치"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "삼성전자",
+      "count": 13,
+      "representative_title": "삼성전자 역대 최대 실적에도…코스피 6600선 턱걸이",
+      "representative_link": "https://n.news.naver.com/article/648/0000051439?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "“성과급 7.5억 기대했는데”…삼성전자, 세금 떼고 나면 절반도 안 남나",
+          "link": "https://n.news.naver.com/article/018/0006383874?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "63만원 or 27만원…'역대급 실적' 삼성전자 주가 향방은[종목e슈]",
+          "link": "https://n.news.naver.com/article/018/0006384329?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "‘악! 내 주식 왜 이래’…107조 벌고도 주가 하락한 삼성전자, 왜?",
+          "link": "https://n.news.naver.com/article/021/0002823967?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "삼성전자, 분기 영업익 100조 첫 돌파...글로벌 빅테크 '최초'",
+          "link": "https://n.news.naver.com/article/092/0002440225?ntype=RANKING",
+          "press": "지디넷코리아"
+        },
+        {
+          "title": "반도체 ETF 리밸런싱에 변동성 커져…삼성전자 2000억 팔고 소부장 더 담는다",
+          "link": "https://n.news.naver.com/article/030/0003473639?ntype=RANKING",
+          "press": "전자신문"
+        }
+      ],
+      "related_titles": [
+        "“성과급 7.5억 기대했는데”…삼성전자, 세금 떼고 나면 절반도 안 남나",
+        "63만원 or 27만원…'역대급 실적' 삼성전자 주가 향방은[종목e슈]",
+        "‘악! 내 주식 왜 이래’…107조 벌고도 주가 하락한 삼성전자, 왜?",
+        "삼성전자, 분기 영업익 100조 첫 돌파...글로벌 빅테크 '최초'",
+        "반도체 ETF 리밸런싱에 변동성 커져…삼성전자 2000억 팔고 소부장 더 담는다"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "나스닥",
+      "count": 4,
+      "representative_title": "[속보]AI주 급락·유가 급등에…나스닥 1.3% 하락",
+      "representative_link": "https://n.news.naver.com/article/018/0006384342?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "[속보] 필라델피아 반도체지수 3.39%↓… 나스닥·S&P 500 하락",
+          "link": "https://n.news.naver.com/article/005/0001877742?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "AI 투자 수익성 의문에 고유가까지…나스닥 1.3%↓[월스트리트in]",
+          "link": "https://n.news.naver.com/article/018/0006384343?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "뉴욕증시, 오픈AI '실적 쇼크'에 기술주 하락...나스닥 1.25%↓",
+          "link": "https://n.news.naver.com/article/215/0001268631?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "[속보]AI주 급락·유가 급등에…나스닥 1.3% 하락",
+          "link": "https://n.news.naver.com/article/018/0006384342?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "[속보] 필라델피아 반도체지수 3.39%↓… 나스닥·S&P 500 하락",
+          "link": "https://n.news.naver.com/article/005/0001877742?ntype=RANKING",
+          "press": "국민일보"
+        }
+      ],
+      "related_titles": [
+        "[속보] 필라델피아 반도체지수 3.39%↓… 나스닥·S&P 500 하락",
+        "AI 투자 수익성 의문에 고유가까지…나스닥 1.3%↓[월스트리트in]",
+        "뉴욕증시, 오픈AI '실적 쇼크'에 기술주 하락...나스닥 1.25%↓",
+        "[속보]AI주 급락·유가 급등에…나스닥 1.3% 하락",
+        "[속보] 필라델피아 반도체지수 3.39%↓… 나스닥·S&P 500 하락"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "하락",
+      "count": 4,
+      "representative_title": "삼전 '분기익 100조' 돌파에도… 코스피, 美금리·셀온에 2%대 하락 6625.93 마감",
+      "representative_link": "https://n.news.naver.com/article/654/0000204518?ntype=RANKING",
+      "press": "강원도민일보",
+      "related_articles": [
+        {
+          "title": "삼전 '분기익 100조' 돌파에도… 코스피, 美금리·셀온에 2%대 하락 6625.93 마감",
+          "link": "https://n.news.naver.com/article/654/0000204518?ntype=RANKING",
+          "press": "강원도민일보"
+        },
+        {
+          "title": "삼전 '분기익 100조' 돌파에도… 코스피, 美금리·셀온에 2%대 하락 6625.93 마감",
+          "link": "https://n.news.naver.com/article/654/0000204518?ntype=RANKING",
+          "press": "강원도민일보"
+        },
+        {
+          "title": "삼전 '분기익 100조' 돌파에도… 코스피, 美금리·셀온에 2%대 하락 6625.93 마감",
+          "link": "https://n.news.naver.com/article/654/0000204518?ntype=RANKING",
+          "press": "강원도민일보"
+        }
+      ],
+      "related_titles": [
+        "삼전 '분기익 100조' 돌파에도… 코스피, 美금리·셀온에 2%대 하락 6625.93 마감",
+        "삼전 '분기익 100조' 돌파에도… 코스피, 美금리·셀온에 2%대 하락 6625.93 마감",
+        "삼전 '분기익 100조' 돌파에도… 코스피, 美금리·셀온에 2%대 하락 6625.93 마감"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "성과급",
+      "count": 4,
+      "representative_title": "삼전발 저리대출·성과급 경기남부 아파트 강세‥서울도 87주 연속 최장 상승",
+      "representative_link": "https://n.news.naver.com/article/214/0001527970?ntype=RANKING",
+      "press": "MBC",
+      "related_articles": [
+        {
+          "title": "“엄마, 성과급 6억 나오니 걱정 마” 00년생 삼성맨도 10억 수원 아파트 매수 [르포] [부동산360]",
+          "link": "https://n.news.naver.com/article/016/0002706917?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "삼전발 저리대출·성과급 경기남부 아파트 강세‥서울도 87주 연속 최장 상승",
+          "link": "https://n.news.naver.com/article/214/0001527970?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "“엄마, 성과급 6억 나오니 걱정 마” 00년생 삼성맨도 10억 수원 아파트 매수 [르포] [부동산360]",
+          "link": "https://n.news.naver.com/article/016/0002706917?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "삼전발 저리대출·성과급 경기남부 아파트 강세‥서울도 87주 연속 최장 상승",
+          "link": "https://n.news.naver.com/article/214/0001527970?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "“엄마, 성과급 6억 나오니 걱정 마” 00년생 삼성맨도 10억 수원 아파트 매수 [르포] [부동산360]",
+          "link": "https://n.news.naver.com/article/016/0002706917?ntype=RANKING",
+          "press": "헤럴드경제"
+        }
+      ],
+      "related_titles": [
+        "“엄마, 성과급 6억 나오니 걱정 마” 00년생 삼성맨도 10억 수원 아파트 매수 [르포] [부동산360]",
+        "삼전발 저리대출·성과급 경기남부 아파트 강세‥서울도 87주 연속 최장 상승",
+        "“엄마, 성과급 6억 나오니 걱정 마” 00년생 삼성맨도 10억 수원 아파트 매수 [르포] [부동산360]",
+        "삼전발 저리대출·성과급 경기남부 아파트 강세‥서울도 87주 연속 최장 상승",
+        "“엄마, 성과급 6억 나오니 걱정 마” 00년생 삼성맨도 10억 수원 아파트 매수 [르포] [부동산360]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "주식",
+      "count": 4,
+      "representative_title": "'부동산으로 돈 번다고? 꿈 깼어요'…집 대신 주식 산다",
+      "representative_link": "https://n.news.naver.com/article/015/0005340720?ntype=RANKING",
+      "press": "한국경제",
+      "related_articles": [
+        {
+          "title": "주인 못 찾은 '잠든 주식' 1조4700억원…5년간 돌려준 돈은 2783억원",
+          "link": "https://n.news.naver.com/article/243/0000104012?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "'부동산으로 돈 번다고? 꿈 깼어요'…집 대신 주식 산다",
+          "link": "https://n.news.naver.com/article/015/0005340720?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "배정사실 몰라서, 절차 복잡해서…‘잠들어 있는 주식’ 1조5000억 육박",
+          "link": "https://n.news.naver.com/article/662/0000105777?ntype=RANKING",
+          "press": "농민신문"
+        },
+        {
+          "title": "주인 못 찾은 '잠든 주식' 1조4700억원…5년간 돌려준 돈은 2783억원",
+          "link": "https://n.news.naver.com/article/243/0000104012?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "'부동산으로 돈 번다고? 꿈 깼어요'…집 대신 주식 산다",
+          "link": "https://n.news.naver.com/article/015/0005340720?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "주인 못 찾은 '잠든 주식' 1조4700억원…5년간 돌려준 돈은 2783억원",
+        "'부동산으로 돈 번다고? 꿈 깼어요'…집 대신 주식 산다",
+        "배정사실 몰라서, 절차 복잡해서…‘잠들어 있는 주식’ 1조5000억 육박",
+        "주인 못 찾은 '잠든 주식' 1조4700억원…5년간 돌려준 돈은 2783억원",
+        "'부동산으로 돈 번다고? 꿈 깼어요'…집 대신 주식 산다"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "명가",
+      "series_title": "명가의 몰락",
+      "count": 2,
+      "representative_title": "'몰락한 명가' 삼성화재에 온 우승 청부사…틸리카이넨 감독 '선수단 수준 높이는중'",
+      "representative_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jeUFicGFPLVJ1RFFXWDFRUVQ0Sk0tTGc0YzFwNDVvalY0QTdHUjUxWXQ3NXVubHNZTjg3WnJaQ3ZoN2Y1SmhtVjZwSlY2SU9MMHF5dnJ5RFVXQUZGWEhlc0N4a0xMOGZQWUdvM3FiQlDSAXRBVV95cUxPQ0ktZXF4eW50eHExSXVRV254a2dMaVBhdlJYUlNzWXAyeWlrc0NkSTJOMHZtNUVlaTB0azd6ZmhoRVBhTHJWeGxadmdKbEVOUWlzWWpFNEY4YXVmTzA2N3E1Y3dISmc4a0dZOGxUTEVWeGo4WA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'몰락한 명가' 삼성화재에 온 우승 청부사…틸리카이넨 감독 '선수단 수준 높이는중'",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jeUFicGFPLVJ1RFFXWDFRUVQ0Sk0tTGc0YzFwNDVvalY0QTdHUjUxWXQ3NXVubHNZTjg3WnJaQ3ZoN2Y1SmhtVjZwSlY2SU9MMHF5dnJ5RFVXQUZGWEhlc0N4a0xMOGZQWUdvM3FiQlDSAXRBVV95cUxPQ0ktZXF4eW50eHExSXVRV254a2dMaVBhdlJYUlNzWXAyeWlrc0NkSTJOMHZtNUVlaTB0azd6ZmhoRVBhTHJWeGxadmdKbEVOUWlzWWpFNEY4YXVmTzA2N3E1Y3dISmc4a0dZOGxUTEVWeGo4WA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“내 딸 위한 남편 찾아야 한다면 손흥민 택하겠다” 말했던 그 감독…‘몰락한 명가’ 맨체스터 유나이티드 차기 사령탑직 관심 시사",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yakJDcm8xckZ1Wmlmclg2c240d0tNLVFlS00tUnFKQlBmODM1RDJrSEQtdi1td1hoakhXNnpLeWZCcG9SbF90Z1BoQXVMS3M?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'몰락한 명가' 삼성화재에 온 우승 청부사…틸리카이넨 감독 '선수단 수준 높이는중'",
+        "“내 딸 위한 남편 찾아야 한다면 손흥민 택하겠다” 말했던 그 감독…‘몰락한 명가’ 맨체스터 유나이티드 차기 사령탑직 관심 시사"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 2,
+      "representative_title": "\"팝콘 뜯으면서 즐기면 된다\"...이재명 정권 몰락의 이유 [선우윤호의 MZ레지스탕스ㅣ출연: 윤서인,정호영]",
+      "representative_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HeXN0a2tyX1phVUtHU09jZHN3T09iTHpiTmVqU3liN0NvZGhnTmxva1R2TmM2VlY4QnlUQWlSaGxzVHhDN2hxRnBSOV8yUktRaGRIVWhYeHVFUWc4bTA2dzFQdDVVbnBoYmRN0gFvQVVfeXFMT1F1RktBTF9oWjRnc0NwZHpqTXRmc2JSZFd2bkxyMnpUZTBPUDZoUnNiekp6aGxsajF5V2xYeVZ1anZmX2hPc1FyNmY2V2FPemp1d1YwTlF1cnI0LUhWNDBPa3NwOWUtcy12SWhvQWlB?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[긴급] 정권 몰락에 비상행동? 이재명 재판 카운트다운! | 최전방 뚫렸다! 북한군 침입에 속수무책! / 백광현 백브리핑 대표, 김영환 전 충북지사 [펜앤초대석]",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVaHRnd2lFeEZQV2hJSnJJVGxaY3dwb1Y4b29jN0lrbGU1Sm82VF95VU5uMHEyOVQxN0tMTmtON2R4c0VBTVVnSjFTTlpaczlBYzZvTTQ0bkRJSWxsUjlGV3VvdS1TYXBqQjBB0gFvQVVfeXFMTXpjNWxxTS0wQk5wVVhOMTdHTmU3d1N3RXpHZ1RXOHo3NTFqdWhhRTJuUGtWd0ZpOGpwSFVNMmF2X0lmNkFlemlJWkhUd2ZfalBSZGk4ZExXdmhUdFo0MEtSM0hjV05JZUk4V2N3d0xj?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"팝콘 뜯으면서 즐기면 된다\"...이재명 정권 몰락의 이유 [선우윤호의 MZ레지스탕스ㅣ출연: 윤서인,정호영]",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HeXN0a2tyX1phVUtHU09jZHN3T09iTHpiTmVqU3liN0NvZGhnTmxva1R2TmM2VlY4QnlUQWlSaGxzVHhDN2hxRnBSOV8yUktRaGRIVWhYeHVFUWc4bTA2dzFQdDVVbnBoYmRN0gFvQVVfeXFMT1F1RktBTF9oWjRnc0NwZHpqTXRmc2JSZFd2bkxyMnpUZTBPUDZoUnNiekp6aGxsajF5V2xYeVZ1anZmX2hPc1FyNmY2V2FPemp1d1YwTlF1cnI0LUhWNDBPa3NwOWUtcy12SWhvQWlB?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[긴급] 정권 몰락에 비상행동? 이재명 재판 카운트다운! | 최전방 뚫렸다! 북한군 침입에 속수무책! / 백광현 백브리핑 대표, 김영환 전 충북지사 [펜앤초대석]",
+        "\"팝콘 뜯으면서 즐기면 된다\"...이재명 정권 몰락의 이유 [선우윤호의 MZ레지스탕스ㅣ출연: 윤서인,정호영]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "대국들",
+      "series_title": "대국들의 몰락",
+      "count": 1,
+      "representative_title": "“학교엔 쥐 나오고 집세는 급등”…‘빚더미’ 유럽 경제 대국들의 몰락 [핫클립]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DYVZ6UlhBYnhRMjdpYWpkZ2NIWGR0WW10M3FxQ2Y1cGJ2Q3dLaERNelV0U1hJcWEzMGNUN3pxZ01iU3ctc04tWHg4RmdPNDZ3UFdKMkRSVmo0czQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“학교엔 쥐 나오고 집세는 급등”…‘빚더미’ 유럽 경제 대국들의 몰락 [핫클립]",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DYVZ6UlhBYnhRMjdpYWpkZ2NIWGR0WW10M3FxQ2Y1cGJ2Q3dLaERNelV0U1hJcWEzMGNUN3pxZ01iU3ctc04tWHg4RmdPNDZ3UFdKMkRSVmo0czQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“학교엔 쥐 나오고 집세는 급등”…‘빚더미’ 유럽 경제 대국들의 몰락 [핫클립]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "국가자원",
+      "series_title": "국가자원의 몰락",
+      "count": 1,
+      "representative_title": "국감서 제기된 대형화·비대면 우려…동네약국 사라지면 국가자원 몰락\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zVDdmZXhaNUNCR2g1NmZ4aWhoSi1GeWJPWDI2S1BzTGFqVkFjTFIxUnFTWlZTQ01RR0lqd3RGcmRXVDgtQkI0NlhaYUZha0M4bU9jd3Jscy1rVlA4Zm9pV2FGa0J2MV9BczN5dg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "국감서 제기된 대형화·비대면 우려…동네약국 사라지면 국가자원 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zVDdmZXhaNUNCR2g1NmZ4aWhoSi1GeWJPWDI2S1BzTGFqVkFjTFIxUnFTWlZTQ01RR0lqd3RGcmRXVDgtQkI0NlhaYUZha0M4bU9jd3Jscy1rVlA4Zm9pV2FGa0J2MV9BczN5dg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "국감서 제기된 대형화·비대면 우려…동네약국 사라지면 국가자원 몰락\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "이스라엘",
+      "series_title": "이스라엘의 몰락",
+      "count": 1,
+      "representative_title": "이란 \"하마스, 3년 전 10·7 기습으로 이스라엘 몰락 가속화\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SUmhSdTlwWTdfRHliMThnZV9lT3BRZEczSGlMRmZZUVU2dEY0UXdkXzFwLXFnQ3lueWJ6XzNNSTJwWTZKcjBGWmhlTElGS09ZMW1rN2hBdlg5eUJldGpPek9B?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "이란 \"하마스, 3년 전 10·7 기습으로 이스라엘 몰락 가속화\"",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SUmhSdTlwWTdfRHliMThnZV9lT3BRZEczSGlMRmZZUVU2dEY0UXdkXzFwLXFnQ3lueWJ6XzNNSTJwWTZKcjBGWmhlTElGS09ZMW1rN2hBdlg5eUJldGpPek9B?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "이란 \"하마스, 3년 전 10·7 기습으로 이스라엘 몰락 가속화\""
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 10,
+      "representative_title": "서울 아파트 가격 상승률 상위 10년…3위 盧, 1·2위는?",
+      "representative_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ1piaFdKazFyZVplbFNmcDM0SnMwVnZSdzlfTFhlY3dRQ3d2ZTJ6UWgzT1RXMUEtMldVTlFyQ1hUNmJsTU1IaldCdC1GTVllSG1GX1Q2M084bWxBY0ZwQU1xblI1dXI1Z1d0d3N6a2NNN2YxQ1p2WlZuN3lZNFcyYTI2RHVVQnRYMkszajR3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "수도권 집값 0.14% 상승 뒤에 숨은 ‘양극화의 그늘’… 서울 강남 꺾이고 외곽 뛴다",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wUVlmU3VZbS1IdTJVQkYyY2lTZ0tUWlU4cVctRHlTZ0dENURXOGxMWUNsaGlxanh5VkVoVDNTVVBrbEhMNVlLX0hRWTEzMzNCY3ZvSVA3UnZRM2hodTEzQ0dEODROb1E2Y3c?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 가격 상승률 상위 10년…3위 盧, 1·2위는?",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ1piaFdKazFyZVplbFNmcDM0SnMwVnZSdzlfTFhlY3dRQ3d2ZTJ6UWgzT1RXMUEtMldVTlFyQ1hUNmJsTU1IaldCdC1GTVllSG1GX1Q2M084bWxBY0ZwQU1xblI1dXI1Z1d0d3N6a2NNN2YxQ1p2WlZuN3lZNFcyYTI2RHVVQnRYMkszajR3?oc=5",
+          "press": ""
+        },
+        {
+          "title": "외신 “AI가 서울 집값도 끌어올렸다…李정부 직면한 부동산 딜레마”",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42NHFPaW1rVnVnVzJJY3FXOHNmY19qR0pOZmIwaEpwUkpvdXhxc1R3a2Zrb25UdE1OdXdwN2Nkeldwem1YZGxPNVNNS3RvSVF4UF9Teg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 87주 연속 상승…금관구·노도강 외곽 집값 질주 [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUOUhVbXJab0kwcTdWb1NtVkpZRTQ5UllVMEdiZ0Y3dTNhQnFQNEppYWdOSjdpSWc5WTdaOVNNX2hvMXdDY1hDc2dFQjVhaTdyTm5RMDFiOA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 상승폭 다시 확대…강남 낙폭 줄고 금천·관악 강세",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMWDB5ZHBUSkdtd25nVlhCeDhnVHJfWjNCUW9XaVFJTEZrNTV6czAwTGgtRktiY0JSUlJDY0FvY0NOclpEbkFuelhDT0loVi02MTM4dWhJRWNJY1BBNkRjSEljTQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "수도권 집값 0.14% 상승 뒤에 숨은 ‘양극화의 그늘’… 서울 강남 꺾이고 외곽 뛴다",
+        "서울 아파트 가격 상승률 상위 10년…3위 盧, 1·2위는?",
+        "외신 “AI가 서울 집값도 끌어올렸다…李정부 직면한 부동산 딜레마”",
+        "서울 아파트 87주 연속 상승…금관구·노도강 외곽 집값 질주 [부동산360]",
+        "서울 집값 상승폭 다시 확대…강남 낙폭 줄고 금천·관악 강세"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "정부",
+      "count": 3,
+      "representative_title": "부동산 전문가들 \"文정부 때와 다르다\"…이유 알고 보니 [시장톡]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZeHQwZWp1R3ltTFNYcGtGYWZUMFVONTQzaGxaRGJMQTE3NHN1NXdWdHQ3bzNBekhJM01wa2hFdUlaNm42TWRQSWxxUjkwVzZOaThmY0hjbThJUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "‘서울집값 상승’ 공방… “李정부 개입과도” vs “오세훈 비협조적”",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qeml2cVhLUmhIaEkxWko4YzZKYmJNNDhDeGZ6TmhhNFZ6YW9Eb1I2dDZRc3FMTmJ4VDVnUFVicHV5ZmZNZVNWOFh4d1ZyUmFpcWxaOG9DdXQxOWpqX3FDLUJQd1VnWkJYclRqNGpn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "부동산 전문가들 \"文정부 때와 다르다\"…이유 알고 보니 [시장톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZeHQwZWp1R3ltTFNYcGtGYWZUMFVONTQzaGxaRGJMQTE3NHN1NXdWdHQ3bzNBekhJM01wa2hFdUlaNm42TWRQSWxxUjkwVzZOaThmY0hjbThJUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "‘서울집값 상승’ 공방… “李정부 개입과도” vs “오세훈 비협조적”",
+        "부동산 전문가들 \"文정부 때와 다르다\"…이유 알고 보니 [시장톡]"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "연속",
+      "count": 3,
+      "representative_title": "86주 연속 상승, 규제는 강해졌지만 집값은 더 올랐다[손바닥부동산]",
+      "representative_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjhMcHNHUDhSaHd3OXpVNjByTFBiNW1XLVVSMjVSakd2YWhfdHRWTUYydnZyS2xQXzFJSHladGdUODJXVlRGZlNWVF9LclFqeEs2NFdXbDM3QWhqS3pibzF2cmF6ZkwyQ2k1RHN6LUdjajNDMmF4Nl9wd1ZiNWJXdA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "86주 연속 상승, 규제는 강해졌지만 집값은 더 올랐다[손바닥부동산]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjhMcHNHUDhSaHd3OXpVNjByTFBiNW1XLVVSMjVSakd2YWhfdHRWTUYydnZyS2xQXzFJSHladGdUODJXVlRGZlNWVF9LclFqeEs2NFdXbDM3QWhqS3pibzF2cmF6ZkwyQ2k1RHN6LUdjajNDMmF4Nl9wd1ZiNWJXdA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "86주 연속 상승, 규제는 강해졌지만 집값은 더 올랐다[손바닥부동산]"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
