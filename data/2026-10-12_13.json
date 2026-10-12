@@ -1,0 +1,631 @@
+{
+  "date": "2026-10-12",
+  "hour": "13",
+  "slot": "2026-10-12_13",
+  "crawled_at": "2026-10-12 13:00:00",
+  "total_articles": 388,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "대통령",
+      "count": 34,
+      "representative_title": "조희대 충돌·北지뢰 피격에… 李대통령 지지율 35% 턱걸이",
+      "representative_link": "https://n.news.naver.com/article/029/0003052465?ntype=RANKING",
+      "press": "디지털타임스",
+      "related_articles": [
+        {
+          "title": "\"임은정도 檢출신…\" 대통령 X 언급 뒤, 감찰 받는 임은정",
+          "link": "https://n.news.naver.com/article/079/0004197483?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "김민석 \"논리 바꿔 끊임없이 대통령 공격\"‥'김지용 반대파' 비판",
+          "link": "https://n.news.naver.com/article/214/0001528384?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "이 대통령 부모 묘소 찾아가 ‘인증샷’…이진숙에 ‘분노 폭발’",
+          "link": "https://n.news.naver.com/article/018/0006386359?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "李대통령 휴일 골프장行에 국힘 총공세…장동혁, '세월호 7시간' 빗대기도",
+          "link": "https://n.news.naver.com/article/002/0002460409?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "[속보] 민주, 7%p 대폭 하락해 국힘에 '역전'…李대통령·與 지지율 동반 하락",
+          "link": "https://n.news.naver.com/article/002/0002460399?ntype=RANKING",
+          "press": "프레시안"
+        }
+      ],
+      "related_titles": [
+        "\"임은정도 檢출신…\" 대통령 X 언급 뒤, 감찰 받는 임은정",
+        "김민석 \"논리 바꿔 끊임없이 대통령 공격\"‥'김지용 반대파' 비판",
+        "이 대통령 부모 묘소 찾아가 ‘인증샷’…이진숙에 ‘분노 폭발’",
+        "李대통령 휴일 골프장行에 국힘 총공세…장동혁, '세월호 7시간' 빗대기도",
+        "[속보] 민주, 7%p 대폭 하락해 국힘에 '역전'…李대통령·與 지지율 동반 하락"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 2,
+      "keyword": "만원",
+      "count": 25,
+      "representative_title": "\"오은영은 수백만원, 교수 강연은 30만원…모욕감 느꼈다\"",
+      "representative_link": "https://n.news.naver.com/article/003/0014245933?ntype=RANKING",
+      "press": "뉴시스",
+      "related_articles": [
+        {
+          "title": "“오은영은 수백만원인데 나는 30만원”…연세대 교수가 강연료 거절한 이유",
+          "link": "https://n.news.naver.com/article/016/0002707791?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "[단독] 스드메에 이젠 밥값까지 걱정… 예식장 최소 식대만 1200만원",
+          "link": "https://n.news.naver.com/article/005/0001877999?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "“새벽부터 김밥 말아도 월 300만원 빠듯”… 사라지는 ‘엄마 손맛’",
+          "link": "https://n.news.naver.com/article/005/0001877974?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "“내가 살겠다”며 세입자 내보내더니…다시 전세 놨다가 3000만원 배상",
+          "link": "https://n.news.naver.com/article/018/0006386139?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "\"얼마 나왔어요?\" 묻고는&#8943;16만원 고깃값 계산 안 하고 사라진 일당 6명",
+          "link": "https://n.news.naver.com/article/031/0001064977?ntype=RANKING",
+          "press": "아이뉴스24"
+        }
+      ],
+      "related_titles": [
+        "“오은영은 수백만원인데 나는 30만원”…연세대 교수가 강연료 거절한 이유",
+        "[단독] 스드메에 이젠 밥값까지 걱정… 예식장 최소 식대만 1200만원",
+        "“새벽부터 김밥 말아도 월 300만원 빠듯”… 사라지는 ‘엄마 손맛’",
+        "“내가 살겠다”며 세입자 내보내더니…다시 전세 놨다가 3000만원 배상",
+        "\"얼마 나왔어요?\" 묻고는&#8943;16만원 고깃값 계산 안 하고 사라진 일당 6명"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 3,
+      "keyword": "여성",
+      "count": 15,
+      "representative_title": "제주 길거리서 40대 여성 살해한 60대 긴급체포",
+      "representative_link": "https://n.news.naver.com/article/005/0001878066?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "제주 길거리서 40대 여성 살해한 60대 긴급체포",
+          "link": "https://n.news.naver.com/article/005/0001878066?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "무인매장 냉동고 피해…전원 뽑고 휴대전화 충전한 여성 사연 '공분'[뉴스럽다]",
+          "link": "https://n.news.naver.com/article/079/0004197577?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "[속보] 제주 호텔 앞에서 40대 여성 흉기 피살&#8943;도주한 60대 남성 긴급체포",
+          "link": "https://n.news.naver.com/article/031/0001064964?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "[속보] 한밤중 제주 길거리서 40대 여성 흉기 피살…도주한 60대男 긴급체포",
+          "link": "https://n.news.naver.com/article/029/0003052477?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "무인 아이스크림 매장 냉동고 전원 뽑고 폰 충전한 여성",
+          "link": "https://n.news.naver.com/article/020/0003754235?ntype=RANKING",
+          "press": "동아일보"
+        }
+      ],
+      "related_titles": [
+        "제주 길거리서 40대 여성 살해한 60대 긴급체포",
+        "무인매장 냉동고 피해…전원 뽑고 휴대전화 충전한 여성 사연 '공분'[뉴스럽다]",
+        "[속보] 제주 호텔 앞에서 40대 여성 흉기 피살&#8943;도주한 60대 남성 긴급체포",
+        "[속보] 한밤중 제주 길거리서 40대 여성 흉기 피살…도주한 60대男 긴급체포",
+        "무인 아이스크림 매장 냉동고 전원 뽑고 폰 충전한 여성"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "임은정",
+      "count": 14,
+      "representative_title": "\"서글프다\"…'감찰 대상' 임은정, 취재진 피해 출근",
+      "representative_link": "https://n.news.naver.com/article/057/0001972947?ntype=RANKING",
+      "press": "MBN",
+      "related_articles": [
+        {
+          "title": "'김지용 비판' 임은정, 중수청 '1호 감찰'...착수 '임박'",
+          "link": "https://n.news.naver.com/article/052/0002417490?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "윤호중 행안부 장관 \"임은정, 직위 이용한 정치행동 아닌지 감찰 지시\"",
+          "link": "https://n.news.naver.com/article/214/0001528413?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "윤호중 \"임은정, 직위 이용한 정치행동 아닌지 감찰 지시\"",
+          "link": "https://n.news.naver.com/article/001/0016370170?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "윤호중 \"임은정 감찰? 직무 관련 없는 정치활동하지 말란 뜻\"… 엄정 대응 강조",
+          "link": "https://n.news.naver.com/article/469/0000958861?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "김민석, 임은정 감찰에 “왜 가만히 두냐는 말, 목 넘칠 만큼 많이 와”",
+          "link": "https://n.news.naver.com/article/020/0003754228?ntype=RANKING",
+          "press": "동아일보"
+        }
+      ],
+      "related_titles": [
+        "'김지용 비판' 임은정, 중수청 '1호 감찰'...착수 '임박'",
+        "윤호중 행안부 장관 \"임은정, 직위 이용한 정치행동 아닌지 감찰 지시\"",
+        "윤호중 \"임은정, 직위 이용한 정치행동 아닌지 감찰 지시\"",
+        "윤호중 \"임은정 감찰? 직무 관련 없는 정치활동하지 말란 뜻\"… 엄정 대응 강조",
+        "김민석, 임은정 감찰에 “왜 가만히 두냐는 말, 목 넘칠 만큼 많이 와”"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 5,
+      "keyword": "지지율",
+      "count": 14,
+      "representative_title": "\"사법부·안보·부동산 악재 겹쳤다\"…李 지지율 35.2%로 하락",
+      "representative_link": "https://n.news.naver.com/article/053/0000062178?ntype=RANKING",
+      "press": "주간조선",
+      "related_articles": [
+        {
+          "title": "李 지지율 35.2%, 2주 연속 하락…민주 35.5% 국힘 41.3% [리얼미터]",
+          "link": "https://n.news.naver.com/article/366/0001197256?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "국힘 지지율 41%로 올라, 35%에 그친 민주에 역전 [리얼미터]",
+          "link": "https://n.news.naver.com/article/023/0004003279?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "민주당 지지율 하락에 경향신문 \"민주당TV에서 말하기보다 물밑 소통해야\"",
+          "link": "https://n.news.naver.com/article/006/0000138157?ntype=RANKING",
+          "press": "미디어오늘"
+        },
+        {
+          "title": "\"사법부·안보·부동산 악재 겹쳤다\"…李 지지율 35.2%로 하락",
+          "link": "https://n.news.naver.com/article/053/0000062178?ntype=RANKING",
+          "press": "주간조선"
+        }
+      ],
+      "related_titles": [
+        "李 지지율 35.2%, 2주 연속 하락…민주 35.5% 국힘 41.3% [리얼미터]",
+        "국힘 지지율 41%로 올라, 35%에 그친 민주에 역전 [리얼미터]",
+        "민주당 지지율 하락에 경향신문 \"민주당TV에서 말하기보다 물밑 소통해야\"",
+        "\"사법부·안보·부동산 악재 겹쳤다\"…李 지지율 35.2%로 하락"
+      ],
+      "category": "사회/일반"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "주식",
+      "count": 5,
+      "representative_title": "아버지 돈 주식 투자로 수억 날려…질책 겁나 살해한 40대 딸",
+      "representative_link": "https://n.news.naver.com/article/020/0003754214?ntype=RANKING",
+      "press": "동아일보",
+      "related_articles": [
+        {
+          "title": "아버지 돈 주식 투자로 수억 날려…질책 겁나 살해한 40대 딸",
+          "link": "https://n.news.naver.com/article/020/0003754214?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "'75만→32만원' 반토막 났는데…\"하락한 주가 매력적\" 이유는 [주식R]",
+          "link": "https://n.news.naver.com/article/215/0001268829?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "[속보]“너때문에 주식 망해” 질책에…잠자는 아버지 살해한 40대딸",
+          "link": "https://n.news.naver.com/article/021/0002824297?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "김동선, 한화M&S 주식 1285억원어치 공개매수…주당 8000원",
+          "link": "https://n.news.naver.com/article/138/0002244310?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "“고금리에는 주식 하면 안 된다는 건 고정관념… 견고한 기업 실적 믿어야”",
+          "link": "https://n.news.naver.com/article/037/0000038961?ntype=RANKING",
+          "press": "주간동아"
+        }
+      ],
+      "related_titles": [
+        "아버지 돈 주식 투자로 수억 날려…질책 겁나 살해한 40대 딸",
+        "'75만→32만원' 반토막 났는데…\"하락한 주가 매력적\" 이유는 [주식R]",
+        "[속보]“너때문에 주식 망해” 질책에…잠자는 아버지 살해한 40대딸",
+        "김동선, 한화M&S 주식 1285억원어치 공개매수…주당 8000원",
+        "“고금리에는 주식 하면 안 된다는 건 고정관념… 견고한 기업 실적 믿어야”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "주가",
+      "count": 5,
+      "representative_title": "\"최태원 등장에 불기둥 쐈다\"…주가 줄줄이 급등 [종목+]",
+      "representative_link": "https://n.news.naver.com/article/015/0005341375?ntype=RANKING",
+      "press": "한국경제",
+      "related_articles": [
+        {
+          "title": "\"최태원 등장에 불기둥 쐈다\"…주가 줄줄이 급등 [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005341375?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "\"싸게 살 기회왔네\"…주가 20% 빠졌는데 증권가 찜한 이유 [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005341302?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "‘한화 3남’ 김동선, 1285억 승부수에 시장 ‘들썩’…주가 20% 벌써 급등 [종목Pick]",
+          "link": "https://n.news.naver.com/article/016/0002707946?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "‘성과급 잔치’ 삼전 직원들 화색, ‘맥 못 추는 주가‘에 국민 개미들 울상 [어떻게 생각하십니까]",
+          "link": "https://n.news.naver.com/article/022/0004165769?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "\"최태원 등장에 불기둥 쐈다\"…주가 줄줄이 급등 [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005341375?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "\"최태원 등장에 불기둥 쐈다\"…주가 줄줄이 급등 [종목+]",
+        "\"싸게 살 기회왔네\"…주가 20% 빠졌는데 증권가 찜한 이유 [종목+]",
+        "‘한화 3남’ 김동선, 1285억 승부수에 시장 ‘들썩’…주가 20% 벌써 급등 [종목Pick]",
+        "‘성과급 잔치’ 삼전 직원들 화색, ‘맥 못 추는 주가‘에 국민 개미들 울상 [어떻게 생각하십니까]",
+        "\"최태원 등장에 불기둥 쐈다\"…주가 줄줄이 급등 [종목+]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "코스피",
+      "count": 3,
+      "representative_title": "코스피, 외인 ‘팔자’에 6550선 후퇴…삼전·하이닉스 동반 약세",
+      "representative_link": "https://n.news.naver.com/article/138/0002244293?ntype=RANKING",
+      "press": "디지털데일리",
+      "related_articles": [
+        {
+          "title": "오픈AI 거품론에 외국인 ‘팔자’…코스피, 2% 하락해 6500선 반납",
+          "link": "https://n.news.naver.com/article/366/0001197325?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "연휴 끝나자 코스피 6500선 깨졌다…삼성전자 2%·SK하이닉스 3%↓[마켓시그널]",
+          "link": "https://n.news.naver.com/article/011/0004670202?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "코스피, 외인 ‘팔자’에 6550선 후퇴…삼전·하이닉스 동반 약세",
+          "link": "https://n.news.naver.com/article/138/0002244293?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "오픈AI 거품론에 외국인 ‘팔자’…코스피, 2% 하락해 6500선 반납",
+          "link": "https://n.news.naver.com/article/366/0001197325?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "연휴 끝나자 코스피 6500선 깨졌다…삼성전자 2%·SK하이닉스 3%↓[마켓시그널]",
+          "link": "https://n.news.naver.com/article/011/0004670202?ntype=RANKING",
+          "press": "서울경제"
+        }
+      ],
+      "related_titles": [
+        "오픈AI 거품론에 외국인 ‘팔자’…코스피, 2% 하락해 6500선 반납",
+        "연휴 끝나자 코스피 6500선 깨졌다…삼성전자 2%·SK하이닉스 3%↓[마켓시그널]",
+        "코스피, 외인 ‘팔자’에 6550선 후퇴…삼전·하이닉스 동반 약세",
+        "오픈AI 거품론에 외국인 ‘팔자’…코스피, 2% 하락해 6500선 반납",
+        "연휴 끝나자 코스피 6500선 깨졌다…삼성전자 2%·SK하이닉스 3%↓[마켓시그널]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "한동훈",
+      "count": 3,
+      "representative_title": "조계원 \"한동훈 딸 전자책은 범죄행위, 0.99달러 언급은 자백\"",
+      "representative_link": "https://n.news.naver.com/article/079/0004197557?ntype=RANKING",
+      "press": "노컷뉴스",
+      "related_articles": [
+        {
+          "title": "한동훈 딸 '허위스펙' 경찰 수사에 국내 기관 압수수색 영장 '0건'",
+          "link": "https://n.news.naver.com/article/214/0001528407?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "조계원 \"한동훈 딸 전자책은 범죄행위, 0.99달러 언급은 자백\"",
+          "link": "https://n.news.naver.com/article/079/0004197557?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "한동훈 딸 ‘허위 스펙’ 수사한 경찰, 기관·학회 11곳 압수수색 없이 ‘공문’ 만 보내",
+          "link": "https://n.news.naver.com/article/033/0000052666?ntype=RANKING",
+          "press": "주간경향"
+        },
+        {
+          "title": "한동훈 딸 '허위스펙' 경찰 수사에 국내 기관 압수수색 영장 '0건'",
+          "link": "https://n.news.naver.com/article/214/0001528407?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "조계원 \"한동훈 딸 전자책은 범죄행위, 0.99달러 언급은 자백\"",
+          "link": "https://n.news.naver.com/article/079/0004197557?ntype=RANKING",
+          "press": "노컷뉴스"
+        }
+      ],
+      "related_titles": [
+        "한동훈 딸 '허위스펙' 경찰 수사에 국내 기관 압수수색 영장 '0건'",
+        "조계원 \"한동훈 딸 전자책은 범죄행위, 0.99달러 언급은 자백\"",
+        "한동훈 딸 ‘허위 스펙’ 수사한 경찰, 기관·학회 11곳 압수수색 없이 ‘공문’ 만 보내",
+        "한동훈 딸 '허위스펙' 경찰 수사에 국내 기관 압수수색 영장 '0건'",
+        "조계원 \"한동훈 딸 전자책은 범죄행위, 0.99달러 언급은 자백\""
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "기관",
+      "count": 3,
+      "representative_title": "정부 '임은정 감찰' 지시…\"중수청을 정치 기관 착각, 지적질 골몰\"",
+      "representative_link": "https://n.news.naver.com/article/417/0001160539?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "정부 '임은정 감찰' 지시…\"중수청을 정치 기관 착각, 지적질 골몰\"",
+          "link": "https://n.news.naver.com/article/417/0001160539?ntype=RANKING",
+          "press": "동행미디어 시대"
+        },
+        {
+          "title": "정부 '임은정 감찰' 지시…\"중수청을 정치 기관 착각, 지적질 골몰\"",
+          "link": "https://n.news.naver.com/article/417/0001160539?ntype=RANKING",
+          "press": "동행미디어 시대"
+        },
+        {
+          "title": "정부 '임은정 감찰' 지시…\"중수청을 정치 기관 착각, 지적질 골몰\"",
+          "link": "https://n.news.naver.com/article/417/0001160539?ntype=RANKING",
+          "press": "동행미디어 시대"
+        }
+      ],
+      "related_titles": [
+        "정부 '임은정 감찰' 지시…\"중수청을 정치 기관 착각, 지적질 골몰\"",
+        "정부 '임은정 감찰' 지시…\"중수청을 정치 기관 착각, 지적질 골몰\"",
+        "정부 '임은정 감찰' 지시…\"중수청을 정치 기관 착각, 지적질 골몰\""
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "TK",
+      "series_title": "TK의 몰락",
+      "count": 7,
+      "representative_title": "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아파\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mOHMyOWMtLXphMnIwYUVXOXk2OVNoallrc2NMWWt2alBRc29VandWRjZyMzZBT1g1WmxOZm1IaGZmTFhNNzlobDd2QUZQUzJWcUtSZTdraFZfUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5scnowZ0ZzQ1VSTVlKNE1WT184ZHB6aTJPY2RoWXR5d1RLbjhMeDhEWWwxYkJHcmNPUmwzakZFTk95NHU5N3d3Qm85c3BNY21kOElSbA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “TK 몰락 가슴 아파…비난 각오하고 김부겸 밀었지만, 진심 안 통해”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05NllvSTRXbUhyVC1JQzZfbmlVMnpFSzhJMk14TFBQYWxucERLZU5LdXFoQW5SelFBV1dJTFJLSUNySjJielMtU3VZeHE5b0NaSU8wbHQtWkFLazBuYlhvdTkzN3hSRF9pTjNvMXBEVTJrSXNV?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uR3NPTjRVSHVUUlBJSnFHRm9nWHZsOUJvRFBWZVVsTDYtbEFIYk1BM1JvbU5PWUg1SFVOaTQ4YlBqWXpPVFNNRzdzaWVtdENHN1JJcWtxYUh6MEN4OGxOX1N6ZHVKSnRrMVVTcVB30gFzQVVfeXFMTkJpUmhyUFhVb2pPeXBKR3ZyN2E5bkNmVEt4MjV1bFF4SVZUVGhBSGFlRFhncVZIcC1mOU4wSjhIRUZDcHJ3eFhhWnREcVRxNTBXUlJ5Vk92c1dib3VQUkFJRmF3X2Vxb0pyVHdqa0toYlRmOA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"김부겸 밀었던 진심 외면 받아…TK 몰락 가슴 아프다\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PRTRCY2FvUFdCU0JSR2x6bU96M09OX2QzdUNKYVB4bW5jMnJDYWpBb2ZtVzg0TC1wRTRaNEljcEZ3bGtFUFB5RE1TODJLTmIwR2JUYnZvZ3NnSlk?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “비난 각오하고 김부겸 밀었는데…TK 몰락이 참 가슴 아프다”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkSkxybzIwNUwwLUNXUk1zLUJmc1F6LTZ6cGdWeXlYQ2RUSWFSX1dpQVAtZ3ZIUDNRNkFEMDBTSUtnazQ2VE81RmxwRWM0UzNoWEtuc2hn?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
+        "홍준표 “TK 몰락 가슴 아파…비난 각오하고 김부겸 밀었지만, 진심 안 통해”",
+        "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
+        "홍준표 \"김부겸 밀었던 진심 외면 받아…TK 몰락 가슴 아프다\"",
+        "홍준표 “비난 각오하고 김부겸 밀었는데…TK 몰락이 참 가슴 아프다”"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "충격",
+      "series_title": "충격의 몰락",
+      "count": 2,
+      "representative_title": "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고” - 조선비즈",
+      "representative_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ1BON1RQdGtLWU90Vnl3YUJoSGQ2VE85WUwxVk1XMlhzbFhEUDk4M2RyWnJtVEM3N05PeDhyc2ljRmZBVXdwX0NOTDZoVnJvcHdDM0FIcjgwSmU3Q3lGcHQxSzdNU25PdFpTbk5EcEZ1eGFqZTIwb1c5WHBvUkNvckQxc9IBlwFBVV95cUxQOTNPOVBVU19IRGZsUmR3VUdUZk5FUTBHRThBSDZ1dWpueVUtcFhkYjBlREVJbzB6VUVYNld4WXZ1RkU2OGxySmtzNnZJcTRVUUVjMGRZTzZVWDVkdTBBZFd0YnhmUGlDZ0JmZTJ3eG5YWUliN1FrM0U2Y25jT3Z1Z0NWdXpsVHE3ejEyTVFobGNibzRFNlJv?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고” - 조선비즈",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ1BON1RQdGtLWU90Vnl3YUJoSGQ2VE85WUwxVk1XMlhzbFhEUDk4M2RyWnJtVEM3N05PeDhyc2ljRmZBVXdwX0NOTDZoVnJvcHdDM0FIcjgwSmU3Q3lGcHQxSzdNU25PdFpTbk5EcEZ1eGFqZTIwb1c5WHBvUkNvckQxc9IBlwFBVV95cUxQOTNPOVBVU19IRGZsUmR3VUdUZk5FUTBHRThBSDZ1dWpueVUtcFhkYjBlREVJbzB6VUVYNld4WXZ1RkU2OGxySmtzNnZJcTRVUUVjMGRZTzZVWDVkdTBBZFd0YnhmUGlDZ0JmZTJ3eG5YWUliN1FrM0U2Y25jT3Z1Z0NWdXpsVHE3ejEyTVFobGNibzRFNlJv?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고” - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZbjdEbTRlajVDT1ZJSzFwYVAxaDE3MTFsU3I2SllUS3RNSkJkUkVxbkJ5a2NZc3pvSHZHb1R5eHRkNUk2dFZ6SnJnc2dYX1c3emI3UlNzMGdQb0FSREJfUk1YOHdNaTRQdkHSAW9BVV95cUxPZDVXa1dYNVRaRGtRUThNUVJuaVhFYVBPY1ZDZ0FMa1JFSFd1U2Q2aXIzQU9tM1VMTU91QVEzd1duUWpqS1drWXZBX0FHdXpzS2ljZlhNTGR0Q0JlY3hzTndWZng0SlhxUUVOVjgwSGc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고” - 조선비즈",
+        "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고” - 머니투데이"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "명가",
+      "series_title": "명가의 몰락",
+      "count": 2,
+      "representative_title": "'몰락한 명가' 삼성화재에 온 우승 청부사…틸리카이넨 감독 '선수단 수준 높이는중'",
+      "representative_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jeUFicGFPLVJ1RFFXWDFRUVQ0Sk0tTGc0YzFwNDVvalY0QTdHUjUxWXQ3NXVubHNZTjg3WnJaQ3ZoN2Y1SmhtVjZwSlY2SU9MMHF5dnJ5RFVXQUZGWEhlc0N4a0xMOGZQWUdvM3FiQlDSAXRBVV95cUxPQ0ktZXF4eW50eHExSXVRV254a2dMaVBhdlJYUlNzWXAyeWlrc0NkSTJOMHZtNUVlaTB0azd6ZmhoRVBhTHJWeGxadmdKbEVOUWlzWWpFNEY4YXVmTzA2N3E1Y3dISmc4a0dZOGxUTEVWeGo4WA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'몰락한 명가' 삼성화재에 온 우승 청부사…틸리카이넨 감독 '선수단 수준 높이는중'",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jeUFicGFPLVJ1RFFXWDFRUVQ0Sk0tTGc0YzFwNDVvalY0QTdHUjUxWXQ3NXVubHNZTjg3WnJaQ3ZoN2Y1SmhtVjZwSlY2SU9MMHF5dnJ5RFVXQUZGWEhlc0N4a0xMOGZQWUdvM3FiQlDSAXRBVV95cUxPQ0ktZXF4eW50eHExSXVRV254a2dMaVBhdlJYUlNzWXAyeWlrc0NkSTJOMHZtNUVlaTB0azd6ZmhoRVBhTHJWeGxadmdKbEVOUWlzWWpFNEY4YXVmTzA2N3E1Y3dISmc4a0dZOGxUTEVWeGo4WA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“내 딸 위한 남편 찾아야 한다면 손흥민 택하겠다” 말했던 그 감독…‘몰락한 명가’ 맨체스터 유나이티드 차기 사령탑직 관심 시사",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yakJDcm8xckZ1Wmlmclg2c240d0tNLVFlS00tUnFKQlBmODM1RDJrSEQtdi1td1hoakhXNnpLeWZCcG9SbF90Z1BoQXVMS3M?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'몰락한 명가' 삼성화재에 온 우승 청부사…틸리카이넨 감독 '선수단 수준 높이는중'",
+        "“내 딸 위한 남편 찾아야 한다면 손흥민 택하겠다” 말했던 그 감독…‘몰락한 명가’ 맨체스터 유나이티드 차기 사령탑직 관심 시사"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "최충연",
+      "series_title": "최충연의 몰락",
+      "count": 2,
+      "representative_title": "[오피셜]'AG 金' 군 면제, 세상 다 얻은 것 같지? 한 번에 훅 간다…롯데 방출 최충연의 몰락을 보라",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uV0d6dkUxRG9VdUE5dVM5SEY0YzZfQUZBbG5ReHJpVThIMkZES19aOHpINmZaSFFucHZkUkN6blRFcHZrenRyQUtpY24wbmlzN3FxQXd0UzdNa0dv?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[오피셜]'AG 金' 군 면제, 세상 다 얻은 것 같지? 한 번에 훅 간다...롯데 방출 최충연의 몰락을 보라",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwM0xIdHZrdURXbDZxLWNNdjJrOFJfM3pvcW0zd0dhXy1DN2ZDaF9ycjlkZXU5ZGZHTVhucXphOU83ZjF4SHdwYTR2MEhja1VxMzd0SS1YRWktRU95T3lwM04tOA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[오피셜]'AG 金' 군 면제, 세상 다 얻은 것 같지? 한 번에 훅 간다…롯데 방출 최충연의 몰락을 보라",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uV0d6dkUxRG9VdUE5dVM5SEY0YzZfQUZBbG5ReHJpVThIMkZES19aOHpINmZaSFFucHZkUkN6blRFcHZrenRyQUtpY24wbmlzN3FxQXd0UzdNa0dv?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[오피셜]'AG 金' 군 면제, 세상 다 얻은 것 같지? 한 번에 훅 간다...롯데 방출 최충연의 몰락을 보라",
+        "[오피셜]'AG 金' 군 면제, 세상 다 얻은 것 같지? 한 번에 훅 간다…롯데 방출 최충연의 몰락을 보라"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "몰라줘···TK",
+      "series_title": "몰라줘···TK의 몰락",
+      "count": 1,
+      "representative_title": "홍준표 “비난 각오하고 김부겸 밀었는데, 대구시민 내 진심 몰라줘···TK 몰락 가슴 아프다”",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44RlZ5d0xNWUZiMGNLVzBkSVl3TjlPUVJEbThycU9xYnA1c2Y4Zjk0dHdiSEZkTkJiZm11VURhV0ZfRUVCa3kxdXNjTzQ5amxqNWJxUzRGQXRyUdIBX0FVX3lxTFBOOVIyMk1DWU1nVEg4YWk2TWl4UDNER0g1NXJwY1l5N2RNaTlYMnlwbi0wR1hoWWUtUWt6bEtHUEk1Z3FyVlZ0Zm5xeU9BVXhHVUlqUFZ6T2VCNG5zclNj?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "홍준표 “비난 각오하고 김부겸 밀었는데, 대구시민 내 진심 몰라줘···TK 몰락 가슴 아프다”",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44RlZ5d0xNWUZiMGNLVzBkSVl3TjlPUVJEbThycU9xYnA1c2Y4Zjk0dHdiSEZkTkJiZm11VURhV0ZfRUVCa3kxdXNjTzQ5amxqNWJxUzRGQXRyUdIBX0FVX3lxTFBOOVIyMk1DWU1nVEg4YWk2TWl4UDNER0g1NXJwY1l5N2RNaTlYMnlwbi0wR1hoWWUtUWt6bEtHUEk1Z3FyVlZ0Zm5xeU9BVXhHVUlqUFZ6T2VCNG5zclNj?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "홍준표 “비난 각오하고 김부겸 밀었는데, 대구시민 내 진심 몰라줘···TK 몰락 가슴 아프다”"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 5,
+      "representative_title": "서울 분양가 상승, 집값 내려가기 어렵다[손바닥부동산]",
+      "representative_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcEgxSlNkQllRRmlCcUMtUzdNTW4xLXZWX0o5aWZJSkVnc0dvdEhDRy1uSk9iamtwaDJrR1dubFdjemViVU5MbkdNQ2tjRzRmc25YUExEdFhyV2FCLWZoR09UN1NSblROZGllUkJJUEU3dWJlXzd4UUVrZzlZeG01MQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[부동산 포커스] 서울 집값 피해 갔더니…경기마저 ‘10억 장벽’",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ed203ZVBXQm5DTUhpYVJ6UEtocUJQeWpWb01FaGRJdzU2VnVhYVFyNnlVQWRBM1FQWEtGMExSd2I4LXJxU2RnNndESmFyVGwtRGxQTGU2N3lNS3I1ZHQ2ZmRqVFp2c2NmeUtXeHhSRDBnRVnSAXdBVV95cUxNTVJ1aXBuVWFGZTNiQThBaVJzZ2xUVUdrM1U3a1RTMW5MbUd6QW9zTVFrM3dFUlpFeXdJMUx3aDMwYlFQd2psWThKYlVOUGZsY0lCclB4bHYxNUF1VC1lN0hzZ0d5aHdNWDFha3pPNENvQkhRTzhTVQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'서울 외곽 아파트' vs '교통 좋은 경기도'…집값 오를 진짜 입지는?",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wT0VuV081blZrVHpyaEVFTVktQkx6QTNaaWdaWi1iTS1XSjlUZVVuRWVRQW16d1ZNLUczVmpOMFlTaGc3alB6SEQwdllZT1E5UVpVSGFRVEpQR0NQVDctUtIBeEFVX3lxTE55N3hDdzhCaDVtQ2pSdllxRmhxcXY5RXZ6S3NueERxOUd4d0R0YThYUUczYmZJZnAxSFdWTVNnRXNfajFaeWhSQ3pNX0NwWmtES2s1NkVWcTl1b0E1bGVoNFhMcm40aVFqSWhKQVBidGc0S2h0QWlFdA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 87주 연속 상승…금관구·노도강 외곽 집값 질주 [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96T1hNZmdpcVFqRUZKaHFwSkVaN29rM1d3VUtRbl93Um9MMkxLVTZyR2NZTTRVYW95MG5kOHVURlNMY3d3dldfQmY1NjRVZmdaUFgzam9n?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 분양가 상승, 집값 내려가기 어렵다[손바닥부동산]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcEgxSlNkQllRRmlCcUMtUzdNTW4xLXZWX0o5aWZJSkVnc0dvdEhDRy1uSk9iamtwaDJrR1dubFdjemViVU5MbkdNQ2tjRzRmc25YUExEdFhyV2FCLWZoR09UN1NSblROZGllUkJJUEU3dWJlXzd4UUVrZzlZeG01MQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[통계로 보는 부동산] 서울 집값 다시 상승폭 확대…성북 15% 뛰고 경기 남부도 강세",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03ZDVBS3BDeE5Ddm8yN1ZTWWp5NURVSnkxWTVfZjNONDE3SnotSkMzME8tQU9ZajJwOFJEUHI2Wi1mS19kV1hjeUppVFZmeXlUaFVXQ3BDcmg2QdIBWEFVX3lxTE5WY0NWbkUyVW1OdmFKSGJxUUZERy04eDhOcDBpU0lZV29WaXNjVnRmX2liX0FlZ2xqQWxvaVB1QkVPZDl2TmhMMEcybjVMamRJRklFS3B2eFY?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[부동산 포커스] 서울 집값 피해 갔더니…경기마저 ‘10억 장벽’",
+        "'서울 외곽 아파트' vs '교통 좋은 경기도'…집값 오를 진짜 입지는?",
+        "서울 아파트 87주 연속 상승…금관구·노도강 외곽 집값 질주 [부동산360]",
+        "서울 분양가 상승, 집값 내려가기 어렵다[손바닥부동산]",
+        "[통계로 보는 부동산] 서울 집값 다시 상승폭 확대…성북 15% 뛰고 경기 남부도 강세"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "포커스",
+      "count": 2,
+      "representative_title": "[부동산 포커스] 풀자니 집값 불안, 묶자니 전세난…‘토허제 딜레마’",
+      "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DSEVTYkd4NVpwRmNlVjkyS2VtYWxpb1J2cnBvTUx3TGxrZk1McFU4MjhpOEpUcDFhdXE2UHFZX3F1WmU4SWJ3cnI1bnFzS2FpcWd2TUF3RFBwbzV1X3FaZ21fS3N3OFNmMEViZVBtdTNHclHSAXdBVV95cUxOU3poWTktOGtsaVNvZVVQSlIzVkppMnFOTERIQ2dUMmZDMDFEMFJEbzJUelVpNFVzNHlFZ05MZFJ2bTJzUFMxQURCYTFLYlRqcTBLaEd4YnJyaVJFZVA4R2QwWUlaS3FnWG5CYWxfVzRQNlVveEhBQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[부동산 포커스] 풀자니 집값 불안, 묶자니 전세난…‘토허제 딜레마’",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DSEVTYkd4NVpwRmNlVjkyS2VtYWxpb1J2cnBvTUx3TGxrZk1McFU4MjhpOEpUcDFhdXE2UHFZX3F1WmU4SWJ3cnI1bnFzS2FpcWd2TUF3RFBwbzV1X3FaZ21fS3N3OFNmMEViZVBtdTNHclHSAXdBVV95cUxOU3poWTktOGtsaVNvZVVQSlIzVkppMnFOTERIQ2dUMmZDMDFEMFJEbzJUelVpNFVzNHlFZ05MZFJ2bTJzUFMxQURCYTFLYlRqcTBLaEd4YnJyaVJFZVA4R2QwWUlaS3FnWG5CYWxfVzRQNlVveEhBQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[부동산 포커스] 풀자니 집값 불안, 묶자니 전세난…‘토허제 딜레마’"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
