@@ -1,287 +1,219 @@
 {
-  "date": "2026-10-13",
-  "hour": "16",
-  "slot": "2026-10-13_16",
-  "crawled_at": "2026-10-13 16:00:05",
-  "total_articles": 406,
+  "date": "2026-10-14",
+  "hour": "07",
+  "slot": "2026-10-14_07",
+  "crawled_at": "2026-10-14 07:00:07",
+  "total_articles": 408,
   "topics": [
     {
       "rank": 1,
       "keyword": "인천",
-      "count": 37,
-      "representative_title": "홈플러스 인천 구월점서 칼부림 신고…6∼8명 부상",
-      "representative_link": "https://n.news.naver.com/article/658/0000158294?ntype=RANKING",
-      "press": "국제신문",
+      "count": 23,
+      "representative_title": "홈플러스 인천 구월점서 칼부림…\"6~8명 부상\"",
+      "representative_link": "https://n.news.naver.com/article/655/0000033146?ntype=RANKING",
+      "press": "CJB청주방송",
       "related_articles": [
         {
-          "title": "[속보]인천 구월동 복합상가건물 칼부림…1명 심정지",
-          "link": "https://n.news.naver.com/article/079/0004198214?ntype=RANKING",
-          "press": "노컷뉴스"
+          "title": "'인천 흉기 난동' 피해 20대 여성 의식 못 찾아…7명 부상자는 치료 후 회복 중",
+          "link": "https://n.news.naver.com/article/469/0000959267?ntype=RANKING",
+          "press": "한국일보"
         },
         {
-          "title": "[속보] \"인천 구월동서 흉기 난동…건물 지하에서부터 범행\"",
-          "link": "https://n.news.naver.com/article/015/0005341921?ntype=RANKING",
-          "press": "한국경제"
-        },
-        {
-          "title": "[속보] 인천 구월점서 칼부림 신고…\"6∼8명 부상\"",
-          "link": "https://n.news.naver.com/article/015/0005341908?ntype=RANKING",
-          "press": "한국경제"
-        },
-        {
-          "title": "[속보] 인천 구월동 복합건물서 칼부림…1명 심정지·7명 부상",
-          "link": "https://n.news.naver.com/article/005/0001878376?ntype=RANKING",
+          "title": "인천 찾은 李 대통령, 흉기난동 사건에 “엄정수사, 특단 대책 강구”",
+          "link": "https://n.news.naver.com/article/005/0001878492?ntype=RANKING",
           "press": "국민일보"
         },
         {
-          "title": "홈플러스 인천 구월점서 칼부림…“1명 심정지-7명 부상”",
-          "link": "https://n.news.naver.com/article/020/0003754609?ntype=RANKING",
-          "press": "동아일보"
+          "title": "심정지로 병원 실려온 인천 흉기난동 피해자, 아직 의식 못찾아",
+          "link": "https://n.news.naver.com/article/001/0016374597?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "인천 전자발찌 찬 살인미수범, 양손 흉기 묶고 묻지마 칼부림",
+          "link": "https://n.news.naver.com/article/023/0004003563?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "4층 향하던 인천 칼부림 男, 20대 직장인이 대형 참사 막았다",
+          "link": "https://n.news.naver.com/article/015/0005342186?ntype=RANKING",
+          "press": "한국경제"
         }
       ],
       "related_titles": [
-        "[속보]인천 구월동 복합상가건물 칼부림…1명 심정지",
-        "[속보] \"인천 구월동서 흉기 난동…건물 지하에서부터 범행\"",
-        "[속보] 인천 구월점서 칼부림 신고…\"6∼8명 부상\"",
-        "[속보] 인천 구월동 복합건물서 칼부림…1명 심정지·7명 부상",
-        "홈플러스 인천 구월점서 칼부림…“1명 심정지-7명 부상”"
+        "'인천 흉기 난동' 피해 20대 여성 의식 못 찾아…7명 부상자는 치료 후 회복 중",
+        "인천 찾은 李 대통령, 흉기난동 사건에 “엄정수사, 특단 대책 강구”",
+        "심정지로 병원 실려온 인천 흉기난동 피해자, 아직 의식 못찾아",
+        "인천 전자발찌 찬 살인미수범, 양손 흉기 묶고 묻지마 칼부림",
+        "4층 향하던 인천 칼부림 男, 20대 직장인이 대형 참사 막았다"
       ],
-      "category": "사회/일반"
+      "category": "산업/테크"
     },
     {
       "rank": 2,
-      "keyword": "부상",
-      "count": 31,
-      "representative_title": "[속보] 홈플러스 구월점서 흉기 사건…1명 심정지·7명 부상",
-      "representative_link": "https://n.news.naver.com/article/654/0000205079?ntype=RANKING",
-      "press": "강원도민일보",
+      "keyword": "대통령",
+      "count": 18,
+      "representative_title": "이재명 대통령, ‘부캉이’ 만났다",
+      "representative_link": "https://n.news.naver.com/article/082/0001402336?ntype=RANKING",
+      "press": "부산일보",
       "related_articles": [
         {
-          "title": "\"양손에 흉기 묶고 칼부림\"…인천서 흉기 난동, 7명 부상·1명 심정지",
-          "link": "https://n.news.naver.com/article/437/0000515444?ntype=RANKING",
-          "press": "JTBC"
+          "title": "이 대통령, 사건 당일 인천경찰청 직접 방문...\"강력범죄 특단 대책 강구\"",
+          "link": "https://n.news.naver.com/article/052/0002418417?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "홈플러스 입점 상가건물 식당가 흉기 난동‥1명 심정지·7명 부상",
-          "link": "https://n.news.naver.com/article/214/0001528743?ntype=RANKING",
+          "title": "\"가축도 아니고 21세기에\"‥대통령 이어 국회서도 '납 주사' 질타",
+          "link": "https://n.news.naver.com/article/214/0001528825?ntype=RANKING",
           "press": "MBC"
         },
         {
-          "title": "[속보] 홈플러스 구월점서 흉기 사건…1명 심정지·7명 부상",
-          "link": "https://n.news.naver.com/article/654/0000205079?ntype=RANKING",
-          "press": "강원도민일보"
+          "title": "李대통령, 인천경찰청 방문…흉기난동 사건에 \"특단 대책 강구\"",
+          "link": "https://n.news.naver.com/article/001/0016374615?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "[속보] 홈플러스 구월점 입점 상가서 ‘흉기 난동’ 남성 체포…1명 심정지·7명 부상",
-          "link": "https://n.news.naver.com/article/028/0002827221?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "[속보] 홈플러스 입점 상업시설서 흉기난동…1명 심정지·7명 부상",
-          "link": "https://n.news.naver.com/article/658/0000158297?ntype=RANKING",
-          "press": "국제신문"
-        }
-      ],
-      "related_titles": [
-        "\"양손에 흉기 묶고 칼부림\"…인천서 흉기 난동, 7명 부상·1명 심정지",
-        "홈플러스 입점 상가건물 식당가 흉기 난동‥1명 심정지·7명 부상",
-        "[속보] 홈플러스 구월점서 흉기 사건…1명 심정지·7명 부상",
-        "[속보] 홈플러스 구월점 입점 상가서 ‘흉기 난동’ 남성 체포…1명 심정지·7명 부상",
-        "[속보] 홈플러스 입점 상업시설서 흉기난동…1명 심정지·7명 부상"
-      ],
-      "category": "사회/일반"
-    },
-    {
-      "rank": 3,
-      "keyword": "만원",
-      "count": 20,
-      "representative_title": "서울 결혼식 밥값 8만원…\"마음만 전할게요\"",
-      "representative_link": "https://n.news.naver.com/article/665/0000008347?ntype=RANKING",
-      "press": "더스쿠프",
-      "related_articles": [
-        {
-          "title": "“문과 중년男 아무 쓸모 없더라”…그가 월 300만원 버는 비결",
-          "link": "https://n.news.naver.com/article/025/0003557526?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
-          "title": "SK하닉 10%대 폭락, 144만원 붕괴…삼전도 8% 떨어져",
-          "link": "https://n.news.naver.com/article/020/0003754591?ntype=RANKING",
-          "press": "동아일보"
-        },
-        {
-          "title": "국민연금 833만원 내고 1억 넘게 받았다…‘13배 수령’ 2만명 육박",
-          "link": "https://n.news.naver.com/article/666/0000127162?ntype=RANKING",
+          "title": "李대통령, 인천경찰청 긴급 방문… “무고한 시민 위협하는 범죄 엄단”",
+          "link": "https://n.news.naver.com/article/666/0000127293?ntype=RANKING",
           "press": "경기일보"
         },
         {
-          "title": "오늘이 제일 싸다더니…\"예물 할래\" 우르르 몰리던 명품 '108만원 인하' 결단, 왜?",
-          "link": "https://n.news.naver.com/article/277/0005827481?ntype=RANKING",
-          "press": "아시아경제"
-        },
-        {
-          "title": "‘검은 화요일’ SK하이닉스 10%이상 하락… 144만원 붕괴",
-          "link": "https://n.news.naver.com/article/022/0004166255?ntype=RANKING",
-          "press": "세계일보"
+          "title": "\"부캉이 보러 왔다가 대통령까지\"…이 대통령, 부산서 시민들과 소통",
+          "link": "https://n.news.naver.com/article/654/0000205154?ntype=RANKING",
+          "press": "강원도민일보"
         }
       ],
       "related_titles": [
-        "“문과 중년男 아무 쓸모 없더라”…그가 월 300만원 버는 비결",
-        "SK하닉 10%대 폭락, 144만원 붕괴…삼전도 8% 떨어져",
-        "국민연금 833만원 내고 1억 넘게 받았다…‘13배 수령’ 2만명 육박",
-        "오늘이 제일 싸다더니…\"예물 할래\" 우르르 몰리던 명품 '108만원 인하' 결단, 왜?",
-        "‘검은 화요일’ SK하이닉스 10%이상 하락… 144만원 붕괴"
+        "이 대통령, 사건 당일 인천경찰청 직접 방문...\"강력범죄 특단 대책 강구\"",
+        "\"가축도 아니고 21세기에\"‥대통령 이어 국회서도 '납 주사' 질타",
+        "李대통령, 인천경찰청 방문…흉기난동 사건에 \"특단 대책 강구\"",
+        "李대통령, 인천경찰청 긴급 방문… “무고한 시민 위협하는 범죄 엄단”",
+        "\"부캉이 보러 왔다가 대통령까지\"…이 대통령, 부산서 시민들과 소통"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 3,
+      "keyword": "흉기",
+      "count": 17,
+      "representative_title": "양손에 흉기 묶고 보이는 대로 휘둘러…9명 피해",
+      "representative_link": "https://n.news.naver.com/article/422/0000915317?ntype=RANKING",
+      "press": "연합뉴스TV",
+      "related_articles": [
+        {
+          "title": "“양손에 흉기 묶고 휘둘러, 곳곳서 비명”… 또 공공장소 참극",
+          "link": "https://n.news.naver.com/article/005/0001878473?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "양손에 흉기 묶고 8명 찔렀다… 또 아무도 못 지킨 전자발찌",
+          "link": "https://n.news.naver.com/article/081/0003688646?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "전자발찌 찬 살인미수범, 양손에 흉기 묶고 무차별 공격",
+          "link": "https://n.news.naver.com/article/022/0004166359?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "2차례 살인미수에 전자발찌…‘흉기 소지’ 전력까지",
+          "link": "https://n.news.naver.com/article/056/0012272964?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "양손에 흉기 묶고 보이는 대로 휘둘러…9명 피해",
+          "link": "https://n.news.naver.com/article/422/0000915317?ntype=RANKING",
+          "press": "연합뉴스TV"
+        }
+      ],
+      "related_titles": [
+        "“양손에 흉기 묶고 휘둘러, 곳곳서 비명”… 또 공공장소 참극",
+        "양손에 흉기 묶고 8명 찔렀다… 또 아무도 못 지킨 전자발찌",
+        "전자발찌 찬 살인미수범, 양손에 흉기 묶고 무차별 공격",
+        "2차례 살인미수에 전자발찌…‘흉기 소지’ 전력까지",
+        "양손에 흉기 묶고 보이는 대로 휘둘러…9명 피해"
       ],
       "category": "산업/테크"
     },
     {
       "rank": 4,
-      "keyword": "대통령",
-      "count": 17,
-      "representative_title": "李대통령 \"금리 올라갈 가능성 높다\"…영끌족 발동동",
-      "representative_link": "https://n.news.naver.com/article/374/0000537502?ntype=RANKING",
-      "press": "SBS Biz",
+      "keyword": "칼부림",
+      "count": 12,
+      "representative_title": "홈플러스 칼부림 용의자, 1인시위 당시 모습 공개됐다",
+      "representative_link": "https://n.news.naver.com/article/119/0003142358?ntype=RANKING",
+      "press": "데일리안",
       "related_articles": [
         {
-          "title": "추미애 \"관사는 전세, 사치 아냐... 이 대통령 비판은 저라고 생각 안 해\"",
-          "link": "https://n.news.naver.com/article/469/0000959138?ntype=RANKING",
-          "press": "한국일보"
+          "title": "\"칼을 손으로 빼낸 거예요?\" \"네네\" 칼부림 제압 시민 인터뷰 [현장영상]",
+          "link": "https://n.news.naver.com/article/214/0001528815?ntype=RANKING",
+          "press": "MBC"
         },
         {
-          "title": "李대통령 '고관대작' 글에 추미애 \"날 지목한 것 아냐\"…저격설 일축",
-          "link": "https://n.news.naver.com/article/666/0000127179?ntype=RANKING",
-          "press": "경기일보"
+          "title": "‘전자발찌 칼부림’ 50대, 보호관찰관 만나고 1시간 뒤 범행…피해자 8명 중 6명이 여성",
+          "link": "https://n.news.naver.com/article/081/0003688632?ntype=RANKING",
+          "press": "서울신문"
         },
         {
-          "title": "이 대통령 \"국가 간 이견 있기 마련...굴종·사대는 지양해야\"",
-          "link": "https://n.news.naver.com/article/052/0002418066?ntype=RANKING",
-          "press": "YTN"
+          "title": "홈플러스 칼부림 용의자, 1인시위 당시 모습 공개됐다",
+          "link": "https://n.news.naver.com/article/119/0003142358?ntype=RANKING",
+          "press": "데일리안"
         },
         {
-          "title": "李대통령, 중수청·공소청장 국무회의 참석 논란에 \"헌법상 당연\"",
-          "link": "https://n.news.naver.com/article/586/0000139840?ntype=RANKING",
+          "title": "보호관찰관과 점심 먹고 70분 뒤…전자발찌 찬 채 '묻지마 칼부림'",
+          "link": "https://n.news.naver.com/article/586/0000139885?ntype=RANKING",
           "press": "시사저널"
-        },
-        {
-          "title": "\"서민 혈세로 호사\" 李대통령 글에…추미애 \"저 지목한 것 아냐\"",
-          "link": "https://n.news.naver.com/article/088/0001033942?ntype=RANKING",
-          "press": "매일신문"
         }
       ],
       "related_titles": [
-        "추미애 \"관사는 전세, 사치 아냐... 이 대통령 비판은 저라고 생각 안 해\"",
-        "李대통령 '고관대작' 글에 추미애 \"날 지목한 것 아냐\"…저격설 일축",
-        "이 대통령 \"국가 간 이견 있기 마련...굴종·사대는 지양해야\"",
-        "李대통령, 중수청·공소청장 국무회의 참석 논란에 \"헌법상 당연\"",
-        "\"서민 혈세로 호사\" 李대통령 글에…추미애 \"저 지목한 것 아냐\""
+        "\"칼을 손으로 빼낸 거예요?\" \"네네\" 칼부림 제압 시민 인터뷰 [현장영상]",
+        "‘전자발찌 칼부림’ 50대, 보호관찰관 만나고 1시간 뒤 범행…피해자 8명 중 6명이 여성",
+        "홈플러스 칼부림 용의자, 1인시위 당시 모습 공개됐다",
+        "보호관찰관과 점심 먹고 70분 뒤…전자발찌 찬 채 '묻지마 칼부림'"
       ],
-      "category": "정치"
+      "category": "산업/테크"
     },
     {
       "rank": 5,
-      "keyword": "추미애",
-      "count": 14,
-      "representative_title": "추미애 \"12억 관사는 전세…호화 사치 아니다\"",
-      "representative_link": "https://n.news.naver.com/article/448/0000644571?ntype=RANKING",
-      "press": "TV조선",
+      "keyword": "흉기난동",
+      "count": 12,
+      "representative_title": "인천서 전자발찌 찬 50대 흉기난동…시민들, 의자로 막으며 제압",
+      "representative_link": "https://n.news.naver.com/article/028/0002827328?ntype=RANKING",
+      "press": "한겨레",
       "related_articles": [
         {
-          "title": "추미애 “12억 관사, 호화 아냐”…“솔선수범” 요구에 반박",
-          "link": "https://n.news.naver.com/article/005/0001878356?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "추미애, 12억 관사 논란에 “전세라 호화사치 아냐…계약 끝나면 반환”",
-          "link": "https://n.news.naver.com/article/025/0003557544?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
-          "title": "“이재명 키운 것 후회하나”…추미애 “국감서 적절치 않은 질문”",
-          "link": "https://n.news.naver.com/article/437/0000515423?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "추미애 \"12억 관사는 전세…호화 사치 아니다\"",
-          "link": "https://n.news.naver.com/article/448/0000644571?ntype=RANKING",
-          "press": "TV조선"
-        },
-        {
-          "title": "추미애 “경기도 곳곳 고름덩어리…독주할 생각 없고 독주 안했다” [현장영상]",
-          "link": "https://n.news.naver.com/article/449/0000363867?ntype=RANKING",
-          "press": "채널A"
+          "title": "인천서 전자발찌 찬 50대 흉기난동…시민들, 의자로 막으며 제압",
+          "link": "https://n.news.naver.com/article/028/0002827328?ntype=RANKING",
+          "press": "한겨레"
         }
       ],
       "related_titles": [
-        "추미애 “12억 관사, 호화 아냐”…“솔선수범” 요구에 반박",
-        "추미애, 12억 관사 논란에 “전세라 호화사치 아냐…계약 끝나면 반환”",
-        "“이재명 키운 것 후회하나”…추미애 “국감서 적절치 않은 질문”",
-        "추미애 \"12억 관사는 전세…호화 사치 아니다\"",
-        "추미애 “경기도 곳곳 고름덩어리…독주할 생각 없고 독주 안했다” [현장영상]"
+        "인천서 전자발찌 찬 50대 흉기난동…시민들, 의자로 막으며 제압"
       ],
-      "category": "사회/일반"
+      "category": "산업/테크"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "코스피",
-      "count": 10,
-      "representative_title": "코스피 장중 6,000선 밑으로…‘매도 사이드카’ 발동",
-      "representative_link": "https://n.news.naver.com/article/056/0012272571?ntype=RANKING",
-      "press": "KBS",
+      "keyword": "삼성전자",
+      "count": 9,
+      "representative_title": "이재용, 홍라희 삼성전자 주식 2.6조 증여받는다",
+      "representative_link": "https://n.news.naver.com/article/422/0000915297?ntype=RANKING",
+      "press": "연합뉴스TV",
       "related_articles": [
         {
-          "title": "개미들 비명 터지는데…\"코스피 1만2000 가능\" 뜻밖의 전망",
-          "link": "https://n.news.naver.com/article/015/0005341852?ntype=RANKING",
-          "press": "한국경제"
+          "title": "이재용, 홍라희 삼성전자 주식 2조6000억원 증여받아… 지분 1.75%로 확대",
+          "link": "https://n.news.naver.com/article/366/0001197722?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "“내년엔 코스피 1만2000 간다”…6000선도 무너졌는데 근거는 [오늘 나온 보고서]",
-          "link": "https://n.news.naver.com/article/009/0005747555?ntype=RANKING",
-          "press": "매일경제"
+          "title": "이재용, 홍라희 삼성전자 주식 2.6조 증여받는다",
+          "link": "https://n.news.naver.com/article/422/0000915297?ntype=RANKING",
+          "press": "연합뉴스TV"
         },
         {
-          "title": "유승민, 코스피 6000선 붕괴에 \"국민 노후자금 날렸다\"…국민연금 정조준",
-          "link": "https://n.news.naver.com/article/586/0000139848?ntype=RANKING",
-          "press": "시사저널"
-        },
-        {
-          "title": "[속보] '중국발 메모리'로 깨진 코스피 6000…삼성 -6.99%, SK -8.85%",
-          "link": "https://n.news.naver.com/article/002/0002460606?ntype=RANKING",
-          "press": "프레시안"
-        },
-        {
-          "title": "코스피 장중 6,000선 밑으로…‘매도 사이드카’ 발동",
-          "link": "https://n.news.naver.com/article/056/0012272571?ntype=RANKING",
-          "press": "KBS"
-        }
-      ],
-      "related_titles": [
-        "개미들 비명 터지는데…\"코스피 1만2000 가능\" 뜻밖의 전망",
-        "“내년엔 코스피 1만2000 간다”…6000선도 무너졌는데 근거는 [오늘 나온 보고서]",
-        "유승민, 코스피 6000선 붕괴에 \"국민 노후자금 날렸다\"…국민연금 정조준",
-        "[속보] '중국발 메모리'로 깨진 코스피 6000…삼성 -6.99%, SK -8.85%",
-        "코스피 장중 6,000선 밑으로…‘매도 사이드카’ 발동"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 2,
-      "keyword": "급락",
-      "count": 8,
-      "representative_title": "143만원까지 밀린 SK하이닉스…10% 이상 급락",
-      "representative_link": "https://n.news.naver.com/article/005/0001878363?ntype=RANKING",
-      "press": "국민일보",
-      "related_articles": [
-        {
-          "title": "143만원까지 밀린 SK하이닉스…10% 이상 급락",
-          "link": "https://n.news.naver.com/article/005/0001878363?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "[속보] SK하이닉스 10% 이상 급락…144만원 내줘",
-          "link": "https://n.news.naver.com/article/024/0000108884?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "이재용 삼성전자 회장, 홍라희 여사 주식 2.6兆 증여…지분 1.75%",
+          "link": "https://n.news.naver.com/article/293/0000091535?ntype=RANKING",
+          "press": "블로터"
         },
         {
           "title": "中 CXMT ‘차세대 D램’ 쇼크…삼성전자·SK하이닉스 급락",
@@ -289,139 +221,189 @@
           "press": "매경이코노미"
         },
         {
-          "title": "LH 사장 \"집값 급락 가능성 좀 많다…지금 안 사도 손해 안 봐\"",
-          "link": "https://n.news.naver.com/article/417/0001160666?ntype=RANKING",
-          "press": "동행미디어 시대"
-        },
-        {
-          "title": "하이닉스 10% 넘게 급락, 144만원 붕괴…삼전도 23만원 깨졌다",
-          "link": "https://n.news.naver.com/article/053/0000062213?ntype=RANKING",
-          "press": "주간조선"
+          "title": "‘중국발 반도체 쇼크’로 SK하이닉스 8%대, 삼성전자 6%대 급락… 매도 사이드카 발동",
+          "link": "https://n.news.naver.com/article/037/0000038969?ntype=RANKING",
+          "press": "주간동아"
         }
       ],
       "related_titles": [
-        "143만원까지 밀린 SK하이닉스…10% 이상 급락",
-        "[속보] SK하이닉스 10% 이상 급락…144만원 내줘",
+        "이재용, 홍라희 삼성전자 주식 2조6000억원 증여받아… 지분 1.75%로 확대",
+        "이재용, 홍라희 삼성전자 주식 2.6조 증여받는다",
+        "이재용 삼성전자 회장, 홍라희 여사 주식 2.6兆 증여…지분 1.75%",
         "中 CXMT ‘차세대 D램’ 쇼크…삼성전자·SK하이닉스 급락",
-        "LH 사장 \"집값 급락 가능성 좀 많다…지금 안 사도 손해 안 봐\"",
-        "하이닉스 10% 넘게 급락, 144만원 붕괴…삼전도 23만원 깨졌다"
+        "‘중국발 반도체 쇼크’로 SK하이닉스 8%대, 삼성전자 6%대 급락… 매도 사이드카 발동"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "주식",
+      "count": 9,
+      "representative_title": "검은 화요일에도 '이 주식'은 살아남았다",
+      "representative_link": "https://n.news.naver.com/article/018/0006387420?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "\"코스피 5000까지 밀릴 수도…당분간 美 주식 비중 늘릴만\"",
+          "link": "https://n.news.naver.com/article/009/0005748039?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "레버리지 경고 놓치고 주가 급락하더니…한은 직원들, 주식 거래하느라 바빴다",
+          "link": "https://n.news.naver.com/article/030/0003474636?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "검은 화요일에도 '이 주식'은 살아남았다",
+          "link": "https://n.news.naver.com/article/018/0006387420?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "고점서 주식 비중 못 줄인 국민연금…급락장서 ‘무기력’",
+          "link": "https://n.news.naver.com/article/029/0003052923?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "홍라희,  이재용에 삼전 주식 2.6조 증여…증여세 1.5조원대 추산",
+          "link": "https://n.news.naver.com/article/448/0000644691?ntype=RANKING",
+          "press": "TV조선"
+        }
+      ],
+      "related_titles": [
+        "\"코스피 5000까지 밀릴 수도…당분간 美 주식 비중 늘릴만\"",
+        "레버리지 경고 놓치고 주가 급락하더니…한은 직원들, 주식 거래하느라 바빴다",
+        "검은 화요일에도 '이 주식'은 살아남았다",
+        "고점서 주식 비중 못 줄인 국민연금…급락장서 ‘무기력’",
+        "홍라희,  이재용에 삼전 주식 2.6조 증여…증여세 1.5조원대 추산"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "하이닉스",
+      "keyword": "코스피",
       "count": 7,
-      "representative_title": "SK하이닉스 급락에도…하나證 “360만원 간다” [오늘, 이 종목]",
-      "representative_link": "https://n.news.naver.com/article/024/0000108880?ntype=RANKING",
-      "press": "매경이코노미",
+      "representative_title": "6000선 내준 코스피, 반도체 실적에 반등 달렸다",
+      "representative_link": "https://n.news.naver.com/article/417/0001160802?ntype=RANKING",
+      "press": "동행미디어 시대",
       "related_articles": [
         {
-          "title": "SK하이닉스 급락에도…하나證 “360만원 간다” [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000108880?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "\"5500까지 열어 둬야\" vs \"지금이 매수 기회\"…코스피 바닥 논쟁",
+          "link": "https://n.news.naver.com/article/421/0009225618?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "SK하이닉스 급락에도…하나證 “360만원 간다” [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000108880?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "‘이러니 코스피 녹아내리지’ 여기저기 곡소리…무려 ‘200조’나 팔았다 [이슈앤뷰]",
+          "link": "https://n.news.naver.com/article/016/0002708832?ntype=RANKING",
+          "press": "헤럴드경제"
         },
         {
-          "title": "SK하이닉스 급락에도…하나證 “360만원 간다” [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000108880?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "'4.5조' 또 던진 외국인…삼전닉스 흔들리자, 코스피 장중 6000선 붕괴",
+          "link": "https://n.news.naver.com/article/030/0003474604?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "코스피, 시총 5000조 깨지고 SK하닉 1000조도 위태",
+          "link": "https://n.news.naver.com/article/243/0000104169?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "외국인 5조 ‘팔자’에 코스피 급락한 ‘검은 화요일’",
+          "link": "https://n.news.naver.com/article/037/0000038970?ntype=RANKING",
+          "press": "주간동아"
         }
       ],
       "related_titles": [
-        "SK하이닉스 급락에도…하나證 “360만원 간다” [오늘, 이 종목]",
-        "SK하이닉스 급락에도…하나證 “360만원 간다” [오늘, 이 종목]",
-        "SK하이닉스 급락에도…하나證 “360만원 간다” [오늘, 이 종목]"
+        "\"5500까지 열어 둬야\" vs \"지금이 매수 기회\"…코스피 바닥 논쟁",
+        "‘이러니 코스피 녹아내리지’ 여기저기 곡소리…무려 ‘200조’나 팔았다 [이슈앤뷰]",
+        "'4.5조' 또 던진 외국인…삼전닉스 흔들리자, 코스피 장중 6000선 붕괴",
+        "코스피, 시총 5000조 깨지고 SK하닉 1000조도 위태",
+        "외국인 5조 ‘팔자’에 코스피 급락한 ‘검은 화요일’"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "기관",
-      "count": 7,
-      "representative_title": "외교부·통일부·국방부... 44개 기관 세종시로 이전",
-      "representative_link": "https://n.news.naver.com/article/023/0004003551?ntype=RANKING",
+      "keyword": "시총",
+      "count": 3,
+      "representative_title": "韓, 시총 하나로 증시 퇴출… 美·日은 개선 유도",
+      "representative_link": "https://n.news.naver.com/article/023/0004003648?ntype=RANKING",
       "press": "조선일보",
       "related_articles": [
         {
-          "title": "외교·국방·통일부 세종 간다…수도권 기관 44곳 2031년까지 이전",
-          "link": "https://n.news.naver.com/article/005/0001878371?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "내년부터 공무원 1만명 짐 싼다…금융위·법무·성평등부 등 44개 기관 세종행",
-          "link": "https://n.news.naver.com/article/009/0005747772?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "정부 \"내년 27개 정부 기관 세종 이전‥금융위·방미통위 등 대상\"",
-          "link": "https://n.news.naver.com/article/214/0001528736?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "외교부·통일부·국방부... 44개 기관 세종시로 이전",
-          "link": "https://n.news.naver.com/article/023/0004003551?ntype=RANKING",
+          "title": "韓, 시총 하나로 증시 퇴출… 美·日은 개선 유도",
+          "link": "https://n.news.naver.com/article/023/0004003648?ntype=RANKING",
           "press": "조선일보"
         },
         {
-          "title": "법무부·성평등부·외교부·통일부 등 세종 이전…6개 기관 내년 상반기 우선 추진",
-          "link": "https://n.news.naver.com/article/056/0012272626?ntype=RANKING",
-          "press": "KBS"
+          "title": "'시총 미달 상폐 너무 급했나'...정부·여당서 쏟아지는 우려에 금융위 고심",
+          "link": "https://n.news.naver.com/article/648/0000051554?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "韓, 시총 하나로 증시 퇴출… 美·日은 개선 유도",
+          "link": "https://n.news.naver.com/article/023/0004003648?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "'시총 미달 상폐 너무 급했나'...정부·여당서 쏟아지는 우려에 금융위 고심",
+          "link": "https://n.news.naver.com/article/648/0000051554?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "韓, 시총 하나로 증시 퇴출… 美·日은 개선 유도",
+          "link": "https://n.news.naver.com/article/023/0004003648?ntype=RANKING",
+          "press": "조선일보"
         }
       ],
       "related_titles": [
-        "외교·국방·통일부 세종 간다…수도권 기관 44곳 2031년까지 이전",
-        "내년부터 공무원 1만명 짐 싼다…금융위·법무·성평등부 등 44개 기관 세종행",
-        "정부 \"내년 27개 정부 기관 세종 이전‥금융위·방미통위 등 대상\"",
-        "외교부·통일부·국방부... 44개 기관 세종시로 이전",
-        "법무부·성평등부·외교부·통일부 등 세종 이전…6개 기관 내년 상반기 우선 추진"
+        "韓, 시총 하나로 증시 퇴출… 美·日은 개선 유도",
+        "'시총 미달 상폐 너무 급했나'...정부·여당서 쏟아지는 우려에 금융위 고심",
+        "韓, 시총 하나로 증시 퇴출… 美·日은 개선 유도",
+        "'시총 미달 상폐 너무 급했나'...정부·여당서 쏟아지는 우려에 금융위 고심",
+        "韓, 시총 하나로 증시 퇴출… 美·日은 개선 유도"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "삼성전자",
-      "count": 5,
-      "representative_title": "\"삼성전자 당분간은…\" 충격 전망에 '반도체 돈잔치' 딜레마",
-      "representative_link": "https://n.news.naver.com/article/015/0005341885?ntype=RANKING",
-      "press": "한국경제",
+      "keyword": "달러",
+      "count": 3,
+      "representative_title": "달러 패권은 과연 영원할 수 있을까",
+      "representative_link": "https://n.news.naver.com/article/262/0000019754?ntype=RANKING",
+      "press": "신동아",
       "related_articles": [
         {
-          "title": "\"삼성전자 당분간은…\" 충격 전망에 '반도체 돈잔치' 딜레마",
-          "link": "https://n.news.naver.com/article/015/0005341885?ntype=RANKING",
-          "press": "한국경제"
+          "title": "애플, 스마트홈 시장 공략 강화…299달러 '홈뷰' 공개",
+          "link": "https://n.news.naver.com/article/293/0000091540?ntype=RANKING",
+          "press": "블로터"
         },
         {
-          "title": "\"오늘도 고맙습니다\"…삼성전자, 반도체 협력사에 커피차 쏜다",
-          "link": "https://n.news.naver.com/article/119/0003142021?ntype=RANKING",
-          "press": "데일리안"
+          "title": "“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들",
+          "link": "https://n.news.naver.com/article/607/0000003540?ntype=RANKING",
+          "press": "뉴스타파"
         },
         {
-          "title": "\"삼성전자 당분간은…\" 충격 전망에 '반도체 돈잔치' 딜레마",
-          "link": "https://n.news.naver.com/article/015/0005341885?ntype=RANKING",
-          "press": "한국경제"
+          "title": "달러 패권은 과연 영원할 수 있을까",
+          "link": "https://n.news.naver.com/article/262/0000019754?ntype=RANKING",
+          "press": "신동아"
         },
         {
-          "title": "\"오늘도 고맙습니다\"…삼성전자, 반도체 협력사에 커피차 쏜다",
-          "link": "https://n.news.naver.com/article/119/0003142021?ntype=RANKING",
-          "press": "데일리안"
+          "title": "애플, 스마트홈 시장 공략 강화…299달러 '홈뷰' 공개",
+          "link": "https://n.news.naver.com/article/293/0000091540?ntype=RANKING",
+          "press": "블로터"
         },
         {
-          "title": "\"삼성전자 당분간은…\" 충격 전망에 '반도체 돈잔치' 딜레마",
-          "link": "https://n.news.naver.com/article/015/0005341885?ntype=RANKING",
-          "press": "한국경제"
+          "title": "“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들",
+          "link": "https://n.news.naver.com/article/607/0000003540?ntype=RANKING",
+          "press": "뉴스타파"
         }
       ],
       "related_titles": [
-        "\"삼성전자 당분간은…\" 충격 전망에 '반도체 돈잔치' 딜레마",
-        "\"오늘도 고맙습니다\"…삼성전자, 반도체 협력사에 커피차 쏜다",
-        "\"삼성전자 당분간은…\" 충격 전망에 '반도체 돈잔치' 딜레마",
-        "\"오늘도 고맙습니다\"…삼성전자, 반도체 협력사에 커피차 쏜다",
-        "\"삼성전자 당분간은…\" 충격 전망에 '반도체 돈잔치' 딜레마"
+        "애플, 스마트홈 시장 공략 강화…299달러 '홈뷰' 공개",
+        "“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들",
+        "달러 패권은 과연 영원할 수 있을까",
+        "애플, 스마트홈 시장 공략 강화…299달러 '홈뷰' 공개",
+        "“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들"
       ],
       "category": "주식/코인"
     }
@@ -431,43 +413,43 @@
       "rank": 1,
       "keyword": "정권",
       "series_title": "정권의 몰락",
-      "count": 12,
+      "count": 15,
       "representative_title": "국힘 \"이화영 특사 단행하면 정권 몰락 도화선\"",
       "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OcWlGSmtxbXc4d3hVVnRiak1VeVVTZGc1bXI0anFidzlkV0RNZDN4RG14dGhFQmYtSmctTHY1TGRsRXc3LWVjS2d4Rnc0UkdkcGFISjVMclLSAVNBVV95cUxPaWV6LVQ2VzdmT1dWeG1hMDMyQUQtdktrUkE3Mjh4eGltNFFhOFNtTk5ieHZwUGtaWFNkNzN0UUlrVHJoWUZmMkZHRGIzZllteEdJUQ?oc=5",
       "press": "",
       "related_articles": [
+        {
+          "title": "“대통령, 이화영에 무슨 약점? 특사땐 정권 몰락” 임이자의 말",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DNGt1NjVkZ0lBaFRzcFg2N2diRXQ2Mnk3MnhtT0JLamwybmRnemQwV2dHek1XUWduMXEzd1JBZVFKU1lsd0lsTWJqQUNoaG5E?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[오정근 칼럼] 정권 몰락의 위기, 이재명의 근본 없는 경제정책 탓",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IbUlNSXB1R2l6V0U4M01VR3N0c2Q5cnEwU0M5bUpnQVFfdWNwWW1WZmVVQms4MGZXd3JiOVNjeDNxem4xVGdfc0k4Y090RnVDdXlhZnlFTUM4UHBhRVFvX1lUblV6NF90Sjhv0gFvQVVfeXFMTk9Rb0k4QlQwZVlNdFZwTU54RHpwSVJGM3NxTE8zdjBjYUFwQXZJaTU0dEp5cUFpV2ZteG9vcnRtZWNzQWRyWEp1VktHdVpqMEZPdDRzZzg5aksxUE0xa2VpLVVnaUE3Y0xPblJTMk1z?oc=5",
+          "press": ""
+        },
         {
           "title": "국힘 \"이화영 특사 단행하면 李정권 몰락의 도화선 될 것\"",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHJGTm1jMUZPQy1rOGFOaWtIdjRyeWZYVTRsTWNmR3JYdUQ1VXNjTC1aMnFnWnRHYlVQaVUwaEVPbHNWY2MxRWNucGx1b3U4Q2dQa20tUFFqZ1V6d2NxbkpfMTR5U1U5d2RBNUNPNk8?oc=5",
           "press": ""
         },
         {
-          "title": "임이자 \"이화영 특사 단행시 李정권 몰락 도화선 될 것\"",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZE9BTFJvZDdVNnd3Rkc0Q0s3VDFja0Y0V0NrU3BUQUFXaXFWX29pUndkSDcxVUkzWVJyRVh0R1YtcktrbUVtLTZTR0FZTHlyRGo3TWFoTHdJRGVWVzNmNQ?oc=5",
+          "title": "국민의힘 \"李, 이화영 성탄절 특사 시 직권 남용 … 정권 몰락 신호탄\"",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CcUh3SlpvTTBPZVYtREZjc1Jma05sN1RlVmRSS292SWNxM1hScGEyQ0R4WkF0YjFJOFRGSVQ1bWxOS19aMmg4RzNpZTkzaW5pMGdZckltWERVWEVGZUx6UEJYWUtfNFBwYjA1cjZFVHBSY2V4Rm8yaWMtWdIBgAFBVV95cUxQM1A5eVV3bWlVcF9FVVdUblB3bXptOEhJUzRyNzJ0SU9ER2dyZmZBdWRuM29oWTFhWjl3ZERZVGtjVFF3NzZrSlBTa0VmMmxYQWFkTkZWTWd5TkEwcTJ4dFQ2Nk5xX1g3Slg2TTFUemZuX2FMMzV6c3FtY1VDWWZqMQ?oc=5",
           "press": ""
         },
         {
           "title": "국민의힘 \"이화영 특사 단행하면 李 정권 몰락 도화선\"",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GWHdZYTlVeVJFVzhtMkZKd1hNdGluVGhQVE8ySVpIdGg0eVNKd0VNNzM5Q3F6ejRkV04zeGZhakxlVk1ISDNrX3FHS2V3N3hfSmlxSXZTcUd5U192Q3BJbTEzM1R4dGVDMFRJ?oc=5",
           "press": ""
-        },
-        {
-          "title": "임이자 \"이화영 성탄절 특사 단행하면 李정권 몰락 도화선 될 것\" - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JUm02MW45elhJLWcwRTFWYjB4ejE2MlYtYVJ4YzMwNGhSeHBYV0J2UUtuWllwYXZ4MmpqbG93UElzN09lS1g5Z3FKYy1UOUZYTlV3UWx5d3hUWUNDNDJwTHEzYl9TTmt6UFFUT9IBckFVX3lxTE9RYW9TV1R6VkNBQ1RNZ1hDb21kOHdTeGpzU1ROS3N0MFJadmp0dFRLQmN2UUxVQy1iSjJiMmZ5U0RmdXJBajZ6OXN0UkVYWE56ZW9ZSFBzT2ZqcGVPbnJoRGhsSVF3X3J2U0NqbGpwXzZkQQ?oc=5",
-          "press": ""
-        },
-        {
-          "title": "임이자 \"이화영 '특사' 닦달…단행하면 이재명 정권 몰락\"",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SbGhKQVlCVmE2dl9TUld3b0JWZk9QaktWTXlQb1FLQVIzRGJzWW5RTE1jUHdkZmVjZ3JEREpRV3lLMWx6TWNacUcwbFZIQzFqbzJkV3JLRV82c2FjbEVlMHhHTlZaeGRLbncxRXZ0U2I?oc=5",
-          "press": ""
         }
       ],
       "related_titles": [
+        "“대통령, 이화영에 무슨 약점? 특사땐 정권 몰락” 임이자의 말",
+        "[오정근 칼럼] 정권 몰락의 위기, 이재명의 근본 없는 경제정책 탓",
         "국힘 \"이화영 특사 단행하면 李정권 몰락의 도화선 될 것\"",
-        "임이자 \"이화영 특사 단행시 李정권 몰락 도화선 될 것\"",
-        "국민의힘 \"이화영 특사 단행하면 李 정권 몰락 도화선\"",
-        "임이자 \"이화영 성탄절 특사 단행하면 李정권 몰락 도화선 될 것\" - 머니투데이",
-        "임이자 \"이화영 '특사' 닦달…단행하면 이재명 정권 몰락\""
+        "국민의힘 \"李, 이화영 성탄절 특사 시 직권 남용 … 정권 몰락 신호탄\"",
+        "국민의힘 \"이화영 특사 단행하면 李 정권 몰락 도화선\""
       ],
       "category": "몰락"
     },
@@ -481,11 +463,6 @@
       "press": "",
       "related_articles": [
         {
-          "title": "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lOTdkLW9jRWwtNmZXLXlNY1M4d2FSSTNsc0dVQ0VNSjUtNjZEdkpKVS1xY2c4c0drU2JKZ2wySkdhN1dSakdjQlRSVGJrZkczRUVnc1Zac3dDc0dzdjQzeUNwQzRjUlg4MUE?oc=5",
-          "press": ""
-        },
-        {
           "title": "홍준표 “TK 몰락 가슴 아파…비난 각오하고 김부겸 밀었지만, 진심 안 통해”",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05NllvSTRXbUhyVC1JQzZfbmlVMnpFSzhJMk14TFBQYWxucERLZU5LdXFoQW5SelFBV1dJTFJLSUNySjJielMtU3VZeHE5b0NaSU8wbHQtWkFLazBuYlhvdTkzN3hSRF9pTjNvMXBEVTJrSXNV?oc=5",
           "press": ""
@@ -493,6 +470,11 @@
         {
           "title": "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5scnowZ0ZzQ1VSTVlKNE1WT184ZHB6aTJPY2RoWXR5d1RLbjhMeDhEWWwxYkJHcmNPUmwzakZFTk95NHU5N3d3Qm85c3BNY21kOElSbA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lOTdkLW9jRWwtNmZXLXlNY1M4d2FSSTNsc0dVQ0VNSjUtNjZEdkpKVS1xY2c4c0drU2JKZ2wySkdhN1dSakdjQlRSVGJrZkczRUVnc1Zac3dDc0dzdjQzeUNwQzRjUlg4MUE?oc=5",
           "press": ""
         },
         {
@@ -507,9 +489,9 @@
         }
       ],
       "related_titles": [
-        "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
         "홍준표 “TK 몰락 가슴 아파…비난 각오하고 김부겸 밀었지만, 진심 안 통해”",
         "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
+        "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
         "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
         "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아파\""
       ],
@@ -586,13 +568,13 @@
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 7,
-      "representative_title": "서울 분양가 상승, 집값 내려가기 어렵다[손바닥부동산]",
-      "representative_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcEgxSlNkQllRRmlCcUMtUzdNTW4xLXZWX0o5aWZJSkVnc0dvdEhDRy1uSk9iamtwaDJrR1dubFdjemViVU5MbkdNQ2tjRzRmc25YUExEdFhyV2FCLWZoR09UN1NSblROZGllUkJJUEU3dWJlXzd4UUVrZzlZeG01MQ?oc=5",
+      "count": 6,
+      "representative_title": "집값은 오르는데 거래는 '뚝'…8월 서울 아파트 40%↓",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpVGRLVzhyNTRGZk1jVGhUaXp4SXBPdElwbld6b2xnV21UMFdaWjlFc1dpX2FsbkNXWnZtSlUwOEVHX1F3OF9qWHI0R29RaG9zZ0JSVTBiUjUxOW1teTcxSw?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "서울 집값 오르는데 대구는 내리고…지방 부동산 차별에도 정부는 `모르쇠`",
+          "title": "서울 집값 12% 뛸때 대구 27%↓…지방 `곡소리`에도 정부는 `뒷짐`",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwanl1QVFDc0VWOXBZTlhtZUd6WTJUd0JMa2NMSDFfdmtqOHVMUzhCVlh6OWkzcDJRWWctcF9Eb1hNZHE2M2lXS1lobm9BSEtQZ01OaVMtYmg4b2twaGtWd1Jn?oc=5",
           "press": ""
         },
@@ -602,13 +584,13 @@
           "press": ""
         },
         {
-          "title": "서울 아파트 계약 13건 중 1건 해제…‘집값 띄우기’ 의혹",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlek5mQzdCbXpkdGVpSF9JellldzFTYW4yWXAwMnRTcXhtcmIyMDNuZjZiUDJmSW9BNWRDYzRqUDh4RWFOMTBXQTF3ellRZGc5VUVjS21Hdk0xdGVrOThVc1Z6OTZWQVFsVGg4Q0pwVdIBc0FVX3lxTE1mZ1hSRXJqX2JsZ1dkb0FrcTRkN3o4V1J2WDZoMFF4MUVzY1ppVC16bG9oRWZha1RWM0FfYkgzLURfekI4QVNuUTZDellCbmNrcW9uc3NDeUlKWlc0TUs0djQ2U3poeDJYZDJHQ3hmMXY3bGs?oc=5",
+          "title": "집값은 오르는데 거래는 '뚝'…8월 서울 아파트 40%↓",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpVGRLVzhyNTRGZk1jVGhUaXp4SXBPdElwbld6b2xnV21UMFdaWjlFc1dpX2FsbkNXWnZtSlUwOEVHX1F3OF9qWHI0R29RaG9zZ0JSVTBiUjUxOW1teTcxSw?oc=5",
           "press": ""
         },
         {
-          "title": "외신 “AI가 서울 집값도 끌어올렸다…李정부 직면한 부동산 딜레마”",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42NHFPaW1rVnVnVzJJY3FXOHNmY19qR0pOZmIwaEpwUkpvdXhxc1R3a2Zrb25UdE1OdXdwN2Nkeldwem1YZGxPNVNNS3RvSVF4UF9Teg?oc=5",
+          "title": "서울 아파트 계약 13건 중 1건 해제…‘집값 띄우기’ 의혹",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlek5mQzdCbXpkdGVpSF9JellldzFTYW4yWXAwMnRTcXhtcmIyMDNuZjZiUDJmSW9BNWRDYzRqUDh4RWFOMTBXQTF3ellRZGc5VUVjS21Hdk0xdGVrOThVc1Z6OTZWQVFsVGg4Q0pwVdIBc0FVX3lxTE1mZ1hSRXJqX2JsZ1dkb0FrcTRkN3o4V1J2WDZoMFF4MUVzY1ppVC16bG9oRWZha1RWM0FfYkgzLURfekI4QVNuUTZDellCbmNrcW9uc3NDeUlKWlc0TUs0djQ2U3poeDJYZDJHQ3hmMXY3bGs?oc=5",
           "press": ""
         },
         {
@@ -618,17 +600,17 @@
         }
       ],
       "related_titles": [
-        "서울 집값 오르는데 대구는 내리고…지방 부동산 차별에도 정부는 `모르쇠`",
+        "서울 집값 12% 뛸때 대구 27%↓…지방 `곡소리`에도 정부는 `뒷짐`",
         "전세난에 집값까지 ‘들썩’…서울 아파트 분양 전망 3개월만에 ‘청신호’ [부동산360]",
+        "집값은 오르는데 거래는 '뚝'…8월 서울 아파트 40%↓",
         "서울 아파트 계약 13건 중 1건 해제…‘집값 띄우기’ 의혹",
-        "외신 “AI가 서울 집값도 끌어올렸다…李정부 직면한 부동산 딜레마”",
         "[부동산 포커스] 서울 집값 피해 갔더니…경기마저 ‘10억 장벽’"
       ],
       "category": "부동산"
     },
     {
       "rank": 2,
-      "keyword": "딜레마",
+      "keyword": "포커스",
       "count": 2,
       "representative_title": "[부동산 포커스] 풀자니 집값 불안, 묶자니 전세난…‘토허제 딜레마’",
       "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DSEVTYkd4NVpwRmNlVjkyS2VtYWxpb1J2cnBvTUx3TGxrZk1McFU4MjhpOEpUcDFhdXE2UHFZX3F1WmU4SWJ3cnI1bnFzS2FpcWd2TUF3RFBwbzV1X3FaZ21fS3N3OFNmMEViZVBtdTNHclHSAXdBVV95cUxOU3poWTktOGtsaVNvZVVQSlIzVkppMnFOTERIQ2dUMmZDMDFEMFJEbzJUelVpNFVzNHlFZ05MZFJ2bTJzUFMxQURCYTFLYlRqcTBLaEd4YnJyaVJFZVA4R2QwWUlaS3FnWG5CYWxfVzRQNlVveEhBQQ?oc=5",
