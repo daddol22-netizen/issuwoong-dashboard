@@ -1,372 +1,336 @@
 {
   "date": "2026-10-14",
-  "hour": "13",
-  "slot": "2026-10-14_13",
-  "crawled_at": "2026-10-14 13:02:43",
+  "hour": "16",
+  "slot": "2026-10-14_16",
+  "crawled_at": "2026-10-14 16:05:55",
   "total_articles": 408,
   "topics": [
     {
       "rank": 1,
-      "keyword": "부부",
-      "count": 29,
-      "representative_title": "'나주 부부 살해' 피의자는 53살 박용수",
-      "representative_link": "https://n.news.naver.com/article/214/0001528952?ntype=RANKING",
-      "press": "MBC",
+      "keyword": "징역",
+      "count": 35,
+      "representative_title": "‘1억 공천헌금’ 강선우 징역 2년6개월…법정 구속",
+      "representative_link": "https://n.news.naver.com/article/005/0001878638?ntype=RANKING",
+      "press": "국민일보",
       "related_articles": [
         {
-          "title": "[속보] '나주 부부 살해' 피의자 신상정보 공개...'52살 박용수'",
-          "link": "https://n.news.naver.com/article/052/0002418516?ntype=RANKING",
+          "title": "[속보] '공천헌금' 강선우 1심 징역 2년 6개월...김경 징역 1년",
+          "link": "https://n.news.naver.com/article/052/0002418626?ntype=RANKING",
           "press": "YTN"
         },
         {
-          "title": "‘나주 부부 살해’ 피의자 신상 공개…53세 박용수",
-          "link": "https://n.news.naver.com/article/056/0012273327?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "나주 60대 부부 살해 피의자 신상공개...53살 박용수",
-          "link": "https://n.news.naver.com/article/437/0000515606?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "경찰, 나주 부부 강도살인 혐의 피의자 53세 박용수 신상 공개",
-          "link": "https://n.news.naver.com/article/023/0004003747?ntype=RANKING",
-          "press": "조선일보"
-        },
-        {
-          "title": "'나주 부부' 살해 피의자는 52세 박용수…경찰, 머그샷 공개",
-          "link": "https://n.news.naver.com/article/015/0005342322?ntype=RANKING",
-          "press": "한국경제"
-        }
-      ],
-      "related_titles": [
-        "[속보] '나주 부부 살해' 피의자 신상정보 공개...'52살 박용수'",
-        "‘나주 부부 살해’ 피의자 신상 공개…53세 박용수",
-        "나주 60대 부부 살해 피의자 신상공개...53살 박용수",
-        "경찰, 나주 부부 강도살인 혐의 피의자 53세 박용수 신상 공개",
-        "'나주 부부' 살해 피의자는 52세 박용수…경찰, 머그샷 공개"
-      ],
-      "category": "사건/사고"
-    },
-    {
-      "rank": 2,
-      "keyword": "살해",
-      "count": 27,
-      "representative_title": "제주서 스토킹 여성 살해 60대 남성 검거 전 음독…치료 중",
-      "representative_link": "https://n.news.naver.com/article/658/0000158399?ntype=RANKING",
-      "press": "국제신문",
-      "related_articles": [
-        {
-          "title": "제주서 스토킹 여성 살해 60대 남성 검거 전 음독…치료 중",
-          "link": "https://n.news.naver.com/article/658/0000158399?ntype=RANKING",
-          "press": "국제신문"
-        },
-        {
-          "title": "검거 직전 농약 마셨던 여성 살해 60대.. 구속영장 심사 앞두고  중환자실로",
-          "link": "https://n.news.naver.com/article/661/0000084866?ntype=RANKING",
-          "press": "JIBS"
-        }
-      ],
-      "related_titles": [
-        "제주서 스토킹 여성 살해 60대 남성 검거 전 음독…치료 중",
-        "검거 직전 농약 마셨던 여성 살해 60대.. 구속영장 심사 앞두고  중환자실로"
-      ],
-      "category": "건강/의료"
-    },
-    {
-      "rank": 3,
-      "keyword": "공개",
-      "count": 23,
-      "representative_title": "애플, 스마트홈 시장 공략 강화…299달러 '홈뷰' 공개",
-      "representative_link": "https://n.news.naver.com/article/293/0000091540?ntype=RANKING",
-      "press": "블로터",
-      "related_articles": [
-        {
-          "title": "'친청계' 최고위원들, '신천지 가입' 두고 김민석 직격‥\"조사 공개\"",
-          "link": "https://n.news.naver.com/article/214/0001528957?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "LG전자, 애플과 AI홈 생태계 확장...차세대 IoT 기기 7종 공개",
-          "link": "https://n.news.naver.com/article/092/0002440812?ntype=RANKING",
-          "press": "지디넷코리아"
-        },
-        {
-          "title": "애플, 스마트홈 시장 공략 강화…299달러 '홈뷰' 공개",
-          "link": "https://n.news.naver.com/article/293/0000091540?ntype=RANKING",
-          "press": "블로터"
-        },
-        {
-          "title": "구글, 고난도 업무용 AI '제미나이 4 아르곤' 공개…코딩·금융·법률 등 심층 작업 겨냥",
-          "link": "https://n.news.naver.com/article/138/0002244623?ntype=RANKING",
-          "press": "디지털데일리"
-        }
-      ],
-      "related_titles": [
-        "'친청계' 최고위원들, '신천지 가입' 두고 김민석 직격‥\"조사 공개\"",
-        "LG전자, 애플과 AI홈 생태계 확장...차세대 IoT 기기 7종 공개",
-        "애플, 스마트홈 시장 공략 강화…299달러 '홈뷰' 공개",
-        "구글, 고난도 업무용 AI '제미나이 4 아르곤' 공개…코딩·금융·법률 등 심층 작업 겨냥"
-      ],
-      "category": "산업/테크"
-    },
-    {
-      "rank": 4,
-      "keyword": "인천",
-      "count": 19,
-      "representative_title": "여성 노렸나…인천 흉기난동 부상자 8명 중 6명 여성",
-      "representative_link": "https://n.news.naver.com/article/001/0016375378?ntype=RANKING",
-      "press": "연합뉴스",
-      "related_articles": [
-        {
-          "title": "'인천 흉기 난동' 상가 여전히 충격...상인들도 '걱정'",
-          "link": "https://n.news.naver.com/article/052/0002418494?ntype=RANKING",
+          "title": "[속보] '공천헌금' 강선우 1심 징역 2년 6개월...김경 징역 1년",
+          "link": "https://n.news.naver.com/article/052/0002418626?ntype=RANKING",
           "press": "YTN"
         },
         {
-          "title": "인천 흉기난동에 20대 딸 아직 의식 못 찾아…“그 ×× 얼굴 보고 싶다” 아버지 분노",
-          "link": "https://n.news.naver.com/article/081/0003688721?ntype=RANKING",
-          "press": "서울신문"
+          "title": "30대 女조카 결박 후 숯불 열기 가해 숨지게 한 80대 무속인에 대법, 징역 7년 원심 파기하고 살인죄 인정",
+          "link": "https://n.news.naver.com/article/087/0001223694?ntype=RANKING",
+          "press": "강원일보"
         },
         {
-          "title": "‘인천 흉기난동’ 심정지 20대 여성, 여전히 의식불명…부친 “범인 얼굴 보고 싶다” 분통",
-          "link": "https://n.news.naver.com/article/366/0001197797?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "‘공천 헌금 1억 수수’ 무소속 강선우 의원 1심 징역 2년 6개월…법정서 재구속",
+          "link": "https://n.news.naver.com/article/087/0001223758?ntype=RANKING",
+          "press": "강원일보"
         },
         {
-          "title": "인천 흉기난동범 막은 20대 영웅…\"4층에 아이들 많았다\"",
-          "link": "https://n.news.naver.com/article/057/0001973311?ntype=RANKING",
-          "press": "MBN"
-        },
-        {
-          "title": "여성 노렸나…인천 흉기난동 부상자 8명 중 6명 여성",
-          "link": "https://n.news.naver.com/article/001/0016375378?ntype=RANKING",
-          "press": "연합뉴스"
+          "title": "[속보] ‘1억 공천헌금 의혹’ 강선우, 1심 징역 2년 6개월... 법정구속",
+          "link": "https://n.news.naver.com/article/011/0004671172?ntype=RANKING",
+          "press": "서울경제"
         }
       ],
       "related_titles": [
-        "'인천 흉기 난동' 상가 여전히 충격...상인들도 '걱정'",
-        "인천 흉기난동에 20대 딸 아직 의식 못 찾아…“그 ×× 얼굴 보고 싶다” 아버지 분노",
-        "‘인천 흉기난동’ 심정지 20대 여성, 여전히 의식불명…부친 “범인 얼굴 보고 싶다” 분통",
-        "인천 흉기난동범 막은 20대 영웅…\"4층에 아이들 많았다\"",
-        "여성 노렸나…인천 흉기난동 부상자 8명 중 6명 여성"
+        "[속보] '공천헌금' 강선우 1심 징역 2년 6개월...김경 징역 1년",
+        "[속보] '공천헌금' 강선우 1심 징역 2년 6개월...김경 징역 1년",
+        "30대 女조카 결박 후 숯불 열기 가해 숨지게 한 80대 무속인에 대법, 징역 7년 원심 파기하고 살인죄 인정",
+        "‘공천 헌금 1억 수수’ 무소속 강선우 의원 1심 징역 2년 6개월…법정서 재구속",
+        "[속보] ‘1억 공천헌금 의혹’ 강선우, 1심 징역 2년 6개월... 법정구속"
       ],
       "category": "사회/일반"
     },
     {
-      "rank": 5,
-      "keyword": "한동훈",
-      "count": 18,
-      "representative_title": "시민단체, '딸 허위 스펙 수사무마' 의혹 한동훈 고발",
-      "representative_link": "https://n.news.naver.com/article/214/0001528964?ntype=RANKING",
-      "press": "MBC",
+      "rank": 2,
+      "keyword": "임광현",
+      "count": 33,
+      "representative_title": "대통령 비서실장에 임광현 국세청장",
+      "representative_link": "https://n.news.naver.com/article/123/0002391834?ntype=RANKING",
+      "press": "조세일보",
       "related_articles": [
         {
-          "title": "“불의의 사고 아니다” 강경화 발언 수습에… 한동훈 “국민이 우습나”",
-          "link": "https://n.news.naver.com/article/023/0004003721?ntype=RANKING",
-          "press": "조선일보"
+          "title": "신임 대통령 비서실장에 임광현 국세청장 [현장영상+]",
+          "link": "https://n.news.naver.com/article/052/0002418604?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "한동훈 “靑, 찌질하게 강경화 압박 말라…李발언 틀렸다 한 것”",
-          "link": "https://n.news.naver.com/article/025/0003557778?ntype=RANKING",
-          "press": "중앙일보"
+          "title": "[속보] 李대통령, 신임 靑 비서실장에 임광현 국세청장 발탁",
+          "link": "https://n.news.naver.com/article/016/0002709221?ntype=RANKING",
+          "press": "헤럴드경제"
         },
         {
-          "title": "\"내 가족만 압수수색\" 조국에 배현진 \"조국·한동훈 딸은 다르다\"",
-          "link": "https://n.news.naver.com/article/057/0001973348?ntype=RANKING",
-          "press": "MBN"
+          "title": "새 대통령 비서실장에 임광현 국세청장…떠나는 강훈식 \"이재명 정부 반드시 성공\"",
+          "link": "https://n.news.naver.com/article/437/0000515636?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "한동훈 \"靑, '불의의 사고 아니다' 발언한 강경화에 찌질하게 압박 말아야\"",
-          "link": "https://n.news.naver.com/article/586/0000139900?ntype=RANKING",
-          "press": "시사저널"
+          "title": "청와대 새 비서실장에 임광현 국세청장",
+          "link": "https://n.news.naver.com/article/214/0001528994?ntype=RANKING",
+          "press": "MBC"
         },
         {
-          "title": "강경화 발언에 해명 급급한 정부…한동훈 “찌질하게 압박 말라”",
-          "link": "https://n.news.naver.com/article/005/0001878605?ntype=RANKING",
-          "press": "국민일보"
+          "title": "임광현 신임 대통령 비서실장 “국민 삶 변화 만드는 게 소명”",
+          "link": "https://n.news.naver.com/article/022/0004166575?ntype=RANKING",
+          "press": "세계일보"
         }
       ],
       "related_titles": [
-        "“불의의 사고 아니다” 강경화 발언 수습에… 한동훈 “국민이 우습나”",
-        "한동훈 “靑, 찌질하게 강경화 압박 말라…李발언 틀렸다 한 것”",
-        "\"내 가족만 압수수색\" 조국에 배현진 \"조국·한동훈 딸은 다르다\"",
-        "한동훈 \"靑, '불의의 사고 아니다' 발언한 강경화에 찌질하게 압박 말아야\"",
-        "강경화 발언에 해명 급급한 정부…한동훈 “찌질하게 압박 말라”"
+        "신임 대통령 비서실장에 임광현 국세청장 [현장영상+]",
+        "[속보] 李대통령, 신임 靑 비서실장에 임광현 국세청장 발탁",
+        "새 대통령 비서실장에 임광현 국세청장…떠나는 강훈식 \"이재명 정부 반드시 성공\"",
+        "청와대 새 비서실장에 임광현 국세청장",
+        "임광현 신임 대통령 비서실장 “국민 삶 변화 만드는 게 소명”"
       ],
-      "category": "사건/사고"
+      "category": "정치"
+    },
+    {
+      "rank": 3,
+      "keyword": "강선우",
+      "count": 29,
+      "representative_title": "[속보]'1억 공천헌금' 강선우·김경, 1심서 실형…법정구속",
+      "representative_link": "https://n.news.naver.com/article/003/0014252913?ntype=RANKING",
+      "press": "뉴시스",
+      "related_articles": [
+        {
+          "title": "[속보]'1억 공천헌금' 강선우·김경, 1심서 실형…법정구속",
+          "link": "https://n.news.naver.com/article/003/0014252913?ntype=RANKING",
+          "press": "뉴시스"
+        }
+      ],
+      "related_titles": [
+        "[속보]'1억 공천헌금' 강선우·김경, 1심서 실형…법정구속"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "대통령",
+      "count": 29,
+      "representative_title": "李대통령 지지율 34.9% ‘최저’",
+      "representative_link": "https://n.news.naver.com/article/024/0000108900?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "이 대통령 지지율 34.9% '최저'…민주당과 동반 하락 [KSOI]",
+          "link": "https://n.news.naver.com/article/057/0001973364?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "‘이자만 2700만원’ 이 대통령 아파트 거래…증여세 대상 아닌 이유는?",
+          "link": "https://n.news.naver.com/article/028/0002827378?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "李대통령 지지율 34.9% 최저…호남 제외 전지역·전연령 '부정' 과반",
+          "link": "https://n.news.naver.com/article/448/0000644796?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "‘하명 세무조사’ 논란 국세청장, 대통령 비서실장 깜짝 발탁",
+          "link": "https://n.news.naver.com/article/119/0003142704?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "장동혁 “흉기 난동에도 ‘부캉이’ 셀카 찍은 대통령...의문의 1패”",
+          "link": "https://n.news.naver.com/article/666/0000127352?ntype=RANKING",
+          "press": "경기일보"
+        }
+      ],
+      "related_titles": [
+        "이 대통령 지지율 34.9% '최저'…민주당과 동반 하락 [KSOI]",
+        "‘이자만 2700만원’ 이 대통령 아파트 거래…증여세 대상 아닌 이유는?",
+        "李대통령 지지율 34.9% 최저…호남 제외 전지역·전연령 '부정' 과반",
+        "‘하명 세무조사’ 논란 국세청장, 대통령 비서실장 깜짝 발탁",
+        "장동혁 “흉기 난동에도 ‘부캉이’ 셀카 찍은 대통령...의문의 1패”"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 5,
+      "keyword": "신임",
+      "count": 23,
+      "representative_title": "신임 백악관 대변인, 첫 브리핑서 콕 짚은 건 '한국 대미투자'",
+      "representative_link": "https://n.news.naver.com/article/417/0001160816?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "신임 백악관 대변인, 첫 브리핑서 콕 짚은 건 '한국 대미투자'",
+          "link": "https://n.news.naver.com/article/417/0001160816?ntype=RANKING",
+          "press": "동행미디어 시대"
+        }
+      ],
+      "related_titles": [
+        "신임 백악관 대변인, 첫 브리핑서 콕 짚은 건 '한국 대미투자'"
+      ],
+      "category": "경제/투자"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "주식",
-      "count": 3,
-      "representative_title": "이재용, 어머니 홍라희 삼성전자 주식 1116만주 증여 받아",
-      "representative_link": "https://n.news.naver.com/article/002/0002460793?ntype=RANKING",
-      "press": "프레시안",
+      "keyword": "삼성전자",
+      "count": 5,
+      "representative_title": "삼성전자 지분 넘기는 홍라희…이재용 증여세 1.5조 추산",
+      "representative_link": "https://n.news.naver.com/article/374/0000537719?ntype=RANKING",
+      "press": "SBS Biz",
       "related_articles": [
         {
-          "title": "\"삼전 바닥 찍었나?\"…홍라희, 이재용에 주식 4.5조 넘긴다",
-          "link": "https://n.news.naver.com/article/018/0006387674?ntype=RANKING",
-          "press": "이데일리"
+          "title": "삼성전자 바닥 찍었나? 이재용 증여에 개미들 기대 만발 [반도체 투자 리포트]",
+          "link": "https://n.news.naver.com/article/022/0004166483?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "이재용, 어머니 홍라희 삼성전자 주식 1116만주 증여 받아",
-          "link": "https://n.news.naver.com/article/002/0002460793?ntype=RANKING",
-          "press": "프레시안"
+          "title": "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이",
+          "link": "https://n.news.naver.com/article/014/0005589103?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
-          "title": "주식, 국채, 금 분산투자 후 3년 버티면 원금 손실 위험 없어",
-          "link": "https://n.news.naver.com/article/037/0000038972?ntype=RANKING",
-          "press": "주간동아"
+          "title": "\"삼성전자·SK하이닉스 급락, 상승 직전 마지막 털기일수도\"",
+          "link": "https://n.news.naver.com/article/003/0014252884?ntype=RANKING",
+          "press": "뉴시스"
         },
         {
-          "title": "\"삼전 바닥 찍었나?\"…홍라희, 이재용에 주식 4.5조 넘긴다",
-          "link": "https://n.news.naver.com/article/018/0006387674?ntype=RANKING",
-          "press": "이데일리"
+          "title": "“5거래일 급락 딛고 반등”…코스피 6100선 회복, 삼성전자·SK하이닉스 강세",
+          "link": "https://n.news.naver.com/article/138/0002244630?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "이재용, 어머니 홍라희 삼성전자 주식 1116만주 증여 받아",
-          "link": "https://n.news.naver.com/article/002/0002460793?ntype=RANKING",
-          "press": "프레시안"
+          "title": "삼성전자 지분 넘기는 홍라희…이재용 증여세 1.5조 추산",
+          "link": "https://n.news.naver.com/article/374/0000537719?ntype=RANKING",
+          "press": "SBS Biz"
         }
       ],
       "related_titles": [
-        "\"삼전 바닥 찍었나?\"…홍라희, 이재용에 주식 4.5조 넘긴다",
-        "이재용, 어머니 홍라희 삼성전자 주식 1116만주 증여 받아",
-        "주식, 국채, 금 분산투자 후 3년 버티면 원금 손실 위험 없어",
-        "\"삼전 바닥 찍었나?\"…홍라희, 이재용에 주식 4.5조 넘긴다",
-        "이재용, 어머니 홍라희 삼성전자 주식 1116만주 증여 받아"
+        "삼성전자 바닥 찍었나? 이재용 증여에 개미들 기대 만발 [반도체 투자 리포트]",
+        "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이",
+        "\"삼성전자·SK하이닉스 급락, 상승 직전 마지막 털기일수도\"",
+        "“5거래일 급락 딛고 반등”…코스피 6100선 회복, 삼성전자·SK하이닉스 강세",
+        "삼성전자 지분 넘기는 홍라희…이재용 증여세 1.5조 추산"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "삼성전자",
-      "count": 3,
-      "representative_title": "상속세 다 낸 삼성家, 지분 재배치…이재용에 삼성전자 4.5조 이동[종합]",
-      "representative_link": "https://n.news.naver.com/article/031/0001065762?ntype=RANKING",
-      "press": "아이뉴스24",
+      "keyword": "급락",
+      "count": 4,
+      "representative_title": "中 때문에 빠졌다더니…삼성 노린다는 CXMT도 급락 [B급기자의 B급리포트]",
+      "representative_link": "https://n.news.naver.com/article/215/0001269111?ntype=RANKING",
+      "press": "한국경제TV",
       "related_articles": [
         {
-          "title": "삼성전자 바닥 찍었나? 이재용 증여에 개미들 기대 만발 [반도체 투자 리포트]",
-          "link": "https://n.news.naver.com/article/022/0004166483?ntype=RANKING",
-          "press": "세계일보"
+          "title": "中 때문에 빠졌다더니…삼성 노린다는 CXMT도 급락 [B급기자의 B급리포트]",
+          "link": "https://n.news.naver.com/article/215/0001269111?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "상속세 다 낸 삼성家, 지분 재배치…이재용에 삼성전자 4.5조 이동[종합]",
-          "link": "https://n.news.naver.com/article/031/0001065762?ntype=RANKING",
-          "press": "아이뉴스24"
+          "title": "월가 \"반응 과하다\"는데...삼전닉스 개미 울린 CXMT 쇼크, 주가 급락 이유",
+          "link": "https://n.news.naver.com/article/008/0005426041?ntype=RANKING",
+          "press": "머니투데이"
         },
         {
-          "title": "삼성전자 바닥 찍었나? 이재용 증여에 개미들 기대 만발 [반도체 투자 리포트]",
-          "link": "https://n.news.naver.com/article/022/0004166483?ntype=RANKING",
-          "press": "세계일보"
+          "title": "中 때문에 빠졌다더니…삼성 노린다는 CXMT도 급락 [B급기자의 B급리포트]",
+          "link": "https://n.news.naver.com/article/215/0001269111?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "상속세 다 낸 삼성家, 지분 재배치…이재용에 삼성전자 4.5조 이동[종합]",
-          "link": "https://n.news.naver.com/article/031/0001065762?ntype=RANKING",
-          "press": "아이뉴스24"
+          "title": "월가 \"반응 과하다\"는데...삼전닉스 개미 울린 CXMT 쇼크, 주가 급락 이유",
+          "link": "https://n.news.naver.com/article/008/0005426041?ntype=RANKING",
+          "press": "머니투데이"
         },
         {
-          "title": "삼성전자 바닥 찍었나? 이재용 증여에 개미들 기대 만발 [반도체 투자 리포트]",
-          "link": "https://n.news.naver.com/article/022/0004166483?ntype=RANKING",
-          "press": "세계일보"
+          "title": "中 때문에 빠졌다더니…삼성 노린다는 CXMT도 급락 [B급기자의 B급리포트]",
+          "link": "https://n.news.naver.com/article/215/0001269111?ntype=RANKING",
+          "press": "한국경제TV"
         }
       ],
       "related_titles": [
-        "삼성전자 바닥 찍었나? 이재용 증여에 개미들 기대 만발 [반도체 투자 리포트]",
-        "상속세 다 낸 삼성家, 지분 재배치…이재용에 삼성전자 4.5조 이동[종합]",
-        "삼성전자 바닥 찍었나? 이재용 증여에 개미들 기대 만발 [반도체 투자 리포트]",
-        "상속세 다 낸 삼성家, 지분 재배치…이재용에 삼성전자 4.5조 이동[종합]",
-        "삼성전자 바닥 찍었나? 이재용 증여에 개미들 기대 만발 [반도체 투자 리포트]"
+        "中 때문에 빠졌다더니…삼성 노린다는 CXMT도 급락 [B급기자의 B급리포트]",
+        "월가 \"반응 과하다\"는데...삼전닉스 개미 울린 CXMT 쇼크, 주가 급락 이유",
+        "中 때문에 빠졌다더니…삼성 노린다는 CXMT도 급락 [B급기자의 B급리포트]",
+        "월가 \"반응 과하다\"는데...삼전닉스 개미 울린 CXMT 쇼크, 주가 급락 이유",
+        "中 때문에 빠졌다더니…삼성 노린다는 CXMT도 급락 [B급기자의 B급리포트]"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "애플",
-      "count": 3,
-      "representative_title": "힌지 속에 이런 비밀이…애플 ‘아이폰 듀오’의 냉각 기술",
-      "representative_link": "https://n.news.naver.com/article/092/0002440876?ntype=RANKING",
-      "press": "지디넷코리아",
+      "keyword": "코스피",
+      "count": 4,
+      "representative_title": "“뉴욕 택시 기사도 코스피 안다… 中 삼전닉스 추격은 ‘소설’ 불과”",
+      "representative_link": "https://n.news.naver.com/article/011/0004671153?ntype=RANKING",
+      "press": "서울경제",
       "related_articles": [
         {
-          "title": "힌지 속에 이런 비밀이…애플 ‘아이폰 듀오’의 냉각 기술",
-          "link": "https://n.news.naver.com/article/092/0002440876?ntype=RANKING",
-          "press": "지디넷코리아"
+          "title": "“뉴욕 택시 기사도 코스피 안다… 中 삼전닉스 추격은 ‘소설’ 불과”",
+          "link": "https://n.news.naver.com/article/011/0004671153?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "애플, 스마트홈 시장 공략 강화…299달러 '홈뷰' 공개",
-          "link": "https://n.news.naver.com/article/293/0000091540?ntype=RANKING",
-          "press": "블로터"
+          "title": "\"뉴욕 택시기사들도 코스피 얘기, 韓 증시 1년 안에 다시 9000 돌파\"…'월가 족집게' 콕 집었다",
+          "link": "https://n.news.naver.com/article/277/0005828410?ntype=RANKING",
+          "press": "아시아경제"
         },
         {
-          "title": "LG전자·애플, AI홈 기기 7종 공동 개발…아이폰으로 집안 관리",
-          "link": "https://n.news.naver.com/article/138/0002244619?ntype=RANKING",
-          "press": "디지털데일리"
+          "title": "‘월가 족집게’ 댄 아이브스 “삼전닉스 저평가…코스피 전고점 돌파 전망”",
+          "link": "https://n.news.naver.com/article/243/0000104204?ntype=RANKING",
+          "press": "이코노미스트"
         },
         {
-          "title": "힌지 속에 이런 비밀이…애플 ‘아이폰 듀오’의 냉각 기술",
-          "link": "https://n.news.naver.com/article/092/0002440876?ntype=RANKING",
-          "press": "지디넷코리아"
+          "title": "“뉴욕 택시 기사도 코스피 안다… 中 삼전닉스 추격은 ‘소설’ 불과”",
+          "link": "https://n.news.naver.com/article/011/0004671153?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "애플, 스마트홈 시장 공략 강화…299달러 '홈뷰' 공개",
-          "link": "https://n.news.naver.com/article/293/0000091540?ntype=RANKING",
-          "press": "블로터"
+          "title": "\"뉴욕 택시기사들도 코스피 얘기, 韓 증시 1년 안에 다시 9000 돌파\"…'월가 족집게' 콕 집었다",
+          "link": "https://n.news.naver.com/article/277/0005828410?ntype=RANKING",
+          "press": "아시아경제"
         }
       ],
       "related_titles": [
-        "힌지 속에 이런 비밀이…애플 ‘아이폰 듀오’의 냉각 기술",
-        "애플, 스마트홈 시장 공략 강화…299달러 '홈뷰' 공개",
-        "LG전자·애플, AI홈 기기 7종 공동 개발…아이폰으로 집안 관리",
-        "힌지 속에 이런 비밀이…애플 ‘아이폰 듀오’의 냉각 기술",
-        "애플, 스마트홈 시장 공략 강화…299달러 '홈뷰' 공개"
+        "“뉴욕 택시 기사도 코스피 안다… 中 삼전닉스 추격은 ‘소설’ 불과”",
+        "\"뉴욕 택시기사들도 코스피 얘기, 韓 증시 1년 안에 다시 9000 돌파\"…'월가 족집게' 콕 집었다",
+        "‘월가 족집게’ 댄 아이브스 “삼전닉스 저평가…코스피 전고점 돌파 전망”",
+        "“뉴욕 택시 기사도 코스피 안다… 中 삼전닉스 추격은 ‘소설’ 불과”",
+        "\"뉴욕 택시기사들도 코스피 얘기, 韓 증시 1년 안에 다시 9000 돌파\"…'월가 족집게' 콕 집었다"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "달러",
+      "keyword": "이재용",
       "count": 3,
-      "representative_title": "달러 패권은 과연 영원할 수 있을까",
-      "representative_link": "https://n.news.naver.com/article/262/0000019754?ntype=RANKING",
-      "press": "신동아",
+      "representative_title": "“삼전 바닥 찍었나?”…'이재용 증여'에 2%대 상승, 코스피도 반등",
+      "representative_link": "https://n.news.naver.com/article/018/0006387817?ntype=RANKING",
+      "press": "이데일리",
       "related_articles": [
         {
-          "title": "달러 패권은 과연 영원할 수 있을까",
-          "link": "https://n.news.naver.com/article/262/0000019754?ntype=RANKING",
-          "press": "신동아"
+          "title": "“삼전 바닥 찍었나?”…'이재용 증여'에 2%대 상승, 코스피도 반등",
+          "link": "https://n.news.naver.com/article/018/0006387817?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들",
-          "link": "https://n.news.naver.com/article/607/0000003540?ntype=RANKING",
-          "press": "뉴스타파"
+          "title": "“삼전 바닥 찍었나?”…'이재용 증여'에 2%대 상승, 코스피도 반등",
+          "link": "https://n.news.naver.com/article/018/0006387817?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "달러 패권은 과연 영원할 수 있을까",
-          "link": "https://n.news.naver.com/article/262/0000019754?ntype=RANKING",
-          "press": "신동아"
-        },
-        {
-          "title": "“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들",
-          "link": "https://n.news.naver.com/article/607/0000003540?ntype=RANKING",
-          "press": "뉴스타파"
-        },
-        {
-          "title": "달러 패권은 과연 영원할 수 있을까",
-          "link": "https://n.news.naver.com/article/262/0000019754?ntype=RANKING",
-          "press": "신동아"
+          "title": "“삼전 바닥 찍었나?”…'이재용 증여'에 2%대 상승, 코스피도 반등",
+          "link": "https://n.news.naver.com/article/018/0006387817?ntype=RANKING",
+          "press": "이데일리"
         }
       ],
       "related_titles": [
-        "달러 패권은 과연 영원할 수 있을까",
-        "“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들",
-        "달러 패권은 과연 영원할 수 있을까",
-        "“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들",
-        "달러 패권은 과연 영원할 수 있을까"
+        "“삼전 바닥 찍었나?”…'이재용 증여'에 2%대 상승, 코스피도 반등",
+        "“삼전 바닥 찍었나?”…'이재용 증여'에 2%대 상승, 코스피도 반등",
+        "“삼전 바닥 찍었나?”…'이재용 증여'에 2%대 상승, 코스피도 반등"
       ],
       "category": "주식/코인"
     }
@@ -376,7 +340,7 @@
       "rank": 1,
       "keyword": "정권",
       "series_title": "정권의 몰락",
-      "count": 15,
+      "count": 14,
       "representative_title": "국힘 \"이화영 특사 단행하면 정권 몰락 도화선\"",
       "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OcWlGSmtxbXc4d3hVVnRiak1VeVVTZGc1bXI0anFidzlkV0RNZDN4RG14dGhFQmYtSmctTHY1TGRsRXc3LWVjS2d4Rnc0UkdkcGFISjVMclLSAVNBVV95cUxPaWV6LVQ2VzdmT1dWeG1hMDMyQUQtdktrUkE3Mjh4eGltNFFhOFNtTk5ieHZwUGtaWFNkNzN0UUlrVHJoWUZmMkZHRGIzZllteEdJUQ?oc=5",
       "press": "",
@@ -420,7 +384,7 @@
       "rank": 2,
       "keyword": "TK",
       "series_title": "TK의 몰락",
-      "count": 6,
+      "count": 4,
       "representative_title": "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
       "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lOTdkLW9jRWwtNmZXLXlNY1M4d2FSSTNsc0dVQ0VNSjUtNjZEdkpKVS1xY2c4c0drU2JKZ2wySkdhN1dSakdjQlRSVGJrZkczRUVnc1Zac3dDc0dzdjQzeUNwQzRjUlg4MUE?oc=5",
       "press": "",
@@ -488,41 +452,41 @@
     },
     {
       "rank": 4,
-      "keyword": "사회당",
-      "series_title": "사회당의 몰락",
+      "keyword": "게티",
+      "series_title": "게티의 몰락",
       "count": 1,
-      "representative_title": "‘안보불감’ 日 사회당의 몰락, 남의 일 아니다 [이완의 생활형 진보주의]",
-      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94STg2b19ORXBUQkNBRUdlVTdnNUVINzlvWDg5RFFrRkMxb0Q2ZVVaMlhKRmEyNVBLWlJtRjdFQ0dRYWFXUXI5TExUOU5hM0dlMzNHT2hfTUx0cUJVUXh6U1RuY2tmTVd5amfSAW5BVV95cUxOVG5BcjB4aEtCai15UlBBbGRxanEwaTFPcUIzNXhaSWFrcEJubVpLSm0xSjBOWTR3dFBTd1FlTmdqTURuZ2RDODhmTGp2UF9SQ2xUXzZ2YlBXeDFOaFVzSGdzQjYzaFNIVS1rODdEUQ?oc=5",
+      "representative_title": "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZTdkM0xmbDlsWHUzTTN0UUxzM1BXRnNySFFXLVBaRGwzMHNLVDFhX3dXNklzaDdMWFIyVWNGcVg2VkJ3V3dnQnE0SXM5UFJOZEJsUVNR?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "‘안보불감’ 日 사회당의 몰락, 남의 일 아니다 [이완의 생활형 진보주의]",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94STg2b19ORXBUQkNBRUdlVTdnNUVINzlvWDg5RFFrRkMxb0Q2ZVVaMlhKRmEyNVBLWlJtRjdFQ0dRYWFXUXI5TExUOU5hM0dlMzNHT2hfTUx0cUJVUXh6U1RuY2tmTVd5amfSAW5BVV95cUxOVG5BcjB4aEtCai15UlBBbGRxanEwaTFPcUIzNXhaSWFrcEJubVpLSm0xSjBOWTR3dFBTd1FlTmdqTURuZ2RDODhmTGp2UF9SQ2xUXzZ2YlBXeDFOaFVzSGdzQjYzaFNIVS1rODdEUQ?oc=5",
+          "title": "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZTdkM0xmbDlsWHUzTTN0UUxzM1BXRnNySFFXLVBaRGwzMHNLVDFhX3dXNklzaDdMWFIyVWNGcVg2VkJ3V3dnQnE0SXM5UFJOZEJsUVNR?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "‘안보불감’ 日 사회당의 몰락, 남의 일 아니다 [이완의 생활형 진보주의]"
+        "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장"
       ],
       "category": "몰락"
     },
     {
       "rank": 5,
-      "keyword": "몰라줘···TK",
-      "series_title": "몰라줘···TK의 몰락",
+      "keyword": "레전드",
+      "series_title": "레전드의 몰락",
       "count": 1,
-      "representative_title": "홍준표 “비난 각오하고 김부겸 밀었는데, 대구시민 내 진심 몰라줘···TK 몰락 가슴 아프다”",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44RlZ5d0xNWUZiMGNLVzBkSVl3TjlPUVJEbThycU9xYnA1c2Y4Zjk0dHdiSEZkTkJiZm11VURhV0ZfRUVCa3kxdXNjTzQ5amxqNWJxUzRGQXRyUdIBX0FVX3lxTFBOOVIyMk1DWU1nVEg4YWk2TWl4UDNER0g1NXJwY1l5N2RNaTlYMnlwbi0wR1hoWWUtUWt6bEtHUEk1Z3FyVlZ0Zm5xeU9BVXhHVUlqUFZ6T2VCNG5zclNj?oc=5",
+      "representative_title": "\"레전드의 몰락\" 전직 삼성 투수 안지만, 사기 혐의 실형 선고",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXMmFsSGEwWUl2SDdTZFBYZlhHTzA4UnZkbTNvbmVlS1ZmYUdPZnNuLVhvMDFqamtSQmc1Y1ktanIzU194NFhGTEVDc1lTcG1mbDA0b2ctS3pTc293VUh3emwtUWJEeHpucWc?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "홍준표 “비난 각오하고 김부겸 밀었는데, 대구시민 내 진심 몰라줘···TK 몰락 가슴 아프다”",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44RlZ5d0xNWUZiMGNLVzBkSVl3TjlPUVJEbThycU9xYnA1c2Y4Zjk0dHdiSEZkTkJiZm11VURhV0ZfRUVCa3kxdXNjTzQ5amxqNWJxUzRGQXRyUdIBX0FVX3lxTFBOOVIyMk1DWU1nVEg4YWk2TWl4UDNER0g1NXJwY1l5N2RNaTlYMnlwbi0wR1hoWWUtUWt6bEtHUEk1Z3FyVlZ0Zm5xeU9BVXhHVUlqUFZ6T2VCNG5zclNj?oc=5",
+          "title": "\"레전드의 몰락\" 전직 삼성 투수 안지만, 사기 혐의 실형 선고",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXMmFsSGEwWUl2SDdTZFBYZlhHTzA4UnZkbTNvbmVlS1ZmYUdPZnNuLVhvMDFqamtSQmc1Y1ktanIzU194NFhGTEVDc1lTcG1mbDA0b2ctS3pTc293VUh3emwtUWJEeHpucWc?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "홍준표 “비난 각오하고 김부겸 밀었는데, 대구시민 내 진심 몰라줘···TK 몰락 가슴 아프다”"
+        "\"레전드의 몰락\" 전직 삼성 투수 안지만, 사기 혐의 실형 선고"
       ],
       "category": "몰락"
     }
@@ -547,33 +511,33 @@
           "press": ""
         },
         {
-          "title": "전세난에 집값까지 ‘들썩’…서울 아파트 분양 전망 3개월만에 ‘청신호’ [부동산360]",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjdkhYR2I1Y3RWbTdjYUV3VmFmb1FaRXZDUy1BZGN3Yms1Rl9jS19IRTB5OVVueDZMblo5eWdxRmRDZ3M1elQ1R2F0b0otT3V1RlU4OFFB?oc=5",
-          "press": ""
-        },
-        {
           "title": "서울 아파트 계약 13건 중 1건 해제…‘집값 띄우기’ 의혹",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlek5mQzdCbXpkdGVpSF9JellldzFTYW4yWXAwMnRTcXhtcmIyMDNuZjZiUDJmSW9BNWRDYzRqUDh4RWFOMTBXQTF3ellRZGc5VUVjS21Hdk0xdGVrOThVc1Z6OTZWQVFsVGg4Q0pwVdIBc0FVX3lxTE1mZ1hSRXJqX2JsZ1dkb0FrcTRkN3o4V1J2WDZoMFF4MUVzY1ppVC16bG9oRWZha1RWM0FfYkgzLURfekI4QVNuUTZDellCbmNrcW9uc3NDeUlKWlc0TUs0djQ2U3poeDJYZDJHQ3hmMXY3bGs?oc=5",
           "press": ""
         },
         {
-          "title": "[부동산 포커스] 서울 집값 피해 갔더니…경기마저 ‘10억 장벽’",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ed203ZVBXQm5DTUhpYVJ6UEtocUJQeWpWb01FaGRJdzU2VnVhYVFyNnlVQWRBM1FQWEtGMExSd2I4LXJxU2RnNndESmFyVGwtRGxQTGU2N3lNS3I1ZHQ2ZmRqVFp2c2NmeUtXeHhSRDBnRVnSAXdBVV95cUxNTVJ1aXBuVWFGZTNiQThBaVJzZ2xUVUdrM1U3a1RTMW5MbUd6QW9zTVFrM3dFUlpFeXdJMUx3aDMwYlFQd2psWThKYlVOUGZsY0lCclB4bHYxNUF1VC1lN0hzZ0d5aHdNWDFha3pPNENvQkhRTzhTVQ?oc=5",
+          "title": "전세난에 집값까지 ‘들썩’…서울 아파트 분양 전망 3개월만에 ‘청신호’ [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjdkhYR2I1Y3RWbTdjYUV3VmFmb1FaRXZDUy1BZGN3Yms1Rl9jS19IRTB5OVVueDZMblo5eWdxRmRDZ3M1elQ1R2F0b0otT3V1RlU4OFFB?oc=5",
+          "press": ""
+        },
+        {
+          "title": "외신 “AI가 서울 집값도 끌어올렸다…李정부 직면한 부동산 딜레마”",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42NHFPaW1rVnVnVzJJY3FXOHNmY19qR0pOZmIwaEpwUkpvdXhxc1R3a2Zrb25UdE1OdXdwN2Nkeldwem1YZGxPNVNNS3RvSVF4UF9Teg?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
         "서울 집값 12% 뛸때 대구 27%↓…지방 `곡소리`에도 정부는 `뒷짐`",
         "집값은 오르는데 거래는 '뚝'…8월 서울 아파트 40%↓",
-        "전세난에 집값까지 ‘들썩’…서울 아파트 분양 전망 3개월만에 ‘청신호’ [부동산360]",
         "서울 아파트 계약 13건 중 1건 해제…‘집값 띄우기’ 의혹",
-        "[부동산 포커스] 서울 집값 피해 갔더니…경기마저 ‘10억 장벽’"
+        "전세난에 집값까지 ‘들썩’…서울 아파트 분양 전망 3개월만에 ‘청신호’ [부동산360]",
+        "외신 “AI가 서울 집값도 끌어올렸다…李정부 직면한 부동산 딜레마”"
       ],
       "category": "부동산"
     },
     {
       "rank": 2,
-      "keyword": "포커스",
+      "keyword": "딜레마",
       "count": 2,
       "representative_title": "[부동산 포커스] 풀자니 집값 불안, 묶자니 전세난…‘토허제 딜레마’",
       "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DSEVTYkd4NVpwRmNlVjkyS2VtYWxpb1J2cnBvTUx3TGxrZk1McFU4MjhpOEpUcDFhdXE2UHFZX3F1WmU4SWJ3cnI1bnFzS2FpcWd2TUF3RFBwbzV1X3FaZ21fS3N3OFNmMEViZVBtdTNHclHSAXdBVV95cUxOU3poWTktOGtsaVNvZVVQSlIzVkppMnFOTERIQ2dUMmZDMDFEMFJEbzJUelVpNFVzNHlFZ05MZFJ2bTJzUFMxQURCYTFLYlRqcTBLaEd4YnJyaVJFZVA4R2QwWUlaS3FnWG5CYWxfVzRQNlVveEhBQQ?oc=5",
