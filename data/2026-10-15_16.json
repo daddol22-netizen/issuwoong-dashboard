@@ -1,0 +1,673 @@
+{
+  "date": "2026-10-15",
+  "hour": "16",
+  "slot": "2026-10-15_16",
+  "crawled_at": "2026-10-15 16:00:05",
+  "total_articles": 406,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 20,
+      "representative_title": "코스피·코스닥 동반 서킷브레이커 발동…8% 급락",
+      "representative_link": "https://n.news.naver.com/article/056/0012274307?ntype=RANKING",
+      "press": "KBS",
+      "related_articles": [
+        {
+          "title": "코스피·코스닥 8%대 낙폭...동반 서킷브레이커 발동",
+          "link": "https://n.news.naver.com/article/052/0002419090?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "코스피·코스닥 1단계 서킷브레이커 발동…8% 넘게 급락(종합)",
+          "link": "https://n.news.naver.com/article/001/0016378910?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[속보] 코스피, 장중 낙폭 확대…5,500선도 하회",
+          "link": "https://n.news.naver.com/article/001/0016379233?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "‘죽음의 십자가’ 그린 코스피... 장기 하락하나, 운명의 2주",
+          "link": "https://n.news.naver.com/article/023/0004003959?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "폭락 전 대탈주 성공한 외국인…코스피 시총 비중 5월 이후 최저 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002709800?ntype=RANKING",
+          "press": "헤럴드경제"
+        }
+      ],
+      "related_titles": [
+        "코스피·코스닥 8%대 낙폭...동반 서킷브레이커 발동",
+        "코스피·코스닥 1단계 서킷브레이커 발동…8% 넘게 급락(종합)",
+        "[속보] 코스피, 장중 낙폭 확대…5,500선도 하회",
+        "‘죽음의 십자가’ 그린 코스피... 장기 하락하나, 운명의 2주",
+        "폭락 전 대탈주 성공한 외국인…코스피 시총 비중 5월 이후 최저 [투자360]"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 2,
+      "keyword": "만원",
+      "count": 18,
+      "representative_title": "아이폰 듀오, 수리비 최대 247만원…갤Z폴드8과 비교하면",
+      "representative_link": "https://n.news.naver.com/article/092/0002441018?ntype=RANKING",
+      "press": "지디넷코리아",
+      "related_articles": [
+        {
+          "title": "\"전국민 'AI 보너스' 현금 지급\"…40만원 vs 80만원 '격돌'",
+          "link": "https://n.news.naver.com/article/015/0005342853?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "\"전국민 'AI 보너스' 현금 지급\"…40만원 vs 80만원 '격돌'",
+          "link": "https://n.news.naver.com/article/015/0005342853?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "6만원으로 치료 가능한데...'193만원' 비급여 권유한 의사",
+          "link": "https://n.news.naver.com/article/008/0005426829?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "[현장] “이거 진짜 안잡아감?” 쫙 깔린 사복 경찰…‘4명 800만원 암표’ 온라인으로 숨었다 [세상&]",
+          "link": "https://n.news.naver.com/article/016/0002709798?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "좌회전 차로 대기 중 깜빡이 끄면 단속 대상?…과태료 4만원",
+          "link": "https://n.news.naver.com/article/022/0004166790?ntype=RANKING",
+          "press": "세계일보"
+        }
+      ],
+      "related_titles": [
+        "\"전국민 'AI 보너스' 현금 지급\"…40만원 vs 80만원 '격돌'",
+        "\"전국민 'AI 보너스' 현금 지급\"…40만원 vs 80만원 '격돌'",
+        "6만원으로 치료 가능한데...'193만원' 비급여 권유한 의사",
+        "[현장] “이거 진짜 안잡아감?” 쫙 깔린 사복 경찰…‘4명 800만원 암표’ 온라인으로 숨었다 [세상&]",
+        "좌회전 차로 대기 중 깜빡이 끄면 단속 대상?…과태료 4만원"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 3,
+      "keyword": "코스닥",
+      "count": 15,
+      "representative_title": "코스닥 이어 코스피도 1단계 서킷브레이커 발동",
+      "representative_link": "https://n.news.naver.com/article/660/0000119122?ntype=RANKING",
+      "press": "kbc광주방송",
+      "related_articles": [
+        {
+          "title": "코스닥 이어 코스피까지…양대 증시 서킷브레이커 발동",
+          "link": "https://n.news.naver.com/article/586/0000139982?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "코스닥 이어 코스피도 1단계 서킷브레이커 발동",
+          "link": "https://n.news.naver.com/article/660/0000119122?ntype=RANKING",
+          "press": "kbc광주방송"
+        }
+      ],
+      "related_titles": [
+        "코스닥 이어 코스피까지…양대 증시 서킷브레이커 발동",
+        "코스닥 이어 코스피도 1단계 서킷브레이커 발동"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 4,
+      "keyword": "대통령",
+      "count": 13,
+      "representative_title": "이재명 대통령 국정 긍정평가 44%…부정평가 49%",
+      "representative_link": "https://n.news.naver.com/article/087/0001223983?ntype=RANKING",
+      "press": "강원일보",
+      "related_articles": [
+        {
+          "title": "이 대통령 손 들어 준 법제처장‥\"대법원장 재제청, 헌법상 책무\"",
+          "link": "https://n.news.naver.com/article/214/0001529222?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "李대통령 지지율 44%…민주, 33%로 현정부 출범 후 최저치[NBS](종합)",
+          "link": "https://n.news.naver.com/article/001/0016378762?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "박지원 \"이 판국에 신천지 재점화? 이러니 대통령 지지율 떨어진다\"",
+          "link": "https://n.news.naver.com/article/437/0000515835?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "李대통령 '잘하고 있다' 44% '잘못하고 있다' 49%…민주 33%·국힘 28% [NBS]",
+          "link": "https://n.news.naver.com/article/586/0000139984?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "이 대통령 지지율 44%…2주 전보다 1%p↑[NBS]",
+          "link": "https://n.news.naver.com/article/057/0001973591?ntype=RANKING",
+          "press": "MBN"
+        }
+      ],
+      "related_titles": [
+        "이 대통령 손 들어 준 법제처장‥\"대법원장 재제청, 헌법상 책무\"",
+        "李대통령 지지율 44%…민주, 33%로 현정부 출범 후 최저치[NBS](종합)",
+        "박지원 \"이 판국에 신천지 재점화? 이러니 대통령 지지율 떨어진다\"",
+        "李대통령 '잘하고 있다' 44% '잘못하고 있다' 49%…민주 33%·국힘 28% [NBS]",
+        "이 대통령 지지율 44%…2주 전보다 1%p↑[NBS]"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 5,
+      "keyword": "중수청장",
+      "count": 12,
+      "representative_title": "행안위, 김지용 중수청장 후보자 인청보고서 채택",
+      "representative_link": "https://n.news.naver.com/article/449/0000364155?ntype=RANKING",
+      "press": "채널A",
+      "related_articles": [
+        {
+          "title": "[속보] 국회 행안위, 김지용 중수청장 후보자 청문보고서 채택",
+          "link": "https://n.news.naver.com/article/028/0002827579?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "[속보] 여야, 김지용 중수청장 후보자 청문보고서 채택",
+          "link": "https://n.news.naver.com/article/052/0002419110?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "행안위, 김지용 초대 중수청장 후보자 인청보고서 채택",
+          "link": "https://n.news.naver.com/article/214/0001529247?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "행안위, 김지용 중수청장 후보자 인청보고서 여야 합의 채택…‘적격’·‘부적격’ 병기",
+          "link": "https://n.news.naver.com/article/056/0012274342?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "[속보]행안위, 김지용 중수청장 후보자 인청보고서 채택",
+          "link": "https://n.news.naver.com/article/079/0004199162?ntype=RANKING",
+          "press": "노컷뉴스"
+        }
+      ],
+      "related_titles": [
+        "[속보] 국회 행안위, 김지용 중수청장 후보자 청문보고서 채택",
+        "[속보] 여야, 김지용 중수청장 후보자 청문보고서 채택",
+        "행안위, 김지용 초대 중수청장 후보자 인청보고서 채택",
+        "행안위, 김지용 중수청장 후보자 인청보고서 여야 합의 채택…‘적격’·‘부적격’ 병기",
+        "[속보]행안위, 김지용 중수청장 후보자 인청보고서 채택"
+      ],
+      "category": "정치"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 20,
+      "representative_title": "코스피·코스닥 동반 서킷브레이커 발동…8% 급락",
+      "representative_link": "https://n.news.naver.com/article/056/0012274307?ntype=RANKING",
+      "press": "KBS",
+      "related_articles": [
+        {
+          "title": "코스피·코스닥 8%대 낙폭...동반 서킷브레이커 발동",
+          "link": "https://n.news.naver.com/article/052/0002419090?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "코스피·코스닥 1단계 서킷브레이커 발동…8% 넘게 급락(종합)",
+          "link": "https://n.news.naver.com/article/001/0016378910?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[속보] 코스피, 장중 낙폭 확대…5,500선도 하회",
+          "link": "https://n.news.naver.com/article/001/0016379233?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "‘죽음의 십자가’ 그린 코스피... 장기 하락하나, 운명의 2주",
+          "link": "https://n.news.naver.com/article/023/0004003959?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "폭락 전 대탈주 성공한 외국인…코스피 시총 비중 5월 이후 최저 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002709800?ntype=RANKING",
+          "press": "헤럴드경제"
+        }
+      ],
+      "related_titles": [
+        "코스피·코스닥 8%대 낙폭...동반 서킷브레이커 발동",
+        "코스피·코스닥 1단계 서킷브레이커 발동…8% 넘게 급락(종합)",
+        "[속보] 코스피, 장중 낙폭 확대…5,500선도 하회",
+        "‘죽음의 십자가’ 그린 코스피... 장기 하락하나, 운명의 2주",
+        "폭락 전 대탈주 성공한 외국인…코스피 시총 비중 5월 이후 최저 [투자360]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "코스닥",
+      "count": 15,
+      "representative_title": "코스닥 이어 코스피도 1단계 서킷브레이커 발동",
+      "representative_link": "https://n.news.naver.com/article/660/0000119122?ntype=RANKING",
+      "press": "kbc광주방송",
+      "related_articles": [
+        {
+          "title": "코스닥 이어 코스피까지…양대 증시 서킷브레이커 발동",
+          "link": "https://n.news.naver.com/article/586/0000139982?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "코스닥 이어 코스피도 1단계 서킷브레이커 발동",
+          "link": "https://n.news.naver.com/article/660/0000119122?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "코스닥 이어 코스피까지…양대 증시 서킷브레이커 발동",
+          "link": "https://n.news.naver.com/article/586/0000139982?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "코스닥 이어 코스피도 1단계 서킷브레이커 발동",
+          "link": "https://n.news.naver.com/article/660/0000119122?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "코스닥 이어 코스피도 1단계 서킷브레이커 발동",
+          "link": "https://n.news.naver.com/article/660/0000119122?ntype=RANKING",
+          "press": "kbc광주방송"
+        }
+      ],
+      "related_titles": [
+        "코스닥 이어 코스피까지…양대 증시 서킷브레이커 발동",
+        "코스닥 이어 코스피도 1단계 서킷브레이커 발동",
+        "코스닥 이어 코스피까지…양대 증시 서킷브레이커 발동",
+        "코스닥 이어 코스피도 1단계 서킷브레이커 발동",
+        "코스닥 이어 코스피도 1단계 서킷브레이커 발동"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "폭락",
+      "count": 7,
+      "representative_title": "“정말 나와선 안될 상품이었다”…하이닉스 레버리지, 상장일 대비 70% 폭락",
+      "representative_link": "https://n.news.naver.com/article/009/0005748994?ntype=RANKING",
+      "press": "매일경제",
+      "related_articles": [
+        {
+          "title": "“정말 나와선 안될 상품이었다”…하이닉스 레버리지, 상장일 대비 70% 폭락",
+          "link": "https://n.news.naver.com/article/009/0005748994?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "1년 새 주가 40% 폭락…“결국 터질 게 터졌다” 직원 1000명 자른다는 이 회사",
+          "link": "https://n.news.naver.com/article/011/0004671425?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "“정말 나와선 안될 상품이었다”…하이닉스 레버리지, 상장일 대비 70% 폭락",
+          "link": "https://n.news.naver.com/article/009/0005748994?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "1년 새 주가 40% 폭락…“결국 터질 게 터졌다” 직원 1000명 자른다는 이 회사",
+          "link": "https://n.news.naver.com/article/011/0004671425?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "“정말 나와선 안될 상품이었다”…하이닉스 레버리지, 상장일 대비 70% 폭락",
+          "link": "https://n.news.naver.com/article/009/0005748994?ntype=RANKING",
+          "press": "매일경제"
+        }
+      ],
+      "related_titles": [
+        "“정말 나와선 안될 상품이었다”…하이닉스 레버리지, 상장일 대비 70% 폭락",
+        "1년 새 주가 40% 폭락…“결국 터질 게 터졌다” 직원 1000명 자른다는 이 회사",
+        "“정말 나와선 안될 상품이었다”…하이닉스 레버리지, 상장일 대비 70% 폭락",
+        "1년 새 주가 40% 폭락…“결국 터질 게 터졌다” 직원 1000명 자른다는 이 회사",
+        "“정말 나와선 안될 상품이었다”…하이닉스 레버리지, 상장일 대비 70% 폭락"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "하이닉스",
+      "count": 6,
+      "representative_title": "하이닉스 130만원 붕괴…얼어붙은 반도체주, 반등 가능할까",
+      "representative_link": "https://n.news.naver.com/article/053/0000062275?ntype=RANKING",
+      "press": "주간조선",
+      "related_articles": [
+        {
+          "title": "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이",
+          "link": "https://n.news.naver.com/article/014/0005589103?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "\"삼성전자 7만원, 하이닉스 20만원\"…'역대급 실적'에도 어두운 전망, 왜",
+          "link": "https://n.news.naver.com/article/277/0005829024?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "하이닉스 130만원 붕괴…얼어붙은 반도체주, 반등 가능할까",
+          "link": "https://n.news.naver.com/article/053/0000062275?ntype=RANKING",
+          "press": "주간조선"
+        },
+        {
+          "title": "“삼성전자·SK하이닉스 지금이 저점 잡을 때… 용기 내볼 시점”&#160;",
+          "link": "https://n.news.naver.com/article/037/0000038982?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이",
+          "link": "https://n.news.naver.com/article/014/0005589103?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        }
+      ],
+      "related_titles": [
+        "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이",
+        "\"삼성전자 7만원, 하이닉스 20만원\"…'역대급 실적'에도 어두운 전망, 왜",
+        "하이닉스 130만원 붕괴…얼어붙은 반도체주, 반등 가능할까",
+        "“삼성전자·SK하이닉스 지금이 저점 잡을 때… 용기 내볼 시점”&#160;",
+        "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼성전자",
+      "count": 6,
+      "representative_title": "“이렇게 빠졌는데 오히려 기회?”…삼성전자 사라는 이유",
+      "representative_link": "https://n.news.naver.com/article/018/0006388243?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "“이렇게 빠졌는데 오히려 기회?”…삼성전자 사라는 이유",
+          "link": "https://n.news.naver.com/article/018/0006388243?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "삼성전자 ‘저가매수’ 기회?…“창신 메모리 추격 ‘착시’ 맞을까[오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000108926?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "“이렇게 빠졌는데 오히려 기회?”…삼성전자 사라는 이유",
+          "link": "https://n.news.naver.com/article/018/0006388243?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "삼성전자 ‘저가매수’ 기회?…“창신 메모리 추격 ‘착시’ 맞을까[오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000108926?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "“이렇게 빠졌는데 오히려 기회?”…삼성전자 사라는 이유",
+          "link": "https://n.news.naver.com/article/018/0006388243?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "“이렇게 빠졌는데 오히려 기회?”…삼성전자 사라는 이유",
+        "삼성전자 ‘저가매수’ 기회?…“창신 메모리 추격 ‘착시’ 맞을까[오늘, 이 종목]",
+        "“이렇게 빠졌는데 오히려 기회?”…삼성전자 사라는 이유",
+        "삼성전자 ‘저가매수’ 기회?…“창신 메모리 추격 ‘착시’ 맞을까[오늘, 이 종목]",
+        "“이렇게 빠졌는데 오히려 기회?”…삼성전자 사라는 이유"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 15,
+      "representative_title": "국힘 \"이화영 특사 단행하면 정권 몰락 도화선\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OcWlGSmtxbXc4d3hVVnRiak1VeVVTZGc1bXI0anFidzlkV0RNZDN4RG14dGhFQmYtSmctTHY1TGRsRXc3LWVjS2d4Rnc0UkdkcGFISjVMclLSAVNBVV95cUxPaWV6LVQ2VzdmT1dWeG1hMDMyQUQtdktrUkE3Mjh4eGltNFFhOFNtTk5ieHZwUGtaWFNkNzN0UUlrVHJoWUZmMkZHRGIzZllteEdJUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'조희대 탄핵' 전운 다시 고조…與 \"인내 한계\" 野 '정권 몰락' 경고",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFYXozc0R0RWY2YTROa2hDRGF0Wlc5YmZ0dWtrNmp1VExaTWZxN29WLUl4c1FnQnhwNEx3Y0Rrd1ZGQTFfVDBUWFhVNk1pNi14ZG5uZVJZakh6QQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국힘 \"이화영 특사 단행하면 李정권 몰락의 도화선 될 것\"",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHJGTm1jMUZPQy1rOGFOaWtIdjRyeWZYVTRsTWNmR3JYdUQ1VXNjTC1aMnFnWnRHYlVQaVUwaEVPbHNWY2MxRWNucGx1b3U4Q2dQa20tUFFqZ1V6d2NxbkpfMTR5U1U5d2RBNUNPNk8?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[오정근 칼럼] 정권 몰락의 위기, 이재명의 근본 없는 경제정책 탓",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IbUlNSXB1R2l6V0U4M01VR3N0c2Q5cnEwU0M5bUpnQVFfdWNwWW1WZmVVQms4MGZXd3JiOVNjeDNxem4xVGdfc0k4Y090RnVDdXlhZnlFTUM4UHBhRVFvX1lUblV6NF90Sjhv0gFvQVVfeXFMTk9Rb0k4QlQwZVlNdFZwTU54RHpwSVJGM3NxTE8zdjBjYUFwQXZJaTU0dEp5cUFpV2ZteG9vcnRtZWNzQWRyWEp1VktHdVpqMEZPdDRzZzg5aksxUE0xa2VpLVVnaUE3Y0xPblJTMk1z?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“대통령, 이화영에 무슨 약점? 특사땐 정권 몰락” 임이자의 말",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DNGt1NjVkZ0lBaFRzcFg2N2diRXQ2Mnk3MnhtT0JLamwybmRnemQwV2dHek1XUWduMXEzd1JBZVFKU1lsd0lsTWJqQUNoaG5E?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국민의힘 \"李, 이화영 성탄절 특사 시 직권 남용 … 정권 몰락 신호탄\"",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CcUh3SlpvTTBPZVYtREZjc1Jma05sN1RlVmRSS292SWNxM1hScGEyQ0R4WkF0YjFJOFRGSVQ1bWxOS19aMmg4RzNpZTkzaW5pMGdZckltWERVWEVGZUx6UEJYWUtfNFBwYjA1cjZFVHBSY2V4Rm8yaWMtWdIBgAFBVV95cUxQM1A5eVV3bWlVcF9FVVdUblB3bXptOEhJUzRyNzJ0SU9ER2dyZmZBdWRuM29oWTFhWjl3ZERZVGtjVFF3NzZrSlBTa0VmMmxYQWFkTkZWTWd5TkEwcTJ4dFQ2Nk5xX1g3Slg2TTFUemZuX2FMMzV6c3FtY1VDWWZqMQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'조희대 탄핵' 전운 다시 고조…與 \"인내 한계\" 野 '정권 몰락' 경고",
+        "국힘 \"이화영 특사 단행하면 李정권 몰락의 도화선 될 것\"",
+        "[오정근 칼럼] 정권 몰락의 위기, 이재명의 근본 없는 경제정책 탓",
+        "“대통령, 이화영에 무슨 약점? 특사땐 정권 몰락” 임이자의 말",
+        "국민의힘 \"李, 이화영 성탄절 특사 시 직권 남용 … 정권 몰락 신호탄\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "TK",
+      "series_title": "TK의 몰락",
+      "count": 4,
+      "representative_title": "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lOTdkLW9jRWwtNmZXLXlNY1M4d2FSSTNsc0dVQ0VNSjUtNjZEdkpKVS1xY2c4c0drU2JKZ2wySkdhN1dSakdjQlRSVGJrZkczRUVnc1Zac3dDc0dzdjQzeUNwQzRjUlg4MUE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "홍준표 “TK 몰락 가슴 아파…비난 각오하고 김부겸 밀었지만, 진심 안 통해”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05NllvSTRXbUhyVC1JQzZfbmlVMnpFSzhJMk14TFBQYWxucERLZU5LdXFoQW5SelFBV1dJTFJLSUNySjJielMtU3VZeHE5b0NaSU8wbHQtWkFLazBuYlhvdTkzN3hSRF9pTjNvMXBEVTJrSXNV?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5scnowZ0ZzQ1VSTVlKNE1WT184ZHB6aTJPY2RoWXR5d1RLbjhMeDhEWWwxYkJHcmNPUmwzakZFTk95NHU5N3d3Qm85c3BNY21kOElSbA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lOTdkLW9jRWwtNmZXLXlNY1M4d2FSSTNsc0dVQ0VNSjUtNjZEdkpKVS1xY2c4c0drU2JKZ2wySkdhN1dSakdjQlRSVGJrZkczRUVnc1Zac3dDc0dzdjQzeUNwQzRjUlg4MUE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"김부겸 밀었던 진심 외면 받아…TK 몰락 가슴 아프다\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PRTRCY2FvUFdCU0JSR2x6bU96M09OX2QzdUNKYVB4bW5jMnJDYWpBb2ZtVzg0TC1wRTRaNEljcEZ3bGtFUFB5RE1TODJLTmIwR2JUYnZvZ3NnSlk?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uR3NPTjRVSHVUUlBJSnFHRm9nWHZsOUJvRFBWZVVsTDYtbEFIYk1BM1JvbU5PWUg1SFVOaTQ4YlBqWXpPVFNNRzdzaWVtdENHN1JJcWtxYUh6MEN4OGxOX1N6ZHVKSnRrMVVTcVB30gFzQVVfeXFMTkJpUmhyUFhVb2pPeXBKR3ZyN2E5bkNmVEt4MjV1bFF4SVZUVGhBSGFlRFhncVZIcC1mOU4wSjhIRUZDcHJ3eFhhWnREcVRxNTBXUlJ5Vk92c1dib3VQUkFJRmF3X2Vxb0pyVHdqa0toYlRmOA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "홍준표 “TK 몰락 가슴 아파…비난 각오하고 김부겸 밀었지만, 진심 안 통해”",
+        "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
+        "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
+        "홍준표 \"김부겸 밀었던 진심 외면 받아…TK 몰락 가슴 아프다\"",
+        "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "안지만",
+      "series_title": "안지만의 몰락",
+      "count": 2,
+      "representative_title": "안지만의 몰락…빚 20억에 3억 빌려 돌려막기 실형",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yVGdMdjQwTFJxN3lJNkl0Y2tVZ3lKWUEzN2dmNDcxM0czdDV1Rl83YUY0TkhZeFp1MFd1d094cUk5T0F6aHJwdjBvQ2dMRmkzeENseDlaQ3ZwWEZCOUHSAWNBVV95cUxQd3ZIVnBLRVluM0dqTVNZNzB3NjR1SE5LMmtKRU1FcUd0ajlDSGVKclZmWTJlaFdXSkQ4Y1BmdjdRZGZNeXNPTHI2czNxZUNDMXhQNHFZbWljekNPQ2NVZHNldlE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "안지만의 몰락…빚 20억에 3억 빌려 돌려막기 실형",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yVGdMdjQwTFJxN3lJNkl0Y2tVZ3lKWUEzN2dmNDcxM0czdDV1Rl83YUY0TkhZeFp1MFd1d094cUk5T0F6aHJwdjBvQ2dMRmkzeENseDlaQ3ZwWEZCOUHSAWNBVV95cUxQd3ZIVnBLRVluM0dqTVNZNzB3NjR1SE5LMmtKRU1FcUd0ajlDSGVKclZmWTJlaFdXSkQ4Y1BmdjdRZGZNeXNPTHI2czNxZUNDMXhQNHFZbWljekNPQ2NVZHNldlE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "전 삼성투수 안지만의 몰락…'3억대 사기' 징역 1년8개월",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44LVltbGd6SDBnTnI5VWRmVFdMRW16eG8tTmI5NDFiNkZPdWttdUhQVHV1V21ncVJrdzJEaHpHYWlmM21vQlpTTEhxYkJ3LU1KZ1NMc2ZsRU94VnJnb09ObNIBeEFVX3lxTE14NzlVdnJZMnNUbG81QjB5VUgwTlFJRURSTVlYUkVZcXluXzlvZGFmVlJiOTZiZ3Y5S1Y4SUJxZWdYZEtwUERCME1sZ0MzaGVUa0NIMzlxYV9lSVpZX0h3aXNJS2RfcDVTSzlKLVhUWV9hOWVmZkdzTg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "안지만의 몰락…빚 20억에 3억 빌려 돌려막기 실형",
+        "전 삼성투수 안지만의 몰락…'3억대 사기' 징역 1년8개월"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "충격",
+      "series_title": "충격의 몰락",
+      "count": 2,
+      "representative_title": "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고”",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12eUM2LWNYYjVoM3RaVzlfUjFMU0NrSy1Sb3FmUjBJUG53RWd2Nmo5NW5lOTFlZmlTT0xINXNLOFhTaDlZTEEwUG1ieTZTZjNveGFRSw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고” - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZbjdEbTRlajVDT1ZJSzFwYVAxaDE3MTFsU3I2SllUS3RNSkJkUkVxbkJ5a2NZc3pvSHZHb1R5eHRkNUk2dFZ6SnJnc2dYX1c3emI3UlNzMGdQb0FSREJfUk1YOHdNaTRQdkHSAW9BVV95cUxPZDVXa1dYNVRaRGtRUThNUVJuaVhFYVBPY1ZDZ0FMa1JFSFd1U2Q2aXIzQU9tM1VMTU91QVEzd1duUWpqS1drWXZBX0FHdXpzS2ljZlhNTGR0Q0JlY3hzTndWZng0SlhxUUVOVjgwSGc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고”",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12eUM2LWNYYjVoM3RaVzlfUjFMU0NrSy1Sb3FmUjBJUG53RWd2Nmo5NW5lOTFlZmlTT0xINXNLOFhTaDlZTEEwUG1ieTZTZjNveGFRSw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고” - 머니투데이",
+        "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고”"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "신화",
+      "series_title": "신화의 몰락",
+      "count": 1,
+      "representative_title": "'0' 두 개 빠진 거 아냐?…'4조 잭팟' AI 신화의 몰락 [허진의 테크토닉]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXlZSkRZelZaWmFsUUljX0NTV1EzeVdkcHZLNHR0UnhkSFBwWmVPZHdSWE5scm55TE9DTVJFNGdLblViSTlmYmVDUU5XMWhnS05KY2JKSXV3Zw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'0' 두 개 빠진 거 아냐?…'4조 잭팟' AI 신화의 몰락 [허진의 테크토닉]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aYXlZSkRZelZaWmFsUUljX0NTV1EzeVdkcHZLNHR0UnhkSFBwWmVPZHdSWE5scm55TE9DTVJFNGdLblViSTlmYmVDUU5XMWhnS05KY2JKSXV3Zw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'0' 두 개 빠진 거 아냐?…'4조 잭팟' AI 신화의 몰락 [허진의 테크토닉]"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 9,
+      "representative_title": "서울 집값 평균 이제 17억…1년 만에 1.5억 뛰었다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQ1VMcUY4cmpHdDBibW1LS1pJRmZoWk5IaW9TdEI2QWxBMnE2VG51XzJXVmdkVHg2enAxQlNmZzcxSFRFVE02YjRjc3pUaVJLa3ppSEpn?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QTl9vdWRWM2Z1Mk1TTmpqNkF0aTh4Tm5YWDJxdFpnMFlBSFhSeDJDVnh3M05RTHA5MW9rNjRFdmFUWEE3MTBWZ09ldm4ySkt6eFNQWUJyXzdISkN2?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qUHFoZ3hRSXI1Y1Y4SHd4Rl9yVkZWWDhIUmlrZkFWbnp0eGVOc0dTaU42QUdTaVpsZHFGX29BVFE5b215ZmpOWUZUV2dpRkV0cVhBUHNwRDhRV0poOXplYjJVbG5Gd1dxUlRmVU4wcC0?oc=5",
+          "press": ""
+        },
+        {
+          "title": "집값폭등·규제 속 부동산 판단법…서울 아파트 투자 공부[서평] - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LYlBVbS1hd001ck84VG9ocmFtdndVc0x1YVFNdEpaQkVJRXNicWNuRmM4cE5Ec25RTF9vQkdCamkxYXJzRFA2OGd1VWNhQXJnU1Z3elJYWlZQcGhKSEFXejBWNUpNaVJ3b1dkbF8taFdpMG0tMkHSAXtBVV95cUxOa3pTR2w4Y0hVdU9VZ2dIS0NZZUtpWVdySHFHVV9pbUpKZDkzU2N2MkVodGtTWGdBUVcyUjF5OWs0RTk4S0ZOdEZqa2F3eEdER2ZJUkFrSzJBczNibjRlSk0wOXhHYWxNQjBRdlF0VjNZeXpNWTNDdWJKTDg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 평균 이제 17억…1년 만에 1.5억 뛰었다",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQ1VMcUY4cmpHdDBibW1LS1pJRmZoWk5IaW9TdEI2QWxBMnE2VG51XzJXVmdkVHg2enAxQlNmZzcxSFRFVE02YjRjc3pUaVJLa3ppSEpn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 12% 뛸때 대구 27%↓…지방 `곡소리`에도 정부는 `뒷짐`",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwanl1QVFDc0VWOXBZTlhtZUd6WTJUd0JMa2NMSDFfdmtqOHVMUzhCVlh6OWkzcDJRWWctcF9Eb1hNZHE2M2lXS1lobm9BSEtQZ01OaVMtYmg4b2twaGtWd1Jn?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
+        "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값",
+        "집값폭등·규제 속 부동산 판단법…서울 아파트 투자 공부[서평] - 머니투데이",
+        "서울 집값 평균 이제 17억…1년 만에 1.5억 뛰었다",
+        "서울 집값 12% 뛸때 대구 27%↓…지방 `곡소리`에도 정부는 `뒷짐`"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "대책",
+      "count": 5,
+      "representative_title": "부동산 대책 1년, 10% 넘게 오른 아파트 매매 가격",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1laHhKM2hrQjVKRHFLblA3TDlvTkdrWWlIU18zckZiZmE0V0p6M2hIb0Y2Zkw3U3FMQkQ3Y3hRUllBRkpYbjZ6NU0zdkpJOFR4NHViS3kyaFAyLVQzaWVYNQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[10·15 부동산 대책 1년] 대출규제 풍선효과에 집값 '천정부지'…공급도 '발목'",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPNGhpaDg4U1A5YUxaZ0FsOTVoZkpSV3Jrc05LRlRJVy12V19YeVBnemtxcVl1QjdmbkNUS0htbzVmRnNwTWRhMFdpNXVUMkJuRXBMU2lQakROam5vVnFKVkEwZGpkWVU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "부동산 대책 1년, 10% 넘게 오른 아파트 매매 가격",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1laHhKM2hrQjVKRHFLblA3TDlvTkdrWWlIU18zckZiZmE0V0p6M2hIb0Y2Zkw3U3FMQkQ3Y3hRUllBRkpYbjZ6NU0zdkpJOFR4NHViS3kyaFAyLVQzaWVYNQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "거래 식었는데 집값은 끓었다…\"이게 아닌데\" 10·15 대책 1년 성적표 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uZW5KdldRVDg5dExzRHNseklfTWRYVUFkbkNWNXU5YTdrazE3akNjQ1BWczBSTGZoNThRNG1hLVowcnluZXlKZmNWVHljbDl0ZTNic0luTzYyNGQ2dFdmMGxseTFwS19TQlHSAW9BVV95cUxQWng5TmVrRkdUaGRGX3k4RW42NUlHLUx2ZlpRZnNxOU1SY3c4YkJXcENyelphTWhITFNLU1RSMTNVSVhxQktPVUhqQUhEaDhzNy01OUs1cEZkSnZXeWdaS1JORnJnLTFrNHg1T3ZIMXc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "10·15 부동산 대책 1년…갭투자 줄었지만 집값·전셋값 뛰었다",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzYUs5MW1QWDJsYkdtS2xWQmpiZUxIMC1TRk9fS2VfYXRzSG1MZ213SUEtX2lHaU81UHhTdDZ4UnBfaEFXeVlmeFBMOVZlQ2IyUlhEUUg3R2tJOFdfQ185anE1SFdTUUp0T3h5RzFyRWNZNEXSAXdBVV95cUxPVjZ5Y0hUVTBnd1RhS3JTUGNod1dFZmJVdFRMODI4NzZ6VU1GR25MM2tmZ1JYSnFLUkd0UHYxTlBYVlpYZjd1YloxclRjTHNJNW53UF9rSzJMZVpkclFyd3FLbmJNS2JHaVZIYlh4eVdycERJelZ5dw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "10.15 부동산 대책 1년, 아파트 매매 가격 10%이상, 전셋값도 10%가까이 상승",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LZ3ZMZU1kZ2ZSWUJabUxhS1gzaXVIUkx0akMzemJqSk9xa3ozRFBMYU5teFBQLVpOWmZjQWxXbjc5ZmxOc3Nkd0owR2tPYUpwa3gwWXJDSUEtWXI2cHBweQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[10·15 부동산 대책 1년] 대출규제 풍선효과에 집값 '천정부지'…공급도 '발목'",
+        "부동산 대책 1년, 10% 넘게 오른 아파트 매매 가격",
+        "거래 식었는데 집값은 끓었다…\"이게 아닌데\" 10·15 대책 1년 성적표 - 머니투데이",
+        "10·15 부동산 대책 1년…갭투자 줄었지만 집값·전셋값 뛰었다",
+        "10.15 부동산 대책 1년, 아파트 매매 가격 10%이상, 전셋값도 10%가까이 상승"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
