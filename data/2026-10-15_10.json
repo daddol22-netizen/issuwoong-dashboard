@@ -1,0 +1,679 @@
+{
+  "date": "2026-10-15",
+  "hour": "10",
+  "slot": "2026-10-15_10",
+  "crawled_at": "2026-10-15 10:00:35",
+  "total_articles": 406,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "인천",
+      "count": 16,
+      "representative_title": "인천 흉기난동범, 첫 살인미수 범행 때 '집행유예'로 풀려나",
+      "representative_link": "https://n.news.naver.com/article/057/0001973497?ntype=RANKING",
+      "press": "MBN",
+      "related_articles": [
+        {
+          "title": "인천 흉기난동범, 과거 첫 살인미수 범행 형량 '집행유예' 그쳐",
+          "link": "https://n.news.naver.com/article/001/0016377733?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "\"문신이 멋있어 보이긴 처음\"…인천 흉기 난동 막아선 30대 시민에 쏟아진 반전 찬사",
+          "link": "https://n.news.naver.com/article/014/0005589449?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "인천 흉기난동범, 첫 살인미수 ‘집행유예’...흉기범죄 반복에서 징역 4년",
+          "link": "https://n.news.naver.com/article/666/0000127515?ntype=RANKING",
+          "press": "경기일보"
+        },
+        {
+          "title": "“추가 공격 막았다”… 인천 흉기난동 막고 범인 제압한 5명의 영웅들",
+          "link": "https://n.news.naver.com/article/666/0000127500?ntype=RANKING",
+          "press": "경기일보"
+        },
+        {
+          "title": "인천 흉기난동 50대, 범행 두달 전 계양구에 병원 치료 불만 민원",
+          "link": "https://n.news.naver.com/article/421/0009228736?ntype=RANKING",
+          "press": "뉴스1"
+        }
+      ],
+      "related_titles": [
+        "인천 흉기난동범, 과거 첫 살인미수 범행 형량 '집행유예' 그쳐",
+        "\"문신이 멋있어 보이긴 처음\"…인천 흉기 난동 막아선 30대 시민에 쏟아진 반전 찬사",
+        "인천 흉기난동범, 첫 살인미수 ‘집행유예’...흉기범죄 반복에서 징역 4년",
+        "“추가 공격 막았다”… 인천 흉기난동 막고 범인 제압한 5명의 영웅들",
+        "인천 흉기난동 50대, 범행 두달 전 계양구에 병원 치료 불만 민원"
+      ],
+      "category": "건강/의료"
+    },
+    {
+      "rank": 2,
+      "keyword": "만원",
+      "count": 11,
+      "representative_title": "좌회전 차로 대기 중 깜빡이 끄면 단속 대상?…과태료 4만원",
+      "representative_link": "https://n.news.naver.com/article/022/0004166790?ntype=RANKING",
+      "press": "세계일보",
+      "related_articles": [
+        {
+          "title": "경험해보지 못한 ‘월세 시대’... 강북·노원·관악도 月 300만원",
+          "link": "https://n.news.naver.com/article/023/0004003935?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "좌회전 차로 대기 중 깜빡이 끄면 단속 대상?…과태료 4만원",
+          "link": "https://n.news.naver.com/article/022/0004166790?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "국산 비만약 '에페', 마운자로 반값…첫 달 공급가 13만원 전망",
+          "link": "https://n.news.naver.com/article/015/0005342654?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "'구치소가 대납' 최서원 병원비 3900만원… 청구 소송 1심 결과는?",
+          "link": "https://n.news.naver.com/article/469/0000959566?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "윤남노 “마운자로에 300만원 썼는데 -1㎏”…스윙스도 겪은 ‘이긴자로’ [헬스픽]",
+          "link": "https://n.news.naver.com/article/081/0003688809?ntype=RANKING",
+          "press": "서울신문"
+        }
+      ],
+      "related_titles": [
+        "경험해보지 못한 ‘월세 시대’... 강북·노원·관악도 月 300만원",
+        "좌회전 차로 대기 중 깜빡이 끄면 단속 대상?…과태료 4만원",
+        "국산 비만약 '에페', 마운자로 반값…첫 달 공급가 13만원 전망",
+        "'구치소가 대납' 최서원 병원비 3900만원… 청구 소송 1심 결과는?",
+        "윤남노 “마운자로에 300만원 썼는데 -1㎏”…스윙스도 겪은 ‘이긴자로’ [헬스픽]"
+      ],
+      "category": "건강/의료"
+    },
+    {
+      "rank": 3,
+      "keyword": "한동훈",
+      "count": 11,
+      "representative_title": "“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들",
+      "representative_link": "https://n.news.naver.com/article/607/0000003540?ntype=RANKING",
+      "press": "뉴스타파",
+      "related_articles": [
+        {
+          "title": "한동훈 “‘타진요’ 같은 짓 서슴지 않는 민주당… 야비한 정치깡패식 행태”",
+          "link": "https://n.news.naver.com/article/022/0004166844?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "김종혁 \"박덕흠, 정치검사 한동훈? 속 뻔히 보여준 발연기\"[한판승부]",
+          "link": "https://n.news.naver.com/article/079/0004198949?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "[비하인드 뉴스] 배현진 \"한동훈 딸은 천재, 조국 딸과 다르다\"…근거는?",
+          "link": "https://n.news.naver.com/article/437/0000515741?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "한동훈 \"與 야비한 정치깡패들, 싹 갈아엎겠다…가족에 허위 공격\"",
+          "link": "https://n.news.naver.com/article/421/0009228738?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "[단독] 한동훈 딸, ‘부모 찬스’ 의혹 ‘노트북 기부’ 내세워 서울시장상 수상",
+          "link": "https://n.news.naver.com/article/028/0002827415?ntype=RANKING",
+          "press": "한겨레"
+        }
+      ],
+      "related_titles": [
+        "한동훈 “‘타진요’ 같은 짓 서슴지 않는 민주당… 야비한 정치깡패식 행태”",
+        "김종혁 \"박덕흠, 정치검사 한동훈? 속 뻔히 보여준 발연기\"[한판승부]",
+        "[비하인드 뉴스] 배현진 \"한동훈 딸은 천재, 조국 딸과 다르다\"…근거는?",
+        "한동훈 \"與 야비한 정치깡패들, 싹 갈아엎겠다…가족에 허위 공격\"",
+        "[단독] 한동훈 딸, ‘부모 찬스’ 의혹 ‘노트북 기부’ 내세워 서울시장상 수상"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 4,
+      "keyword": "신천지",
+      "count": 10,
+      "representative_title": "다시 불붙은 신천지 의혹…당 안팎서 김민석 비판론",
+      "representative_link": "https://n.news.naver.com/article/629/0000542152?ntype=RANKING",
+      "press": "더팩트",
+      "related_articles": [
+        {
+          "title": "\"신천지 집단가입 확인\" 파문‥친청계 격앙 \"누가 흘렸나\"",
+          "link": "https://n.news.naver.com/article/214/0001529091?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "김민석 “신천지 집단 입당 확인”… 與, 또다시 명청대전",
+          "link": "https://n.news.naver.com/article/023/0004003921?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "김민석 “신천지 조직적 경선개입 증언 있다”… 친청계 “누가 흘렸는지 밝혀내 퇴출시켜야”",
+          "link": "https://n.news.naver.com/article/020/0003755099?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "'신천지 확인'에 민주당 내홍 재점화 조짐...국민의힘 \"압수수색·특검\"",
+          "link": "https://n.news.naver.com/article/052/0002418877?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "김민석이 꺼낸 '신천지', 정청래가 던진 '책임론'…민주당 또 충돌",
+          "link": "https://n.news.naver.com/article/119/0003142893?ntype=RANKING",
+          "press": "데일리안"
+        }
+      ],
+      "related_titles": [
+        "\"신천지 집단가입 확인\" 파문‥친청계 격앙 \"누가 흘렸나\"",
+        "김민석 “신천지 집단 입당 확인”… 與, 또다시 명청대전",
+        "김민석 “신천지 조직적 경선개입 증언 있다”… 친청계 “누가 흘렸는지 밝혀내 퇴출시켜야”",
+        "'신천지 확인'에 민주당 내홍 재점화 조짐...국민의힘 \"압수수색·특검\"",
+        "김민석이 꺼낸 '신천지', 정청래가 던진 '책임론'…민주당 또 충돌"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "트럼프",
+      "count": 10,
+      "representative_title": "트럼프 \"韓 알래스카에 500억불 투자…무역·투자합의 일부\"",
+      "representative_link": "https://n.news.naver.com/article/469/0000959563?ntype=RANKING",
+      "press": "한국일보",
+      "related_articles": [
+        {
+          "title": "트럼프 \"한국, 알래스카에 500억 달러 투자‥무역·투자합의 일부\"",
+          "link": "https://n.news.naver.com/article/214/0001529116?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "트럼프 “한국의 알래스카 500억 달러 투자, 나와의 무역·투자 합의”",
+          "link": "https://n.news.naver.com/article/056/0012274026?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "트럼프 \"韓 500억·대만 800억·日 210억불 투자·구매 약속\"(종합)",
+          "link": "https://n.news.naver.com/article/001/0016377711?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "트럼프 \"韓 알래스카에 500억불 투자…무역·투자합의 일부\"",
+          "link": "https://n.news.naver.com/article/469/0000959563?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "트럼프 “日 투자로 美 뉴욕에 반도체 공장 2곳 건설… 한국·대만 약속도 사업화”",
+          "link": "https://n.news.naver.com/article/366/0001198016?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "트럼프 \"한국, 알래스카에 500억 달러 투자‥무역·투자합의 일부\"",
+        "트럼프 “한국의 알래스카 500억 달러 투자, 나와의 무역·투자 합의”",
+        "트럼프 \"韓 500억·대만 800억·日 210억불 투자·구매 약속\"(종합)",
+        "트럼프 \"韓 알래스카에 500억불 투자…무역·투자합의 일부\"",
+        "트럼프 “日 투자로 美 뉴욕에 반도체 공장 2곳 건설… 한국·대만 약속도 사업화”"
+      ],
+      "category": "경제/투자"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "트럼프",
+      "count": 8,
+      "representative_title": "트럼프 \"韓 알래스카에 500억불 투자…무역·투자합의 일부\"",
+      "representative_link": "https://n.news.naver.com/article/469/0000959563?ntype=RANKING",
+      "press": "한국일보",
+      "related_articles": [
+        {
+          "title": "트럼프 \"한국, 알래스카에 500억 달러 투자‥무역·투자합의 일부\"",
+          "link": "https://n.news.naver.com/article/214/0001529116?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "트럼프 “한국의 알래스카 500억 달러 투자, 나와의 무역·투자 합의”",
+          "link": "https://n.news.naver.com/article/056/0012274026?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "트럼프 \"韓 500억·대만 800억·日 210억불 투자·구매 약속\"(종합)",
+          "link": "https://n.news.naver.com/article/001/0016377711?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "트럼프 \"韓 알래스카에 500억불 투자…무역·투자합의 일부\"",
+          "link": "https://n.news.naver.com/article/469/0000959563?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "트럼프 “알래스카 LNG에 한국 67조 원·대만 6조 원 투자…무역 합의 덕”",
+          "link": "https://n.news.naver.com/article/449/0000364105?ntype=RANKING",
+          "press": "채널A"
+        }
+      ],
+      "related_titles": [
+        "트럼프 \"한국, 알래스카에 500억 달러 투자‥무역·투자합의 일부\"",
+        "트럼프 “한국의 알래스카 500억 달러 투자, 나와의 무역·투자 합의”",
+        "트럼프 \"韓 500억·대만 800억·日 210억불 투자·구매 약속\"(종합)",
+        "트럼프 \"韓 알래스카에 500억불 투자…무역·투자합의 일부\"",
+        "트럼프 “알래스카 LNG에 한국 67조 원·대만 6조 원 투자…무역 합의 덕”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "코스피",
+      "count": 7,
+      "representative_title": "월가 애널리스트 \"미국 택시기사도 코스피 주목\"",
+      "representative_link": "https://n.news.naver.com/article/417/0001160931?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "\"뉴욕 택시기사들도 코스피 얘기, 韓 증시 1년 안에 다시 9000 돌파\"…'월가 족집게' 콕 집었다",
+          "link": "https://n.news.naver.com/article/277/0005828410?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "[단독] \"삼전닉스, 20~30% 오른다\"…댄 아이브스 \"코스피 사상 최고치 갈 것\"",
+          "link": "https://n.news.naver.com/article/215/0001269172?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "[오늘의 증시]물가 충격에 美증시 휘청…코스피, 6000선 또 깨지나",
+          "link": "https://n.news.naver.com/article/003/0014254462?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "\"진입 기회인가 강제청산인가\"…코스피 급락에 엇갈린 개미 운명",
+          "link": "https://n.news.naver.com/article/119/0003142906?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "“5거래일 급락 딛고 반등”…코스피 6100선 회복, 삼성전자·SK하이닉스 강세",
+          "link": "https://n.news.naver.com/article/138/0002244630?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "\"뉴욕 택시기사들도 코스피 얘기, 韓 증시 1년 안에 다시 9000 돌파\"…'월가 족집게' 콕 집었다",
+        "[단독] \"삼전닉스, 20~30% 오른다\"…댄 아이브스 \"코스피 사상 최고치 갈 것\"",
+        "[오늘의 증시]물가 충격에 美증시 휘청…코스피, 6000선 또 깨지나",
+        "\"진입 기회인가 강제청산인가\"…코스피 급락에 엇갈린 개미 운명",
+        "“5거래일 급락 딛고 반등”…코스피 6100선 회복, 삼성전자·SK하이닉스 강세"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "달러",
+      "count": 6,
+      "representative_title": "애플, 시총 5조 달러 돌파…엔비디아에 이어 두 번째",
+      "representative_link": "https://n.news.naver.com/article/092/0002440980?ntype=RANKING",
+      "press": "지디넷코리아",
+      "related_articles": [
+        {
+          "title": "“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들",
+          "link": "https://n.news.naver.com/article/607/0000003540?ntype=RANKING",
+          "press": "뉴스타파"
+        },
+        {
+          "title": "애플, 시총 5조 달러 돌파…엔비디아에 이어 두 번째",
+          "link": "https://n.news.naver.com/article/092/0002440980?ntype=RANKING",
+          "press": "지디넷코리아"
+        },
+        {
+          "title": "원·달러 환율, 1342.3원…달러, 예상치 상회한 물가에 상승",
+          "link": "https://n.news.naver.com/article/123/0002391882?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "원·달러 환율, 1342.3원…달러, 예상치 상회한 물가에 상승",
+          "link": "https://n.news.naver.com/article/123/0002391882?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "애플, 시총 5조 달러 돌파…엔비디아에 이어 두 번째",
+          "link": "https://n.news.naver.com/article/092/0002440980?ntype=RANKING",
+          "press": "지디넷코리아"
+        }
+      ],
+      "related_titles": [
+        "“0.99달러 저작권 마타도어”?...한동훈 해명에 빠진 사실들",
+        "애플, 시총 5조 달러 돌파…엔비디아에 이어 두 번째",
+        "원·달러 환율, 1342.3원…달러, 예상치 상회한 물가에 상승",
+        "원·달러 환율, 1342.3원…달러, 예상치 상회한 물가에 상승",
+        "애플, 시총 5조 달러 돌파…엔비디아에 이어 두 번째"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "급락",
+      "count": 6,
+      "representative_title": "美 AI주 급락 여파…삼전·SK하닉, 프리마켓 6~7%대 폭락",
+      "representative_link": "https://n.news.naver.com/article/029/0003053221?ntype=RANKING",
+      "press": "디지털타임스",
+      "related_articles": [
+        {
+          "title": "107조 벌어도 삼성전자 급락…외국인 이틀 새 코스피서 5.7조 던진 이유 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004166789?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "삼전닉스 프리마켓서 동반 급락…SK하이닉스 시총 1000조 원 하회",
+          "link": "https://n.news.naver.com/article/082/0001402555?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "[뉴욕마감]CPI 충격에 AI주 투매…나스닥 1.9% 급락, 석 달 만에 최대 낙폭",
+          "link": "https://n.news.naver.com/article/421/0009228656?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "'美 물가쇼크'에 삼전·닉스 '휘청'…프리마켓서 6%대 동반 급락",
+          "link": "https://n.news.naver.com/article/003/0014254480?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "美 AI주 급락 여파…삼전·SK하닉, 프리마켓 6~7%대 폭락",
+          "link": "https://n.news.naver.com/article/029/0003053221?ntype=RANKING",
+          "press": "디지털타임스"
+        }
+      ],
+      "related_titles": [
+        "107조 벌어도 삼성전자 급락…외국인 이틀 새 코스피서 5.7조 던진 이유 [숫자 뒤의 진실]",
+        "삼전닉스 프리마켓서 동반 급락…SK하이닉스 시총 1000조 원 하회",
+        "[뉴욕마감]CPI 충격에 AI주 투매…나스닥 1.9% 급락, 석 달 만에 최대 낙폭",
+        "'美 물가쇼크'에 삼전·닉스 '휘청'…프리마켓서 6%대 동반 급락",
+        "美 AI주 급락 여파…삼전·SK하닉, 프리마켓 6~7%대 폭락"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼성전자",
+      "count": 5,
+      "representative_title": "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이",
+      "representative_link": "https://n.news.naver.com/article/014/0005589103?ntype=RANKING",
+      "press": "파이낸셜뉴스",
+      "related_articles": [
+        {
+          "title": "삼성전자-SK하이닉스, 7세대 HBM 선보이며 “中보다 기술 우위”",
+          "link": "https://n.news.naver.com/article/020/0003755047?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이",
+          "link": "https://n.news.naver.com/article/014/0005589103?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "“삼성전자·SK하이닉스 지금이 저점 잡을 때… 용기 내볼 시점”&#160;",
+          "link": "https://n.news.naver.com/article/037/0000038982?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "삼성전자-SK하이닉스, 7세대 HBM 선보이며 “中보다 기술 우위”",
+          "link": "https://n.news.naver.com/article/020/0003755047?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이",
+          "link": "https://n.news.naver.com/article/014/0005589103?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        }
+      ],
+      "related_titles": [
+        "삼성전자-SK하이닉스, 7세대 HBM 선보이며 “中보다 기술 우위”",
+        "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이",
+        "“삼성전자·SK하이닉스 지금이 저점 잡을 때… 용기 내볼 시점”&#160;",
+        "삼성전자-SK하이닉스, 7세대 HBM 선보이며 “中보다 기술 우위”",
+        "\"삼성전자 7만원, 하이닉스 20만원\"…반도체주 전망에 무슨 일이"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 14,
+      "representative_title": "국힘 \"이화영 특사 단행하면 정권 몰락 도화선\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OcWlGSmtxbXc4d3hVVnRiak1VeVVTZGc1bXI0anFidzlkV0RNZDN4RG14dGhFQmYtSmctTHY1TGRsRXc3LWVjS2d4Rnc0UkdkcGFISjVMclLSAVNBVV95cUxPaWV6LVQ2VzdmT1dWeG1hMDMyQUQtdktrUkE3Mjh4eGltNFFhOFNtTk5ieHZwUGtaWFNkNzN0UUlrVHJoWUZmMkZHRGIzZllteEdJUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[오정근 칼럼] 정권 몰락의 위기, 이재명의 근본 없는 경제정책 탓",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IbUlNSXB1R2l6V0U4M01VR3N0c2Q5cnEwU0M5bUpnQVFfdWNwWW1WZmVVQms4MGZXd3JiOVNjeDNxem4xVGdfc0k4Y090RnVDdXlhZnlFTUM4UHBhRVFvX1lUblV6NF90Sjhv0gFvQVVfeXFMTk9Rb0k4QlQwZVlNdFZwTU54RHpwSVJGM3NxTE8zdjBjYUFwQXZJaTU0dEp5cUFpV2ZteG9vcnRtZWNzQWRyWEp1VktHdVpqMEZPdDRzZzg5aksxUE0xa2VpLVVnaUE3Y0xPblJTMk1z?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국힘 \"이화영 특사 단행하면 李정권 몰락의 도화선 될 것\"",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ybHJGTm1jMUZPQy1rOGFOaWtIdjRyeWZYVTRsTWNmR3JYdUQ1VXNjTC1aMnFnWnRHYlVQaVUwaEVPbHNWY2MxRWNucGx1b3U4Q2dQa20tUFFqZ1V6d2NxbkpfMTR5U1U5d2RBNUNPNk8?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“대통령, 이화영에 무슨 약점? 특사땐 정권 몰락” 임이자의 말",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DNGt1NjVkZ0lBaFRzcFg2N2diRXQ2Mnk3MnhtT0JLamwybmRnemQwV2dHek1XUWduMXEzd1JBZVFKU1lsd0lsTWJqQUNoaG5E?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국민의힘 \"李, 이화영 성탄절 특사 시 직권 남용 … 정권 몰락 신호탄\"",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CcUh3SlpvTTBPZVYtREZjc1Jma05sN1RlVmRSS292SWNxM1hScGEyQ0R4WkF0YjFJOFRGSVQ1bWxOS19aMmg4RzNpZTkzaW5pMGdZckltWERVWEVGZUx6UEJYWUtfNFBwYjA1cjZFVHBSY2V4Rm8yaWMtWdIBgAFBVV95cUxQM1A5eVV3bWlVcF9FVVdUblB3bXptOEhJUzRyNzJ0SU9ER2dyZmZBdWRuM29oWTFhWjl3ZERZVGtjVFF3NzZrSlBTa0VmMmxYQWFkTkZWTWd5TkEwcTJ4dFQ2Nk5xX1g3Slg2TTFUemZuX2FMMzV6c3FtY1VDWWZqMQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국민의힘 \"이화영 특사 단행하면 李 정권 몰락 도화선\"",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GWHdZYTlVeVJFVzhtMkZKd1hNdGluVGhQVE8ySVpIdGg0eVNKd0VNNzM5Q3F6ejRkV04zeGZhakxlVk1ISDNrX3FHS2V3N3hfSmlxSXZTcUd5U192Q3BJbTEzM1R4dGVDMFRJ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[오정근 칼럼] 정권 몰락의 위기, 이재명의 근본 없는 경제정책 탓",
+        "국힘 \"이화영 특사 단행하면 李정권 몰락의 도화선 될 것\"",
+        "“대통령, 이화영에 무슨 약점? 특사땐 정권 몰락” 임이자의 말",
+        "국민의힘 \"李, 이화영 성탄절 특사 시 직권 남용 … 정권 몰락 신호탄\"",
+        "국민의힘 \"이화영 특사 단행하면 李 정권 몰락 도화선\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "TK",
+      "series_title": "TK의 몰락",
+      "count": 4,
+      "representative_title": "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lOTdkLW9jRWwtNmZXLXlNY1M4d2FSSTNsc0dVQ0VNSjUtNjZEdkpKVS1xY2c4c0drU2JKZ2wySkdhN1dSakdjQlRSVGJrZkczRUVnc1Zac3dDc0dzdjQzeUNwQzRjUlg4MUE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "홍준표 “TK 몰락 가슴 아파…비난 각오하고 김부겸 밀었지만, 진심 안 통해”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05NllvSTRXbUhyVC1JQzZfbmlVMnpFSzhJMk14TFBQYWxucERLZU5LdXFoQW5SelFBV1dJTFJLSUNySjJielMtU3VZeHE5b0NaSU8wbHQtWkFLazBuYlhvdTkzN3hSRF9pTjNvMXBEVTJrSXNV?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5scnowZ0ZzQ1VSTVlKNE1WT184ZHB6aTJPY2RoWXR5d1RLbjhMeDhEWWwxYkJHcmNPUmwzakZFTk95NHU5N3d3Qm85c3BNY21kOElSbA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lOTdkLW9jRWwtNmZXLXlNY1M4d2FSSTNsc0dVQ0VNSjUtNjZEdkpKVS1xY2c4c0drU2JKZ2wySkdhN1dSakdjQlRSVGJrZkczRUVnc1Zac3dDc0dzdjQzeUNwQzRjUlg4MUE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"김부겸 밀었던 진심 외면 받아…TK 몰락 가슴 아프다\"",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PRTRCY2FvUFdCU0JSR2x6bU96M09OX2QzdUNKYVB4bW5jMnJDYWpBb2ZtVzg0TC1wRTRaNEljcEZ3bGtFUFB5RE1TODJLTmIwR2JUYnZvZ3NnSlk?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uR3NPTjRVSHVUUlBJSnFHRm9nWHZsOUJvRFBWZVVsTDYtbEFIYk1BM1JvbU5PWUg1SFVOaTQ4YlBqWXpPVFNNRzdzaWVtdENHN1JJcWtxYUh6MEN4OGxOX1N6ZHVKSnRrMVVTcVB30gFzQVVfeXFMTkJpUmhyUFhVb2pPeXBKR3ZyN2E5bkNmVEt4MjV1bFF4SVZUVGhBSGFlRFhncVZIcC1mOU4wSjhIRUZDcHJ3eFhhWnREcVRxNTBXUlJ5Vk92c1dib3VQUkFJRmF3X2Vxb0pyVHdqa0toYlRmOA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "홍준표 “TK 몰락 가슴 아파…비난 각오하고 김부겸 밀었지만, 진심 안 통해”",
+        "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\"",
+        "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
+        "홍준표 \"김부겸 밀었던 진심 외면 받아…TK 몰락 가슴 아프다\"",
+        "홍준표 \"비난 각오하고 김부겸 밀었는데…TK 몰락 가슴 아프다\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "안지만",
+      "series_title": "안지만의 몰락",
+      "count": 2,
+      "representative_title": "안지만의 몰락…빚 20억에 3억 빌려 돌려막기 실형",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yVGdMdjQwTFJxN3lJNkl0Y2tVZ3lKWUEzN2dmNDcxM0czdDV1Rl83YUY0TkhZeFp1MFd1d094cUk5T0F6aHJwdjBvQ2dMRmkzeENseDlaQ3ZwWEZCOUHSAWNBVV95cUxQd3ZIVnBLRVluM0dqTVNZNzB3NjR1SE5LMmtKRU1FcUd0ajlDSGVKclZmWTJlaFdXSkQ4Y1BmdjdRZGZNeXNPTHI2czNxZUNDMXhQNHFZbWljekNPQ2NVZHNldlE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "안지만의 몰락…빚 20억에 3억 빌려 돌려막기 실형",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yVGdMdjQwTFJxN3lJNkl0Y2tVZ3lKWUEzN2dmNDcxM0czdDV1Rl83YUY0TkhZeFp1MFd1d094cUk5T0F6aHJwdjBvQ2dMRmkzeENseDlaQ3ZwWEZCOUHSAWNBVV95cUxQd3ZIVnBLRVluM0dqTVNZNzB3NjR1SE5LMmtKRU1FcUd0ajlDSGVKclZmWTJlaFdXSkQ4Y1BmdjdRZGZNeXNPTHI2czNxZUNDMXhQNHFZbWljekNPQ2NVZHNldlE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "전 삼성투수 안지만의 몰락…'3억대 사기' 징역 1년8개월",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44LVltbGd6SDBnTnI5VWRmVFdMRW16eG8tTmI5NDFiNkZPdWttdUhQVHV1V21ncVJrdzJEaHpHYWlmM21vQlpTTEhxYkJ3LU1KZ1NMc2ZsRU94VnJnb09ObNIBeEFVX3lxTE14NzlVdnJZMnNUbG81QjB5VUgwTlFJRURSTVlYUkVZcXluXzlvZGFmVlJiOTZiZ3Y5S1Y4SUJxZWdYZEtwUERCME1sZ0MzaGVUa0NIMzlxYV9lSVpZX0h3aXNJS2RfcDVTSzlKLVhUWV9hOWVmZkdzTg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "안지만의 몰락…빚 20억에 3억 빌려 돌려막기 실형",
+        "전 삼성투수 안지만의 몰락…'3억대 사기' 징역 1년8개월"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "충격",
+      "series_title": "충격의 몰락",
+      "count": 2,
+      "representative_title": "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고”",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12eUM2LWNYYjVoM3RaVzlfUjFMU0NrSy1Sb3FmUjBJUG53RWd2Nmo5NW5lOTFlZmlTT0xINXNLOFhTaDlZTEEwUG1ieTZTZjNveGFRSw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고” - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZbjdEbTRlajVDT1ZJSzFwYVAxaDE3MTFsU3I2SllUS3RNSkJkUkVxbkJ5a2NZc3pvSHZHb1R5eHRkNUk2dFZ6SnJnc2dYX1c3emI3UlNzMGdQb0FSREJfUk1YOHdNaTRQdkHSAW9BVV95cUxPZDVXa1dYNVRaRGtRUThNUVJuaVhFYVBPY1ZDZ0FMa1JFSFd1U2Q2aXIzQU9tM1VMTU91QVEzd1duUWpqS1drWXZBX0FHdXpzS2ljZlhNTGR0Q0JlY3hzTndWZng0SlhxUUVOVjgwSGc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고”",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12eUM2LWNYYjVoM3RaVzlfUjFMU0NrSy1Sb3FmUjBJUG53RWd2Nmo5NW5lOTFlZmlTT0xINXNLOFhTaDlZTEEwUG1ieTZTZjNveGFRSw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고” - 머니투데이",
+        "“오타니 제발 빼!” 슈퍼스타 충격 몰락, 가을 타율 고작 0.154인데 美 왜 다저스 꾸짖었나 “몇 년간 오타니 때문에 이겨놓고”"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "게티",
+      "series_title": "게티의 몰락",
+      "count": 1,
+      "representative_title": "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZTdkM0xmbDlsWHUzTTN0UUxzM1BXRnNySFFXLVBaRGwzMHNLVDFhX3dXNklzaDdMWFIyVWNGcVg2VkJ3V3dnQnE0SXM5UFJOZEJsUVNR?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZTdkM0xmbDlsWHUzTTN0UUxzM1BXRnNySFFXLVBaRGwzMHNLVDFhX3dXNklzaDdMWFIyVWNGcVg2VkJ3V3dnQnE0SXM5UFJOZEJsUVNR?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 8,
+      "representative_title": "서울 집값 평균 이제 17억…1년 만에 1.5억 뛰었다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQ1VMcUY4cmpHdDBibW1LS1pJRmZoWk5IaW9TdEI2QWxBMnE2VG51XzJXVmdkVHg2enAxQlNmZzcxSFRFVE02YjRjc3pUaVJLa3ppSEpn?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "서울 집값 평균 이제 17억…1년 만에 1.5억 뛰었다",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQ1VMcUY4cmpHdDBibW1LS1pJRmZoWk5IaW9TdEI2QWxBMnE2VG51XzJXVmdkVHg2enAxQlNmZzcxSFRFVE02YjRjc3pUaVJLa3ppSEpn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 12% 뛸때 대구 27%↓…지방 `곡소리`에도 정부는 `뒷짐`",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwanl1QVFDc0VWOXBZTlhtZUd6WTJUd0JMa2NMSDFfdmtqOHVMUzhCVlh6OWkzcDJRWWctcF9Eb1hNZHE2M2lXS1lobm9BSEtQZ01OaVMtYmg4b2twaGtWd1Jn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "집값은 오르는데 거래는 '뚝'…8월 서울 아파트 40%↓",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpVGRLVzhyNTRGZk1jVGhUaXp4SXBPdElwbld6b2xnV21UMFdaWjlFc1dpX2FsbkNXWnZtSlUwOEVHX1F3OF9qWHI0R29RaG9zZ0JSVTBiUjUxOW1teTcxSw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "전세난에 집값까지 ‘들썩’…서울 아파트 분양 전망 3개월만에 ‘청신호’ [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjdkhYR2I1Y3RWbTdjYUV3VmFmb1FaRXZDUy1BZGN3Yms1Rl9jS19IRTB5OVVueDZMblo5eWdxRmRDZ3M1elQ1R2F0b0otT3V1RlU4OFFB?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 계약 13건 중 1건 해제…‘집값 띄우기’ 의혹",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlek5mQzdCbXpkdGVpSF9JellldzFTYW4yWXAwMnRTcXhtcmIyMDNuZjZiUDJmSW9BNWRDYzRqUDh4RWFOMTBXQTF3ellRZGc5VUVjS21Hdk0xdGVrOThVc1Z6OTZWQVFsVGg4Q0pwVdIBc0FVX3lxTE1mZ1hSRXJqX2JsZ1dkb0FrcTRkN3o4V1J2WDZoMFF4MUVzY1ppVC16bG9oRWZha1RWM0FfYkgzLURfekI4QVNuUTZDellCbmNrcW9uc3NDeUlKWlc0TUs0djQ2U3poeDJYZDJHQ3hmMXY3bGs?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "서울 집값 평균 이제 17억…1년 만에 1.5억 뛰었다",
+        "서울 집값 12% 뛸때 대구 27%↓…지방 `곡소리`에도 정부는 `뒷짐`",
+        "집값은 오르는데 거래는 '뚝'…8월 서울 아파트 40%↓",
+        "전세난에 집값까지 ‘들썩’…서울 아파트 분양 전망 3개월만에 ‘청신호’ [부동산360]",
+        "서울 아파트 계약 13건 중 1건 해제…‘집값 띄우기’ 의혹"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "대책",
+      "count": 3,
+      "representative_title": "부동산 대책 1년, 10% 넘게 오른 아파트 매매 가격",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1laHhKM2hrQjVKRHFLblA3TDlvTkdrWWlIU18zckZiZmE0V0p6M2hIb0Y2Zkw3U3FMQkQ3Y3hRUllBRkpYbjZ6NU0zdkpJOFR4NHViS3kyaFAyLVQzaWVYNQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "거래 식었는데 집값은 끓었다…\"이게 아닌데\" 10·15 대책 1년 성적표 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uZW5KdldRVDg5dExzRHNseklfTWRYVUFkbkNWNXU5YTdrazE3akNjQ1BWczBSTGZoNThRNG1hLVowcnluZXlKZmNWVHljbDl0ZTNic0luTzYyNGQ2dFdmMGxseTFwS19TQlHSAW9BVV95cUxQWng5TmVrRkdUaGRGX3k4RW42NUlHLUx2ZlpRZnNxOU1SY3c4YkJXcENyelphTWhITFNLU1RSMTNVSVhxQktPVUhqQUhEaDhzNy01OUs1cEZkSnZXeWdaS1JORnJnLTFrNHg1T3ZIMXc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[10·15 부동산 대책 1년] 대출규제 풍선효과에 집값 '천정부지'…공급도 '발목'",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPNGhpaDg4U1A5YUxaZ0FsOTVoZkpSV3Jrc05LRlRJVy12V19YeVBnemtxcVl1QjdmbkNUS0htbzVmRnNwTWRhMFdpNXVUMkJuRXBMU2lQakROam5vVnFKVkEwZGpkWVU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "부동산 대책 1년, 10% 넘게 오른 아파트 매매 가격",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1laHhKM2hrQjVKRHFLblA3TDlvTkdrWWlIU18zckZiZmE0V0p6M2hIb0Y2Zkw3U3FMQkQ3Y3hRUllBRkpYbjZ6NU0zdkpJOFR4NHViS3kyaFAyLVQzaWVYNQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "거래 식었는데 집값은 끓었다…\"이게 아닌데\" 10·15 대책 1년 성적표 - 머니투데이",
+        "[10·15 부동산 대책 1년] 대출규제 풍선효과에 집값 '천정부지'…공급도 '발목'",
+        "부동산 대책 1년, 10% 넘게 오른 아파트 매매 가격"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
