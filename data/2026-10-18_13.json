@@ -1,0 +1,607 @@
+{
+  "date": "2026-10-18",
+  "hour": "13",
+  "slot": "2026-10-18_13",
+  "crawled_at": "2026-10-18 13:00:01",
+  "total_articles": 403,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "추미애",
+      "count": 19,
+      "representative_title": "[속보]장동혁 “진짜 ‘재정빨대’는 추미애 본인”",
+      "representative_link": "https://n.news.naver.com/article/021/0002825875?ntype=RANKING",
+      "press": "문화일보",
+      "related_articles": [
+        {
+          "title": "항의받은 추미애 '소방 빨대' 발언 결국 사과‥\"의도 달랐다\"",
+          "link": "https://n.news.naver.com/article/214/0001529691?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "국힘, 추미애 지사 순직 소방관 빈소 사과에 “잘못 인정보다 자기변명 앞세워“",
+          "link": "https://n.news.naver.com/article/087/0001224300?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "국힘, 추미애 '빨대' 발언 연일 맹공...여야 대표 순직 소방관 빈소 조문 예정",
+          "link": "https://n.news.naver.com/article/052/0002420194?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "국민의힘, 추미애 '소방 재정 빨대' 사과에 \"등 떠밀려 내놓은 사과, 끝까지 오만\"",
+          "link": "https://n.news.naver.com/article/119/0003143896?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "정성호, ‘소방 빨대’ 추미애 향해 “입은 재앙 불러들이는 문”",
+          "link": "https://n.news.naver.com/article/028/0002827904?ntype=RANKING",
+          "press": "한겨레"
+        }
+      ],
+      "related_titles": [
+        "항의받은 추미애 '소방 빨대' 발언 결국 사과‥\"의도 달랐다\"",
+        "국힘, 추미애 지사 순직 소방관 빈소 사과에 “잘못 인정보다 자기변명 앞세워“",
+        "국힘, 추미애 '빨대' 발언 연일 맹공...여야 대표 순직 소방관 빈소 조문 예정",
+        "국민의힘, 추미애 '소방 재정 빨대' 사과에 \"등 떠밀려 내놓은 사과, 끝까지 오만\"",
+        "정성호, ‘소방 빨대’ 추미애 향해 “입은 재앙 불러들이는 문”"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 2,
+      "keyword": "대통령",
+      "count": 17,
+      "representative_title": "李 대통령 ‘지지율 필연적 하락 법칙’ 작동됐다",
+      "representative_link": "https://n.news.naver.com/article/262/0000019763?ntype=RANKING",
+      "press": "신동아",
+      "related_articles": [
+        {
+          "title": "이 대통령 \"국무회의 본 사람은 다 안다\"‥공개 방침 재확인",
+          "link": "https://n.news.naver.com/article/214/0001529734?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "“소방관 딸이 7살” 대답에…말 잇지 못한 李대통령",
+          "link": "https://n.news.naver.com/article/011/0004672326?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "\"딸은 7살…\" 말 잇지 못한 李대통령, 순직 소방관에 훈장 추서",
+          "link": "https://n.news.naver.com/article/277/0005829779?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "이 대통령 “공개 국무회의, 국무위원·지자체장까지 할 말 다 해···비공개 압박 이해 어려워”",
+          "link": "https://n.news.naver.com/article/032/0003476879?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "“딸이 일곱 살” 답에 한동안 침묵한 이 대통령… 부천 순직 소방관 조문",
+          "link": "https://n.news.naver.com/article/469/0000960031?ntype=RANKING",
+          "press": "한국일보"
+        }
+      ],
+      "related_titles": [
+        "이 대통령 \"국무회의 본 사람은 다 안다\"‥공개 방침 재확인",
+        "“소방관 딸이 7살” 대답에…말 잇지 못한 李대통령",
+        "\"딸은 7살…\" 말 잇지 못한 李대통령, 순직 소방관에 훈장 추서",
+        "이 대통령 “공개 국무회의, 국무위원·지자체장까지 할 말 다 해···비공개 압박 이해 어려워”",
+        "“딸이 일곱 살” 답에 한동안 침묵한 이 대통령… 부천 순직 소방관 조문"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 3,
+      "keyword": "아빠",
+      "count": 15,
+      "representative_title": "“보일러 왜 계속 틀어?” 아들에게 흉기 들이댄 아빠",
+      "representative_link": "https://n.news.naver.com/article/021/0002825840?ntype=RANKING",
+      "press": "문화일보",
+      "related_articles": [
+        {
+          "title": "“아빠, 나중에 꼭 다시 만나요”… 순직소방관 딸이 남긴 편지",
+          "link": "https://n.news.naver.com/article/005/0001879269?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "순직 소방관 딸의 편지 \"보고 싶은 아빠, 다시 만나요\"",
+          "link": "https://n.news.naver.com/article/079/0004199827?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "\"그리운 아빠, 어른되면 만나\" 6살딸 남겨졌다…장인은 \"후배보다 앞섰다더라\" 애끓는 증언",
+          "link": "https://n.news.naver.com/article/088/0001034948?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "“보고 싶은 아빠 사랑해요. 꼭 다시 만나요”…부천 화재 순직소방관 영정앞에 놓인 딸 편지 공개",
+          "link": "https://n.news.naver.com/article/087/0001224385?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "\"아빠 꼭 다시 만나요, 사랑해요\"…6살 딸의 마지막 인사",
+          "link": "https://n.news.naver.com/article/055/0001396287?ntype=RANKING",
+          "press": "SBS"
+        }
+      ],
+      "related_titles": [
+        "“아빠, 나중에 꼭 다시 만나요”… 순직소방관 딸이 남긴 편지",
+        "순직 소방관 딸의 편지 \"보고 싶은 아빠, 다시 만나요\"",
+        "\"그리운 아빠, 어른되면 만나\" 6살딸 남겨졌다…장인은 \"후배보다 앞섰다더라\" 애끓는 증언",
+        "“보고 싶은 아빠 사랑해요. 꼭 다시 만나요”…부천 화재 순직소방관 영정앞에 놓인 딸 편지 공개",
+        "\"아빠 꼭 다시 만나요, 사랑해요\"…6살 딸의 마지막 인사"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "소방관",
+      "count": 15,
+      "representative_title": "김민석 \"당 소속 도지사 발언으로 상처받은 소방관·국민께 깊은 사과\"",
+      "representative_link": "https://n.news.naver.com/article/002/0002461464?ntype=RANKING",
+      "press": "프레시안",
+      "related_articles": [
+        {
+          "title": "\"보고 싶은 아빠께\"…부천 화재 순직 소방관 영정 앞 6살 딸 편지에 '울컥'",
+          "link": "https://n.news.naver.com/article/654/0000205892?ntype=RANKING",
+          "press": "강원도민일보"
+        },
+        {
+          "title": "김민석 \"당 소속 도지사 발언으로 상처받은 소방관·국민께 깊은 사과\"",
+          "link": "https://n.news.naver.com/article/002/0002461464?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "[속보] 부천 공장화재 순직 소방관 1계급 특진…장례 ‘경기도청장’으로",
+          "link": "https://n.news.naver.com/article/021/0002825790?ntype=RANKING",
+          "press": "문화일보"
+        }
+      ],
+      "related_titles": [
+        "\"보고 싶은 아빠께\"…부천 화재 순직 소방관 영정 앞 6살 딸 편지에 '울컥'",
+        "김민석 \"당 소속 도지사 발언으로 상처받은 소방관·국민께 깊은 사과\"",
+        "[속보] 부천 공장화재 순직 소방관 1계급 특진…장례 ‘경기도청장’으로"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "국힘",
+      "count": 14,
+      "representative_title": "가수 무대 끊고 올라온 김민석…국힘 \"오만함의 극치\"",
+      "representative_link": "https://n.news.naver.com/article/629/0000543002?ntype=RANKING",
+      "press": "더팩트",
+      "related_articles": [
+        {
+          "title": "국힘 \"축제 도중 노래 끊고 무대 난입한 김민석, 오만함의 극치\"",
+          "link": "https://n.news.naver.com/article/214/0001529735?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "국힘 들리나, 박정희 “미국놈들”…DMZ 영토주권 부정한 브런슨",
+          "link": "https://n.news.naver.com/article/028/0002827903?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "가수 공연 뚝 끊고 “김민석 당대표님 모십니다”…국힘 “무대 모욕했다” 맹공",
+          "link": "https://n.news.naver.com/article/081/0003689914?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "차기총선? 국힘51.7% 민주28.4%…대통령지지 31.7%-리서치웰",
+          "link": "https://n.news.naver.com/article/021/0002825856?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "[속보] \"사과 바라니 사과한다\" 추미애에…국힘 \"'사퇴' 바라시니까 사퇴하라\"",
+          "link": "https://n.news.naver.com/article/082/0001402871?ntype=RANKING",
+          "press": "부산일보"
+        }
+      ],
+      "related_titles": [
+        "국힘 \"축제 도중 노래 끊고 무대 난입한 김민석, 오만함의 극치\"",
+        "국힘 들리나, 박정희 “미국놈들”…DMZ 영토주권 부정한 브런슨",
+        "가수 공연 뚝 끊고 “김민석 당대표님 모십니다”…국힘 “무대 모욕했다” 맹공",
+        "차기총선? 국힘51.7% 민주28.4%…대통령지지 31.7%-리서치웰",
+        "[속보] \"사과 바라니 사과한다\" 추미애에…국힘 \"'사퇴' 바라시니까 사퇴하라\""
+      ],
+      "category": "국제"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "테슬라",
+      "count": 3,
+      "representative_title": "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
+      "representative_link": "https://n.news.naver.com/article/293/0000091721?ntype=RANKING",
+      "press": "블로터",
+      "related_articles": [
+        {
+          "title": "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
+          "link": "https://n.news.naver.com/article/293/0000091721?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "'차 막혀? 하늘로 점프하면 끝?'…테슬라 미쳤다 '경악'",
+          "link": "https://n.news.naver.com/article/374/0000538291?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "‘날아다니는 스포츠카’ 공개한 테슬라, 스페이스X와 합병 기대감 ‘쑥’",
+          "link": "https://n.news.naver.com/article/024/0000108999?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
+          "link": "https://n.news.naver.com/article/293/0000091721?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "'차 막혀? 하늘로 점프하면 끝?'…테슬라 미쳤다 '경악'",
+          "link": "https://n.news.naver.com/article/374/0000538291?ntype=RANKING",
+          "press": "SBS Biz"
+        }
+      ],
+      "related_titles": [
+        "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
+        "'차 막혀? 하늘로 점프하면 끝?'…테슬라 미쳤다 '경악'",
+        "‘날아다니는 스포츠카’ 공개한 테슬라, 스페이스X와 합병 기대감 ‘쑥’",
+        "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
+        "'차 막혀? 하늘로 점프하면 끝?'…테슬라 미쳤다 '경악'"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "삼전닉스",
+      "count": 3,
+      "representative_title": "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
+      "representative_link": "https://n.news.naver.com/article/024/0000108989?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
+          "link": "https://n.news.naver.com/article/014/0005590550?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
+          "link": "https://n.news.naver.com/article/024/0000108989?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "삼전닉스, 목표가 ‘65만원·470만원’까지 갈까… “과도한 조정” vs “위험자산 축소”",
+          "link": "https://n.news.naver.com/article/022/0004167507?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
+          "link": "https://n.news.naver.com/article/014/0005590550?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
+          "link": "https://n.news.naver.com/article/024/0000108989?ntype=RANKING",
+          "press": "매경이코노미"
+        }
+      ],
+      "related_titles": [
+        "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
+        "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
+        "삼전닉스, 목표가 ‘65만원·470만원’까지 갈까… “과도한 조정” vs “위험자산 축소”",
+        "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
+        "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 34,
+      "representative_title": "국힘 “조희대 탄핵 추진은 정권 몰락 신호탄”",
+      "representative_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLTZaaUVYVGNVZnF3eEhxTVZ2M05pVlhsV0tGQ0ZYcUdnZVJoUnc0bjY0UkxyQUlmWDR6M3JfTGwxcWwxbDZ1SUhreUZVTzMtWUpwNHQxYk5WLXhKa0ZKeG9vR281ZWNBU0ZueHE0RGNwcG9uaF9FXzc2dl8yN1FDMQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IMzB2ZmNMeHVyTWtpLVk4U0NNMUJUYzRQNXJKX2xNZUJ1ME1NUUNvWHFkVEN1clNfRDZPUGVQc0M2cDJNOEVwT2s0RzFrX1NjTy1Ud0ZZelR5M2Zqa1E?oc=5",
+          "press": ""
+        },
+        {
+          "title": "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXNE1ob01WeHRtSllmTEVNY3V1UHVRclVta1YyWnlSNkJscTNQVTlvemVDNGp0YVAwZ004Y1MwcXI4Ung3T0JJRVpEYjVmMVotM2xlOHdJcWtjYWMwQnBfV0JycjlqcDA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12bXRDaDg1NnJLc0MyZDBFM25YRXh3QVB6Q1NqWFpPUzh4WUtxTVhZR1NWQXV5eGVfY3VxQXF4RTdMWEM2WHVsZFhsN253MlA4MXkwZ0hpZUlSRS1wanhfRUtBUlJvSG44T0E?oc=5",
+          "press": ""
+        },
+        {
+          "title": "민주당 \"조희대 책임 끝까지 묻겠다\"···국민의힘 \"탄핵소추안 발의는 정권 몰락 신호탄\"",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0WWVld0JRTUctQnNJbXVyN1dkblRxVUhORThUcWNlRk5iT0MtVFJqN1dMWEtBdmpFOHZwZUNqRkZOTktvTUcwTjZsNGw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "민주·국힘, 조희대 탄핵 놓고 정면충돌…'책임 추궁' vs '정권 몰락 신호탄'",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaN2pWUm02cFBJR3MzamtheDc3UEhGRmlKeXp4em9DUjhXeFpGb0FVWjlFVElrbUpGajJERmp4aU5GbUx6bG0tV01FMklubWdPSHdqOV9UNkg3OEotcVVsYy1zQWFaTjJGODhzX01UdFM?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”",
+        "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
+        "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”",
+        "민주당 \"조희대 책임 끝까지 묻겠다\"···국민의힘 \"탄핵소추안 발의는 정권 몰락 신호탄\"",
+        "민주·국힘, 조희대 탄핵 놓고 정면충돌…'책임 추궁' vs '정권 몰락 신호탄'"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "게티",
+      "series_title": "게티의 몰락",
+      "count": 2,
+      "representative_title": "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZTdkM0xmbDlsWHUzTTN0UUxzM1BXRnNySFFXLVBaRGwzMHNLVDFhX3dXNklzaDdMWFIyVWNGcVg2VkJ3V3dnQnE0SXM5UFJOZEJsUVNR?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZTdkM0xmbDlsWHUzTTN0UUxzM1BXRnNySFFXLVBaRGwzMHNLVDFhX3dXNklzaDdMWFIyVWNGcVg2VkJ3V3dnQnE0SXM5UFJOZEJsUVNR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장 - zdnet.co.kr | 내 손 안의 광장, 빠띠",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3UVkyOWVJb1pZeE9rV3lpcWdmbmxYeEN4aVhVNU5aY1BRMkJBMUNYMW1iZ0Q4dVB6VG10UzhKNWRrXzBrZVk5bkhVOA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장",
+        "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장 - zdnet.co.kr | 내 손 안의 광장, 빠띠"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "TK",
+      "series_title": "TK의 몰락",
+      "count": 2,
+      "representative_title": "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lOTdkLW9jRWwtNmZXLXlNY1M4d2FSSTNsc0dVQ0VNSjUtNjZEdkpKVS1xY2c4c0drU2JKZ2wySkdhN1dSakdjQlRSVGJrZkczRUVnc1Zac3dDc0dzdjQzeUNwQzRjUlg4MUE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "홍준표 “TK 몰락 가슴 아파…비난 각오하고 김부겸 밀었지만, 진심 안 통해”",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05NllvSTRXbUhyVC1JQzZfbmlVMnpFSzhJMk14TFBQYWxucERLZU5LdXFoQW5SelFBV1dJTFJLSUNySjJielMtU3VZeHE5b0NaSU8wbHQtWkFLazBuYlhvdTkzN3hSRF9pTjNvMXBEVTJrSXNV?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lOTdkLW9jRWwtNmZXLXlNY1M4d2FSSTNsc0dVQ0VNSjUtNjZEdkpKVS1xY2c4c0drU2JKZ2wySkdhN1dSakdjQlRSVGJrZkczRUVnc1Zac3dDc0dzdjQzeUNwQzRjUlg4MUE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "홍준표 “TK 몰락 가슴 아파…비난 각오하고 김부겸 밀었지만, 진심 안 통해”",
+        "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "안지만",
+      "series_title": "안지만의 몰락",
+      "count": 2,
+      "representative_title": "안지만의 몰락…빚 20억에 3억 빌려 돌려막기 실형",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yVGdMdjQwTFJxN3lJNkl0Y2tVZ3lKWUEzN2dmNDcxM0czdDV1Rl83YUY0TkhZeFp1MFd1d094cUk5T0F6aHJwdjBvQ2dMRmkzeENseDlaQ3ZwWEZCOUHSAWNBVV95cUxQd3ZIVnBLRVluM0dqTVNZNzB3NjR1SE5LMmtKRU1FcUd0ajlDSGVKclZmWTJlaFdXSkQ4Y1BmdjdRZGZNeXNPTHI2czNxZUNDMXhQNHFZbWljekNPQ2NVZHNldlE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "안지만의 몰락…빚 20억에 3억 빌려 돌려막기 실형",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yVGdMdjQwTFJxN3lJNkl0Y2tVZ3lKWUEzN2dmNDcxM0czdDV1Rl83YUY0TkhZeFp1MFd1d094cUk5T0F6aHJwdjBvQ2dMRmkzeENseDlaQ3ZwWEZCOUHSAWNBVV95cUxQd3ZIVnBLRVluM0dqTVNZNzB3NjR1SE5LMmtKRU1FcUd0ajlDSGVKclZmWTJlaFdXSkQ4Y1BmdjdRZGZNeXNPTHI2czNxZUNDMXhQNHFZbWljekNPQ2NVZHNldlE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "전 삼성투수 안지만의 몰락…'3억대 사기' 징역 1년8개월",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44LVltbGd6SDBnTnI5VWRmVFdMRW16eG8tTmI5NDFiNkZPdWttdUhQVHV1V21ncVJrdzJEaHpHYWlmM21vQlpTTEhxYkJ3LU1KZ1NMc2ZsRU94VnJnb09ObNIBeEFVX3lxTE14NzlVdnJZMnNUbG81QjB5VUgwTlFJRURSTVlYUkVZcXluXzlvZGFmVlJiOTZiZ3Y5S1Y4SUJxZWdYZEtwUERCME1sZ0MzaGVUa0NIMzlxYV9lSVpZX0h3aXNJS2RfcDVTSzlKLVhUWV9hOWVmZkdzTg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "안지만의 몰락…빚 20억에 3억 빌려 돌려막기 실형",
+        "전 삼성투수 안지만의 몰락…'3억대 사기' 징역 1년8개월"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "로마",
+      "series_title": "로마의 몰락",
+      "count": 1,
+      "representative_title": "'역사를 바꾼 100책' 로마의 몰락 앞에서 쓴 키케로의 유언장...2천 년 전 ‘의무론’이 오늘을 겨누다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OUU1aUEt3Z2tsUGJPSGY4b0hMSWlibjVESnlLNWpWdjE5a0l2QWI1LUYxc3UyUm5LbDk2dFhPUDFZVWxYUmdCQXd5T2JLWUs5NjlzMU4zZHhON1BaWUZDMXNnVkRhZw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'역사를 바꾼 100책' 로마의 몰락 앞에서 쓴 키케로의 유언장...2천 년 전 ‘의무론’이 오늘을 겨누다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OUU1aUEt3Z2tsUGJPSGY4b0hMSWlibjVESnlLNWpWdjE5a0l2QWI1LUYxc3UyUm5LbDk2dFhPUDFZVWxYUmdCQXd5T2JLWUs5NjlzMU4zZHhON1BaWUZDMXNnVkRhZw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'역사를 바꾼 100책' 로마의 몰락 앞에서 쓴 키케로의 유언장...2천 년 전 ‘의무론’이 오늘을 겨누다"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 12,
+      "representative_title": "서울 집값 평균 이제 17억…1년 만에 1.5억 뛰었다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQ1VMcUY4cmpHdDBibW1LS1pJRmZoWk5IaW9TdEI2QWxBMnE2VG51XzJXVmdkVHg2enAxQlNmZzcxSFRFVE02YjRjc3pUaVJLa3ppSEpn?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "서울 집값 평균 이제 17억…1년 만에 1.5억 뛰었다",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQ1VMcUY4cmpHdDBibW1LS1pJRmZoWk5IaW9TdEI2QWxBMnE2VG51XzJXVmdkVHg2enAxQlNmZzcxSFRFVE02YjRjc3pUaVJLa3ppSEpn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 경매 44% 급증에도 집값 상승…부동산 시장의 두 얼굴",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VYVB4cHFVSi1HWE1EbVJDZlhsWmhPTnYxVlpGZTAwTFB5cEVvT3VyOFJYS0lIY1VkUDlac3lodlFUSWFmVk5XMHlhX0x2WWU2UXRmOE83dWU1dDQ3RnZKZjdTaUc0WTFNNFc4ZtIBcEFVX3lxTE9COTZ2c0RyVWs2NnYtUHdPM2N6RDFFNkp6MzJ2aE94QzcxWW1xTUxvZ2UzeEV5M0J3UFZqcjBFRTVsYkxhX0I5RWNxUkN0VTUtR0FXZzkycWlXRWNtTjBlYVF5R1NyOHpiX253RjU0V1Y?oc=5",
+          "press": ""
+        },
+        {
+          "title": "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QTl9vdWRWM2Z1Mk1TTmpqNkF0aTh4Tm5YWDJxdFpnMFlBSFhSeDJDVnh3M05RTHA5MW9rNjRFdmFUWEE3MTBWZ09ldm4ySkt6eFNQWUJyXzdISkN2?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qUHFoZ3hRSXI1Y1Y4SHd4Rl9yVkZWWDhIUmlrZkFWbnp0eGVOc0dTaU42QUdTaVpsZHFGX29BVFE5b215ZmpOWUZUV2dpRkV0cVhBUHNwRDhRV0poOXplYjJVbG5Gd1dxUlRmVU4wcC0?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[이슈] 서울 아파트 88주째 상승… 9월 서울 집값 1년 새 10.6%↑",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBMEgxRzRkaDFXZlY1ai1wMmpHZHhFbmNSMTRCV0gtUHFHcDh3US1IdmQ0OHo2SWVqY0JnVUh1eVphaHZXdmp1X3Z0bk82WVh6MHlQdGxBMGRYNHdlRzQ4VW9XbEM3NW5sZ3NZNXE3X0sxeGc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "서울 집값 평균 이제 17억…1년 만에 1.5억 뛰었다",
+        "서울 경매 44% 급증에도 집값 상승…부동산 시장의 두 얼굴",
+        "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
+        "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값",
+        "[이슈] 서울 아파트 88주째 상승… 9월 서울 집값 1년 새 10.6%↑"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "주간",
+      "count": 5,
+      "representative_title": "이헌욱 부동산원장 \"집값 주간 통계 유의미…검증 강화할 것\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSkFkTVZuUjBTREpnVFJ0UTNCekZiQUQyY3pkLXNHQ0JKZ0dtSXV5YkloY3FWNXcyNVh2anFCeThfQTM1V1NDWlB0SkduWjhhQUo0Z0FVS1g3STRLZFdNLdIBeEFVX3lxTE9VVDhJNE5SaGh6RHRTbVR4UDI4dkVBZ0VJV0N2aGRiVjIwRnFVekNteWFZbUFmNzhRbHZwejBZV25aR1ZEUnNYLUNfWU9nTHVjeWdSUUVOeXlXbUFjS3QyVlllSGI4TGRFbWg4a1IzR20yNUxUZXdxSA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "다시 불붙은 ‘주간 집값 통계’ 실효성 논란… 부동산원장 “유의미, 검증 강화” - 조선비즈",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2p0T2JOYmNiVVV2cHRCc2Z2aGRsVXVjd0lOZmFkT2NEbmdnU0JvaWQycTJLUjktcGx5akZIVE1hZEZkdzZyZmtOS2dabmppeWtxVGp6R1NaLUlTQnpzNjFYRERqYkVWcVpqam1ER21HRXV1Y0d1TXVsTXEzdlF3bG5WOG9JbXIzYmE0SmdDX3NlNzVpS3h2OdIBrAFBVV95cUxQLVVRLTFBV0NsdkRvb04xc05JTVpkaXBBdC1jdnU2WHpGdzVXTEhMQ0NPb05fck5KZGdzY0JJSlJIT0Q1QzlQZUtkUHlJMkw4M0NTYjJHUi0tMXp5Tkg2Nng0ZjRqR0lFajQ1TXJsdnNWNkNGSlgzbE9ZamFLQXNBRm96RUpxOHhwdzBUbU5JSTRfTl91NFJvcksweGZoZDdfcndQN2JaN0VjWG83?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[2026 국감] 한국부동산원, 주간 집값 통계 정확성 높인다…AI 활용·검증 강화",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6UFMzVUROYlNNaF9JZXJabVRtYVhqcnd2YmZKa2dJZVota2FIelZXR1pIMEZQVUk1UnpjS0dMQkpkUXhiVmZ4TnpfNVY5c3I2VmZFNEZjMG5icE4yX3RUdlM0ZVFGckExbFpWZklwONIBc0FVX3lxTE5iMlNfT3hQeE9ueDRsN3RmU3pUUXBVSE1lR2ZkVEpjeG5INUx1WjRBS2pRQmpfVUJtRWV5cU14NG9tbjllZXhJQkFWWHgwUFVIOFYwVmVnbkFUZXlQWFVxUzI2YkZ6bmxjZjgyY1RERXFXb3c?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[오늘 부동산] 부동산원장 “집값 주간 통계 검증 강화할 것”",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcjFHbktzWUZlVjI0aXR4RS0tNmNWSDRPanQ4clJ6UEJidDlhRV9nMXJvbG0yWDFObjQySHhOSFYxekJwWFVNaVNvWWRHd0pfNjI0RkNtcnZUSzc1V2tkME1ETmJ0SG5sOVlkRng0MXl4YnM4MXlQNGZWWFk5QU5KNTE4NU1zb2pqZFBqTXRoWVNlX0ZydlBxRWg1YUhvQ09pM2Q2OHNkZDU4S0xoalk1LUlyUzJ0VFprbWx3ZHhGLS1YZVpqdEdEVUxLM1FrczBsS3lKdXd1WUI4Z3owUHJSQlQxQjhXTGFKUkpsUjBpSm5XczgyeUl2NzFqNUFFeFMyZ19KYVpvUXFMNVJiZjZkcFNwQmZmMk0?oc=5",
+          "press": ""
+        },
+        {
+          "title": "이헌욱 부동산원장 \"집값 주간 통계 유의미…검증 강화할 것\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSkFkTVZuUjBTREpnVFJ0UTNCekZiQUQyY3pkLXNHQ0JKZ0dtSXV5YkloY3FWNXcyNVh2anFCeThfQTM1V1NDWlB0SkduWjhhQUo0Z0FVS1g3STRLZFdNLdIBeEFVX3lxTE9VVDhJNE5SaGh6RHRTbVR4UDI4dkVBZ0VJV0N2aGRiVjIwRnFVekNteWFZbUFmNzhRbHZwejBZV25aR1ZEUnNYLUNfWU9nTHVjeWdSUUVOeXlXbUFjS3QyVlllSGI4TGRFbWg4a1IzR20yNUxUZXdxSA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "이헌욱 부동산원장 \"집값 주간 통계 유의미…검증 강화할 것\"(종합)",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYaWJxWjZTWXVqdDRqTno5UWV3WWtUZmtXR3V3d1oyajR1LVBWZmNDLV8wLUdxdlUtbzBBQzFpWnlNY1l0XzFjczBQMkppWWVVUHVPQm5iV1pESkYxTUQybNIBeEFVX3lxTE96Uk8wNXQyWUlrM0RveVRNSHhHTm1xZ25SYl93d05QUjlnMlZXOEFCQlFnMFFoYmZNVUxHbFU4bTR6d3U4YVZKam9SUUxxZ2hnOEN4djNqeFk5alFiVTh0X2syd2ZvdWVNRGZzTTJLUm1JQ0V1eENqOA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "다시 불붙은 ‘주간 집값 통계’ 실효성 논란… 부동산원장 “유의미, 검증 강화” - 조선비즈",
+        "[2026 국감] 한국부동산원, 주간 집값 통계 정확성 높인다…AI 활용·검증 강화",
+        "[오늘 부동산] 부동산원장 “집값 주간 통계 검증 강화할 것”",
+        "이헌욱 부동산원장 \"집값 주간 통계 유의미…검증 강화할 것\"",
+        "이헌욱 부동산원장 \"집값 주간 통계 유의미…검증 강화할 것\"(종합)"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "경기",
+      "count": 4,
+      "representative_title": "경기 남부 반도체 벨트 부동산 기지개…거래·집값 동반 상승",
+      "representative_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HOS03cHJQOE93Sk5LeERERTdLYU45WFR3cjFBYkRab1JfZ1o1M1l0aWRCVFlkbldNZnVpYm1WaVVoV044aUlJNlZ2VEFvNC1GVnFtVzJUbWcwR3RwSGhzTHlZeXVoNWFMekVfLURwSTFCb2FBOWdrajR3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "경기 남부 반도체 벨트 부동산 기지개…거래·집값 동반 상승",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HOS03cHJQOE93Sk5LeERERTdLYU45WFR3cjFBYkRab1JfZ1o1M1l0aWRCVFlkbldNZnVpYm1WaVVoV044aUlJNlZ2VEFvNC1GVnFtVzJUbWcwR3RwSGhzTHlZeXVoNWFMekVfLURwSTFCb2FBOWdrajR3?oc=5",
+          "press": ""
+        },
+        {
+          "title": "거래 늘고 집값 오르고… 경기 남부, 반도체 벨트 부동산 시장 ‘기지개’",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlTHhNb01XVVlwRDA5S3dDV1pxTzd5NUR6MkxtXzJsa2U1eW9fS19XdjBMNW15ZEl3S2tOX0ZRU0o3TTU1RlBXQmZVM1RUeG5TM2MxSGpPWHZOWnFwaXlGT0ZhMDlqYXowaEpjRkhTUlM?oc=5",
+          "press": ""
+        },
+        {
+          "title": "전국 아파트 매수세 5년 만에 우위 전환…경기 남부 집값 상승이 견인",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wWUpvcnc1bUN4VHNaakUxaFF1NHEwUWhERjlSb2hSZjAwWTF4QVBfdVd4aV9QV3Z4T3d2eGRzWk1TVk5ZakR4ODJ0bld2Y1J0ZUZSS0RobWRDZ05iTVB2c3Q0VWVoWXI0U0VF?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"집값 오른 동탄 대신 평택\"…경기 남부 아파트값 양극화에 대체 주거지 부각",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TTldDWm5KMldKM19yRS13d20wb1BHM3NNUkdLcm9SS3lzQlgyTHpmTmZqNk9VS0Q2X2prMkJSdmV6UXVTWC1qbHFQRHNrUk56dmRXQmx3TlA5QnAyVzFyX3ZpUEE3bVdQdFR2WEVrVUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "경기 남부 반도체 벨트 부동산 기지개…거래·집값 동반 상승",
+        "거래 늘고 집값 오르고… 경기 남부, 반도체 벨트 부동산 시장 ‘기지개’",
+        "전국 아파트 매수세 5년 만에 우위 전환…경기 남부 집값 상승이 견인",
+        "\"집값 오른 동탄 대신 평택\"…경기 남부 아파트값 양극화에 대체 주거지 부각"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "오르고",
+      "count": 3,
+      "representative_title": "[이슈] 10·15 부동산대책 1년…서울집값 10% 오르고 거래는 줄었다",
+      "representative_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBINDlMQVA3MW9CckNPVWVkQnNYQUxXSDQzRmktc1B0T2RiME5MdERtUVdEY2RtN0c2T0JOTVoxVGlicUtyV0JnQk5KRkJIYVNTblRUcHB2OURBbUh4eldlQlBaNUttRzdUNi1kNVNLRQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[이슈] 10·15 부동산대책 1년…서울집값 10% 오르고 거래는 줄었다",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBINDlMQVA3MW9CckNPVWVkQnNYQUxXSDQzRmktc1B0T2RiME5MdERtUVdEY2RtN0c2T0JOTVoxVGlicUtyV0JnQk5KRkJIYVNTblRUcHB2OURBbUh4eldlQlBaNUttRzdUNi1kNVNLRQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[이슈] 10·15 부동산대책 1년…서울집값 10% 오르고 거래는 줄었다"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 5,
+      "keyword": "반도체",
+      "count": 3,
+      "representative_title": "[부동산 포커스] 동탄 집값 들쑤신 ‘반도체 머니’…분당 찍고 군포까지",
+      "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mM2k5czdtckpPTEFaNGFXc1BLZDBYdWloMkFDTWc3R3ZlbnRfbUh4c1dZdThVOFdjd3NYamgwcEMtam5DbnBxUm0tUGdEeGtNOGM3bDYybXBMNTgzRllWQTdmSXd1QklvcFE5RnZPQWRQY2vSAXdBVV95cUxPMXkxT0lybmNjZFlQNkdPVE5GalREYnp4QmRtY0h1d0JTd1R4V3gxTFlFZWE5UnppNXQtWVlZYXlQRzlPdGY0cWdadk82dzFSRkIyTW56ZU9PRTgtN2VPTV9TOUVLNkpNcGpIZkNmMjVEQ3c5NC1jcw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[부동산 포커스] 동탄 집값 들쑤신 ‘반도체 머니’…분당 찍고 군포까지",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mM2k5czdtckpPTEFaNGFXc1BLZDBYdWloMkFDTWc3R3ZlbnRfbUh4c1dZdThVOFdjd3NYamgwcEMtam5DbnBxUm0tUGdEeGtNOGM3bDYybXBMNTgzRllWQTdmSXd1QklvcFE5RnZPQWRQY2vSAXdBVV95cUxPMXkxT0lybmNjZFlQNkdPVE5GalREYnp4QmRtY0h1d0JTd1R4V3gxTFlFZWE5UnppNXQtWVlZYXlQRzlPdGY0cWdadk82dzFSRkIyTW56ZU9PRTgtN2VPTV9TOUVLNkpNcGpIZkNmMjVEQ3c5NC1jcw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[부동산 포커스] 동탄 집값 들쑤신 ‘반도체 머니’…분당 찍고 군포까지"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
