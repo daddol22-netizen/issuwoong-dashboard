@@ -1,151 +1,108 @@
 {
   "date": "2026-10-18",
-  "hour": "07",
-  "slot": "2026-10-18_07",
-  "crawled_at": "2026-10-18 07:11:17",
-  "total_articles": 400,
+  "hour": "10",
+  "slot": "2026-10-18_10",
+  "crawled_at": "2026-10-18 10:00:05",
+  "total_articles": 401,
   "topics": [
     {
       "rank": 1,
-      "keyword": "순직",
-      "count": 25,
-      "representative_title": "입학통지서 받은 딸 남기고…김진석 소방위 순직",
-      "representative_link": "https://n.news.naver.com/article/422/0000916665?ntype=RANKING",
-      "press": "연합뉴스TV",
-      "related_articles": [
-        {
-          "title": "“심성이 우직해서”…가장 먼저 들어갔던 소방관 끝내 순직",
-          "link": "https://n.news.naver.com/article/056/0012275678?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "“딸이 7살”…순직 소방관 빈소서 말 잇지 못한 李대통령",
-          "link": "https://n.news.naver.com/article/005/0001879244?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "“딸이 일곱 살” 답에 한동안 침묵한 이 대통령… 부천 순직 소방관 조문",
-          "link": "https://n.news.naver.com/article/469/0000960031?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "김민석 \"순직 소방관 애도...'소방 재정 빨대' 발언 추미애에 사과 요청\"",
-          "link": "https://n.news.naver.com/article/655/0000033203?ntype=RANKING",
-          "press": "CJB청주방송"
-        },
-        {
-          "title": "'부천 화재' 고 김진석 소방위 순직...장례위원회 위원장에 추미애",
-          "link": "https://n.news.naver.com/article/655/0000033200?ntype=RANKING",
-          "press": "CJB청주방송"
-        }
-      ],
-      "related_titles": [
-        "“심성이 우직해서”…가장 먼저 들어갔던 소방관 끝내 순직",
-        "“딸이 7살”…순직 소방관 빈소서 말 잇지 못한 李대통령",
-        "“딸이 일곱 살” 답에 한동안 침묵한 이 대통령… 부천 순직 소방관 조문",
-        "김민석 \"순직 소방관 애도...'소방 재정 빨대' 발언 추미애에 사과 요청\"",
-        "'부천 화재' 고 김진석 소방위 순직...장례위원회 위원장에 추미애"
-      ],
-      "category": "정치"
-    },
-    {
-      "rank": 2,
-      "keyword": "소방관",
-      "count": 24,
-      "representative_title": "부천 공장 화재로 심정지 40대 소방관 끝내 사망",
-      "representative_link": "https://n.news.naver.com/article/310/0000140907?ntype=RANKING",
-      "press": "여성신문",
-      "related_articles": [
-        {
-          "title": "이준석 “추미애, 소방관 말고 부동산 문제로 정부랑 싸워라”",
-          "link": "https://n.news.naver.com/article/021/0002825843?ntype=RANKING",
-          "press": "문화일보"
-        },
-        {
-          "title": "'재정 빨대' 발언 사과한 추미애… \"소방관 폄훼 의도 전혀 없었다\"",
-          "link": "https://n.news.naver.com/article/469/0000960023?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "“소방관 딸이 7살” 대답에…말 잇지 못한 李대통령",
-          "link": "https://n.news.naver.com/article/020/0003755685?ntype=RANKING",
-          "press": "동아일보"
-        },
-        {
-          "title": "소방관 살린 ‘모세의 기적’…이송 위해 경찰 에스코트",
-          "link": "https://n.news.naver.com/article/449/0000364402?ntype=RANKING",
-          "press": "채널A"
-        },
-        {
-          "title": "추미애 \"소방관 폄훼 의도 없어\"…김민석도 당 대표로 사과",
-          "link": "https://n.news.naver.com/article/417/0001161217?ntype=RANKING",
-          "press": "동행미디어 시대"
-        }
-      ],
-      "related_titles": [
-        "이준석 “추미애, 소방관 말고 부동산 문제로 정부랑 싸워라”",
-        "'재정 빨대' 발언 사과한 추미애… \"소방관 폄훼 의도 전혀 없었다\"",
-        "“소방관 딸이 7살” 대답에…말 잇지 못한 李대통령",
-        "소방관 살린 ‘모세의 기적’…이송 위해 경찰 에스코트",
-        "추미애 \"소방관 폄훼 의도 없어\"…김민석도 당 대표로 사과"
-      ],
-      "category": "사건/사고"
-    },
-    {
-      "rank": 3,
       "keyword": "추미애",
-      "count": 23,
+      "count": 21,
       "representative_title": "\"추미애 출당시켜라\"…뿔난 與 당원들 '릴레이 선언'",
       "representative_link": "https://n.news.naver.com/article/015/0005343585?ntype=RANKING",
       "press": "한국경제",
       "related_articles": [
         {
-          "title": "'빨대 발언' 나흘 만에 사과…추미애 향해 \"끝까지 오만\"",
-          "link": "https://n.news.naver.com/article/437/0000516206?ntype=RANKING",
-          "press": "JTBC"
+          "title": "[현장] “순직 소방위, 딸 입학식 앞뒀는데…” 추미애 면담 후 유족 탈진까지",
+          "link": "https://n.news.naver.com/article/028/0002827889?ntype=RANKING",
+          "press": "한겨레"
         },
         {
-          "title": "추미애, ‘재정 빨대’ 발언 사과…여 “부적절 발언 조치”·야 “장황한 자기변명”",
-          "link": "https://n.news.naver.com/article/056/0012275665?ntype=RANKING",
-          "press": "KBS"
+          "title": "정치권도 애도...민주 \"깊은 사과\"· 국힘 \"추미애 자기 변명만\"",
+          "link": "https://n.news.naver.com/article/052/0002420136?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "\"추미애 출당시켜라\"…뿔난 與 당원들 '릴레이 선언'",
-          "link": "https://n.news.naver.com/article/015/0005343585?ntype=RANKING",
-          "press": "한국경제"
+          "title": "항의받은 추미애 '소방 빨대' 발언 결국 사과‥\"의도 달랐다\"",
+          "link": "https://n.news.naver.com/article/214/0001529691?ntype=RANKING",
+          "press": "MBC"
         },
         {
-          "title": "추미애, 결국 '소방 재정 빨대 발언' 공식 사과…\"폄훼 의도 없었다\"",
-          "link": "https://n.news.naver.com/article/655/0000033204?ntype=RANKING",
-          "press": "CJB청주방송"
+          "title": "국민의힘, 추미애 지사 빈소 사과에 “잘못 인정보다 자기변명 앞세워“",
+          "link": "https://n.news.naver.com/article/087/0001224300?ntype=RANKING",
+          "press": "강원일보"
         },
         {
-          "title": "추미애 “사과를 바라시니, 마음 다해 사과”…국힘 “깜짝 놀라, 끝까지 오만”",
-          "link": "https://n.news.naver.com/article/029/0003053557?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "추미애, ‘소방 재정 빨대‘ 발언 공식 사과…“폄훼 의도 없었다“",
+          "link": "https://n.news.naver.com/article/087/0001224292?ntype=RANKING",
+          "press": "강원일보"
         }
       ],
       "related_titles": [
-        "'빨대 발언' 나흘 만에 사과…추미애 향해 \"끝까지 오만\"",
-        "추미애, ‘재정 빨대’ 발언 사과…여 “부적절 발언 조치”·야 “장황한 자기변명”",
-        "\"추미애 출당시켜라\"…뿔난 與 당원들 '릴레이 선언'",
-        "추미애, 결국 '소방 재정 빨대 발언' 공식 사과…\"폄훼 의도 없었다\"",
-        "추미애 “사과를 바라시니, 마음 다해 사과”…국힘 “깜짝 놀라, 끝까지 오만”"
+        "[현장] “순직 소방위, 딸 입학식 앞뒀는데…” 추미애 면담 후 유족 탈진까지",
+        "정치권도 애도...민주 \"깊은 사과\"· 국힘 \"추미애 자기 변명만\"",
+        "항의받은 추미애 '소방 빨대' 발언 결국 사과‥\"의도 달랐다\"",
+        "국민의힘, 추미애 지사 빈소 사과에 “잘못 인정보다 자기변명 앞세워“",
+        "추미애, ‘소방 재정 빨대‘ 발언 공식 사과…“폄훼 의도 없었다“"
       ],
-      "category": "사회/일반"
+      "category": "정치"
     },
     {
-      "rank": 4,
-      "keyword": "대통령",
+      "rank": 2,
+      "keyword": "순직",
       "count": 19,
+      "representative_title": "김진석 소방위 끝내 순직‥내일 영결식",
+      "representative_link": "https://n.news.naver.com/article/214/0001529722?ntype=RANKING",
+      "press": "MBC",
+      "related_articles": [
+        {
+          "title": "\"딸이 몇 살인가\" 물은 뒤 침묵…李대통령, 부천 화재 순직 소방대원 애도",
+          "link": "https://n.news.naver.com/article/008/0005427772?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "부천 화재 '퇴근 20분 전' 출동…\"내년 딸 입학인데\" 끝내 순직",
+          "link": "https://n.news.naver.com/article/055/0001396233?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "“딸아이는 7살”…이 대통령, 순직 소방관 아내 대답에 말 잇지 못해",
+          "link": "https://n.news.naver.com/article/028/0002827892?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "김진석 소방위 끝내 순직‥내일 영결식",
+          "link": "https://n.news.naver.com/article/214/0001529722?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "“딸이 일곱 살” 답에 한동안 침묵한 이 대통령… 부천 순직 소방관 조문",
+          "link": "https://n.news.naver.com/article/469/0000960031?ntype=RANKING",
+          "press": "한국일보"
+        }
+      ],
+      "related_titles": [
+        "\"딸이 몇 살인가\" 물은 뒤 침묵…李대통령, 부천 화재 순직 소방대원 애도",
+        "부천 화재 '퇴근 20분 전' 출동…\"내년 딸 입학인데\" 끝내 순직",
+        "“딸아이는 7살”…이 대통령, 순직 소방관 아내 대답에 말 잇지 못해",
+        "김진석 소방위 끝내 순직‥내일 영결식",
+        "“딸이 일곱 살” 답에 한동안 침묵한 이 대통령… 부천 순직 소방관 조문"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 3,
+      "keyword": "대통령",
+      "count": 17,
       "representative_title": "李 대통령 ‘지지율 필연적 하락 법칙’ 작동됐다",
       "representative_link": "https://n.news.naver.com/article/262/0000019763?ntype=RANKING",
       "press": "신동아",
       "related_articles": [
         {
-          "title": "장동혁 “국무회의 생중계 계속하라…덕분에 李대통령 진짜 얼굴 봐”",
-          "link": "https://n.news.naver.com/article/021/0002825833?ntype=RANKING",
-          "press": "문화일보"
+          "title": "“소방관 딸이 7살” 대답에…말 잇지 못한 李대통령",
+          "link": "https://n.news.naver.com/article/020/0003755685?ntype=RANKING",
+          "press": "동아일보"
         },
         {
           "title": "홍준표 “정권에 아부했다고? 내가 대통령 빼고 갈 자리가 어디 있나?”",
@@ -153,110 +110,117 @@
           "press": "국민일보"
         },
         {
-          "title": "李 대통령 ‘지지율 필연적 하락 법칙’ 작동됐다",
-          "link": "https://n.news.naver.com/article/262/0000019763?ntype=RANKING",
-          "press": "신동아"
+          "title": "이 대통령, 부천 화재 소방관 순직에 \"희생 영원히 기억할 것\"…빈소 조문해 위로",
+          "link": "https://n.news.naver.com/article/057/0001973962?ntype=RANKING",
+          "press": "MBN"
         },
         {
-          "title": "홍준표 \"자리 위해 정권에 아부? 대통령 빼고 내가 갈 자리가 어디 있나\"",
-          "link": "https://n.news.naver.com/article/661/0000085107?ntype=RANKING",
-          "press": "JIBS"
+          "title": "\"정책 글 많다\"는 靑…李대통령 SNS 한 달 들여다보니",
+          "link": "https://n.news.naver.com/article/119/0003143867?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "\"대원 안전은 국가 책무\"…이 대통령, 무릎 꿇고 분향",
+          "link": "https://n.news.naver.com/article/417/0001161224?ntype=RANKING",
+          "press": "동행미디어 시대"
         }
       ],
       "related_titles": [
-        "장동혁 “국무회의 생중계 계속하라…덕분에 李대통령 진짜 얼굴 봐”",
+        "“소방관 딸이 7살” 대답에…말 잇지 못한 李대통령",
         "홍준표 “정권에 아부했다고? 내가 대통령 빼고 갈 자리가 어디 있나?”",
-        "李 대통령 ‘지지율 필연적 하락 법칙’ 작동됐다",
-        "홍준표 \"자리 위해 정권에 아부? 대통령 빼고 내가 갈 자리가 어디 있나\""
+        "이 대통령, 부천 화재 소방관 순직에 \"희생 영원히 기억할 것\"…빈소 조문해 위로",
+        "\"정책 글 많다\"는 靑…李대통령 SNS 한 달 들여다보니",
+        "\"대원 안전은 국가 책무\"…이 대통령, 무릎 꿇고 분향"
       ],
       "category": "정치"
     },
     {
-      "rank": 5,
-      "keyword": "사과",
-      "count": 14,
-      "representative_title": "국힘, 秋 ‘재정 빨대’ 발언 사과에 “‘사과 바라시니까’…끝까지 오만”",
-      "representative_link": "https://n.news.naver.com/article/658/0000158707?ntype=RANKING",
-      "press": "국제신문",
+      "rank": 4,
+      "keyword": "소방관",
+      "count": 16,
+      "representative_title": "부천 공장 화재로 심정지 40대 소방관 끝내 사망",
+      "representative_link": "https://n.news.naver.com/article/310/0000140907?ntype=RANKING",
+      "press": "여성신문",
       "related_articles": [
         {
-          "title": "국힘, 秋 ‘재정 빨대’ 발언 사과에 “‘사과 바라시니까’…끝까지 오만”",
-          "link": "https://n.news.naver.com/article/658/0000158707?ntype=RANKING",
-          "press": "국제신문"
+          "title": "소방관 살린 ‘모세의 기적’…이송 위해 경찰 에스코트",
+          "link": "https://n.news.naver.com/article/449/0000364402?ntype=RANKING",
+          "press": "채널A"
+        },
+        {
+          "title": "부천 공장 화재로 심정지 40대 소방관 끝내 사망",
+          "link": "https://n.news.naver.com/article/310/0000140907?ntype=RANKING",
+          "press": "여성신문"
         }
       ],
       "related_titles": [
-        "국힘, 秋 ‘재정 빨대’ 발언 사과에 “‘사과 바라시니까’…끝까지 오만”"
+        "소방관 살린 ‘모세의 기적’…이송 위해 경찰 에스코트",
+        "부천 공장 화재로 심정지 40대 소방관 끝내 사망"
       ],
-      "category": "사회/일반"
+      "category": "사건/사고"
+    },
+    {
+      "rank": 5,
+      "keyword": "만에",
+      "count": 15,
+      "representative_title": "한국 잠재성장률 '대반전'…40년 만에 연속 반등 전망",
+      "representative_link": "https://n.news.naver.com/article/001/0016383182?ntype=RANKING",
+      "press": "연합뉴스",
+      "related_articles": [
+        {
+          "title": "\"거기 없었어\" 결정적 증거 뒤집은 말...'육군상사 피살' 15년 만에 반전[뉴스속오늘]",
+          "link": "https://n.news.naver.com/article/008/0005427794?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "나흘 만에 '10억' 털렸는데…본사·업체는 '책임 미루기'",
+          "link": "https://n.news.naver.com/article/055/0001396242?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "\"수능 문제 보자 5초 만에 답이 눈앞에\"…AI 안경 직접 써보니",
+          "link": "https://n.news.naver.com/article/421/0009233871?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "취임 사흘 만에 해임된 백악관 대변인… 논란의 인터뷰 누가 주선했나",
+          "link": "https://n.news.naver.com/article/366/0001198595?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "한국 잠재성장률 '대반전'…40년 만에 연속 반등 전망",
+          "link": "https://n.news.naver.com/article/001/0016383182?ntype=RANKING",
+          "press": "연합뉴스"
+        }
+      ],
+      "related_titles": [
+        "\"거기 없었어\" 결정적 증거 뒤집은 말...'육군상사 피살' 15년 만에 반전[뉴스속오늘]",
+        "나흘 만에 '10억' 털렸는데…본사·업체는 '책임 미루기'",
+        "\"수능 문제 보자 5초 만에 답이 눈앞에\"…AI 안경 직접 써보니",
+        "취임 사흘 만에 해임된 백악관 대변인… 논란의 인터뷰 누가 주선했나",
+        "한국 잠재성장률 '대반전'…40년 만에 연속 반등 전망"
+      ],
+      "category": "산업/테크"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "코스피",
-      "count": 5,
-      "representative_title": "\"개미들 다 털렸는데\"…코스피 반등 시나리오 나왔다",
-      "representative_link": "https://n.news.naver.com/article/119/0003143769?ntype=RANKING",
-      "press": "데일리안",
+      "keyword": "투자",
+      "count": 3,
+      "representative_title": "인간보다 잘 할까? AI 투자 결과 살펴보니 [AI너머]",
+      "representative_link": "https://n.news.naver.com/article/056/0012275673?ntype=RANKING",
+      "press": "KBS",
       "related_articles": [
         {
-          "title": "삼전·SK하닉 급락에 ‘휘청’…코스피, 수급 공백 넘을까 [증시전망대]",
-          "link": "https://n.news.naver.com/article/029/0003053571?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "인간보다 잘 할까? AI 투자 결과 살펴보니 [AI너머]",
+          "link": "https://n.news.naver.com/article/056/0012275673?ntype=RANKING",
+          "press": "KBS"
         },
-        {
-          "title": "코스피 두 달 반 만에 다시 5600선…7월 같은 급반등은 어렵다",
-          "link": "https://n.news.naver.com/article/366/0001198572?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "“지키자 내 돈”…코스피 불안에 예금·IMA로 ‘역 머니무브’",
-          "link": "https://n.news.naver.com/article/662/0000106313?ntype=RANKING",
-          "press": "농민신문"
-        },
-        {
-          "title": "\"개미들 다 털렸는데\"…코스피 반등 시나리오 나왔다",
-          "link": "https://n.news.naver.com/article/119/0003143769?ntype=RANKING",
-          "press": "데일리안"
-        },
-        {
-          "title": "끝 모를 외국인 매도에 ‘그로기 상태’ 빠진 코스피… 이번 주 삼전닉스 8조9000억 순매도&#160;",
-          "link": "https://n.news.naver.com/article/037/0000038992?ntype=RANKING",
-          "press": "주간동아"
-        }
-      ],
-      "related_titles": [
-        "삼전·SK하닉 급락에 ‘휘청’…코스피, 수급 공백 넘을까 [증시전망대]",
-        "코스피 두 달 반 만에 다시 5600선…7월 같은 급반등은 어렵다",
-        "“지키자 내 돈”…코스피 불안에 예금·IMA로 ‘역 머니무브’",
-        "\"개미들 다 털렸는데\"…코스피 반등 시나리오 나왔다",
-        "끝 모를 외국인 매도에 ‘그로기 상태’ 빠진 코스피… 이번 주 삼전닉스 8조9000억 순매도&#160;"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 2,
-      "keyword": "트럼프",
-      "count": 4,
-      "representative_title": "트럼프, 국제유가 110달러 육박에 ‘대러 추가 제재’ 면제",
-      "representative_link": "https://n.news.naver.com/article/119/0003143845?ntype=RANKING",
-      "press": "데일리안",
-      "related_articles": [
         {
           "title": "트럼프 “현대자동차그룹, 美 조지아주에 5억6000만달러 투자”",
           "link": "https://n.news.naver.com/article/030/0003475953?ntype=RANKING",
           "press": "전자신문"
-        },
-        {
-          "title": "“현대 7500억원 투자 방금 발표”…트럼프, 조지아 유세서 치적 과시",
-          "link": "https://n.news.naver.com/article/123/0002392051?ntype=RANKING",
-          "press": "조세일보"
-        },
-        {
-          "title": "트럼프, 국제유가 110달러 육박에 ‘대러 추가 제재’ 면제",
-          "link": "https://n.news.naver.com/article/119/0003143845?ntype=RANKING",
-          "press": "데일리안"
         },
         {
           "title": "트럼프 \"현대차, 조지아주에 7500억 투자\"…중간선거 앞두고 '경제 성과' 부각",
@@ -264,146 +228,65 @@
           "press": "디지털데일리"
         },
         {
+          "title": "인간보다 잘 할까? AI 투자 결과 살펴보니 [AI너머]",
+          "link": "https://n.news.naver.com/article/056/0012275673?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
           "title": "트럼프 “현대자동차그룹, 美 조지아주에 5억6000만달러 투자”",
           "link": "https://n.news.naver.com/article/030/0003475953?ntype=RANKING",
           "press": "전자신문"
         }
       ],
       "related_titles": [
+        "인간보다 잘 할까? AI 투자 결과 살펴보니 [AI너머]",
         "트럼프 “현대자동차그룹, 美 조지아주에 5억6000만달러 투자”",
-        "“현대 7500억원 투자 방금 발표”…트럼프, 조지아 유세서 치적 과시",
-        "트럼프, 국제유가 110달러 육박에 ‘대러 추가 제재’ 면제",
         "트럼프 \"현대차, 조지아주에 7500억 투자\"…중간선거 앞두고 '경제 성과' 부각",
+        "인간보다 잘 할까? AI 투자 결과 살펴보니 [AI너머]",
         "트럼프 “현대자동차그룹, 美 조지아주에 5억6000만달러 투자”"
       ],
       "category": "주식/코인"
     },
     {
-      "rank": 3,
-      "keyword": "삼전닉스",
+      "rank": 2,
+      "keyword": "테슬라",
       "count": 3,
-      "representative_title": "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
-      "representative_link": "https://n.news.naver.com/article/024/0000108989?ntype=RANKING",
-      "press": "매경이코노미",
+      "representative_title": "날아오른 테슬라 로드스터에 놀란 세계…\"영화가 현실로\"",
+      "representative_link": "https://n.news.naver.com/article/417/0001161204?ntype=RANKING",
+      "press": "동행미디어 시대",
       "related_articles": [
         {
-          "title": "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
-          "link": "https://n.news.naver.com/article/014/0005590550?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "[글로벌 줍줍] 테슬라·애플 '역대급 혁신'...룰루레몬 '시스루 논란'",
+          "link": "https://n.news.naver.com/article/092/0002441329?ntype=RANKING",
+          "press": "지디넷코리아"
         },
         {
-          "title": "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
-          "link": "https://n.news.naver.com/article/024/0000108989?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
+          "link": "https://n.news.naver.com/article/293/0000091721?ntype=RANKING",
+          "press": "블로터"
         },
         {
-          "title": "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
-          "link": "https://n.news.naver.com/article/014/0005590550?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "날아오른 테슬라 로드스터에 놀란 세계…\"영화가 현실로\"",
+          "link": "https://n.news.naver.com/article/417/0001161204?ntype=RANKING",
+          "press": "동행미디어 시대"
         },
         {
-          "title": "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
-          "link": "https://n.news.naver.com/article/024/0000108989?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "[글로벌 줍줍] 테슬라·애플 '역대급 혁신'...룰루레몬 '시스루 논란'",
+          "link": "https://n.news.naver.com/article/092/0002441329?ntype=RANKING",
+          "press": "지디넷코리아"
         },
         {
-          "title": "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
-          "link": "https://n.news.naver.com/article/014/0005590550?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
+          "link": "https://n.news.naver.com/article/293/0000091721?ntype=RANKING",
+          "press": "블로터"
         }
       ],
       "related_titles": [
-        "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
-        "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
-        "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
-        "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
-        "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 4,
-      "keyword": "주식",
-      "count": 3,
-      "representative_title": "\"배달 줄이고 커피도 끊었다\"…주식 손실에 내수 회복도 흔들리나",
-      "representative_link": "https://n.news.naver.com/article/003/0014260177?ntype=RANKING",
-      "press": "뉴시스",
-      "related_articles": [
-        {
-          "title": "“주식 팔아 빚 갚으려 했는데”…급락 후 반등에도 대출이자 ‘이중고’",
-          "link": "https://n.news.naver.com/article/009/0005749969?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "\"배달 줄이고 커피도 끊었다\"…주식 손실에 내수 회복도 흔들리나",
-          "link": "https://n.news.naver.com/article/003/0014260177?ntype=RANKING",
-          "press": "뉴시스"
-        },
-        {
-          "title": "\"참사보다 주식 폭락이 더 쓰리다\"…'내 돈'에 민감한 뇌의 비밀 [김형자의 세상은 지금]",
-          "link": "https://n.news.naver.com/article/586/0000140168?ntype=RANKING",
-          "press": "시사저널"
-        },
-        {
-          "title": "\"배달 줄이고 커피도 끊었다\"…주식 손실에 내수 회복도 흔들리나",
-          "link": "https://n.news.naver.com/article/003/0014260177?ntype=RANKING",
-          "press": "뉴시스"
-        },
-        {
-          "title": "“주식 팔아 빚 갚으려 했는데”…급락 후 반등에도 대출이자 ‘이중고’",
-          "link": "https://n.news.naver.com/article/009/0005749969?ntype=RANKING",
-          "press": "매일경제"
-        }
-      ],
-      "related_titles": [
-        "“주식 팔아 빚 갚으려 했는데”…급락 후 반등에도 대출이자 ‘이중고’",
-        "\"배달 줄이고 커피도 끊었다\"…주식 손실에 내수 회복도 흔들리나",
-        "\"참사보다 주식 폭락이 더 쓰리다\"…'내 돈'에 민감한 뇌의 비밀 [김형자의 세상은 지금]",
-        "\"배달 줄이고 커피도 끊었다\"…주식 손실에 내수 회복도 흔들리나",
-        "“주식 팔아 빚 갚으려 했는데”…급락 후 반등에도 대출이자 ‘이중고’"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 5,
-      "keyword": "급락",
-      "count": 3,
-      "representative_title": "\"AI에 돈 너무 썼나\" 미국 기술주 급락‥다음 주 우리 증시에도?",
-      "representative_link": "https://n.news.naver.com/article/214/0001529694?ntype=RANKING",
-      "press": "MBC",
-      "related_articles": [
-        {
-          "title": "\"AI에 돈 너무 썼나\" 미국 기술주 급락‥다음 주 우리 증시에도?",
-          "link": "https://n.news.naver.com/article/214/0001529694?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "[단독] 미공개정보 샜나...에이피알, 비공개 그룹콜 10분 뒤 주가 급락",
-          "link": "https://n.news.naver.com/article/024/0000108959?ntype=RANKING",
-          "press": "매경이코노미"
-        },
-        {
-          "title": "\"AI에 돈 너무 썼나\" 미국 기술주 급락‥다음 주 우리 증시에도?",
-          "link": "https://n.news.naver.com/article/214/0001529694?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "[단독] 미공개정보 샜나...에이피알, 비공개 그룹콜 10분 뒤 주가 급락",
-          "link": "https://n.news.naver.com/article/024/0000108959?ntype=RANKING",
-          "press": "매경이코노미"
-        },
-        {
-          "title": "\"AI에 돈 너무 썼나\" 미국 기술주 급락‥다음 주 우리 증시에도?",
-          "link": "https://n.news.naver.com/article/214/0001529694?ntype=RANKING",
-          "press": "MBC"
-        }
-      ],
-      "related_titles": [
-        "\"AI에 돈 너무 썼나\" 미국 기술주 급락‥다음 주 우리 증시에도?",
-        "[단독] 미공개정보 샜나...에이피알, 비공개 그룹콜 10분 뒤 주가 급락",
-        "\"AI에 돈 너무 썼나\" 미국 기술주 급락‥다음 주 우리 증시에도?",
-        "[단독] 미공개정보 샜나...에이피알, 비공개 그룹콜 10분 뒤 주가 급락",
-        "\"AI에 돈 너무 썼나\" 미국 기술주 급락‥다음 주 우리 증시에도?"
+        "[글로벌 줍줍] 테슬라·애플 '역대급 혁신'...룰루레몬 '시스루 논란'",
+        "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
+        "날아오른 테슬라 로드스터에 놀란 세계…\"영화가 현실로\"",
+        "[글로벌 줍줍] 테슬라·애플 '역대급 혁신'...룰루레몬 '시스루 논란'",
+        "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화"
       ],
       "category": "주식/코인"
     }
@@ -434,13 +317,13 @@
           "press": ""
         },
         {
-          "title": "'조희대 탄핵' 공방… 與 \"위헌 의혹 확인\" 野 \"정권 몰락 신호탄\"",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zWkZuaEhEdzFDNDd3ZDNvNGJjQ1o2SUN1cldGTGkxdlhPQ2xIZm1XTlcyalpVZkV6TmhGVVU2X3VfV0ROdjd5ckcyb1dNOWJ2elk2SFBFXzQ1YXdneWFFVzB0RmptaV9ybVh3bUhLZ0g?oc=5",
+          "title": "민주당 \"조희대 책임 끝까지 묻겠다\"···국민의힘 \"탄핵소추안 발의는 정권 몰락 신호탄\"",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0WWVld0JRTUctQnNJbXVyN1dkblRxVUhORThUcWNlRk5iT0MtVFJqN1dMWEtBdmpFOHZwZUNqRkZOTktvTUcwTjZsNGw?oc=5",
           "press": ""
         },
         {
-          "title": "민주당 \"조희대 책임 끝까지 묻겠다\"···국민의힘 \"탄핵소추안 발의는 정권 몰락 신호탄\"",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0WWVld0JRTUctQnNJbXVyN1dkblRxVUhORThUcWNlRk5iT0MtVFJqN1dMWEtBdmpFOHZwZUNqRkZOTktvTUcwTjZsNGw?oc=5",
+          "title": "'조희대 탄핵' 공방… 與 \"위헌 의혹 확인\" 野 \"정권 몰락 신호탄\"",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zWkZuaEhEdzFDNDd3ZDNvNGJjQ1o2SUN1cldGTGkxdlhPQ2xIZm1XTlcyalpVZkV6TmhGVVU2X3VfV0ROdjd5ckcyb1dNOWJ2elk2SFBFXzQ1YXdneWFFVzB0RmptaV9ybVh3bUhLZ0g?oc=5",
           "press": ""
         }
       ],
@@ -448,8 +331,8 @@
         "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”",
         "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
         "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”",
-        "'조희대 탄핵' 공방… 與 \"위헌 의혹 확인\" 野 \"정권 몰락 신호탄\"",
-        "민주당 \"조희대 책임 끝까지 묻겠다\"···국민의힘 \"탄핵소추안 발의는 정권 몰락 신호탄\""
+        "민주당 \"조희대 책임 끝까지 묻겠다\"···국민의힘 \"탄핵소추안 발의는 정권 몰락 신호탄\"",
+        "'조희대 탄핵' 공방… 與 \"위헌 의혹 확인\" 野 \"정권 몰락 신호탄\""
       ],
       "category": "몰락"
     },
@@ -572,6 +455,11 @@
           "press": ""
         },
         {
+          "title": "집값폭등·규제 속 부동산 판단법…서울 아파트 투자 공부[서평] - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aVjhwRC14dzduRHgwN01Fd1dKN2hyaHdnV3pLeE9OQXVNT3ZWdDZ6QjdiVnBvRTZSbVFDZlNldDdqTkJHakFDV21lTEQxLUwyQkQzMlpkUXlQMDF2V0M0em5ReFY4NU1oNmtEZnNB0gFuQVVfeXFMTlpWOHBELXh3N25EeDA3TUV3V0o3aHJod2dXekt4T05BdU1PdlZ0NnpCN2JWcG9FNlJtUUNmU2V0N2pOQkdqQUNXbWVMRDEtTDJCRDMyWmRReVAwMXZXQzR6blF4Vjg1TWg2a0Rmc0E?oc=5",
+          "press": ""
+        },
+        {
           "title": "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QTl9vdWRWM2Z1Mk1TTmpqNkF0aTh4Tm5YWDJxdFpnMFlBSFhSeDJDVnh3M05RTHA5MW9rNjRFdmFUWEE3MTBWZ09ldm4ySkt6eFNQWUJyXzdISkN2?oc=5",
           "press": ""
@@ -580,28 +468,23 @@
           "title": "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qUHFoZ3hRSXI1Y1Y4SHd4Rl9yVkZWWDhIUmlrZkFWbnp0eGVOc0dTaU42QUdTaVpsZHFGX29BVFE5b215ZmpOWUZUV2dpRkV0cVhBUHNwRDhRV0poOXplYjJVbG5Gd1dxUlRmVU4wcC0?oc=5",
           "press": ""
-        },
-        {
-          "title": "[이슈] 서울 아파트 88주째 상승… 9월 서울 집값 1년 새 10.6%↑",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBMEgxRzRkaDFXZlY1ai1wMmpHZHhFbmNSMTRCV0gtUHFHcDh3US1IdmQ0OHo2SWVqY0JnVUh1eVphaHZXdmp1X3Z0bk82WVh6MHlQdGxBMGRYNHdlRzQ4VW9XbEM3NW5sZ3NZNXE3X0sxeGc?oc=5",
-          "press": ""
         }
       ],
       "related_titles": [
         "서울 집값 평균 이제 17억…1년 만에 1.5억 뛰었다",
         "서울 경매 44% 급증에도 집값 상승…부동산 시장의 두 얼굴",
+        "집값폭등·규제 속 부동산 판단법…서울 아파트 투자 공부[서평] - 머니투데이",
         "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
-        "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값",
-        "[이슈] 서울 아파트 88주째 상승… 9월 서울 집값 1년 새 10.6%↑"
+        "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값"
       ],
       "category": "부동산"
     },
     {
       "rank": 2,
       "keyword": "주간",
-      "count": 4,
-      "representative_title": "[오늘 부동산] 부동산원장 “집값 주간 통계 검증 강화할 것”",
-      "representative_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcjFHbktzWUZlVjI0aXR4RS0tNmNWSDRPanQ4clJ6UEJidDlhRV9nMXJvbG0yWDFObjQySHhOSFYxekJwWFVNaVNvWWRHd0pfNjI0RkNtcnZUSzc1V2tkME1ETmJ0SG5sOVlkRng0MXl4YnM4MXlQNGZWWFk5QU5KNTE4NU1zb2pqZFBqTXRoWVNlX0ZydlBxRWg1YUhvQ09pM2Q2OHNkZDU4S0xoalk1LUlyUzJ0VFprbWx3ZHhGLS1YZVpqdEdEVUxLM1FrczBsS3lKdXd1WUI4Z3owUHJSQlQxQjhXTGFKUkpsUjBpSm5XczgyeUl2NzFqNUFFeFMyZ19KYVpvUXFMNVJiZjZkcFNwQmZmMk0?oc=5",
+      "count": 5,
+      "representative_title": "이헌욱 부동산원장 \"집값 주간 통계 유의미…검증 강화할 것\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSkFkTVZuUjBTREpnVFJ0UTNCekZiQUQyY3pkLXNHQ0JKZ0dtSXV5YkloY3FWNXcyNVh2anFCeThfQTM1V1NDWlB0SkduWjhhQUo0Z0FVS1g3STRLZFdNLdIBeEFVX3lxTE9VVDhJNE5SaGh6RHRTbVR4UDI4dkVBZ0VJV0N2aGRiVjIwRnFVekNteWFZbUFmNzhRbHZwejBZV25aR1ZEUnNYLUNfWU9nTHVjeWdSUUVOeXlXbUFjS3QyVlllSGI4TGRFbWg4a1IzR20yNUxUZXdxSA?oc=5",
       "press": "",
       "related_articles": [
         {
@@ -620,6 +503,11 @@
           "press": ""
         },
         {
+          "title": "이헌욱 부동산원장 \"집값 주간 통계 유의미…검증 강화할 것\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSkFkTVZuUjBTREpnVFJ0UTNCekZiQUQyY3pkLXNHQ0JKZ0dtSXV5YkloY3FWNXcyNVh2anFCeThfQTM1V1NDWlB0SkduWjhhQUo0Z0FVS1g3STRLZFdNLdIBeEFVX3lxTE9VVDhJNE5SaGh6RHRTbVR4UDI4dkVBZ0VJV0N2aGRiVjIwRnFVekNteWFZbUFmNzhRbHZwejBZV25aR1ZEUnNYLUNfWU9nTHVjeWdSUUVOeXlXbUFjS3QyVlllSGI4TGRFbWg4a1IzR20yNUxUZXdxSA?oc=5",
+          "press": ""
+        },
+        {
           "title": "이헌욱 부동산원장 \"집값 주간 통계 유의미…검증 강화할 것\"(종합)",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYaWJxWjZTWXVqdDRqTno5UWV3WWtUZmtXR3V3d1oyajR1LVBWZmNDLV8wLUdxdlUtbzBBQzFpWnlNY1l0XzFjczBQMkppWWVVUHVPQm5iV1pESkYxTUQybNIBeEFVX3lxTE96Uk8wNXQyWUlrM0RveVRNSHhHTm1xZ25SYl93d05QUjlnMlZXOEFCQlFnMFFoYmZNVUxHbFU4bTR6d3U4YVZKam9SUUxxZ2hnOEN4djNqeFk5alFiVTh0X2syd2ZvdWVNRGZzTTJLUm1JQ0V1eENqOA?oc=5",
           "press": ""
@@ -629,6 +517,7 @@
         "다시 불붙은 ‘주간 집값 통계’ 실효성 논란… 부동산원장 “유의미, 검증 강화” - 조선비즈",
         "[2026 국감] 한국부동산원, 주간 집값 통계 정확성 높인다…AI 활용·검증 강화",
         "[오늘 부동산] 부동산원장 “집값 주간 통계 검증 강화할 것”",
+        "이헌욱 부동산원장 \"집값 주간 통계 유의미…검증 강화할 것\"",
         "이헌욱 부동산원장 \"집값 주간 통계 유의미…검증 강화할 것\"(종합)"
       ],
       "category": "부동산"
@@ -691,7 +580,7 @@
     },
     {
       "rank": 5,
-      "keyword": "동탄",
+      "keyword": "반도체",
       "count": 3,
       "representative_title": "[부동산 포커스] 동탄 집값 들쑤신 ‘반도체 머니’…분당 찍고 군포까지",
       "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mM2k5czdtckpPTEFaNGFXc1BLZDBYdWloMkFDTWc3R3ZlbnRfbUh4c1dZdThVOFdjd3NYamgwcEMtam5DbnBxUm0tUGdEeGtNOGM3bDYybXBMNTgzRllWQTdmSXd1QklvcFE5RnZPQWRQY2vSAXdBVV95cUxPMXkxT0lybmNjZFlQNkdPVE5GalREYnp4QmRtY0h1d0JTd1R4V3gxTFlFZWE5UnppNXQtWVlZYXlQRzlPdGY0cWdadk82dzFSRkIyTW56ZU9PRTgtN2VPTV9TOUVLNkpNcGpIZkNmMjVEQ3c5NC1jcw?oc=5",
