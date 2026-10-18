@@ -1,57 +1,82 @@
 {
   "date": "2026-10-18",
-  "hour": "13",
-  "slot": "2026-10-18_13",
-  "crawled_at": "2026-10-18 13:00:01",
+  "hour": "16",
+  "slot": "2026-10-18_16",
+  "crawled_at": "2026-10-18 16:00:03",
   "total_articles": 403,
   "topics": [
     {
       "rank": 1,
-      "keyword": "추미애",
-      "count": 19,
-      "representative_title": "[속보]장동혁 “진짜 ‘재정빨대’는 추미애 본인”",
-      "representative_link": "https://n.news.naver.com/article/021/0002825875?ntype=RANKING",
-      "press": "문화일보",
+      "keyword": "김민석",
+      "count": 25,
+      "representative_title": "가수 무대 끊고 올라온 김민석…국힘 \"오만함의 극치\"",
+      "representative_link": "https://n.news.naver.com/article/629/0000543002?ntype=RANKING",
+      "press": "더팩트",
       "related_articles": [
         {
-          "title": "항의받은 추미애 '소방 빨대' 발언 결국 사과‥\"의도 달랐다\"",
-          "link": "https://n.news.naver.com/article/214/0001529691?ntype=RANKING",
-          "press": "MBC"
+          "title": "가수 공연 끊고 무대 올라간 김민석…지역축제 ‘과잉 의전’ 논란",
+          "link": "https://n.news.naver.com/article/025/0003558611?ntype=RANKING",
+          "press": "중앙일보"
         },
         {
-          "title": "국힘, 추미애 지사 순직 소방관 빈소 사과에 “잘못 인정보다 자기변명 앞세워“",
-          "link": "https://n.news.naver.com/article/087/0001224300?ntype=RANKING",
-          "press": "강원일보"
+          "title": "“사회자가 불러서”…가수 공연 끊고 무대 오른 김민석 “죄송”",
+          "link": "https://n.news.naver.com/article/081/0003689957?ntype=RANKING",
+          "press": "서울신문"
         },
         {
-          "title": "국힘, 추미애 '빨대' 발언 연일 맹공...여야 대표 순직 소방관 빈소 조문 예정",
-          "link": "https://n.news.naver.com/article/052/0002420194?ntype=RANKING",
-          "press": "YTN"
+          "title": "가수 공연 뚝 끊고 “김민석 당대표님 모십니다”…국힘 “무대 모욕했다” 맹공",
+          "link": "https://n.news.naver.com/article/081/0003689914?ntype=RANKING",
+          "press": "서울신문"
         },
         {
-          "title": "국민의힘, 추미애 '소방 재정 빨대' 사과에 \"등 떠밀려 내놓은 사과, 끝까지 오만\"",
-          "link": "https://n.news.naver.com/article/119/0003143896?ntype=RANKING",
-          "press": "데일리안"
+          "title": "오세훈, 시장직 잃나…선고 앞 호감도 30%·한동훈 23%·김민석 21%",
+          "link": "https://n.news.naver.com/article/448/0000645469?ntype=RANKING",
+          "press": "TV조선"
         },
         {
-          "title": "정성호, ‘소방 빨대’ 추미애 향해 “입은 재앙 불러들이는 문”",
-          "link": "https://n.news.naver.com/article/028/0002827904?ntype=RANKING",
-          "press": "한겨레"
+          "title": "국힘 “김민석, 가수 공연 끊고 난입… 오만함의 극치”",
+          "link": "https://n.news.naver.com/article/022/0004167510?ntype=RANKING",
+          "press": "세계일보"
         }
       ],
       "related_titles": [
-        "항의받은 추미애 '소방 빨대' 발언 결국 사과‥\"의도 달랐다\"",
-        "국힘, 추미애 지사 순직 소방관 빈소 사과에 “잘못 인정보다 자기변명 앞세워“",
-        "국힘, 추미애 '빨대' 발언 연일 맹공...여야 대표 순직 소방관 빈소 조문 예정",
-        "국민의힘, 추미애 '소방 재정 빨대' 사과에 \"등 떠밀려 내놓은 사과, 끝까지 오만\"",
-        "정성호, ‘소방 빨대’ 추미애 향해 “입은 재앙 불러들이는 문”"
+        "가수 공연 끊고 무대 올라간 김민석…지역축제 ‘과잉 의전’ 논란",
+        "“사회자가 불러서”…가수 공연 끊고 무대 오른 김민석 “죄송”",
+        "가수 공연 뚝 끊고 “김민석 당대표님 모십니다”…국힘 “무대 모욕했다” 맹공",
+        "오세훈, 시장직 잃나…선고 앞 호감도 30%·한동훈 23%·김민석 21%",
+        "국힘 “김민석, 가수 공연 끊고 난입… 오만함의 극치”"
       ],
-      "category": "사회/일반"
+      "category": "연예/문화"
     },
     {
       "rank": 2,
+      "keyword": "가수",
+      "count": 20,
+      "representative_title": "가수 공연 끊고 올라온 김민석에… 국힘 \"오만함의 극치\"",
+      "representative_link": "https://n.news.naver.com/article/656/0000189780?ntype=RANKING",
+      "press": "대전일보",
+      "related_articles": [
+        {
+          "title": "가수 무대 끊은 '정치인 의전' 논란…3주 전 김민석의 '새벽 방문 소방서' [시사뒷담]",
+          "link": "https://n.news.naver.com/article/088/0001034949?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "가수 공연 끊고 올라온 김민석에… 국힘 \"오만함의 극치\"",
+          "link": "https://n.news.naver.com/article/656/0000189780?ntype=RANKING",
+          "press": "대전일보"
+        }
+      ],
+      "related_titles": [
+        "가수 무대 끊은 '정치인 의전' 논란…3주 전 김민석의 '새벽 방문 소방서' [시사뒷담]",
+        "가수 공연 끊고 올라온 김민석에… 국힘 \"오만함의 극치\""
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 3,
       "keyword": "대통령",
-      "count": 17,
+      "count": 20,
       "representative_title": "李 대통령 ‘지지율 필연적 하락 법칙’ 작동됐다",
       "representative_link": "https://n.news.naver.com/article/262/0000019763?ntype=RANKING",
       "press": "신동아",
@@ -67,232 +92,177 @@
           "press": "서울경제"
         },
         {
-          "title": "\"딸은 7살…\" 말 잇지 못한 李대통령, 순직 소방관에 훈장 추서",
-          "link": "https://n.news.naver.com/article/277/0005829779?ntype=RANKING",
-          "press": "아시아경제"
+          "title": "이 대통령 “국무회의서 할 말 다 해…공개회의라 말 못 한다는 건 거짓말”",
+          "link": "https://n.news.naver.com/article/028/0002827908?ntype=RANKING",
+          "press": "한겨레"
         },
         {
-          "title": "이 대통령 “공개 국무회의, 국무위원·지자체장까지 할 말 다 해···비공개 압박 이해 어려워”",
-          "link": "https://n.news.naver.com/article/032/0003476879?ntype=RANKING",
-          "press": "경향신문"
+          "title": "李대통령 \"'국무회의 공개라 말 못 한다'는 건 거짓말…이해 어려워\"",
+          "link": "https://n.news.naver.com/article/660/0000119417?ntype=RANKING",
+          "press": "kbc광주방송"
         },
         {
-          "title": "“딸이 일곱 살” 답에 한동안 침묵한 이 대통령… 부천 순직 소방관 조문",
-          "link": "https://n.news.naver.com/article/469/0000960031?ntype=RANKING",
-          "press": "한국일보"
+          "title": "李대통령 “거짓말까지 하며 ‘비공개 국무회의’ 압박… 이해 어려워”",
+          "link": "https://n.news.naver.com/article/366/0001198634?ntype=RANKING",
+          "press": "조선비즈"
         }
       ],
       "related_titles": [
         "이 대통령 \"국무회의 본 사람은 다 안다\"‥공개 방침 재확인",
         "“소방관 딸이 7살” 대답에…말 잇지 못한 李대통령",
-        "\"딸은 7살…\" 말 잇지 못한 李대통령, 순직 소방관에 훈장 추서",
-        "이 대통령 “공개 국무회의, 국무위원·지자체장까지 할 말 다 해···비공개 압박 이해 어려워”",
-        "“딸이 일곱 살” 답에 한동안 침묵한 이 대통령… 부천 순직 소방관 조문"
+        "이 대통령 “국무회의서 할 말 다 해…공개회의라 말 못 한다는 건 거짓말”",
+        "李대통령 \"'국무회의 공개라 말 못 한다'는 건 거짓말…이해 어려워\"",
+        "李대통령 “거짓말까지 하며 ‘비공개 국무회의’ 압박… 이해 어려워”"
       ],
       "category": "정치"
     },
     {
-      "rank": 3,
-      "keyword": "아빠",
-      "count": 15,
-      "representative_title": "“보일러 왜 계속 틀어?” 아들에게 흉기 들이댄 아빠",
-      "representative_link": "https://n.news.naver.com/article/021/0002825840?ntype=RANKING",
-      "press": "문화일보",
+      "rank": 4,
+      "keyword": "추미애",
+      "count": 17,
+      "representative_title": "국힘, 추미애 '빨대' 발언 공세...'조희대 탄핵' 공방도",
+      "representative_link": "https://n.news.naver.com/article/052/0002420261?ntype=RANKING",
+      "press": "YTN",
       "related_articles": [
         {
-          "title": "“아빠, 나중에 꼭 다시 만나요”… 순직소방관 딸이 남긴 편지",
-          "link": "https://n.news.naver.com/article/005/0001879269?ntype=RANKING",
+          "title": "장동혁 “사과 바라니까 사과? 추미애, 사퇴 바라니 사퇴하라”",
+          "link": "https://n.news.naver.com/article/005/0001879293?ntype=RANKING",
           "press": "국민일보"
         },
         {
-          "title": "순직 소방관 딸의 편지 \"보고 싶은 아빠, 다시 만나요\"",
-          "link": "https://n.news.naver.com/article/079/0004199827?ntype=RANKING",
-          "press": "노컷뉴스"
+          "title": "“사과 바라시니까 사과” 또 논란 부른 추미애···“사퇴 바라시니까 사퇴하라” 국힘 일제히 공세",
+          "link": "https://n.news.naver.com/article/032/0003476888?ntype=RANKING",
+          "press": "경향신문"
         },
         {
-          "title": "\"그리운 아빠, 어른되면 만나\" 6살딸 남겨졌다…장인은 \"후배보다 앞섰다더라\" 애끓는 증언",
-          "link": "https://n.news.naver.com/article/088/0001034948?ntype=RANKING",
-          "press": "매일신문"
+          "title": "추미애 집무실로 빨대 보낸 개그맨…\"코미디 보다 웃프고 참혹\"",
+          "link": "https://n.news.naver.com/article/422/0000916830?ntype=RANKING",
+          "press": "연합뉴스TV"
         },
         {
-          "title": "“보고 싶은 아빠 사랑해요. 꼭 다시 만나요”…부천 화재 순직소방관 영정앞에 놓인 딸 편지 공개",
-          "link": "https://n.news.naver.com/article/087/0001224385?ntype=RANKING",
-          "press": "강원일보"
+          "title": "\"사과를 바라시니까\" 기름 부은 추미애…'출당 요구' '빨대 배송'까지",
+          "link": "https://n.news.naver.com/article/586/0000140176?ntype=RANKING",
+          "press": "시사저널"
         },
         {
-          "title": "\"아빠 꼭 다시 만나요, 사랑해요\"…6살 딸의 마지막 인사",
-          "link": "https://n.news.naver.com/article/055/0001396287?ntype=RANKING",
-          "press": "SBS"
+          "title": "국힘, 추미애 '빨대' 발언 공세...'조희대 탄핵' 공방도",
+          "link": "https://n.news.naver.com/article/052/0002420261?ntype=RANKING",
+          "press": "YTN"
         }
       ],
       "related_titles": [
-        "“아빠, 나중에 꼭 다시 만나요”… 순직소방관 딸이 남긴 편지",
-        "순직 소방관 딸의 편지 \"보고 싶은 아빠, 다시 만나요\"",
-        "\"그리운 아빠, 어른되면 만나\" 6살딸 남겨졌다…장인은 \"후배보다 앞섰다더라\" 애끓는 증언",
-        "“보고 싶은 아빠 사랑해요. 꼭 다시 만나요”…부천 화재 순직소방관 영정앞에 놓인 딸 편지 공개",
-        "\"아빠 꼭 다시 만나요, 사랑해요\"…6살 딸의 마지막 인사"
+        "장동혁 “사과 바라니까 사과? 추미애, 사퇴 바라니 사퇴하라”",
+        "“사과 바라시니까 사과” 또 논란 부른 추미애···“사퇴 바라시니까 사퇴하라” 국힘 일제히 공세",
+        "추미애 집무실로 빨대 보낸 개그맨…\"코미디 보다 웃프고 참혹\"",
+        "\"사과를 바라시니까\" 기름 부은 추미애…'출당 요구' '빨대 배송'까지",
+        "국힘, 추미애 '빨대' 발언 공세...'조희대 탄핵' 공방도"
       ],
-      "category": "사회/일반"
-    },
-    {
-      "rank": 4,
-      "keyword": "소방관",
-      "count": 15,
-      "representative_title": "김민석 \"당 소속 도지사 발언으로 상처받은 소방관·국민께 깊은 사과\"",
-      "representative_link": "https://n.news.naver.com/article/002/0002461464?ntype=RANKING",
-      "press": "프레시안",
-      "related_articles": [
-        {
-          "title": "\"보고 싶은 아빠께\"…부천 화재 순직 소방관 영정 앞 6살 딸 편지에 '울컥'",
-          "link": "https://n.news.naver.com/article/654/0000205892?ntype=RANKING",
-          "press": "강원도민일보"
-        },
-        {
-          "title": "김민석 \"당 소속 도지사 발언으로 상처받은 소방관·국민께 깊은 사과\"",
-          "link": "https://n.news.naver.com/article/002/0002461464?ntype=RANKING",
-          "press": "프레시안"
-        },
-        {
-          "title": "[속보] 부천 공장화재 순직 소방관 1계급 특진…장례 ‘경기도청장’으로",
-          "link": "https://n.news.naver.com/article/021/0002825790?ntype=RANKING",
-          "press": "문화일보"
-        }
-      ],
-      "related_titles": [
-        "\"보고 싶은 아빠께\"…부천 화재 순직 소방관 영정 앞 6살 딸 편지에 '울컥'",
-        "김민석 \"당 소속 도지사 발언으로 상처받은 소방관·국민께 깊은 사과\"",
-        "[속보] 부천 공장화재 순직 소방관 1계급 특진…장례 ‘경기도청장’으로"
-      ],
-      "category": "사회/일반"
+      "category": "국제"
     },
     {
       "rank": 5,
-      "keyword": "국힘",
-      "count": 14,
-      "representative_title": "가수 무대 끊고 올라온 김민석…국힘 \"오만함의 극치\"",
-      "representative_link": "https://n.news.naver.com/article/629/0000543002?ntype=RANKING",
-      "press": "더팩트",
+      "keyword": "공연",
+      "count": 16,
+      "representative_title": "국힘, 지역 축제 공연 멈춘 김민석에 \"갑질 난입…관객 앞 무릎 꿇고 사과하라\"",
+      "representative_link": "https://n.news.naver.com/article/437/0000516246?ntype=RANKING",
+      "press": "JTBC",
       "related_articles": [
         {
-          "title": "국힘 \"축제 도중 노래 끊고 무대 난입한 김민석, 오만함의 극치\"",
-          "link": "https://n.news.naver.com/article/214/0001529735?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "국힘 들리나, 박정희 “미국놈들”…DMZ 영토주권 부정한 브런슨",
-          "link": "https://n.news.naver.com/article/028/0002827903?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "가수 공연 뚝 끊고 “김민석 당대표님 모십니다”…국힘 “무대 모욕했다” 맹공",
-          "link": "https://n.news.naver.com/article/081/0003689914?ntype=RANKING",
-          "press": "서울신문"
-        },
-        {
-          "title": "차기총선? 국힘51.7% 민주28.4%…대통령지지 31.7%-리서치웰",
-          "link": "https://n.news.naver.com/article/021/0002825856?ntype=RANKING",
-          "press": "문화일보"
-        },
-        {
-          "title": "[속보] \"사과 바라니 사과한다\" 추미애에…국힘 \"'사퇴' 바라시니까 사퇴하라\"",
-          "link": "https://n.news.naver.com/article/082/0001402871?ntype=RANKING",
-          "press": "부산일보"
+          "title": "국힘, 지역 축제 공연 멈춘 김민석에 \"갑질 난입…관객 앞 무릎 꿇고 사과하라\"",
+          "link": "https://n.news.naver.com/article/437/0000516246?ntype=RANKING",
+          "press": "JTBC"
         }
       ],
       "related_titles": [
-        "국힘 \"축제 도중 노래 끊고 무대 난입한 김민석, 오만함의 극치\"",
-        "국힘 들리나, 박정희 “미국놈들”…DMZ 영토주권 부정한 브런슨",
-        "가수 공연 뚝 끊고 “김민석 당대표님 모십니다”…국힘 “무대 모욕했다” 맹공",
-        "차기총선? 국힘51.7% 민주28.4%…대통령지지 31.7%-리서치웰",
-        "[속보] \"사과 바라니 사과한다\" 추미애에…국힘 \"'사퇴' 바라시니까 사퇴하라\""
+        "국힘, 지역 축제 공연 멈춘 김민석에 \"갑질 난입…관객 앞 무릎 꿇고 사과하라\""
       ],
-      "category": "국제"
+      "category": "사회/일반"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "테슬라",
-      "count": 3,
-      "representative_title": "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
-      "representative_link": "https://n.news.naver.com/article/293/0000091721?ntype=RANKING",
-      "press": "블로터",
+      "keyword": "코스피",
+      "count": 7,
+      "representative_title": "코스피 급락에 한 주간 3000억 강제청산…개미들 비명",
+      "representative_link": "https://n.news.naver.com/article/005/0001879276?ntype=RANKING",
+      "press": "국민일보",
       "related_articles": [
         {
-          "title": "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
-          "link": "https://n.news.naver.com/article/293/0000091721?ntype=RANKING",
-          "press": "블로터"
+          "title": "코스피 급락에 한 주간 3000억 강제청산…개미들 비명",
+          "link": "https://n.news.naver.com/article/005/0001879276?ntype=RANKING",
+          "press": "국민일보"
         },
         {
-          "title": "'차 막혀? 하늘로 점프하면 끝?'…테슬라 미쳤다 '경악'",
-          "link": "https://n.news.naver.com/article/374/0000538291?ntype=RANKING",
-          "press": "SBS Biz"
+          "title": "코스피, 올해 10% 하락 후 회복까지 평균 14거래일 걸려",
+          "link": "https://n.news.naver.com/article/366/0001198612?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "‘날아다니는 스포츠카’ 공개한 테슬라, 스페이스X와 합병 기대감 ‘쑥’",
-          "link": "https://n.news.naver.com/article/024/0000108999?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "빚내서 주식 샀다가…코스피 급락에 '강제청산' 7월 폭락장 수준",
+          "link": "https://n.news.naver.com/article/421/0009234263?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
-          "link": "https://n.news.naver.com/article/293/0000091721?ntype=RANKING",
-          "press": "블로터"
+          "title": "“폭락 뒤 되돌림까지 평균 14거래일”…코스피, 회복 열쇠는 외국인",
+          "link": "https://n.news.naver.com/article/029/0003053614?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "'차 막혀? 하늘로 점프하면 끝?'…테슬라 미쳤다 '경악'",
-          "link": "https://n.news.naver.com/article/374/0000538291?ntype=RANKING",
-          "press": "SBS Biz"
+          "title": "'지금이 살 때라고?'…코스피 폭락에 공포 떠는데 증권가는 \"비중 늘려라\"",
+          "link": "https://n.news.naver.com/article/243/0000104356?ntype=RANKING",
+          "press": "이코노미스트"
         }
       ],
       "related_titles": [
-        "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
-        "'차 막혀? 하늘로 점프하면 끝?'…테슬라 미쳤다 '경악'",
-        "‘날아다니는 스포츠카’ 공개한 테슬라, 스페이스X와 합병 기대감 ‘쑥’",
-        "테슬라, 차세대 로드스터 공개에 스페이스X 합병설 재점화",
-        "'차 막혀? 하늘로 점프하면 끝?'…테슬라 미쳤다 '경악'"
+        "코스피 급락에 한 주간 3000억 강제청산…개미들 비명",
+        "코스피, 올해 10% 하락 후 회복까지 평균 14거래일 걸려",
+        "빚내서 주식 샀다가…코스피 급락에 '강제청산' 7월 폭락장 수준",
+        "“폭락 뒤 되돌림까지 평균 14거래일”…코스피, 회복 열쇠는 외국인",
+        "'지금이 살 때라고?'…코스피 폭락에 공포 떠는데 증권가는 \"비중 늘려라\""
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "삼전닉스",
+      "keyword": "투자",
       "count": 3,
-      "representative_title": "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
-      "representative_link": "https://n.news.naver.com/article/024/0000108989?ntype=RANKING",
-      "press": "매경이코노미",
+      "representative_title": "젠슨황도 괜찮다고 했는데…코어위브에 풀죽은 AI 투자 심리",
+      "representative_link": "https://n.news.naver.com/article/008/0005427893?ntype=RANKING",
+      "press": "머니투데이",
       "related_articles": [
         {
-          "title": "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
-          "link": "https://n.news.naver.com/article/014/0005590550?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "젠슨황도 괜찮다고 했는데…코어위브에 풀죽은 AI 투자 심리",
+          "link": "https://n.news.naver.com/article/008/0005427893?ntype=RANKING",
+          "press": "머니투데이"
         },
         {
-          "title": "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
-          "link": "https://n.news.naver.com/article/024/0000108989?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "트럼프 “현대자동차그룹, 美 조지아주에 5억6000만달러 투자”",
+          "link": "https://n.news.naver.com/article/030/0003475953?ntype=RANKING",
+          "press": "전자신문"
         },
         {
-          "title": "삼전닉스, 목표가 ‘65만원·470만원’까지 갈까… “과도한 조정” vs “위험자산 축소”",
-          "link": "https://n.news.naver.com/article/022/0004167507?ntype=RANKING",
-          "press": "세계일보"
+          "title": "[속보] 사상 첫 대미 흑자 1000억달러 유력…트럼프 '투자 압박'에 난감한 정부",
+          "link": "https://n.news.naver.com/article/243/0000104367?ntype=RANKING",
+          "press": "이코노미스트"
         },
         {
-          "title": "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
-          "link": "https://n.news.naver.com/article/014/0005590550?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "젠슨황도 괜찮다고 했는데…코어위브에 풀죽은 AI 투자 심리",
+          "link": "https://n.news.naver.com/article/008/0005427893?ntype=RANKING",
+          "press": "머니투데이"
         },
         {
-          "title": "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
-          "link": "https://n.news.naver.com/article/024/0000108989?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "트럼프 “현대자동차그룹, 美 조지아주에 5억6000만달러 투자”",
+          "link": "https://n.news.naver.com/article/030/0003475953?ntype=RANKING",
+          "press": "전자신문"
         }
       ],
       "related_titles": [
-        "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
-        "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목",
-        "삼전닉스, 목표가 ‘65만원·470만원’까지 갈까… “과도한 조정” vs “위험자산 축소”",
-        "\"삼전닉스 공포가 폭락시켰다?\"...오히려 매수 적기라는 증권사",
-        "“삼전닉스 대신 뭐 살까요”…여의도서 꼽은 중소형주 유망 종목"
+        "젠슨황도 괜찮다고 했는데…코어위브에 풀죽은 AI 투자 심리",
+        "트럼프 “현대자동차그룹, 美 조지아주에 5억6000만달러 투자”",
+        "[속보] 사상 첫 대미 흑자 1000억달러 유력…트럼프 '투자 압박'에 난감한 정부",
+        "젠슨황도 괜찮다고 했는데…코어위브에 풀죽은 AI 투자 심리",
+        "트럼프 “현대자동차그룹, 美 조지아주에 5억6000만달러 투자”"
       ],
       "category": "주식/코인"
     }
@@ -302,43 +272,43 @@
       "rank": 1,
       "keyword": "정권",
       "series_title": "정권의 몰락",
-      "count": 34,
+      "count": 40,
       "representative_title": "국힘 “조희대 탄핵 추진은 정권 몰락 신호탄”",
       "representative_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLTZaaUVYVGNVZnF3eEhxTVZ2M05pVlhsV0tGQ0ZYcUdnZVJoUnc0bjY0UkxyQUlmWDR6M3JfTGwxcWwxbDZ1SUhreUZVTzMtWUpwNHQxYk5WLXhKa0ZKeG9vR281ZWNBU0ZueHE0RGNwcG9uaF9FXzc2dl8yN1FDMQ?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IMzB2ZmNMeHVyTWtpLVk4U0NNMUJUYzRQNXJKX2xNZUJ1ME1NUUNvWHFkVEN1clNfRDZPUGVQc0M2cDJNOEVwT2s0RzFrX1NjTy1Ud0ZZelR5M2Zqa1E?oc=5",
+          "title": "홍준표 “조희대 탄핵하면 정권 몰락의 길···국민들이 나설 것”",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuV1BickdJbTdSbFdITlY4RDRfXzFBZUhHaUlYZDMyV2hhLTB4Nzh2WjBxOVhMZzNDX0xMQmNhSjZrSVRqYzB4SW50aGxfYm1aQ01ReVdMYXFVTWRVRFE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “조희대 탄핵하면 정권 몰락의 길...국민이 나설 것” 경고",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53Qk0yU3o5N3BpSXVPSWRFMTJqWUlhQnJqRVpObVk0QzYwSU94c3pyUE5CSnJ1ZmNHM2pfMGdlcXl1YWl1VGhGOGpwYmxHaXY5SndlUEY1OE16Z2s?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"조희대 탄핵하면 정권 몰락의 길로… 국민이 나설 것\"",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96dkVyQTh2VzhQSkZSN0c1NVMxWldMamdETEVUaDVoRnZzckJyR1c5VWszSGxPeVNjZ2RDS1E4N2Ixd3lKWU9WbFdvcjJjVXVfN00ydzJDaVJjZ0xqQXhjVVFkQmxMUVlpZTlMQmJfSQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"조희대 대법원장 탄핵은 정권 몰락의 길\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wWUlzU1RPbDlLbnBzQUlEdHAxZ0F3Y3NlNG5WRFZKRGxXQnFULWRxN0FuOGJ3U2dBelBMeHNiMVZfMVhpZmNQYUJmcDF2VVAySWNUZ2NGcVcyTHZ3OVl6QdIBeEFVX3lxTE1wX09ZdzJmMWgwckl5VmFfR3A5ZlcxcmVMNDBVVGZ1NGRpQ2RMOWNnSHBDejlERG5oRlQtRnRRd0dqbWZ5NU9Vajc0LXI0ekdwdlZkdzJFS0JHRklpQlNJS0MzcklSWllMS0FOMnZOamJTeFpYdjBvYw?oc=5",
           "press": ""
         },
         {
           "title": "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXNE1ob01WeHRtSllmTEVNY3V1UHVRclVta1YyWnlSNkJscTNQVTlvemVDNGp0YVAwZ004Y1MwcXI4Ung3T0JJRVpEYjVmMVotM2xlOHdJcWtjYWMwQnBfV0JycjlqcDA?oc=5",
           "press": ""
-        },
-        {
-          "title": "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12bXRDaDg1NnJLc0MyZDBFM25YRXh3QVB6Q1NqWFpPUzh4WUtxTVhZR1NWQXV5eGVfY3VxQXF4RTdMWEM2WHVsZFhsN253MlA4MXkwZ0hpZUlSRS1wanhfRUtBUlJvSG44T0E?oc=5",
-          "press": ""
-        },
-        {
-          "title": "민주당 \"조희대 책임 끝까지 묻겠다\"···국민의힘 \"탄핵소추안 발의는 정권 몰락 신호탄\"",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0WWVld0JRTUctQnNJbXVyN1dkblRxVUhORThUcWNlRk5iT0MtVFJqN1dMWEtBdmpFOHZwZUNqRkZOTktvTUcwTjZsNGw?oc=5",
-          "press": ""
-        },
-        {
-          "title": "민주·국힘, 조희대 탄핵 놓고 정면충돌…'책임 추궁' vs '정권 몰락 신호탄'",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaN2pWUm02cFBJR3MzamtheDc3UEhGRmlKeXp4em9DUjhXeFpGb0FVWjlFVElrbUpGajJERmp4aU5GbUx6bG0tV01FMklubWdPSHdqOV9UNkg3OEotcVVsYy1zQWFaTjJGODhzX01UdFM?oc=5",
-          "press": ""
         }
       ],
       "related_titles": [
-        "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”",
-        "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
-        "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”",
-        "민주당 \"조희대 책임 끝까지 묻겠다\"···국민의힘 \"탄핵소추안 발의는 정권 몰락 신호탄\"",
-        "민주·국힘, 조희대 탄핵 놓고 정면충돌…'책임 추궁' vs '정권 몰락 신호탄'"
+        "홍준표 “조희대 탄핵하면 정권 몰락의 길···국민들이 나설 것”",
+        "홍준표 “조희대 탄핵하면 정권 몰락의 길...국민이 나설 것” 경고",
+        "홍준표 \"조희대 탄핵하면 정권 몰락의 길로… 국민이 나설 것\"",
+        "홍준표 \"조희대 대법원장 탄핵은 정권 몰락의 길\"",
+        "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\""
       ],
       "category": "몰락"
     },
@@ -396,32 +366,6 @@
     },
     {
       "rank": 4,
-      "keyword": "안지만",
-      "series_title": "안지만의 몰락",
-      "count": 2,
-      "representative_title": "안지만의 몰락…빚 20억에 3억 빌려 돌려막기 실형",
-      "representative_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yVGdMdjQwTFJxN3lJNkl0Y2tVZ3lKWUEzN2dmNDcxM0czdDV1Rl83YUY0TkhZeFp1MFd1d094cUk5T0F6aHJwdjBvQ2dMRmkzeENseDlaQ3ZwWEZCOUHSAWNBVV95cUxQd3ZIVnBLRVluM0dqTVNZNzB3NjR1SE5LMmtKRU1FcUd0ajlDSGVKclZmWTJlaFdXSkQ4Y1BmdjdRZGZNeXNPTHI2czNxZUNDMXhQNHFZbWljekNPQ2NVZHNldlE?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "안지만의 몰락…빚 20억에 3억 빌려 돌려막기 실형",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yVGdMdjQwTFJxN3lJNkl0Y2tVZ3lKWUEzN2dmNDcxM0czdDV1Rl83YUY0TkhZeFp1MFd1d094cUk5T0F6aHJwdjBvQ2dMRmkzeENseDlaQ3ZwWEZCOUHSAWNBVV95cUxQd3ZIVnBLRVluM0dqTVNZNzB3NjR1SE5LMmtKRU1FcUd0ajlDSGVKclZmWTJlaFdXSkQ4Y1BmdjdRZGZNeXNPTHI2czNxZUNDMXhQNHFZbWljekNPQ2NVZHNldlE?oc=5",
-          "press": ""
-        },
-        {
-          "title": "전 삼성투수 안지만의 몰락…'3억대 사기' 징역 1년8개월",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44LVltbGd6SDBnTnI5VWRmVFdMRW16eG8tTmI5NDFiNkZPdWttdUhQVHV1V21ncVJrdzJEaHpHYWlmM21vQlpTTEhxYkJ3LU1KZ1NMc2ZsRU94VnJnb09ObNIBeEFVX3lxTE14NzlVdnJZMnNUbG81QjB5VUgwTlFJRURSTVlYUkVZcXluXzlvZGFmVlJiOTZiZ3Y5S1Y4SUJxZWdYZEtwUERCME1sZ0MzaGVUa0NIMzlxYV9lSVpZX0h3aXNJS2RfcDVTSzlKLVhUWV9hOWVmZkdzTg?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "안지만의 몰락…빚 20억에 3억 빌려 돌려막기 실형",
-        "전 삼성투수 안지만의 몰락…'3억대 사기' 징역 1년8개월"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 5,
       "keyword": "로마",
       "series_title": "로마의 몰락",
       "count": 1,
@@ -437,6 +381,26 @@
       ],
       "related_titles": [
         "'역사를 바꾼 100책' 로마의 몰락 앞에서 쓴 키케로의 유언장...2천 년 전 ‘의무론’이 오늘을 겨누다"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "칸쿤",
+      "series_title": "칸쿤의 몰락",
+      "count": 1,
+      "representative_title": "“비싼데도 냄새가 심해”…인기있던 바다 휴양지 칸쿤의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2MDRRV3hFX3htNFBhc2JtWjhmOWYwUkJjdy1EWE5idEwxZEx0YmVvWDdGSDRTRVFHZDNtNUZHZnFicVV6Q0JlLUo2Zy10bldS?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“비싼데도 냄새가 심해”…인기있던 바다 휴양지 칸쿤의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2MDRRV3hFX3htNFBhc2JtWjhmOWYwUkJjdy1EWE5idEwxZEx0YmVvWDdGSDRTRVFHZDNtNUZHZnFicVV6Q0JlLUo2Zy10bldS?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“비싼데도 냄새가 심해”…인기있던 바다 휴양지 칸쿤의 몰락"
       ],
       "category": "몰락"
     }
@@ -461,6 +425,11 @@
           "press": ""
         },
         {
+          "title": "집값폭등·규제 속 부동산 판단법…서울 아파트 투자 공부[서평] - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aVjhwRC14dzduRHgwN01Fd1dKN2hyaHdnV3pLeE9OQXVNT3ZWdDZ6QjdiVnBvRTZSbVFDZlNldDdqTkJHakFDV21lTEQxLUwyQkQzMlpkUXlQMDF2V0M0em5ReFY4NU1oNmtEZnNB0gFuQVVfeXFMTlpWOHBELXh3N25EeDA3TUV3V0o3aHJod2dXekt4T05BdU1PdlZ0NnpCN2JWcG9FNlJtUUNmU2V0N2pOQkdqQUNXbWVMRDEtTDJCRDMyWmRReVAwMXZXQzR6blF4Vjg1TWg2a0Rmc0E?oc=5",
+          "press": ""
+        },
+        {
           "title": "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QTl9vdWRWM2Z1Mk1TTmpqNkF0aTh4Tm5YWDJxdFpnMFlBSFhSeDJDVnh3M05RTHA5MW9rNjRFdmFUWEE3MTBWZ09ldm4ySkt6eFNQWUJyXzdISkN2?oc=5",
           "press": ""
@@ -469,19 +438,14 @@
           "title": "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qUHFoZ3hRSXI1Y1Y4SHd4Rl9yVkZWWDhIUmlrZkFWbnp0eGVOc0dTaU42QUdTaVpsZHFGX29BVFE5b215ZmpOWUZUV2dpRkV0cVhBUHNwRDhRV0poOXplYjJVbG5Gd1dxUlRmVU4wcC0?oc=5",
           "press": ""
-        },
-        {
-          "title": "[이슈] 서울 아파트 88주째 상승… 9월 서울 집값 1년 새 10.6%↑",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBMEgxRzRkaDFXZlY1ai1wMmpHZHhFbmNSMTRCV0gtUHFHcDh3US1IdmQ0OHo2SWVqY0JnVUh1eVphaHZXdmp1X3Z0bk82WVh6MHlQdGxBMGRYNHdlRzQ4VW9XbEM3NW5sZ3NZNXE3X0sxeGc?oc=5",
-          "press": ""
         }
       ],
       "related_titles": [
         "서울 집값 평균 이제 17억…1년 만에 1.5억 뛰었다",
         "서울 경매 44% 급증에도 집값 상승…부동산 시장의 두 얼굴",
+        "집값폭등·규제 속 부동산 판단법…서울 아파트 투자 공부[서평] - 머니투데이",
         "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
-        "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값",
-        "[이슈] 서울 아파트 88주째 상승… 9월 서울 집값 1년 새 10.6%↑"
+        "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값"
       ],
       "category": "부동산"
     },
