@@ -1,317 +1,207 @@
 {
   "date": "2026-10-19",
-  "hour": "13",
-  "slot": "2026-10-19_13",
-  "crawled_at": "2026-10-19 13:01:46",
-  "total_articles": 393,
+  "hour": "16",
+  "slot": "2026-10-19_16",
+  "crawled_at": "2026-10-19 16:00:04",
+  "total_articles": 395,
   "topics": [
     {
       "rank": 1,
       "keyword": "추미애",
-      "count": 19,
-      "representative_title": "'추미애 설화' 여권 후폭풍...오늘 경기도 국감 주목",
-      "representative_link": "https://n.news.naver.com/article/052/0002420500?ntype=RANKING",
-      "press": "YTN",
+      "count": 35,
+      "representative_title": "추미애 \"최근 발언으로 상처 입으신 소방관들께 사과\"",
+      "representative_link": "https://n.news.naver.com/article/003/0014262915?ntype=RANKING",
+      "press": "뉴시스",
       "related_articles": [
         {
-          "title": "'추미애 설화' 여권 후폭풍...오늘 경기도 국감 주목",
-          "link": "https://n.news.naver.com/article/052/0002420500?ntype=RANKING",
-          "press": "YTN"
+          "title": "추미애, 국감서 “제 발언으로 상처 입으신 소방 분들께 진심으로 사과”",
+          "link": "https://n.news.naver.com/article/023/0004004639?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "추미애 '재정 빨대' 발언 비상… 민주당 경기도당 긴급회의",
-          "link": "https://n.news.naver.com/article/660/0000119443?ntype=RANKING",
-          "press": "kbc광주방송"
-        },
-        {
-          "title": "'소방이 빨대' 추미애, 순직 소방관 추모비 1억 전액 삭감…소방차도 26억 깎았다",
-          "link": "https://n.news.naver.com/article/437/0000516357?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "소방노조, 추미애 '사과를 바라시니 사과'에 \"안한 것보단 나아\"",
-          "link": "https://n.news.naver.com/article/586/0000140259?ntype=RANKING",
+          "title": "[인터뷰] 추미애 막아선 소방관 \"마냥 착했던 동생이라 더 화났다\"",
+          "link": "https://n.news.naver.com/article/586/0000140308?ntype=RANKING",
           "press": "시사저널"
         },
         {
-          "title": "\"죽일 수도 살릴 수도\" \"재사과 해야\"…민주, 추미애 비판 속 징계는 '보류'",
-          "link": "https://n.news.naver.com/article/586/0000140254?ntype=RANKING",
-          "press": "시사저널"
+          "title": "추미애, '소방 재정 빨대' 발언 다시 고개 숙여…\"진심 사과\"",
+          "link": "https://n.news.naver.com/article/421/0009236218?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "추미애 ‘빨대 배송’ 250개 인증샷…개그맨 이상민 “코미디보다 더 웃프다”",
+          "link": "https://n.news.naver.com/article/028/0002828049?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "추미애 감싸는 민주당?…징계 요구 나왔는데 “이후 논의”",
+          "link": "https://n.news.naver.com/article/005/0001879491?ntype=RANKING",
+          "press": "국민일보"
         }
       ],
       "related_titles": [
-        "'추미애 설화' 여권 후폭풍...오늘 경기도 국감 주목",
-        "추미애 '재정 빨대' 발언 비상… 민주당 경기도당 긴급회의",
-        "'소방이 빨대' 추미애, 순직 소방관 추모비 1억 전액 삭감…소방차도 26억 깎았다",
-        "소방노조, 추미애 '사과를 바라시니 사과'에 \"안한 것보단 나아\"",
-        "\"죽일 수도 살릴 수도\" \"재사과 해야\"…민주, 추미애 비판 속 징계는 '보류'"
+        "추미애, 국감서 “제 발언으로 상처 입으신 소방 분들께 진심으로 사과”",
+        "[인터뷰] 추미애 막아선 소방관 \"마냥 착했던 동생이라 더 화났다\"",
+        "추미애, '소방 재정 빨대' 발언 다시 고개 숙여…\"진심 사과\"",
+        "추미애 ‘빨대 배송’ 250개 인증샷…개그맨 이상민 “코미디보다 더 웃프다”",
+        "추미애 감싸는 민주당?…징계 요구 나왔는데 “이후 논의”"
       ],
-      "category": "노동/파업"
+      "category": "사회/일반"
     },
     {
       "rank": 2,
-      "keyword": "만원",
-      "count": 17,
-      "representative_title": "\"청소년이면 누구나\"…내년부터 '기본지원금' 60만원 지급",
-      "representative_link": "https://n.news.naver.com/article/215/0001269620?ntype=RANKING",
-      "press": "한국경제TV",
+      "keyword": "사과",
+      "count": 26,
+      "representative_title": "김민석 \"당이 초반에 이미 추미애에 사과 요청해\"",
+      "representative_link": "https://n.news.naver.com/article/659/0000047884?ntype=RANKING",
+      "press": "전주MBC",
       "related_articles": [
         {
-          "title": "\"엄마 미안해\" 월 80만원 깨졌다...돈 벌려고 돈 쓰는 취준생",
-          "link": "https://n.news.naver.com/article/008/0005428034?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "\"대한민국 영토를 왜 美사령관이 정하나\"…민주당, 브런슨에 사과 요구",
+          "link": "https://n.news.naver.com/article/586/0000140279?ntype=RANKING",
+          "press": "시사저널"
         },
         {
-          "title": "소풍 나온 장애인 식사비 60만원 '선뜻'…말없이 사라진 익명의 손님",
-          "link": "https://n.news.naver.com/article/422/0000917000?ntype=RANKING",
-          "press": "연합뉴스TV"
+          "title": "“오만한 사과는 2차 가해” 질타에…秋 “다시 한번 진심으로 사과”",
+          "link": "https://n.news.naver.com/article/020/0003755924?ntype=RANKING",
+          "press": "동아일보"
         },
         {
-          "title": "남자친구 몰래 개인정보로 7,400만원 대출받은 20대 여성 실형",
-          "link": "https://n.news.naver.com/article/087/0001224588?ntype=RANKING",
-          "press": "강원일보"
+          "title": "고개숙인 유홍준, ‘친일파 글씨 추천 논란’&#160;사과&#160;“중대한 불찰”",
+          "link": "https://n.news.naver.com/article/138/0002245165?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "“돈 없다면서 연회비 130만원 카드 사용”…절약과 사치 동시에 하는 Z세대의 소비법 [이윤정 기자의 소소월드]",
-          "link": "https://n.news.naver.com/article/032/0003477089?ntype=RANKING",
-          "press": "경향신문"
+          "title": "박선원 “대한민국 영토, 왜 주한미군 사령관이 정하나”…사과 요구",
+          "link": "https://n.news.naver.com/article/449/0000364518?ntype=RANKING",
+          "press": "채널A"
         },
         {
-          "title": "\"청소년이면 누구나\"…내년부터 '기본지원금' 60만원 지급",
-          "link": "https://n.news.naver.com/article/215/0001269620?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "축제 공연 중 무대인사 논란 김민석 '사과'…국민의힘 '오만함의 극치' 비판",
+          "link": "https://n.news.naver.com/article/657/0000056416?ntype=RANKING",
+          "press": "대구MBC"
         }
       ],
       "related_titles": [
-        "\"엄마 미안해\" 월 80만원 깨졌다...돈 벌려고 돈 쓰는 취준생",
-        "소풍 나온 장애인 식사비 60만원 '선뜻'…말없이 사라진 익명의 손님",
-        "남자친구 몰래 개인정보로 7,400만원 대출받은 20대 여성 실형",
-        "“돈 없다면서 연회비 130만원 카드 사용”…절약과 사치 동시에 하는 Z세대의 소비법 [이윤정 기자의 소소월드]",
-        "\"청소년이면 누구나\"…내년부터 '기본지원금' 60만원 지급"
+        "\"대한민국 영토를 왜 美사령관이 정하나\"…민주당, 브런슨에 사과 요구",
+        "“오만한 사과는 2차 가해” 질타에…秋 “다시 한번 진심으로 사과”",
+        "고개숙인 유홍준, ‘친일파 글씨 추천 논란’&#160;사과&#160;“중대한 불찰”",
+        "박선원 “대한민국 영토, 왜 주한미군 사령관이 정하나”…사과 요구",
+        "축제 공연 중 무대인사 논란 김민석 '사과'…국민의힘 '오만함의 극치' 비판"
       ],
       "category": "사회/일반"
     },
     {
       "rank": 3,
-      "keyword": "김민석",
+      "keyword": "논란",
       "count": 16,
-      "representative_title": "김민석 “黨은 추미애에 초반에 사과하라 요청했다”",
-      "representative_link": "https://n.news.naver.com/article/366/0001198725?ntype=RANKING",
-      "press": "조선비즈",
+      "representative_title": "'증조부 친일 논란'에 발목…하영 차기작 방영 결국 '불발'",
+      "representative_link": "https://n.news.naver.com/article/215/0001269622?ntype=RANKING",
+      "press": "한국경제TV",
       "related_articles": [
         {
-          "title": "김민석, 축제 공연 끊고 \"정동영 고향이라 좋아\" 논란…\"가수·관객에 사과\"",
-          "link": "https://n.news.naver.com/article/437/0000516340?ntype=RANKING",
-          "press": "JTBC"
+          "title": "‘친일 논란’ 하영 결국…‘중증외상센터’ 하차→신작 편성 불투명",
+          "link": "https://n.news.naver.com/article/009/0005750428?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "공연 중단에 소방관 새벽 5시 집합?…김민석 '과잉 의전' 도마",
-          "link": "https://n.news.naver.com/article/586/0000140262?ntype=RANKING",
-          "press": "시사저널"
+          "title": "이제훈 어쩌나…‘증조부 친일 논란’ 女배우 하영 주연작 결국 편성 연기",
+          "link": "https://n.news.naver.com/article/081/0003690227?ntype=RANKING",
+          "press": "서울신문"
         },
         {
-          "title": "김민석 '재정빨대' 발언 秋에 \"사과 요청…국민 맘 풀릴 때까지 노력해야\"",
-          "link": "https://n.news.naver.com/article/656/0000189859?ntype=RANKING",
-          "press": "대전일보"
+          "title": "“아무리 예능이라지만…” 생방송 중 男 출연자가 여성의 ‘이것’ 덥석 움켜줘 논란[아하일본]",
+          "link": "https://n.news.naver.com/article/021/0002826052?ntype=RANKING",
+          "press": "문화일보"
         },
         {
-          "title": "[단독] 순직 소방관 조문 간 김민석, ‘응급환자 전용 주차장’에 주차",
-          "link": "https://n.news.naver.com/article/056/0012276136?ntype=RANKING",
-          "press": "KBS"
+          "title": "김어준 업체 2주째 “조희대 탄핵” 설문, 중도무당층 반대 뛰어…‘와인비 1억’ 허위 논란 속",
+          "link": "https://n.news.naver.com/article/029/0003053853?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "공연 도중 갑자기 무대에 올라 인사한 김민석, \"가수·관객께 죄송\"",
-          "link": "https://n.news.naver.com/article/655/0000033208?ntype=RANKING",
-          "press": "CJB청주방송"
+          "title": "'증조부 친일 논란'에 발목…하영 차기작 방영 결국 '불발'",
+          "link": "https://n.news.naver.com/article/215/0001269622?ntype=RANKING",
+          "press": "한국경제TV"
         }
       ],
       "related_titles": [
-        "김민석, 축제 공연 끊고 \"정동영 고향이라 좋아\" 논란…\"가수·관객에 사과\"",
-        "공연 중단에 소방관 새벽 5시 집합?…김민석 '과잉 의전' 도마",
-        "김민석 '재정빨대' 발언 秋에 \"사과 요청…국민 맘 풀릴 때까지 노력해야\"",
-        "[단독] 순직 소방관 조문 간 김민석, ‘응급환자 전용 주차장’에 주차",
-        "공연 도중 갑자기 무대에 올라 인사한 김민석, \"가수·관객께 죄송\""
+        "‘친일 논란’ 하영 결국…‘중증외상센터’ 하차→신작 편성 불투명",
+        "이제훈 어쩌나…‘증조부 친일 논란’ 女배우 하영 주연작 결국 편성 연기",
+        "“아무리 예능이라지만…” 생방송 중 男 출연자가 여성의 ‘이것’ 덥석 움켜줘 논란[아하일본]",
+        "김어준 업체 2주째 “조희대 탄핵” 설문, 중도무당층 반대 뛰어…‘와인비 1억’ 허위 논란 속",
+        "'증조부 친일 논란'에 발목…하영 차기작 방영 결국 '불발'"
       ],
-      "category": "연예/문화"
+      "category": "국제"
     },
     {
       "rank": 4,
-      "keyword": "대통령",
-      "count": 13,
-      "representative_title": "국토부 “제주공항 지연, 대통령 전용기 탓 아냐”",
-      "representative_link": "https://n.news.naver.com/article/449/0000364507?ntype=RANKING",
-      "press": "채널A",
+      "keyword": "성폭행",
+      "count": 15,
+      "representative_title": "‘신도 성폭행’ 81살 JMS 정명석 징역 33년 추가 선고",
+      "representative_link": "https://n.news.naver.com/article/028/0002828043?ntype=RANKING",
+      "press": "한겨레",
       "related_articles": [
         {
-          "title": "정점식 \"이 대통령, 국무회의 생중계·SNS 집착…정치적 궁지에 자기 위로 받는 것\"",
-          "link": "https://n.news.naver.com/article/082/0001403009?ntype=RANKING",
-          "press": "부산일보"
+          "title": "‘여신도 성폭행’ JMS 정명석, 1심서 징역 33년…“지배구조·영향력 이용\"",
+          "link": "https://n.news.naver.com/article/023/0004004634?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "정점식 \"李대통령, 정치적 궁지에 SNS 집착…정권 말기 증상\"",
-          "link": "https://n.news.naver.com/article/656/0000189878?ntype=RANKING",
-          "press": "대전일보"
-        },
-        {
-          "title": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”",
-          "link": "https://n.news.naver.com/article/032/0003477081?ntype=RANKING",
-          "press": "경향신문"
-        },
-        {
-          "title": "“계엄 때 국회 봉쇄 없었다” 근거로 ‘이 대통령 월담’ 영상…되풀이되는 방어논리",
-          "link": "https://n.news.naver.com/article/028/0002828012?ntype=RANKING",
+          "title": "‘신도 성폭행’ 81살 JMS 정명석 징역 33년 추가 선고",
+          "link": "https://n.news.naver.com/article/028/0002828043?ntype=RANKING",
           "press": "한겨레"
         },
         {
-          "title": "유시민 \"李대통령, 국민 속였다\" 발언에…경찰, 명예훼손 수사 착수",
-          "link": "https://n.news.naver.com/article/448/0000645646?ntype=RANKING",
-          "press": "TV조선"
+          "title": "[속보] JMS 정명석 ‘여신도 성폭행’ 혐의로 추가 징역 33년",
+          "link": "https://n.news.naver.com/article/005/0001879498?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "JMS 정명석, 여신도 16명 성폭행 혐의 징역 33년 선고",
+          "link": "https://n.news.naver.com/article/654/0000206162?ntype=RANKING",
+          "press": "강원도민일보"
+        },
+        {
+          "title": "JMS 정명석, 여신도 성폭행 혐의 1심 징역 33년…\"교주 지위 이용\"",
+          "link": "https://n.news.naver.com/article/052/0002420610?ntype=RANKING",
+          "press": "YTN"
         }
       ],
       "related_titles": [
-        "정점식 \"이 대통령, 국무회의 생중계·SNS 집착…정치적 궁지에 자기 위로 받는 것\"",
-        "정점식 \"李대통령, 정치적 궁지에 SNS 집착…정권 말기 증상\"",
-        "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”",
-        "“계엄 때 국회 봉쇄 없었다” 근거로 ‘이 대통령 월담’ 영상…되풀이되는 방어논리",
-        "유시민 \"李대통령, 국민 속였다\" 발언에…경찰, 명예훼손 수사 착수"
+        "‘여신도 성폭행’ JMS 정명석, 1심서 징역 33년…“지배구조·영향력 이용\"",
+        "‘신도 성폭행’ 81살 JMS 정명석 징역 33년 추가 선고",
+        "[속보] JMS 정명석 ‘여신도 성폭행’ 혐의로 추가 징역 33년",
+        "JMS 정명석, 여신도 16명 성폭행 혐의 징역 33년 선고",
+        "JMS 정명석, 여신도 성폭행 혐의 1심 징역 33년…\"교주 지위 이용\""
       ],
-      "category": "경제/투자"
+      "category": "사건/사고"
     },
     {
       "rank": 5,
-      "keyword": "경찰",
-      "count": 12,
-      "representative_title": "경찰, '인천 흉기난동범' 최충락 사이코패스 검사 검토",
-      "representative_link": "https://n.news.naver.com/article/658/0000158822?ntype=RANKING",
-      "press": "국제신문",
+      "keyword": "정명석",
+      "count": 15,
+      "representative_title": "‘17년형 확정’ JMS 정명석, 추가재판서 징역33년",
+      "representative_link": "https://n.news.naver.com/article/449/0000364521?ntype=RANKING",
+      "press": "채널A",
       "related_articles": [
         {
-          "title": "\"성폭행 상황극 즐긴다\" 근무 중 음란 문자…포르노까지 본 경찰",
-          "link": "https://n.news.naver.com/article/008/0005428220?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "[속보] 경찰, '\"李대통령이 국민 속여\" 유시민, 명예훼손으로 수사 착수",
-          "link": "https://n.news.naver.com/article/002/0002461539?ntype=RANKING",
-          "press": "프레시안"
-        },
-        {
-          "title": "[단독] 가스총까지 지녔던 스토킹 피해 여성 피살… 두 차례 신고에도 경찰 보호조치 없었다",
-          "link": "https://n.news.naver.com/article/469/0000960172?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "경찰, \"李대통령이 국민 속여\" 유시민 발언 수사 착수…고발인 조사",
-          "link": "https://n.news.naver.com/article/655/0000033218?ntype=RANKING",
-          "press": "CJB청주방송"
-        },
-        {
-          "title": "유튜브 공개되니 잡힌 ‘이천 차량습격’ 외국인…나경원 “경찰, 못잡은 게 아니라 안잡은 것”",
-          "link": "https://n.news.naver.com/article/021/0002826002?ntype=RANKING",
-          "press": "문화일보"
+          "title": "‘17년형 확정’ JMS 정명석, 추가재판서 징역33년",
+          "link": "https://n.news.naver.com/article/449/0000364521?ntype=RANKING",
+          "press": "채널A"
         }
       ],
       "related_titles": [
-        "\"성폭행 상황극 즐긴다\" 근무 중 음란 문자…포르노까지 본 경찰",
-        "[속보] 경찰, '\"李대통령이 국민 속여\" 유시민, 명예훼손으로 수사 착수",
-        "[단독] 가스총까지 지녔던 스토킹 피해 여성 피살… 두 차례 신고에도 경찰 보호조치 없었다",
-        "경찰, \"李대통령이 국민 속여\" 유시민 발언 수사 착수…고발인 조사",
-        "유튜브 공개되니 잡힌 ‘이천 차량습격’ 외국인…나경원 “경찰, 못잡은 게 아니라 안잡은 것”"
+        "‘17년형 확정’ JMS 정명석, 추가재판서 징역33년"
       ],
-      "category": "사건/사고"
+      "category": "사회/일반"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "코스피",
-      "count": 8,
-      "representative_title": "3% 급락 출발한 코스피… 외인 매수에 낙폭 축소",
-      "representative_link": "https://n.news.naver.com/article/366/0001198721?ntype=RANKING",
-      "press": "조선비즈",
-      "related_articles": [
-        {
-          "title": "\"한국 증시 매력적\"…코스피 폭락장에도 '깜짝 전망' 나왔다",
-          "link": "https://n.news.naver.com/article/015/0005343904?ntype=RANKING",
-          "press": "한국경제"
-        },
-        {
-          "title": "3% 급락 출발한 코스피… 외인 매수에 낙폭 축소",
-          "link": "https://n.news.naver.com/article/366/0001198721?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "“코스피 이 정도면 IMF급 충격” 8거래일 만에 20% 폭락…골드만삭스도 놀랐다",
-          "link": "https://n.news.naver.com/article/011/0004672665?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "7거래일 새 20% 증발한 코스피…이번 주 증시 반등할까",
-          "link": "https://n.news.naver.com/article/123/0002392086?ntype=RANKING",
-          "press": "조세일보"
-        },
-        {
-          "title": "“5600선마저 무너졌다”…美 반도체 쇼크에 코스피 또 ‘추락’",
-          "link": "https://n.news.naver.com/article/138/0002245129?ntype=RANKING",
-          "press": "디지털데일리"
-        }
-      ],
-      "related_titles": [
-        "\"한국 증시 매력적\"…코스피 폭락장에도 '깜짝 전망' 나왔다",
-        "3% 급락 출발한 코스피… 외인 매수에 낙폭 축소",
-        "“코스피 이 정도면 IMF급 충격” 8거래일 만에 20% 폭락…골드만삭스도 놀랐다",
-        "7거래일 새 20% 증발한 코스피…이번 주 증시 반등할까",
-        "“5600선마저 무너졌다”…美 반도체 쇼크에 코스피 또 ‘추락’"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 2,
-      "keyword": "반등",
-      "count": 6,
-      "representative_title": "[속보] 이 대통령 지지율 37.3%…3주 만에 반등[리얼미터]",
-      "representative_link": "https://n.news.naver.com/article/654/0000206122?ntype=RANKING",
-      "press": "강원도민일보",
-      "related_articles": [
-        {
-          "title": "[속보]중국 수출 호조 속 소비도 반등, 3분기 경제 4.5% 성장",
-          "link": "https://n.news.naver.com/article/018/0006391353?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "[속보] 이 대통령 지지율 37.3%…3주 만에 반등[리얼미터]",
-          "link": "https://n.news.naver.com/article/654/0000206122?ntype=RANKING",
-          "press": "강원도민일보"
-        },
-        {
-          "title": "삼성전자·SK하이닉스, 폭락장 속 엇갈린 전망…딥시크 충격 넘어 반등 가능성은",
-          "link": "https://n.news.naver.com/article/123/0002392081?ntype=RANKING",
-          "press": "조세일보"
-        },
-        {
-          "title": "李대통령 지지율 37.3%, 3주 만에 반등...\"민생 정책 강조 긍정 영향\"[리얼미터]",
-          "link": "https://n.news.naver.com/article/123/0002392098?ntype=RANKING",
-          "press": "조세일보"
-        },
-        {
-          "title": "李 대통령 지지율 3주만 반등 37.3%.. \"증시 급락에 상승폭 일부 반납\"",
-          "link": "https://n.news.naver.com/article/661/0000085159?ntype=RANKING",
-          "press": "JIBS"
-        }
-      ],
-      "related_titles": [
-        "[속보]중국 수출 호조 속 소비도 반등, 3분기 경제 4.5% 성장",
-        "[속보] 이 대통령 지지율 37.3%…3주 만에 반등[리얼미터]",
-        "삼성전자·SK하이닉스, 폭락장 속 엇갈린 전망…딥시크 충격 넘어 반등 가능성은",
-        "李대통령 지지율 37.3%, 3주 만에 반등...\"민생 정책 강조 긍정 영향\"[리얼미터]",
-        "李 대통령 지지율 3주만 반등 37.3%.. \"증시 급락에 상승폭 일부 반납\""
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 3,
       "keyword": "주식",
-      "count": 5,
+      "count": 8,
       "representative_title": "빚내서 주식 샀다가 강제청산…개미들 ‘피눈물’",
       "representative_link": "https://n.news.naver.com/article/024/0000109014?ntype=RANKING",
       "press": "매경이코노미",
@@ -320,6 +210,11 @@
           "title": "\"목에 칼 들어와도 주식 안 산다\"…3개월 전 황현희 경고 소름",
           "link": "https://n.news.naver.com/article/015/0005343905?ntype=RANKING",
           "press": "한국경제"
+        },
+        {
+          "title": "하이닉스 ‘반토막’ 전 “절대 주식 사지 말라”던 황현희… “‘AI 거품’ 기사 나오면 본격 조정” 7월 경고 재조명",
+          "link": "https://n.news.naver.com/article/081/0003690175?ntype=RANKING",
+          "press": "서울신문"
         },
         {
           "title": "\"목에 칼 들어와도 안 해\" 주식 경고한 황현희, 그의 전망은",
@@ -332,11 +227,6 @@
           "press": "한국경제TV"
         },
         {
-          "title": "하이닉스 ‘반토막’ 전 “절대 주식 사지 말라”던 황현희… “‘AI 거품’ 기사 나오면 본격 조정” 7월 경고 재조명",
-          "link": "https://n.news.naver.com/article/081/0003690175?ntype=RANKING",
-          "press": "서울신문"
-        },
-        {
           "title": "빚내서 주식 샀다가 강제청산…개미들 ‘피눈물’",
           "link": "https://n.news.naver.com/article/024/0000109014?ntype=RANKING",
           "press": "매경이코노미"
@@ -344,72 +234,170 @@
       ],
       "related_titles": [
         "\"목에 칼 들어와도 주식 안 산다\"…3개월 전 황현희 경고 소름",
+        "하이닉스 ‘반토막’ 전 “절대 주식 사지 말라”던 황현희… “‘AI 거품’ 기사 나오면 본격 조정” 7월 경고 재조명",
         "\"목에 칼 들어와도 안 해\" 주식 경고한 황현희, 그의 전망은",
         "황현희 \"주식 할 생각 마라\"...3개월 전 예언 적중 '화제'",
-        "하이닉스 ‘반토막’ 전 “절대 주식 사지 말라”던 황현희… “‘AI 거품’ 기사 나오면 본격 조정” 7월 경고 재조명",
         "빚내서 주식 샀다가 강제청산…개미들 ‘피눈물’"
       ],
       "category": "주식/코인"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "keyword": "황현희",
-      "count": 5,
-      "representative_title": "황현희 “목에 칼 들어와도 지금 투자 안해” 3개월 전 경고 깜짝",
-      "representative_link": "https://n.news.naver.com/article/025/0003558794?ntype=RANKING",
-      "press": "중앙일보",
+      "count": 7,
+      "representative_title": "황현희 “목에 칼 들어와도 투자 안해”…폭락장 속 3개월 전 발언 재조명",
+      "representative_link": "https://n.news.naver.com/article/009/0005750598?ntype=RANKING",
+      "press": "매일경제",
       "related_articles": [
         {
-          "title": "황현희 “목에 칼 들어와도 지금 투자 안해” 3개월 전 경고 깜짝",
-          "link": "https://n.news.naver.com/article/025/0003558794?ntype=RANKING",
-          "press": "중앙일보"
+          "title": "황현희 “목에 칼 들어와도 투자 안해”…폭락장 속 3개월 전 발언 재조명",
+          "link": "https://n.news.naver.com/article/009/0005750598?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "황현희 “목에 칼 들어와도 지금 투자 안해” 3개월 전 경고 깜짝",
-          "link": "https://n.news.naver.com/article/025/0003558794?ntype=RANKING",
-          "press": "중앙일보"
+          "title": "황현희 “목에 칼 들어와도 투자 안해”…폭락장 속 3개월 전 발언 재조명",
+          "link": "https://n.news.naver.com/article/009/0005750598?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "황현희 “목에 칼 들어와도 지금 투자 안해” 3개월 전 경고 깜짝",
-          "link": "https://n.news.naver.com/article/025/0003558794?ntype=RANKING",
-          "press": "중앙일보"
+          "title": "황현희 “목에 칼 들어와도 투자 안해”…폭락장 속 3개월 전 발언 재조명",
+          "link": "https://n.news.naver.com/article/009/0005750598?ntype=RANKING",
+          "press": "매일경제"
         }
       ],
       "related_titles": [
-        "황현희 “목에 칼 들어와도 지금 투자 안해” 3개월 전 경고 깜짝",
-        "황현희 “목에 칼 들어와도 지금 투자 안해” 3개월 전 경고 깜짝",
-        "황현희 “목에 칼 들어와도 지금 투자 안해” 3개월 전 경고 깜짝"
+        "황현희 “목에 칼 들어와도 투자 안해”…폭락장 속 3개월 전 발언 재조명",
+        "황현희 “목에 칼 들어와도 투자 안해”…폭락장 속 3개월 전 발언 재조명",
+        "황현희 “목에 칼 들어와도 투자 안해”…폭락장 속 3개월 전 발언 재조명"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "코스피",
+      "count": 5,
+      "representative_title": "전 세계 '꼴등'...코스피 '대굴욕'",
+      "representative_link": "https://n.news.naver.com/article/050/0000112113?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "코스피 5000선까지 떨어질수도…그래도 “사라”는 증권가, 왜?",
+          "link": "https://n.news.naver.com/article/009/0005750571?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "코스피, 장중 반등해 5700선 부근… 美 지수 선물 상승",
+          "link": "https://n.news.naver.com/article/366/0001198826?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "\"저가매수 기회\" vs \"불안 여전\"…코스피 신중 모드",
+          "link": "https://n.news.naver.com/article/001/0016385299?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "전 세계 '꼴등'...코스피 '대굴욕'",
+          "link": "https://n.news.naver.com/article/050/0000112113?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "코스피 5000선까지 떨어질수도…그래도 “사라”는 증권가, 왜?",
+          "link": "https://n.news.naver.com/article/009/0005750571?ntype=RANKING",
+          "press": "매일경제"
+        }
+      ],
+      "related_titles": [
+        "코스피 5000선까지 떨어질수도…그래도 “사라”는 증권가, 왜?",
+        "코스피, 장중 반등해 5700선 부근… 美 지수 선물 상승",
+        "\"저가매수 기회\" vs \"불안 여전\"…코스피 신중 모드",
+        "전 세계 '꼴등'...코스피 '대굴욕'",
+        "코스피 5000선까지 떨어질수도…그래도 “사라”는 증권가, 왜?"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "솔리다임",
+      "count": 5,
+      "representative_title": "“솔리다임 상장?” SK하이닉스의 셈법은",
+      "representative_link": "https://n.news.naver.com/article/050/0000112101?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "[인터뷰] 캐시 우드 “美 투자자는 중복 상장으로 안 본다… 솔리다임 상장, SK하이닉스에 호재”",
+          "link": "https://n.news.naver.com/article/366/0001198809?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”",
+          "link": "https://n.news.naver.com/article/032/0003477081?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "안철수 “솔리다임 상장, SK하이닉스 주주 이익 가로채기”…李 대통령에 저지 촉구",
+          "link": "https://n.news.naver.com/article/138/0002245187?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "안철수 “솔리다임 상장 막아야...방치하면 국장 종말”",
+          "link": "https://n.news.naver.com/article/024/0000109016?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "“솔리다임 상장?” SK하이닉스의 셈법은",
+          "link": "https://n.news.naver.com/article/050/0000112101?ntype=RANKING",
+          "press": "한경비즈니스"
+        }
+      ],
+      "related_titles": [
+        "[인터뷰] 캐시 우드 “美 투자자는 중복 상장으로 안 본다… 솔리다임 상장, SK하이닉스에 호재”",
+        "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”",
+        "안철수 “솔리다임 상장, SK하이닉스 주주 이익 가로채기”…李 대통령에 저지 촉구",
+        "안철수 “솔리다임 상장 막아야...방치하면 국장 종말”",
+        "“솔리다임 상장?” SK하이닉스의 셈법은"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "증시",
+      "keyword": "하이닉스",
       "count": 5,
-      "representative_title": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”",
-      "representative_link": "https://n.news.naver.com/article/032/0003477081?ntype=RANKING",
-      "press": "경향신문",
+      "representative_title": "SK하이닉스, D램 팔아 번 돈 '환율'에 내주나…최대 실적 앞 복병",
+      "representative_link": "https://n.news.naver.com/article/293/0000091775?ntype=RANKING",
+      "press": "블로터",
       "related_articles": [
         {
-          "title": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”",
-          "link": "https://n.news.naver.com/article/032/0003477081?ntype=RANKING",
-          "press": "경향신문"
+          "title": "SK하이닉스, D램 팔아 번 돈 '환율'에 내주나…최대 실적 앞 복병",
+          "link": "https://n.news.naver.com/article/293/0000091775?ntype=RANKING",
+          "press": "블로터"
         },
         {
-          "title": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”",
-          "link": "https://n.news.naver.com/article/032/0003477081?ntype=RANKING",
-          "press": "경향신문"
+          "title": "삼성전자·SK하이닉스, 폭락장 속 엇갈린 전망…딥시크 충격 넘어 반등 가능성은",
+          "link": "https://n.news.naver.com/article/123/0002392081?ntype=RANKING",
+          "press": "조세일보"
         },
         {
-          "title": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”",
-          "link": "https://n.news.naver.com/article/032/0003477081?ntype=RANKING",
-          "press": "경향신문"
+          "title": "SK하이닉스, D램 팔아 번 돈 '환율'에 내주나…최대 실적 앞 복병",
+          "link": "https://n.news.naver.com/article/293/0000091775?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "삼성전자·SK하이닉스, 폭락장 속 엇갈린 전망…딥시크 충격 넘어 반등 가능성은",
+          "link": "https://n.news.naver.com/article/123/0002392081?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "SK하이닉스, D램 팔아 번 돈 '환율'에 내주나…최대 실적 앞 복병",
+          "link": "https://n.news.naver.com/article/293/0000091775?ntype=RANKING",
+          "press": "블로터"
         }
       ],
       "related_titles": [
-        "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”",
-        "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”",
-        "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야”"
+        "SK하이닉스, D램 팔아 번 돈 '환율'에 내주나…최대 실적 앞 복병",
+        "삼성전자·SK하이닉스, 폭락장 속 엇갈린 전망…딥시크 충격 넘어 반등 가능성은",
+        "SK하이닉스, D램 팔아 번 돈 '환율'에 내주나…최대 실적 앞 복병",
+        "삼성전자·SK하이닉스, 폭락장 속 엇갈린 전망…딥시크 충격 넘어 반등 가능성은",
+        "SK하이닉스, D램 팔아 번 돈 '환율'에 내주나…최대 실적 앞 복병"
       ],
       "category": "주식/코인"
     }
@@ -445,8 +433,8 @@
           "press": ""
         },
         {
-          "title": "홍준표 “조희대 탄핵은 정권 몰락의 길”",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMDBjRUlibHM1cjAxTTlMdWNzMUdWSTJ4NVR0UEotbGtudGN3ek1CWDhtNTNwZ3ZfSlo5d0VydGNwZzh2bGpkWHlYLVBJWXpG?oc=5",
+          "title": "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IMzB2ZmNMeHVyTWtpLVk4U0NNMUJUYzRQNXJKX2xNZUJ1ME1NUUNvWHFkVEN1clNfRDZPUGVQc0M2cDJNOEVwT2s0RzFrX1NjTy1Ud0ZZelR5M2Zqa1E?oc=5",
           "press": ""
         }
       ],
@@ -455,38 +443,12 @@
         "'조희대 탄핵' 충돌 격화…與 \"탄핵 사유 충분\" 野 \"정권 몰락 신호탄\"",
         "홍준표 \"조희대 탄핵은 정권 몰락의 길 …윤석열 석방될 수도\"",
         "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
-        "홍준표 “조희대 탄핵은 정권 몰락의 길”"
+        "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”"
       ],
       "category": "몰락"
     },
     {
       "rank": 2,
-      "keyword": "TK",
-      "series_title": "TK의 몰락",
-      "count": 2,
-      "representative_title": "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
-      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lOTdkLW9jRWwtNmZXLXlNY1M4d2FSSTNsc0dVQ0VNSjUtNjZEdkpKVS1xY2c4c0drU2JKZ2wySkdhN1dSakdjQlRSVGJrZkczRUVnc1Zac3dDc0dzdjQzeUNwQzRjUlg4MUE?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "홍준표 “TK 몰락 가슴 아파…비난 각오하고 김부겸 밀었지만, 진심 안 통해”",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05NllvSTRXbUhyVC1JQzZfbmlVMnpFSzhJMk14TFBQYWxucERLZU5LdXFoQW5SelFBV1dJTFJLSUNySjJielMtU3VZeHE5b0NaSU8wbHQtWkFLazBuYlhvdTkzN3hSRF9pTjNvMXBEVTJrSXNV?oc=5",
-          "press": ""
-        },
-        {
-          "title": "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\"",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lOTdkLW9jRWwtNmZXLXlNY1M4d2FSSTNsc0dVQ0VNSjUtNjZEdkpKVS1xY2c4c0drU2JKZ2wySkdhN1dSakdjQlRSVGJrZkczRUVnc1Zac3dDc0dzdjQzeUNwQzRjUlg4MUE?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "홍준표 “TK 몰락 가슴 아파…비난 각오하고 김부겸 밀었지만, 진심 안 통해”",
-        "홍준표 “TK 몰락이 가슴 아프다…지역감정도 당도 버려야\""
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 3,
       "keyword": "공교육",
       "series_title": "공교육의 몰락",
       "count": 1,
@@ -502,6 +464,26 @@
       ],
       "related_titles": [
         "'근대 교육의 상징' 프랑스 공교육의 몰락...\"미래에 대한 불안감 폭발\" [앵커리포트]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "유홍준",
+      "series_title": "유홍준의 몰락",
+      "count": 1,
+      "representative_title": "‘아는 만큼 보인다’ 유홍준의 몰락… 친일파 박중양 글씨 애국지사 유묵으로 소개 \"죄송하다\"[MD이슈]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rd3VaUjd6V29XRXZfMkI5MnJiUUYyXzdwUUs0emN0Z19jRVlXRzRxS01ycl91SWtsQ2NrRktPaUlzVi1sUnRqOUwtU3RUdWNSLTM4YkZDU0RDOTZHdHpYQlV3TFZFQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "‘아는 만큼 보인다’ 유홍준의 몰락… 친일파 박중양 글씨 애국지사 유묵으로 소개 \"죄송하다\"[MD이슈]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rd3VaUjd6V29XRXZfMkI5MnJiUUYyXzdwUUs0emN0Z19jRVlXRzRxS01ycl91SWtsQ2NrRktPaUlzVi1sUnRqOUwtU3RUdWNSLTM4YkZDU0RDOTZHdHpYQlV3TFZFQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "‘아는 만큼 보인다’ 유홍준의 몰락… 친일파 박중양 글씨 애국지사 유묵으로 소개 \"죄송하다\"[MD이슈]"
       ],
       "category": "몰락"
     },
@@ -550,7 +532,7 @@
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 12,
+      "count": 11,
       "representative_title": "강남 집값 10주째 하락…서울 부동산 상승세 꺾이나",
       "representative_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85SjRpUlA0VERIc0JQbWpyNWhmSnVUZDA4c2d2MG9ac3duZmZjSWR5SUp1dVVQUWVsNmMzX3g2Y1IzQzZmcU04VQ?oc=5",
       "press": "",
@@ -561,8 +543,8 @@
           "press": ""
         },
         {
-          "title": "강남 집값 10주째 하락…서울 부동산 상승세 꺾이나",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85SjRpUlA0VERIc0JQbWpyNWhmSnVUZDA4c2d2MG9ac3duZmZjSWR5SUp1dVVQUWVsNmMzX3g2Y1IzQzZmcU04VQ?oc=5",
+          "title": "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QTl9vdWRWM2Z1Mk1TTmpqNkF0aTh4Tm5YWDJxdFpnMFlBSFhSeDJDVnh3M05RTHA5MW9rNjRFdmFUWEE3MTBWZ09ldm4ySkt6eFNQWUJyXzdISkN2?oc=5",
           "press": ""
         },
         {
@@ -571,64 +553,27 @@
           "press": ""
         },
         {
-          "title": "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QTl9vdWRWM2Z1Mk1TTmpqNkF0aTh4Tm5YWDJxdFpnMFlBSFhSeDJDVnh3M05RTHA5MW9rNjRFdmFUWEE3MTBWZ09ldm4ySkt6eFNQWUJyXzdISkN2?oc=5",
+          "title": "강남 집값 10주째 하락…서울 부동산 상승세 꺾이나",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85SjRpUlA0VERIc0JQbWpyNWhmSnVUZDA4c2d2MG9ac3duZmZjSWR5SUp1dVVQUWVsNmMzX3g2Y1IzQzZmcU04VQ?oc=5",
           "press": ""
         },
         {
-          "title": "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qUHFoZ3hRSXI1Y1Y4SHd4Rl9yVkZWWDhIUmlrZkFWbnp0eGVOc0dTaU42QUdTaVpsZHFGX29BVFE5b215ZmpOWUZUV2dpRkV0cVhBUHNwRDhRV0poOXplYjJVbG5Gd1dxUlRmVU4wcC0?oc=5",
+          "title": "[부동산 리뷰] 서울 집값, 이제 떨어질 일만 남았나…강남부터 시작된 하락 신호",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93ZVFFTkN3b21kLVBMbDZiSlZUZlRpOHRRaXF5N1VDeWxmcXVBeUNZYlNKLXA3THlfVnAxMmFaSWpETERncUlIcnFDbzJvYkVvek9ZMnEzd0hXNUZMNjlnYklJdWtFR3dRWlJjNDZ5V0I?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
         "서울 집값 평균 이제 17억…1년 만에 1.5억 뛰었다",
-        "강남 집값 10주째 하락…서울 부동산 상승세 꺾이나",
-        "서울 경매 44% 급증에도 집값 상승…부동산 시장의 두 얼굴",
         "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
-        "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값"
+        "서울 경매 44% 급증에도 집값 상승…부동산 시장의 두 얼굴",
+        "강남 집값 10주째 하락…서울 부동산 상승세 꺾이나",
+        "[부동산 리뷰] 서울 집값, 이제 떨어질 일만 남았나…강남부터 시작된 하락 신호"
       ],
       "category": "부동산"
     },
     {
       "rank": 2,
-      "keyword": "주간",
-      "count": 4,
-      "representative_title": "'신뢰성 논란' 주간 집값 통계…공표기간 등 개편안 예고",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JYkRPa0tUWm9KcjN5ZFg4QzREQ1FBZ0pWeWxyVWx4ei1ZVkVJX0pWckZUR3oyMXFUQWp5MkExU1hOVTl1b0REMXhtbmFGWktqeTBwMGdiMUpaZw?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "다시 불붙은 ‘주간 집값 통계’ 실효성 논란… 부동산원장 “유의미, 검증 강화” - 조선비즈",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2p0T2JOYmNiVVV2cHRCc2Z2aGRsVXVjd0lOZmFkT2NEbmdnU0JvaWQycTJLUjktcGx5akZIVE1hZEZkdzZyZmtOS2dabmppeWtxVGp6R1NaLUlTQnpzNjFYRERqYkVWcVpqam1ER21HRXV1Y0d1TXVsTXEzdlF3bG5WOG9JbXIzYmE0SmdDX3NlNzVpS3h2OdIBrAFBVV95cUxQLVVRLTFBV0NsdkRvb04xc05JTVpkaXBBdC1jdnU2WHpGdzVXTEhMQ0NPb05fck5KZGdzY0JJSlJIT0Q1QzlQZUtkUHlJMkw4M0NTYjJHUi0tMXp5Tkg2Nng0ZjRqR0lFajQ1TXJsdnNWNkNGSlgzbE9ZamFLQXNBRm96RUpxOHhwdzBUbU5JSTRfTl91NFJvcksweGZoZDdfcndQN2JaN0VjWG83?oc=5",
-          "press": ""
-        },
-        {
-          "title": "'신뢰성 논란' 주간 집값 통계…공표기간 등 개편안 예고",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JYkRPa0tUWm9KcjN5ZFg4QzREQ1FBZ0pWeWxyVWx4ei1ZVkVJX0pWckZUR3oyMXFUQWp5MkExU1hOVTl1b0REMXhtbmFGWktqeTBwMGdiMUpaZw?oc=5",
-          "press": ""
-        },
-        {
-          "title": "[오늘 부동산] 부동산원장 “집값 주간 통계 검증 강화할 것”",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcjFHbktzWUZlVjI0aXR4RS0tNmNWSDRPanQ4clJ6UEJidDlhRV9nMXJvbG0yWDFObjQySHhOSFYxekJwWFVNaVNvWWRHd0pfNjI0RkNtcnZUSzc1V2tkME1ETmJ0SG5sOVlkRng0MXl4YnM4MXlQNGZWWFk5QU5KNTE4NU1zb2pqZFBqTXRoWVNlX0ZydlBxRWg1YUhvQ09pM2Q2OHNkZDU4S0xoalk1LUlyUzJ0VFprbWx3ZHhGLS1YZVpqdEdEVUxLM1FrczBsS3lKdXd1WUI4Z3owUHJSQlQxQjhXTGFKUkpsUjBpSm5XczgyeUl2NzFqNUFFeFMyZ19KYVpvUXFMNVJiZjZkcFNwQmZmMk0?oc=5",
-          "press": ""
-        },
-        {
-          "title": "이헌욱 부동산원장 \"집값 주간 통계 유의미…검증 강화할 것\"",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSkFkTVZuUjBTREpnVFJ0UTNCekZiQUQyY3pkLXNHQ0JKZ0dtSXV5YkloY3FWNXcyNVh2anFCeThfQTM1V1NDWlB0SkduWjhhQUo0Z0FVS1g3STRLZFdNLdIBeEFVX3lxTE9VVDhJNE5SaGh6RHRTbVR4UDI4dkVBZ0VJV0N2aGRiVjIwRnFVekNteWFZbUFmNzhRbHZwejBZV25aR1ZEUnNYLUNfWU9nTHVjeWdSUUVOeXlXbUFjS3QyVlllSGI4TGRFbWg4a1IzR20yNUxUZXdxSA?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "다시 불붙은 ‘주간 집값 통계’ 실효성 논란… 부동산원장 “유의미, 검증 강화” - 조선비즈",
-        "'신뢰성 논란' 주간 집값 통계…공표기간 등 개편안 예고",
-        "[오늘 부동산] 부동산원장 “집값 주간 통계 검증 강화할 것”",
-        "이헌욱 부동산원장 \"집값 주간 통계 유의미…검증 강화할 것\""
-      ],
-      "category": "부동산"
-    },
-    {
-      "rank": 3,
       "keyword": "만에",
       "count": 2,
       "representative_title": "전국 아파트 매수세 5년 만에 우위 전환…경기 남부 집값 상승이 견인",
@@ -643,6 +588,31 @@
       ],
       "related_titles": [
         "전국 아파트 매수세 5년 만에 우위 전환…경기 남부 집값 상승이 견인"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "주간",
+      "count": 2,
+      "representative_title": "[오늘 부동산] 부동산원장 “집값 주간 통계 검증 강화할 것”",
+      "representative_link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcjFHbktzWUZlVjI0aXR4RS0tNmNWSDRPanQ4clJ6UEJidDlhRV9nMXJvbG0yWDFObjQySHhOSFYxekJwWFVNaVNvWWRHd0pfNjI0RkNtcnZUSzc1V2tkME1ETmJ0SG5sOVlkRng0MXl4YnM4MXlQNGZWWFk5QU5KNTE4NU1zb2pqZFBqTXRoWVNlX0ZydlBxRWg1YUhvQ09pM2Q2OHNkZDU4S0xoalk1LUlyUzJ0VFprbWx3ZHhGLS1YZVpqdEdEVUxLM1FrczBsS3lKdXd1WUI4Z3owUHJSQlQxQjhXTGFKUkpsUjBpSm5XczgyeUl2NzFqNUFFeFMyZ19KYVpvUXFMNVJiZjZkcFNwQmZmMk0?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "다시 불붙은 ‘주간 집값 통계’ 실효성 논란… 부동산원장 “유의미, 검증 강화” - 조선비즈",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2p0T2JOYmNiVVV2cHRCc2Z2aGRsVXVjd0lOZmFkT2NEbmdnU0JvaWQycTJLUjktcGx5akZIVE1hZEZkdzZyZmtOS2dabmppeWtxVGp6R1NaLUlTQnpzNjFYRERqYkVWcVpqam1ER21HRXV1Y0d1TXVsTXEzdlF3bG5WOG9JbXIzYmE0SmdDX3NlNzVpS3h2OdIBrAFBVV95cUxQLVVRLTFBV0NsdkRvb04xc05JTVpkaXBBdC1jdnU2WHpGdzVXTEhMQ0NPb05fck5KZGdzY0JJSlJIT0Q1QzlQZUtkUHlJMkw4M0NTYjJHUi0tMXp5Tkg2Nng0ZjRqR0lFajQ1TXJsdnNWNkNGSlgzbE9ZamFLQXNBRm96RUpxOHhwdzBUbU5JSTRfTl91NFJvcksweGZoZDdfcndQN2JaN0VjWG83?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[오늘 부동산] 부동산원장 “집값 주간 통계 검증 강화할 것”",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOcjFHbktzWUZlVjI0aXR4RS0tNmNWSDRPanQ4clJ6UEJidDlhRV9nMXJvbG0yWDFObjQySHhOSFYxekJwWFVNaVNvWWRHd0pfNjI0RkNtcnZUSzc1V2tkME1ETmJ0SG5sOVlkRng0MXl4YnM4MXlQNGZWWFk5QU5KNTE4NU1zb2pqZFBqTXRoWVNlX0ZydlBxRWg1YUhvQ09pM2Q2OHNkZDU4S0xoalk1LUlyUzJ0VFprbWx3ZHhGLS1YZVpqdEdEVUxLM1FrczBsS3lKdXd1WUI4Z3owUHJSQlQxQjhXTGFKUkpsUjBpSm5XczgyeUl2NzFqNUFFeFMyZ19KYVpvUXFMNVJiZjZkcFNwQmZmMk0?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "다시 불붙은 ‘주간 집값 통계’ 실효성 논란… 부동산원장 “유의미, 검증 강화” - 조선비즈",
+        "[오늘 부동산] 부동산원장 “집값 주간 통계 검증 강화할 것”"
       ],
       "category": "부동산"
     },
