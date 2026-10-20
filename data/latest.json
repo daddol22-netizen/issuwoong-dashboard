@@ -1,409 +1,427 @@
 {
   "date": "2026-10-20",
-  "hour": "10",
-  "slot": "2026-10-20_10",
-  "crawled_at": "2026-10-20 10:00:20",
+  "hour": "13",
+  "slot": "2026-10-20_13",
+  "crawled_at": "2026-10-20 13:00:05",
   "total_articles": 402,
   "topics": [
     {
       "rank": 1,
-      "keyword": "논란",
-      "count": 16,
-      "representative_title": "조문 가서 '응급환자 전용' 주차…논란 커지자",
-      "representative_link": "https://n.news.naver.com/article/055/0001396619?ntype=RANKING",
-      "press": "SBS",
+      "keyword": "대통령",
+      "count": 25,
+      "representative_title": "李대통령 “중수청, 네 편 내 편 없이 수사력 총동원해야”",
+      "representative_link": "https://n.news.naver.com/article/666/0000128236?ntype=RANKING",
+      "press": "경기일보",
       "related_articles": [
         {
-          "title": "\"원산지 물었더니 차단\"…유명 개그맨 게장 판매 방송 논란",
-          "link": "https://n.news.naver.com/article/015/0005344287?ntype=RANKING",
-          "press": "한국경제"
+          "title": "이 대통령 \"중요한 건 실제 착공과 입주... 인허가 줄여 주택 공급 전격전\"",
+          "link": "https://n.news.naver.com/article/469/0000960476?ntype=RANKING",
+          "press": "한국일보"
         },
         {
-          "title": "“국산이냐” 물었더니 차단…김수영 게장 ‘원산지 논란’, 결국 해명",
-          "link": "https://n.news.naver.com/article/009/0005750953?ntype=RANKING",
-          "press": "매일경제"
+          "title": "[속보]“품격떨어져” 대통령 SNS활동 62.5%의 답변-여론조사공정",
+          "link": "https://n.news.naver.com/article/021/0002826328?ntype=RANKING",
+          "press": "문화일보"
         },
         {
-          "title": "‘소방이 재정 쭉쭉’ 이번엔 부승찬 발언 논란… 김민석 사과",
-          "link": "https://n.news.naver.com/article/005/0001879701?ntype=RANKING",
-          "press": "국민일보"
+          "title": "[속보] \"인허가부터 착공까지 기간 줄여라\"…이 대통령, 주택 공급 '전격전' 주문",
+          "link": "https://n.news.naver.com/article/654/0000206387?ntype=RANKING",
+          "press": "강원도민일보"
         },
         {
-          "title": "직원 월급 떼먹고 딸 가수 데뷔…'이수만 걸그룹' 빚투 논란",
-          "link": "https://n.news.naver.com/article/437/0000516456?ntype=RANKING",
-          "press": "JTBC"
+          "title": "이 대통령 \"몇 채 짓겠다 발표 아닌 착공이 중요\"…주택공급 속도전 주문",
+          "link": "https://n.news.naver.com/article/057/0001974291?ntype=RANKING",
+          "press": "MBN"
         },
         {
-          "title": "\"원산지 물었는데 채팅 차단?\"…개그맨 김수영 게장 판매 방송 논란",
-          "link": "https://n.news.naver.com/article/014/0005591503?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "[속보] 李대통령 “공급 전격전…인허가·착공 기간 최대한 단축”",
+          "link": "https://n.news.naver.com/article/022/0004168111?ntype=RANKING",
+          "press": "세계일보"
         }
       ],
       "related_titles": [
-        "\"원산지 물었더니 차단\"…유명 개그맨 게장 판매 방송 논란",
-        "“국산이냐” 물었더니 차단…김수영 게장 ‘원산지 논란’, 결국 해명",
-        "‘소방이 재정 쭉쭉’ 이번엔 부승찬 발언 논란… 김민석 사과",
-        "직원 월급 떼먹고 딸 가수 데뷔…'이수만 걸그룹' 빚투 논란",
-        "\"원산지 물었는데 채팅 차단?\"…개그맨 김수영 게장 판매 방송 논란"
+        "이 대통령 \"중요한 건 실제 착공과 입주... 인허가 줄여 주택 공급 전격전\"",
+        "[속보]“품격떨어져” 대통령 SNS활동 62.5%의 답변-여론조사공정",
+        "[속보] \"인허가부터 착공까지 기간 줄여라\"…이 대통령, 주택 공급 '전격전' 주문",
+        "이 대통령 \"몇 채 짓겠다 발표 아닌 착공이 중요\"…주택공급 속도전 주문",
+        "[속보] 李대통령 “공급 전격전…인허가·착공 기간 최대한 단축”"
       ],
-      "category": "연예/문화"
+      "category": "정치"
     },
     {
       "rank": 2,
-      "keyword": "김성우",
-      "count": 15,
-      "representative_title": "장모 살해하고 아내 납치한 26세 김성우 신상공개",
-      "representative_link": "https://n.news.naver.com/article/053/0000062404?ntype=RANKING",
-      "press": "주간조선",
+      "keyword": "송치",
+      "count": 21,
+      "representative_title": "개그맨 이혁재, 음주운전 혐의로 공소청 송치",
+      "representative_link": "https://n.news.naver.com/article/018/0006392091?ntype=RANKING",
+      "press": "이데일리",
       "related_articles": [
         {
-          "title": "'장모 살해·아내 납치' 피의자 \"26살 김성우\" 신상공개",
-          "link": "https://n.news.naver.com/article/214/0001530034?ntype=RANKING",
+          "title": "음주 운전하다 오토바이 추돌…개그맨 이혁재 불구속 송치",
+          "link": "https://n.news.naver.com/article/020/0003756219?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "개그맨 이혁재, 음주운전하다 오토바이 충돌…공소청 송치",
+          "link": "https://n.news.naver.com/article/025/0003559116?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "\"휴대폰 줍다가\" 주장...이혁재, 음주운전 사고 공소청 송치",
+          "link": "https://n.news.naver.com/article/008/0005428888?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "'음주운전' 이혁재 송치‥교통사고 냈다가 '덜미'",
+          "link": "https://n.news.naver.com/article/214/0001530155?ntype=RANKING",
           "press": "MBC"
         },
         {
-          "title": "경찰, ‘장모살인·아내납치’ 김성우 송치…18회나 스토킹했다",
-          "link": "https://n.news.naver.com/article/005/0001879699?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "경찰, '송파 장모살인·아내납치' 26세 김성우 공소청 송치",
-          "link": "https://n.news.naver.com/article/001/0016387137?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "50대 장모 흉기로 찔러 숨지게 하고 아내 차량에 태워 납치한 피의자 26세 김성우 신상정보 공개",
-          "link": "https://n.news.naver.com/article/087/0001224774?ntype=RANKING",
-          "press": "강원일보"
-        },
-        {
-          "title": "장모 살해하고 아내 납치한 26세 김성우 신상공개",
-          "link": "https://n.news.naver.com/article/053/0000062404?ntype=RANKING",
-          "press": "주간조선"
+          "title": "개그맨 이혁재, 음주운전 혐의로 공소청 송치",
+          "link": "https://n.news.naver.com/article/018/0006392091?ntype=RANKING",
+          "press": "이데일리"
         }
       ],
       "related_titles": [
-        "'장모 살해·아내 납치' 피의자 \"26살 김성우\" 신상공개",
-        "경찰, ‘장모살인·아내납치’ 김성우 송치…18회나 스토킹했다",
-        "경찰, '송파 장모살인·아내납치' 26세 김성우 공소청 송치",
-        "50대 장모 흉기로 찔러 숨지게 하고 아내 차량에 태워 납치한 피의자 26세 김성우 신상정보 공개",
-        "장모 살해하고 아내 납치한 26세 김성우 신상공개"
+        "음주 운전하다 오토바이 추돌…개그맨 이혁재 불구속 송치",
+        "개그맨 이혁재, 음주운전하다 오토바이 충돌…공소청 송치",
+        "\"휴대폰 줍다가\" 주장...이혁재, 음주운전 사고 공소청 송치",
+        "'음주운전' 이혁재 송치‥교통사고 냈다가 '덜미'",
+        "개그맨 이혁재, 음주운전 혐의로 공소청 송치"
       ],
       "category": "사건/사고"
     },
     {
       "rank": 3,
-      "keyword": "추미애",
-      "count": 14,
-      "representative_title": "추미애 또 사과했지만‥부승찬 '소방 빨대' 재소환",
-      "representative_link": "https://n.news.naver.com/article/214/0001530086?ntype=RANKING",
-      "press": "MBC",
+      "keyword": "만원",
+      "count": 16,
+      "representative_title": "\"초등생 딸이 BJ에 200만원 후원\"…환불요구했더니",
+      "representative_link": "https://n.news.naver.com/article/422/0000917363?ntype=RANKING",
+      "press": "연합뉴스TV",
       "related_articles": [
         {
-          "title": "추미애 또 사과했지만‥부승찬 '소방 빨대' 재소환",
-          "link": "https://n.news.naver.com/article/214/0001530086?ntype=RANKING",
-          "press": "MBC"
+          "title": "주가 19% 빠졌는데…\"내년 영업익 555조원, 목표가 60만원\" 전망 이유 [주식R]",
+          "link": "https://n.news.naver.com/article/215/0001269781?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "순직 소방관 딸 끌어안은 추미애…'그 발언' 묻자 \"나중에\"",
-          "link": "https://n.news.naver.com/article/437/0000516449?ntype=RANKING",
+          "title": "축의금 10만원 냈더니…“식대 11만원인데 장난하냐” 연락한 친구",
+          "link": "https://n.news.naver.com/article/020/0003756210?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "조주빈 5년간 추징금 26만원 납부…시급 7500만원 황제노역 사례도",
+          "link": "https://n.news.naver.com/article/437/0000516542?ntype=RANKING",
           "press": "JTBC"
         },
         {
-          "title": "추미애 “경기도에 공항 없는건 말 안돼” 화성, 평택, 이천 예비 후보지",
-          "link": "https://n.news.naver.com/article/021/0002826264?ntype=RANKING",
-          "press": "문화일보"
+          "title": "조주빈 5년간 추징금 26만원 납부…시급 7500만원 황제노역 사례도",
+          "link": "https://n.news.naver.com/article/437/0000516542?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "김민석, 추미애·부승찬 논란에 “저 포함 당에 어려운 일 많이 생겨…말과 행동 무겁게 해야”",
-          "link": "https://n.news.naver.com/article/032/0003477325?ntype=RANKING",
-          "press": "경향신문"
-        },
-        {
-          "title": "'소방 재정 빨대' 추미애, 국정감사서 재차 사과",
-          "link": "https://n.news.naver.com/article/655/0000033220?ntype=RANKING",
-          "press": "CJB청주방송"
+          "title": "“갤럭시S27 울트라, 200만원 시대 여나…시작가 1499달러 전망”",
+          "link": "https://n.news.naver.com/article/030/0003476690?ntype=RANKING",
+          "press": "전자신문"
         }
       ],
       "related_titles": [
-        "추미애 또 사과했지만‥부승찬 '소방 빨대' 재소환",
-        "순직 소방관 딸 끌어안은 추미애…'그 발언' 묻자 \"나중에\"",
-        "추미애 “경기도에 공항 없는건 말 안돼” 화성, 평택, 이천 예비 후보지",
-        "김민석, 추미애·부승찬 논란에 “저 포함 당에 어려운 일 많이 생겨…말과 행동 무겁게 해야”",
-        "'소방 재정 빨대' 추미애, 국정감사서 재차 사과"
+        "주가 19% 빠졌는데…\"내년 영업익 555조원, 목표가 60만원\" 전망 이유 [주식R]",
+        "축의금 10만원 냈더니…“식대 11만원인데 장난하냐” 연락한 친구",
+        "조주빈 5년간 추징금 26만원 납부…시급 7500만원 황제노역 사례도",
+        "조주빈 5년간 추징금 26만원 납부…시급 7500만원 황제노역 사례도",
+        "“갤럭시S27 울트라, 200만원 시대 여나…시작가 1499달러 전망”"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 4,
+      "keyword": "추미애",
+      "count": 14,
+      "representative_title": "정점식 \"추미애·부승찬 가장 높은 징계로 망언 없애야\"",
+      "representative_link": "https://n.news.naver.com/article/655/0000033233?ntype=RANKING",
+      "press": "CJB청주방송",
+      "related_articles": [
+        {
+          "title": "추미애 \"경기도에 공항 없다는 건 말 안 돼\"…\"대선 노린 치적 쌓기\" 지적",
+          "link": "https://n.news.naver.com/article/437/0000516552?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "추미애 '소방 재정 빨대' 이어 부승찬 '재정 쭉쭉 빨아먹어'…김민석 \"국민께 죄송\"",
+          "link": "https://n.news.naver.com/article/660/0000119522?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "한겨레 \"추미애, 마지못해 사과해 논란 자초… 처신 가다듬길\"",
+          "link": "https://n.news.naver.com/article/006/0000138298?ntype=RANKING",
+          "press": "미디어오늘"
+        },
+        {
+          "title": "\"추·석 남매 손잡고 삼보일배해도 모자랄 판\"…野, 추미애·김민석 싸잡아 비판",
+          "link": "https://n.news.naver.com/article/119/0003144606?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "진종오의 저격 “눈물삼킨 소방관…‘재정 빨대’ 추미애, ‘쭉쭉 빨아’ 부승찬 사과하라”",
+          "link": "https://n.news.naver.com/article/029/0003054040?ntype=RANKING",
+          "press": "디지털타임스"
+        }
+      ],
+      "related_titles": [
+        "추미애 \"경기도에 공항 없다는 건 말 안 돼\"…\"대선 노린 치적 쌓기\" 지적",
+        "추미애 '소방 재정 빨대' 이어 부승찬 '재정 쭉쭉 빨아먹어'…김민석 \"국민께 죄송\"",
+        "한겨레 \"추미애, 마지못해 사과해 논란 자초… 처신 가다듬길\"",
+        "\"추·석 남매 손잡고 삼보일배해도 모자랄 판\"…野, 추미애·김민석 싸잡아 비판",
+        "진종오의 저격 “눈물삼킨 소방관…‘재정 빨대’ 추미애, ‘쭉쭉 빨아’ 부승찬 사과하라”"
       ],
       "category": "사회/일반"
     },
     {
-      "rank": 4,
-      "keyword": "김민석",
-      "count": 12,
-      "representative_title": "김민석, 부승찬 논란에 사과…\"모두가 말과 행동 무겁게 해야\"",
-      "representative_link": "https://n.news.naver.com/article/001/0016387163?ntype=RANKING",
-      "press": "연합뉴스",
+      "rank": 5,
+      "keyword": "대표",
+      "count": 13,
+      "representative_title": "아리셀 대표 징역 15→4년 감형 확정…유족 울분",
+      "representative_link": "https://n.news.naver.com/article/005/0001879722?ntype=RANKING",
+      "press": "국민일보",
       "related_articles": [
         {
-          "title": "[속보]김민석, 부승찬 ‘소방이 재정 쭉쭉’ 발언 사과 “말과 행동 무거워야”",
-          "link": "https://n.news.naver.com/article/021/0002826282?ntype=RANKING",
+          "title": "[속보] 23명 숨진 '아리셀 참사' 대표, 징역 15년 → 4년 확정",
+          "link": "https://n.news.naver.com/article/469/0000960467?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "법카로 빵집서 하루 8백·와인바 2천 긁은 강원랜드 직원들…대표 “전수조사”",
+          "link": "https://n.news.naver.com/article/021/0002826211?ntype=RANKING",
           "press": "문화일보"
         },
         {
-          "title": "[속보] 김민석, 부승찬 논란에 사과…\"모두가 말과 행동 무겁게 해야\"",
-          "link": "https://n.news.naver.com/article/215/0001269751?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "23명 숨진 '아리셀 참사' 박순관 대표 징역 4년 확정",
+          "link": "https://n.news.naver.com/article/214/0001530149?ntype=RANKING",
+          "press": "MBC"
         },
         {
-          "title": "공연 도중 갑자기 무대에 올라 인사한 김민석, \"가수·관객께 죄송\"",
-          "link": "https://n.news.naver.com/article/655/0000033208?ntype=RANKING",
-          "press": "CJB청주방송"
+          "title": "“벨트 수없이 풀었다”…‘허리띠 폭행’ 화장품사 대표, 폭로 줄줄이",
+          "link": "https://n.news.naver.com/article/018/0006391997?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "김민석, 부승찬 논란에 사과…\"모두가 말과 행동 무겁게 해야\"",
-          "link": "https://n.news.naver.com/article/001/0016387163?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "나경원 “'갑질 전용기'로 제주공항 무더기 결항시킨 李대통령, 가수 마이크 빼앗고 소방관 새벽잠과 응급환자 주차 자리 뺏은 김민석&#8943;반드시 민심의 심판 받을 것”",
-          "link": "https://n.news.naver.com/article/087/0001224739?ntype=RANKING",
-          "press": "강원일보"
+          "title": "아리셀 대표 징역 15→4년 감형 확정…유족 울분",
+          "link": "https://n.news.naver.com/article/005/0001879722?ntype=RANKING",
+          "press": "국민일보"
         }
       ],
       "related_titles": [
-        "[속보]김민석, 부승찬 ‘소방이 재정 쭉쭉’ 발언 사과 “말과 행동 무거워야”",
-        "[속보] 김민석, 부승찬 논란에 사과…\"모두가 말과 행동 무겁게 해야\"",
-        "공연 도중 갑자기 무대에 올라 인사한 김민석, \"가수·관객께 죄송\"",
-        "김민석, 부승찬 논란에 사과…\"모두가 말과 행동 무겁게 해야\"",
-        "나경원 “'갑질 전용기'로 제주공항 무더기 결항시킨 李대통령, 가수 마이크 빼앗고 소방관 새벽잠과 응급환자 주차 자리 뺏은 김민석&#8943;반드시 민심의 심판 받을 것”"
+        "[속보] 23명 숨진 '아리셀 참사' 대표, 징역 15년 → 4년 확정",
+        "법카로 빵집서 하루 8백·와인바 2천 긁은 강원랜드 직원들…대표 “전수조사”",
+        "23명 숨진 '아리셀 참사' 박순관 대표 징역 4년 확정",
+        "“벨트 수없이 풀었다”…‘허리띠 폭행’ 화장품사 대표, 폭로 줄줄이",
+        "아리셀 대표 징역 15→4년 감형 확정…유족 울분"
       ],
-      "category": "정치"
-    },
-    {
-      "rank": 5,
-      "keyword": "송치",
-      "count": 11,
-      "representative_title": "동료 대신 '야근 인증'.. 군산대 직원 79명 무더기 송치",
-      "representative_link": "https://n.news.naver.com/article/659/0000047905?ntype=RANKING",
-      "press": "전주MBC",
-      "related_articles": [
-        {
-          "title": "국회 어린이집서 아이를 바닥에 내동댕이…교사 2명-원장 아동학대 송치",
-          "link": "https://n.news.naver.com/article/020/0003756028?ntype=RANKING",
-          "press": "동아일보"
-        },
-        {
-          "title": "동료 대신 '야근 인증'.. 군산대 직원 79명 무더기 송치",
-          "link": "https://n.news.naver.com/article/659/0000047905?ntype=RANKING",
-          "press": "전주MBC"
-        }
-      ],
-      "related_titles": [
-        "국회 어린이집서 아이를 바닥에 내동댕이…교사 2명-원장 아동학대 송치",
-        "동료 대신 '야근 인증'.. 군산대 직원 79명 무더기 송치"
-      ],
-      "category": "정치"
+      "category": "사회/일반"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "주식",
-      "count": 6,
-      "representative_title": "빚내서 주식 샀다가 강제청산…개미들 ‘피눈물’",
-      "representative_link": "https://n.news.naver.com/article/024/0000109014?ntype=RANKING",
-      "press": "매경이코노미",
+      "keyword": "코스피",
+      "count": 7,
+      "representative_title": "코스피 하락 출발...SK하이닉스 장중 5% 급락",
+      "representative_link": "https://n.news.naver.com/article/052/0002421008?ntype=RANKING",
+      "press": "YTN",
       "related_articles": [
         {
-          "title": "이 대통령 \"주식 많이 오르면 조정 불가피‥한국 시장 매우 저평가\"",
-          "link": "https://n.news.naver.com/article/214/0001530008?ntype=RANKING",
-          "press": "MBC"
+          "title": "“美 반도체주 반등에도 코스피 급락”…외국인·기관 매도에 5600선 턱걸이",
+          "link": "https://n.news.naver.com/article/138/0002245267?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "머스크 \"미국 모든 어린이에게 스페이스X 주식 1주씩 지급\"",
-          "link": "https://n.news.naver.com/article/654/0000206364?ntype=RANKING",
-          "press": "강원도민일보"
+          "title": "\"코스피 4800까지 추락할 수도\"…바닥 신호 안보인다는 증권사, 반등 타이밍은?",
+          "link": "https://n.news.naver.com/article/014/0005591516?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
-          "title": "李대통령 \"주식 많이 오르면 조정 불가피…韓 저평가된 것은 사실\"",
-          "link": "https://n.news.naver.com/article/088/0001035334?ntype=RANKING",
-          "press": "매일신문"
+          "title": "코스피 하락 출발...SK하이닉스 장중 5% 급락",
+          "link": "https://n.news.naver.com/article/052/0002421008?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "머스크 “미국 모든 어린이에게 스페이스X 주식 1주씩”…14조원 넘어",
-          "link": "https://n.news.naver.com/article/666/0000128208?ntype=RANKING",
-          "press": "경기일보"
+          "title": "[고장난 증시] 빚으로 쌓은 탑, 빚으로 무너지다… 개미 무덤 된 코스피",
+          "link": "https://n.news.naver.com/article/366/0001199064?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "빚내서 주식 샀다가 강제청산…개미들 ‘피눈물’",
-          "link": "https://n.news.naver.com/article/024/0000109014?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "200일새 산 사람 다 물렸다…\"본전 오면 팔자\" 코스피 반등 발목",
+          "link": "https://n.news.naver.com/article/008/0005428862?ntype=RANKING",
+          "press": "머니투데이"
         }
       ],
       "related_titles": [
-        "이 대통령 \"주식 많이 오르면 조정 불가피‥한국 시장 매우 저평가\"",
-        "머스크 \"미국 모든 어린이에게 스페이스X 주식 1주씩 지급\"",
-        "李대통령 \"주식 많이 오르면 조정 불가피…韓 저평가된 것은 사실\"",
-        "머스크 “미국 모든 어린이에게 스페이스X 주식 1주씩”…14조원 넘어",
-        "빚내서 주식 샀다가 강제청산…개미들 ‘피눈물’"
+        "“美 반도체주 반등에도 코스피 급락”…외국인·기관 매도에 5600선 턱걸이",
+        "\"코스피 4800까지 추락할 수도\"…바닥 신호 안보인다는 증권사, 반등 타이밍은?",
+        "코스피 하락 출발...SK하이닉스 장중 5% 급락",
+        "[고장난 증시] 빚으로 쌓은 탑, 빚으로 무너지다… 개미 무덤 된 코스피",
+        "200일새 산 사람 다 물렸다…\"본전 오면 팔자\" 코스피 반등 발목"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "투자",
+      "keyword": "급락",
       "count": 4,
-      "representative_title": "“코스피 바닥 찍었다?…삼성전자 3년 버텨라” [투자360]",
-      "representative_link": "https://n.news.naver.com/article/016/0002711494?ntype=RANKING",
-      "press": "헤럴드경제",
+      "representative_title": "엘리스그룹, 상장 첫날 28% 급락… 청약 흥행에도 공모가 하회",
+      "representative_link": "https://n.news.naver.com/article/138/0002245271?ntype=RANKING",
+      "press": "디지털데일리",
       "related_articles": [
         {
-          "title": "중국이 한국 D램 따라잡는다더니… 한계 왔나? 둔화 쇼크 맞은 CXMT [반도체 투자 리포트]",
-          "link": "https://n.news.naver.com/article/022/0004168051?ntype=RANKING",
-          "press": "세계일보"
+          "title": "엘리스그룹, 상장 첫날 28% 급락… 청약 흥행에도 공모가 하회",
+          "link": "https://n.news.naver.com/article/138/0002245271?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "기업은 투자 줄이고, 근로자는 일 덜하고… “나라 유지 되겠나”",
-          "link": "https://n.news.naver.com/article/023/0004004786?ntype=RANKING",
-          "press": "조선일보"
+          "title": "SK하이닉스, 6개월 만에 장중 120만원 붕괴…6%대 급락(상보)",
+          "link": "https://n.news.naver.com/article/421/0009237960?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "“코스피 바닥 찍었다?…삼성전자 3년 버텨라” [투자360]",
-          "link": "https://n.news.naver.com/article/016/0002711494?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "SK하이닉스, 6개월 만에 장중 120만원 붕괴…6%대 급락(상보)",
+          "link": "https://n.news.naver.com/article/421/0009237960?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "“코스피 바닥 찍었다?…삼성전자 3년 버텨라” [투자360]",
-          "link": "https://n.news.naver.com/article/016/0002711494?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "엘리스그룹, 상장 첫날 28% 급락… 청약 흥행에도 공모가 하회",
+          "link": "https://n.news.naver.com/article/138/0002245271?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "기업은 투자 줄이고, 근로자는 일 덜하고… “나라 유지 되겠나”",
-          "link": "https://n.news.naver.com/article/023/0004004786?ntype=RANKING",
-          "press": "조선일보"
+          "title": "SK하이닉스, 6개월 만에 장중 120만원 붕괴…6%대 급락(상보)",
+          "link": "https://n.news.naver.com/article/421/0009237960?ntype=RANKING",
+          "press": "뉴스1"
         }
       ],
       "related_titles": [
-        "중국이 한국 D램 따라잡는다더니… 한계 왔나? 둔화 쇼크 맞은 CXMT [반도체 투자 리포트]",
-        "기업은 투자 줄이고, 근로자는 일 덜하고… “나라 유지 되겠나”",
-        "“코스피 바닥 찍었다?…삼성전자 3년 버텨라” [투자360]",
-        "“코스피 바닥 찍었다?…삼성전자 3년 버텨라” [투자360]",
-        "기업은 투자 줄이고, 근로자는 일 덜하고… “나라 유지 되겠나”"
+        "엘리스그룹, 상장 첫날 28% 급락… 청약 흥행에도 공모가 하회",
+        "SK하이닉스, 6개월 만에 장중 120만원 붕괴…6%대 급락(상보)",
+        "SK하이닉스, 6개월 만에 장중 120만원 붕괴…6%대 급락(상보)",
+        "엘리스그룹, 상장 첫날 28% 급락… 청약 흥행에도 공모가 하회",
+        "SK하이닉스, 6개월 만에 장중 120만원 붕괴…6%대 급락(상보)"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "나스닥",
+      "keyword": "주가",
       "count": 4,
-      "representative_title": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.11%↑",
-      "representative_link": "https://n.news.naver.com/article/629/0000543515?ntype=RANKING",
-      "press": "더팩트",
+      "representative_title": "삼성전자 주가 하락…증여세 부담 덜까 [재계톡톡]",
+      "representative_link": "https://n.news.naver.com/article/024/0000109030?ntype=RANKING",
+      "press": "매경이코노미",
       "related_articles": [
         {
-          "title": "SK하이닉스 ADR 4.67% 급등… 나스닥 종합지수1.11%↑",
-          "link": "https://n.news.naver.com/article/005/0001879688?ntype=RANKING",
-          "press": "국민일보"
+          "title": "주가 19% 빠졌는데…\"내년 영업익 555조원, 목표가 60만원\" 전망 이유 [주식R]",
+          "link": "https://n.news.naver.com/article/215/0001269781?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "나스닥 1.1% 반등…엔비디아·메모리주 회복, 코어위브는 약세",
-          "link": "https://n.news.naver.com/article/138/0002245244?ntype=RANKING",
-          "press": "디지털데일리"
+          "title": "삼성전자 주가 19% 떨어졌는데…KB증권 “내년 이익성장 이미 확보”",
+          "link": "https://n.news.naver.com/article/009/0005750986?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.11%↑",
-          "link": "https://n.news.naver.com/article/629/0000543515?ntype=RANKING",
-          "press": "더팩트"
+          "title": "삼성전자 주가 하락…증여세 부담 덜까 [재계톡톡]",
+          "link": "https://n.news.naver.com/article/024/0000109030?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
-          "title": "뉴욕증시, 반도체·AI주 반등 속 혼조 마감...나스닥 1.11%↑",
-          "link": "https://n.news.naver.com/article/123/0002392169?ntype=RANKING",
-          "press": "조세일보"
+          "title": "“TSMC보다 주가 밀려도” 삼성전자 회심의 카드",
+          "link": "https://n.news.naver.com/article/050/0000112144?ntype=RANKING",
+          "press": "한경비즈니스"
         },
         {
-          "title": "SK하이닉스 ADR 4.67% 급등… 나스닥 종합지수1.11%↑",
-          "link": "https://n.news.naver.com/article/005/0001879688?ntype=RANKING",
-          "press": "국민일보"
+          "title": "주가 19% 빠졌는데…\"내년 영업익 555조원, 목표가 60만원\" 전망 이유 [주식R]",
+          "link": "https://n.news.naver.com/article/215/0001269781?ntype=RANKING",
+          "press": "한국경제TV"
         }
       ],
       "related_titles": [
-        "SK하이닉스 ADR 4.67% 급등… 나스닥 종합지수1.11%↑",
-        "나스닥 1.1% 반등…엔비디아·메모리주 회복, 코어위브는 약세",
-        "뉴욕증시, AI주 저가 매수에 혼조 마감…나스닥 1.11%↑",
-        "뉴욕증시, 반도체·AI주 반등 속 혼조 마감...나스닥 1.11%↑",
-        "SK하이닉스 ADR 4.67% 급등… 나스닥 종합지수1.11%↑"
+        "주가 19% 빠졌는데…\"내년 영업익 555조원, 목표가 60만원\" 전망 이유 [주식R]",
+        "삼성전자 주가 19% 떨어졌는데…KB증권 “내년 이익성장 이미 확보”",
+        "삼성전자 주가 하락…증여세 부담 덜까 [재계톡톡]",
+        "“TSMC보다 주가 밀려도” 삼성전자 회심의 카드",
+        "주가 19% 빠졌는데…\"내년 영업익 555조원, 목표가 60만원\" 전망 이유 [주식R]"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "반등",
+      "keyword": "삼성전자",
       "count": 4,
-      "representative_title": "\"코스피 4800까지 추락할 수도\"…바닥 신호 안보인다는 증권사, 반등 타이밍은?",
-      "representative_link": "https://n.news.naver.com/article/014/0005591516?ntype=RANKING",
-      "press": "파이낸셜뉴스",
+      "representative_title": "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'",
+      "representative_link": "https://n.news.naver.com/article/243/0000104451?ntype=RANKING",
+      "press": "이코노미스트",
       "related_articles": [
         {
-          "title": "\"코스피 4800까지 추락할 수도\"…바닥 신호 안보인다는 증권사, 반등 타이밍은?",
-          "link": "https://n.news.naver.com/article/014/0005591516?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'",
+          "link": "https://n.news.naver.com/article/243/0000104451?ntype=RANKING",
+          "press": "이코노미스트"
         },
         {
-          "title": "'급락 뒤 급등' 베팅하는 개미들…7월 폭락과 다른데 'V자 반등' 학습 효과가 빚투 자극",
-          "link": "https://n.news.naver.com/article/030/0003476529?ntype=RANKING",
-          "press": "전자신문"
+          "title": "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'",
+          "link": "https://n.news.naver.com/article/243/0000104451?ntype=RANKING",
+          "press": "이코노미스트"
         },
         {
-          "title": "\"코스피 4800까지 추락할 수도\"…바닥 신호 안보인다는 증권사, 반등 타이밍은?",
-          "link": "https://n.news.naver.com/article/014/0005591516?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        },
-        {
-          "title": "'급락 뒤 급등' 베팅하는 개미들…7월 폭락과 다른데 'V자 반등' 학습 효과가 빚투 자극",
-          "link": "https://n.news.naver.com/article/030/0003476529?ntype=RANKING",
-          "press": "전자신문"
-        },
-        {
-          "title": "\"코스피 4800까지 추락할 수도\"…바닥 신호 안보인다는 증권사, 반등 타이밍은?",
-          "link": "https://n.news.naver.com/article/014/0005591516?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'",
+          "link": "https://n.news.naver.com/article/243/0000104451?ntype=RANKING",
+          "press": "이코노미스트"
         }
       ],
       "related_titles": [
-        "\"코스피 4800까지 추락할 수도\"…바닥 신호 안보인다는 증권사, 반등 타이밍은?",
-        "'급락 뒤 급등' 베팅하는 개미들…7월 폭락과 다른데 'V자 반등' 학습 효과가 빚투 자극",
-        "\"코스피 4800까지 추락할 수도\"…바닥 신호 안보인다는 증권사, 반등 타이밍은?",
-        "'급락 뒤 급등' 베팅하는 개미들…7월 폭락과 다른데 'V자 반등' 학습 효과가 빚투 자극",
-        "\"코스피 4800까지 추락할 수도\"…바닥 신호 안보인다는 증권사, 반등 타이밍은?"
+        "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'",
+        "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'",
+        "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "반도체",
+      "keyword": "상장",
       "count": 3,
-      "representative_title": "\"반도체 줄이고 이 종목 늘렸다\"…국민연금의 달라진 선택",
-      "representative_link": "https://n.news.naver.com/article/215/0001269733?ntype=RANKING",
-      "press": "한국경제TV",
+      "representative_title": "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭",
+      "representative_link": "https://n.news.naver.com/article/018/0006392017?ntype=RANKING",
+      "press": "이데일리",
       "related_articles": [
         {
-          "title": "\"반도체 줄이고 이 종목 늘렸다\"…국민연금의 달라진 선택",
-          "link": "https://n.news.naver.com/article/215/0001269733?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭",
+          "link": "https://n.news.naver.com/article/018/0006392017?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "\"반도체 줄이고 이 종목 늘렸다\"…국민연금의 달라진 선택",
-          "link": "https://n.news.naver.com/article/215/0001269733?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "'청약증거금 10조' 엘리스, 상장 첫날 30% 폭락…IPO 흥행 무색",
+          "link": "https://n.news.naver.com/article/629/0000543557?ntype=RANKING",
+          "press": "더팩트"
         },
         {
-          "title": "\"반도체 줄이고 이 종목 늘렸다\"…국민연금의 달라진 선택",
-          "link": "https://n.news.naver.com/article/215/0001269733?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭",
+          "link": "https://n.news.naver.com/article/018/0006392017?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "'청약증거금 10조' 엘리스, 상장 첫날 30% 폭락…IPO 흥행 무색",
+          "link": "https://n.news.naver.com/article/629/0000543557?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭",
+          "link": "https://n.news.naver.com/article/018/0006392017?ntype=RANKING",
+          "press": "이데일리"
         }
       ],
       "related_titles": [
-        "\"반도체 줄이고 이 종목 늘렸다\"…국민연금의 달라진 선택",
-        "\"반도체 줄이고 이 종목 늘렸다\"…국민연금의 달라진 선택",
-        "\"반도체 줄이고 이 종목 늘렸다\"…국민연금의 달라진 선택"
+        "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭",
+        "'청약증거금 10조' 엘리스, 상장 첫날 30% 폭락…IPO 흥행 무색",
+        "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭",
+        "'청약증거금 10조' 엘리스, 상장 첫날 30% 폭락…IPO 흥행 무색",
+        "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭"
       ],
       "category": "주식/코인"
     }
@@ -413,7 +431,7 @@
       "rank": 1,
       "keyword": "정권",
       "series_title": "정권의 몰락",
-      "count": 35,
+      "count": 31,
       "representative_title": "홍준표 “조희대 탄핵은 정권 몰락의 길”",
       "representative_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMDBjRUlibHM1cjAxTTlMdWNzMUdWSTJ4NVR0UEotbGtudGN3ek1CWDhtNTNwZ3ZfSlo5d0VydGNwZzh2bGpkWHlYLVBJWXpG?oc=5",
       "press": "",
@@ -544,6 +562,11 @@
       "press": "",
       "related_articles": [
         {
+          "title": "서울 집값 오르자 6억 미만 아파트로 몰린 실수요…거래 비중 5%p 상승",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwTVBpNFNfUzBRaVdKUGlnelhrVUI2c1BER1hMUEJxODVaaVJHMU1adGszN1pmZTRKVVlncTh5U1hwTGFiSmZTSENYNzU5MzVETjZWRGR5YjMyZ2lNc0ZpSWlFN2ZlV0ZPNnRJ?oc=5",
+          "press": ""
+        },
+        {
           "title": "부동산시장 전망…서울 집값 상승 확산, 월세 51%가 변수",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ScEdXYWFpQlY4ekFCVDdXeW9CMzl4N0ExbTFTQmZUeWpBYk9MY3dxQ0RrQllPb0N1Tm9xVWZ1Vm5HTUJETlptZ3M2MTBiMHlQeDRJVjYtQkxBZy1Fcm9jel9GNGlpem5wRnoyWnJGdkY1dw?oc=5",
           "press": ""
@@ -562,19 +585,14 @@
           "title": "서울 경매 44% 급증에도 집값 상승…부동산 시장의 두 얼굴",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VYVB4cHFVSi1HWE1EbVJDZlhsWmhPTnYxVlpGZTAwTFB5cEVvT3VyOFJYS0lIY1VkUDlac3lodlFUSWFmVk5XMHlhX0x2WWU2UXRmOE83dWU1dDQ3RnZKZjdTaUc0WTFNNFc4ZtIBcEFVX3lxTE9COTZ2c0RyVWs2NnYtUHdPM2N6RDFFNkp6MzJ2aE94QzcxWW1xTUxvZ2UzeEV5M0J3UFZqcjBFRTVsYkxhX0I5RWNxUkN0VTUtR0FXZzkycWlXRWNtTjBlYVF5R1NyOHpiX253RjU0V1Y?oc=5",
           "press": ""
-        },
-        {
-          "title": "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qUHFoZ3hRSXI1Y1Y4SHd4Rl9yVkZWWDhIUmlrZkFWbnp0eGVOc0dTaU42QUdTaVpsZHFGX29BVFE5b215ZmpOWUZUV2dpRkV0cVhBUHNwRDhRV0poOXplYjJVbG5Gd1dxUlRmVU4wcC0?oc=5",
-          "press": ""
         }
       ],
       "related_titles": [
+        "서울 집값 오르자 6억 미만 아파트로 몰린 실수요…거래 비중 5%p 상승",
         "부동산시장 전망…서울 집값 상승 확산, 월세 51%가 변수",
         "‘부동산 성적표’ 45점…“향후 1년 서울 집값 오를 것” 94%",
         "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
-        "서울 경매 44% 급증에도 집값 상승…부동산 시장의 두 얼굴",
-        "강북 오르고 강남 떨어지고…서울 아파트값 상승 속 엇갈린 집값"
+        "서울 경매 44% 급증에도 집값 상승…부동산 시장의 두 얼굴"
       ],
       "category": "부동산"
     },

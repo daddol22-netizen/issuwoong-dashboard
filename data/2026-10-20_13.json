@@ -1,0 +1,682 @@
+{
+  "date": "2026-10-20",
+  "hour": "13",
+  "slot": "2026-10-20_13",
+  "crawled_at": "2026-10-20 13:00:05",
+  "total_articles": 402,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "대통령",
+      "count": 25,
+      "representative_title": "李대통령 “중수청, 네 편 내 편 없이 수사력 총동원해야”",
+      "representative_link": "https://n.news.naver.com/article/666/0000128236?ntype=RANKING",
+      "press": "경기일보",
+      "related_articles": [
+        {
+          "title": "이 대통령 \"중요한 건 실제 착공과 입주... 인허가 줄여 주택 공급 전격전\"",
+          "link": "https://n.news.naver.com/article/469/0000960476?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "[속보]“품격떨어져” 대통령 SNS활동 62.5%의 답변-여론조사공정",
+          "link": "https://n.news.naver.com/article/021/0002826328?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "[속보] \"인허가부터 착공까지 기간 줄여라\"…이 대통령, 주택 공급 '전격전' 주문",
+          "link": "https://n.news.naver.com/article/654/0000206387?ntype=RANKING",
+          "press": "강원도민일보"
+        },
+        {
+          "title": "이 대통령 \"몇 채 짓겠다 발표 아닌 착공이 중요\"…주택공급 속도전 주문",
+          "link": "https://n.news.naver.com/article/057/0001974291?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "[속보] 李대통령 “공급 전격전…인허가·착공 기간 최대한 단축”",
+          "link": "https://n.news.naver.com/article/022/0004168111?ntype=RANKING",
+          "press": "세계일보"
+        }
+      ],
+      "related_titles": [
+        "이 대통령 \"중요한 건 실제 착공과 입주... 인허가 줄여 주택 공급 전격전\"",
+        "[속보]“품격떨어져” 대통령 SNS활동 62.5%의 답변-여론조사공정",
+        "[속보] \"인허가부터 착공까지 기간 줄여라\"…이 대통령, 주택 공급 '전격전' 주문",
+        "이 대통령 \"몇 채 짓겠다 발표 아닌 착공이 중요\"…주택공급 속도전 주문",
+        "[속보] 李대통령 “공급 전격전…인허가·착공 기간 최대한 단축”"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 2,
+      "keyword": "송치",
+      "count": 21,
+      "representative_title": "개그맨 이혁재, 음주운전 혐의로 공소청 송치",
+      "representative_link": "https://n.news.naver.com/article/018/0006392091?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "음주 운전하다 오토바이 추돌…개그맨 이혁재 불구속 송치",
+          "link": "https://n.news.naver.com/article/020/0003756219?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "개그맨 이혁재, 음주운전하다 오토바이 충돌…공소청 송치",
+          "link": "https://n.news.naver.com/article/025/0003559116?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "\"휴대폰 줍다가\" 주장...이혁재, 음주운전 사고 공소청 송치",
+          "link": "https://n.news.naver.com/article/008/0005428888?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "'음주운전' 이혁재 송치‥교통사고 냈다가 '덜미'",
+          "link": "https://n.news.naver.com/article/214/0001530155?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "개그맨 이혁재, 음주운전 혐의로 공소청 송치",
+          "link": "https://n.news.naver.com/article/018/0006392091?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "음주 운전하다 오토바이 추돌…개그맨 이혁재 불구속 송치",
+        "개그맨 이혁재, 음주운전하다 오토바이 충돌…공소청 송치",
+        "\"휴대폰 줍다가\" 주장...이혁재, 음주운전 사고 공소청 송치",
+        "'음주운전' 이혁재 송치‥교통사고 냈다가 '덜미'",
+        "개그맨 이혁재, 음주운전 혐의로 공소청 송치"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 3,
+      "keyword": "만원",
+      "count": 16,
+      "representative_title": "\"초등생 딸이 BJ에 200만원 후원\"…환불요구했더니",
+      "representative_link": "https://n.news.naver.com/article/422/0000917363?ntype=RANKING",
+      "press": "연합뉴스TV",
+      "related_articles": [
+        {
+          "title": "주가 19% 빠졌는데…\"내년 영업익 555조원, 목표가 60만원\" 전망 이유 [주식R]",
+          "link": "https://n.news.naver.com/article/215/0001269781?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "축의금 10만원 냈더니…“식대 11만원인데 장난하냐” 연락한 친구",
+          "link": "https://n.news.naver.com/article/020/0003756210?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "조주빈 5년간 추징금 26만원 납부…시급 7500만원 황제노역 사례도",
+          "link": "https://n.news.naver.com/article/437/0000516542?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "조주빈 5년간 추징금 26만원 납부…시급 7500만원 황제노역 사례도",
+          "link": "https://n.news.naver.com/article/437/0000516542?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "“갤럭시S27 울트라, 200만원 시대 여나…시작가 1499달러 전망”",
+          "link": "https://n.news.naver.com/article/030/0003476690?ntype=RANKING",
+          "press": "전자신문"
+        }
+      ],
+      "related_titles": [
+        "주가 19% 빠졌는데…\"내년 영업익 555조원, 목표가 60만원\" 전망 이유 [주식R]",
+        "축의금 10만원 냈더니…“식대 11만원인데 장난하냐” 연락한 친구",
+        "조주빈 5년간 추징금 26만원 납부…시급 7500만원 황제노역 사례도",
+        "조주빈 5년간 추징금 26만원 납부…시급 7500만원 황제노역 사례도",
+        "“갤럭시S27 울트라, 200만원 시대 여나…시작가 1499달러 전망”"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 4,
+      "keyword": "추미애",
+      "count": 14,
+      "representative_title": "정점식 \"추미애·부승찬 가장 높은 징계로 망언 없애야\"",
+      "representative_link": "https://n.news.naver.com/article/655/0000033233?ntype=RANKING",
+      "press": "CJB청주방송",
+      "related_articles": [
+        {
+          "title": "추미애 \"경기도에 공항 없다는 건 말 안 돼\"…\"대선 노린 치적 쌓기\" 지적",
+          "link": "https://n.news.naver.com/article/437/0000516552?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "추미애 '소방 재정 빨대' 이어 부승찬 '재정 쭉쭉 빨아먹어'…김민석 \"국민께 죄송\"",
+          "link": "https://n.news.naver.com/article/660/0000119522?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "한겨레 \"추미애, 마지못해 사과해 논란 자초… 처신 가다듬길\"",
+          "link": "https://n.news.naver.com/article/006/0000138298?ntype=RANKING",
+          "press": "미디어오늘"
+        },
+        {
+          "title": "\"추·석 남매 손잡고 삼보일배해도 모자랄 판\"…野, 추미애·김민석 싸잡아 비판",
+          "link": "https://n.news.naver.com/article/119/0003144606?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "진종오의 저격 “눈물삼킨 소방관…‘재정 빨대’ 추미애, ‘쭉쭉 빨아’ 부승찬 사과하라”",
+          "link": "https://n.news.naver.com/article/029/0003054040?ntype=RANKING",
+          "press": "디지털타임스"
+        }
+      ],
+      "related_titles": [
+        "추미애 \"경기도에 공항 없다는 건 말 안 돼\"…\"대선 노린 치적 쌓기\" 지적",
+        "추미애 '소방 재정 빨대' 이어 부승찬 '재정 쭉쭉 빨아먹어'…김민석 \"국민께 죄송\"",
+        "한겨레 \"추미애, 마지못해 사과해 논란 자초… 처신 가다듬길\"",
+        "\"추·석 남매 손잡고 삼보일배해도 모자랄 판\"…野, 추미애·김민석 싸잡아 비판",
+        "진종오의 저격 “눈물삼킨 소방관…‘재정 빨대’ 추미애, ‘쭉쭉 빨아’ 부승찬 사과하라”"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "대표",
+      "count": 13,
+      "representative_title": "아리셀 대표 징역 15→4년 감형 확정…유족 울분",
+      "representative_link": "https://n.news.naver.com/article/005/0001879722?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "[속보] 23명 숨진 '아리셀 참사' 대표, 징역 15년 → 4년 확정",
+          "link": "https://n.news.naver.com/article/469/0000960467?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "법카로 빵집서 하루 8백·와인바 2천 긁은 강원랜드 직원들…대표 “전수조사”",
+          "link": "https://n.news.naver.com/article/021/0002826211?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "23명 숨진 '아리셀 참사' 박순관 대표 징역 4년 확정",
+          "link": "https://n.news.naver.com/article/214/0001530149?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "“벨트 수없이 풀었다”…‘허리띠 폭행’ 화장품사 대표, 폭로 줄줄이",
+          "link": "https://n.news.naver.com/article/018/0006391997?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "아리셀 대표 징역 15→4년 감형 확정…유족 울분",
+          "link": "https://n.news.naver.com/article/005/0001879722?ntype=RANKING",
+          "press": "국민일보"
+        }
+      ],
+      "related_titles": [
+        "[속보] 23명 숨진 '아리셀 참사' 대표, 징역 15년 → 4년 확정",
+        "법카로 빵집서 하루 8백·와인바 2천 긁은 강원랜드 직원들…대표 “전수조사”",
+        "23명 숨진 '아리셀 참사' 박순관 대표 징역 4년 확정",
+        "“벨트 수없이 풀었다”…‘허리띠 폭행’ 화장품사 대표, 폭로 줄줄이",
+        "아리셀 대표 징역 15→4년 감형 확정…유족 울분"
+      ],
+      "category": "사회/일반"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 7,
+      "representative_title": "코스피 하락 출발...SK하이닉스 장중 5% 급락",
+      "representative_link": "https://n.news.naver.com/article/052/0002421008?ntype=RANKING",
+      "press": "YTN",
+      "related_articles": [
+        {
+          "title": "“美 반도체주 반등에도 코스피 급락”…외국인·기관 매도에 5600선 턱걸이",
+          "link": "https://n.news.naver.com/article/138/0002245267?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "\"코스피 4800까지 추락할 수도\"…바닥 신호 안보인다는 증권사, 반등 타이밍은?",
+          "link": "https://n.news.naver.com/article/014/0005591516?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "코스피 하락 출발...SK하이닉스 장중 5% 급락",
+          "link": "https://n.news.naver.com/article/052/0002421008?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "[고장난 증시] 빚으로 쌓은 탑, 빚으로 무너지다… 개미 무덤 된 코스피",
+          "link": "https://n.news.naver.com/article/366/0001199064?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "200일새 산 사람 다 물렸다…\"본전 오면 팔자\" 코스피 반등 발목",
+          "link": "https://n.news.naver.com/article/008/0005428862?ntype=RANKING",
+          "press": "머니투데이"
+        }
+      ],
+      "related_titles": [
+        "“美 반도체주 반등에도 코스피 급락”…외국인·기관 매도에 5600선 턱걸이",
+        "\"코스피 4800까지 추락할 수도\"…바닥 신호 안보인다는 증권사, 반등 타이밍은?",
+        "코스피 하락 출발...SK하이닉스 장중 5% 급락",
+        "[고장난 증시] 빚으로 쌓은 탑, 빚으로 무너지다… 개미 무덤 된 코스피",
+        "200일새 산 사람 다 물렸다…\"본전 오면 팔자\" 코스피 반등 발목"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "급락",
+      "count": 4,
+      "representative_title": "엘리스그룹, 상장 첫날 28% 급락… 청약 흥행에도 공모가 하회",
+      "representative_link": "https://n.news.naver.com/article/138/0002245271?ntype=RANKING",
+      "press": "디지털데일리",
+      "related_articles": [
+        {
+          "title": "엘리스그룹, 상장 첫날 28% 급락… 청약 흥행에도 공모가 하회",
+          "link": "https://n.news.naver.com/article/138/0002245271?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "SK하이닉스, 6개월 만에 장중 120만원 붕괴…6%대 급락(상보)",
+          "link": "https://n.news.naver.com/article/421/0009237960?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "SK하이닉스, 6개월 만에 장중 120만원 붕괴…6%대 급락(상보)",
+          "link": "https://n.news.naver.com/article/421/0009237960?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "엘리스그룹, 상장 첫날 28% 급락… 청약 흥행에도 공모가 하회",
+          "link": "https://n.news.naver.com/article/138/0002245271?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "SK하이닉스, 6개월 만에 장중 120만원 붕괴…6%대 급락(상보)",
+          "link": "https://n.news.naver.com/article/421/0009237960?ntype=RANKING",
+          "press": "뉴스1"
+        }
+      ],
+      "related_titles": [
+        "엘리스그룹, 상장 첫날 28% 급락… 청약 흥행에도 공모가 하회",
+        "SK하이닉스, 6개월 만에 장중 120만원 붕괴…6%대 급락(상보)",
+        "SK하이닉스, 6개월 만에 장중 120만원 붕괴…6%대 급락(상보)",
+        "엘리스그룹, 상장 첫날 28% 급락… 청약 흥행에도 공모가 하회",
+        "SK하이닉스, 6개월 만에 장중 120만원 붕괴…6%대 급락(상보)"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "주가",
+      "count": 4,
+      "representative_title": "삼성전자 주가 하락…증여세 부담 덜까 [재계톡톡]",
+      "representative_link": "https://n.news.naver.com/article/024/0000109030?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "주가 19% 빠졌는데…\"내년 영업익 555조원, 목표가 60만원\" 전망 이유 [주식R]",
+          "link": "https://n.news.naver.com/article/215/0001269781?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "삼성전자 주가 19% 떨어졌는데…KB증권 “내년 이익성장 이미 확보”",
+          "link": "https://n.news.naver.com/article/009/0005750986?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "삼성전자 주가 하락…증여세 부담 덜까 [재계톡톡]",
+          "link": "https://n.news.naver.com/article/024/0000109030?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "“TSMC보다 주가 밀려도” 삼성전자 회심의 카드",
+          "link": "https://n.news.naver.com/article/050/0000112144?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "주가 19% 빠졌는데…\"내년 영업익 555조원, 목표가 60만원\" 전망 이유 [주식R]",
+          "link": "https://n.news.naver.com/article/215/0001269781?ntype=RANKING",
+          "press": "한국경제TV"
+        }
+      ],
+      "related_titles": [
+        "주가 19% 빠졌는데…\"내년 영업익 555조원, 목표가 60만원\" 전망 이유 [주식R]",
+        "삼성전자 주가 19% 떨어졌는데…KB증권 “내년 이익성장 이미 확보”",
+        "삼성전자 주가 하락…증여세 부담 덜까 [재계톡톡]",
+        "“TSMC보다 주가 밀려도” 삼성전자 회심의 카드",
+        "주가 19% 빠졌는데…\"내년 영업익 555조원, 목표가 60만원\" 전망 이유 [주식R]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성전자",
+      "count": 4,
+      "representative_title": "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'",
+      "representative_link": "https://n.news.naver.com/article/243/0000104451?ntype=RANKING",
+      "press": "이코노미스트",
+      "related_articles": [
+        {
+          "title": "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'",
+          "link": "https://n.news.naver.com/article/243/0000104451?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'",
+          "link": "https://n.news.naver.com/article/243/0000104451?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'",
+          "link": "https://n.news.naver.com/article/243/0000104451?ntype=RANKING",
+          "press": "이코노미스트"
+        }
+      ],
+      "related_titles": [
+        "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'",
+        "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'",
+        "[오늘의 삼전닉스] 삼성전자 555조 '장밋빛'·SK하닉 중복상장 '태클'"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "상장",
+      "count": 3,
+      "representative_title": "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭",
+      "representative_link": "https://n.news.naver.com/article/018/0006392017?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭",
+          "link": "https://n.news.naver.com/article/018/0006392017?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "'청약증거금 10조' 엘리스, 상장 첫날 30% 폭락…IPO 흥행 무색",
+          "link": "https://n.news.naver.com/article/629/0000543557?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭",
+          "link": "https://n.news.naver.com/article/018/0006392017?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "'청약증거금 10조' 엘리스, 상장 첫날 30% 폭락…IPO 흥행 무색",
+          "link": "https://n.news.naver.com/article/629/0000543557?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭",
+          "link": "https://n.news.naver.com/article/018/0006392017?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭",
+        "'청약증거금 10조' 엘리스, 상장 첫날 30% 폭락…IPO 흥행 무색",
+        "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭",
+        "'청약증거금 10조' 엘리스, 상장 첫날 30% 폭락…IPO 흥행 무색",
+        "“SK하닉 주주만 손해, 솔리다임 상장 멈춰라” 한 목소리 나온 까닭"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 31,
+      "representative_title": "홍준표 “조희대 탄핵은 정권 몰락의 길”",
+      "representative_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMDBjRUlibHM1cjAxTTlMdWNzMUdWSTJ4NVR0UEotbGtudGN3ek1CWDhtNTNwZ3ZfSlo5d0VydGNwZzh2bGpkWHlYLVBJWXpG?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXNE1ob01WeHRtSllmTEVNY3V1UHVRclVta1YyWnlSNkJscTNQVTlvemVDNGp0YVAwZ004Y1MwcXI4Ung3T0JJRVpEYjVmMVotM2xlOHdJcWtjYWMwQnBfV0JycjlqcDA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IMzB2ZmNMeHVyTWtpLVk4U0NNMUJUYzRQNXJKX2xNZUJ1ME1NUUNvWHFkVEN1clNfRDZPUGVQc0M2cDJNOEVwT2s0RzFrX1NjTy1Ud0ZZelR5M2Zqa1E?oc=5",
+          "press": ""
+        },
+        {
+          "title": "‘조희대 탄핵’ 전운 다시 고조…與 “인내 한계” 野 ‘정권 몰락’ 경고",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GT3U4ZHBra25IYWRJaUdLc1l2aGRfOXJIc3dMU3BVWGduZlpVZFR1d01JNUZKUm1TeWltLVdJc1NMY3d2SUpXaVJWZS0ybkNjSEJ3OVNfa25pOTNLNXU0ZjY5QzQtMmdnZTlXZzdGemdKLUlKWWtZ0gFmQVVfeXFMTUhLM2FYQzNRN0tsMUt6dXdlU0UxN3Z5ejJBT3RpV2pMVmRINHRaSmhiUWdlZHNITEJOeEVPUlh1RDM2d05kS3hud3BrR0ZKdWxfbWZQbEVyb0lVOU83MDh5eEgxOWhB?oc=5",
+          "press": ""
+        },
+        {
+          "title": "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12bXRDaDg1NnJLc0MyZDBFM25YRXh3QVB6Q1NqWFpPUzh4WUtxTVhZR1NWQXV5eGVfY3VxQXF4RTdMWEM2WHVsZFhsN253MlA4MXkwZ0hpZUlSRS1wanhfRUtBUlJvSG44T0E?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “조희대 탄핵은 정권 몰락의 길”",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMDBjRUlibHM1cjAxTTlMdWNzMUdWSTJ4NVR0UEotbGtudGN3ek1CWDhtNTNwZ3ZfSlo5d0VydGNwZzh2bGpkWHlYLVBJWXpG?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
+        "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”",
+        "‘조희대 탄핵’ 전운 다시 고조…與 “인내 한계” 野 ‘정권 몰락’ 경고",
+        "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”",
+        "홍준표 “조희대 탄핵은 정권 몰락의 길”"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "선발주자들",
+      "series_title": "선발주자들의 몰락",
+      "count": 1,
+      "representative_title": "리플 ETF 선발주자들의 몰락? 최고가 대비 56% 급락…0.19% 저비용 상품에 밀렸다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mSWJNUTNmRi1pVHFPX1hwQlJYcC1jLTJqUWoxd0NkTlRnSzVyVGVvTEo0czlDdlE0YWpGVHNuaHB1WDFUMjJwSFJB?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "리플 ETF 선발주자들의 몰락? 최고가 대비 56% 급락…0.19% 저비용 상품에 밀렸다",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mSWJNUTNmRi1pVHFPX1hwQlJYcC1jLTJqUWoxd0NkTlRnSzVyVGVvTEo0czlDdlE0YWpGVHNuaHB1WDFUMjJwSFJB?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "리플 ETF 선발주자들의 몰락? 최고가 대비 56% 급락…0.19% 저비용 상품에 밀렸다"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "제조업",
+      "series_title": "제조업의 몰락",
+      "count": 1,
+      "representative_title": "\"유럽 제조업의 몰락\"… 중국발 해고 한파가 대규모 시위 불길 키웠다 - 머니투데이",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yeHJPSXhnMkpsck9rUmdEOTNxNGJ4dExSQVlhenJvXzJUTlR0c0wzWHZGa1lTbGRYQkpzNjRfQzlKREktaE9RQUp5U2RJZXBSOVRHaWFGX3lqdXozYlJGTHg5bS1EY0lF0gFuQVVfeXFMTTdBX0M3NVE4T2xWNDlTOG8zQXNfNnV0YnFHY1FKMEJsT2N5ZWZZM2hGZFp1SXAtdTM2dzk0VGJUejlfb2taQW05b29qcXhwLTBZYjh2Ql9nQjhVcEIxU3FJOHpiYVE0aVg5U2puRFE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"유럽 제조업의 몰락\"… 중국발 해고 한파가 대규모 시위 불길 키웠다 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yeHJPSXhnMkpsck9rUmdEOTNxNGJ4dExSQVlhenJvXzJUTlR0c0wzWHZGa1lTbGRYQkpzNjRfQzlKREktaE9RQUp5U2RJZXBSOVRHaWFGX3lqdXozYlJGTHg5bS1EY0lF0gFuQVVfeXFMTTdBX0M3NVE4T2xWNDlTOG8zQXNfNnV0YnFHY1FKMEJsT2N5ZWZZM2hGZFp1SXAtdTM2dzk0VGJUejlfb2taQW05b29qcXhwLTBZYjh2Ql9nQjhVcEIxU3FJOHpiYVE0aVg5U2puRFE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"유럽 제조업의 몰락\"… 중국발 해고 한파가 대규모 시위 불길 키웠다 - 머니투데이"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "공교육",
+      "series_title": "공교육의 몰락",
+      "count": 1,
+      "representative_title": "'근대 교육의 상징' 프랑스 공교육의 몰락...\"미래에 대한 불안감 폭발\" [앵커리포트]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5veHp5ZzFCQ3BoQkZ0ekdFZ1dnU2J6OVY0Z2paTmF2NE1QOGdZUTdYRS04UEk0UWJqN2lmclVSUUFzVGdoUEtHRjY2emxQRThpR2ZTc0hCeFJURkF4RWc?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'근대 교육의 상징' 프랑스 공교육의 몰락...\"미래에 대한 불안감 폭발\" [앵커리포트]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5veHp5ZzFCQ3BoQkZ0ekdFZ1dnU2J6OVY0Z2paTmF2NE1QOGdZUTdYRS04UEk0UWJqN2lmclVSUUFzVGdoUEtHRjY2emxQRThpR2ZTc0hCeFJURkF4RWc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'근대 교육의 상징' 프랑스 공교육의 몰락...\"미래에 대한 불안감 폭발\" [앵커리포트]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "게티",
+      "series_title": "게티의 몰락",
+      "count": 1,
+      "representative_title": "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZTdkM0xmbDlsWHUzTTN0UUxzM1BXRnNySFFXLVBaRGwzMHNLVDFhX3dXNklzaDdMWFIyVWNGcVg2VkJ3V3dnQnE0SXM5UFJOZEJsUVNR?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZTdkM0xmbDlsWHUzTTN0UUxzM1BXRnNySFFXLVBaRGwzMHNLVDFhX3dXNklzaDdMWFIyVWNGcVg2VkJ3V3dnQnE0SXM5UFJOZEJsUVNR?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'이미지 공룡' 게티의 몰락…언론에 던진 AI 시대 경고장"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 13,
+      "representative_title": "강남 집값 10주째 하락…서울 부동산 상승세 꺾이나",
+      "representative_link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85SjRpUlA0VERIc0JQbWpyNWhmSnVUZDA4c2d2MG9ac3duZmZjSWR5SUp1dVVQUWVsNmMzX3g2Y1IzQzZmcU04VQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "서울 집값 오르자 6억 미만 아파트로 몰린 실수요…거래 비중 5%p 상승",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwTVBpNFNfUzBRaVdKUGlnelhrVUI2c1BER1hMUEJxODVaaVJHMU1adGszN1pmZTRKVVlncTh5U1hwTGFiSmZTSENYNzU5MzVETjZWRGR5YjMyZ2lNc0ZpSWlFN2ZlV0ZPNnRJ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "부동산시장 전망…서울 집값 상승 확산, 월세 51%가 변수",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ScEdXYWFpQlY4ekFCVDdXeW9CMzl4N0ExbTFTQmZUeWpBYk9MY3dxQ0RrQllPb0N1Tm9xVWZ1Vm5HTUJETlptZ3M2MTBiMHlQeDRJVjYtQkxBZy1Fcm9jel9GNGlpem5wRnoyWnJGdkY1dw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "‘부동산 성적표’ 45점…“향후 1년 서울 집값 오를 것” 94%",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2UWhKOHI4LVZYVmI5UUszdUNqcTVobnFkcWdDZEE2QnBpdWxMQkpjcW9UQW05dEFsLTVxbE9QOGk1dXFjVW1Rc2FqZEVGR2RUaVlwRmRR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QTl9vdWRWM2Z1Mk1TTmpqNkF0aTh4Tm5YWDJxdFpnMFlBSFhSeDJDVnh3M05RTHA5MW9rNjRFdmFUWEE3MTBWZ09ldm4ySkt6eFNQWUJyXzdISkN2?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 경매 44% 급증에도 집값 상승…부동산 시장의 두 얼굴",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VYVB4cHFVSi1HWE1EbVJDZlhsWmhPTnYxVlpGZTAwTFB5cEVvT3VyOFJYS0lIY1VkUDlac3lodlFUSWFmVk5XMHlhX0x2WWU2UXRmOE83dWU1dDQ3RnZKZjdTaUc0WTFNNFc4ZtIBcEFVX3lxTE9COTZ2c0RyVWs2NnYtUHdPM2N6RDFFNkp6MzJ2aE94QzcxWW1xTUxvZ2UzeEV5M0J3UFZqcjBFRTVsYkxhX0I5RWNxUkN0VTUtR0FXZzkycWlXRWNtTjBlYVF5R1NyOHpiX253RjU0V1Y?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "서울 집값 오르자 6억 미만 아파트로 몰린 실수요…거래 비중 5%p 상승",
+        "부동산시장 전망…서울 집값 상승 확산, 월세 51%가 변수",
+        "‘부동산 성적표’ 45점…“향후 1년 서울 집값 오를 것” 94%",
+        "9월 서울 집값 0.84% 올랐다…빌라·다가구, 아파트 상승률 앞질러",
+        "서울 경매 44% 급증에도 집값 상승…부동산 시장의 두 얼굴"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 3,
+      "representative_title": "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fdlpNb3VjRUJ0WEpqdXYtemFVeVFfWDFyYUc0MFlKSkpZcVJOWVg5Yzl1dEp5MmMzWGlhRjUyYlJiTTI1T2xDVnZ3bkpUSDBxbnliczBQVVI?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fdlpNb3VjRUJ0WEpqdXYtemFVeVFfWDFyYUc0MFlKSkpZcVJOWVg5Yzl1dEp5MmMzWGlhRjUyYlJiTTI1T2xDVnZ3bkpUSDBxbnliczBQVVI?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "성적표",
+      "count": 2,
+      "representative_title": "거래 식었는데 집값은 끓었다…\"이게 아닌데\" 10·15 대책 1년 성적표 - 머니투데이",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uZW5KdldRVDg5dExzRHNseklfTWRYVUFkbkNWNXU5YTdrazE3akNjQ1BWczBSTGZoNThRNG1hLVowcnluZXlKZmNWVHljbDl0ZTNic0luTzYyNGQ2dFdmMGxseTFwS19TQlHSAW9BVV95cUxQWng5TmVrRkdUaGRGX3k4RW42NUlHLUx2ZlpRZnNxOU1SY3c4YkJXcENyelphTWhITFNLU1RSMTNVSVhxQktPVUhqQUhEaDhzNy01OUs1cEZkSnZXeWdaS1JORnJnLTFrNHg1T3ZIMXc?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "거래 식었는데 집값은 끓었다…\"이게 아닌데\" 10·15 대책 1년 성적표 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uZW5KdldRVDg5dExzRHNseklfTWRYVUFkbkNWNXU5YTdrazE3akNjQ1BWczBSTGZoNThRNG1hLVowcnluZXlKZmNWVHljbDl0ZTNic0luTzYyNGQ2dFdmMGxseTFwS19TQlHSAW9BVV95cUxQWng5TmVrRkdUaGRGX3k4RW42NUlHLUx2ZlpRZnNxOU1SY3c4YkJXcENyelphTWhITFNLU1RSMTNVSVhxQktPVUhqQUhEaDhzNy01OUs1cEZkSnZXeWdaS1JORnJnLTFrNHg1T3ZIMXc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "거래 식었는데 집값은 끓었다…\"이게 아닌데\" 10·15 대책 1년 성적표 - 머니투데이"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "변화",
+      "count": 2,
+      "representative_title": "\"하이엔드 더하거나 아예 떼거나\"…건설사 아파트 브랜드 전략의 변화",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WTUR4ZVp3bzdiVnZUS1I5Sm5sQkRMNG9NYWhvTnUxTnNUM3BaUjVUQmxuSzRJQXBTbF9xNmg4cXZMMy1WaEZRWjlLcHpDa3g2Ul9HY3hTQmJPR3NN?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"집값 떨어진다?\"…부동산 판 뒤집은 4가지 변화 [심형석의 부동산정석]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sdGE2bEU2ZU8xaklCNUtIdGNhc2haTjJVR2hjRk12TFZabndEeTk2THNDaHNGMlZsWTZ3bHgxUlhqS3RKTzMybENJSm9NYzJoQkxJbEtkVFExZw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"하이엔드 더하거나 아예 떼거나\"…건설사 아파트 브랜드 전략의 변화",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WTUR4ZVp3bzdiVnZUS1I5Sm5sQkRMNG9NYWhvTnUxTnNUM3BaUjVUQmxuSzRJQXBTbF9xNmg4cXZMMy1WaEZRWjlLcHpDa3g2Ul9HY3hTQmJPR3NN?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"집값 떨어진다?\"…부동산 판 뒤집은 4가지 변화 [심형석의 부동산정석]",
+        "\"하이엔드 더하거나 아예 떼거나\"…건설사 아파트 브랜드 전략의 변화"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 5,
+      "keyword": "오르고",
+      "count": 2,
+      "representative_title": "거래 늘고 집값 오르고…경기 남부 반도체 벨트 부동산 기지개",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRZGpwamxLUnozUlhZWENCU19MUlcxTDExaE1GOHEzcGxXV3loejl5NVZPS0o5aGJHU2JvOGdwZEhSLUVkbDhvTmRjTmJRV09rR3JBLXBTSTZwLVFlWHlLbUhpdWdVcjZMeWfSAW5BVV95cUxNUVNHYTRvRUttdzRDTno0czVjRENJck1hMmZqaGUwQjVNeWlkRHpuckxma0xZc2dOYkY5TkMxTVNPVmhCc2l6eXIyVGM0RmlQN0EwSkZ6aG01T01SakpwU1NKVDc3UUNoZEtzck9QUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "거래 늘고 집값 오르고…경기 남부 반도체 벨트 부동산 기지개",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRZGpwamxLUnozUlhZWENCU19MUlcxTDExaE1GOHEzcGxXV3loejl5NVZPS0o5aGJHU2JvOGdwZEhSLUVkbDhvTmRjTmJRV09rR3JBLXBTSTZwLVFlWHlLbUhpdWdVcjZMeWfSAW5BVV95cUxNUVNHYTRvRUttdzRDTno0czVjRENJck1hMmZqaGUwQjVNeWlkRHpuckxma0xZc2dOYkY5TkMxTVNPVmhCc2l6eXIyVGM0RmlQN0EwSkZ6aG01T01SakpwU1NKVDc3UUNoZEtzck9QUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "거래 늘고 집값 오르고…경기 남부 반도체 벨트 부동산 기지개"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
