@@ -1,0 +1,482 @@
+{
+  "date": "2026-10-22",
+  "hour": "13",
+  "slot": "2026-10-22_13",
+  "crawled_at": "2026-10-22 13:00:04",
+  "total_articles": 407,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "부캉이",
+      "count": 27,
+      "representative_title": "[속보]‘부캉이’ 차단 그물 뚫고 되돌아와",
+      "representative_link": "https://n.news.naver.com/article/658/0000159157?ntype=RANKING",
+      "press": "국제신문",
+      "related_articles": [
+        {
+          "title": "다시 돌아온 ‘부캉이’…차단선 넘어 수로로 재진입",
+          "link": "https://n.news.naver.com/article/028/0002828581?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "상어 부캉이, 차단막 뚫고 돌아와… 30m×30m 좁은 공간서 맴돌아",
+          "link": "https://n.news.naver.com/article/081/0003691363?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "수로 밖으로 몰아냈던 흑상어 ‘부캉이’, 밤새 그물망 뚫고 다시 돌아왔다",
+          "link": "https://n.news.naver.com/article/023/0004005300?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "'상처 깊어지면 2주 내 폐사'…수로로 돌아온 부캉이 어쩌나",
+          "link": "https://n.news.naver.com/article/015/0005345264?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "그물 뚫고 수로로 재진입한 부캉이...그물·틈새 보강 재작업",
+          "link": "https://n.news.naver.com/article/052/0002422091?ntype=RANKING",
+          "press": "YTN"
+        }
+      ],
+      "related_titles": [
+        "다시 돌아온 ‘부캉이’…차단선 넘어 수로로 재진입",
+        "상어 부캉이, 차단막 뚫고 돌아와… 30m×30m 좁은 공간서 맴돌아",
+        "수로 밖으로 몰아냈던 흑상어 ‘부캉이’, 밤새 그물망 뚫고 다시 돌아왔다",
+        "'상처 깊어지면 2주 내 폐사'…수로로 돌아온 부캉이 어쩌나",
+        "그물 뚫고 수로로 재진입한 부캉이...그물·틈새 보강 재작업"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 2,
+      "keyword": "대통령",
+      "count": 20,
+      "representative_title": "한국일보, \"이 대통령 한발 물러설 줄도 알아야\"",
+      "representative_link": "https://n.news.naver.com/article/006/0000138333?ntype=RANKING",
+      "press": "미디어오늘",
+      "related_articles": [
+        {
+          "title": "李대통령 풍자 ‘제미나이 인증’ 릴레이…靑 “사실 호도 왜곡”",
+          "link": "https://n.news.naver.com/article/016/0002712872?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "김민석 “유시민, 금도 지켰으면…대통령 ‘처벌 불원’은 ‘법보다 토론’ 뜻”",
+          "link": "https://n.news.naver.com/article/028/0002828588?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "[속보] 李대통령 “초국가범죄 TF 출범 1년…보이스피싱 피해 절반 이하로 줄어”",
+          "link": "https://n.news.naver.com/article/022/0004168787?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "AI에 국정 물은 이재명 대통령 향해 \"해괴한 일\"…한겨레·경향도 \"법 따질 문제 아냐\"",
+          "link": "https://n.news.naver.com/article/437/0000516981?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "김민석, 이 대통령 '유시민 처벌불원'에 \"법보단 토론 영역\"",
+          "link": "https://n.news.naver.com/article/214/0001530659?ntype=RANKING",
+          "press": "MBC"
+        }
+      ],
+      "related_titles": [
+        "李대통령 풍자 ‘제미나이 인증’ 릴레이…靑 “사실 호도 왜곡”",
+        "김민석 “유시민, 금도 지켰으면…대통령 ‘처벌 불원’은 ‘법보다 토론’ 뜻”",
+        "[속보] 李대통령 “초국가범죄 TF 출범 1년…보이스피싱 피해 절반 이하로 줄어”",
+        "AI에 국정 물은 이재명 대통령 향해 \"해괴한 일\"…한겨레·경향도 \"법 따질 문제 아냐\"",
+        "김민석, 이 대통령 '유시민 처벌불원'에 \"법보단 토론 영역\""
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 3,
+      "keyword": "수로",
+      "count": 14,
+      "representative_title": "“부캉아 왜 돌아왔니 ㅠㅠ”…먼 바다로 나간줄 알았더니 전날 밤 수로 재진입",
+      "representative_link": "https://n.news.naver.com/article/032/0003477825?ntype=RANKING",
+      "press": "경향신문",
+      "related_articles": [
+        {
+          "title": "“부캉아 왜 돌아왔니 ㅠㅠ”…먼 바다로 나간줄 알았더니 전날 밤 수로 재진입",
+          "link": "https://n.news.naver.com/article/032/0003477825?ntype=RANKING",
+          "press": "경향신문"
+        }
+      ],
+      "related_titles": [
+        "“부캉아 왜 돌아왔니 ㅠㅠ”…먼 바다로 나간줄 알았더니 전날 밤 수로 재진입"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "만원",
+      "count": 13,
+      "representative_title": "'900만원 아녔어?' 열어보니 月19만원…줄어든 금액, 왜?",
+      "representative_link": "https://n.news.naver.com/article/243/0000104544?ntype=RANKING",
+      "press": "이코노미스트",
+      "related_articles": [
+        {
+          "title": "쓰러진 발작 환자…퇴근길 간호사, 만원 지하철 인파 뚫고 살려내",
+          "link": "https://n.news.naver.com/article/028/0002828564?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "500만원 내기, 양주 700㎖ 마신 26세女 사망…쓰러진 사람 재우면 안 되는 이유",
+          "link": "https://n.news.naver.com/article/022/0004168663?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "\"돈 돌려줄 테니 그만하죠\"…2시간 20만원 버는 20대 '배짱' [고수의숨]",
+          "link": "https://n.news.naver.com/article/015/0005345217?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "‘부산 돌려차기’ 가해자 월 10만원 영치금 사용 유지…피해자 “손배금 회수 못해”",
+          "link": "https://n.news.naver.com/article/029/0003054557?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "\"원룸 월세 150만원·맥주 한잔 2만원\"..경제난에 불타는 프랑스",
+          "link": "https://n.news.naver.com/article/018/0006393503?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "쓰러진 발작 환자…퇴근길 간호사, 만원 지하철 인파 뚫고 살려내",
+        "500만원 내기, 양주 700㎖ 마신 26세女 사망…쓰러진 사람 재우면 안 되는 이유",
+        "\"돈 돌려줄 테니 그만하죠\"…2시간 20만원 버는 20대 '배짱' [고수의숨]",
+        "‘부산 돌려차기’ 가해자 월 10만원 영치금 사용 유지…피해자 “손배금 회수 못해”",
+        "\"원룸 월세 150만원·맥주 한잔 2만원\"..경제난에 불타는 프랑스"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 5,
+      "keyword": "긴급체포",
+      "count": 12,
+      "representative_title": "서울 강서구서 딸이 친어머니 살해…긴급체포",
+      "representative_link": "https://n.news.naver.com/article/081/0003691416?ntype=RANKING",
+      "press": "서울신문",
+      "related_articles": [
+        {
+          "title": "서울 강서구서 딸이 친어머니 살해…긴급체포",
+          "link": "https://n.news.naver.com/article/081/0003691416?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "\"어머니 살해했다\" 신고...서울 강서구서 딸 긴급체포",
+          "link": "https://n.news.naver.com/article/008/0005430039?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "[속보] 서울 강서구서 친어머니 살해한 딸, 경찰에 긴급체포",
+          "link": "https://n.news.naver.com/article/029/0003054580?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "서울 강서구서 “어머니 살해했다” 자진 신고한 딸, 긴급체포 [자막뉴스]",
+          "link": "https://n.news.naver.com/article/449/0000364914?ntype=RANKING",
+          "press": "채널A"
+        },
+        {
+          "title": "서울 강서구서 모친 살해한 40대 딸 긴급체포",
+          "link": "https://n.news.naver.com/article/079/0004201465?ntype=RANKING",
+          "press": "노컷뉴스"
+        }
+      ],
+      "related_titles": [
+        "서울 강서구서 딸이 친어머니 살해…긴급체포",
+        "\"어머니 살해했다\" 신고...서울 강서구서 딸 긴급체포",
+        "[속보] 서울 강서구서 친어머니 살해한 딸, 경찰에 긴급체포",
+        "서울 강서구서 “어머니 살해했다” 자진 신고한 딸, 긴급체포 [자막뉴스]",
+        "서울 강서구서 모친 살해한 40대 딸 긴급체포"
+      ],
+      "category": "사건/사고"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "투자",
+      "count": 6,
+      "representative_title": "테슬라, 3분기 영업익 반토막…AI 투자 부담 커졌다",
+      "representative_link": "https://n.news.naver.com/article/123/0002392366?ntype=RANKING",
+      "press": "조세일보",
+      "related_articles": [
+        {
+          "title": "[속보]신현송 \"AI 투자 지속 우려, 국내에 미칠 영향 짚어봐야\"",
+          "link": "https://n.news.naver.com/article/277/0005832033?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "“이젠 진짜 큰일났다” SK하이닉스마저…자사주 매입 종료 임박 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002712605?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "기술 개발에 칼 간 삼성전자… 성과급까지 챙겨주는 ‘코어팀’ 창설 [반도체 투자 리포트]",
+          "link": "https://n.news.naver.com/article/022/0004168715?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "삼전닉스 레버리지 투자 개미들, 두달 반새 6.3조 손실",
+          "link": "https://n.news.naver.com/article/020/0003756787?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "“삼성전자·SK하이닉스 등락에 투자”…한국투자증권, ELW 224종 상장",
+          "link": "https://n.news.naver.com/article/138/0002245599?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "[속보]신현송 \"AI 투자 지속 우려, 국내에 미칠 영향 짚어봐야\"",
+        "“이젠 진짜 큰일났다” SK하이닉스마저…자사주 매입 종료 임박 [투자360]",
+        "기술 개발에 칼 간 삼성전자… 성과급까지 챙겨주는 ‘코어팀’ 창설 [반도체 투자 리포트]",
+        "삼전닉스 레버리지 투자 개미들, 두달 반새 6.3조 손실",
+        "“삼성전자·SK하이닉스 등락에 투자”…한국투자증권, ELW 224종 상장"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "상장",
+      "count": 5,
+      "representative_title": "\"장동혁 '극우코인' 상장 폐지\"…\"이진숙 갈아타기용 폭로\" 평가도",
+      "representative_link": "https://n.news.naver.com/article/437/0000516977?ntype=RANKING",
+      "press": "JTBC",
+      "related_articles": [
+        {
+          "title": "\"장동혁 '극우코인' 상장 폐지\"…\"이진숙 갈아타기용 폭로\" 평가도",
+          "link": "https://n.news.naver.com/article/437/0000516977?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "솔리다임 상장 “국장 둠스데이 될 것”... 당국·정치권 맹공에 SK하이닉스 ‘진퇴양난’",
+          "link": "https://n.news.naver.com/article/366/0001199501?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "[단독] 솔리다임, 4년 만에 美 로비 재개…상장 이어 증설 나서나",
+          "link": "https://n.news.naver.com/article/293/0000091951?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "‘솔리다임 상장 논란’ SK하이닉스, 외국인 지분율 50% 미만으로 급감",
+          "link": "https://n.news.naver.com/article/037/0000039017?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "\"장동혁 '극우코인' 상장 폐지\"…\"이진숙 갈아타기용 폭로\" 평가도",
+          "link": "https://n.news.naver.com/article/437/0000516977?ntype=RANKING",
+          "press": "JTBC"
+        }
+      ],
+      "related_titles": [
+        "\"장동혁 '극우코인' 상장 폐지\"…\"이진숙 갈아타기용 폭로\" 평가도",
+        "솔리다임 상장 “국장 둠스데이 될 것”... 당국·정치권 맹공에 SK하이닉스 ‘진퇴양난’",
+        "[단독] 솔리다임, 4년 만에 美 로비 재개…상장 이어 증설 나서나",
+        "‘솔리다임 상장 논란’ SK하이닉스, 외국인 지분율 50% 미만으로 급감",
+        "\"장동혁 '극우코인' 상장 폐지\"…\"이진숙 갈아타기용 폭로\" 평가도"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "하이닉스",
+      "count": 5,
+      "representative_title": "87만원에 하이닉스 산 조혜련…주가 3배 뛰었는데 웃지 못한 이유",
+      "representative_link": "https://n.news.naver.com/article/018/0006393322?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "87만원에 하이닉스 산 조혜련…주가 3배 뛰었는데 웃지 못한 이유",
+          "link": "https://n.news.naver.com/article/018/0006393322?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "최태원, '힙지로'서 술잔 든 모습 포착…하이닉스 개미들 반응은?",
+          "link": "https://n.news.naver.com/article/053/0000062470?ntype=RANKING",
+          "press": "주간조선"
+        },
+        {
+          "title": "87만원에 하이닉스 산 조혜련…주가 3배 뛰었는데 웃지 못한 이유",
+          "link": "https://n.news.naver.com/article/018/0006393322?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "최태원, '힙지로'서 술잔 든 모습 포착…하이닉스 개미들 반응은?",
+          "link": "https://n.news.naver.com/article/053/0000062470?ntype=RANKING",
+          "press": "주간조선"
+        },
+        {
+          "title": "87만원에 하이닉스 산 조혜련…주가 3배 뛰었는데 웃지 못한 이유",
+          "link": "https://n.news.naver.com/article/018/0006393322?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "87만원에 하이닉스 산 조혜련…주가 3배 뛰었는데 웃지 못한 이유",
+        "최태원, '힙지로'서 술잔 든 모습 포착…하이닉스 개미들 반응은?",
+        "87만원에 하이닉스 산 조혜련…주가 3배 뛰었는데 웃지 못한 이유",
+        "최태원, '힙지로'서 술잔 든 모습 포착…하이닉스 개미들 반응은?",
+        "87만원에 하이닉스 산 조혜련…주가 3배 뛰었는데 웃지 못한 이유"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "테슬라",
+      "count": 4,
+      "representative_title": "머스크, 테슬라·스페이스X 합병 논의 공식화…지배구조·주주승인 변수",
+      "representative_link": "https://n.news.naver.com/article/293/0000091939?ntype=RANKING",
+      "press": "블로터",
+      "related_articles": [
+        {
+          "title": "맨발로 좌석에 발 '척'…테슬라 무인택시 민폐 논란에 \"방귀도 뀌면서\" 반박",
+          "link": "https://n.news.naver.com/article/030/0003477436?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "테슬라 “내년 2분기 고객차에 무감독 FSD 일부 적용…테라팹·옵티머스 양산 속도”",
+          "link": "https://n.news.naver.com/article/030/0003477545?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "머스크, 테슬라·스페이스X 합병 논의 공식화…지배구조·주주승인 변수",
+          "link": "https://n.news.naver.com/article/293/0000091939?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "맨발로 좌석에 발 '척'…테슬라 무인택시 민폐 논란에 \"방귀도 뀌면서\" 반박",
+          "link": "https://n.news.naver.com/article/030/0003477436?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "테슬라 “내년 2분기 고객차에 무감독 FSD 일부 적용…테라팹·옵티머스 양산 속도”",
+          "link": "https://n.news.naver.com/article/030/0003477545?ntype=RANKING",
+          "press": "전자신문"
+        }
+      ],
+      "related_titles": [
+        "맨발로 좌석에 발 '척'…테슬라 무인택시 민폐 논란에 \"방귀도 뀌면서\" 반박",
+        "테슬라 “내년 2분기 고객차에 무감독 FSD 일부 적용…테라팹·옵티머스 양산 속도”",
+        "머스크, 테슬라·스페이스X 합병 논의 공식화…지배구조·주주승인 변수",
+        "맨발로 좌석에 발 '척'…테슬라 무인택시 민폐 논란에 \"방귀도 뀌면서\" 반박",
+        "테슬라 “내년 2분기 고객차에 무감독 FSD 일부 적용…테라팹·옵티머스 양산 속도”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼전닉스",
+      "count": 3,
+      "representative_title": "\"삼전닉스 바닥 지났다…11월~12월 W자 반등 가능성\" KB증권",
+      "representative_link": "https://n.news.naver.com/article/014/0005592962?ntype=RANKING",
+      "press": "파이낸셜뉴스",
+      "related_articles": [
+        {
+          "title": "삼전닉스, 여기가 바닥인가···증권가 “코스피 W자 바닥 확인, 삼전닉스 11월 반등” 전망",
+          "link": "https://n.news.naver.com/article/032/0003477839?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "삼전닉스, 여기가 바닥인가···증권가 “코스피 W자 바닥 확인, 삼전닉스 11월 반등” 전망",
+          "link": "https://n.news.naver.com/article/032/0003477839?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "\"삼전닉스 바닥 지났다…11월~12월 W자 반등 가능성\" KB증권",
+          "link": "https://n.news.naver.com/article/014/0005592962?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "삼전닉스, 여기가 바닥인가···증권가 “코스피 W자 바닥 확인, 삼전닉스 11월 반등” 전망",
+          "link": "https://n.news.naver.com/article/032/0003477839?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "삼전닉스, 여기가 바닥인가···증권가 “코스피 W자 바닥 확인, 삼전닉스 11월 반등” 전망",
+          "link": "https://n.news.naver.com/article/032/0003477839?ntype=RANKING",
+          "press": "경향신문"
+        }
+      ],
+      "related_titles": [
+        "삼전닉스, 여기가 바닥인가···증권가 “코스피 W자 바닥 확인, 삼전닉스 11월 반등” 전망",
+        "삼전닉스, 여기가 바닥인가···증권가 “코스피 W자 바닥 확인, 삼전닉스 11월 반등” 전망",
+        "\"삼전닉스 바닥 지났다…11월~12월 W자 반등 가능성\" KB증권",
+        "삼전닉스, 여기가 바닥인가···증권가 “코스피 W자 바닥 확인, 삼전닉스 11월 반등” 전망",
+        "삼전닉스, 여기가 바닥인가···증권가 “코스피 W자 바닥 확인, 삼전닉스 11월 반등” 전망"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 4,
+      "representative_title": "서울 집값 상승 기대 강북이 강남 추월…격차 역대 최대",
+      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GUFktV3NablBzZFk2cVlUMFBKZG9HWXZTMldUTThRZmx2cmY3TXNRdEhHQXBBaXdtdFdkSWl4akUxRGctVjhlcm5nMGdUZ1hrQzMxRFQ0N0JLamVIdVNVYkUyRTRkaTYtNV84Sg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "서울 집값 오르자 6억 미만 아파트로 몰린 실수요…거래 비중 5%p 상승",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwTVBpNFNfUzBRaVdKUGlnelhrVUI2c1BER1hMUEJxODVaaVJHMU1adGszN1pmZTRKVVlncTh5U1hwTGFiSmZTSENYNzU5MzVETjZWRGR5YjMyZ2lNc0ZpSWlFN2ZlV0ZPNnRJ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "부동산시장 전망…서울 집값 상승 확산, 월세 51%가 변수",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ScEdXYWFpQlY4ekFCVDdXeW9CMzl4N0ExbTFTQmZUeWpBYk9MY3dxQ0RrQllPb0N1Tm9xVWZ1Vm5HTUJETlptZ3M2MTBiMHlQeDRJVjYtQkxBZy1Fcm9jel9GNGlpem5wRnoyWnJGdkY1dw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[부동산VIEW] 비강남 토지거래허가구역 해제 검토할 때, 전세난 해소해야 서울 집값 안정 가능성 높다",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NT1NpSVFEY3ZKUVdmSzhLZWRIRVJLMUwxNlM1ZEs0WWxuZjVuYzF4RUU0QnFCWW1YQmpRQjNiNU9xUl9HTl9iUi1KbXBuSXNHUkxiTjlycjMyVW1JSzhVYUFtMjFvTU9yX2xjT1FCMjFYYzQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 상승 기대 강북이 강남 추월…격차 역대 최대",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GUFktV3NablBzZFk2cVlUMFBKZG9HWXZTMldUTThRZmx2cmY3TXNRdEhHQXBBaXdtdFdkSWl4akUxRGctVjhlcm5nMGdUZ1hrQzMxRFQ0N0JLamVIdVNVYkUyRTRkaTYtNV84Sg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "서울 집값 오르자 6억 미만 아파트로 몰린 실수요…거래 비중 5%p 상승",
+        "부동산시장 전망…서울 집값 상승 확산, 월세 51%가 변수",
+        "[부동산VIEW] 비강남 토지거래허가구역 해제 검토할 때, 전세난 해소해야 서울 집값 안정 가능성 높다",
+        "서울 집값 상승 기대 강북이 강남 추월…격차 역대 최대"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 3,
+      "representative_title": "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fdlpNb3VjRUJ0WEpqdXYtemFVeVFfWDFyYUc0MFlKSkpZcVJOWVg5Yzl1dEp5MmMzWGlhRjUyYlJiTTI1T2xDVnZ3bkpUSDBxbnliczBQVVI?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남·서초 3억 내릴 때 한강벨트는 올랐다…집값 격차 26.5% 줄어 [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ldnA0RnVqSkp3b25peHFnNUp4c09VbVRzR3pPbDhIUkJmVDJpcEZrMk5PNXktVkozZmxYTXN0elF4cHRpdkNaOHRHWWl3cWNCaXhaMHdR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fdlpNb3VjRUJ0WEpqdXYtemFVeVFfWDFyYUc0MFlKSkpZcVJOWVg5Yzl1dEp5MmMzWGlhRjUyYlJiTTI1T2xDVnZ3bkpUSDBxbnliczBQVVI?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남·서초 3억 내릴 때 한강벨트는 올랐다…집값 격차 26.5% 줄어 [부동산360]",
+        "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
