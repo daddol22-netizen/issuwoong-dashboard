@@ -1,0 +1,526 @@
+{
+  "date": "2026-10-23",
+  "hour": "10",
+  "slot": "2026-10-23_10",
+  "crawled_at": "2026-10-23 10:00:05",
+  "total_articles": 403,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "하이닉스",
+      "count": 39,
+      "representative_title": "솔리다임 IPO 딜레마 빠진 SK하이닉스",
+      "representative_link": "https://n.news.naver.com/article/024/0000109099?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "[속보]SK하이닉스 \"솔리다임 IPO 검토 절차 중단…주주 선택 고려\"",
+          "link": "https://n.news.naver.com/article/277/0005832378?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "[속보]SK하이닉스, 중복상장 논란 '솔리다임' 美 상장 철회",
+          "link": "https://n.news.naver.com/article/079/0004201907?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "SK하이닉스, 솔리다임 상장 전격중단…\"시장여건 고려\"(종합)",
+          "link": "https://n.news.naver.com/article/001/0016395700?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[2보] SK하이닉스, 솔리다임 IPO 검토 중단…\"시장 여건 변화\"",
+          "link": "https://n.news.naver.com/article/001/0016395682?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "SK하이닉스, 솔리다임 IPO 검토 중단...\"시장 여건 변화\"",
+          "link": "https://n.news.naver.com/article/052/0002422546?ntype=RANKING",
+          "press": "YTN"
+        }
+      ],
+      "related_titles": [
+        "[속보]SK하이닉스 \"솔리다임 IPO 검토 절차 중단…주주 선택 고려\"",
+        "[속보]SK하이닉스, 중복상장 논란 '솔리다임' 美 상장 철회",
+        "SK하이닉스, 솔리다임 상장 전격중단…\"시장여건 고려\"(종합)",
+        "[2보] SK하이닉스, 솔리다임 IPO 검토 중단…\"시장 여건 변화\"",
+        "SK하이닉스, 솔리다임 IPO 검토 중단...\"시장 여건 변화\""
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 2,
+      "keyword": "솔리다임",
+      "count": 38,
+      "representative_title": "중복상장 논란에…SK하닉, 솔리다임 美상장 철회",
+      "representative_link": "https://n.news.naver.com/article/020/0003757127?ntype=RANKING",
+      "press": "동아일보",
+      "related_articles": [
+        {
+          "title": "중복상장 논란에…SK하닉, 솔리다임 美상장 철회",
+          "link": "https://n.news.naver.com/article/020/0003757127?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "SK하닉, 솔리다임 美상장 추진 중단...조만간 공시",
+          "link": "https://n.news.naver.com/article/374/0000539364?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "[단독] 솔리다임, 4년 만에 美 로비 재개…상장 이어 증설 나서나",
+          "link": "https://n.news.naver.com/article/293/0000091951?ntype=RANKING",
+          "press": "블로터"
+        }
+      ],
+      "related_titles": [
+        "중복상장 논란에…SK하닉, 솔리다임 美상장 철회",
+        "SK하닉, 솔리다임 美상장 추진 중단...조만간 공시",
+        "[단독] 솔리다임, 4년 만에 美 로비 재개…상장 이어 증설 나서나"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 3,
+      "keyword": "오세훈",
+      "count": 16,
+      "representative_title": "오세훈, 2심 주사위 던졌다…1심은 당선무효형",
+      "representative_link": "https://n.news.naver.com/article/629/0000544763?ntype=RANKING",
+      "press": "더팩트",
+      "related_articles": [
+        {
+          "title": "오세훈 시장직 걸린 여론조사비 대납 의혹 사건 2심 선고 생중계",
+          "link": "https://n.news.naver.com/article/449/0000365026?ntype=RANKING",
+          "press": "채널A"
+        },
+        {
+          "title": "오세훈 '운명의 날'...명태균 여론조사비 대납 항소심 선고",
+          "link": "https://n.news.naver.com/article/052/0002422551?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "대권 가속도? 정치적 치명상?…오세훈 '운명의 날' 밝았다",
+          "link": "https://n.news.naver.com/article/119/0003145970?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "오세훈, 오늘 2심 선고 생중계…'정치생명' 운명의 갈림길",
+          "link": "https://n.news.naver.com/article/437/0000517149?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "김민석 \"오세훈 '유죄' 무게…서울시장선거 마음의 준비\"",
+          "link": "https://n.news.naver.com/article/057/0001974769?ntype=RANKING",
+          "press": "MBN"
+        }
+      ],
+      "related_titles": [
+        "오세훈 시장직 걸린 여론조사비 대납 의혹 사건 2심 선고 생중계",
+        "오세훈 '운명의 날'...명태균 여론조사비 대납 항소심 선고",
+        "대권 가속도? 정치적 치명상?…오세훈 '운명의 날' 밝았다",
+        "오세훈, 오늘 2심 선고 생중계…'정치생명' 운명의 갈림길",
+        "김민석 \"오세훈 '유죄' 무게…서울시장선거 마음의 준비\""
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 4,
+      "keyword": "한동훈",
+      "count": 14,
+      "representative_title": "한동훈 의원 어서 와, 털려보긴 처음이지?",
+      "representative_link": "https://n.news.naver.com/article/028/0002828766?ntype=RANKING",
+      "press": "한겨레",
+      "related_articles": [
+        {
+          "title": "[단독]한동훈 '딸 수사 무마 의혹' 광수대 배당…27일 고발인 조사",
+          "link": "https://n.news.naver.com/article/079/0004201895?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "\"딸 가지고 개떼처럼 달려들더니\" 한동훈, '아들 학폭 의혹'에 분노...법적 조치 예고",
+          "link": "https://n.news.naver.com/article/014/0005593360?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "한동훈, ‘근접수행’ 사진 공개…조국, ‘90도 인사’ 맞불",
+          "link": "https://n.news.naver.com/article/449/0000364991?ntype=RANKING",
+          "press": "채널A"
+        },
+        {
+          "title": "한동훈 의원 어서 와, 털려보긴 처음이지?",
+          "link": "https://n.news.naver.com/article/028/0002828766?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "검찰총장 대행 \"한동훈 조사 한계, 수사 확대 필요\"",
+          "link": "https://n.news.naver.com/article/029/0003054753?ntype=RANKING",
+          "press": "디지털타임스"
+        }
+      ],
+      "related_titles": [
+        "[단독]한동훈 '딸 수사 무마 의혹' 광수대 배당…27일 고발인 조사",
+        "\"딸 가지고 개떼처럼 달려들더니\" 한동훈, '아들 학폭 의혹'에 분노...법적 조치 예고",
+        "한동훈, ‘근접수행’ 사진 공개…조국, ‘90도 인사’ 맞불",
+        "한동훈 의원 어서 와, 털려보긴 처음이지?",
+        "검찰총장 대행 \"한동훈 조사 한계, 수사 확대 필요\""
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "의혹",
+      "count": 11,
+      "representative_title": "국세청, 일감 몰아주기 의혹 신세계면세점 특별 세무조사 착수",
+      "representative_link": "https://n.news.naver.com/article/607/0000003562?ntype=RANKING",
+      "press": "뉴스타파",
+      "related_articles": [
+        {
+          "title": "실습 여경에 \"나랑 잘래요?\"...성희롱 의혹 남경 \"'잘해요'라고 했다\"",
+          "link": "https://n.news.naver.com/article/008/0005430471?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "국세청, 일감 몰아주기 의혹 신세계면세점 특별 세무조사 착수",
+          "link": "https://n.news.naver.com/article/607/0000003562?ntype=RANKING",
+          "press": "뉴스타파"
+        }
+      ],
+      "related_titles": [
+        "실습 여경에 \"나랑 잘래요?\"...성희롱 의혹 남경 \"'잘해요'라고 했다\"",
+        "국세청, 일감 몰아주기 의혹 신세계면세점 특별 세무조사 착수"
+      ],
+      "category": "사회/일반"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "하이닉스",
+      "count": 24,
+      "representative_title": "SK하이닉스, 솔리다임 미국 상장 계획 접는다",
+      "representative_link": "https://n.news.naver.com/article/028/0002828807?ntype=RANKING",
+      "press": "한겨레",
+      "related_articles": [
+        {
+          "title": "중복상장 논란에... SK하이닉스, 솔리다임 美상장 중단",
+          "link": "https://n.news.naver.com/article/023/0004005522?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "도경완 \"하이닉스 레버리지까지 들어갔는데…마이너스 40%\"",
+          "link": "https://n.news.naver.com/article/015/0005345661?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "[단독] 솔리다임 美상장 전격 철회…SK하이닉스, 주주의견 수용",
+          "link": "https://n.news.naver.com/article/015/0005345645?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "SK하이닉스, 솔리다임 미국 상장 계획 접는다",
+          "link": "https://n.news.naver.com/article/028/0002828807?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "“솔리다임 상장 접었는데도”…SK하이닉스 프리장 1.9%↓",
+          "link": "https://n.news.naver.com/article/018/0006394334?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "중복상장 논란에... SK하이닉스, 솔리다임 美상장 중단",
+        "도경완 \"하이닉스 레버리지까지 들어갔는데…마이너스 40%\"",
+        "[단독] 솔리다임 美상장 전격 철회…SK하이닉스, 주주의견 수용",
+        "SK하이닉스, 솔리다임 미국 상장 계획 접는다",
+        "“솔리다임 상장 접었는데도”…SK하이닉스 프리장 1.9%↓"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "솔리다임",
+      "count": 23,
+      "representative_title": "중복상장 논란에…SK하닉, 솔리다임 美상장 철회",
+      "representative_link": "https://n.news.naver.com/article/020/0003757127?ntype=RANKING",
+      "press": "동아일보",
+      "related_articles": [
+        {
+          "title": "중복상장 논란에…SK하닉, 솔리다임 美상장 철회",
+          "link": "https://n.news.naver.com/article/020/0003757127?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "SK하닉, 솔리다임 美상장 추진 중단...조만간 공시",
+          "link": "https://n.news.naver.com/article/374/0000539364?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "[단독] 솔리다임, 4년 만에 美 로비 재개…상장 이어 증설 나서나",
+          "link": "https://n.news.naver.com/article/293/0000091951?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "중복상장 논란에…SK하닉, 솔리다임 美상장 철회",
+          "link": "https://n.news.naver.com/article/020/0003757127?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "SK하닉, 솔리다임 美상장 추진 중단...조만간 공시",
+          "link": "https://n.news.naver.com/article/374/0000539364?ntype=RANKING",
+          "press": "SBS Biz"
+        }
+      ],
+      "related_titles": [
+        "중복상장 논란에…SK하닉, 솔리다임 美상장 철회",
+        "SK하닉, 솔리다임 美상장 추진 중단...조만간 공시",
+        "[단독] 솔리다임, 4년 만에 美 로비 재개…상장 이어 증설 나서나",
+        "중복상장 논란에…SK하닉, 솔리다임 美상장 철회",
+        "SK하닉, 솔리다임 美상장 추진 중단...조만간 공시"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "코스피",
+      "count": 8,
+      "representative_title": "“코스피 저평가… 韓자본시장이 투자자 뒤통수치지 말아야”",
+      "representative_link": "https://n.news.naver.com/article/005/0001880403?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "“코스피 저평가… 韓자본시장이 투자자 뒤통수치지 말아야”",
+          "link": "https://n.news.naver.com/article/005/0001880403?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "\"내년 코스피 9300까지 올라\" 새 전망 나왔다…6천피 밑서 '적극 매수' 왜?",
+          "link": "https://n.news.naver.com/article/243/0000104568?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "파랗게 질린 계좌, 열어보기도 싫었는데…\"내년 코스피 8500 갈 것\" 10월 급락장 속 파격 전망",
+          "link": "https://n.news.naver.com/article/215/0001270093?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "코스피 5500선 폭락했는데…與대변인 \"내년엔 1만피 간다\"",
+          "link": "https://n.news.naver.com/article/448/0000646466?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "“코스피, 진짜 큰일났다”...믿었던 SK하이닉스마저 결국",
+          "link": "https://n.news.naver.com/article/050/0000112240?ntype=RANKING",
+          "press": "한경비즈니스"
+        }
+      ],
+      "related_titles": [
+        "“코스피 저평가… 韓자본시장이 투자자 뒤통수치지 말아야”",
+        "\"내년 코스피 9300까지 올라\" 새 전망 나왔다…6천피 밑서 '적극 매수' 왜?",
+        "파랗게 질린 계좌, 열어보기도 싫었는데…\"내년 코스피 8500 갈 것\" 10월 급락장 속 파격 전망",
+        "코스피 5500선 폭락했는데…與대변인 \"내년엔 1만피 간다\"",
+        "“코스피, 진짜 큰일났다”...믿었던 SK하이닉스마저 결국"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "투자",
+      "count": 5,
+      "representative_title": "뉴욕증시, 또다시 AI 투자 회의론…나스닥 2.6%↓",
+      "representative_link": "https://n.news.naver.com/article/629/0000544778?ntype=RANKING",
+      "press": "더팩트",
+      "related_articles": [
+        {
+          "title": "뉴욕증시, 또다시 AI 투자 회의론…나스닥 2.6%↓",
+          "link": "https://n.news.naver.com/article/629/0000544778?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "AI 투자 우려에 나스닥 2.6% 급락…반도체지수 6.7%↓",
+          "link": "https://n.news.naver.com/article/030/0003477907?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "예견됐던 이차전지 투자 철수 현실화.. 남은 투자는?",
+          "link": "https://n.news.naver.com/article/659/0000048037?ntype=RANKING",
+          "press": "전주MBC"
+        },
+        {
+          "title": "AI 투자 우려에 나스닥 2.6% 급락…반도체지수 6.7%↓",
+          "link": "https://n.news.naver.com/article/030/0003477907?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "뉴욕증시, 또다시 AI 투자 회의론…나스닥 2.6%↓",
+          "link": "https://n.news.naver.com/article/629/0000544778?ntype=RANKING",
+          "press": "더팩트"
+        }
+      ],
+      "related_titles": [
+        "뉴욕증시, 또다시 AI 투자 회의론…나스닥 2.6%↓",
+        "AI 투자 우려에 나스닥 2.6% 급락…반도체지수 6.7%↓",
+        "예견됐던 이차전지 투자 철수 현실화.. 남은 투자는?",
+        "AI 투자 우려에 나스닥 2.6% 급락…반도체지수 6.7%↓",
+        "뉴욕증시, 또다시 AI 투자 회의론…나스닥 2.6%↓"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "나스닥",
+      "count": 4,
+      "representative_title": "뉴욕증시, AI 자금 조달 부담에 기술주 급락…나스닥 6월 이후 최대 낙폭",
+      "representative_link": "https://n.news.naver.com/article/138/0002245718?ntype=RANKING",
+      "press": "디지털데일리",
+      "related_articles": [
+        {
+          "title": "뉴욕증시, AI 자금 조달 부담에 기술주 급락…나스닥 6월 이후 최대 낙폭",
+          "link": "https://n.news.naver.com/article/138/0002245718?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "뉴욕증시, AI 자금 조달 부담에 기술주 급락…나스닥 6월 이후 최대 낙폭",
+          "link": "https://n.news.naver.com/article/138/0002245718?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "뉴욕증시, AI 자금 조달 부담에 기술주 급락…나스닥 6월 이후 최대 낙폭",
+          "link": "https://n.news.naver.com/article/138/0002245718?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "뉴욕증시, AI 자금 조달 부담에 기술주 급락…나스닥 6월 이후 최대 낙폭",
+        "뉴욕증시, AI 자금 조달 부담에 기술주 급락…나스닥 6월 이후 최대 낙폭",
+        "뉴욕증시, AI 자금 조달 부담에 기술주 급락…나스닥 6월 이후 최대 낙폭"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 28,
+      "representative_title": "홍준표 “조희대 탄핵은 정권 몰락의 길”",
+      "representative_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMDBjRUlibHM1cjAxTTlMdWNzMUdWSTJ4NVR0UEotbGtudGN3ek1CWDhtNTNwZ3ZfSlo5d0VydGNwZzh2bGpkWHlYLVBJWXpG?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXNE1ob01WeHRtSllmTEVNY3V1UHVRclVta1YyWnlSNkJscTNQVTlvemVDNGp0YVAwZ004Y1MwcXI4Ung3T0JJRVpEYjVmMVotM2xlOHdJcWtjYWMwQnBfV0JycjlqcDA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “조희대 탄핵은 정권 몰락의 길”",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMDBjRUlibHM1cjAxTTlMdWNzMUdWSTJ4NVR0UEotbGtudGN3ek1CWDhtNTNwZ3ZfSlo5d0VydGNwZzh2bGpkWHlYLVBJWXpG?oc=5",
+          "press": ""
+        },
+        {
+          "title": "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12bXRDaDg1NnJLc0MyZDBFM25YRXh3QVB6Q1NqWFpPUzh4WUtxTVhZR1NWQXV5eGVfY3VxQXF4RTdMWEM2WHVsZFhsN253MlA4MXkwZ0hpZUlSRS1wanhfRUtBUlJvSG44T0E?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “조희대 탄핵하면 정권 몰락의 길...국민이 나설 것” 경고",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53Qk0yU3o5N3BpSXVPSWRFMTJqWUlhQnJqRVpObVk0QzYwSU94c3pyUE5CSnJ1ZmNHM2pfMGdlcXl1YWl1VGhGOGpwYmxHaXY5SndlUEY1OE16Z2s?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"조희대 탄핵은 정권 몰락의 길 …윤석열 석방될 수도\"",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NZVF3Y3cybTBrQjlFSlN4NXg1a3ZGN01Fa0RJWUx3bktBOThQc2tFRDRMNWMyRFZ3ZmhrNWRIMkhENE4xZ1pmRjA5dDEtLVk1V3RPWndRQnpCSFpxRktidEJYS3BwaVlBaElXTWN3cGZlc0ZRLXdsY0hnS05tVXc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
+        "홍준표 “조희대 탄핵은 정권 몰락의 길”",
+        "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”",
+        "홍준표 “조희대 탄핵하면 정권 몰락의 길...국민이 나설 것” 경고",
+        "홍준표 \"조희대 탄핵은 정권 몰락의 길 …윤석열 석방될 수도\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "스마트폰",
+      "series_title": "스마트폰의 몰락",
+      "count": 1,
+      "representative_title": "스마트폰 몰락 노키아, AI 데이터센터로 부활…3분기 순익 2배",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93VGJIVmRsSF9pcG1aQzZxa1JCeVNKNHZKNXlvV012NkNfellEM0lvNjhMMjEzZnk0QkJ5ekE5SWNGUE84TEo4T1RTcWZBa1NGSG1vZ2Noa240TXJOWGJkeGdlRnBNalk?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "스마트폰 몰락 노키아, AI 데이터센터로 부활…3분기 순익 2배",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93VGJIVmRsSF9pcG1aQzZxa1JCeVNKNHZKNXlvV012NkNfellEM0lvNjhMMjEzZnk0QkJ5ekE5SWNGUE84TEo4T1RTcWZBa1NGSG1vZ2Noa240TXJOWGJkeGdlRnBNalk?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "스마트폰 몰락 노키아, AI 데이터센터로 부활…3분기 순익 2배"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "지식",
+      "series_title": "지식의 몰락",
+      "count": 1,
+      "representative_title": "[역사와 현실]지식의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdHFoVWF1Z2lmV05hWEF0VFQxYTktVFc4TTJUbDJianZuaXYyMW5Gd2g5UmRaUFc4a2FCTkRPQklZWmlsTzJJT1dWb2JuN080WFI0bnhrZVJhUdIBX0FVX3lxTE1KVHd1MTl0UThfQUl2dGZwTWtoZjN1aXJtLUpVWVZyX1otS1RoRm9LQkk4aE15dVdxTUZ0ODJlZzVvTXJBT1BnZllTSDdmM3NiR2s2RUZBa3RSN2JLVWJ3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[역사와 현실]지식의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdHFoVWF1Z2lmV05hWEF0VFQxYTktVFc4TTJUbDJianZuaXYyMW5Gd2g5UmRaUFc4a2FCTkRPQklZWmlsTzJJT1dWb2JuN080WFI0bnhrZVJhUdIBX0FVX3lxTE1KVHd1MTl0UThfQUl2dGZwTWtoZjN1aXJtLUpVWVZyX1otS1RoRm9LQkk4aE15dVdxTUZ0ODJlZzVvTXJBT1BnZllTSDdmM3NiR2s2RUZBa3RSN2JLVWJ3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[역사와 현실]지식의 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "가신그룹",
+      "series_title": "가신그룹의 몰락",
+      "count": 1,
+      "representative_title": "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15d2JPYkV4TUxRdW0wLWIzUnhuYXJXamxJYnI2M3l5QmNEYm1XTlFHSWFvUEFVUW4yVW92Qy1QQS1LM2hsMjRqY3o4OWlPeGxHWUtsYjZNOERjVDky?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15d2JPYkV4TUxRdW0wLWIzUnhuYXJXamxJYnI2M3l5QmNEYm1XTlFHSWFvUEFVUW4yVW92Qy1QQS1LM2hsMjRqY3o4OWlPeGxHWUtsYjZNOERjVDky?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "주인공",
+      "series_title": "주인공의 몰락",
+      "count": 1,
+      "representative_title": "'손흥민과 한솥밥 먹었는데' 토트넘 역대 최고 이적료 주인공의 몰락…29세에 러시아 11위 팀 입단 테스트",
+      "representative_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1adEdWQ2x5Qmt0bC1OblppdlVkdFkteENGQ3M2VmxpZWJVcV84TDN0d1VJc2lIZFF4T0dNeTFQMnl5M3BDSVE3QVEzNS0wUGFLNl9TRFNBdlI2U1lmUk82aUJDR3JmaGVIekZ6bGlJQ3k?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'손흥민과 한솥밥 먹었는데' 토트넘 역대 최고 이적료 주인공의 몰락…29세에 러시아 11위 팀 입단 테스트",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1adEdWQ2x5Qmt0bC1OblppdlVkdFkteENGQ3M2VmxpZWJVcV84TDN0d1VJc2lIZFF4T0dNeTFQMnl5M3BDSVE3QVEzNS0wUGFLNl9TRFNBdlI2U1lmUk82aUJDR3JmaGVIekZ6bGlJQ3k?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'손흥민과 한솥밥 먹었는데' 토트넘 역대 최고 이적료 주인공의 몰락…29세에 러시아 11위 팀 입단 테스트"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": []
+}
