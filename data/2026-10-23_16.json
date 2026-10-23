@@ -1,0 +1,585 @@
+{
+  "date": "2026-10-23",
+  "hour": "16",
+  "slot": "2026-10-23_16",
+  "crawled_at": "2026-10-23 16:00:05",
+  "total_articles": 403,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "오세훈",
+      "count": 99,
+      "representative_title": "오세훈 2심 무죄 선고…서울시장직 유지",
+      "representative_link": "https://n.news.naver.com/article/055/0001397724?ntype=RANKING",
+      "press": "SBS",
+      "related_articles": [
+        {
+          "title": "오세훈 ‘정치자금법’ 사건 2심 무죄…法 “명태균 진술 믿기 어려워”",
+          "link": "https://n.news.naver.com/article/011/0004674483?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "[속보]2심 '무죄' 오세훈 \"신뢰·용기·희망 준 국민께 감사\"",
+          "link": "https://n.news.naver.com/article/079/0004202096?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "[속보]오세훈, 명태균 게이트 2심 '무죄'",
+          "link": "https://n.news.naver.com/article/079/0004202077?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "시장직 걸린 운명의 날…오세훈, 2심 선고 앞두고 \"결정적 증거 제출됐다\"",
+          "link": "https://n.news.naver.com/article/079/0004202062?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "[속보] 국민의힘, 오세훈 항소심 무죄에 \"사필귀정\"",
+          "link": "https://n.news.naver.com/article/052/0002422727?ntype=RANKING",
+          "press": "YTN"
+        }
+      ],
+      "related_titles": [
+        "오세훈 ‘정치자금법’ 사건 2심 무죄…法 “명태균 진술 믿기 어려워”",
+        "[속보]2심 '무죄' 오세훈 \"신뢰·용기·희망 준 국민께 감사\"",
+        "[속보]오세훈, 명태균 게이트 2심 '무죄'",
+        "시장직 걸린 운명의 날…오세훈, 2심 선고 앞두고 \"결정적 증거 제출됐다\"",
+        "[속보] 국민의힘, 오세훈 항소심 무죄에 \"사필귀정\""
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 2,
+      "keyword": "명태균",
+      "count": 35,
+      "representative_title": "[속보]법원 \"1심서 유죄 인정 명태균 진술 그대로 믿기 어려워\"",
+      "representative_link": "https://n.news.naver.com/article/277/0005832692?ntype=RANKING",
+      "press": "아시아경제",
+      "related_articles": [
+        {
+          "title": "[속보]법원 \"1심서 유죄 인정 명태균 진술 그대로 믿기 어려워\"",
+          "link": "https://n.news.naver.com/article/277/0005832692?ntype=RANKING",
+          "press": "아시아경제"
+        }
+      ],
+      "related_titles": [
+        "[속보]법원 \"1심서 유죄 인정 명태균 진술 그대로 믿기 어려워\""
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 3,
+      "keyword": "여론조사",
+      "count": 25,
+      "representative_title": "[창간 81주년 여론조사] 민주 33.0% VS 국힘 34.4%…강원 정당지지도 ‘초경합’",
+      "representative_link": "https://n.news.naver.com/article/087/0001225760?ntype=RANKING",
+      "press": "강원일보",
+      "related_articles": [
+        {
+          "title": "[창간 81주년 여론조사] 민주 33.0% VS 국힘 34.4%…강원 정당지지도 ‘초경합’",
+          "link": "https://n.news.naver.com/article/087/0001225760?ntype=RANKING",
+          "press": "강원일보"
+        }
+      ],
+      "related_titles": [
+        "[창간 81주년 여론조사] 민주 33.0% VS 국힘 34.4%…강원 정당지지도 ‘초경합’"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "정치자금법",
+      "count": 21,
+      "representative_title": "‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’",
+      "representative_link": "https://n.news.naver.com/article/607/0000003566?ntype=RANKING",
+      "press": "뉴스타파",
+      "related_articles": [
+        {
+          "title": "‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’",
+          "link": "https://n.news.naver.com/article/607/0000003566?ntype=RANKING",
+          "press": "뉴스타파"
+        }
+      ],
+      "related_titles": [
+        "‘윤석열 정치자금법 위반’ 1, 2심 판결문 정밀 분석 ① ‘기부’와 ‘합의’"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 5,
+      "keyword": "어려워",
+      "count": 19,
+      "representative_title": "친할아버지 과도로 찔러 숨지게한 대학생 손녀 징역 5년…“살해 고의 인정 어려워”",
+      "representative_link": "https://n.news.naver.com/article/087/0001225849?ntype=RANKING",
+      "press": "강원일보",
+      "related_articles": [
+        {
+          "title": "친할아버지 과도로 찔러 숨지게한 대학생 손녀 징역 5년…“살해 고의 인정 어려워”",
+          "link": "https://n.news.naver.com/article/087/0001225849?ntype=RANKING",
+          "press": "강원일보"
+        }
+      ],
+      "related_titles": [
+        "친할아버지 과도로 찔러 숨지게한 대학생 손녀 징역 5년…“살해 고의 인정 어려워”"
+      ],
+      "category": "사회/일반"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "하이닉스",
+      "count": 5,
+      "representative_title": "하이닉스 호재도 못 살렸다…코스피 또 '털썩'",
+      "representative_link": "https://n.news.naver.com/article/215/0001270214?ntype=RANKING",
+      "press": "한국경제TV",
+      "related_articles": [
+        {
+          "title": "-4% 급락하더니 돌연 ‘빨간불’…하이닉스 주주들 가슴 쓸어내렸다 [내가샀다]",
+          "link": "https://n.news.naver.com/article/081/0003691853?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "하이닉스 호재도 못 살렸다…코스피 또 '털썩'",
+          "link": "https://n.news.naver.com/article/215/0001270214?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "솔리다임 IPO 접은 SK하이닉스…美 낸드 투자 재원 확보 '새 과제'",
+          "link": "https://n.news.naver.com/article/293/0000092030?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "솔리다임 美 IPO 접은 SK하이닉스…주가 누르던 악재 걷힐까",
+          "link": "https://n.news.naver.com/article/629/0000544920?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "SK하이닉스, 솔리다임 美 상장 결국 중단…AI 반도체 투자 자금조달 '재검토'",
+          "link": "https://n.news.naver.com/article/123/0002392436?ntype=RANKING",
+          "press": "조세일보"
+        }
+      ],
+      "related_titles": [
+        "-4% 급락하더니 돌연 ‘빨간불’…하이닉스 주주들 가슴 쓸어내렸다 [내가샀다]",
+        "하이닉스 호재도 못 살렸다…코스피 또 '털썩'",
+        "솔리다임 IPO 접은 SK하이닉스…美 낸드 투자 재원 확보 '새 과제'",
+        "솔리다임 美 IPO 접은 SK하이닉스…주가 누르던 악재 걷힐까",
+        "SK하이닉스, 솔리다임 美 상장 결국 중단…AI 반도체 투자 자금조달 '재검토'"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "솔리다임",
+      "count": 5,
+      "representative_title": "상장 접은 솔리다임…꼬여버린 SK 셈법",
+      "representative_link": "https://n.news.naver.com/article/374/0000539436?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "솔리다임 다음은 보스턴다이내믹스?…美 상장 셈법 복잡해진 현대차",
+          "link": "https://n.news.naver.com/article/293/0000092033?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "상장 접은 솔리다임…꼬여버린 SK 셈법",
+          "link": "https://n.news.naver.com/article/374/0000539436?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "상장 접은 솔리다임…꼬여버린 SK 셈법",
+          "link": "https://n.news.naver.com/article/374/0000539436?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "솔리다임 다음은 보스턴다이내믹스?…美 상장 셈법 복잡해진 현대차",
+          "link": "https://n.news.naver.com/article/293/0000092033?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "상장 접은 솔리다임…꼬여버린 SK 셈법",
+          "link": "https://n.news.naver.com/article/374/0000539436?ntype=RANKING",
+          "press": "SBS Biz"
+        }
+      ],
+      "related_titles": [
+        "솔리다임 다음은 보스턴다이내믹스?…美 상장 셈법 복잡해진 현대차",
+        "상장 접은 솔리다임…꼬여버린 SK 셈법",
+        "상장 접은 솔리다임…꼬여버린 SK 셈법",
+        "솔리다임 다음은 보스턴다이내믹스?…美 상장 셈법 복잡해진 현대차",
+        "상장 접은 솔리다임…꼬여버린 SK 셈법"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "투자",
+      "count": 4,
+      "representative_title": "예견됐던 이차전지 투자 철수 현실화.. 남은 투자는?",
+      "representative_link": "https://n.news.naver.com/article/659/0000048037?ntype=RANKING",
+      "press": "전주MBC",
+      "related_articles": [
+        {
+          "title": "‘채시라 남편’ 김태욱, 사업가 변신하더니…‘560억 투자’ 대박, 주가는 ‘상한가’",
+          "link": "https://n.news.naver.com/article/016/0002713569?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "예견됐던 이차전지 투자 철수 현실화.. 남은 투자는?",
+          "link": "https://n.news.naver.com/article/659/0000048037?ntype=RANKING",
+          "press": "전주MBC"
+        },
+        {
+          "title": "‘채시라 남편’ 김태욱, 사업가 변신하더니…‘560억 투자’ 대박, 주가는 ‘상한가’",
+          "link": "https://n.news.naver.com/article/016/0002713569?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "예견됐던 이차전지 투자 철수 현실화.. 남은 투자는?",
+          "link": "https://n.news.naver.com/article/659/0000048037?ntype=RANKING",
+          "press": "전주MBC"
+        },
+        {
+          "title": "‘채시라 남편’ 김태욱, 사업가 변신하더니…‘560억 투자’ 대박, 주가는 ‘상한가’",
+          "link": "https://n.news.naver.com/article/016/0002713569?ntype=RANKING",
+          "press": "헤럴드경제"
+        }
+      ],
+      "related_titles": [
+        "‘채시라 남편’ 김태욱, 사업가 변신하더니…‘560억 투자’ 대박, 주가는 ‘상한가’",
+        "예견됐던 이차전지 투자 철수 현실화.. 남은 투자는?",
+        "‘채시라 남편’ 김태욱, 사업가 변신하더니…‘560억 투자’ 대박, 주가는 ‘상한가’",
+        "예견됐던 이차전지 투자 철수 현실화.. 남은 투자는?",
+        "‘채시라 남편’ 김태욱, 사업가 변신하더니…‘560억 투자’ 대박, 주가는 ‘상한가’"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "아이폰",
+      "count": 4,
+      "representative_title": "\"아이폰·패드 따로 사는 것보다 낫다\"…애플 '아이폰 듀오' 국내 출시",
+      "representative_link": "https://n.news.naver.com/article/092/0002442157?ntype=RANKING",
+      "press": "지디넷코리아",
+      "related_articles": [
+        {
+          "title": "아침 8시, 명동은 '애플 타임'…추위에도 아이폰 듀오 '밤샘 대기'[현장]",
+          "link": "https://n.news.naver.com/article/031/0001068670?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "[단독]329만원 '아이폰 듀오' 펼쳤더니 앱 양옆이 텅…네이버·금융앱 화면 절반이 '검은 여백'",
+          "link": "https://n.news.naver.com/article/003/0014274430?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "[르포] '329만원' 애플 첫 아이폰 듀오, 누가 샀나 봤더니…\"업무폰에 제격\"",
+          "link": "https://n.news.naver.com/article/138/0002245778?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "\"아이폰·패드 따로 사는 것보다 낫다\"…애플 '아이폰 듀오' 국내 출시",
+          "link": "https://n.news.naver.com/article/092/0002442157?ntype=RANKING",
+          "press": "지디넷코리아"
+        },
+        {
+          "title": "\"아이폰·패드 따로 사는 것보다 낫다\"…애플 '아이폰 듀오' 국내 출시",
+          "link": "https://n.news.naver.com/article/092/0002442157?ntype=RANKING",
+          "press": "지디넷코리아"
+        }
+      ],
+      "related_titles": [
+        "아침 8시, 명동은 '애플 타임'…추위에도 아이폰 듀오 '밤샘 대기'[현장]",
+        "[단독]329만원 '아이폰 듀오' 펼쳤더니 앱 양옆이 텅…네이버·금융앱 화면 절반이 '검은 여백'",
+        "[르포] '329만원' 애플 첫 아이폰 듀오, 누가 샀나 봤더니…\"업무폰에 제격\"",
+        "\"아이폰·패드 따로 사는 것보다 낫다\"…애플 '아이폰 듀오' 국내 출시",
+        "\"아이폰·패드 따로 사는 것보다 낫다\"…애플 '아이폰 듀오' 국내 출시"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "주식",
+      "count": 3,
+      "representative_title": "‘주식 대박’ 이세웅 전 평북지사 재산 1172억원 증가",
+      "representative_link": "https://n.news.naver.com/article/005/0001880366?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "‘주식 대박’ 이세웅 전 평북지사 재산 1172억원 증가",
+          "link": "https://n.news.naver.com/article/005/0001880366?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "\"주식 430억 매수, 매도는 맞긴 한데\"…김수용, '재산 400억설'에 쿨한 해명",
+          "link": "https://n.news.naver.com/article/215/0001270203?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "‘기생충’ 제작사 바른손이앤에이, 주식 거래정지…상장폐지 위기",
+          "link": "https://n.news.naver.com/article/119/0003146307?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "‘주식 대박’ 이세웅 전 평북지사 재산 1172억원 증가",
+          "link": "https://n.news.naver.com/article/005/0001880366?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "‘기생충’ 제작사 바른손이앤에이, 주식 거래정지…상장폐지 위기",
+          "link": "https://n.news.naver.com/article/119/0003146307?ntype=RANKING",
+          "press": "데일리안"
+        }
+      ],
+      "related_titles": [
+        "‘주식 대박’ 이세웅 전 평북지사 재산 1172억원 증가",
+        "\"주식 430억 매수, 매도는 맞긴 한데\"…김수용, '재산 400억설'에 쿨한 해명",
+        "‘기생충’ 제작사 바른손이앤에이, 주식 거래정지…상장폐지 위기",
+        "‘주식 대박’ 이세웅 전 평북지사 재산 1172억원 증가",
+        "‘기생충’ 제작사 바른손이앤에이, 주식 거래정지…상장폐지 위기"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 28,
+      "representative_title": "홍준표 “조희대 탄핵은 정권 몰락의 길”",
+      "representative_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMDBjRUlibHM1cjAxTTlMdWNzMUdWSTJ4NVR0UEotbGtudGN3ek1CWDhtNTNwZ3ZfSlo5d0VydGNwZzh2bGpkWHlYLVBJWXpG?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXNE1ob01WeHRtSllmTEVNY3V1UHVRclVta1YyWnlSNkJscTNQVTlvemVDNGp0YVAwZ004Y1MwcXI4Ung3T0JJRVpEYjVmMVotM2xlOHdJcWtjYWMwQnBfV0JycjlqcDA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “조희대 탄핵은 정권 몰락의 길”",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMDBjRUlibHM1cjAxTTlMdWNzMUdWSTJ4NVR0UEotbGtudGN3ek1CWDhtNTNwZ3ZfSlo5d0VydGNwZzh2bGpkWHlYLVBJWXpG?oc=5",
+          "press": ""
+        },
+        {
+          "title": "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12bXRDaDg1NnJLc0MyZDBFM25YRXh3QVB6Q1NqWFpPUzh4WUtxTVhZR1NWQXV5eGVfY3VxQXF4RTdMWEM2WHVsZFhsN253MlA4MXkwZ0hpZUlSRS1wanhfRUtBUlJvSG44T0E?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “조희대 탄핵하면 정권 몰락의 길...국민이 나설 것” 경고",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53Qk0yU3o5N3BpSXVPSWRFMTJqWUlhQnJqRVpObVk0QzYwSU94c3pyUE5CSnJ1ZmNHM2pfMGdlcXl1YWl1VGhGOGpwYmxHaXY5SndlUEY1OE16Z2s?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"조희대 탄핵은 정권 몰락의 길 …윤석열 석방될 수도\"",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NZVF3Y3cybTBrQjlFSlN4NXg1a3ZGN01Fa0RJWUx3bktBOThQc2tFRDRMNWMyRFZ3ZmhrNWRIMkhENE4xZ1pmRjA5dDEtLVk1V3RPWndRQnpCSFpxRktidEJYS3BwaVlBaElXTWN3cGZlc0ZRLXdsY0hnS05tVXc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
+        "홍준표 “조희대 탄핵은 정권 몰락의 길”",
+        "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”",
+        "홍준표 “조희대 탄핵하면 정권 몰락의 길...국민이 나설 것” 경고",
+        "홍준표 \"조희대 탄핵은 정권 몰락의 길 …윤석열 석방될 수도\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "지식",
+      "series_title": "지식의 몰락",
+      "count": 1,
+      "representative_title": "[역사와 현실]지식의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdHFoVWF1Z2lmV05hWEF0VFQxYTktVFc4TTJUbDJianZuaXYyMW5Gd2g5UmRaUFc4a2FCTkRPQklZWmlsTzJJT1dWb2JuN080WFI0bnhrZVJhUdIBX0FVX3lxTE1KVHd1MTl0UThfQUl2dGZwTWtoZjN1aXJtLUpVWVZyX1otS1RoRm9LQkk4aE15dVdxTUZ0ODJlZzVvTXJBT1BnZllTSDdmM3NiR2s2RUZBa3RSN2JLVWJ3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[역사와 현실]지식의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdHFoVWF1Z2lmV05hWEF0VFQxYTktVFc4TTJUbDJianZuaXYyMW5Gd2g5UmRaUFc4a2FCTkRPQklZWmlsTzJJT1dWb2JuN080WFI0bnhrZVJhUdIBX0FVX3lxTE1KVHd1MTl0UThfQUl2dGZwTWtoZjN1aXJtLUpVWVZyX1otS1RoRm9LQkk4aE15dVdxTUZ0ODJlZzVvTXJBT1BnZllTSDdmM3NiR2s2RUZBa3RSN2JLVWJ3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[역사와 현실]지식의 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "가신그룹",
+      "series_title": "가신그룹의 몰락",
+      "count": 1,
+      "representative_title": "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15d2JPYkV4TUxRdW0wLWIzUnhuYXJXamxJYnI2M3l5QmNEYm1XTlFHSWFvUEFVUW4yVW92Qy1QQS1LM2hsMjRqY3o4OWlPeGxHWUtsYjZNOERjVDky?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15d2JPYkV4TUxRdW0wLWIzUnhuYXJXamxJYnI2M3l5QmNEYm1XTlFHSWFvUEFVUW4yVW92Qy1QQS1LM2hsMjRqY3o4OWlPeGxHWUtsYjZNOERjVDky?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "천재",
+      "series_title": "천재의 몰락",
+      "count": 1,
+      "representative_title": "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWk9hS3JrTkxlWFNGdGlOOU1KWkRabmxRdW9zQ3FkS29aMWF1ZWRqcy14NTFEaTV5VGxTMnhKd3BJQ09vQ2VNcWtLMVlVTzA5T05XRzVHZVpyTm1tc0I5U1ZOU0s4QQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\"",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWk9hS3JrTkxlWFNGdGlOOU1KWkRabmxRdW9zQ3FkS29aMWF1ZWRqcy14NTFEaTV5VGxTMnhKd3BJQ09vQ2VNcWtLMVlVTzA5T05XRzVHZVpyTm1tc0I5U1ZOU0s4QQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "스마트폰",
+      "series_title": "스마트폰의 몰락",
+      "count": 1,
+      "representative_title": "스마트폰 몰락 노키아, AI 데이터센터로 부활…3분기 순익 2배",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93VGJIVmRsSF9pcG1aQzZxa1JCeVNKNHZKNXlvV012NkNfellEM0lvNjhMMjEzZnk0QkJ5ekE5SWNGUE84TEo4T1RTcWZBa1NGSG1vZ2Noa240TXJOWGJkeGdlRnBNalk?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "스마트폰 몰락 노키아, AI 데이터센터로 부활…3분기 순익 2배",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93VGJIVmRsSF9pcG1aQzZxa1JCeVNKNHZKNXlvV012NkNfellEM0lvNjhMMjEzZnk0QkJ5ekE5SWNGUE84TEo4T1RTcWZBa1NGSG1vZ2Noa240TXJOWGJkeGdlRnBNalk?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "스마트폰 몰락 노키아, AI 데이터센터로 부활…3분기 순익 2배"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 6,
+      "representative_title": "부동산시장 전망…서울 집값 상승 확산, 월세 51%가 변수",
+      "representative_link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ScEdXYWFpQlY4ekFCVDdXeW9CMzl4N0ExbTFTQmZUeWpBYk9MY3dxQ0RrQllPb0N1Tm9xVWZ1Vm5HTUJETlptZ3M2MTBiMHlQeDRJVjYtQkxBZy1Fcm9jel9GNGlpem5wRnoyWnJGdkY1dw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[오늘 부동산] \"집값 안정화\"라는데…서울 아파트값 89주 연속 상승",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTmZ4WGszLXVKVmp2bjllWWM3Rl9QcldJcFNXQU9oeWhCb1M2eGtzbUhLLUlGMlZoemtJdWlKZnNjQUxjYW9wZ2FPYlQtYlozTjN2UTlUNEhBZU15cWJBWTNVSlcya0UxQlJiX3lvTDZwUlI1MFBjckQ5X3dBelkwSnRTMVU4ek5sZ3l5bkR5VXhWYW5yUWcxVXNVTVNyOXhYQXY4eDhfTG9pZ3ZqdERJeVRoQTc1VnBfNFZONm10a0NQLVNaREVXbDZydXF2ekh1YmxNbUJSb3JpNUJzUEQ5ZTBnRFJVMUh6UEtodDh1SjJVVXpaUDRtTlYtVEdScmJadnlQakt0RFQ0cXN4Umc0S2pxRlMyUDdWV2x3VlNGOE02S00?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pc01adURLZW9VV1lzQUF5S2VUZHJ1VzV3bkMxbXVpcHc1dFhyMGNjVkczT3hjTkpjbHZJaGZFd3FrRmRpT3lWZkdHTWlhNXpkX3dYTTRVTzBIdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트값 89주 연속 상승…강남 3구만 내린 '집값 역전'",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05WUpEbGNUYVZSMm9GbFNfeVNOVUhYb0Nkbk9tRzBzNXZCY2tvaHlHV1VWNzhGUEZJQWNEWXlkbWJ1ckdOSDlxOXZnRHYwaXA1VmRwWUowUU9fMHQ2Z0FhUURHU24?oc=5",
+          "press": ""
+        },
+        {
+          "title": "부동산시장 전망…서울 집값 상승 확산, 월세 51%가 변수",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ScEdXYWFpQlY4ekFCVDdXeW9CMzl4N0ExbTFTQmZUeWpBYk9MY3dxQ0RrQllPb0N1Tm9xVWZ1Vm5HTUJETlptZ3M2MTBiMHlQeDRJVjYtQkxBZy1Fcm9jel9GNGlpem5wRnoyWnJGdkY1dw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[부동산VIEW] 비강남 토지거래허가구역 해제 검토할 때, 전세난 해소해야 서울 집값 안정 가능성 높다",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NT1NpSVFEY3ZKUVdmSzhLZWRIRVJLMUwxNlM1ZEs0WWxuZjVuYzF4RUU0QnFCWW1YQmpRQjNiNU9xUl9HTl9iUi1KbXBuSXNHUkxiTjlycjMyVW1JSzhVYUFtMjFvTU9yX2xjT1FCMjFYYzQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[오늘 부동산] \"집값 안정화\"라는데…서울 아파트값 89주 연속 상승",
+        "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다",
+        "서울 아파트값 89주 연속 상승…강남 3구만 내린 '집값 역전'",
+        "부동산시장 전망…서울 집값 상승 확산, 월세 51%가 변수",
+        "[부동산VIEW] 비강남 토지거래허가구역 해제 검토할 때, 전세난 해소해야 서울 집값 안정 가능성 높다"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "연속",
+      "count": 4,
+      "representative_title": "대전 집값 15주 연속 상승…동·중구엔 오지 않은 온기",
+      "representative_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54YXVGNkFqZDhGOHJIN0dRN3JxU3h5ODBKWllMX1hSc2d5RVRoWDh6MTBGNTV1VlZlTXRrcmdDdmVXSGlENVhTY3FkUjlKWndUeFMweFRrN0V0SWoyak51OGpFY2JTUmwtTVVwQnNR?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "대전 집값 15주 연속 상승…동·중구엔 오지 않은 온기",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54YXVGNkFqZDhGOHJIN0dRN3JxU3h5ODBKWllMX1hSc2d5RVRoWDh6MTBGNTV1VlZlTXRrcmdDdmVXSGlENVhTY3FkUjlKWndUeFMweFRrN0V0SWoyak51OGpFY2JTUmwtTVVwQnNR?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "대전 집값 15주 연속 상승…동·중구엔 오지 않은 온기"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "강남",
+      "count": 3,
+      "representative_title": "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fdlpNb3VjRUJ0WEpqdXYtemFVeVFfWDFyYUc0MFlKSkpZcVJOWVg5Yzl1dEp5MmMzWGlhRjUyYlJiTTI1T2xDVnZ3bkpUSDBxbnliczBQVVI?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fdlpNb3VjRUJ0WEpqdXYtemFVeVFfWDFyYUc0MFlKSkpZcVJOWVg5Yzl1dEp5MmMzWGlhRjUyYlJiTTI1T2xDVnZ3bkpUSDBxbnliczBQVVI?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남·서초 3억 내릴 때 한강벨트는 올랐다…집값 격차 26.5% 줄어 [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ldnA0RnVqSkp3b25peHFnNUp4c09VbVRzR3pPbDhIUkJmVDJpcEZrMk5PNXktVkozZmxYTXN0elF4cHRpdkNaOHRHWWl3cWNCaXhaMHdR?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
+        "강남·서초 3억 내릴 때 한강벨트는 올랐다…집값 격차 26.5% 줄어 [부동산360]"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "지방",
+      "count": 2,
+      "representative_title": "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMUZ1WTNoODRhSTJsS2lOU3RjWDktN0ZRc0hRV29nQ014SlFWZHJIMWJjcnJ1R3F4SllWZFFfZERXcEFibGpja3luZzFhSW9nV1JEb2lfZGNWYkI2MzNzYmF1eGg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMUZ1WTNoODRhSTJsS2lOU3RjWDktN0ZRc0hRV29nQ014SlFWZHJIMWJjcnJ1R3F4SllWZFFfZERXcEFibGpja3luZzFhSW9nV1JEb2lfZGNWYkI2MzNzYmF1eGg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JLVhmNUpRNHMtdzFaNEF0NHprT1E5MjNtWUVfYzJReC1iZGxwN053N2otejdNNzJucmM0UzJtNE5takotSTVaejRCR19BU1VfaEs0ejQ5RHRkLUNrOVlVVXk5aTNuOHo2c3FVQnNEQ1DSAXBBVV95cUxNSS1YZjVKUTRzLXcxWjRBdDR6a09ROTIzbVlFX2MyUXgtYmRscDdOdzdqLXo3TTcybnJjNFMybTRObWpKLUk1Wno0QkdfQVNVX2hLNHo0OUR0ZC1DazlZVVV5OWkzbjh6NnNxVUJzRENQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
+        "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
