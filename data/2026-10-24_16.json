@@ -1,0 +1,497 @@
+{
+  "date": "2026-10-24",
+  "hour": "16",
+  "slot": "2026-10-24_16",
+  "crawled_at": "2026-10-24 16:02:01",
+  "total_articles": 407,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "김정은",
+      "count": 22,
+      "representative_title": "'사망설' 김정은, 건재 과시…중대장대회 지도",
+      "representative_link": "https://n.news.naver.com/article/422/0000919033?ntype=RANKING",
+      "press": "연합뉴스TV",
+      "related_articles": [
+        {
+          "title": "‘140㎏ 초고도 비만’ 북한 김정은, 뇌출혈 사망설 나왔는데…군사 행사에 등장",
+          "link": "https://n.news.naver.com/article/009/0005753382?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "‘뇌출혈로 사망했다더니…’ 김정은, 전군 중대장 모아놓고 “강군 건설” 강조",
+          "link": "https://n.news.naver.com/article/021/0002827478?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "“지금이 김정은 인생 최고의 순간”…사망설 돌더니 ‘역대급 돈방석’ 앉았나",
+          "link": "https://n.news.naver.com/article/081/0003692064?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "'사망설' 북한 김정은, 공개석상 등장‥\"최강의 군대 건설\"",
+          "link": "https://n.news.naver.com/article/214/0001531164?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "‘사망설’ 돌자 보란 듯 공개석상 등장한 김정은···군 수뇌부 앞에서 “최강의 군대 건설”",
+          "link": "https://n.news.naver.com/article/032/0003478236?ntype=RANKING",
+          "press": "경향신문"
+        }
+      ],
+      "related_titles": [
+        "‘140㎏ 초고도 비만’ 북한 김정은, 뇌출혈 사망설 나왔는데…군사 행사에 등장",
+        "‘뇌출혈로 사망했다더니…’ 김정은, 전군 중대장 모아놓고 “강군 건설” 강조",
+        "“지금이 김정은 인생 최고의 순간”…사망설 돌더니 ‘역대급 돈방석’ 앉았나",
+        "'사망설' 북한 김정은, 공개석상 등장‥\"최강의 군대 건설\"",
+        "‘사망설’ 돌자 보란 듯 공개석상 등장한 김정은···군 수뇌부 앞에서 “최강의 군대 건설”"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 2,
+      "keyword": "오세훈",
+      "count": 20,
+      "representative_title": "특검, 오세훈 2심 무죄에 \"상고할 것\"",
+      "representative_link": "https://n.news.naver.com/article/655/0000033286?ntype=RANKING",
+      "press": "CJB청주방송",
+      "related_articles": [
+        {
+          "title": "[단독] 오세훈 무죄에 환영행사 연 비서실...\"하늘이 무너져도 정의를 세워라\"",
+          "link": "https://n.news.naver.com/article/437/0000517336?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "사법리스크 뚫고 생환한 오세훈…힘 받는 '2030 대망론'",
+          "link": "https://n.news.naver.com/article/079/0004202271?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "\"왜 무죄?\" vs \"억지 기소\"...오세훈 항소심 후폭풍",
+          "link": "https://n.news.naver.com/article/052/0002423070?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "오세훈 2심 무죄에 민주 “왜 아무도 처벌 안 받나”…국힘 “특검 사죄하라”",
+          "link": "https://n.news.naver.com/article/005/0001880586?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "조갑제, 오세훈 무죄에 “판사가 나라구해…장동혁 정치적 파산”",
+          "link": "https://n.news.naver.com/article/005/0001880588?ntype=RANKING",
+          "press": "국민일보"
+        }
+      ],
+      "related_titles": [
+        "[단독] 오세훈 무죄에 환영행사 연 비서실...\"하늘이 무너져도 정의를 세워라\"",
+        "사법리스크 뚫고 생환한 오세훈…힘 받는 '2030 대망론'",
+        "\"왜 무죄?\" vs \"억지 기소\"...오세훈 항소심 후폭풍",
+        "오세훈 2심 무죄에 민주 “왜 아무도 처벌 안 받나”…국힘 “특검 사죄하라”",
+        "조갑제, 오세훈 무죄에 “판사가 나라구해…장동혁 정치적 파산”"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 3,
+      "keyword": "무죄",
+      "count": 14,
+      "representative_title": "오세훈도 윤석열도 무죄…두 판결 뒤집은 구회근 판사는 누구?",
+      "representative_link": "https://n.news.naver.com/article/053/0000062524?ntype=RANKING",
+      "press": "주간조선",
+      "related_articles": [
+        {
+          "title": "\"오세훈이는 몰라요\" 결정적… 法 '명태균 진술 신빙성' 10번 언급 뒤 \"무죄\"",
+          "link": "https://n.news.naver.com/article/469/0000961364?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "윤 이어 오세훈도 무죄 선고한 재판부...\"엄격 증거 의해야\"",
+          "link": "https://n.news.naver.com/article/052/0002422928?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "오세훈도 윤석열도 무죄…두 판결 뒤집은 구회근 판사는 누구?",
+          "link": "https://n.news.naver.com/article/053/0000062524?ntype=RANKING",
+          "press": "주간조선"
+        }
+      ],
+      "related_titles": [
+        "\"오세훈이는 몰라요\" 결정적… 法 '명태균 진술 신빙성' 10번 언급 뒤 \"무죄\"",
+        "윤 이어 오세훈도 무죄 선고한 재판부...\"엄격 증거 의해야\"",
+        "오세훈도 윤석열도 무죄…두 판결 뒤집은 구회근 판사는 누구?"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "추미애",
+      "count": 12,
+      "representative_title": "추미애, 논란 속 \"소방관 인건비 전액 국가가 책임져야\"",
+      "representative_link": "https://n.news.naver.com/article/655/0000033285?ntype=RANKING",
+      "press": "CJB청주방송",
+      "related_articles": [
+        {
+          "title": "1억원 전액 삭감…추미애, ‘대폭 축소’ 순직 소방관 추모행사서 처우·예우 개선 약속",
+          "link": "https://n.news.naver.com/article/009/0005753391?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "[속보]‘빨대’ 논란 추미애, ‘1억 삭감’으로 축소된 순직 소방관 추모행사 참석…“소방관이 지켜야 할 생명에는 소방관 자신의 생명도 포함”",
+          "link": "https://n.news.naver.com/article/021/0002827491?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "'재정 빨대' 논란 뒤 추모식 선 추미애…\"소방관 처우·예우 꼭 바꿀 것\"",
+          "link": "https://n.news.naver.com/article/421/0009247512?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "[속보] 1억→750만원으로 줄어든 순직 소방관 추모행사…추미애, 처우 개선 약속",
+          "link": "https://n.news.naver.com/article/022/0004169321?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "소방 ‘재정 빨대’ 논란 추미애 “처우·예우 꼭 바꾸겠다”",
+          "link": "https://n.news.naver.com/article/005/0001880590?ntype=RANKING",
+          "press": "국민일보"
+        }
+      ],
+      "related_titles": [
+        "1억원 전액 삭감…추미애, ‘대폭 축소’ 순직 소방관 추모행사서 처우·예우 개선 약속",
+        "[속보]‘빨대’ 논란 추미애, ‘1억 삭감’으로 축소된 순직 소방관 추모행사 참석…“소방관이 지켜야 할 생명에는 소방관 자신의 생명도 포함”",
+        "'재정 빨대' 논란 뒤 추모식 선 추미애…\"소방관 처우·예우 꼭 바꿀 것\"",
+        "[속보] 1억→750만원으로 줄어든 순직 소방관 추모행사…추미애, 처우 개선 약속",
+        "소방 ‘재정 빨대’ 논란 추미애 “처우·예우 꼭 바꾸겠다”"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "의혹",
+      "count": 11,
+      "representative_title": "\"모텔 갔지만 아무일 없어\"…양홍원, 불륜 의혹 폭로자 고소",
+      "representative_link": "https://n.news.naver.com/article/215/0001270298?ntype=RANKING",
+      "press": "한국경제TV",
+      "related_articles": [
+        {
+          "title": "기성용 성폭력 의혹 제기한 초등학교 후배, 2심도 1억원 배상 판결",
+          "link": "https://n.news.naver.com/article/087/0001225882?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "\"모텔 갔지만 아무일 없어\"…양홍원, 불륜 의혹 폭로자 고소",
+          "link": "https://n.news.naver.com/article/215/0001270298?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "\"모텔 갔지만 애정행위 없었다\" 양홍원 측, 결혼 5일만에 불거진 '불륜 의혹' 부인",
+          "link": "https://n.news.naver.com/article/014/0005593799?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "“기성용 성기 모양까지 기억” 주장하더니…‘기성용 성폭행 의혹’ 결국 이렇게 됐다",
+          "link": "https://n.news.naver.com/article/016/0002713718?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "결혼 5일만에 불륜 의혹…양홍원 “모텔 갔지만 애정행위 없었다”",
+          "link": "https://n.news.naver.com/article/025/0003560126?ntype=RANKING",
+          "press": "중앙일보"
+        }
+      ],
+      "related_titles": [
+        "기성용 성폭력 의혹 제기한 초등학교 후배, 2심도 1억원 배상 판결",
+        "\"모텔 갔지만 아무일 없어\"…양홍원, 불륜 의혹 폭로자 고소",
+        "\"모텔 갔지만 애정행위 없었다\" 양홍원 측, 결혼 5일만에 불거진 '불륜 의혹' 부인",
+        "“기성용 성기 모양까지 기억” 주장하더니…‘기성용 성폭행 의혹’ 결국 이렇게 됐다",
+        "결혼 5일만에 불륜 의혹…양홍원 “모텔 갔지만 애정행위 없었다”"
+      ],
+      "category": "사회/일반"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 4,
+      "representative_title": "[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아",
+      "representative_link": "https://n.news.naver.com/article/648/0000051899?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "솔리다임 상장 접은 SK하이닉스…‘30조 주주환원’, 코스피 반등 카드 될까",
+          "link": "https://n.news.naver.com/article/011/0004674674?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아",
+          "link": "https://n.news.naver.com/article/648/0000051899?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "코스피, 장중 4% 급락 딛고 상승 마감…'삼전닉스' 반등 견인",
+          "link": "https://n.news.naver.com/article/629/0000545066?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "외국인 반도체 매도 폭탄 ‘일단 멈춤’… 5500선 지킨 코스피, 다음주 실적 발표 시험대",
+          "link": "https://n.news.naver.com/article/037/0000039030?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "솔리다임 상장 접은 SK하이닉스…‘30조 주주환원’, 코스피 반등 카드 될까",
+          "link": "https://n.news.naver.com/article/011/0004674674?ntype=RANKING",
+          "press": "서울경제"
+        }
+      ],
+      "related_titles": [
+        "솔리다임 상장 접은 SK하이닉스…‘30조 주주환원’, 코스피 반등 카드 될까",
+        "[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아",
+        "코스피, 장중 4% 급락 딛고 상승 마감…'삼전닉스' 반등 견인",
+        "외국인 반도체 매도 폭탄 ‘일단 멈춤’… 5500선 지킨 코스피, 다음주 실적 발표 시험대",
+        "솔리다임 상장 접은 SK하이닉스…‘30조 주주환원’, 코스피 반등 카드 될까"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 13,
+      "representative_title": "홍준표 “조희대 탄핵은 정권 몰락의 길”",
+      "representative_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMDBjRUlibHM1cjAxTTlMdWNzMUdWSTJ4NVR0UEotbGtudGN3ek1CWDhtNTNwZ3ZfSlo5d0VydGNwZzh2bGpkWHlYLVBJWXpG?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "홍준표 “조희대 탄핵은 정권 몰락의 길”",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMDBjRUlibHM1cjAxTTlMdWNzMUdWSTJ4NVR0UEotbGtudGN3ek1CWDhtNTNwZ3ZfSlo5d0VydGNwZzh2bGpkWHlYLVBJWXpG?oc=5",
+          "press": ""
+        },
+        {
+          "title": "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IMzB2ZmNMeHVyTWtpLVk4U0NNMUJUYzRQNXJKX2xNZUJ1ME1NUUNvWHFkVEN1clNfRDZPUGVQc0M2cDJNOEVwT2s0RzFrX1NjTy1Ud0ZZelR5M2Zqa1E?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 \"조희대 탄핵은 정권 몰락의 길 …윤석열 석방될 수도\"",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NZVF3Y3cybTBrQjlFSlN4NXg1a3ZGN01Fa0RJWUx3bktBOThQc2tFRDRMNWMyRFZ3ZmhrNWRIMkhENE4xZ1pmRjA5dDEtLVk1V3RPWndRQnpCSFpxRktidEJYS3BwaVlBaElXTWN3cGZlc0ZRLXdsY0hnS05tVXc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “조희대 탄핵하면 정권 몰락의 길...국민이 나설 것” 경고",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53Qk0yU3o5N3BpSXVPSWRFMTJqWUlhQnJqRVpObVk0QzYwSU94c3pyUE5CSnJ1ZmNHM2pfMGdlcXl1YWl1VGhGOGpwYmxHaXY5SndlUEY1OE16Z2s?oc=5",
+          "press": ""
+        },
+        {
+          "title": "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12bXRDaDg1NnJLc0MyZDBFM25YRXh3QVB6Q1NqWFpPUzh4WUtxTVhZR1NWQXV5eGVfY3VxQXF4RTdMWEM2WHVsZFhsN253MlA4MXkwZ0hpZUlSRS1wanhfRUtBUlJvSG44T0E?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "홍준표 “조희대 탄핵은 정권 몰락의 길”",
+        "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”",
+        "홍준표 \"조희대 탄핵은 정권 몰락의 길 …윤석열 석방될 수도\"",
+        "홍준표 “조희대 탄핵하면 정권 몰락의 길...국민이 나설 것” 경고",
+        "여야, 조희대 탄핵 놓고 공방… “끝까지 책임” vs “정권 몰락 신호”"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "남동생",
+      "series_title": "남동생의 몰락",
+      "count": 2,
+      "representative_title": "충격 \"경찰 피해 지하터널서 생활\" 테니스 전설 남동생의 몰락... 매일 기괴한 방송까지 \"매형 아가시와 주먹질\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wTFJTd2tNS3ZHNU1LclhnUGFkTy14NzRuOG9fWlY5elRnc29tVnB5eElBUWwteEZSOGR4TGJKVURTNjV1R0x6RnIxRGVZM0FOc2F0U0tHSVltYVhETEdHYV9IbU1lRHQ5d0sxN1JJeWgyRFFRcnc?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "충격 \"경찰 피해 지하터널서 생활\" 테니스 전설 남동생의 몰락... 매일 기괴한 방송까지 \"매형 아가시와 주먹질\" - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkYXBfQnVtVjJmZTlrMmFzUEg2aDJEOVpCVDlmOTRTMU5RQkluOWNnNzRpR01qeFVPVmFWYTdQT0xDWVNxWjUyNmtNZ2lhTS1rTzY5THFKMUFkMkZnSzNtcEFBSFVST0FCUGfSAW9BVV95cUxQaTNlUE9fX1ZZRkhMaFZYVmVhUkoxN0ZMaE4tcXQ5by1vQ2lXRzZqZ0JrZ1I5cGF3V1FWYlVoZ0g5RlFRU1JlVmNqU0Q4WkhXdXJRYjNEY3pVbjdiQ3R6bE5HNnI4dDVnT3FTdFVMc1U?oc=5",
+          "press": ""
+        },
+        {
+          "title": "충격 \"경찰 피해 지하터널서 생활\" 테니스 전설 남동생의 몰락... 매일 기괴한 방송까지 \"매형 아가시와 주먹질\"",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wTFJTd2tNS3ZHNU1LclhnUGFkTy14NzRuOG9fWlY5elRnc29tVnB5eElBUWwteEZSOGR4TGJKVURTNjV1R0x6RnIxRGVZM0FOc2F0U0tHSVltYVhETEdHYV9IbU1lRHQ5d0sxN1JJeWgyRFFRcnc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "충격 \"경찰 피해 지하터널서 생활\" 테니스 전설 남동생의 몰락... 매일 기괴한 방송까지 \"매형 아가시와 주먹질\" - 머니투데이",
+        "충격 \"경찰 피해 지하터널서 생활\" 테니스 전설 남동생의 몰락... 매일 기괴한 방송까지 \"매형 아가시와 주먹질\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "지식",
+      "series_title": "지식의 몰락",
+      "count": 1,
+      "representative_title": "[역사와 현실]지식의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdHFoVWF1Z2lmV05hWEF0VFQxYTktVFc4TTJUbDJianZuaXYyMW5Gd2g5UmRaUFc4a2FCTkRPQklZWmlsTzJJT1dWb2JuN080WFI0bnhrZVJhUdIBX0FVX3lxTE1KVHd1MTl0UThfQUl2dGZwTWtoZjN1aXJtLUpVWVZyX1otS1RoRm9LQkk4aE15dVdxTUZ0ODJlZzVvTXJBT1BnZllTSDdmM3NiR2s2RUZBa3RSN2JLVWJ3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[역사와 현실]지식의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdHFoVWF1Z2lmV05hWEF0VFQxYTktVFc4TTJUbDJianZuaXYyMW5Gd2g5UmRaUFc4a2FCTkRPQklZWmlsTzJJT1dWb2JuN080WFI0bnhrZVJhUdIBX0FVX3lxTE1KVHd1MTl0UThfQUl2dGZwTWtoZjN1aXJtLUpVWVZyX1otS1RoRm9LQkk4aE15dVdxTUZ0ODJlZzVvTXJBT1BnZllTSDdmM3NiR2s2RUZBa3RSN2JLVWJ3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[역사와 현실]지식의 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "가신그룹",
+      "series_title": "가신그룹의 몰락",
+      "count": 1,
+      "representative_title": "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15d2JPYkV4TUxRdW0wLWIzUnhuYXJXamxJYnI2M3l5QmNEYm1XTlFHSWFvUEFVUW4yVW92Qy1QQS1LM2hsMjRqY3o4OWlPeGxHWUtsYjZNOERjVDky?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15d2JPYkV4TUxRdW0wLWIzUnhuYXJXamxJYnI2M3l5QmNEYm1XTlFHSWFvUEFVUW4yVW92Qy1QQS1LM2hsMjRqY3o4OWlPeGxHWUtsYjZNOERjVDky?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "스마트폰",
+      "series_title": "스마트폰의 몰락",
+      "count": 1,
+      "representative_title": "스마트폰 몰락 노키아, AI 데이터센터로 부활…3분기 순익 2배",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93VGJIVmRsSF9pcG1aQzZxa1JCeVNKNHZKNXlvV012NkNfellEM0lvNjhMMjEzZnk0QkJ5ekE5SWNGUE84TEo4T1RTcWZBa1NGSG1vZ2Noa240TXJOWGJkeGdlRnBNalk?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "스마트폰 몰락 노키아, AI 데이터센터로 부활…3분기 순익 2배",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93VGJIVmRsSF9pcG1aQzZxa1JCeVNKNHZKNXlvV012NkNfellEM0lvNjhMMjEzZnk0QkJ5ekE5SWNGUE84TEo4T1RTcWZBa1NGSG1vZ2Noa240TXJOWGJkeGdlRnBNalk?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "스마트폰 몰락 노키아, AI 데이터센터로 부활…3분기 순익 2배"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 4,
+      "representative_title": "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pc01adURLZW9VV1lzQUF5S2VUZHJ1VzV3bkMxbXVpcHc1dFhyMGNjVkczT3hjTkpjbHZJaGZFd3FrRmRpT3lWZkdHTWlhNXpkX3dYTTRVTzBIdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[오늘 부동산] \"집값 안정화\"라는데…서울 아파트값 89주 연속 상승",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTmZ4WGszLXVKVmp2bjllWWM3Rl9QcldJcFNXQU9oeWhCb1M2eGtzbUhLLUlGMlZoemtJdWlKZnNjQUxjYW9wZ2FPYlQtYlozTjN2UTlUNEhBZU15cWJBWTNVSlcya0UxQlJiX3lvTDZwUlI1MFBjckQ5X3dBelkwSnRTMVU4ek5sZ3l5bkR5VXhWYW5yUWcxVXNVTVNyOXhYQXY4eDhfTG9pZ3ZqdERJeVRoQTc1VnBfNFZONm10a0NQLVNaREVXbDZydXF2ekh1YmxNbUJSb3JpNUJzUEQ5ZTBnRFJVMUh6UEtodDh1SjJVVXpaUDRtTlYtVEdScmJadnlQakt0RFQ0cXN4Umc0S2pxRlMyUDdWV2x3VlNGOE02S00?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 수억 내리고, 강북은 신고가…서울 집값 상승축 이동[부동산 머니무브①]",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44WmVXdmYxTWpfR0F2V0pHcG9DbHpEUjlxNXhhWHhBQkVxc2k5UG9hNVNmQm1PU1cydkp6NkJYckNsVjRiOXVQalRsUmktU2hRUjltYk5vUF90d3llbWM1SzNockNKdENNRGZ5a3cwQWEzcGpGemJDcdIBeEFVX3lxTE44WmVXdmYxTWpfR0F2V0pHcG9DbHpEUjlxNXhhWHhBQkVxc2k5UG9hNVNmQm1PU1cydkp6NkJYckNsVjRiOXVQalRsUmktU2hRUjltYk5vUF90d3llbWM1SzNockNKdENNRGZ5a3cwQWEzcGpGemJDcQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pc01adURLZW9VV1lzQUF5S2VUZHJ1VzV3bkMxbXVpcHc1dFhyMGNjVkczT3hjTkpjbHZJaGZFd3FrRmRpT3lWZkdHTWlhNXpkX3dYTTRVTzBIdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트값 89주 연속 상승…강남 3구만 내린 '집값 역전'",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05WUpEbGNUYVZSMm9GbFNfeVNOVUhYb0Nkbk9tRzBzNXZCY2tvaHlHV1VWNzhGUEZJQWNEWXlkbWJ1ckdOSDlxOXZnRHYwaXA1VmRwWUowUU9fMHQ2Z0FhUURHU24?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[오늘 부동산] \"집값 안정화\"라는데…서울 아파트값 89주 연속 상승",
+        "강남 수억 내리고, 강북은 신고가…서울 집값 상승축 이동[부동산 머니무브①]",
+        "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다",
+        "서울 아파트값 89주 연속 상승…강남 3구만 내린 '집값 역전'"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "연속",
+      "count": 4,
+      "representative_title": "대전 집값 15주 연속 상승…동·중구엔 오지 않은 온기",
+      "representative_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54YXVGNkFqZDhGOHJIN0dRN3JxU3h5ODBKWllMX1hSc2d5RVRoWDh6MTBGNTV1VlZlTXRrcmdDdmVXSGlENVhTY3FkUjlKWndUeFMweFRrN0V0SWoyak51OGpFY2JTUmwtTVVwQnNR?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "대전 집값 15주 연속 상승…동·중구엔 오지 않은 온기",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54YXVGNkFqZDhGOHJIN0dRN3JxU3h5ODBKWllMX1hSc2d5RVRoWDh6MTBGNTV1VlZlTXRrcmdDdmVXSGlENVhTY3FkUjlKWndUeFMweFRrN0V0SWoyak51OGpFY2JTUmwtTVVwQnNR?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "대전 집값 15주 연속 상승…동·중구엔 오지 않은 온기"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "강남",
+      "count": 4,
+      "representative_title": "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fdlpNb3VjRUJ0WEpqdXYtemFVeVFfWDFyYUc0MFlKSkpZcVJOWVg5Yzl1dEp5MmMzWGlhRjUyYlJiTTI1T2xDVnZ3bkpUSDBxbnliczBQVVI?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fdlpNb3VjRUJ0WEpqdXYtemFVeVFfWDFyYUc0MFlKSkpZcVJOWVg5Yzl1dEp5MmMzWGlhRjUyYlJiTTI1T2xDVnZ3bkpUSDBxbnliczBQVVI?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남·서초 3억 내릴 때 한강벨트는 올랐다…집값 격차 26.5% 줄어 [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ldnA0RnVqSkp3b25peHFnNUp4c09VbVRzR3pPbDhIUkJmVDJpcEZrMk5PNXktVkozZmxYTXN0elF4cHRpdkNaOHRHWWl3cWNCaXhaMHdR?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
+        "강남·서초 3억 내릴 때 한강벨트는 올랐다…집값 격차 26.5% 줄어 [부동산360]"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "지방",
+      "count": 2,
+      "representative_title": "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMUZ1WTNoODRhSTJsS2lOU3RjWDktN0ZRc0hRV29nQ014SlFWZHJIMWJjcnJ1R3F4SllWZFFfZERXcEFibGpja3luZzFhSW9nV1JEb2lfZGNWYkI2MzNzYmF1eGg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMUZ1WTNoODRhSTJsS2lOU3RjWDktN0ZRc0hRV29nQ014SlFWZHJIMWJjcnJ1R3F4SllWZFFfZERXcEFibGpja3luZzFhSW9nV1JEb2lfZGNWYkI2MzNzYmF1eGg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KdEVtY0ZrQVdkRGhhODJncjhzWklESkkxNFR3ODdORGJVTjU0MFF4TWlzNVdINDhYY1VrUS11a3o1QVQ2YTRhdGVJM2I1elI2VjlBUU95dnh5Vm1ZMDNjZ1p1Y2NZbE43SWxpOdIBcEFVX3lxTE1JLVhmNUpRNHMtdzFaNEF0NHprT1E5MjNtWUVfYzJReC1iZGxwN053N2otejdNNzJucmM0UzJtNE5takotSTVaejRCR19BU1VfaEs0ejQ5RHRkLUNrOVlVVXk5aTNuOHo2c3FVQnNEQ1A?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
+        "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
