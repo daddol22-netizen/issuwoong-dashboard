@@ -1,32 +1,75 @@
 {
   "date": "2026-10-24",
-  "hour": "10",
-  "slot": "2026-10-24_10",
-  "crawled_at": "2026-10-24 10:13:45",
+  "hour": "13",
+  "slot": "2026-10-24_13",
+  "crawled_at": "2026-10-24 13:02:48",
   "total_articles": 407,
   "topics": [
     {
       "rank": 1,
-      "keyword": "오세훈",
-      "count": 30,
-      "representative_title": "오세훈, 한숨 돌렸다",
-      "representative_link": "https://n.news.naver.com/article/353/0000057024?ntype=RANKING",
-      "press": "중앙SUNDAY",
+      "keyword": "김정은",
+      "count": 29,
+      "representative_title": "김정은 사망설 이어 이번엔 '대역설'?",
+      "representative_link": "https://n.news.naver.com/article/055/0001397886?ntype=RANKING",
+      "press": "SBS",
       "related_articles": [
         {
-          "title": "“끝났다” 외친 서울시 직원들···‘무죄’ 오세훈, 본격 대선모드 들어가나",
-          "link": "https://n.news.naver.com/article/032/0003478152?ntype=RANKING",
-          "press": "경향신문"
+          "title": "‘사망설’ 김정은, 중대장대회 주재…“세계 최강 무장력 육성”",
+          "link": "https://n.news.naver.com/article/449/0000365131?ntype=RANKING",
+          "press": "채널A"
         },
         {
-          "title": "오세훈 무죄에 \"조희대 탄핵 이유 늘었다\"는 범여…\"내란 바퀴벌레들 기어나와\"",
-          "link": "https://n.news.naver.com/article/448/0000646647?ntype=RANKING",
-          "press": "TV조선"
+          "title": "美전문가 “김정은 현재 최고의 시기…北성장률, 韓추정보다 높을수도”",
+          "link": "https://n.news.naver.com/article/449/0000365127?ntype=RANKING",
+          "press": "채널A"
         },
         {
-          "title": "사법리스크 턴 오세훈, 차기 대권 행보도 탄력…野 \"특검 정치기소 책임져야\"",
-          "link": "https://n.news.naver.com/article/448/0000646646?ntype=RANKING",
-          "press": "TV조선"
+          "title": "김정은 사망설 이어 이번엔 '대역설'?",
+          "link": "https://n.news.naver.com/article/055/0001397886?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "'사망설' 김정은, 사흘 만에 공개활동... \"세계 최강 무장력 육성\"",
+          "link": "https://n.news.naver.com/article/047/0002533316?ntype=RANKING",
+          "press": "오마이뉴스"
+        },
+        {
+          "title": "김정은, 중대장대회 직접 지도… “강철같은 군기” 주문",
+          "link": "https://n.news.naver.com/article/366/0001200051?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "‘사망설’ 김정은, 중대장대회 주재…“세계 최강 무장력 육성”",
+        "美전문가 “김정은 현재 최고의 시기…北성장률, 韓추정보다 높을수도”",
+        "김정은 사망설 이어 이번엔 '대역설'?",
+        "'사망설' 김정은, 사흘 만에 공개활동... \"세계 최강 무장력 육성\"",
+        "김정은, 중대장대회 직접 지도… “강철같은 군기” 주문"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 2,
+      "keyword": "오세훈",
+      "count": 21,
+      "representative_title": "특검, 오세훈 2심 무죄에 \"상고할 것\"",
+      "representative_link": "https://n.news.naver.com/article/655/0000033286?ntype=RANKING",
+      "press": "CJB청주방송",
+      "related_articles": [
+        {
+          "title": "오세훈 2심 무죄에 민주 “왜 아무도 처벌 안 받나”…국힘 “특검 사죄하라”",
+          "link": "https://n.news.naver.com/article/005/0001880586?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "명태균 \"오세훈 무죄? 나는 그런 사회에서는 못 산다\"",
+          "link": "https://n.news.naver.com/article/047/0002533283?ntype=RANKING",
+          "press": "오마이뉴스"
+        },
+        {
+          "title": "[단독] '명태균 진술 왜 못 믿었나?' 오세훈 무죄 '판결문' 분석",
+          "link": "https://n.news.naver.com/article/437/0000517274?ntype=RANKING",
+          "press": "JTBC"
         },
         {
           "title": "“오세훈, 울면서 나경원 이기는 조사 요청” 명태균 진술 배척한 2심",
@@ -34,70 +77,27 @@
           "press": "한겨레"
         },
         {
-          "title": "“사법개혁 안 한 후과다”…오세훈 생환에 조국혁신당이 꺼내 든 ‘조희대 탄핵’ 카드",
-          "link": "https://n.news.naver.com/article/081/0003692046?ntype=RANKING",
-          "press": "서울신문"
+          "title": "오세훈 무죄에 \"조희대 탄핵 이유 늘었다\"는 범여…\"내란 바퀴벌레들 기어나와\"",
+          "link": "https://n.news.naver.com/article/448/0000646647?ntype=RANKING",
+          "press": "TV조선"
         }
       ],
       "related_titles": [
-        "“끝났다” 외친 서울시 직원들···‘무죄’ 오세훈, 본격 대선모드 들어가나",
-        "오세훈 무죄에 \"조희대 탄핵 이유 늘었다\"는 범여…\"내란 바퀴벌레들 기어나와\"",
-        "사법리스크 턴 오세훈, 차기 대권 행보도 탄력…野 \"특검 정치기소 책임져야\"",
+        "오세훈 2심 무죄에 민주 “왜 아무도 처벌 안 받나”…국힘 “특검 사죄하라”",
+        "명태균 \"오세훈 무죄? 나는 그런 사회에서는 못 산다\"",
+        "[단독] '명태균 진술 왜 못 믿었나?' 오세훈 무죄 '판결문' 분석",
         "“오세훈, 울면서 나경원 이기는 조사 요청” 명태균 진술 배척한 2심",
-        "“사법개혁 안 한 후과다”…오세훈 생환에 조국혁신당이 꺼내 든 ‘조희대 탄핵’ 카드"
+        "오세훈 무죄에 \"조희대 탄핵 이유 늘었다\"는 범여…\"내란 바퀴벌레들 기어나와\""
       ],
       "category": "국제"
     },
     {
-      "rank": 2,
-      "keyword": "김정은",
-      "count": 20,
-      "representative_title": "국정원 “김정은 사망설은 허위”",
-      "representative_link": "https://n.news.naver.com/article/366/0001200026?ntype=RANKING",
-      "press": "조선비즈",
-      "related_articles": [
-        {
-          "title": "美전문가 \"김정은 최고의 시기…北성장률, 韓추정보다 높을수도\"",
-          "link": "https://n.news.naver.com/article/001/0016397669?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "\"김정은 사망설은 허위\"…국정원, 국회 정보위 보고",
-          "link": "https://n.news.naver.com/article/656/0000190433?ntype=RANKING",
-          "press": "대전일보"
-        },
-        {
-          "title": "국정원, 김정은 사망설에 “140㎏대 초고도 비만…이상 징후는 없어”",
-          "link": "https://n.news.naver.com/article/028/0002828936?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "국정원 “김정은 사망설은 허위”",
-          "link": "https://n.news.naver.com/article/366/0001200026?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "'사망설' 일축한 北 김정은, 중대장대회 직접 지도…\"최강 군대 건설\"",
-          "link": "https://n.news.naver.com/article/629/0000545150?ntype=RANKING",
-          "press": "더팩트"
-        }
-      ],
-      "related_titles": [
-        "美전문가 \"김정은 최고의 시기…北성장률, 韓추정보다 높을수도\"",
-        "\"김정은 사망설은 허위\"…국정원, 국회 정보위 보고",
-        "국정원, 김정은 사망설에 “140㎏대 초고도 비만…이상 징후는 없어”",
-        "국정원 “김정은 사망설은 허위”",
-        "'사망설' 일축한 北 김정은, 중대장대회 직접 지도…\"최강 군대 건설\""
-      ],
-      "category": "사건/사고"
-    },
-    {
       "rank": 3,
       "keyword": "무죄",
-      "count": 18,
-      "representative_title": "명태균 “입 열면 세상 뒤집어진다”더니…줄줄이 무죄",
-      "representative_link": "https://n.news.naver.com/article/449/0000365101?ntype=RANKING",
-      "press": "채널A",
+      "count": 13,
+      "representative_title": "오세훈도 윤석열도 무죄…두 판결 뒤집은 구회근 판사는 누구?",
+      "representative_link": "https://n.news.naver.com/article/053/0000062524?ntype=RANKING",
+      "press": "주간조선",
       "related_articles": [
         {
           "title": "윤 이어 오세훈도 무죄 선고한 재판부...\"엄격 증거 의해야\"",
@@ -105,57 +105,57 @@
           "press": "YTN"
         },
         {
-          "title": "\"오세훈이는 몰라요\" 결정적… 法 '명태균 진술 신빙성' 10번 언급 뒤 \"무죄\"",
-          "link": "https://n.news.naver.com/article/469/0000961364?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
           "title": "“4년 전 통화가 갈수록 생생?”…2심 재판부, 명태균 ‘짜맞추기식 변번’에 무죄 선고",
           "link": "https://n.news.naver.com/article/029/0003054903?ntype=RANKING",
           "press": "디지털타임스"
         },
         {
-          "title": "尹도 吳도 1심 뒤집혔다…'명태균 게이트' 재판 6번 중 4번 무죄",
-          "link": "https://n.news.naver.com/article/079/0004202266?ntype=RANKING",
-          "press": "노컷뉴스"
+          "title": "與, 공개적으론 ‘吳 무죄’ 반발… 속으론 “보궐선거 안하게 돼 다행”",
+          "link": "https://n.news.naver.com/article/023/0004005703?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "명태균 “입 열면 세상 뒤집어진다”더니…줄줄이 무죄",
-          "link": "https://n.news.naver.com/article/449/0000365101?ntype=RANKING",
-          "press": "채널A"
+          "title": "\"오세훈이는 몰라요\" 결정적… 法 '명태균 진술 신빙성' 10번 언급 뒤 \"무죄\"",
+          "link": "https://n.news.naver.com/article/469/0000961364?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "오세훈도 윤석열도 무죄…두 판결 뒤집은 구회근 판사는 누구?",
+          "link": "https://n.news.naver.com/article/053/0000062524?ntype=RANKING",
+          "press": "주간조선"
         }
       ],
       "related_titles": [
         "윤 이어 오세훈도 무죄 선고한 재판부...\"엄격 증거 의해야\"",
-        "\"오세훈이는 몰라요\" 결정적… 法 '명태균 진술 신빙성' 10번 언급 뒤 \"무죄\"",
         "“4년 전 통화가 갈수록 생생?”…2심 재판부, 명태균 ‘짜맞추기식 변번’에 무죄 선고",
-        "尹도 吳도 1심 뒤집혔다…'명태균 게이트' 재판 6번 중 4번 무죄",
-        "명태균 “입 열면 세상 뒤집어진다”더니…줄줄이 무죄"
+        "與, 공개적으론 ‘吳 무죄’ 반발… 속으론 “보궐선거 안하게 돼 다행”",
+        "\"오세훈이는 몰라요\" 결정적… 法 '명태균 진술 신빙성' 10번 언급 뒤 \"무죄\"",
+        "오세훈도 윤석열도 무죄…두 판결 뒤집은 구회근 판사는 누구?"
       ],
-      "category": "사회/일반"
+      "category": "정치"
     },
     {
       "rank": 4,
       "keyword": "트럼프",
-      "count": 13,
+      "count": 10,
       "representative_title": "[속보]트럼프, 이란 공습 경고",
       "representative_link": "https://n.news.naver.com/article/050/0000112328?ntype=RANKING",
       "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "트럼프 \"이란에 또 한번 작은 '장대한 분노' 실시할수도\"",
-          "link": "https://n.news.naver.com/article/003/0014275324?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "트럼프 “이란 상대 또 한번 작은 ‘장대한 분노’ 작전 할 수도 있다”",
+          "link": "https://n.news.naver.com/article/449/0000365128?ntype=RANKING",
+          "press": "채널A"
         },
         {
-          "title": "\"이란은 끝났다\"…트럼프, 추가 공습 경고하며 다음 표적 지목",
-          "link": "https://n.news.naver.com/article/215/0001270291?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "트럼프 “이란 상대로 또 ‘장대한 분노’ 작전 할 수도”",
+          "link": "https://n.news.naver.com/article/366/0001200048?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "트럼프 \"이란 상대 또 한번 작은 '장대한 분노' 작전 할 수도\"",
-          "link": "https://n.news.naver.com/article/214/0001531140?ntype=RANKING",
-          "press": "MBC"
+          "title": "중동 다시 D-데이…트럼프 \"재타격 할수도\" 이란 \"레드라인없다\"",
+          "link": "https://n.news.naver.com/article/001/0016397890?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
           "title": "\"트럼프 반대하려 투표\"...미국 중간선거 10일 앞 텃밭도 접전",
@@ -163,60 +163,60 @@
           "press": "YTN"
         },
         {
-          "title": "[속보] 트럼프, 이란 추가 공격 가능성 시사…쿠바에도 군사 압박 경고",
-          "link": "https://n.news.naver.com/article/022/0004169286?ntype=RANKING",
-          "press": "세계일보"
+          "title": "[속보]트럼프, 이란 공습 경고",
+          "link": "https://n.news.naver.com/article/050/0000112328?ntype=RANKING",
+          "press": "한경비즈니스"
         }
       ],
       "related_titles": [
-        "트럼프 \"이란에 또 한번 작은 '장대한 분노' 실시할수도\"",
-        "\"이란은 끝났다\"…트럼프, 추가 공습 경고하며 다음 표적 지목",
-        "트럼프 \"이란 상대 또 한번 작은 '장대한 분노' 작전 할 수도\"",
+        "트럼프 “이란 상대 또 한번 작은 ‘장대한 분노’ 작전 할 수도 있다”",
+        "트럼프 “이란 상대로 또 ‘장대한 분노’ 작전 할 수도”",
+        "중동 다시 D-데이…트럼프 \"재타격 할수도\" 이란 \"레드라인없다\"",
         "\"트럼프 반대하려 투표\"...미국 중간선거 10일 앞 텃밭도 접전",
-        "[속보] 트럼프, 이란 추가 공격 가능성 시사…쿠바에도 군사 압박 경고"
+        "[속보]트럼프, 이란 공습 경고"
       ],
       "category": "국제"
     },
     {
       "rank": 5,
-      "keyword": "제주",
-      "count": 11,
-      "representative_title": "주말 태풍 '참피' 영향…제주·남해안 비바람",
-      "representative_link": "https://n.news.naver.com/article/422/0000918951?ntype=RANKING",
-      "press": "연합뉴스TV",
+      "keyword": "결혼",
+      "count": 10,
+      "representative_title": "결혼 약속에 임신까지 했는데…바람핀 남친의 파혼 통보[양친소]",
+      "representative_link": "https://n.news.naver.com/article/018/0006395179?ntype=RANKING",
+      "press": "이데일리",
       "related_articles": [
         {
-          "title": "태풍 '참피' 북상에 남부 비…제주 최대 250㎜[오늘날씨]",
-          "link": "https://n.news.naver.com/article/003/0014275270?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "\"모텔 갔지만 애정행위 없었다\" 양홍원 측, 결혼 5일만에 불거진 '불륜 의혹' 부인",
+          "link": "https://n.news.naver.com/article/014/0005593799?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
-          "title": "12년 만의 10월 태풍 '참피' 일본으로…영향권 든 남부·제주 비 최대 100㎜",
-          "link": "https://n.news.naver.com/article/448/0000646654?ntype=RANKING",
+          "title": "양홍원 측, 결혼 5일 만 불륜설에… \"모텔 동행했지만 애정 행위 無\"",
+          "link": "https://n.news.naver.com/article/469/0000961350?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "\"숙박업소 갔지만 외도는 아냐\"…양홍원, 결혼 5일만 사생활 의혹",
+          "link": "https://n.news.naver.com/article/448/0000646672?ntype=RANKING",
           "press": "TV조선"
         },
         {
-          "title": "[오늘의 날씨] 전국 가을비에 남부·제주 '폭우'…낮 기온은 21도까지",
-          "link": "https://n.news.naver.com/article/629/0000545140?ntype=RANKING",
-          "press": "더팩트"
+          "title": "“헤어질까봐” 결혼 약속한 여친 성폭행하고 흉기 위협…30대 징역형 집유",
+          "link": "https://n.news.naver.com/article/081/0003692055?ntype=RANKING",
+          "press": "서울신문"
         },
         {
-          "title": "제주 산간 최대 250mm 폭우…비 그치면 기온 '뚝'",
-          "link": "https://n.news.naver.com/article/055/0001397842?ntype=RANKING",
-          "press": "SBS"
-        },
-        {
-          "title": "주말 태풍 '참피' 영향…제주·남해안 비바람",
-          "link": "https://n.news.naver.com/article/422/0000918951?ntype=RANKING",
-          "press": "연합뉴스TV"
+          "title": "결혼 약속에 임신까지 했는데…바람핀 남친의 파혼 통보[양친소]",
+          "link": "https://n.news.naver.com/article/018/0006395179?ntype=RANKING",
+          "press": "이데일리"
         }
       ],
       "related_titles": [
-        "태풍 '참피' 북상에 남부 비…제주 최대 250㎜[오늘날씨]",
-        "12년 만의 10월 태풍 '참피' 일본으로…영향권 든 남부·제주 비 최대 100㎜",
-        "[오늘의 날씨] 전국 가을비에 남부·제주 '폭우'…낮 기온은 21도까지",
-        "제주 산간 최대 250mm 폭우…비 그치면 기온 '뚝'",
-        "주말 태풍 '참피' 영향…제주·남해안 비바람"
+        "\"모텔 갔지만 애정행위 없었다\" 양홍원 측, 결혼 5일만에 불거진 '불륜 의혹' 부인",
+        "양홍원 측, 결혼 5일 만 불륜설에… \"모텔 동행했지만 애정 행위 無\"",
+        "\"숙박업소 갔지만 외도는 아냐\"…양홍원, 결혼 5일만 사생활 의혹",
+        "“헤어질까봐” 결혼 약속한 여친 성폭행하고 흉기 위협…30대 징역형 집유",
+        "결혼 약속에 임신까지 했는데…바람핀 남친의 파혼 통보[양친소]"
       ],
       "category": "사회/일반"
     }
@@ -225,30 +225,30 @@
     {
       "rank": 1,
       "keyword": "하이닉스",
-      "count": 5,
-      "representative_title": "장중 4% 급락한 코스피…하이닉스 반등에 5500선 턱걸이",
-      "representative_link": "https://n.news.naver.com/article/648/0000051890?ntype=RANKING",
-      "press": "비즈워치",
+      "count": 4,
+      "representative_title": "美 뉴욕증시,  SK하이닉스ADR 4%반등…사이버보안주도 강세",
+      "representative_link": "https://n.news.naver.com/article/138/0002245864?ntype=RANKING",
+      "press": "디지털데일리",
       "related_articles": [
+        {
+          "title": "“삼성·하이닉스 곧 따라잡는다”던 中반도체…진짜 위협일까[이상현의 전자수첩]",
+          "link": "https://n.news.naver.com/article/029/0003054906?ntype=RANKING",
+          "press": "디지털타임스"
+        },
         {
           "title": "솔리다임 상장 접은 SK하이닉스…‘30조 주주환원’, 코스피 반등 카드 될까",
           "link": "https://n.news.naver.com/article/011/0004674674?ntype=RANKING",
           "press": "서울경제"
         },
         {
-          "title": "美 뉴욕증시,  SK하이닉스ADR 4%반등…사이버보안주도 강세",
-          "link": "https://n.news.naver.com/article/138/0002245864?ntype=RANKING",
-          "press": "디지털데일리"
-        },
-        {
-          "title": "장중 4% 급락한 코스피…하이닉스 반등에 5500선 턱걸이",
-          "link": "https://n.news.naver.com/article/648/0000051890?ntype=RANKING",
-          "press": "비즈워치"
-        },
-        {
           "title": "“HBM만으론 한계”…삼성 'zHBM' vs 하이닉스 'HBF' 격돌",
           "link": "https://n.news.naver.com/article/374/0000539570?ntype=RANKING",
           "press": "SBS Biz"
+        },
+        {
+          "title": "美 뉴욕증시,  SK하이닉스ADR 4%반등…사이버보안주도 강세",
+          "link": "https://n.news.naver.com/article/138/0002245864?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
           "title": "“삼성·하이닉스 곧 따라잡는다”던 中반도체…진짜 위협일까[이상현의 전자수첩]",
@@ -257,18 +257,61 @@
         }
       ],
       "related_titles": [
+        "“삼성·하이닉스 곧 따라잡는다”던 中반도체…진짜 위협일까[이상현의 전자수첩]",
         "솔리다임 상장 접은 SK하이닉스…‘30조 주주환원’, 코스피 반등 카드 될까",
-        "美 뉴욕증시,  SK하이닉스ADR 4%반등…사이버보안주도 강세",
-        "장중 4% 급락한 코스피…하이닉스 반등에 5500선 턱걸이",
         "“HBM만으론 한계”…삼성 'zHBM' vs 하이닉스 'HBF' 격돌",
+        "美 뉴욕증시,  SK하이닉스ADR 4%반등…사이버보안주도 강세",
         "“삼성·하이닉스 곧 따라잡는다”던 中반도체…진짜 위협일까[이상현의 전자수첩]"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
+      "keyword": "주식",
+      "count": 3,
+      "representative_title": "주식 팔아 산 '3억 드림카'…세차했더니 물 '뚝뚝'",
+      "representative_link": "https://n.news.naver.com/article/055/0001397875?ntype=RANKING",
+      "press": "SBS",
+      "related_articles": [
+        {
+          "title": "주식 팔아 산 '3억 드림카'…세차했더니 물 '뚝뚝'",
+          "link": "https://n.news.naver.com/article/055/0001397875?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "'27만→14만원' 5개월 만에 목표가 반토막…그래도 \"매수\" 유지 종목 [주식R]",
+          "link": "https://n.news.naver.com/article/215/0001270287?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "주식 아니라 지지율이 \"조정 불가피\"?…4조원 날린 李 핵심지지층 '흔들'[금주의 정치舌전]",
+          "link": "https://n.news.naver.com/article/088/0001036235?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "주식 팔아 산 '3억 드림카'…세차했더니 물 '뚝뚝'",
+          "link": "https://n.news.naver.com/article/055/0001397875?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "'27만→14만원' 5개월 만에 목표가 반토막…그래도 \"매수\" 유지 종목 [주식R]",
+          "link": "https://n.news.naver.com/article/215/0001270287?ntype=RANKING",
+          "press": "한국경제TV"
+        }
+      ],
+      "related_titles": [
+        "주식 팔아 산 '3억 드림카'…세차했더니 물 '뚝뚝'",
+        "'27만→14만원' 5개월 만에 목표가 반토막…그래도 \"매수\" 유지 종목 [주식R]",
+        "주식 아니라 지지율이 \"조정 불가피\"?…4조원 날린 李 핵심지지층 '흔들'[금주의 정치舌전]",
+        "주식 팔아 산 '3억 드림카'…세차했더니 물 '뚝뚝'",
+        "'27만→14만원' 5개월 만에 목표가 반토막…그래도 \"매수\" 유지 종목 [주식R]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
       "keyword": "코스피",
-      "count": 5,
+      "count": 3,
       "representative_title": "[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아",
       "representative_link": "https://n.news.naver.com/article/648/0000051899?ntype=RANKING",
       "press": "비즈워치",
@@ -277,11 +320,6 @@
           "title": "[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아",
           "link": "https://n.news.naver.com/article/648/0000051899?ntype=RANKING",
           "press": "비즈워치"
-        },
-        {
-          "title": "“개미가 팔고 외국인 사면 코스피 오른다?” 무려 ‘86.5%’ 확률로 맞았다",
-          "link": "https://n.news.naver.com/article/016/0002713715?ntype=RANKING",
-          "press": "헤럴드경제"
         },
         {
           "title": "외국인 반도체 매도 폭탄 ‘일단 멈춤’… 5500선 지킨 코스피, 다음주 실적 발표 시험대",
@@ -294,108 +332,27 @@
           "press": "비즈워치"
         },
         {
-          "title": "“개미가 팔고 외국인 사면 코스피 오른다?” 무려 ‘86.5%’ 확률로 맞았다",
-          "link": "https://n.news.naver.com/article/016/0002713715?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "외국인 반도체 매도 폭탄 ‘일단 멈춤’… 5500선 지킨 코스피, 다음주 실적 발표 시험대",
+          "link": "https://n.news.naver.com/article/037/0000039030?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아",
+          "link": "https://n.news.naver.com/article/648/0000051899?ntype=RANKING",
+          "press": "비즈워치"
         }
       ],
       "related_titles": [
         "[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아",
-        "“개미가 팔고 외국인 사면 코스피 오른다?” 무려 ‘86.5%’ 확률로 맞았다",
         "외국인 반도체 매도 폭탄 ‘일단 멈춤’… 5500선 지킨 코스피, 다음주 실적 발표 시험대",
         "[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아",
-        "“개미가 팔고 외국인 사면 코스피 오른다?” 무려 ‘86.5%’ 확률로 맞았다"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 3,
-      "keyword": "뉴욕증시",
-      "count": 4,
-      "representative_title": "금값 4000달러 붕괴...중동 전운에 뉴욕증시 일제히 하락",
-      "representative_link": "https://n.news.naver.com/article/215/0001270290?ntype=RANKING",
-      "press": "한국경제TV",
-      "related_articles": [
-        {
-          "title": "금값 4000달러 붕괴...중동 전운에 뉴욕증시 일제히 하락",
-          "link": "https://n.news.naver.com/article/215/0001270290?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "중동 전운 재격화에 유가 116달러…뉴욕증시 일제히 '털썩'",
-          "link": "https://n.news.naver.com/article/629/0000545148?ntype=RANKING",
-          "press": "더팩트"
-        },
-        {
-          "title": "중동발 유가 급등에 뉴욕증시 휘청…다우 652포인트↓·반도체 선방",
-          "link": "https://n.news.naver.com/article/123/0002392503?ntype=RANKING",
-          "press": "조세일보"
-        },
-        {
-          "title": "금값 4000달러 붕괴...중동 전운에 뉴욕증시 일제히 하락",
-          "link": "https://n.news.naver.com/article/215/0001270290?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "중동 전운 재격화에 유가 116달러…뉴욕증시 일제히 '털썩'",
-          "link": "https://n.news.naver.com/article/629/0000545148?ntype=RANKING",
-          "press": "더팩트"
-        }
-      ],
-      "related_titles": [
-        "금값 4000달러 붕괴...중동 전운에 뉴욕증시 일제히 하락",
-        "중동 전운 재격화에 유가 116달러…뉴욕증시 일제히 '털썩'",
-        "중동발 유가 급등에 뉴욕증시 휘청…다우 652포인트↓·반도체 선방",
-        "금값 4000달러 붕괴...중동 전운에 뉴욕증시 일제히 하락",
-        "중동 전운 재격화에 유가 116달러…뉴욕증시 일제히 '털썩'"
+        "외국인 반도체 매도 폭탄 ‘일단 멈춤’… 5500선 지킨 코스피, 다음주 실적 발표 시험대",
+        "[ETF워치]中로봇 날고 방산 추락…개인은 코스피200 담아"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "주가",
-      "count": 3,
-      "representative_title": "‘채시라 남편’ 김태욱 회사에 日마루베니 공개매수…주가 상한가 직행",
-      "representative_link": "https://n.news.naver.com/article/009/0005753351?ntype=RANKING",
-      "press": "매일경제",
-      "related_articles": [
-        {
-          "title": "‘채시라 남편’ 김태욱 회사에 日마루베니 공개매수…주가 상한가 직행",
-          "link": "https://n.news.naver.com/article/009/0005753351?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "'채시라 남편' 김태욱 회사, 주가 上 잭팟 터졌다…日대기업의 러브콜",
-          "link": "https://n.news.naver.com/article/008/0005431035?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "‘결국 올 게 왔다’ 주가 1000원도 안 되더니…코스닥 5개 상폐 임박 [투자360]",
-          "link": "https://n.news.naver.com/article/016/0002713741?ntype=RANKING",
-          "press": "헤럴드경제"
-        },
-        {
-          "title": "‘채시라 남편’ 김태욱 회사에 日마루베니 공개매수…주가 상한가 직행",
-          "link": "https://n.news.naver.com/article/009/0005753351?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "'채시라 남편' 김태욱 회사, 주가 上 잭팟 터졌다…日대기업의 러브콜",
-          "link": "https://n.news.naver.com/article/008/0005431035?ntype=RANKING",
-          "press": "머니투데이"
-        }
-      ],
-      "related_titles": [
-        "‘채시라 남편’ 김태욱 회사에 日마루베니 공개매수…주가 상한가 직행",
-        "'채시라 남편' 김태욱 회사, 주가 上 잭팟 터졌다…日대기업의 러브콜",
-        "‘결국 올 게 왔다’ 주가 1000원도 안 되더니…코스닥 5개 상폐 임박 [투자360]",
-        "‘채시라 남편’ 김태욱 회사에 日마루베니 공개매수…주가 상한가 직행",
-        "'채시라 남편' 김태욱 회사, 주가 上 잭팟 터졌다…日대기업의 러브콜"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 5,
       "keyword": "테슬라",
       "count": 3,
       "representative_title": "테슬라·BYD에 안방 내준 전기차…뒤늦게 세액공제 검토",
@@ -443,7 +400,7 @@
       "rank": 1,
       "keyword": "정권",
       "series_title": "정권의 몰락",
-      "count": 24,
+      "count": 22,
       "representative_title": "홍준표 “조희대 탄핵은 정권 몰락의 길”",
       "representative_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iMDBjRUlibHM1cjAxTTlMdWNzMUdWSTJ4NVR0UEotbGtudGN3ek1CWDhtNTNwZ3ZfSlo5d0VydGNwZzh2bGpkWHlYLVBJWXpG?oc=5",
       "press": "",
@@ -459,27 +416,27 @@
           "press": ""
         },
         {
-          "title": "홍준표 \"조희대 탄핵은 정권 몰락의 길 …윤석열 석방될 수도\"",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NZVF3Y3cybTBrQjlFSlN4NXg1a3ZGN01Fa0RJWUx3bktBOThQc2tFRDRMNWMyRFZ3ZmhrNWRIMkhENE4xZ1pmRjA5dDEtLVk1V3RPWndRQnpCSFpxRktidEJYS3BwaVlBaElXTWN3cGZlc0ZRLXdsY0hnS05tVXc?oc=5",
-          "press": ""
-        },
-        {
           "title": "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IMzB2ZmNMeHVyTWtpLVk4U0NNMUJUYzRQNXJKX2xNZUJ1ME1NUUNvWHFkVEN1clNfRDZPUGVQc0M2cDJNOEVwT2s0RzFrX1NjTy1Ud0ZZelR5M2Zqa1E?oc=5",
           "press": ""
         },
         {
-          "title": "국힘 “與, ‘조희대 탄핵 논의 공식화’ 정권 몰락 신호탄 될 것”",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5STk0wcVJ0UmZva1FnY0FqemdzNkNqam8tbXZpMTlZS0NkczAyQ1NISGx4ZHZPQTZBSmNIcGdMR211NFlHaTVLTVhyLWF6Ym53?oc=5",
+          "title": "홍준표 \"조희대 탄핵은 정권 몰락의 길 …윤석열 석방될 수도\"",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NZVF3Y3cybTBrQjlFSlN4NXg1a3ZGN01Fa0RJWUx3bktBOThQc2tFRDRMNWMyRFZ3ZmhrNWRIMkhENE4xZ1pmRjA5dDEtLVk1V3RPWndRQnpCSFpxRktidEJYS3BwaVlBaElXTWN3cGZlc0ZRLXdsY0hnS05tVXc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "홍준표 “조희대 탄핵하면 정권 몰락의 길...국민이 나설 것” 경고",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53Qk0yU3o5N3BpSXVPSWRFMTJqWUlhQnJqRVpObVk0QzYwSU94c3pyUE5CSnJ1ZmNHM2pfMGdlcXl1YWl1VGhGOGpwYmxHaXY5SndlUEY1OE16Z2s?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
         "민주 \"조희대 책임 끝까지 묻겠다\"…국힘 \"탄핵, 정권 몰락 신호탄\"",
         "홍준표 “조희대 탄핵은 정권 몰락의 길”",
-        "홍준표 \"조희대 탄핵은 정권 몰락의 길 …윤석열 석방될 수도\"",
         "민주 “조희대 책임 끝까지 묻겠다” VS 국힘 “탄핵 정권 몰락의 신호탄될 것”",
-        "국힘 “與, ‘조희대 탄핵 논의 공식화’ 정권 몰락 신호탄 될 것”"
+        "홍준표 \"조희대 탄핵은 정권 몰락의 길 …윤석열 석방될 수도\"",
+        "홍준표 “조희대 탄핵하면 정권 몰락의 길...국민이 나설 것” 경고"
       ],
       "category": "몰락"
     },
@@ -551,21 +508,21 @@
     },
     {
       "rank": 5,
-      "keyword": "동반",
-      "series_title": "동반의 몰락",
+      "keyword": "스마트폰",
+      "series_title": "스마트폰의 몰락",
       "count": 1,
-      "representative_title": "과연 누구? 안세영 늘상 만나던 라이벌들 동반 몰락…'4강→결승' 프랑스오픈, 이번 결승은 색다르다 '판도 요동'",
-      "representative_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2RWRxVl9sc05FazZfVXB2dWlJcXJiUmJMZ3hySXlTWTBLLTAxeG9ldTJXQzdoX19QM3JiSkNzZ3JneW1tWkJDQmZSVDBxLVlpYmphaWxjVHY1Tk1fZW9tRExMMlZNd05BRTV0TklrNUk?oc=5",
+      "representative_title": "스마트폰 몰락 노키아, AI 데이터센터로 부활…3분기 순익 2배",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93VGJIVmRsSF9pcG1aQzZxa1JCeVNKNHZKNXlvV012NkNfellEM0lvNjhMMjEzZnk0QkJ5ekE5SWNGUE84TEo4T1RTcWZBa1NGSG1vZ2Noa240TXJOWGJkeGdlRnBNalk?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "과연 누구? 안세영 늘상 만나던 라이벌들 동반 몰락…'4강→결승' 프랑스오픈, 이번 결승은 색다르다 '판도 요동'",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2RWRxVl9sc05FazZfVXB2dWlJcXJiUmJMZ3hySXlTWTBLLTAxeG9ldTJXQzdoX19QM3JiSkNzZ3JneW1tWkJDQmZSVDBxLVlpYmphaWxjVHY1Tk1fZW9tRExMMlZNd05BRTV0TklrNUk?oc=5",
+          "title": "스마트폰 몰락 노키아, AI 데이터센터로 부활…3분기 순익 2배",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93VGJIVmRsSF9pcG1aQzZxa1JCeVNKNHZKNXlvV012NkNfellEM0lvNjhMMjEzZnk0QkJ5ekE5SWNGUE84TEo4T1RTcWZBa1NGSG1vZ2Noa240TXJOWGJkeGdlRnBNalk?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "과연 누구? 안세영 늘상 만나던 라이벌들 동반 몰락…'4강→결승' 프랑스오픈, 이번 결승은 색다르다 '판도 요동'"
+        "스마트폰 몰락 노키아, AI 데이터센터로 부활…3분기 순익 2배"
       ],
       "category": "몰락"
     }
@@ -573,49 +530,17 @@
   "budongsan_topics": [
     {
       "rank": 1,
-      "keyword": "강남",
-      "count": 4,
-      "representative_title": "서울 아파트값 89주 연속 상승…강남 3구만 내린 '집값 역전'",
-      "representative_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05WUpEbGNUYVZSMm9GbFNfeVNOVUhYb0Nkbk9tRzBzNXZCY2tvaHlHV1VWNzhGUEZJQWNEWXlkbWJ1ckdOSDlxOXZnRHYwaXA1VmRwWUowUU9fMHQ2Z0FhUURHU24?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "강남 수억 내리고, 강북은 신고가…서울 집값 상승축 이동[부동산 머니무브①]",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44WmVXdmYxTWpfR0F2V0pHcG9DbHpEUjlxNXhhWHhBQkVxc2k5UG9hNVNmQm1PU1cydkp6NkJYckNsVjRiOXVQalRsUmktU2hRUjltYk5vUF90d3llbWM1SzNockNKdENNRGZ5a3cwQWEzcGpGemJDcdIBeEFVX3lxTE44WmVXdmYxTWpfR0F2V0pHcG9DbHpEUjlxNXhhWHhBQkVxc2k5UG9hNVNmQm1PU1cydkp6NkJYckNsVjRiOXVQalRsUmktU2hRUjltYk5vUF90d3llbWM1SzNockNKdENNRGZ5a3cwQWEzcGpGemJDcQ?oc=5",
-          "press": ""
-        },
-        {
-          "title": "서울 아파트값 89주 연속 상승…강남 3구만 내린 '집값 역전'",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05WUpEbGNUYVZSMm9GbFNfeVNOVUhYb0Nkbk9tRzBzNXZCY2tvaHlHV1VWNzhGUEZJQWNEWXlkbWJ1ckdOSDlxOXZnRHYwaXA1VmRwWUowUU9fMHQ2Z0FhUURHU24?oc=5",
-          "press": ""
-        },
-        {
-          "title": "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fdlpNb3VjRUJ0WEpqdXYtemFVeVFfWDFyYUc0MFlKSkpZcVJOWVg5Yzl1dEp5MmMzWGlhRjUyYlJiTTI1T2xDVnZ3bkpUSDBxbnliczBQVVI?oc=5",
-          "press": ""
-        },
-        {
-          "title": "강남·서초 3억 내릴 때 한강벨트는 올랐다…집값 격차 26.5% 줄어 [부동산360]",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ldnA0RnVqSkp3b25peHFnNUp4c09VbVRzR3pPbDhIUkJmVDJpcEZrMk5PNXktVkozZmxYTXN0elF4cHRpdkNaOHRHWWl3cWNCaXhaMHdR?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "강남 수억 내리고, 강북은 신고가…서울 집값 상승축 이동[부동산 머니무브①]",
-        "서울 아파트값 89주 연속 상승…강남 3구만 내린 '집값 역전'",
-        "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
-        "강남·서초 3억 내릴 때 한강벨트는 올랐다…집값 격차 26.5% 줄어 [부동산360]"
-      ],
-      "category": "부동산"
-    },
-    {
-      "rank": 2,
       "keyword": "서울",
       "count": 4,
       "representative_title": "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다",
       "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pc01adURLZW9VV1lzQUF5S2VUZHJ1VzV3bkMxbXVpcHc1dFhyMGNjVkczT3hjTkpjbHZJaGZFd3FrRmRpT3lWZkdHTWlhNXpkX3dYTTRVTzBIdw?oc=5",
       "press": "",
       "related_articles": [
+        {
+          "title": "강남 수억 내리고, 강북은 신고가…서울 집값 상승축 이동[부동산 머니무브①]",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pWGc0dTNJM1YwRHk0Y1NjU1YyOTZhbUtYdjRweHl5YkpnbGN6TjhtVnI4Nk43WDhYUktlQ1hPeVRtN2RFVlR6akk3X21VbHhtVW9tZHhyUW02Rl9IYW1EN9IBeEFVX3lxTE44WmVXdmYxTWpfR0F2V0pHcG9DbHpEUjlxNXhhWHhBQkVxc2k5UG9hNVNmQm1PU1cydkp6NkJYckNsVjRiOXVQalRsUmktU2hRUjltYk5vUF90d3llbWM1SzNockNKdENNRGZ5a3cwQWEzcGpGemJDcQ?oc=5",
+          "press": ""
+        },
         {
           "title": "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pc01adURLZW9VV1lzQUF5S2VUZHJ1VzV3bkMxbXVpcHc1dFhyMGNjVkczT3hjTkpjbHZJaGZFd3FrRmRpT3lWZkdHTWlhNXpkX3dYTTRVTzBIdw?oc=5",
@@ -625,16 +550,23 @@
           "title": "[오늘 부동산] \"집값 안정화\"라는데…서울 아파트값 89주 연속 상승",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTmZ4WGszLXVKVmp2bjllWWM3Rl9QcldJcFNXQU9oeWhCb1M2eGtzbUhLLUlGMlZoemtJdWlKZnNjQUxjYW9wZ2FPYlQtYlozTjN2UTlUNEhBZU15cWJBWTNVSlcya0UxQlJiX3lvTDZwUlI1MFBjckQ5X3dBelkwSnRTMVU4ek5sZ3l5bkR5VXhWYW5yUWcxVXNVTVNyOXhYQXY4eDhfTG9pZ3ZqdERJeVRoQTc1VnBfNFZONm10a0NQLVNaREVXbDZydXF2ekh1YmxNbUJSb3JpNUJzUEQ5ZTBnRFJVMUh6UEtodDh1SjJVVXpaUDRtTlYtVEdScmJadnlQakt0RFQ0cXN4Umc0S2pxRlMyUDdWV2x3VlNGOE02S00?oc=5",
           "press": ""
+        },
+        {
+          "title": "서울 아파트값 89주 연속 상승…강남 3구만 내린 '집값 역전'",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05WUpEbGNUYVZSMm9GbFNfeVNOVUhYb0Nkbk9tRzBzNXZCY2tvaHlHV1VWNzhGUEZJQWNEWXlkbWJ1ckdOSDlxOXZnRHYwaXA1VmRwWUowUU9fMHQ2Z0FhUURHU24?oc=5",
+          "press": ""
         }
       ],
       "related_titles": [
+        "강남 수억 내리고, 강북은 신고가…서울 집값 상승축 이동[부동산 머니무브①]",
         "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다",
-        "[오늘 부동산] \"집값 안정화\"라는데…서울 아파트값 89주 연속 상승"
+        "[오늘 부동산] \"집값 안정화\"라는데…서울 아파트값 89주 연속 상승",
+        "서울 아파트값 89주 연속 상승…강남 3구만 내린 '집값 역전'"
       ],
       "category": "부동산"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "keyword": "연속",
       "count": 4,
       "representative_title": "대전 집값 15주 연속 상승…동·중구엔 오지 않은 온기",
@@ -653,27 +585,21 @@
       "category": "부동산"
     },
     {
-      "rank": 4,
-      "keyword": "지방",
-      "count": 2,
-      "representative_title": "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
-      "representative_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMUZ1WTNoODRhSTJsS2lOU3RjWDktN0ZRc0hRV29nQ014SlFWZHJIMWJjcnJ1R3F4SllWZFFfZERXcEFibGpja3luZzFhSW9nV1JEb2lfZGNWYkI2MzNzYmF1eGg?oc=5",
+      "rank": 3,
+      "keyword": "강남",
+      "count": 3,
+      "representative_title": "강남·서초 3억 내릴 때 한강벨트는 올랐다…집값 격차 26.5% 줄어 [부동산360]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ldnA0RnVqSkp3b25peHFnNUp4c09VbVRzR3pPbDhIUkJmVDJpcEZrMk5PNXktVkozZmxYTXN0elF4cHRpdkNaOHRHWWl3cWNCaXhaMHdR?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMUZ1WTNoODRhSTJsS2lOU3RjWDktN0ZRc0hRV29nQ014SlFWZHJIMWJjcnJ1R3F4SllWZFFfZERXcEFibGpja3luZzFhSW9nV1JEb2lfZGNWYkI2MzNzYmF1eGg?oc=5",
-          "press": ""
-        },
-        {
-          "title": "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KdEVtY0ZrQVdkRGhhODJncjhzWklESkkxNFR3ODdORGJVTjU0MFF4TWlzNVdINDhYY1VrUS11a3o1QVQ2YTRhdGVJM2I1elI2VjlBUU95dnh5Vm1ZMDNjZ1p1Y2NZbE43SWxpOdIBcEFVX3lxTE1JLVhmNUpRNHMtdzFaNEF0NHprT1E5MjNtWUVfYzJReC1iZGxwN053N2otejdNNzJucmM0UzJtNE5takotSTVaejRCR19BU1VfaEs0ejQ5RHRkLUNrOVlVVXk5aTNuOHo2c3FVQnNEQ1A?oc=5",
+          "title": "강남·서초 3억 내릴 때 한강벨트는 올랐다…집값 격차 26.5% 줄어 [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ldnA0RnVqSkp3b25peHFnNUp4c09VbVRzR3pPbDhIUkJmVDJpcEZrMk5PNXktVkozZmxYTXN0elF4cHRpdkNaOHRHWWl3cWNCaXhaMHdR?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
-        "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지"
+        "강남·서초 3억 내릴 때 한강벨트는 올랐다…집값 격차 26.5% 줄어 [부동산360]"
       ],
       "category": "부동산"
     }
