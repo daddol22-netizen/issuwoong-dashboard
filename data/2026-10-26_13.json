@@ -1,0 +1,422 @@
+{
+  "date": "2026-10-26",
+  "hour": "13",
+  "slot": "2026-10-26_13",
+  "crawled_at": "2026-10-26 13:00:04",
+  "total_articles": 397,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "주진우",
+      "count": 19,
+      "representative_title": "靑 \"국힘 주진우 일방 주장 인용 보도하지 말라\"&#160;",
+      "representative_link": "https://n.news.naver.com/article/006/0000138399?ntype=RANKING",
+      "press": "미디어오늘",
+      "related_articles": [
+        {
+          "title": "주진우 \"김혜경 여사, 프로골퍼와 레슨\"‥여당 \"황당무계 소설\"",
+          "link": "https://n.news.naver.com/article/214/0001531380?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "주진우 \"김혜경 여사, 역삼동 화재 날 프로골퍼 대동하고 '황제 골프'\" 주장",
+          "link": "https://n.news.naver.com/article/437/0000517491?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "주진우 \"김혜경 여사, 평일에 유명 프로골퍼 대동 황제 골프\"",
+          "link": "https://n.news.naver.com/article/421/0009249604?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "주진우 “김혜경 여사, 軍골프장에서 유명 프로골퍼 대동 황제골프” 의혹 제기",
+          "link": "https://n.news.naver.com/article/016/0002714157?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "김혜경 ‘황제 골프레슨’ 의혹 꺼낸 주진우…靑 “허위 보도 책임 묻겠다”",
+          "link": "https://n.news.naver.com/article/009/0005753799?ntype=RANKING",
+          "press": "매일경제"
+        }
+      ],
+      "related_titles": [
+        "주진우 \"김혜경 여사, 프로골퍼와 레슨\"‥여당 \"황당무계 소설\"",
+        "주진우 \"김혜경 여사, 역삼동 화재 날 프로골퍼 대동하고 '황제 골프'\" 주장",
+        "주진우 \"김혜경 여사, 평일에 유명 프로골퍼 대동 황제 골프\"",
+        "주진우 “김혜경 여사, 軍골프장에서 유명 프로골퍼 대동 황제골프” 의혹 제기",
+        "김혜경 ‘황제 골프레슨’ 의혹 꺼낸 주진우…靑 “허위 보도 책임 묻겠다”"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 2,
+      "keyword": "김혜경",
+      "count": 18,
+      "representative_title": "\"김혜경 여사 '황제 골프'\"vs\"프로 골퍼 누구?\"...공개 사진 보니",
+      "representative_link": "https://n.news.naver.com/article/018/0006396196?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "\"김혜경 여사 '황제 골프'\"vs\"프로 골퍼 누구?\"...공개 사진 보니",
+          "link": "https://n.news.naver.com/article/018/0006396196?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "민주당, 김혜경 여사 '황제 골프' 의혹에 \"소설 쓰는 사이버렉카 행태\"",
+          "link": "https://n.news.naver.com/article/088/0001036492?ntype=RANKING",
+          "press": "매일신문"
+        }
+      ],
+      "related_titles": [
+        "\"김혜경 여사 '황제 골프'\"vs\"프로 골퍼 누구?\"...공개 사진 보니",
+        "민주당, 김혜경 여사 '황제 골프' 의혹에 \"소설 쓰는 사이버렉카 행태\""
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 3,
+      "keyword": "오세훈",
+      "count": 18,
+      "representative_title": "윤상현 “오세훈, 강력한 대선주자…장동혁과 결 달라”",
+      "representative_link": "https://n.news.naver.com/article/028/0002829137?ntype=RANKING",
+      "press": "한겨레",
+      "related_articles": [
+        {
+          "title": "\"정치사건부터 AI판사 도입하자\"...최민희 \"오세훈 2심, 이해 안 돼\"",
+          "link": "https://n.news.naver.com/article/437/0000517508?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "김민석, 오세훈 무죄 판결에 “정치자금 우회지원 판 칠 것”",
+          "link": "https://n.news.naver.com/article/005/0001880834?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "윤상현 “오세훈, 강력한 대선주자…장동혁과 결 달라”",
+          "link": "https://n.news.naver.com/article/028/0002829137?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "김민석 “오세훈 무죄, 사법부 정치화”…최민희 “AI 판사 도입하자”",
+          "link": "https://n.news.naver.com/article/020/0003757629?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "'친오계' 급부상? 윤상현 \"오세훈, 장동혁과 결 다른 강력 대선주자\"",
+          "link": "https://n.news.naver.com/article/586/0000140829?ntype=RANKING",
+          "press": "시사저널"
+        }
+      ],
+      "related_titles": [
+        "\"정치사건부터 AI판사 도입하자\"...최민희 \"오세훈 2심, 이해 안 돼\"",
+        "김민석, 오세훈 무죄 판결에 “정치자금 우회지원 판 칠 것”",
+        "윤상현 “오세훈, 강력한 대선주자…장동혁과 결 달라”",
+        "김민석 “오세훈 무죄, 사법부 정치화”…최민희 “AI 판사 도입하자”",
+        "'친오계' 급부상? 윤상현 \"오세훈, 장동혁과 결 다른 강력 대선주자\""
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 4,
+      "keyword": "브라질",
+      "count": 16,
+      "representative_title": "브라질 최초 4선 대통령…룰라, 보우소나루 꺾고 당선",
+      "representative_link": "https://n.news.naver.com/article/031/0001069199?ntype=RANKING",
+      "press": "아이뉴스24",
+      "related_articles": [
+        {
+          "title": "브라질 대선서 룰라 당선…'블루타이드' 저지하고 통산 4선(종합)",
+          "link": "https://n.news.naver.com/article/001/0016399966?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[속보]브라질 ‘소년공 대통령’ 룰라 4선 성공···보우소나루에 역전극, 블루타이드 막았다",
+          "link": "https://n.news.naver.com/article/032/0003478467?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "‘대역전’ 룰라, 브라질 첫 4선 대통령…보우소나루에 3.52%p차 승리",
+          "link": "https://n.news.naver.com/article/028/0002829132?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "[속보] 브라질 보우소나루 “대선 결과 인정못해…무효 요청할 것”",
+          "link": "https://n.news.naver.com/article/009/0005753890?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "개표율 48%에 '재역전'…브라질 대선서 룰라 당선 확정",
+          "link": "https://n.news.naver.com/article/055/0001398167?ntype=RANKING",
+          "press": "SBS"
+        }
+      ],
+      "related_titles": [
+        "브라질 대선서 룰라 당선…'블루타이드' 저지하고 통산 4선(종합)",
+        "[속보]브라질 ‘소년공 대통령’ 룰라 4선 성공···보우소나루에 역전극, 블루타이드 막았다",
+        "‘대역전’ 룰라, 브라질 첫 4선 대통령…보우소나루에 3.52%p차 승리",
+        "[속보] 브라질 보우소나루 “대선 결과 인정못해…무효 요청할 것”",
+        "개표율 48%에 '재역전'…브라질 대선서 룰라 당선 확정"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 5,
+      "keyword": "룰라",
+      "count": 16,
+      "representative_title": "'소년공' 룰라, 트럼프의 '블루타이드' 저지",
+      "representative_link": "https://n.news.naver.com/article/374/0000539724?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "“가난도 병도 이겨냈다”…룰라, 사상 첫 4선 대통령 ‘역경의 아이콘’",
+          "link": "https://n.news.naver.com/article/029/0003055151?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "'소년공' 룰라, 트럼프의 '블루타이드' 저지",
+          "link": "https://n.news.naver.com/article/374/0000539724?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "룰라, 결선서 보우소나루 꺾고 4선 성공…51.77% 득표(종합)",
+          "link": "https://n.news.naver.com/article/003/0014277575?ntype=RANKING",
+          "press": "뉴시스"
+        }
+      ],
+      "related_titles": [
+        "“가난도 병도 이겨냈다”…룰라, 사상 첫 4선 대통령 ‘역경의 아이콘’",
+        "'소년공' 룰라, 트럼프의 '블루타이드' 저지",
+        "룰라, 결선서 보우소나루 꺾고 4선 성공…51.77% 득표(종합)"
+      ],
+      "category": "정치"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 5,
+      "representative_title": "외국인 매도세에 낙폭 키우는 코스피…5400선으로",
+      "representative_link": "https://n.news.naver.com/article/366/0001200299?ntype=RANKING",
+      "press": "조선비즈",
+      "related_articles": [
+        {
+          "title": "\"코스피 5200까지 내려갈 수도...삼전닉스 집착 버려야\"",
+          "link": "https://n.news.naver.com/article/014/0005594193?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "\"코스피 1만2000 간다\"더니…4개월 만에 돌변한 골드만삭스, 왜",
+          "link": "https://n.news.naver.com/article/215/0001270401?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "외국인 매도세에 낙폭 키우는 코스피…5400선으로",
+          "link": "https://n.news.naver.com/article/366/0001200299?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "美 중간선거, 집권당 지면 코스피 올랐다는데...이번에도 반등할까",
+          "link": "https://n.news.naver.com/article/648/0000051928?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "코스피 밀리자 '단일종목 레버리지 ETF' 개미 사고 외국인 팔았다",
+          "link": "https://n.news.naver.com/article/123/0002392556?ntype=RANKING",
+          "press": "조세일보"
+        }
+      ],
+      "related_titles": [
+        "\"코스피 5200까지 내려갈 수도...삼전닉스 집착 버려야\"",
+        "\"코스피 1만2000 간다\"더니…4개월 만에 돌변한 골드만삭스, 왜",
+        "외국인 매도세에 낙폭 키우는 코스피…5400선으로",
+        "美 중간선거, 집권당 지면 코스피 올랐다는데...이번에도 반등할까",
+        "코스피 밀리자 '단일종목 레버리지 ETF' 개미 사고 외국인 팔았다"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "하이닉스",
+      "count": 4,
+      "representative_title": "“16조원 배당 현실화?” SK하이닉스 입장은",
+      "representative_link": "https://n.news.naver.com/article/050/0000112375?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004169573?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "하이닉스 '16조원' 배당설에 화들짝…\"주주환원 방안 검토중, 확정안 없어\"",
+          "link": "https://n.news.naver.com/article/088/0001036487?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "[오늘의 삼전닉스] SK하이닉스 추가 16조 주주환원 기대감, 급등 신호탄?",
+          "link": "https://n.news.naver.com/article/243/0000104715?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004169573?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "하이닉스 '16조원' 배당설에 화들짝…\"주주환원 방안 검토중, 확정안 없어\"",
+          "link": "https://n.news.naver.com/article/088/0001036487?ntype=RANKING",
+          "press": "매일신문"
+        }
+      ],
+      "related_titles": [
+        "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
+        "하이닉스 '16조원' 배당설에 화들짝…\"주주환원 방안 검토중, 확정안 없어\"",
+        "[오늘의 삼전닉스] SK하이닉스 추가 16조 주주환원 기대감, 급등 신호탄?",
+        "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
+        "하이닉스 '16조원' 배당설에 화들짝…\"주주환원 방안 검토중, 확정안 없어\""
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "삼전닉스",
+      "count": 3,
+      "representative_title": "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]",
+      "representative_link": "https://n.news.naver.com/article/024/0000109172?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109172?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109172?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109172?ntype=RANKING",
+          "press": "매경이코노미"
+        }
+      ],
+      "related_titles": [
+        "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]",
+        "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]",
+        "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "충격적",
+      "series_title": "충격적의 몰락",
+      "count": 2,
+      "representative_title": "[오피셜] 손흥민 푸스카스상 안겨준 팀 충격적 몰락...PL 강등→3부 추락 위기, 결국 감독 전격 경질",
+      "representative_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EVVhod1lxVEFyQV9iMnV3U0ltRmc4T0RpUVZSOUhzbUkzNzNPUkZKOE9RYWVJRi10ZHU0YXRnNGwwTkhMLWJHdEk3QjM5cEpTY0NIVlFhb3ZIZ1NsMkpQbWJ1LWVURWpleEJQbDV0MXM?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[오피셜] 손흥민 푸스카스상 안겨준 팀 충격적 몰락...PL 강등→3부 추락 위기, 결국 감독 전격 경질",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EVVhod1lxVEFyQV9iMnV3U0ltRmc4T0RpUVZSOUhzbUkzNzNPUkZKOE9RYWVJRi10ZHU0YXRnNGwwTkhMLWJHdEk3QjM5cEpTY0NIVlFhb3ZIZ1NsMkpQbWJ1LWVURWpleEJQbDV0MXM?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"호텔 女직원 성희롱하고 추행해\" 세계 1위의 충격적 몰락! 日 경찰에 연행→경기도 못 뛰고 귀국...결국 '영구 제명' 위기",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcm43bktKd0NSZDRfS1l0X0pTY0RjNEVkOG5TSmtsdE5hRjZGMU1jU1FZM29UZkxuNGVybWtORWdiMnhiLVRCcWtIRXpGSkJSR3Mxa0JUdm5LZ29mTWlleWR0NGhDbU1NMU9TbkJtdUxZcHpuU1FZWnNacmR5RGxON0p3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[오피셜] 손흥민 푸스카스상 안겨준 팀 충격적 몰락...PL 강등→3부 추락 위기, 결국 감독 전격 경질",
+        "\"호텔 女직원 성희롱하고 추행해\" 세계 1위의 충격적 몰락! 日 경찰에 연행→경기도 못 뛰고 귀국...결국 '영구 제명' 위기"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 1,
+      "representative_title": "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EbnJ1cDN3S1p3a2JXMVVtZGZjMlZLZlplcGhRVHJZSzlidGJIWEF1RURWWnY0MVRmYzRKWUM5TC1faUVjWW9ybWJ1czRlZXMxRDdQbHZyV3dWaWNMVjNuN1dJSVkxcUlWa2wzV3FYTQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\"",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EbnJ1cDN3S1p3a2JXMVVtZGZjMlZLZlplcGhRVHJZSzlidGJIWEF1RURWWnY0MVRmYzRKWUM5TC1faUVjWW9ybWJ1czRlZXMxRDdQbHZyV3dWaWNMVjNuN1dJSVkxcUlWa2wzV3FYTQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "지식",
+      "series_title": "지식의 몰락",
+      "count": 1,
+      "representative_title": "[역사와 현실]지식의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdHFoVWF1Z2lmV05hWEF0VFQxYTktVFc4TTJUbDJianZuaXYyMW5Gd2g5UmRaUFc4a2FCTkRPQklZWmlsTzJJT1dWb2JuN080WFI0bnhrZVJhUdIBX0FVX3lxTE1KVHd1MTl0UThfQUl2dGZwTWtoZjN1aXJtLUpVWVZyX1otS1RoRm9LQkk4aE15dVdxTUZ0ODJlZzVvTXJBT1BnZllTSDdmM3NiR2s2RUZBa3RSN2JLVWJ3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[역사와 현실]지식의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdHFoVWF1Z2lmV05hWEF0VFQxYTktVFc4TTJUbDJianZuaXYyMW5Gd2g5UmRaUFc4a2FCTkRPQklZWmlsTzJJT1dWb2JuN080WFI0bnhrZVJhUdIBX0FVX3lxTE1KVHd1MTl0UThfQUl2dGZwTWtoZjN1aXJtLUpVWVZyX1otS1RoRm9LQkk4aE15dVdxTUZ0ODJlZzVvTXJBT1BnZllTSDdmM3NiR2s2RUZBa3RSN2JLVWJ3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[역사와 현실]지식의 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "갑자기",
+      "series_title": "갑자기의 몰락",
+      "count": 1,
+      "representative_title": "태국 배드민턴은 정점을 찍은 후 갑자기 몰락했다.",
+      "representative_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXREcWU4b19PQmJncWZEenlIcGgtRUN0NzA1MmFPejRlbnJsQnBnVnpHRVJpYUEwdktEUE5Bc21wbFZEY0lNTGxsTXVlOXFqejVvLWhSVDNiVVZjdHBMMmR5ZjBNRG9ETzNES29acWhOUEh1aEdPT3ZiU1c3RXRIWk92dTdMUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "태국 배드민턴은 정점을 찍은 후 갑자기 몰락했다.",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXREcWU4b19PQmJncWZEenlIcGgtRUN0NzA1MmFPejRlbnJsQnBnVnpHRVJpYUEwdktEUE5Bc21wbFZEY0lNTGxsTXVlOXFqejVvLWhSVDNiVVZjdHBMMmR5ZjBNRG9ETzNES29acWhOUEh1aEdPT3ZiU1c3RXRIWk92dTdMUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "태국 배드민턴은 정점을 찍은 후 갑자기 몰락했다."
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "가신그룹",
+      "series_title": "가신그룹의 몰락",
+      "count": 1,
+      "representative_title": "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15d2JPYkV4TUxRdW0wLWIzUnhuYXJXamxJYnI2M3l5QmNEYm1XTlFHSWFvUEFVUW4yVW92Qy1QQS1LM2hsMjRqY3o4OWlPeGxHWUtsYjZNOERjVDky?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15d2JPYkV4TUxRdW0wLWIzUnhuYXJXamxJYnI2M3l5QmNEYm1XTlFHSWFvUEFVUW4yVW92Qy1QQS1LM2hsMjRqY3o4OWlPeGxHWUtsYjZNOERjVDky?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": []
+}
