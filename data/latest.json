@@ -1,194 +1,188 @@
 {
   "date": "2026-10-26",
-  "hour": "13",
-  "slot": "2026-10-26_13",
-  "crawled_at": "2026-10-26 13:00:04",
-  "total_articles": 397,
+  "hour": "16",
+  "slot": "2026-10-26_16",
+  "crawled_at": "2026-10-26 16:00:01",
+  "total_articles": 402,
   "topics": [
     {
       "rank": 1,
-      "keyword": "주진우",
-      "count": 19,
-      "representative_title": "靑 \"국힘 주진우 일방 주장 인용 보도하지 말라\"&#160;",
-      "representative_link": "https://n.news.naver.com/article/006/0000138399?ntype=RANKING",
-      "press": "미디어오늘",
+      "keyword": "여사",
+      "count": 28,
+      "representative_title": "“김혜경 여사, 태릉CC서 프로골퍼에 ‘황제레슨’”",
+      "representative_link": "https://n.news.naver.com/article/021/0002827865?ntype=RANKING",
+      "press": "문화일보",
       "related_articles": [
+        {
+          "title": "주진우 “金여사 골프 영상 공개”…靑 “사실 근거 없는 주장”",
+          "link": "https://n.news.naver.com/article/005/0001880873?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "주진우 \"김혜경 여사, 태릉CC서 '황제레슨'…비용은 누가?\"[영상]",
+          "link": "https://n.news.naver.com/article/079/0004202550?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "靑, '김혜경 여사 골프' 보도에 \"'따옴표 보도'는 언론 책임 방기\"",
+          "link": "https://n.news.naver.com/article/214/0001531414?ntype=RANKING",
+          "press": "MBC"
+        },
         {
           "title": "주진우 \"김혜경 여사, 프로골퍼와 레슨\"‥여당 \"황당무계 소설\"",
           "link": "https://n.news.naver.com/article/214/0001531380?ntype=RANKING",
           "press": "MBC"
         },
         {
-          "title": "주진우 \"김혜경 여사, 역삼동 화재 날 프로골퍼 대동하고 '황제 골프'\" 주장",
-          "link": "https://n.news.naver.com/article/437/0000517491?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "주진우 \"김혜경 여사, 평일에 유명 프로골퍼 대동 황제 골프\"",
-          "link": "https://n.news.naver.com/article/421/0009249604?ntype=RANKING",
-          "press": "뉴스1"
-        },
-        {
-          "title": "주진우 “김혜경 여사, 軍골프장에서 유명 프로골퍼 대동 황제골프” 의혹 제기",
-          "link": "https://n.news.naver.com/article/016/0002714157?ntype=RANKING",
-          "press": "헤럴드경제"
-        },
-        {
-          "title": "김혜경 ‘황제 골프레슨’ 의혹 꺼낸 주진우…靑 “허위 보도 책임 묻겠다”",
-          "link": "https://n.news.naver.com/article/009/0005753799?ntype=RANKING",
-          "press": "매일경제"
+          "title": "청와대, ‘김 여사 골프’ 주진우 주장 인용 보도에 “허위사실 유포 엄중 책임”",
+          "link": "https://n.news.naver.com/article/056/0012280767?ntype=RANKING",
+          "press": "KBS"
         }
       ],
       "related_titles": [
+        "주진우 “金여사 골프 영상 공개”…靑 “사실 근거 없는 주장”",
+        "주진우 \"김혜경 여사, 태릉CC서 '황제레슨'…비용은 누가?\"[영상]",
+        "靑, '김혜경 여사 골프' 보도에 \"'따옴표 보도'는 언론 책임 방기\"",
         "주진우 \"김혜경 여사, 프로골퍼와 레슨\"‥여당 \"황당무계 소설\"",
-        "주진우 \"김혜경 여사, 역삼동 화재 날 프로골퍼 대동하고 '황제 골프'\" 주장",
-        "주진우 \"김혜경 여사, 평일에 유명 프로골퍼 대동 황제 골프\"",
-        "주진우 “김혜경 여사, 軍골프장에서 유명 프로골퍼 대동 황제골프” 의혹 제기",
-        "김혜경 ‘황제 골프레슨’ 의혹 꺼낸 주진우…靑 “허위 보도 책임 묻겠다”"
+        "청와대, ‘김 여사 골프’ 주진우 주장 인용 보도에 “허위사실 유포 엄중 책임”"
       ],
       "category": "정치"
     },
     {
       "rank": 2,
-      "keyword": "김혜경",
-      "count": 18,
-      "representative_title": "\"김혜경 여사 '황제 골프'\"vs\"프로 골퍼 누구?\"...공개 사진 보니",
-      "representative_link": "https://n.news.naver.com/article/018/0006396196?ntype=RANKING",
-      "press": "이데일리",
+      "keyword": "주진우",
+      "count": 24,
+      "representative_title": "靑 \"국힘 주진우 일방 주장 인용 보도, 엄중히 책임 묻겠다\"",
+      "representative_link": "https://n.news.naver.com/article/006/0000138399?ntype=RANKING",
+      "press": "미디어오늘",
       "related_articles": [
         {
-          "title": "\"김혜경 여사 '황제 골프'\"vs\"프로 골퍼 누구?\"...공개 사진 보니",
-          "link": "https://n.news.naver.com/article/018/0006396196?ntype=RANKING",
-          "press": "이데일리"
+          "title": "野 주진우 “김혜경, 황제 골프레슨”... 靑 “허위 사실 보도에 책임 묻겠다”",
+          "link": "https://n.news.naver.com/article/023/0004005958?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "민주당, 김혜경 여사 '황제 골프' 의혹에 \"소설 쓰는 사이버렉카 행태\"",
-          "link": "https://n.news.naver.com/article/088/0001036492?ntype=RANKING",
-          "press": "매일신문"
+          "title": "\"주진우, 면책특권 뒤에서 의혹만 흘려\"...민주당 \"증거 내놓으라\"",
+          "link": "https://n.news.naver.com/article/437/0000517517?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "김혜경, 프로골퍼 대동 '황제 레슨' 의혹…주진우 \"영상·증거 확보\"",
+          "link": "https://n.news.naver.com/article/119/0003146831?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "靑 \"국힘 주진우 일방 주장 인용 보도, 엄중히 책임 묻겠다\"",
+          "link": "https://n.news.naver.com/article/006/0000138399?ntype=RANKING",
+          "press": "미디어오늘"
+        },
+        {
+          "title": "주진우 \"김혜경 황제골프\"…靑 \"허위사실 보도 언론, 엄중 책임\"",
+          "link": "https://n.news.naver.com/article/002/0002462635?ntype=RANKING",
+          "press": "프레시안"
         }
       ],
       "related_titles": [
-        "\"김혜경 여사 '황제 골프'\"vs\"프로 골퍼 누구?\"...공개 사진 보니",
-        "민주당, 김혜경 여사 '황제 골프' 의혹에 \"소설 쓰는 사이버렉카 행태\""
+        "野 주진우 “김혜경, 황제 골프레슨”... 靑 “허위 사실 보도에 책임 묻겠다”",
+        "\"주진우, 면책특권 뒤에서 의혹만 흘려\"...민주당 \"증거 내놓으라\"",
+        "김혜경, 프로골퍼 대동 '황제 레슨' 의혹…주진우 \"영상·증거 확보\"",
+        "靑 \"국힘 주진우 일방 주장 인용 보도, 엄중히 책임 묻겠다\"",
+        "주진우 \"김혜경 황제골프\"…靑 \"허위사실 보도 언론, 엄중 책임\""
       ],
       "category": "사회/일반"
     },
     {
       "rank": 3,
-      "keyword": "오세훈",
-      "count": 18,
-      "representative_title": "윤상현 “오세훈, 강력한 대선주자…장동혁과 결 달라”",
-      "representative_link": "https://n.news.naver.com/article/028/0002829137?ntype=RANKING",
-      "press": "한겨레",
+      "keyword": "김혜경",
+      "count": 21,
+      "representative_title": "靑 “김혜경, 프로골퍼와 황제 레슨” 주장에 “허위 사실”",
+      "representative_link": "https://n.news.naver.com/article/005/0001880836?ntype=RANKING",
+      "press": "국민일보",
       "related_articles": [
         {
-          "title": "\"정치사건부터 AI판사 도입하자\"...최민희 \"오세훈 2심, 이해 안 돼\"",
-          "link": "https://n.news.naver.com/article/437/0000517508?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "김민석, 오세훈 무죄 판결에 “정치자금 우회지원 판 칠 것”",
-          "link": "https://n.news.naver.com/article/005/0001880834?ntype=RANKING",
+          "title": "靑 “김혜경, 프로골퍼와 황제 레슨” 주장에 “허위 사실”",
+          "link": "https://n.news.naver.com/article/005/0001880836?ntype=RANKING",
           "press": "국민일보"
-        },
-        {
-          "title": "윤상현 “오세훈, 강력한 대선주자…장동혁과 결 달라”",
-          "link": "https://n.news.naver.com/article/028/0002829137?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "김민석 “오세훈 무죄, 사법부 정치화”…최민희 “AI 판사 도입하자”",
-          "link": "https://n.news.naver.com/article/020/0003757629?ntype=RANKING",
-          "press": "동아일보"
-        },
-        {
-          "title": "'친오계' 급부상? 윤상현 \"오세훈, 장동혁과 결 다른 강력 대선주자\"",
-          "link": "https://n.news.naver.com/article/586/0000140829?ntype=RANKING",
-          "press": "시사저널"
         }
       ],
       "related_titles": [
-        "\"정치사건부터 AI판사 도입하자\"...최민희 \"오세훈 2심, 이해 안 돼\"",
-        "김민석, 오세훈 무죄 판결에 “정치자금 우회지원 판 칠 것”",
-        "윤상현 “오세훈, 강력한 대선주자…장동혁과 결 달라”",
-        "김민석 “오세훈 무죄, 사법부 정치화”…최민희 “AI 판사 도입하자”",
-        "'친오계' 급부상? 윤상현 \"오세훈, 장동혁과 결 다른 강력 대선주자\""
+        "靑 “김혜경, 프로골퍼와 황제 레슨” 주장에 “허위 사실”"
       ],
-      "category": "산업/테크"
+      "category": "사회/일반"
     },
     {
       "rank": 4,
-      "keyword": "브라질",
-      "count": 16,
-      "representative_title": "브라질 최초 4선 대통령…룰라, 보우소나루 꺾고 당선",
-      "representative_link": "https://n.news.naver.com/article/031/0001069199?ntype=RANKING",
-      "press": "아이뉴스24",
+      "keyword": "책임",
+      "count": 19,
+      "representative_title": "오세훈 무죄에 조희대 책임 묻는 민주당…野 \"비상식적\"",
+      "representative_link": "https://n.news.naver.com/article/119/0003146981?ntype=RANKING",
+      "press": "데일리안",
       "related_articles": [
         {
-          "title": "브라질 대선서 룰라 당선…'블루타이드' 저지하고 통산 4선(종합)",
-          "link": "https://n.news.naver.com/article/001/0016399966?ntype=RANKING",
-          "press": "연합뉴스"
+          "title": "‘닥터X’ 5·18 소재 두고 엇갈린 반응…책임 CP “두려움 없다”",
+          "link": "https://n.news.naver.com/article/449/0000365243?ntype=RANKING",
+          "press": "채널A"
         },
         {
-          "title": "[속보]브라질 ‘소년공 대통령’ 룰라 4선 성공···보우소나루에 역전극, 블루타이드 막았다",
-          "link": "https://n.news.naver.com/article/032/0003478467?ntype=RANKING",
-          "press": "경향신문"
+          "title": "[티조챗] '오세훈 메가톤' 떨어진 여의도…'조희대 탄핵·특검 책임·친오계 꿈틀' 여야 셈법은?",
+          "link": "https://n.news.naver.com/article/448/0000646979?ntype=RANKING",
+          "press": "TV조선"
         },
         {
-          "title": "‘대역전’ 룰라, 브라질 첫 4선 대통령…보우소나루에 3.52%p차 승리",
-          "link": "https://n.news.naver.com/article/028/0002829132?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "[속보] 브라질 보우소나루 “대선 결과 인정못해…무효 요청할 것”",
-          "link": "https://n.news.naver.com/article/009/0005753890?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "개표율 48%에 '재역전'…브라질 대선서 룰라 당선 확정",
-          "link": "https://n.news.naver.com/article/055/0001398167?ntype=RANKING",
-          "press": "SBS"
+          "title": "오세훈 무죄에 조희대 책임 묻는 민주당…野 \"비상식적\"",
+          "link": "https://n.news.naver.com/article/119/0003146981?ntype=RANKING",
+          "press": "데일리안"
         }
       ],
       "related_titles": [
-        "브라질 대선서 룰라 당선…'블루타이드' 저지하고 통산 4선(종합)",
-        "[속보]브라질 ‘소년공 대통령’ 룰라 4선 성공···보우소나루에 역전극, 블루타이드 막았다",
-        "‘대역전’ 룰라, 브라질 첫 4선 대통령…보우소나루에 3.52%p차 승리",
-        "[속보] 브라질 보우소나루 “대선 결과 인정못해…무효 요청할 것”",
-        "개표율 48%에 '재역전'…브라질 대선서 룰라 당선 확정"
+        "‘닥터X’ 5·18 소재 두고 엇갈린 반응…책임 CP “두려움 없다”",
+        "[티조챗] '오세훈 메가톤' 떨어진 여의도…'조희대 탄핵·특검 책임·친오계 꿈틀' 여야 셈법은?",
+        "오세훈 무죄에 조희대 책임 묻는 민주당…野 \"비상식적\""
       ],
-      "category": "정치"
+      "category": "국제"
     },
     {
       "rank": 5,
-      "keyword": "룰라",
+      "keyword": "오세훈",
       "count": 16,
-      "representative_title": "'소년공' 룰라, 트럼프의 '블루타이드' 저지",
-      "representative_link": "https://n.news.naver.com/article/374/0000539724?ntype=RANKING",
-      "press": "SBS Biz",
+      "representative_title": "'오세훈 무죄'에 'AI 판사' 꺼낸 민주당",
+      "representative_link": "https://n.news.naver.com/article/586/0000140862?ntype=RANKING",
+      "press": "시사저널",
       "related_articles": [
         {
-          "title": "“가난도 병도 이겨냈다”…룰라, 사상 첫 4선 대통령 ‘역경의 아이콘’",
-          "link": "https://n.news.naver.com/article/029/0003055151?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "유승민 \"이준석·한동훈·오세훈·장동혁 연대하자! 전당대회서 필요한 역할할 것\"",
+          "link": "https://n.news.naver.com/article/052/0002423640?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "'소년공' 룰라, 트럼프의 '블루타이드' 저지",
-          "link": "https://n.news.naver.com/article/374/0000539724?ntype=RANKING",
-          "press": "SBS Biz"
+          "title": "법원행정처장, 오세훈 2심 무죄에 “조희대 사법부가 어떻게 했다는 말 적절하지 않아”",
+          "link": "https://n.news.naver.com/article/032/0003478503?ntype=RANKING",
+          "press": "경향신문"
         },
         {
-          "title": "룰라, 결선서 보우소나루 꺾고 4선 성공…51.77% 득표(종합)",
-          "link": "https://n.news.naver.com/article/003/0014277575?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "박정희 추모식 참석한 오세훈 “대한민국 부강 위해 맡은 바 소임 다할 것”",
+          "link": "https://n.news.naver.com/article/032/0003478513?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "‘무죄’ 오세훈, 법원 찾은 의원들과 연이틀 만찬…‘친오계’ 확장 시동",
+          "link": "https://n.news.naver.com/article/020/0003757658?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "장동혁 \"오세훈 무죄 판결…특검, 사죄하고 대법원 상고 포기해야\"",
+          "link": "https://n.news.naver.com/article/656/0000190560?ntype=RANKING",
+          "press": "대전일보"
         }
       ],
       "related_titles": [
-        "“가난도 병도 이겨냈다”…룰라, 사상 첫 4선 대통령 ‘역경의 아이콘’",
-        "'소년공' 룰라, 트럼프의 '블루타이드' 저지",
-        "룰라, 결선서 보우소나루 꺾고 4선 성공…51.77% 득표(종합)"
+        "유승민 \"이준석·한동훈·오세훈·장동혁 연대하자! 전당대회서 필요한 역할할 것\"",
+        "법원행정처장, 오세훈 2심 무죄에 “조희대 사법부가 어떻게 했다는 말 적절하지 않아”",
+        "박정희 추모식 참석한 오세훈 “대한민국 부강 위해 맡은 바 소임 다할 것”",
+        "‘무죄’ 오세훈, 법원 찾은 의원들과 연이틀 만찬…‘친오계’ 확장 시동",
+        "장동혁 \"오세훈 무죄 판결…특검, 사죄하고 대법원 상고 포기해야\""
       ],
-      "category": "정치"
+      "category": "사회/일반"
     }
   ],
   "stock_topics": [
@@ -196,9 +190,9 @@
       "rank": 1,
       "keyword": "코스피",
       "count": 5,
-      "representative_title": "외국인 매도세에 낙폭 키우는 코스피…5400선으로",
-      "representative_link": "https://n.news.naver.com/article/366/0001200299?ntype=RANKING",
-      "press": "조선비즈",
+      "representative_title": "국제유가 116달러 돌파에 코스피 약세…5500선 위협",
+      "representative_link": "https://n.news.naver.com/article/138/0002245940?ntype=RANKING",
+      "press": "디지털데일리",
       "related_articles": [
         {
           "title": "\"코스피 5200까지 내려갈 수도...삼전닉스 집착 버려야\"",
@@ -206,52 +200,47 @@
           "press": "파이낸셜뉴스"
         },
         {
-          "title": "\"코스피 1만2000 간다\"더니…4개월 만에 돌변한 골드만삭스, 왜",
-          "link": "https://n.news.naver.com/article/215/0001270401?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "외국인 매도세에 낙폭 키우는 코스피…5400선으로",
-          "link": "https://n.news.naver.com/article/366/0001200299?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
           "title": "美 중간선거, 집권당 지면 코스피 올랐다는데...이번에도 반등할까",
           "link": "https://n.news.naver.com/article/648/0000051928?ntype=RANKING",
           "press": "비즈워치"
         },
         {
-          "title": "코스피 밀리자 '단일종목 레버리지 ETF' 개미 사고 외국인 팔았다",
-          "link": "https://n.news.naver.com/article/123/0002392556?ntype=RANKING",
+          "title": "국제유가 116달러 돌파에 코스피 약세…5500선 위협",
+          "link": "https://n.news.naver.com/article/138/0002245940?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "“반도체 언제까지 오를까요”...코스피 내년 주도주 바뀐다",
+          "link": "https://n.news.naver.com/article/024/0000109173?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "골드만, 코스피 목표 25% 낮췄다…시장이 의심하는 건? [마켓프리즘]",
+          "link": "https://n.news.naver.com/article/123/0002392579?ntype=RANKING",
           "press": "조세일보"
         }
       ],
       "related_titles": [
         "\"코스피 5200까지 내려갈 수도...삼전닉스 집착 버려야\"",
-        "\"코스피 1만2000 간다\"더니…4개월 만에 돌변한 골드만삭스, 왜",
-        "외국인 매도세에 낙폭 키우는 코스피…5400선으로",
         "美 중간선거, 집권당 지면 코스피 올랐다는데...이번에도 반등할까",
-        "코스피 밀리자 '단일종목 레버리지 ETF' 개미 사고 외국인 팔았다"
+        "국제유가 116달러 돌파에 코스피 약세…5500선 위협",
+        "“반도체 언제까지 오를까요”...코스피 내년 주도주 바뀐다",
+        "골드만, 코스피 목표 25% 낮췄다…시장이 의심하는 건? [마켓프리즘]"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "하이닉스",
-      "count": 4,
-      "representative_title": "“16조원 배당 현실화?” SK하이닉스 입장은",
-      "representative_link": "https://n.news.naver.com/article/050/0000112375?ntype=RANKING",
-      "press": "한경비즈니스",
+      "keyword": "삼전닉스",
+      "count": 3,
+      "representative_title": "삼전닉스 없이 4000만원→85억…“주가 폭락때 ‘이것’ 담았다”",
+      "representative_link": "https://n.news.naver.com/article/025/0003560392?ntype=RANKING",
+      "press": "중앙일보",
       "related_articles": [
         {
-          "title": "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
-          "link": "https://n.news.naver.com/article/022/0004169573?ntype=RANKING",
-          "press": "세계일보"
-        },
-        {
-          "title": "하이닉스 '16조원' 배당설에 화들짝…\"주주환원 방안 검토중, 확정안 없어\"",
-          "link": "https://n.news.naver.com/article/088/0001036487?ntype=RANKING",
-          "press": "매일신문"
+          "title": "삼전닉스 없이 4000만원→85억…“주가 폭락때 ‘이것’ 담았다”",
+          "link": "https://n.news.naver.com/article/025/0003560392?ntype=RANKING",
+          "press": "중앙일보"
         },
         {
           "title": "[오늘의 삼전닉스] SK하이닉스 추가 16조 주주환원 기대감, 급등 신호탄?",
@@ -259,53 +248,132 @@
           "press": "이코노미스트"
         },
         {
-          "title": "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
-          "link": "https://n.news.naver.com/article/022/0004169573?ntype=RANKING",
-          "press": "세계일보"
+          "title": "삼전닉스 없이 4000만원→85억…“주가 폭락때 ‘이것’ 담았다”",
+          "link": "https://n.news.naver.com/article/025/0003560392?ntype=RANKING",
+          "press": "중앙일보"
         },
         {
-          "title": "하이닉스 '16조원' 배당설에 화들짝…\"주주환원 방안 검토중, 확정안 없어\"",
-          "link": "https://n.news.naver.com/article/088/0001036487?ntype=RANKING",
-          "press": "매일신문"
+          "title": "[오늘의 삼전닉스] SK하이닉스 추가 16조 주주환원 기대감, 급등 신호탄?",
+          "link": "https://n.news.naver.com/article/243/0000104715?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "삼전닉스 없이 4000만원→85억…“주가 폭락때 ‘이것’ 담았다”",
+          "link": "https://n.news.naver.com/article/025/0003560392?ntype=RANKING",
+          "press": "중앙일보"
         }
       ],
       "related_titles": [
-        "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
-        "하이닉스 '16조원' 배당설에 화들짝…\"주주환원 방안 검토중, 확정안 없어\"",
+        "삼전닉스 없이 4000만원→85억…“주가 폭락때 ‘이것’ 담았다”",
         "[오늘의 삼전닉스] SK하이닉스 추가 16조 주주환원 기대감, 급등 신호탄?",
-        "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
-        "하이닉스 '16조원' 배당설에 화들짝…\"주주환원 방안 검토중, 확정안 없어\""
+        "삼전닉스 없이 4000만원→85억…“주가 폭락때 ‘이것’ 담았다”",
+        "[오늘의 삼전닉스] SK하이닉스 추가 16조 주주환원 기대감, 급등 신호탄?",
+        "삼전닉스 없이 4000만원→85억…“주가 폭락때 ‘이것’ 담았다”"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "삼전닉스",
+      "keyword": "만원",
       "count": 3,
-      "representative_title": "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]",
-      "representative_link": "https://n.news.naver.com/article/024/0000109172?ntype=RANKING",
-      "press": "매경이코노미",
+      "representative_title": "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
+      "representative_link": "https://n.news.naver.com/article/022/0004169573?ntype=RANKING",
+      "press": "세계일보",
       "related_articles": [
         {
-          "title": "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000109172?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "“30만원→17만원, 절망입니다” 한때 전국민 열풍 난리더니…‘국민 포털’ 급락 무슨 일이",
+          "link": "https://n.news.naver.com/article/016/0002714044?ntype=RANKING",
+          "press": "헤럴드경제"
         },
         {
-          "title": "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000109172?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "“30만원→17만원, 절망입니다” 한때 전국민 열풍 난리더니…‘국민 포털’ 급락 무슨 일이",
+          "link": "https://n.news.naver.com/article/016/0002714044?ntype=RANKING",
+          "press": "헤럴드경제"
         },
         {
-          "title": "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000109172?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004169573?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "“30만원→17만원, 절망입니다” 한때 전국민 열풍 난리더니…‘국민 포털’ 급락 무슨 일이",
+          "link": "https://n.news.naver.com/article/016/0002714044?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "“30만원→17만원, 절망입니다” 한때 전국민 열풍 난리더니…‘국민 포털’ 급락 무슨 일이",
+          "link": "https://n.news.naver.com/article/016/0002714044?ntype=RANKING",
+          "press": "헤럴드경제"
         }
       ],
       "related_titles": [
-        "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]",
-        "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]",
-        "“금융위기급 저평가”...삼전닉스 영업이익 무려 1571조? [오늘, 이 종목]"
+        "“30만원→17만원, 절망입니다” 한때 전국민 열풍 난리더니…‘국민 포털’ 급락 무슨 일이",
+        "“30만원→17만원, 절망입니다” 한때 전국민 열풍 난리더니…‘국민 포털’ 급락 무슨 일이",
+        "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
+        "“30만원→17만원, 절망입니다” 한때 전국민 열풍 난리더니…‘국민 포털’ 급락 무슨 일이",
+        "“30만원→17만원, 절망입니다” 한때 전국민 열풍 난리더니…‘국민 포털’ 급락 무슨 일이"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "주가",
+      "count": 3,
+      "representative_title": "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약",
+      "representative_link": "https://n.news.naver.com/article/037/0000039039?ntype=RANKING",
+      "press": "주간동아",
+      "related_articles": [
+        {
+          "title": "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약",
+          "link": "https://n.news.naver.com/article/037/0000039039?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약",
+          "link": "https://n.news.naver.com/article/037/0000039039?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약",
+          "link": "https://n.news.naver.com/article/037/0000039039?ntype=RANKING",
+          "press": "주간동아"
+        }
+      ],
+      "related_titles": [
+        "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약",
+        "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약",
+        "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "하이닉스",
+      "count": 3,
+      "representative_title": "“16조원 배당 현실화?” SK하이닉스 입 열었다",
+      "representative_link": "https://n.news.naver.com/article/050/0000112375?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "“16조원 배당 현실화?” SK하이닉스 입 열었다",
+          "link": "https://n.news.naver.com/article/050/0000112375?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "“16조원 배당 현실화?” SK하이닉스 입 열었다",
+          "link": "https://n.news.naver.com/article/050/0000112375?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "“16조원 배당 현실화?” SK하이닉스 입 열었다",
+          "link": "https://n.news.naver.com/article/050/0000112375?ntype=RANKING",
+          "press": "한경비즈니스"
+        }
+      ],
+      "related_titles": [
+        "“16조원 배당 현실화?” SK하이닉스 입 열었다",
+        "“16조원 배당 현실화?” SK하이닉스 입 열었다",
+        "“16조원 배당 현실화?” SK하이닉스 입 열었다"
       ],
       "category": "주식/코인"
     }
@@ -418,5 +486,105 @@
       "category": "몰락"
     }
   ],
-  "budongsan_topics": []
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 7,
+      "representative_title": "10월 서울 집값 오름폭·대장주·전망지수 동시 하락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WcGtKSEluSHlIVVNBSzJzbTRVTjluMW9sWWowbE4xVTNmMkcxcXFOd3NuODdzUzFTN0cxdUJBOEFfbXQ5aXA3bFRVSkRDeVU2cER0eC1ENGl4eTVleG14Q19DdU5CVld3aHc?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVE9hdmd2bm9ZemVQMWZyenNOQ0xMd2lDUUVUa2FabzliNmNVTi1TVmFtamVQLW5fZWx5SFFTN0dlV3Z6akZEd3Uwc1ZFbGU2UnNsZkxiMDlYTzRnMVVVS1Z6Y0dDdnc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“집값 폭락할 것” LH 사장의 호언… 서울 아파트값 말처럼 될까 [주말 Q&amp;A]",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mS3NiVmYweDAxX2tPeXFnWTdnWXY5UGVZLTVhQlVDbF9NQndIRXlzN05GMk04QXZKWHRCdVlBaFJHYm5POE9CQlVzUnVIZHoxTHBLcUxseXVhT3FMSE1KR1RVazIybHhLb0VvRHNR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트값 상승폭 연중 최저…강남 하락·강북 강세 '엇갈린 집값'",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DRkR6UlUxbVB0YU8xRUVlRVE4d3I1c3V2LVF5WVlnb3JneVR5a2dBblI1Zm1Ea3ViS0J4bHIwRHpielNZT3pIRGY2ZnctTEpJbHVBNW5xR3dWZ0NtVjlYWUFGYmpDZ3IxUFBuUzNWalbSAXRBVV95cUxNaVNWZ0plQ0RWQ1l3cTBSZHpvRENQZkwxTXJGUWtmMXU2cFFrcEx2anF2OGhqWUVFcDZiaVc5WjZLOVBHWUY2dUZQbUdTR0RrRG14azRwd011ZFFIZVBlcjNqNUlkeUhGZmlNTzhyZEtDNWNEQw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "10월 서울 집값 오름폭·대장주·전망지수 동시 하락",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WcGtKSEluSHlIVVNBSzJzbTRVTjluMW9sWWowbE4xVTNmMkcxcXFOd3NuODdzUzFTN0cxdUJBOEFfbXQ5aXA3bFRVSkRDeVU2cER0eC1ENGl4eTVleG14Q19DdU5CVld3aHc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[오늘 부동산] \"집값 안정화\"라는데…서울 아파트값 89주 연속 상승",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTmZ4WGszLXVKVmp2bjllWWM3Rl9QcldJcFNXQU9oeWhCb1M2eGtzbUhLLUlGMlZoemtJdWlKZnNjQUxjYW9wZ2FPYlQtYlozTjN2UTlUNEhBZU15cWJBWTNVSlcya0UxQlJiX3lvTDZwUlI1MFBjckQ5X3dBelkwSnRTMVU4ek5sZ3l5bkR5VXhWYW5yUWcxVXNVTVNyOXhYQXY4eDhfTG9pZ3ZqdERJeVRoQTc1VnBfNFZONm10a0NQLVNaREVXbDZydXF2ekh1YmxNbUJSb3JpNUJzUEQ5ZTBnRFJVMUh6UEtodDh1SjJVVXpaUDRtTlYtVEdScmJadnlQakt0RFQ0cXN4Umc0S2pxRlMyUDdWV2x3VlNGOE02S00?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+        "“집값 폭락할 것” LH 사장의 호언… 서울 아파트값 말처럼 될까 [주말 Q&amp;A]",
+        "서울 아파트값 상승폭 연중 최저…강남 하락·강북 강세 '엇갈린 집값'",
+        "10월 서울 집값 오름폭·대장주·전망지수 동시 하락",
+        "[오늘 부동산] \"집값 안정화\"라는데…서울 아파트값 89주 연속 상승"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 6,
+      "representative_title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "중저가 아파트가 이끈 10월 집값…강남·서초는 하락 전환",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Y2pBNWQ5VEFqc1hUcmVIV0h5MXVfUXZ2djNFeG0ta0ZVYnBONEh3MENoenplM3lVVHJuOHRROTRmbkVOU05qaXdFcFVWWEtOckw5YUU3RmRMNlg5S0ozZnFYc1JCUS1CLWxfetIBcEFVX3lxTE1mT0QtQk9Zbm42YkpSZWotY1dSR3dPWTk5MEJoeTJsWWtQV0tTdzB0RkpXZFR1S2hyVkhaRW9MaXM2YzZiMi15anJhWFp1Uk1LSE14ZUZuSTg1N0xZdExLM2dleHNOZ2phQTNibFFOVGo?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[부동산 포커스] 강남 집값은 빠지는데…반포 원베일리 120억 ‘신고가 역주행’",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TREVVeEo1MVotbG1NY1kxODY1U0l2RG02ODlpbkN1Z2tDQzhfOXJDYXlna2cxUFp6MG44WFEySm5MQ1F2Y2FTOFNIQjE0SFlZTFRfM1pnOHRxRzVUT2pEX1J0dWxTQS1CUTU2dG1iMTY0TmPSAXdBVV95cUxOXzk2c01XM1JGQjUtSVlBR0tFdEVENGJSZHF5NFFNMzBOWXgwNUVJN1lxM3lKM2FiMTVLWVRMQTdPZHpHZUZIUkdEQm5nNjdJRC1fX0M2dmtQaVdlZG8waUJkdkpUOC1Iak5FcXpZMzVyWUtnOGdSWQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fdlpNb3VjRUJ0WEpqdXYtemFVeVFfWDFyYUc0MFlKSkpZcVJOWVg5Yzl1dEp5MmMzWGlhRjUyYlJiTTI1T2xDVnZ3bkpUSDBxbnliczBQVVI?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+        "중저가 아파트가 이끈 10월 집값…강남·서초는 하락 전환",
+        "[부동산 포커스] 강남 집값은 빠지는데…반포 원베일리 120억 ‘신고가 역주행’",
+        "강남 집값만 잡으면 된다고? … ‘상향평준화’ 멈출 기미 안보인다"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "상승률",
+      "count": 3,
+      "representative_title": "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지",
+      "representative_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JLVhmNUpRNHMtdzFaNEF0NHprT1E5MjNtWUVfYzJReC1iZGxwN053N2otejdNNzJucmM0UzJtNE5takotSTVaejRCR19BU1VfaEs0ejQ5RHRkLUNrOVlVVXk5aTNuOHo2c3FVQnNEQ1DSAXBBVV95cUxNSS1YZjVKUTRzLXcxWjRBdDR6a09ROTIzbVlFX2MyUXgtYmRscDdOdzdqLXo3TTcybnJjNFMybTRObWpKLUk1Wno0QkdfQVNVX2hLNHo0OUR0ZC1DazlZVVV5OWkzbjh6NnNxVUJzRENQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JLVhmNUpRNHMtdzFaNEF0NHprT1E5MjNtWUVfYzJReC1iZGxwN053N2otejdNNzJucmM0UzJtNE5takotSTVaejRCR19BU1VfaEs0ejQ5RHRkLUNrOVlVVXk5aTNuOHo2c3FVQnNEQ1DSAXBBVV95cUxNSS1YZjVKUTRzLXcxWjRBdDR6a09ROTIzbVlFX2MyUXgtYmRscDdOdzdqLXo3TTcybnJjNFMybTRObWpKLUk1Wno0QkdfQVNVX2hLNHo0OUR0ZC1DazlZVVV5OWkzbjh6NnNxVUJzRENQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지"
+      ],
+      "category": "부동산"
+    }
+  ]
 }
