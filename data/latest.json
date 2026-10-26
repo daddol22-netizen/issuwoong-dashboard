@@ -1,27 +1,199 @@
 {
   "date": "2026-10-26",
-  "hour": "07",
-  "slot": "2026-10-26_07",
-  "crawled_at": "2026-10-26 07:00:01",
-  "total_articles": 387,
+  "hour": "10",
+  "slot": "2026-10-26_10",
+  "crawled_at": "2026-10-26 10:00:05",
+  "total_articles": 392,
   "topics": [
     {
       "rank": 1,
-      "keyword": "부캉이",
-      "count": 13,
-      "representative_title": "부캉이 머물던 바다에 기름 유출한 유조선 적발",
-      "representative_link": "https://n.news.naver.com/article/079/0004202426?ntype=RANKING",
-      "press": "노컷뉴스",
+      "keyword": "지지율",
+      "count": 12,
+      "representative_title": "이 대통령 지지율 반등 1주만에 다시 하락… 35.3%[리얼미터]",
+      "representative_link": "https://n.news.naver.com/article/082/0001403987?ntype=RANKING",
+      "press": "부산일보",
       "related_articles": [
         {
-          "title": "흑상어 ‘부캉이’ 북항과 헤어질 결심 못 했나…",
-          "link": "https://n.news.naver.com/article/082/0001403961?ntype=RANKING",
-          "press": "부산일보"
+          "title": "[속보] 이 대통령 지지율 35.3%…국힘, 민주에 오차범위 밖 우세 [리얼미터]",
+          "link": "https://n.news.naver.com/article/009/0005753767?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "‘부캉이’ 생중계 하려고 배 타다가 그만···항만보안구역 촬영한 유튜버 적발",
-          "link": "https://n.news.naver.com/article/032/0003478360?ntype=RANKING",
-          "press": "경향신문"
+          "title": "李 지지율 소폭 하락한 35.3%…부정 평가는 62.3% [리얼미터]",
+          "link": "https://n.news.naver.com/article/366/0001200208?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "李대통령 지지율 35.3%…민주 36.0%·국힘 42.6% 오차밖 격차[리얼미터]",
+          "link": "https://n.news.naver.com/article/001/0016399536?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[속보] 李 지지율 2%p 하락한 35.3%…野, 오차범위 밖 與 앞서 [리얼미터]",
+          "link": "https://n.news.naver.com/article/421/0009248897?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "李대통령 지지율 35.3%…국힘 42.6%, 민주 36.0% '오차범위 밖'",
+          "link": "https://n.news.naver.com/article/421/0009248924?ntype=RANKING",
+          "press": "뉴스1"
+        }
+      ],
+      "related_titles": [
+        "[속보] 이 대통령 지지율 35.3%…국힘, 민주에 오차범위 밖 우세 [리얼미터]",
+        "李 지지율 소폭 하락한 35.3%…부정 평가는 62.3% [리얼미터]",
+        "李대통령 지지율 35.3%…민주 36.0%·국힘 42.6% 오차밖 격차[리얼미터]",
+        "[속보] 李 지지율 2%p 하락한 35.3%…野, 오차범위 밖 與 앞서 [리얼미터]",
+        "李대통령 지지율 35.3%…국힘 42.6%, 민주 36.0% '오차범위 밖'"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 2,
+      "keyword": "만원",
+      "count": 11,
+      "representative_title": "서민들 이제 어쩌나… ‘노도강’도 아파트 300만원 월세 속출",
+      "representative_link": "https://n.news.naver.com/article/005/0001880817?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "“산후조리원 350만원? 우리 엄마 쓰면 공짜” 남편 말에 갑론을박",
+          "link": "https://n.news.naver.com/article/020/0003757607?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "[단독] 원가 14만원 보청기, 팔 땐 132만원… 9배 뻥튀기의 비밀",
+          "link": "https://n.news.naver.com/article/469/0000961577?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "[단독] 원가 14만원 보청기, 팔 땐 132만원… 9배 뻥튀기의 비밀",
+          "link": "https://n.news.naver.com/article/469/0000961577?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "\"월급 300만원은 받아야지\"…지방 떠난 청년, 연봉 2166만원→4820만원 껑충",
+          "link": "https://n.news.naver.com/article/088/0001036439?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "\"월급 300만원은 받아야지\"…지방 떠난 청년, 연봉 2166만원→4820만원 껑충",
+          "link": "https://n.news.naver.com/article/088/0001036439?ntype=RANKING",
+          "press": "매일신문"
+        }
+      ],
+      "related_titles": [
+        "“산후조리원 350만원? 우리 엄마 쓰면 공짜” 남편 말에 갑론을박",
+        "[단독] 원가 14만원 보청기, 팔 땐 132만원… 9배 뻥튀기의 비밀",
+        "[단독] 원가 14만원 보청기, 팔 땐 132만원… 9배 뻥튀기의 비밀",
+        "\"월급 300만원은 받아야지\"…지방 떠난 청년, 연봉 2166만원→4820만원 껑충",
+        "\"월급 300만원은 받아야지\"…지방 떠난 청년, 연봉 2166만원→4820만원 껑충"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 3,
+      "keyword": "닥터",
+      "count": 10,
+      "representative_title": "'닥터X'에 5·18을 심은 사람은 누굴까 [최훈민의 심연]",
+      "representative_link": "https://n.news.naver.com/article/088/0001036456?ntype=RANKING",
+      "press": "매일신문",
+      "related_articles": [
+        {
+          "title": "5·18 다룬 '닥터X', 방영중단 청원 등장&#8943;제작 CP \"두려움 없다\"",
+          "link": "https://n.news.naver.com/article/031/0001069065?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "'닥터X'에 5·18을 심은 사람은 누굴까 [최훈민의 심연]",
+          "link": "https://n.news.naver.com/article/088/0001036456?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "‘닥터X’ 5·18 소재 두고 엇갈린 반응…책임 CP “두려움 없다”",
+          "link": "https://n.news.naver.com/article/449/0000365243?ntype=RANKING",
+          "press": "채널A"
+        },
+        {
+          "title": "\"의학 드라마에 웬 5·18?\"…'닥터X' 방영 중단 청원에 '시끌'",
+          "link": "https://n.news.naver.com/article/448/0000646887?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "닥터X에 등장한 5·18 헬기사격과 '머리에 박힌 총알파편'",
+          "link": "https://n.news.naver.com/article/006/0000138395?ntype=RANKING",
+          "press": "미디어오늘"
+        }
+      ],
+      "related_titles": [
+        "5·18 다룬 '닥터X', 방영중단 청원 등장&#8943;제작 CP \"두려움 없다\"",
+        "'닥터X'에 5·18을 심은 사람은 누굴까 [최훈민의 심연]",
+        "‘닥터X’ 5·18 소재 두고 엇갈린 반응…책임 CP “두려움 없다”",
+        "\"의학 드라마에 웬 5·18?\"…'닥터X' 방영 중단 청원에 '시끌'",
+        "닥터X에 등장한 5·18 헬기사격과 '머리에 박힌 총알파편'"
+      ],
+      "category": "연예/문화"
+    },
+    {
+      "rank": 4,
+      "keyword": "만에",
+      "count": 9,
+      "representative_title": "경북 김천 자동차 정비업소에서 불… 1시간 30분 만에 꺼져",
+      "representative_link": "https://n.news.naver.com/article/657/0000056658?ntype=RANKING",
+      "press": "대구MBC",
+      "related_articles": [
+        {
+          "title": "잠수교, 개통 50년 만에 ‘보행 전용’ 변신…오늘부터 차량 통행 금지",
+          "link": "https://n.news.naver.com/article/056/0012280501?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "\"주가 계속 오르길래\"…퇴직금 3억원 투자한 50대, 한 달 만에 손실",
+          "link": "https://n.news.naver.com/article/014/0005593895?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "잠수교, 50년 만에 보행 전용으로...오늘부터 차량 전면통제",
+          "link": "https://n.news.naver.com/article/052/0002423610?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "\"코스피 1만2000 간다\"더니…4개월 만에 돌변한 골드만삭스, 왜",
+          "link": "https://n.news.naver.com/article/215/0001270401?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "박정희 때 매입한 아르헨티나 농장, 50년 만에 매각…여의도 72배 규모",
+          "link": "https://n.news.naver.com/article/005/0001880823?ntype=RANKING",
+          "press": "국민일보"
+        }
+      ],
+      "related_titles": [
+        "잠수교, 개통 50년 만에 ‘보행 전용’ 변신…오늘부터 차량 통행 금지",
+        "\"주가 계속 오르길래\"…퇴직금 3억원 투자한 50대, 한 달 만에 손실",
+        "잠수교, 50년 만에 보행 전용으로...오늘부터 차량 전면통제",
+        "\"코스피 1만2000 간다\"더니…4개월 만에 돌변한 골드만삭스, 왜",
+        "박정희 때 매입한 아르헨티나 농장, 50년 만에 매각…여의도 72배 규모"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 5,
+      "keyword": "부캉이",
+      "count": 9,
+      "representative_title": "흑상어 ‘부캉이’ 북항과 헤어질 결심 못 했나…",
+      "representative_link": "https://n.news.naver.com/article/082/0001403961?ntype=RANKING",
+      "press": "부산일보",
+      "related_articles": [
+        {
+          "title": "배까지 빌려 ‘부캉이’ 따라붙었다…생중계 중 딱 걸린 유튜버",
+          "link": "https://n.news.naver.com/article/025/0003560308?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "부캉이 보러 갔다가 딱 걸렸다…배 타고 보안구역 침범한 유튜버",
+          "link": "https://n.news.naver.com/article/011/0004674994?ntype=RANKING",
+          "press": "서울경제"
         },
         {
           "title": "'부캉이 사라진 날' 부산 북항 기름 띠 범인 잡아…미신고 유조선 적발",
@@ -29,301 +201,196 @@
           "press": "JTBC"
         },
         {
-          "title": "부캉이 머물던 바다에 기름 유출한 유조선 적발",
-          "link": "https://n.news.naver.com/article/079/0004202426?ntype=RANKING",
-          "press": "노컷뉴스"
+          "title": "'부캉이' 찾으러 배 띄운 유튜버…항만 보안시설 촬영하다 적발",
+          "link": "https://n.news.naver.com/article/654/0000207406?ntype=RANKING",
+          "press": "강원도민일보"
         },
         {
-          "title": "‘부캉이’ 찍겠다며 배 띄운 유튜버…국가보안시설 촬영하다 적발",
-          "link": "https://n.news.naver.com/article/020/0003757429?ntype=RANKING",
-          "press": "동아일보"
+          "title": "배까지 빌려 '부캉이' 생중계…부산항 보안구역 침범한 유튜버",
+          "link": "https://n.news.naver.com/article/660/0000119906?ntype=RANKING",
+          "press": "kbc광주방송"
         }
       ],
       "related_titles": [
-        "흑상어 ‘부캉이’ 북항과 헤어질 결심 못 했나…",
-        "‘부캉이’ 생중계 하려고 배 타다가 그만···항만보안구역 촬영한 유튜버 적발",
+        "배까지 빌려 ‘부캉이’ 따라붙었다…생중계 중 딱 걸린 유튜버",
+        "부캉이 보러 갔다가 딱 걸렸다…배 타고 보안구역 침범한 유튜버",
         "'부캉이 사라진 날' 부산 북항 기름 띠 범인 잡아…미신고 유조선 적발",
-        "부캉이 머물던 바다에 기름 유출한 유조선 적발",
-        "‘부캉이’ 찍겠다며 배 띄운 유튜버…국가보안시설 촬영하다 적발"
+        "'부캉이' 찾으러 배 띄운 유튜버…항만 보안시설 촬영하다 적발",
+        "배까지 빌려 '부캉이' 생중계…부산항 보안구역 침범한 유튜버"
       ],
       "category": "사회/일반"
-    },
-    {
-      "rank": 2,
-      "keyword": "닥터",
-      "count": 12,
-      "representative_title": "메스 든 천재 의사 ‘닥터X’ 사이다 처방 통했다",
-      "representative_link": "https://n.news.naver.com/article/028/0002829026?ntype=RANKING",
-      "press": "한겨레",
-      "related_articles": [
-        {
-          "title": "5·18 다룬 ‘닥터X’에 방영 중단 청원… 제작 CP는 “두려움 없다”",
-          "link": "https://n.news.naver.com/article/023/0004005811?ntype=RANKING",
-          "press": "조선일보"
-        },
-        {
-          "title": "‘닥터X’ 5·18 다룬 뒤 방영중단 청원까지···CP “두렵지 않다”",
-          "link": "https://n.news.naver.com/article/032/0003478354?ntype=RANKING",
-          "press": "경향신문"
-        },
-        {
-          "title": "5·18 다뤘다고 \"방영 중단하라\" 청원… '닥터X' CP가 올린 한마디",
-          "link": "https://n.news.naver.com/article/469/0000961533?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "메스 든 천재 의사 ‘닥터X’ 사이다 처방 통했다",
-          "link": "https://n.news.naver.com/article/028/0002829026?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "시청률 19.5% ‘닥터X’, 5·18 꺼내 들자 방영 중단 청원까지",
-          "link": "https://n.news.naver.com/article/016/0002714002?ntype=RANKING",
-          "press": "헤럴드경제"
-        }
-      ],
-      "related_titles": [
-        "5·18 다룬 ‘닥터X’에 방영 중단 청원… 제작 CP는 “두려움 없다”",
-        "‘닥터X’ 5·18 다룬 뒤 방영중단 청원까지···CP “두렵지 않다”",
-        "5·18 다뤘다고 \"방영 중단하라\" 청원… '닥터X' CP가 올린 한마디",
-        "메스 든 천재 의사 ‘닥터X’ 사이다 처방 통했다",
-        "시청률 19.5% ‘닥터X’, 5·18 꺼내 들자 방영 중단 청원까지"
-      ],
-      "category": "건강/의료"
-    },
-    {
-      "rank": 3,
-      "keyword": "트럼프",
-      "count": 11,
-      "representative_title": "트럼프, 부정선거라더니 사전투표‥오바마 첫 등판",
-      "representative_link": "https://n.news.naver.com/article/214/0001531289?ntype=RANKING",
-      "press": "MBC",
-      "related_articles": [
-        {
-          "title": "중간선거 전현직 '맞대결'...오바마 \"무능 2년\" vs 트럼프 \"오바마 유세 썰렁\"",
-          "link": "https://n.news.naver.com/article/052/0002423517?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "트럼프, 부정선거라더니 사전투표‥오바마 첫 등판",
-          "link": "https://n.news.naver.com/article/214/0001531289?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "트럼프 재타격 시사에 이란 외무 “전쟁 다시 벌어져도 호르무즈 정책 안 바꿔”",
-          "link": "https://n.news.naver.com/article/366/0001200173?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "북·미 정상회담을 넘어, ‘트럼프 이후’ 대비하는 대전략이 필요하다",
-          "link": "https://n.news.naver.com/article/308/0000038894?ntype=RANKING",
-          "press": "시사IN"
-        },
-        {
-          "title": "트럼프 \"모조리 거부권 행사\"…중간선거 패배  가정 '플랜B'",
-          "link": "https://n.news.naver.com/article/374/0000539633?ntype=RANKING",
-          "press": "SBS Biz"
-        }
-      ],
-      "related_titles": [
-        "중간선거 전현직 '맞대결'...오바마 \"무능 2년\" vs 트럼프 \"오바마 유세 썰렁\"",
-        "트럼프, 부정선거라더니 사전투표‥오바마 첫 등판",
-        "트럼프 재타격 시사에 이란 외무 “전쟁 다시 벌어져도 호르무즈 정책 안 바꿔”",
-        "북·미 정상회담을 넘어, ‘트럼프 이후’ 대비하는 대전략이 필요하다",
-        "트럼프 \"모조리 거부권 행사\"…중간선거 패배  가정 '플랜B'"
-      ],
-      "category": "국제"
-    },
-    {
-      "rank": 4,
-      "keyword": "적발",
-      "count": 10,
-      "representative_title": "주진우 \"22대 총선서 개표 결과값 다른 투표소 41곳 적발\"[영상]",
-      "representative_link": "https://n.news.naver.com/article/079/0004202409?ntype=RANKING",
-      "press": "노컷뉴스",
-      "related_articles": [
-        {
-          "title": "주진우 \"22대 총선서 개표 결과값 다른 투표소 41곳 적발\"[영상]",
-          "link": "https://n.news.naver.com/article/079/0004202409?ntype=RANKING",
-          "press": "노컷뉴스"
-        }
-      ],
-      "related_titles": [
-        "주진우 \"22대 총선서 개표 결과값 다른 투표소 41곳 적발\"[영상]"
-      ],
-      "category": "사회/일반"
-    },
-    {
-      "rank": 5,
-      "keyword": "코스피",
-      "count": 10,
-      "representative_title": "골드만삭스, 코스피 목표 9000으로 25% 낮췄다",
-      "representative_link": "https://n.news.naver.com/article/021/0002827676?ntype=RANKING",
-      "press": "문화일보",
-      "related_articles": [
-        {
-          "title": "골드만, 코스피 목표치 25%↓ 조정…\"지나친 비관론, 여전히 매력적\"",
-          "link": "https://n.news.naver.com/article/277/0005833135?ntype=RANKING",
-          "press": "아시아경제"
-        },
-        {
-          "title": "골드만, 코스피 목표 1만2000→9000으로 낮췄지만…\"상승 여력 60%\"",
-          "link": "https://n.news.naver.com/article/003/0014277073?ntype=RANKING",
-          "press": "뉴시스"
-        },
-        {
-          "title": "골드만삭스, 韓코스피 목표치 25% 하향…\"AI 투자 우려 영향\"",
-          "link": "https://n.news.naver.com/article/018/0006395920?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "골드만삭스, 코스피 목표 1만2000→9000… “상승 여력 60% 이상”",
-          "link": "https://n.news.naver.com/article/366/0001200175?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "FOMC·삼전닉스 실적 발표… 코스피 '빅이벤트' 버텨낼까",
-          "link": "https://n.news.naver.com/article/008/0005431339?ntype=RANKING",
-          "press": "머니투데이"
-        }
-      ],
-      "related_titles": [
-        "골드만, 코스피 목표치 25%↓ 조정…\"지나친 비관론, 여전히 매력적\"",
-        "골드만, 코스피 목표 1만2000→9000으로 낮췄지만…\"상승 여력 60%\"",
-        "골드만삭스, 韓코스피 목표치 25% 하향…\"AI 투자 우려 영향\"",
-        "골드만삭스, 코스피 목표 1만2000→9000… “상승 여력 60% 이상”",
-        "FOMC·삼전닉스 실적 발표… 코스피 '빅이벤트' 버텨낼까"
-      ],
-      "category": "경제/투자"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
       "keyword": "코스피",
-      "count": 10,
-      "representative_title": "골드만삭스, 코스피 목표 9000으로 25% 낮췄다",
-      "representative_link": "https://n.news.naver.com/article/021/0002827676?ntype=RANKING",
-      "press": "문화일보",
+      "count": 4,
+      "representative_title": "코스피 급락에 10대그룹 시총 1천조원 증발",
+      "representative_link": "https://n.news.naver.com/article/374/0000539663?ntype=RANKING",
+      "press": "SBS Biz",
       "related_articles": [
         {
-          "title": "골드만삭스, 코스피 목표 1만2000→9000… “상승 여력 60% 이상”",
-          "link": "https://n.news.naver.com/article/366/0001200175?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "[마켓뷰] 코스피 출렁임 계속되나…삼전닉스 추가 주주환원 여부 주시",
+          "link": "https://n.news.naver.com/article/001/0016399533?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "골드만, 코스피 목표치 25%↓ 조정…\"지나친 비관론, 여전히 매력적\"",
-          "link": "https://n.news.naver.com/article/277/0005833135?ntype=RANKING",
-          "press": "아시아경제"
+          "title": "\"코스피 1만2000 간다\"더니…4개월 만에 돌변한 골드만삭스, 왜",
+          "link": "https://n.news.naver.com/article/215/0001270401?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "골드만삭스, 韓코스피 목표치 25% 하향…\"AI 투자 우려 영향\"",
-          "link": "https://n.news.naver.com/article/018/0006395920?ntype=RANKING",
-          "press": "이데일리"
+          "title": "코스피 급락에 10대그룹 시총 1천조원 증발",
+          "link": "https://n.news.naver.com/article/374/0000539663?ntype=RANKING",
+          "press": "SBS Biz"
         },
         {
-          "title": "골드만, 코스피 목표 1만2000→9000으로 낮췄지만…\"상승 여력 60%\"",
-          "link": "https://n.news.naver.com/article/003/0014277073?ntype=RANKING",
-          "press": "뉴시스"
-        },
-        {
-          "title": "FOMC·삼전닉스 실적 발표… 코스피 '빅이벤트' 버텨낼까",
-          "link": "https://n.news.naver.com/article/008/0005431339?ntype=RANKING",
+          "title": "코스피 목표치 1만2000→9000…골드만삭스 \"그래도 60% 더 오른다\"",
+          "link": "https://n.news.naver.com/article/008/0005431384?ntype=RANKING",
           "press": "머니투데이"
+        },
+        {
+          "title": "[마켓뷰] 코스피 출렁임 계속되나…삼전닉스 추가 주주환원 여부 주시",
+          "link": "https://n.news.naver.com/article/001/0016399533?ntype=RANKING",
+          "press": "연합뉴스"
         }
       ],
       "related_titles": [
-        "골드만삭스, 코스피 목표 1만2000→9000… “상승 여력 60% 이상”",
-        "골드만, 코스피 목표치 25%↓ 조정…\"지나친 비관론, 여전히 매력적\"",
-        "골드만삭스, 韓코스피 목표치 25% 하향…\"AI 투자 우려 영향\"",
-        "골드만, 코스피 목표 1만2000→9000으로 낮췄지만…\"상승 여력 60%\"",
-        "FOMC·삼전닉스 실적 발표… 코스피 '빅이벤트' 버텨낼까"
+        "[마켓뷰] 코스피 출렁임 계속되나…삼전닉스 추가 주주환원 여부 주시",
+        "\"코스피 1만2000 간다\"더니…4개월 만에 돌변한 골드만삭스, 왜",
+        "코스피 급락에 10대그룹 시총 1천조원 증발",
+        "코스피 목표치 1만2000→9000…골드만삭스 \"그래도 60% 더 오른다\"",
+        "[마켓뷰] 코스피 출렁임 계속되나…삼전닉스 추가 주주환원 여부 주시"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "삼성전자",
+      "keyword": "주식",
       "count": 3,
-      "representative_title": "\"사고 싶어도 못산다\"...'아이폰 듀오' 열풍에 삼성전자 비상",
-      "representative_link": "https://n.news.naver.com/article/050/0000112339?ntype=RANKING",
-      "press": "한경비즈니스",
+      "representative_title": "“모두가 의심하며 좋은 주식 던질 때가 기회”",
+      "representative_link": "https://n.news.naver.com/article/023/0004005852?ntype=RANKING",
+      "press": "조선일보",
       "related_articles": [
         {
-          "title": "“삼성전자 다닌다고만 소개했는데”…여성들에 인기 끈 남자는 ‘디테일’ 있었다",
-          "link": "https://n.news.naver.com/article/009/0005753525?ntype=RANKING",
-          "press": "매일경제"
+          "title": "“모두가 의심하며 좋은 주식 던질 때가 기회”",
+          "link": "https://n.news.naver.com/article/023/0004005852?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "삼성전자 30조 배당·SK하이닉스 40조 자사주…추가 주주환원 주목",
-          "link": "https://n.news.naver.com/article/031/0001069054?ntype=RANKING",
-          "press": "아이뉴스24"
+          "title": "[거버넌스워치] 수산그룹 사주가 수산INT 주식 맏딸에게 몰아준 이유",
+          "link": "https://n.news.naver.com/article/648/0000051914?ntype=RANKING",
+          "press": "비즈워치"
         },
         {
-          "title": "\"사고 싶어도 못산다\"...'아이폰 듀오' 열풍에 삼성전자 비상",
-          "link": "https://n.news.naver.com/article/050/0000112339?ntype=RANKING",
-          "press": "한경비즈니스"
+          "title": "“90% 손실에도 버텼다”…주식·가상자산으로 29세에 파이어족 된 비결",
+          "link": "https://n.news.naver.com/article/243/0000104698?ntype=RANKING",
+          "press": "이코노미스트"
         },
         {
-          "title": "“삼성전자 다닌다고만 소개했는데”…여성들에 인기 끈 남자는 ‘디테일’ 있었다",
-          "link": "https://n.news.naver.com/article/009/0005753525?ntype=RANKING",
-          "press": "매일경제"
+          "title": "“모두가 의심하며 좋은 주식 던질 때가 기회”",
+          "link": "https://n.news.naver.com/article/023/0004005852?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "삼성전자 30조 배당·SK하이닉스 40조 자사주…추가 주주환원 주목",
-          "link": "https://n.news.naver.com/article/031/0001069054?ntype=RANKING",
-          "press": "아이뉴스24"
+          "title": "[거버넌스워치] 수산그룹 사주가 수산INT 주식 맏딸에게 몰아준 이유",
+          "link": "https://n.news.naver.com/article/648/0000051914?ntype=RANKING",
+          "press": "비즈워치"
         }
       ],
       "related_titles": [
-        "“삼성전자 다닌다고만 소개했는데”…여성들에 인기 끈 남자는 ‘디테일’ 있었다",
-        "삼성전자 30조 배당·SK하이닉스 40조 자사주…추가 주주환원 주목",
-        "\"사고 싶어도 못산다\"...'아이폰 듀오' 열풍에 삼성전자 비상",
-        "“삼성전자 다닌다고만 소개했는데”…여성들에 인기 끈 남자는 ‘디테일’ 있었다",
-        "삼성전자 30조 배당·SK하이닉스 40조 자사주…추가 주주환원 주목"
+        "“모두가 의심하며 좋은 주식 던질 때가 기회”",
+        "[거버넌스워치] 수산그룹 사주가 수산INT 주식 맏딸에게 몰아준 이유",
+        "“90% 손실에도 버텼다”…주식·가상자산으로 29세에 파이어족 된 비결",
+        "“모두가 의심하며 좋은 주식 던질 때가 기회”",
+        "[거버넌스워치] 수산그룹 사주가 수산INT 주식 맏딸에게 몰아준 이유"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "아이폰",
+      "keyword": "하이닉스",
       "count": 3,
-      "representative_title": "애플 첫 폴더블폰 ‘아이폰 듀오’, 출시 초반 화면 파손 논란",
-      "representative_link": "https://n.news.naver.com/article/366/0001200172?ntype=RANKING",
-      "press": "조선비즈",
+      "representative_title": "삼성전자 30조 배당·SK하이닉스 40조 자사주…추가 주주환원 주목",
+      "representative_link": "https://n.news.naver.com/article/031/0001069054?ntype=RANKING",
+      "press": "아이뉴스24",
       "related_articles": [
         {
-          "title": "애플 첫 폴더블폰 ‘아이폰 듀오’, 출시 초반 화면 파손 논란",
-          "link": "https://n.news.naver.com/article/366/0001200172?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "삼성전자 30조 배당·SK하이닉스 40조 자사주…추가 주주환원 주목",
+          "link": "https://n.news.naver.com/article/031/0001069054?ntype=RANKING",
+          "press": "아이뉴스24"
         },
         {
-          "title": "아이씨에이치, 애플 '아이폰 듀오' 흥행 수혜...공급 물량 확대",
-          "link": "https://n.news.naver.com/article/293/0000092101?ntype=RANKING",
-          "press": "블로터"
+          "title": "장 열리니 하이닉스 30% 폭락?…외면받는 넥스트레이드, 거래량 급감 이유는",
+          "link": "https://n.news.naver.com/article/009/0005753747?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "애플 첫 폴더블폰 ‘아이폰 듀오’, 출시 초반 화면 파손 논란",
-          "link": "https://n.news.naver.com/article/366/0001200172?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004169573?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "아이씨에이치, 애플 '아이폰 듀오' 흥행 수혜...공급 물량 확대",
-          "link": "https://n.news.naver.com/article/293/0000092101?ntype=RANKING",
-          "press": "블로터"
+          "title": "장 열리니 하이닉스 30% 폭락?…외면받는 넥스트레이드, 거래량 급감 이유는",
+          "link": "https://n.news.naver.com/article/009/0005753747?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "애플 첫 폴더블폰 ‘아이폰 듀오’, 출시 초반 화면 파손 논란",
-          "link": "https://n.news.naver.com/article/366/0001200172?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004169573?ntype=RANKING",
+          "press": "세계일보"
         }
       ],
       "related_titles": [
-        "애플 첫 폴더블폰 ‘아이폰 듀오’, 출시 초반 화면 파손 논란",
-        "아이씨에이치, 애플 '아이폰 듀오' 흥행 수혜...공급 물량 확대",
-        "애플 첫 폴더블폰 ‘아이폰 듀오’, 출시 초반 화면 파손 논란",
-        "아이씨에이치, 애플 '아이폰 듀오' 흥행 수혜...공급 물량 확대",
-        "애플 첫 폴더블폰 ‘아이폰 듀오’, 출시 초반 화면 파손 논란"
+        "삼성전자 30조 배당·SK하이닉스 40조 자사주…추가 주주환원 주목",
+        "장 열리니 하이닉스 30% 폭락?…외면받는 넥스트레이드, 거래량 급감 이유는",
+        "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]",
+        "장 열리니 하이닉스 30% 폭락?…외면받는 넥스트레이드, 거래량 급감 이유는",
+        "주가 폭락에도 삼전 67만·하이닉스 470만원 유지…노무라는 뭘 봤나 [숫자 뒤의 진실]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "주가",
+      "count": 3,
+      "representative_title": "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약",
+      "representative_link": "https://n.news.naver.com/article/037/0000039039?ntype=RANKING",
+      "press": "주간동아",
+      "related_articles": [
+        {
+          "title": "\"주가 계속 오르길래\"…퇴직금 3억원 투자한 50대, 한 달 만에 손실",
+          "link": "https://n.news.naver.com/article/014/0005593895?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약",
+          "link": "https://n.news.naver.com/article/037/0000039039?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "\"주가 계속 오르길래\"…퇴직금 3억원 투자한 50대, 한 달 만에 손실",
+          "link": "https://n.news.naver.com/article/014/0005593895?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약",
+          "link": "https://n.news.naver.com/article/037/0000039039?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "\"주가 계속 오르길래\"…퇴직금 3억원 투자한 50대, 한 달 만에 손실",
+          "link": "https://n.news.naver.com/article/014/0005593895?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        }
+      ],
+      "related_titles": [
+        "\"주가 계속 오르길래\"…퇴직금 3억원 투자한 50대, 한 달 만에 손실",
+        "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약",
+        "\"주가 계속 오르길래\"…퇴직금 3억원 투자한 50대, 한 달 만에 손실",
+        "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약",
+        "\"주가 계속 오르길래\"…퇴직금 3억원 투자한 50대, 한 달 만에 손실"
       ],
       "category": "주식/코인"
     }
@@ -377,46 +444,26 @@
     },
     {
       "rank": 3,
-      "keyword": "으로",
-      "series_title": "으로의 몰락",
+      "keyword": "갑자기",
+      "series_title": "갑자기의 몰락",
       "count": 1,
-      "representative_title": "金 약탈해온 스페인 제국, 결국 金으로 몰락",
-      "representative_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oSEpfVEtXVTlsZHo5d2l1SmdJRVpPdHNSX3paaVo3UWhhTE1yZWhiSThJdnVvRGVZRGw3ZXhOdEpNQjA1M2laWFBHRV9ydko0N2ZEWQ?oc=5",
+      "representative_title": "태국 배드민턴은 정점을 찍은 후 갑자기 몰락했다.",
+      "representative_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXREcWU4b19PQmJncWZEenlIcGgtRUN0NzA1MmFPejRlbnJsQnBnVnpHRVJpYUEwdktEUE5Bc21wbFZEY0lNTGxsTXVlOXFqejVvLWhSVDNiVVZjdHBMMmR5ZjBNRG9ETzNES29acWhOUEh1aEdPT3ZiU1c3RXRIWk92dTdMUQ?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "金 약탈해온 스페인 제국, 결국 金으로 몰락",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oSEpfVEtXVTlsZHo5d2l1SmdJRVpPdHNSX3paaVo3UWhhTE1yZWhiSThJdnVvRGVZRGw3ZXhOdEpNQjA1M2laWFBHRV9ydko0N2ZEWQ?oc=5",
+          "title": "태국 배드민턴은 정점을 찍은 후 갑자기 몰락했다.",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXREcWU4b19PQmJncWZEenlIcGgtRUN0NzA1MmFPejRlbnJsQnBnVnpHRVJpYUEwdktEUE5Bc21wbFZEY0lNTGxsTXVlOXFqejVvLWhSVDNiVVZjdHBMMmR5ZjBNRG9ETzNES29acWhOUEh1aEdPT3ZiU1c3RXRIWk92dTdMUQ?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "金 약탈해온 스페인 제국, 결국 金으로 몰락"
+        "태국 배드민턴은 정점을 찍은 후 갑자기 몰락했다."
       ],
       "category": "몰락"
     },
     {
       "rank": 4,
-      "keyword": "떠나고",
-      "series_title": "떠나고의 몰락",
-      "count": 1,
-      "representative_title": "스페인 휴양지에서 도대체 무슨 일이…손흥민 떠나고 몰락했던 토트넘 미쳤다! 8년 만에 첼시 원정 2-0 완승 ‘2연승 질주→12위 도약’",
-      "representative_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ETzJIRDBZSDBXSGVJUEFGSDh6ZlBTQW00YnlWdjJrZFJtSWZCWGpuSmlGQ2ZTSjRUdTZIRWFnNF9xV1NydzNwLW5jdVBTTWt3VS1jMFI0bHI4MjF4eXZBVDdFVkExc093Nm5XRnRXUHg?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "스페인 휴양지에서 도대체 무슨 일이…손흥민 떠나고 몰락했던 토트넘 미쳤다! 8년 만에 첼시 원정 2-0 완승 ‘2연승 질주→12위 도약’",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ETzJIRDBZSDBXSGVJUEFGSDh6ZlBTQW00YnlWdjJrZFJtSWZCWGpuSmlGQ2ZTSjRUdTZIRWFnNF9xV1NydzNwLW5jdVBTTWt3VS1jMFI0bHI4MjF4eXZBVDdFVkExc093Nm5XRnRXUHg?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "스페인 휴양지에서 도대체 무슨 일이…손흥민 떠나고 몰락했던 토트넘 미쳤다! 8년 만에 첼시 원정 2-0 완승 ‘2연승 질주→12위 도약’"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 5,
       "keyword": "가신그룹",
       "series_title": "가신그룹의 몰락",
       "count": 1,
@@ -434,13 +481,33 @@
         "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로"
       ],
       "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "으로",
+      "series_title": "으로의 몰락",
+      "count": 1,
+      "representative_title": "金 약탈해온 스페인 제국, 결국 金으로 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oSEpfVEtXVTlsZHo5d2l1SmdJRVpPdHNSX3paaVo3UWhhTE1yZWhiSThJdnVvRGVZRGw3ZXhOdEpNQjA1M2laWFBHRV9ydko0N2ZEWQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "金 약탈해온 스페인 제국, 결국 金으로 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oSEpfVEtXVTlsZHo5d2l1SmdJRVpPdHNSX3paaVo3UWhhTE1yZWhiSThJdnVvRGVZRGw3ZXhOdEpNQjA1M2laWFBHRV9ydko0N2ZEWQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "金 약탈해온 스페인 제국, 결국 金으로 몰락"
+      ],
+      "category": "몰락"
     }
   ],
   "budongsan_topics": [
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 8,
+      "count": 7,
       "representative_title": "10월 서울 집값 오름폭·대장주·전망지수 동시 하락",
       "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WcGtKSEluSHlIVVNBSzJzbTRVTjluMW9sWWowbE4xVTNmMkcxcXFOd3NuODdzUzFTN0cxdUJBOEFfbXQ5aXA3bFRVSkRDeVU2cER0eC1ENGl4eTVleG14Q19DdU5CVld3aHc?oc=5",
       "press": "",
@@ -466,8 +533,8 @@
           "press": ""
         },
         {
-          "title": "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pc01adURLZW9VV1lzQUF5S2VUZHJ1VzV3bkMxbXVpcHc1dFhyMGNjVkczT3hjTkpjbHZJaGZFd3FrRmRpT3lWZkdHTWlhNXpkX3dYTTRVTzBIdw?oc=5",
+          "title": "‘집값 드디어 잡힐까’…KB부동산 “서울 아파트값 상승률 연내 최저”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sVHp0bXc5RXBKbWRkblRQTWpicjFsOVExQmNLMmQ2d3Z4WF9TOXhicy1TSXFYZVB0UlRrdVdzVFFrN0p3cm5EMHdxTDhvd3RPcEt0elRsYw?oc=5",
           "press": ""
         }
       ],
@@ -476,7 +543,7 @@
         "“집값 폭락할 것” LH 사장의 호언… 서울 아파트값 말처럼 될까 [주말 Q&amp;A]",
         "서울 아파트값 상승폭 연중 최저…강남 하락·강북 강세 '엇갈린 집값'",
         "10월 서울 집값 오름폭·대장주·전망지수 동시 하락",
-        "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다"
+        "‘집값 드디어 잡힐까’…KB부동산 “서울 아파트값 상승률 연내 최저”"
       ],
       "category": "부동산"
     },
