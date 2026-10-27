@@ -1,22 +1,156 @@
 {
   "date": "2026-10-27",
-  "hour": "07",
-  "slot": "2026-10-27_07",
-  "crawled_at": "2026-10-27 07:00:01",
-  "total_articles": 404,
+  "hour": "10",
+  "slot": "2026-10-27_10",
+  "crawled_at": "2026-10-27 10:00:05",
+  "total_articles": 403,
   "topics": [
     {
       "rank": 1,
+      "keyword": "시간",
+      "count": 11,
+      "representative_title": "10시간 일해 번 65센트…그 돈으로 조국 독립 도왔다",
+      "representative_link": "https://n.news.naver.com/article/262/0000019786?ntype=RANKING",
+      "press": "신동아",
+      "related_articles": [
+        {
+          "title": "\"공장 24시간 돌려도 모자라\"…10만대 주문 폭주한 車",
+          "link": "https://n.news.naver.com/article/015/0005346792?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "6개월 아들 죽었는데 “24시간 굶은 듯, 알 바 아니다”… 22세 부모가 나눈 문자",
+          "link": "https://n.news.naver.com/article/022/0004169852?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "헤이지니 전 직원 폭로 “연봉 2000만원, 하루 16시간 일해”",
+          "link": "https://n.news.naver.com/article/016/0002714633?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "한 업체서 경비원 6명 사망…70세 이상 24시간 맞교대의 비극",
+          "link": "https://n.news.naver.com/article/056/0012281125?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "“미군, 트럼프 명령 96시간 내 대규모 이란 공격 가능”",
+          "link": "https://n.news.naver.com/article/056/0012281324?ntype=RANKING",
+          "press": "KBS"
+        }
+      ],
+      "related_titles": [
+        "\"공장 24시간 돌려도 모자라\"…10만대 주문 폭주한 車",
+        "6개월 아들 죽었는데 “24시간 굶은 듯, 알 바 아니다”… 22세 부모가 나눈 문자",
+        "헤이지니 전 직원 폭로 “연봉 2000만원, 하루 16시간 일해”",
+        "한 업체서 경비원 6명 사망…70세 이상 24시간 맞교대의 비극",
+        "“미군, 트럼프 명령 96시간 내 대규모 이란 공격 가능”"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 2,
+      "keyword": "만에",
+      "count": 11,
+      "representative_title": "SK하닉 ETF 퇴출…美서 3개월 만에 사라지는 이유",
+      "representative_link": "https://n.news.naver.com/article/018/0006396387?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "3분기 경제성장률 1.0%…‘연간 3.3%’ 전망치 9달 만에 초과달성",
+          "link": "https://n.news.naver.com/article/028/0002829303?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "‘삼전닉스 달릴까’ 7개월 만에 최저 찍은 코스피, ‘앤트로픽 훈풍’에 5500선 탈환 기대 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002714673?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "SK하닉 ETF 퇴출…美서 3개월 만에 사라지는 이유",
+          "link": "https://n.news.naver.com/article/018/0006396387?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "부작용 심각한데 \"공부에 좋대\"…57초 만에 두 달 치 처방",
+          "link": "https://n.news.naver.com/article/055/0001398354?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유",
+          "link": "https://n.news.naver.com/article/011/0004675366?ntype=RANKING",
+          "press": "서울경제"
+        }
+      ],
+      "related_titles": [
+        "3분기 경제성장률 1.0%…‘연간 3.3%’ 전망치 9달 만에 초과달성",
+        "‘삼전닉스 달릴까’ 7개월 만에 최저 찍은 코스피, ‘앤트로픽 훈풍’에 5500선 탈환 기대 [투자360]",
+        "SK하닉 ETF 퇴출…美서 3개월 만에 사라지는 이유",
+        "부작용 심각한데 \"공부에 좋대\"…57초 만에 두 달 치 처방",
+        "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 3,
+      "keyword": "논란",
+      "count": 10,
+      "representative_title": "일본에서 곰 8,800마리 살처분 논란",
+      "representative_link": "https://n.news.naver.com/article/094/0000013906?ntype=RANKING",
+      "press": "월간 산",
+      "related_articles": [
+        {
+          "title": "박정희 추모식서 '암살자(들)' 논란 재점화…박근령 \"아버지 두 번 죽일 수 없다\"",
+          "link": "https://n.news.naver.com/article/088/0001036653?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "손흥민에게 \"니하오\" 외치는 관중 영상 공개…인종차별 논란",
+          "link": "https://n.news.naver.com/article/001/0016401837?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "'품질 논란' 아이폰 듀오...\"결국 힌지가 발목\"",
+          "link": "https://n.news.naver.com/article/092/0002442447?ntype=RANKING",
+          "press": "지디넷코리아"
+        },
+        {
+          "title": "李 사건 관여 인사들 법무장관 물망…공소취소 논란 재점화하나",
+          "link": "https://n.news.naver.com/article/119/0003147271?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "손흥민에 \"니하오\" 외친 해외 관중…인종차별 논란",
+          "link": "https://n.news.naver.com/article/052/0002424089?ntype=RANKING",
+          "press": "YTN"
+        }
+      ],
+      "related_titles": [
+        "박정희 추모식서 '암살자(들)' 논란 재점화…박근령 \"아버지 두 번 죽일 수 없다\"",
+        "손흥민에게 \"니하오\" 외치는 관중 영상 공개…인종차별 논란",
+        "'품질 논란' 아이폰 듀오...\"결국 힌지가 발목\"",
+        "李 사건 관여 인사들 법무장관 물망…공소취소 논란 재점화하나",
+        "손흥민에 \"니하오\" 외친 해외 관중…인종차별 논란"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 4,
       "keyword": "주진우",
-      "count": 15,
-      "representative_title": "주진우, 태릉 골프 영상 공개…靑 “허위 사실”",
-      "representative_link": "https://n.news.naver.com/article/449/0000365333?ntype=RANKING",
-      "press": "채널A",
+      "count": 10,
+      "representative_title": "리디아 고 \"저 아닌데\"‥주진우 '김 여사 골프레슨' 공방",
+      "representative_link": "https://n.news.naver.com/article/214/0001531519?ntype=RANKING",
+      "press": "MBC",
       "related_articles": [
         {
           "title": "주진우 “김혜경 여사 ‘황제 골프’”…지목된 골퍼 “사실 아냐”",
           "link": "https://n.news.naver.com/article/028/0002829219?ntype=RANKING",
           "press": "한겨레"
+        },
+        {
+          "title": "리디아 고, ‘김혜경 여사와 골프 라운드’ 주진우 주장에…“사실 아니다”",
+          "link": "https://n.news.naver.com/article/029/0003055299?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
           "title": "주진우 '황제 레슨' 폭로하더니…리디아고 '저 아닌데요?' 황당",
@@ -29,209 +163,105 @@
           "press": "MBC"
         },
         {
-          "title": "김혜경 여사 골프 영상 공개 놓고 충돌… 주진우 “황제 레슨” 與 “허위 유포 고발”",
-          "link": "https://n.news.naver.com/article/022/0004169854?ntype=RANKING",
-          "press": "세계일보"
-        },
-        {
-          "title": "리디아 고, ‘김혜경 여사와 골프 라운드’ 주진우 주장에…“사실 아니다”",
-          "link": "https://n.news.naver.com/article/029/0003055299?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "주진우, '김혜경 황제골프' 공격했다 역풍…리디아 고 \"저 아니다\"",
+          "link": "https://n.news.naver.com/article/002/0002462772?ntype=RANKING",
+          "press": "프레시안"
         }
       ],
       "related_titles": [
         "주진우 “김혜경 여사 ‘황제 골프’”…지목된 골퍼 “사실 아냐”",
+        "리디아 고, ‘김혜경 여사와 골프 라운드’ 주진우 주장에…“사실 아니다”",
         "주진우 '황제 레슨' 폭로하더니…리디아고 '저 아닌데요?' 황당",
         "리디아 고 \"저 아닌데\"‥주진우 '김 여사 골프레슨' 공방",
-        "김혜경 여사 골프 영상 공개 놓고 충돌… 주진우 “황제 레슨” 與 “허위 유포 고발”",
-        "리디아 고, ‘김혜경 여사와 골프 라운드’ 주진우 주장에…“사실 아니다”"
+        "주진우, '김혜경 황제골프' 공격했다 역풍…리디아 고 \"저 아니다\""
       ],
       "category": "사회/일반"
-    },
-    {
-      "rank": 2,
-      "keyword": "오세훈",
-      "count": 15,
-      "representative_title": "유승민 \"오세훈 무죄와 조희대가 무슨 관계?\"",
-      "representative_link": "https://n.news.naver.com/article/002/0002462776?ntype=RANKING",
-      "press": "프레시안",
-      "related_articles": [
-        {
-          "title": "[단독] 오세훈-국힘 의원 연쇄 만찬서…이준석, 吳 삼행시 띄웠다 “오뚝이처럼, 세파를 이겨내니, 훈풍이로다”",
-          "link": "https://n.news.naver.com/article/009/0005754347?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "오세훈, 국힘 의원·이준석과 만찬…\"보수 통합\" \"큰 나무 되어달라\"",
-          "link": "https://n.news.naver.com/article/003/0014279771?ntype=RANKING",
-          "press": "뉴시스"
-        },
-        {
-          "title": "“명태균, 과장은 좀 있지만... 오세훈, 운이 좋다” 김영선 전 의원 인터뷰",
-          "link": "https://n.news.naver.com/article/607/0000003573?ntype=RANKING",
-          "press": "뉴스타파"
-        },
-        {
-          "title": "‘오세훈 무죄’에 조희대 탄핵 다가서는 與…野 “제정신 맞나”",
-          "link": "https://n.news.naver.com/article/082/0001404145?ntype=RANKING",
-          "press": "부산일보"
-        },
-        {
-          "title": "\"납득 안돼\", \"동기 없다\"는 오세훈 항소심... 판결문 뜯어봤더니",
-          "link": "https://n.news.naver.com/article/047/0002533563?ntype=RANKING",
-          "press": "오마이뉴스"
-        }
-      ],
-      "related_titles": [
-        "[단독] 오세훈-국힘 의원 연쇄 만찬서…이준석, 吳 삼행시 띄웠다 “오뚝이처럼, 세파를 이겨내니, 훈풍이로다”",
-        "오세훈, 국힘 의원·이준석과 만찬…\"보수 통합\" \"큰 나무 되어달라\"",
-        "“명태균, 과장은 좀 있지만... 오세훈, 운이 좋다” 김영선 전 의원 인터뷰",
-        "‘오세훈 무죄’에 조희대 탄핵 다가서는 與…野 “제정신 맞나”",
-        "\"납득 안돼\", \"동기 없다\"는 오세훈 항소심... 판결문 뜯어봤더니"
-      ],
-      "category": "국제"
-    },
-    {
-      "rank": 3,
-      "keyword": "여사",
-      "count": 12,
-      "representative_title": "리디아 고, 김혜경 여사 ‘골프 레슨’ 의혹 일축… “사실 아니다”",
-      "representative_link": "https://n.news.naver.com/article/366/0001200398?ntype=RANKING",
-      "press": "조선비즈",
-      "related_articles": [
-        {
-          "title": "'김혜경 여사 황제 골프' 영상 재생하려 하자 제지... \"스토커냐\" \"靑 자백하는 꼴\"",
-          "link": "https://n.news.naver.com/article/469/0000961753?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "리디아 고, 김혜경 여사 ‘골프 레슨’ 의혹 일축… “사실 아니다”",
-          "link": "https://n.news.naver.com/article/366/0001200398?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "[단독] '황제골프' 맞나…김혜경 여사 라운딩 때 앞뒤 팀 예정대로 경기",
-          "link": "https://n.news.naver.com/article/079/0004203093?ntype=RANKING",
-          "press": "노컷뉴스"
-        },
-        {
-          "title": "김혜경 여사 라운딩 앞뒤팀 '정상 경기'…리디아 고는 '골프레슨' 일축",
-          "link": "https://n.news.naver.com/article/088/0001036640?ntype=RANKING",
-          "press": "매일신문"
-        }
-      ],
-      "related_titles": [
-        "'김혜경 여사 황제 골프' 영상 재생하려 하자 제지... \"스토커냐\" \"靑 자백하는 꼴\"",
-        "리디아 고, 김혜경 여사 ‘골프 레슨’ 의혹 일축… “사실 아니다”",
-        "[단독] '황제골프' 맞나…김혜경 여사 라운딩 때 앞뒤 팀 예정대로 경기",
-        "김혜경 여사 라운딩 앞뒤팀 '정상 경기'…리디아 고는 '골프레슨' 일축"
-      ],
-      "category": "사회/일반"
-    },
-    {
-      "rank": 4,
-      "keyword": "여성",
-      "count": 12,
-      "representative_title": "대전 '스토킹 신고' 여성 참극, 도주한 40대 구속영장",
-      "representative_link": "https://n.news.naver.com/article/656/0000190644?ntype=RANKING",
-      "press": "대전일보",
-      "related_articles": [
-        {
-          "title": "“이별녀 처리하는 경찰?”…출근길 강남대로 한복판 오열하며 활보한 여성 [포착]",
-          "link": "https://n.news.naver.com/article/081/0003692604?ntype=RANKING",
-          "press": "서울신문"
-        },
-        {
-          "title": "민통선 뚫고 GOP 철책까지 간 30대 여성…철조망센서 절단까지(종합)",
-          "link": "https://n.news.naver.com/article/001/0016401361?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "오전 8시 만취해 강남대로 한복판 활보 여성…경찰이 끌고나와",
-          "link": "https://n.news.naver.com/article/001/0016401297?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "\"30대 여성 교사, 10대 제자와 부적절한 성적 관계\" 익명 신고...미 '발칵'",
-          "link": "https://n.news.naver.com/article/008/0005431896?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "군, 민통선 넘어 GOP 철책까지 접근한 30대 여성 신병 확보",
-          "link": "https://n.news.naver.com/article/422/0000919487?ntype=RANKING",
-          "press": "연합뉴스TV"
-        }
-      ],
-      "related_titles": [
-        "“이별녀 처리하는 경찰?”…출근길 강남대로 한복판 오열하며 활보한 여성 [포착]",
-        "민통선 뚫고 GOP 철책까지 간 30대 여성…철조망센서 절단까지(종합)",
-        "오전 8시 만취해 강남대로 한복판 활보 여성…경찰이 끌고나와",
-        "\"30대 여성 교사, 10대 제자와 부적절한 성적 관계\" 익명 신고...미 '발칵'",
-        "군, 민통선 넘어 GOP 철책까지 접근한 30대 여성 신병 확보"
-      ],
-      "category": "사건/사고"
     },
     {
       "rank": 5,
-      "keyword": "김혜경",
-      "count": 11,
-      "representative_title": "與는 조희대 탄핵, 野는 김혜경 골프…정쟁만 남긴 법사위 국감",
-      "representative_link": "https://n.news.naver.com/article/119/0003147263?ntype=RANKING",
-      "press": "데일리안",
+      "keyword": "트럼프",
+      "count": 10,
+      "representative_title": "패배 직감한 트럼프 \"모조리 거부권\" 폭주…한국까지 사정권",
+      "representative_link": "https://n.news.naver.com/article/437/0000517579?ntype=RANKING",
+      "press": "JTBC",
       "related_articles": [
         {
-          "title": "與는 조희대 탄핵, 野는 김혜경 골프…정쟁만 남긴 법사위 국감",
-          "link": "https://n.news.naver.com/article/119/0003147263?ntype=RANKING",
-          "press": "데일리안"
+          "title": "브라질 대선 극우 패배에 트럼프 “선거 조작”…네타냐후도 오늘 시험대",
+          "link": "https://n.news.naver.com/article/028/0002829299?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "\"엉덩이가 정말 아름답다\"…트럼프 돌발 발언에 유명 여가수 반응은",
+          "link": "https://n.news.naver.com/article/277/0005833735?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "“쓰레기 같은 나라 노르웨이”…‘노벨상 불발’ 트럼프 뒤끝 폭발",
+          "link": "https://n.news.naver.com/article/029/0003055396?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "선거 막판 ‘엉덩이’ 얘기만 하는 트럼프… 막말이거나 전략이거나",
+          "link": "https://n.news.naver.com/article/023/0004006115?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "패배 직감한 트럼프 \"모조리 거부권\" 폭주…한국까지 사정권",
+          "link": "https://n.news.naver.com/article/437/0000517579?ntype=RANKING",
+          "press": "JTBC"
         }
       ],
       "related_titles": [
-        "與는 조희대 탄핵, 野는 김혜경 골프…정쟁만 남긴 법사위 국감"
+        "브라질 대선 극우 패배에 트럼프 “선거 조작”…네타냐후도 오늘 시험대",
+        "\"엉덩이가 정말 아름답다\"…트럼프 돌발 발언에 유명 여가수 반응은",
+        "“쓰레기 같은 나라 노르웨이”…‘노벨상 불발’ 트럼프 뒤끝 폭발",
+        "선거 막판 ‘엉덩이’ 얘기만 하는 트럼프… 막말이거나 전략이거나",
+        "패배 직감한 트럼프 \"모조리 거부권\" 폭주…한국까지 사정권"
       ],
-      "category": "국제"
+      "category": "정치"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "코스피",
+      "keyword": "개월",
       "count": 5,
-      "representative_title": "5500선 내준 코스피…빅 이벤트 앞두고 눈치싸움",
-      "representative_link": "https://n.news.naver.com/article/648/0000051944?ntype=RANKING",
-      "press": "비즈워치",
+      "representative_title": "SK하닉 ETF 퇴출…美서 3개월 만에 사라지는 이유",
+      "representative_link": "https://n.news.naver.com/article/018/0006396387?ntype=RANKING",
+      "press": "이데일리",
       "related_articles": [
         {
-          "title": "“있는 돈 없는 돈, 이미 다 끌어넣었나”…코스피 거래대금도 하락세",
-          "link": "https://n.news.naver.com/article/009/0005754343?ntype=RANKING",
-          "press": "매일경제"
+          "title": "‘삼전닉스 달릴까’ 7개월 만에 최저 찍은 코스피, ‘앤트로픽 훈풍’에 5500선 탈환 기대 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002714673?ntype=RANKING",
+          "press": "헤럴드경제"
         },
         {
-          "title": "일본 13%·대만 8% 빠질 때 코스피 넉 달 만에 반토막",
-          "link": "https://n.news.naver.com/article/082/0001404154?ntype=RANKING",
-          "press": "부산일보"
+          "title": "SK하닉 ETF 퇴출…美서 3개월 만에 사라지는 이유",
+          "link": "https://n.news.naver.com/article/018/0006396387?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "5500선 내준 코스피…빅 이벤트 앞두고 눈치싸움",
-          "link": "https://n.news.naver.com/article/648/0000051944?ntype=RANKING",
-          "press": "비즈워치"
-        },
-        {
-          "title": "[오늘의증시] '슈퍼위크'에도 외인 매수 없었다...5500선 무너진 코스피",
-          "link": "https://n.news.naver.com/article/243/0000104731?ntype=RANKING",
-          "press": "이코노미스트"
+          "title": "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유",
+          "link": "https://n.news.naver.com/article/011/0004675366?ntype=RANKING",
+          "press": "서울경제"
         },
         {
           "title": "코스피 5500선 깨졌다…外人 ‘팔자’에 7개월 만에 최저",
           "link": "https://n.news.naver.com/article/024/0000109182?ntype=RANKING",
           "press": "매경이코노미"
+        },
+        {
+          "title": "잠실주공 2개월 새 5억 급락…\"분담금 증가, 투자 위축 영향\"",
+          "link": "https://n.news.naver.com/article/417/0001162160?ntype=RANKING",
+          "press": "동행미디어 시대"
         }
       ],
       "related_titles": [
-        "“있는 돈 없는 돈, 이미 다 끌어넣었나”…코스피 거래대금도 하락세",
-        "일본 13%·대만 8% 빠질 때 코스피 넉 달 만에 반토막",
-        "5500선 내준 코스피…빅 이벤트 앞두고 눈치싸움",
-        "[오늘의증시] '슈퍼위크'에도 외인 매수 없었다...5500선 무너진 코스피",
-        "코스피 5500선 깨졌다…外人 ‘팔자’에 7개월 만에 최저"
+        "‘삼전닉스 달릴까’ 7개월 만에 최저 찍은 코스피, ‘앤트로픽 훈풍’에 5500선 탈환 기대 [투자360]",
+        "SK하닉 ETF 퇴출…美서 3개월 만에 사라지는 이유",
+        "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유",
+        "코스피 5500선 깨졌다…外人 ‘팔자’에 7개월 만에 최저",
+        "잠실주공 2개월 새 5억 급락…\"분담금 증가, 투자 위축 영향\""
       ],
       "category": "주식/코인"
     },
@@ -239,116 +269,171 @@
       "rank": 2,
       "keyword": "주가",
       "count": 5,
-      "representative_title": "젠슨황이 시연한 로봇 효과...로보티즈 주가 ‘불기둥’",
-      "representative_link": "https://n.news.naver.com/article/024/0000109186?ntype=RANKING",
-      "press": "매경이코노미",
+      "representative_title": "“주가 내렸으니 사자” 개미의 착각",
+      "representative_link": "https://n.news.naver.com/article/119/0003147296?ntype=RANKING",
+      "press": "데일리안",
       "related_articles": [
         {
-          "title": "현실은 \"주식 팔아 집 샀어\" 주가 발목 잡는 '역머니무브'",
-          "link": "https://n.news.naver.com/article/437/0000517598?ntype=RANKING",
-          "press": "JTBC"
+          "title": "\"50조 풀릴까?\"…주가 떨어진 삼성전자·SK하이닉스의 승부수",
+          "link": "https://n.news.naver.com/article/014/0005594818?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
-          "title": "JYP 주가 14% 뛰었는데...\"지분 인수 제안받은 적 없어\" 반박, 무슨 일?",
-          "link": "https://n.news.naver.com/article/008/0005431898?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "'갑툭튀' 日 투자사 지분 인수 선언…JYP, 야간장서 주가 14% 급등",
-          "link": "https://n.news.naver.com/article/119/0003147260?ntype=RANKING",
+          "title": "“주가 내렸으니 사자” 개미의 착각",
+          "link": "https://n.news.naver.com/article/119/0003147296?ntype=RANKING",
           "press": "데일리안"
+        },
+        {
+          "title": "“JYP 절반 사겠다”…인수설에 주가 14% 급등, 회사는 “제안 없었다”",
+          "link": "https://n.news.naver.com/article/018/0006396683?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "'영업이익 76조' 전망에도 주가 30%↓...SK하이닉스, 28일 실적 발표",
+          "link": "https://n.news.naver.com/article/660/0000119983?ntype=RANKING",
+          "press": "kbc광주방송"
         },
         {
           "title": "젠슨황이 시연한 로봇 효과...로보티즈 주가 ‘불기둥’",
           "link": "https://n.news.naver.com/article/024/0000109186?ntype=RANKING",
           "press": "매경이코노미"
-        },
-        {
-          "title": "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약",
-          "link": "https://n.news.naver.com/article/037/0000039039?ntype=RANKING",
-          "press": "주간동아"
         }
       ],
       "related_titles": [
-        "현실은 \"주식 팔아 집 샀어\" 주가 발목 잡는 '역머니무브'",
-        "JYP 주가 14% 뛰었는데...\"지분 인수 제안받은 적 없어\" 반박, 무슨 일?",
-        "'갑툭튀' 日 투자사 지분 인수 선언…JYP, 야간장서 주가 14% 급등",
-        "젠슨황이 시연한 로봇 효과...로보티즈 주가 ‘불기둥’",
-        "기업 실적 뛰어나도 수급과 경쟁 구도 나쁘면 주가 상승 제약"
+        "\"50조 풀릴까?\"…주가 떨어진 삼성전자·SK하이닉스의 승부수",
+        "“주가 내렸으니 사자” 개미의 착각",
+        "“JYP 절반 사겠다”…인수설에 주가 14% 급등, 회사는 “제안 없었다”",
+        "'영업이익 76조' 전망에도 주가 30%↓...SK하이닉스, 28일 실적 발표",
+        "젠슨황이 시연한 로봇 효과...로보티즈 주가 ‘불기둥’"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "삼성전자",
-      "count": 3,
-      "representative_title": "“삼성전자 HBM, 경쟁사보다 최대 25% 비싸다”",
-      "representative_link": "https://n.news.naver.com/article/029/0003055362?ntype=RANKING",
-      "press": "디지털타임스",
+      "keyword": "앤트로픽",
+      "count": 4,
+      "representative_title": "'앤트로픽 IPO' 기대감에 뉴욕증시 반등…테슬라 5%↑",
+      "representative_link": "https://n.news.naver.com/article/123/0002392636?ntype=RANKING",
+      "press": "조세일보",
       "related_articles": [
         {
-          "title": "\"하이닉스 28%, 삼성전자 20% 하락\"…개미들, '레버리지 ETF' 몰려",
-          "link": "https://n.news.naver.com/article/014/0005594777?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "‘몸값 2700조’ 앤트로픽, 나스닥 상장 신청…역대 최대 IPO 도전",
+          "link": "https://n.news.naver.com/article/119/0003147295?ntype=RANKING",
+          "press": "데일리안"
         },
         {
-          "title": "“삼성전자 HBM, 경쟁사보다 최대 25% 비싸다”",
-          "link": "https://n.news.naver.com/article/029/0003055362?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "뉴욕증시, 앤트로픽 IPO 소식에 기술주 반등…국제유가는 소폭 하락",
+          "link": "https://n.news.naver.com/article/138/0002246070?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "'러닝족 겨냥'…삼성전자, 첫 클립형 무선 이어폰 출시",
-          "link": "https://n.news.naver.com/article/374/0000539698?ntype=RANKING",
-          "press": "SBS Biz"
+          "title": "'앤트로픽 IPO' 기대감에 뉴욕증시 반등…테슬라 5%↑",
+          "link": "https://n.news.naver.com/article/123/0002392636?ntype=RANKING",
+          "press": "조세일보"
         },
         {
-          "title": "\"하이닉스 28%, 삼성전자 20% 하락\"…개미들, '레버리지 ETF' 몰려",
-          "link": "https://n.news.naver.com/article/014/0005594777?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "‘몸값 2700조’ 앤트로픽, 나스닥 상장 신청…역대 최대 IPO 도전",
+          "link": "https://n.news.naver.com/article/119/0003147295?ntype=RANKING",
+          "press": "데일리안"
         },
         {
-          "title": "“삼성전자 HBM, 경쟁사보다 최대 25% 비싸다”",
-          "link": "https://n.news.naver.com/article/029/0003055362?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "뉴욕증시, 앤트로픽 IPO 소식에 기술주 반등…국제유가는 소폭 하락",
+          "link": "https://n.news.naver.com/article/138/0002246070?ntype=RANKING",
+          "press": "디지털데일리"
         }
       ],
       "related_titles": [
-        "\"하이닉스 28%, 삼성전자 20% 하락\"…개미들, '레버리지 ETF' 몰려",
-        "“삼성전자 HBM, 경쟁사보다 최대 25% 비싸다”",
-        "'러닝족 겨냥'…삼성전자, 첫 클립형 무선 이어폰 출시",
-        "\"하이닉스 28%, 삼성전자 20% 하락\"…개미들, '레버리지 ETF' 몰려",
-        "“삼성전자 HBM, 경쟁사보다 최대 25% 비싸다”"
+        "‘몸값 2700조’ 앤트로픽, 나스닥 상장 신청…역대 최대 IPO 도전",
+        "뉴욕증시, 앤트로픽 IPO 소식에 기술주 반등…국제유가는 소폭 하락",
+        "'앤트로픽 IPO' 기대감에 뉴욕증시 반등…테슬라 5%↑",
+        "‘몸값 2700조’ 앤트로픽, 나스닥 상장 신청…역대 최대 IPO 도전",
+        "뉴욕증시, 앤트로픽 IPO 소식에 기술주 반등…국제유가는 소폭 하락"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "만에",
-      "count": 3,
-      "representative_title": "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유",
-      "representative_link": "https://n.news.naver.com/article/011/0004675366?ntype=RANKING",
-      "press": "서울경제",
+      "keyword": "환율",
+      "count": 4,
+      "representative_title": "중국차 쫓아오고 환율 '뚝뚝' 자율주행도 안갯속 '어쩌나'",
+      "representative_link": "https://n.news.naver.com/article/050/0000112404?ntype=RANKING",
+      "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유",
-          "link": "https://n.news.naver.com/article/011/0004675366?ntype=RANKING",
-          "press": "서울경제"
+          "title": "중국차 쫓아오고 환율 '뚝뚝' 자율주행도 안갯속 '어쩌나'",
+          "link": "https://n.news.naver.com/article/050/0000112404?ntype=RANKING",
+          "press": "한경비즈니스"
         },
         {
-          "title": "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유",
-          "link": "https://n.news.naver.com/article/011/0004675366?ntype=RANKING",
-          "press": "서울경제"
+          "title": "환율 보너스 줄자…전자·이차전지 '한숨' 굴뚝업계 '숨통'",
+          "link": "https://n.news.naver.com/article/648/0000051953?ntype=RANKING",
+          "press": "비즈워치"
         },
         {
-          "title": "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유",
-          "link": "https://n.news.naver.com/article/011/0004675366?ntype=RANKING",
-          "press": "서울경제"
+          "title": "원·달러 환율 2024년 이후 '최저'...삼전닉스도 '적신호'?",
+          "link": "https://n.news.naver.com/article/243/0000104743?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "원·달러 환율, 1326.0원…달러, 10월 FOMC 앞두고 강세",
+          "link": "https://n.news.naver.com/article/123/0002392632?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "중국차 쫓아오고 환율 '뚝뚝' 자율주행도 안갯속 '어쩌나'",
+          "link": "https://n.news.naver.com/article/050/0000112404?ntype=RANKING",
+          "press": "한경비즈니스"
         }
       ],
       "related_titles": [
-        "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유",
-        "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유",
-        "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유"
+        "중국차 쫓아오고 환율 '뚝뚝' 자율주행도 안갯속 '어쩌나'",
+        "환율 보너스 줄자…전자·이차전지 '한숨' 굴뚝업계 '숨통'",
+        "원·달러 환율 2024년 이후 '최저'...삼전닉스도 '적신호'?",
+        "원·달러 환율, 1326.0원…달러, 10월 FOMC 앞두고 강세",
+        "중국차 쫓아오고 환율 '뚝뚝' 자율주행도 안갯속 '어쩌나'"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "코스닥",
+      "count": 3,
+      "representative_title": "코스닥 38% 폭락했는데…“바닥 찍었다”는 증권사, 왜?",
+      "representative_link": "https://n.news.naver.com/article/024/0000109175?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "“연 매출 200억·코스닥 상장 준비”…션, 잘나가던 사업가였다",
+          "link": "https://n.news.naver.com/article/009/0005754375?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "1200→750 코스닥 38% 급락…SK증권 “바닥권 진입, 급반등은 아직”",
+          "link": "https://n.news.naver.com/article/138/0002246013?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "코스닥 38% 폭락했는데…“바닥 찍었다”는 증권사, 왜?",
+          "link": "https://n.news.naver.com/article/024/0000109175?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "“연 매출 200억·코스닥 상장 준비”…션, 잘나가던 사업가였다",
+          "link": "https://n.news.naver.com/article/009/0005754375?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "1200→750 코스닥 38% 급락…SK증권 “바닥권 진입, 급반등은 아직”",
+          "link": "https://n.news.naver.com/article/138/0002246013?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "“연 매출 200억·코스닥 상장 준비”…션, 잘나가던 사업가였다",
+        "1200→750 코스닥 38% 급락…SK증권 “바닥권 진입, 급반등은 아직”",
+        "코스닥 38% 폭락했는데…“바닥 찍었다”는 증권사, 왜?",
+        "“연 매출 200억·코스닥 상장 준비”…션, 잘나가던 사업가였다",
+        "1200→750 코스닥 38% 급락…SK증권 “바닥권 진입, 급반등은 아직”"
       ],
       "category": "주식/코인"
     }
@@ -356,6 +441,46 @@
   "moljak_topics": [
     {
       "rank": 1,
+      "keyword": "이대",
+      "series_title": "이대의 몰락",
+      "count": 1,
+      "representative_title": "롯데리아도 결국 떠났다…'대학가 불패' 이대 앞의 몰락 [권용훈의 트렌드워치]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YVTF1dWktNkU0MjF4Q1dYaHZEQ19DN0lQcS1wVG5hWC0wUEF1eVpEOTlnS0ZRcENGMkNIbHdzNno2M0hfNTFIZzBkVmk1TDlfUkg3NGJMcnU0QQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "롯데리아도 결국 떠났다…'대학가 불패' 이대 앞의 몰락 [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YVTF1dWktNkU0MjF4Q1dYaHZEQ19DN0lQcS1wVG5hWC0wUEF1eVpEOTlnS0ZRcENGMkNIbHdzNno2M0hfNTFIZzBkVmk1TDlfUkg3NGJMcnU0QQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "롯데리아도 결국 떠났다…'대학가 불패' 이대 앞의 몰락 [권용훈의 트렌드워치]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "어셔가",
+      "series_title": "어셔가의 몰락",
+      "count": 1,
+      "representative_title": "〈어셔가의 몰락〉: 폴리 테아트르에서 만나는 에드거 앨런 포",
+      "representative_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ0p1MmtxWXdqdDNrSGI3R3pxOFQ5bWZjWjg1enlxb2JaZFQwQ0ViODlKTF90Sm5SMk1EYmxsUVJhaW8zdEd6Q2p6elhVTUYzWWxPYlhHQmlLby1TRG1DTXlWLWRXWDIwS2tPblBqa29oNGdrcmYtX1hxSTVjRlE2SlNHV2p2QkNBYjBOWV9NdTNqTFptMjVRaG1uNXZRTEZqTXVGUWRBNTlESDhyaFJtX0dHUFVubWtIMnFLV3IxbC1FX0l0eWFiOXZZUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "〈어셔가의 몰락〉: 폴리 테아트르에서 만나는 에드거 앨런 포",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ0p1MmtxWXdqdDNrSGI3R3pxOFQ5bWZjWjg1enlxb2JaZFQwQ0ViODlKTF90Sm5SMk1EYmxsUVJhaW8zdEd6Q2p6elhVTUYzWWxPYlhHQmlLby1TRG1DTXlWLWRXWDIwS2tPblBqa29oNGdrcmYtX1hxSTVjRlE2SlNHV2p2QkNBYjBOWV9NdTNqTFptMjVRaG1uNXZRTEZqTXVGUWRBNTlESDhyaFJtX0dHUFVubWtIMnFLV3IxbC1FX0l0eWFiOXZZUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "〈어셔가의 몰락〉: 폴리 테아트르에서 만나는 에드거 앨런 포"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
       "keyword": "지식",
       "series_title": "지식의 몰락",
       "count": 1,
@@ -375,7 +500,7 @@
       "category": "몰락"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "keyword": "충격",
       "series_title": "충격의 몰락",
       "count": 1,
@@ -395,27 +520,7 @@
       "category": "몰락"
     },
     {
-      "rank": 3,
-      "keyword": "정권",
-      "series_title": "정권의 몰락",
-      "count": 1,
-      "representative_title": "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\"",
-      "representative_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EbnJ1cDN3S1p3a2JXMVVtZGZjMlZLZlplcGhRVHJZSzlidGJIWEF1RURWWnY0MVRmYzRKWUM5TC1faUVjWW9ybWJ1czRlZXMxRDdQbHZyV3dWaWNMVjNuN1dJSVkxcUlWa2wzV3FYTQ?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\"",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EbnJ1cDN3S1p3a2JXMVVtZGZjMlZLZlplcGhRVHJZSzlidGJIWEF1RURWWnY0MVRmYzRKWUM5TC1faUVjWW9ybWJ1czRlZXMxRDdQbHZyV3dWaWNMVjNuN1dJSVkxcUlWa2wzV3FYTQ?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\""
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "keyword": "가신그룹",
       "series_title": "가신그룹의 몰락",
       "count": 1,
@@ -431,26 +536,6 @@
       ],
       "related_titles": [
         "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 5,
-      "keyword": "떠나고",
-      "series_title": "떠나고의 몰락",
-      "count": 1,
-      "representative_title": "스페인 휴양지에서 도대체 무슨 일이…손흥민 떠나고 몰락했던 토트넘 미쳤다! 8년 만에 첼시 원정 2-0 완승 ‘2연승 질주→12위 도약’",
-      "representative_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ETzJIRDBZSDBXSGVJUEFGSDh6ZlBTQW00YnlWdjJrZFJtSWZCWGpuSmlGQ2ZTSjRUdTZIRWFnNF9xV1NydzNwLW5jdVBTTWt3VS1jMFI0bHI4MjF4eXZBVDdFVkExc093Nm5XRnRXUHg?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "스페인 휴양지에서 도대체 무슨 일이…손흥민 떠나고 몰락했던 토트넘 미쳤다! 8년 만에 첼시 원정 2-0 완승 ‘2연승 질주→12위 도약’",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ETzJIRDBZSDBXSGVJUEFGSDh6ZlBTQW00YnlWdjJrZFJtSWZCWGpuSmlGQ2ZTSjRUdTZIRWFnNF9xV1NydzNwLW5jdVBTTWt3VS1jMFI0bHI4MjF4eXZBVDdFVkExc093Nm5XRnRXUHg?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "스페인 휴양지에서 도대체 무슨 일이…손흥민 떠나고 몰락했던 토트넘 미쳤다! 8년 만에 첼시 원정 2-0 완승 ‘2연승 질주→12위 도약’"
       ],
       "category": "몰락"
     }

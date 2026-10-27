@@ -1,0 +1,644 @@
+{
+  "date": "2026-10-27",
+  "hour": "10",
+  "slot": "2026-10-27_10",
+  "crawled_at": "2026-10-27 10:00:05",
+  "total_articles": 403,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "시간",
+      "count": 11,
+      "representative_title": "10시간 일해 번 65센트…그 돈으로 조국 독립 도왔다",
+      "representative_link": "https://n.news.naver.com/article/262/0000019786?ntype=RANKING",
+      "press": "신동아",
+      "related_articles": [
+        {
+          "title": "\"공장 24시간 돌려도 모자라\"…10만대 주문 폭주한 車",
+          "link": "https://n.news.naver.com/article/015/0005346792?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "6개월 아들 죽었는데 “24시간 굶은 듯, 알 바 아니다”… 22세 부모가 나눈 문자",
+          "link": "https://n.news.naver.com/article/022/0004169852?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "헤이지니 전 직원 폭로 “연봉 2000만원, 하루 16시간 일해”",
+          "link": "https://n.news.naver.com/article/016/0002714633?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "한 업체서 경비원 6명 사망…70세 이상 24시간 맞교대의 비극",
+          "link": "https://n.news.naver.com/article/056/0012281125?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "“미군, 트럼프 명령 96시간 내 대규모 이란 공격 가능”",
+          "link": "https://n.news.naver.com/article/056/0012281324?ntype=RANKING",
+          "press": "KBS"
+        }
+      ],
+      "related_titles": [
+        "\"공장 24시간 돌려도 모자라\"…10만대 주문 폭주한 車",
+        "6개월 아들 죽었는데 “24시간 굶은 듯, 알 바 아니다”… 22세 부모가 나눈 문자",
+        "헤이지니 전 직원 폭로 “연봉 2000만원, 하루 16시간 일해”",
+        "한 업체서 경비원 6명 사망…70세 이상 24시간 맞교대의 비극",
+        "“미군, 트럼프 명령 96시간 내 대규모 이란 공격 가능”"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 2,
+      "keyword": "만에",
+      "count": 11,
+      "representative_title": "SK하닉 ETF 퇴출…美서 3개월 만에 사라지는 이유",
+      "representative_link": "https://n.news.naver.com/article/018/0006396387?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "3분기 경제성장률 1.0%…‘연간 3.3%’ 전망치 9달 만에 초과달성",
+          "link": "https://n.news.naver.com/article/028/0002829303?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "‘삼전닉스 달릴까’ 7개월 만에 최저 찍은 코스피, ‘앤트로픽 훈풍’에 5500선 탈환 기대 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002714673?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "SK하닉 ETF 퇴출…美서 3개월 만에 사라지는 이유",
+          "link": "https://n.news.naver.com/article/018/0006396387?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "부작용 심각한데 \"공부에 좋대\"…57초 만에 두 달 치 처방",
+          "link": "https://n.news.naver.com/article/055/0001398354?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유",
+          "link": "https://n.news.naver.com/article/011/0004675366?ntype=RANKING",
+          "press": "서울경제"
+        }
+      ],
+      "related_titles": [
+        "3분기 경제성장률 1.0%…‘연간 3.3%’ 전망치 9달 만에 초과달성",
+        "‘삼전닉스 달릴까’ 7개월 만에 최저 찍은 코스피, ‘앤트로픽 훈풍’에 5500선 탈환 기대 [투자360]",
+        "SK하닉 ETF 퇴출…美서 3개월 만에 사라지는 이유",
+        "부작용 심각한데 \"공부에 좋대\"…57초 만에 두 달 치 처방",
+        "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 3,
+      "keyword": "논란",
+      "count": 10,
+      "representative_title": "일본에서 곰 8,800마리 살처분 논란",
+      "representative_link": "https://n.news.naver.com/article/094/0000013906?ntype=RANKING",
+      "press": "월간 산",
+      "related_articles": [
+        {
+          "title": "박정희 추모식서 '암살자(들)' 논란 재점화…박근령 \"아버지 두 번 죽일 수 없다\"",
+          "link": "https://n.news.naver.com/article/088/0001036653?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "손흥민에게 \"니하오\" 외치는 관중 영상 공개…인종차별 논란",
+          "link": "https://n.news.naver.com/article/001/0016401837?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "'품질 논란' 아이폰 듀오...\"결국 힌지가 발목\"",
+          "link": "https://n.news.naver.com/article/092/0002442447?ntype=RANKING",
+          "press": "지디넷코리아"
+        },
+        {
+          "title": "李 사건 관여 인사들 법무장관 물망…공소취소 논란 재점화하나",
+          "link": "https://n.news.naver.com/article/119/0003147271?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "손흥민에 \"니하오\" 외친 해외 관중…인종차별 논란",
+          "link": "https://n.news.naver.com/article/052/0002424089?ntype=RANKING",
+          "press": "YTN"
+        }
+      ],
+      "related_titles": [
+        "박정희 추모식서 '암살자(들)' 논란 재점화…박근령 \"아버지 두 번 죽일 수 없다\"",
+        "손흥민에게 \"니하오\" 외치는 관중 영상 공개…인종차별 논란",
+        "'품질 논란' 아이폰 듀오...\"결국 힌지가 발목\"",
+        "李 사건 관여 인사들 법무장관 물망…공소취소 논란 재점화하나",
+        "손흥민에 \"니하오\" 외친 해외 관중…인종차별 논란"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 4,
+      "keyword": "주진우",
+      "count": 10,
+      "representative_title": "리디아 고 \"저 아닌데\"‥주진우 '김 여사 골프레슨' 공방",
+      "representative_link": "https://n.news.naver.com/article/214/0001531519?ntype=RANKING",
+      "press": "MBC",
+      "related_articles": [
+        {
+          "title": "주진우 “김혜경 여사 ‘황제 골프’”…지목된 골퍼 “사실 아냐”",
+          "link": "https://n.news.naver.com/article/028/0002829219?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "리디아 고, ‘김혜경 여사와 골프 라운드’ 주진우 주장에…“사실 아니다”",
+          "link": "https://n.news.naver.com/article/029/0003055299?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "주진우 '황제 레슨' 폭로하더니…리디아고 '저 아닌데요?' 황당",
+          "link": "https://n.news.naver.com/article/437/0000517585?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "리디아 고 \"저 아닌데\"‥주진우 '김 여사 골프레슨' 공방",
+          "link": "https://n.news.naver.com/article/214/0001531519?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "주진우, '김혜경 황제골프' 공격했다 역풍…리디아 고 \"저 아니다\"",
+          "link": "https://n.news.naver.com/article/002/0002462772?ntype=RANKING",
+          "press": "프레시안"
+        }
+      ],
+      "related_titles": [
+        "주진우 “김혜경 여사 ‘황제 골프’”…지목된 골퍼 “사실 아냐”",
+        "리디아 고, ‘김혜경 여사와 골프 라운드’ 주진우 주장에…“사실 아니다”",
+        "주진우 '황제 레슨' 폭로하더니…리디아고 '저 아닌데요?' 황당",
+        "리디아 고 \"저 아닌데\"‥주진우 '김 여사 골프레슨' 공방",
+        "주진우, '김혜경 황제골프' 공격했다 역풍…리디아 고 \"저 아니다\""
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "트럼프",
+      "count": 10,
+      "representative_title": "패배 직감한 트럼프 \"모조리 거부권\" 폭주…한국까지 사정권",
+      "representative_link": "https://n.news.naver.com/article/437/0000517579?ntype=RANKING",
+      "press": "JTBC",
+      "related_articles": [
+        {
+          "title": "브라질 대선 극우 패배에 트럼프 “선거 조작”…네타냐후도 오늘 시험대",
+          "link": "https://n.news.naver.com/article/028/0002829299?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "\"엉덩이가 정말 아름답다\"…트럼프 돌발 발언에 유명 여가수 반응은",
+          "link": "https://n.news.naver.com/article/277/0005833735?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "“쓰레기 같은 나라 노르웨이”…‘노벨상 불발’ 트럼프 뒤끝 폭발",
+          "link": "https://n.news.naver.com/article/029/0003055396?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "선거 막판 ‘엉덩이’ 얘기만 하는 트럼프… 막말이거나 전략이거나",
+          "link": "https://n.news.naver.com/article/023/0004006115?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "패배 직감한 트럼프 \"모조리 거부권\" 폭주…한국까지 사정권",
+          "link": "https://n.news.naver.com/article/437/0000517579?ntype=RANKING",
+          "press": "JTBC"
+        }
+      ],
+      "related_titles": [
+        "브라질 대선 극우 패배에 트럼프 “선거 조작”…네타냐후도 오늘 시험대",
+        "\"엉덩이가 정말 아름답다\"…트럼프 돌발 발언에 유명 여가수 반응은",
+        "“쓰레기 같은 나라 노르웨이”…‘노벨상 불발’ 트럼프 뒤끝 폭발",
+        "선거 막판 ‘엉덩이’ 얘기만 하는 트럼프… 막말이거나 전략이거나",
+        "패배 직감한 트럼프 \"모조리 거부권\" 폭주…한국까지 사정권"
+      ],
+      "category": "정치"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "개월",
+      "count": 5,
+      "representative_title": "SK하닉 ETF 퇴출…美서 3개월 만에 사라지는 이유",
+      "representative_link": "https://n.news.naver.com/article/018/0006396387?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "‘삼전닉스 달릴까’ 7개월 만에 최저 찍은 코스피, ‘앤트로픽 훈풍’에 5500선 탈환 기대 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002714673?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "SK하닉 ETF 퇴출…美서 3개월 만에 사라지는 이유",
+          "link": "https://n.news.naver.com/article/018/0006396387?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유",
+          "link": "https://n.news.naver.com/article/011/0004675366?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "코스피 5500선 깨졌다…外人 ‘팔자’에 7개월 만에 최저",
+          "link": "https://n.news.naver.com/article/024/0000109182?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "잠실주공 2개월 새 5억 급락…\"분담금 증가, 투자 위축 영향\"",
+          "link": "https://n.news.naver.com/article/417/0001162160?ntype=RANKING",
+          "press": "동행미디어 시대"
+        }
+      ],
+      "related_titles": [
+        "‘삼전닉스 달릴까’ 7개월 만에 최저 찍은 코스피, ‘앤트로픽 훈풍’에 5500선 탈환 기대 [투자360]",
+        "SK하닉 ETF 퇴출…美서 3개월 만에 사라지는 이유",
+        "“결국 이렇게 되네” SK하이닉스 ETF ‘퇴장’…美 증시서 3개월 만에 사라지는 이유",
+        "코스피 5500선 깨졌다…外人 ‘팔자’에 7개월 만에 최저",
+        "잠실주공 2개월 새 5억 급락…\"분담금 증가, 투자 위축 영향\""
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "주가",
+      "count": 5,
+      "representative_title": "“주가 내렸으니 사자” 개미의 착각",
+      "representative_link": "https://n.news.naver.com/article/119/0003147296?ntype=RANKING",
+      "press": "데일리안",
+      "related_articles": [
+        {
+          "title": "\"50조 풀릴까?\"…주가 떨어진 삼성전자·SK하이닉스의 승부수",
+          "link": "https://n.news.naver.com/article/014/0005594818?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "“주가 내렸으니 사자” 개미의 착각",
+          "link": "https://n.news.naver.com/article/119/0003147296?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "“JYP 절반 사겠다”…인수설에 주가 14% 급등, 회사는 “제안 없었다”",
+          "link": "https://n.news.naver.com/article/018/0006396683?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "'영업이익 76조' 전망에도 주가 30%↓...SK하이닉스, 28일 실적 발표",
+          "link": "https://n.news.naver.com/article/660/0000119983?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "젠슨황이 시연한 로봇 효과...로보티즈 주가 ‘불기둥’",
+          "link": "https://n.news.naver.com/article/024/0000109186?ntype=RANKING",
+          "press": "매경이코노미"
+        }
+      ],
+      "related_titles": [
+        "\"50조 풀릴까?\"…주가 떨어진 삼성전자·SK하이닉스의 승부수",
+        "“주가 내렸으니 사자” 개미의 착각",
+        "“JYP 절반 사겠다”…인수설에 주가 14% 급등, 회사는 “제안 없었다”",
+        "'영업이익 76조' 전망에도 주가 30%↓...SK하이닉스, 28일 실적 발표",
+        "젠슨황이 시연한 로봇 효과...로보티즈 주가 ‘불기둥’"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "앤트로픽",
+      "count": 4,
+      "representative_title": "'앤트로픽 IPO' 기대감에 뉴욕증시 반등…테슬라 5%↑",
+      "representative_link": "https://n.news.naver.com/article/123/0002392636?ntype=RANKING",
+      "press": "조세일보",
+      "related_articles": [
+        {
+          "title": "‘몸값 2700조’ 앤트로픽, 나스닥 상장 신청…역대 최대 IPO 도전",
+          "link": "https://n.news.naver.com/article/119/0003147295?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "뉴욕증시, 앤트로픽 IPO 소식에 기술주 반등…국제유가는 소폭 하락",
+          "link": "https://n.news.naver.com/article/138/0002246070?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "'앤트로픽 IPO' 기대감에 뉴욕증시 반등…테슬라 5%↑",
+          "link": "https://n.news.naver.com/article/123/0002392636?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "‘몸값 2700조’ 앤트로픽, 나스닥 상장 신청…역대 최대 IPO 도전",
+          "link": "https://n.news.naver.com/article/119/0003147295?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "뉴욕증시, 앤트로픽 IPO 소식에 기술주 반등…국제유가는 소폭 하락",
+          "link": "https://n.news.naver.com/article/138/0002246070?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "‘몸값 2700조’ 앤트로픽, 나스닥 상장 신청…역대 최대 IPO 도전",
+        "뉴욕증시, 앤트로픽 IPO 소식에 기술주 반등…국제유가는 소폭 하락",
+        "'앤트로픽 IPO' 기대감에 뉴욕증시 반등…테슬라 5%↑",
+        "‘몸값 2700조’ 앤트로픽, 나스닥 상장 신청…역대 최대 IPO 도전",
+        "뉴욕증시, 앤트로픽 IPO 소식에 기술주 반등…국제유가는 소폭 하락"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "환율",
+      "count": 4,
+      "representative_title": "중국차 쫓아오고 환율 '뚝뚝' 자율주행도 안갯속 '어쩌나'",
+      "representative_link": "https://n.news.naver.com/article/050/0000112404?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "중국차 쫓아오고 환율 '뚝뚝' 자율주행도 안갯속 '어쩌나'",
+          "link": "https://n.news.naver.com/article/050/0000112404?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "환율 보너스 줄자…전자·이차전지 '한숨' 굴뚝업계 '숨통'",
+          "link": "https://n.news.naver.com/article/648/0000051953?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "원·달러 환율 2024년 이후 '최저'...삼전닉스도 '적신호'?",
+          "link": "https://n.news.naver.com/article/243/0000104743?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "원·달러 환율, 1326.0원…달러, 10월 FOMC 앞두고 강세",
+          "link": "https://n.news.naver.com/article/123/0002392632?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "중국차 쫓아오고 환율 '뚝뚝' 자율주행도 안갯속 '어쩌나'",
+          "link": "https://n.news.naver.com/article/050/0000112404?ntype=RANKING",
+          "press": "한경비즈니스"
+        }
+      ],
+      "related_titles": [
+        "중국차 쫓아오고 환율 '뚝뚝' 자율주행도 안갯속 '어쩌나'",
+        "환율 보너스 줄자…전자·이차전지 '한숨' 굴뚝업계 '숨통'",
+        "원·달러 환율 2024년 이후 '최저'...삼전닉스도 '적신호'?",
+        "원·달러 환율, 1326.0원…달러, 10월 FOMC 앞두고 강세",
+        "중국차 쫓아오고 환율 '뚝뚝' 자율주행도 안갯속 '어쩌나'"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "코스닥",
+      "count": 3,
+      "representative_title": "코스닥 38% 폭락했는데…“바닥 찍었다”는 증권사, 왜?",
+      "representative_link": "https://n.news.naver.com/article/024/0000109175?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "“연 매출 200억·코스닥 상장 준비”…션, 잘나가던 사업가였다",
+          "link": "https://n.news.naver.com/article/009/0005754375?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "1200→750 코스닥 38% 급락…SK증권 “바닥권 진입, 급반등은 아직”",
+          "link": "https://n.news.naver.com/article/138/0002246013?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "코스닥 38% 폭락했는데…“바닥 찍었다”는 증권사, 왜?",
+          "link": "https://n.news.naver.com/article/024/0000109175?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "“연 매출 200억·코스닥 상장 준비”…션, 잘나가던 사업가였다",
+          "link": "https://n.news.naver.com/article/009/0005754375?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "1200→750 코스닥 38% 급락…SK증권 “바닥권 진입, 급반등은 아직”",
+          "link": "https://n.news.naver.com/article/138/0002246013?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "“연 매출 200억·코스닥 상장 준비”…션, 잘나가던 사업가였다",
+        "1200→750 코스닥 38% 급락…SK증권 “바닥권 진입, 급반등은 아직”",
+        "코스닥 38% 폭락했는데…“바닥 찍었다”는 증권사, 왜?",
+        "“연 매출 200억·코스닥 상장 준비”…션, 잘나가던 사업가였다",
+        "1200→750 코스닥 38% 급락…SK증권 “바닥권 진입, 급반등은 아직”"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "이대",
+      "series_title": "이대의 몰락",
+      "count": 1,
+      "representative_title": "롯데리아도 결국 떠났다…'대학가 불패' 이대 앞의 몰락 [권용훈의 트렌드워치]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YVTF1dWktNkU0MjF4Q1dYaHZEQ19DN0lQcS1wVG5hWC0wUEF1eVpEOTlnS0ZRcENGMkNIbHdzNno2M0hfNTFIZzBkVmk1TDlfUkg3NGJMcnU0QQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "롯데리아도 결국 떠났다…'대학가 불패' 이대 앞의 몰락 [권용훈의 트렌드워치]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YVTF1dWktNkU0MjF4Q1dYaHZEQ19DN0lQcS1wVG5hWC0wUEF1eVpEOTlnS0ZRcENGMkNIbHdzNno2M0hfNTFIZzBkVmk1TDlfUkg3NGJMcnU0QQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "롯데리아도 결국 떠났다…'대학가 불패' 이대 앞의 몰락 [권용훈의 트렌드워치]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "어셔가",
+      "series_title": "어셔가의 몰락",
+      "count": 1,
+      "representative_title": "〈어셔가의 몰락〉: 폴리 테아트르에서 만나는 에드거 앨런 포",
+      "representative_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ0p1MmtxWXdqdDNrSGI3R3pxOFQ5bWZjWjg1enlxb2JaZFQwQ0ViODlKTF90Sm5SMk1EYmxsUVJhaW8zdEd6Q2p6elhVTUYzWWxPYlhHQmlLby1TRG1DTXlWLWRXWDIwS2tPblBqa29oNGdrcmYtX1hxSTVjRlE2SlNHV2p2QkNBYjBOWV9NdTNqTFptMjVRaG1uNXZRTEZqTXVGUWRBNTlESDhyaFJtX0dHUFVubWtIMnFLV3IxbC1FX0l0eWFiOXZZUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "〈어셔가의 몰락〉: 폴리 테아트르에서 만나는 에드거 앨런 포",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ0p1MmtxWXdqdDNrSGI3R3pxOFQ5bWZjWjg1enlxb2JaZFQwQ0ViODlKTF90Sm5SMk1EYmxsUVJhaW8zdEd6Q2p6elhVTUYzWWxPYlhHQmlLby1TRG1DTXlWLWRXWDIwS2tPblBqa29oNGdrcmYtX1hxSTVjRlE2SlNHV2p2QkNBYjBOWV9NdTNqTFptMjVRaG1uNXZRTEZqTXVGUWRBNTlESDhyaFJtX0dHUFVubWtIMnFLV3IxbC1FX0l0eWFiOXZZUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "〈어셔가의 몰락〉: 폴리 테아트르에서 만나는 에드거 앨런 포"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "지식",
+      "series_title": "지식의 몰락",
+      "count": 1,
+      "representative_title": "[역사와 현실]지식의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdHFoVWF1Z2lmV05hWEF0VFQxYTktVFc4TTJUbDJianZuaXYyMW5Gd2g5UmRaUFc4a2FCTkRPQklZWmlsTzJJT1dWb2JuN080WFI0bnhrZVJhUdIBX0FVX3lxTE1KVHd1MTl0UThfQUl2dGZwTWtoZjN1aXJtLUpVWVZyX1otS1RoRm9LQkk4aE15dVdxTUZ0ODJlZzVvTXJBT1BnZllTSDdmM3NiR2s2RUZBa3RSN2JLVWJ3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[역사와 현실]지식의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdHFoVWF1Z2lmV05hWEF0VFQxYTktVFc4TTJUbDJianZuaXYyMW5Gd2g5UmRaUFc4a2FCTkRPQklZWmlsTzJJT1dWb2JuN080WFI0bnhrZVJhUdIBX0FVX3lxTE1KVHd1MTl0UThfQUl2dGZwTWtoZjN1aXJtLUpVWVZyX1otS1RoRm9LQkk4aE15dVdxTUZ0ODJlZzVvTXJBT1BnZllTSDdmM3NiR2s2RUZBa3RSN2JLVWJ3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[역사와 현실]지식의 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "충격",
+      "series_title": "충격의 몰락",
+      "count": 1,
+      "representative_title": "이젠 이강인 쳐다도 못 본다, 日 슈퍼스타 구보 충격 몰락...주전 경쟁 완전 실패, 이대로면 방출각",
+      "representative_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90Vkw5ZHJOTWRnUFp6V3ZIcm5fMkdMUWxzanRqNGc4clg3OVpCUFZTLWxrYi1IRjU2Y3ZnMXg5NkRNdlY5VVlLMkphWU12VWJBbW1QZ0w4MGROTUV4cU5QNlhqbmp2MEpSTk5BMGNvcWRjRXUxSVZoX1lLQ294Zw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "이젠 이강인 쳐다도 못 본다, 日 슈퍼스타 구보 충격 몰락...주전 경쟁 완전 실패, 이대로면 방출각",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90Vkw5ZHJOTWRnUFp6V3ZIcm5fMkdMUWxzanRqNGc4clg3OVpCUFZTLWxrYi1IRjU2Y3ZnMXg5NkRNdlY5VVlLMkphWU12VWJBbW1QZ0w4MGROTUV4cU5QNlhqbmp2MEpSTk5BMGNvcWRjRXUxSVZoX1lLQ294Zw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "이젠 이강인 쳐다도 못 본다, 日 슈퍼스타 구보 충격 몰락...주전 경쟁 완전 실패, 이대로면 방출각"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "가신그룹",
+      "series_title": "가신그룹의 몰락",
+      "count": 1,
+      "representative_title": "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15d2JPYkV4TUxRdW0wLWIzUnhuYXJXamxJYnI2M3l5QmNEYm1XTlFHSWFvUEFVUW4yVW92Qy1QQS1LM2hsMjRqY3o4OWlPeGxHWUtsYjZNOERjVDky?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15d2JPYkV4TUxRdW0wLWIzUnhuYXJXamxJYnI2M3l5QmNEYm1XTlFHSWFvUEFVUW4yVW92Qy1QQS1LM2hsMjRqY3o4OWlPeGxHWUtsYjZNOERjVDky?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[젠슨황 생태계 흔들] ③가신그룹의 몰락 시작? '프리미엄'에서 족쇄로"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 8,
+      "representative_title": "10월 서울 집값 오름폭·대장주·전망지수 동시 하락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WcGtKSEluSHlIVVNBSzJzbTRVTjluMW9sWWowbE4xVTNmMkcxcXFOd3NuODdzUzFTN0cxdUJBOEFfbXQ5aXA3bFRVSkRDeVU2cER0eC1ENGl4eTVleG14Q19DdU5CVld3aHc?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "서울 아파트값 상승률 올해 최저…강남·서초 내리고 노원 올라",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PX2M3UmYya3hKNHJzTXp1Q2doSEFtSU9iejdsYjhXM19Vc0xqczZOaXJMOWk5QmJ0ejhETWpJRTExOXhHTUU1a0NpbWtMQndxN2tmZ29jeWVSa3h4?oc=5",
+          "press": ""
+        },
+        {
+          "title": "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVE9hdmd2bm9ZemVQMWZyenNOQ0xMd2lDUUVUa2FabzliNmNVTi1TVmFtamVQLW5fZWx5SFFTN0dlV3Z6akZEd3Uwc1ZFbGU2UnNsZkxiMDlYTzRnMVVVS1Z6Y0dDdnc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“집값 폭락할 것” LH 사장의 호언… 서울 아파트값 말처럼 될까 [주말 Q&amp;A]",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mS3NiVmYweDAxX2tPeXFnWTdnWXY5UGVZLTVhQlVDbF9NQndIRXlzN05GMk04QXZKWHRCdVlBaFJHYm5POE9CQlVzUnVIZHoxTHBLcUxseXVhT3FMSE1KR1RVazIybHhLb0VvRHNR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트값 상승폭 연중 최저…강남 하락·강북 강세 '엇갈린 집값'",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DRkR6UlUxbVB0YU8xRUVlRVE4d3I1c3V2LVF5WVlnb3JneVR5a2dBblI1Zm1Ea3ViS0J4bHIwRHpielNZT3pIRGY2ZnctTEpJbHVBNW5xR3dWZ0NtVjlYWUFGYmpDZ3IxUFBuUzNWalbSAXRBVV95cUxNaVNWZ0plQ0RWQ1l3cTBSZHpvRENQZkwxTXJGUWtmMXU2cFFrcEx2anF2OGhqWUVFcDZiaVc5WjZLOVBHWUY2dUZQbUdTR0RrRG14azRwd011ZFFIZVBlcjNqNUlkeUhGZmlNTzhyZEtDNWNEQw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "10월 서울 집값 오름폭·대장주·전망지수 동시 하락",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WcGtKSEluSHlIVVNBSzJzbTRVTjluMW9sWWowbE4xVTNmMkcxcXFOd3NuODdzUzFTN0cxdUJBOEFfbXQ5aXA3bFRVSkRDeVU2cER0eC1ENGl4eTVleG14Q19DdU5CVld3aHc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "서울 아파트값 상승률 올해 최저…강남·서초 내리고 노원 올라",
+        "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+        "“집값 폭락할 것” LH 사장의 호언… 서울 아파트값 말처럼 될까 [주말 Q&amp;A]",
+        "서울 아파트값 상승폭 연중 최저…강남 하락·강북 강세 '엇갈린 집값'",
+        "10월 서울 집값 오름폭·대장주·전망지수 동시 하락"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 6,
+      "representative_title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[부동산 포커스] 강남 집값은 빠지는데…반포 원베일리 120억 ‘신고가 역주행’",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TREVVeEo1MVotbG1NY1kxODY1U0l2RG02ODlpbkN1Z2tDQzhfOXJDYXlna2cxUFp6MG44WFEySm5MQ1F2Y2FTOFNIQjE0SFlZTFRfM1pnOHRxRzVUT2pEX1J0dWxTQS1CUTU2dG1iMTY0TmPSAXdBVV95cUxOXzk2c01XM1JGQjUtSVlBR0tFdEVENGJSZHF5NFFNMzBOWXgwNUVJN1lxM3lKM2FiMTVLWVRMQTdPZHpHZUZIUkdEQm5nNjdJRC1fX0M2dmtQaVdlZG8waUJkdkpUOC1Iak5FcXpZMzVyWUtnOGdSWQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "중저가 아파트가 이끈 10월 집값…강남·서초는 하락 전환",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Y2pBNWQ5VEFqc1hUcmVIV0h5MXVfUXZ2djNFeG0ta0ZVYnBONEh3MENoenplM3lVVHJuOHRROTRmbkVOU05qaXdFcFVWWEtOckw5YUU3RmRMNlg5S0ozZnFYc1JCUS1CLWxfetIBcEFVX3lxTE1mT0QtQk9Zbm42YkpSZWotY1dSR3dPWTk5MEJoeTJsWWtQV0tTdzB0RkpXZFR1S2hyVkhaRW9MaXM2YzZiMi15anJhWFp1Uk1LSE14ZUZuSTg1N0xZdExLM2dleHNOZ2phQTNibFFOVGo?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+        "[부동산 포커스] 강남 집값은 빠지는데…반포 원베일리 120억 ‘신고가 역주행’",
+        "중저가 아파트가 이끈 10월 집값…강남·서초는 하락 전환"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "상승률",
+      "count": 5,
+      "representative_title": "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMUZ1WTNoODRhSTJsS2lOU3RjWDktN0ZRc0hRV29nQ014SlFWZHJIMWJjcnJ1R3F4SllWZFFfZERXcEFibGpja3luZzFhSW9nV1JEb2lfZGNWYkI2MzNzYmF1eGg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMUZ1WTNoODRhSTJsS2lOU3RjWDktN0ZRc0hRV29nQ014SlFWZHJIMWJjcnJ1R3F4SllWZFFfZERXcEFibGpja3luZzFhSW9nV1JEb2lfZGNWYkI2MzNzYmF1eGg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KdEVtY0ZrQVdkRGhhODJncjhzWklESkkxNFR3ODdORGJVTjU0MFF4TWlzNVdINDhYY1VrUS11a3o1QVQ2YTRhdGVJM2I1elI2VjlBUU95dnh5Vm1ZMDNjZ1p1Y2NZbE43SWxpOdIBcEFVX3lxTE1JLVhmNUpRNHMtdzFaNEF0NHprT1E5MjNtWUVfYzJReC1iZGxwN053N2otejdNNzJucmM0UzJtNE5takotSTVaejRCR19BU1VfaEs0ejQ5RHRkLUNrOVlVVXk5aTNuOHo2c3FVQnNEQ1A?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
+        "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
