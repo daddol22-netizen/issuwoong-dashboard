@@ -1,0 +1,662 @@
+{
+  "date": "2026-10-28",
+  "hour": "16",
+  "slot": "2026-10-28_16",
+  "crawled_at": "2026-10-28 16:00:01",
+  "total_articles": 408,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "하이닉스",
+      "count": 23,
+      "representative_title": "SK하이닉스 영업이익 83조…60조 추가 주주환원",
+      "representative_link": "https://n.news.naver.com/article/374/0000540237?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "SK하이닉스 \"2029년까지 3년간 D램·HBM 사실상 완판\"",
+          "link": "https://n.news.naver.com/article/214/0001531900?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "SK하이닉스, 100조 원 주주환원 꺼냈다... 삼성전자도 화답할까",
+          "link": "https://n.news.naver.com/article/469/0000962140?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "\"메모리 부족 2030년까지\"…SK하이닉스, 3년치 D램·HBM 완판",
+          "link": "https://n.news.naver.com/article/008/0005432767?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "영업익 83조 넘긴 SK하이닉스, '장기 호황' 자신…3년치 완판·100조 환원(종합)",
+          "link": "https://n.news.naver.com/article/119/0003148091?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "SK하이닉스 “2030년까지 메모리 공급 부족”… 中 CXMT발 피크아웃 우려 사실상 반박",
+          "link": "https://n.news.naver.com/article/366/0001200844?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "SK하이닉스 \"2029년까지 3년간 D램·HBM 사실상 완판\"",
+        "SK하이닉스, 100조 원 주주환원 꺼냈다... 삼성전자도 화답할까",
+        "\"메모리 부족 2030년까지\"…SK하이닉스, 3년치 D램·HBM 완판",
+        "영업익 83조 넘긴 SK하이닉스, '장기 호황' 자신…3년치 완판·100조 환원(종합)",
+        "SK하이닉스 “2030년까지 메모리 공급 부족”… 中 CXMT발 피크아웃 우려 사실상 반박"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 2,
+      "keyword": "대통령",
+      "count": 17,
+      "representative_title": "이 대통령 제안한 수출부담금…\"기업 경쟁력 약화\" 우려",
+      "representative_link": "https://n.news.naver.com/article/417/0001162367?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "“다 송금해버리니까”… 이 대통령, 외국인 노동자 발언 따져보니 [양종곤의 노동 톺아보기]",
+          "link": "https://n.news.naver.com/article/011/0004676034?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "하루 쉰 李대통령 SNS…밤부터 아침까지 10건 폭풍 게시",
+          "link": "https://n.news.naver.com/article/079/0004203838?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "\"호의인 척, 짜증 난다\"…이하늘, 이 대통령 '유시민 처벌불원'에 발끈",
+          "link": "https://n.news.naver.com/article/437/0000517899?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "李대통령 지지율 36.5%…민주 31.5%·국민의힘 40.5% [KSOI]",
+          "link": "https://n.news.naver.com/article/119/0003148041?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "이 대통령 “짜장면 좋다는 건 짬뽕 폄훼···대통령 욕하는 게 국민스포츠이던 그때가 떠오른다”",
+          "link": "https://n.news.naver.com/article/032/0003478991?ntype=RANKING",
+          "press": "경향신문"
+        }
+      ],
+      "related_titles": [
+        "“다 송금해버리니까”… 이 대통령, 외국인 노동자 발언 따져보니 [양종곤의 노동 톺아보기]",
+        "하루 쉰 李대통령 SNS…밤부터 아침까지 10건 폭풍 게시",
+        "\"호의인 척, 짜증 난다\"…이하늘, 이 대통령 '유시민 처벌불원'에 발끈",
+        "李대통령 지지율 36.5%…민주 31.5%·국민의힘 40.5% [KSOI]",
+        "이 대통령 “짜장면 좋다는 건 짬뽕 폄훼···대통령 욕하는 게 국민스포츠이던 그때가 떠오른다”"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 3,
+      "keyword": "경찰",
+      "count": 13,
+      "representative_title": "[단독] 증권·코인까지 무차별 해킹… 경찰 내사 착수",
+      "representative_link": "https://n.news.naver.com/article/005/0001881409?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "[단독] 증권·코인까지 무차별 해킹… 경찰 내사 착수",
+          "link": "https://n.news.naver.com/article/005/0001881409?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "\"인형인 줄 알았다\"...경찰, '시신유기' 2명 구속영장 방침",
+          "link": "https://n.news.naver.com/article/052/0002424847?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "교사 실명 공개하고 욕설·비방 글 쓴 학부모...경찰 고발",
+          "link": "https://n.news.naver.com/article/052/0002424816?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "구로 시신유기 피의자들 \"시체인지 몰랐다\"‥경찰, 구속영장 신청 예정",
+          "link": "https://n.news.naver.com/article/214/0001531928?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "민주, '황제 골프' 의혹 주진우 경찰 고발‥\"무책임한 흑색선전\"",
+          "link": "https://n.news.naver.com/article/214/0001531922?ntype=RANKING",
+          "press": "MBC"
+        }
+      ],
+      "related_titles": [
+        "[단독] 증권·코인까지 무차별 해킹… 경찰 내사 착수",
+        "\"인형인 줄 알았다\"...경찰, '시신유기' 2명 구속영장 방침",
+        "교사 실명 공개하고 욕설·비방 글 쓴 학부모...경찰 고발",
+        "구로 시신유기 피의자들 \"시체인지 몰랐다\"‥경찰, 구속영장 신청 예정",
+        "민주, '황제 골프' 의혹 주진우 경찰 고발‥\"무책임한 흑색선전\""
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 4,
+      "keyword": "정부",
+      "count": 11,
+      "representative_title": "정부, 엘리엇 국제투자분쟁 최종 패소…배상 책임 확정",
+      "representative_link": "https://n.news.naver.com/article/449/0000365568?ntype=RANKING",
+      "press": "채널A",
+      "related_articles": [
+        {
+          "title": "[단독] 윤석열 정부 포상시계, 알고 보니 ‘무늬만 자체 생산’… 제이에스티나 행정처분",
+          "link": "https://n.news.naver.com/article/028/0002829528?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "[속보] 정부, 엘리엇 국제투자분쟁 최종 패소…배상 책임 확정",
+          "link": "https://n.news.naver.com/article/009/0005755243?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "[속보] 정부, 엘리엇 국제투자분쟁 최종 패소...1,530억 배상 책임 확정",
+          "link": "https://n.news.naver.com/article/052/0002424897?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "8년 넘게 다툰 '엘리엇 배상'…정부, 1530억원 패소 판정 수용",
+          "link": "https://n.news.naver.com/article/437/0000517931?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "[속보] 정부, 엘리엇 ISDS 환송중재 '패소' 취소소송 제기 안 해",
+          "link": "https://n.news.naver.com/article/015/0005347500?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "[단독] 윤석열 정부 포상시계, 알고 보니 ‘무늬만 자체 생산’… 제이에스티나 행정처분",
+        "[속보] 정부, 엘리엇 국제투자분쟁 최종 패소…배상 책임 확정",
+        "[속보] 정부, 엘리엇 국제투자분쟁 최종 패소...1,530억 배상 책임 확정",
+        "8년 넘게 다툰 '엘리엇 배상'…정부, 1530억원 패소 판정 수용",
+        "[속보] 정부, 엘리엇 ISDS 환송중재 '패소' 취소소송 제기 안 해"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 5,
+      "keyword": "만원",
+      "count": 11,
+      "representative_title": "벤츠, 전기 SUV 'GLB' 사전계약…가격 6990만원",
+      "representative_link": "https://n.news.naver.com/article/629/0000546218?ntype=RANKING",
+      "press": "더팩트",
+      "related_articles": [
+        {
+          "title": "\"월급 300만원 넘나요? 대한민국 50% 안에는 듭니다\"…500만원 월급자도 '역대 최대'",
+          "link": "https://n.news.naver.com/article/014/0005595637?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "\"월급 300만원 넘나요? 대한민국 50% 안에는 듭니다\"…500만원 월급자도 '역대 최대'",
+          "link": "https://n.news.naver.com/article/014/0005595637?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”",
+          "link": "https://n.news.naver.com/article/009/0005755131?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”",
+          "link": "https://n.news.naver.com/article/009/0005755131?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "계좌에 월 1000만원 꽂힌다…국장 고수 확신한 ‘833% 종목’",
+          "link": "https://n.news.naver.com/article/025/0003561056?ntype=RANKING",
+          "press": "중앙일보"
+        }
+      ],
+      "related_titles": [
+        "\"월급 300만원 넘나요? 대한민국 50% 안에는 듭니다\"…500만원 월급자도 '역대 최대'",
+        "\"월급 300만원 넘나요? 대한민국 50% 안에는 듭니다\"…500만원 월급자도 '역대 최대'",
+        "병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”",
+        "병장이 150만원 받는데 하사 213만원…“누가 부사관 하겠습니까?”",
+        "계좌에 월 1000만원 꽂힌다…국장 고수 확신한 ‘833% 종목’"
+      ],
+      "category": "사회/일반"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 6,
+      "representative_title": "“삼전닉스 물타기 서두르지 마라”…코스피 반등의 조건은",
+      "representative_link": "https://n.news.naver.com/article/050/0000112449?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "\"외국인·기관 조 단위로 사들였다\"…삼전닉스 급등에 코스피 6000 탈환",
+          "link": "https://n.news.naver.com/article/277/0005834680?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "메타 훈풍+SK하이닉스 '역대급 실적'…코스피 5% 급등하며 6000선 근접",
+          "link": "https://n.news.naver.com/article/648/0000052012?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜",
+          "link": "https://n.news.naver.com/article/138/0002246194?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "“하이닉스 주주환원 100조원”…코스피 5% 급등, 이틀 연속 매수 사이드카",
+          "link": "https://n.news.naver.com/article/138/0002246277?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "“삼전닉스 물타기 서두르지 마라”…코스피 반등의 조건은",
+          "link": "https://n.news.naver.com/article/050/0000112449?ntype=RANKING",
+          "press": "한경비즈니스"
+        }
+      ],
+      "related_titles": [
+        "\"외국인·기관 조 단위로 사들였다\"…삼전닉스 급등에 코스피 6000 탈환",
+        "메타 훈풍+SK하이닉스 '역대급 실적'…코스피 5% 급등하며 6000선 근접",
+        "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜",
+        "“하이닉스 주주환원 100조원”…코스피 5% 급등, 이틀 연속 매수 사이드카",
+        "“삼전닉스 물타기 서두르지 마라”…코스피 반등의 조건은"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "하이닉스",
+      "count": 6,
+      "representative_title": "SK하이닉스, 저점서 20% 반등…주가 재평가 본격화하나",
+      "representative_link": "https://n.news.naver.com/article/030/0003479632?ntype=RANKING",
+      "press": "전자신문",
+      "related_articles": [
+        {
+          "title": "SK하이닉스, 올해 100조원 주주환원 본격화…주당 2만원에 내년 추가 배당",
+          "link": "https://n.news.naver.com/article/003/0014284584?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "SK하이닉스, 저점서 20% 반등…주가 재평가 본격화하나",
+          "link": "https://n.news.naver.com/article/030/0003479632?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "삼성전자·SK하이닉스, 역대 최대 주주환원 기대…저평가 탈출 기대",
+          "link": "https://n.news.naver.com/article/123/0002392753?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "“주가 저평가됐다” SK하이닉스 주당 2만 원 현금 배당…올해 100조 푼다",
+          "link": "https://n.news.naver.com/article/658/0000159691?ntype=RANKING",
+          "press": "국제신문"
+        },
+        {
+          "title": "SK하이닉스, 올해 100조원 주주환원 본격화…주당 2만원에 내년 추가 배당",
+          "link": "https://n.news.naver.com/article/003/0014284584?ntype=RANKING",
+          "press": "뉴시스"
+        }
+      ],
+      "related_titles": [
+        "SK하이닉스, 올해 100조원 주주환원 본격화…주당 2만원에 내년 추가 배당",
+        "SK하이닉스, 저점서 20% 반등…주가 재평가 본격화하나",
+        "삼성전자·SK하이닉스, 역대 최대 주주환원 기대…저평가 탈출 기대",
+        "“주가 저평가됐다” SK하이닉스 주당 2만 원 현금 배당…올해 100조 푼다",
+        "SK하이닉스, 올해 100조원 주주환원 본격화…주당 2만원에 내년 추가 배당"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "투자",
+      "count": 4,
+      "representative_title": "AI 투자, 누가 지속하고 실제 이익으로 연결하느냐가 관건",
+      "representative_link": "https://n.news.naver.com/article/037/0000039051?ntype=RANKING",
+      "press": "주간동아",
+      "related_articles": [
+        {
+          "title": "\"90억 있어도 퇴사 못 하겠어요\"…'투자 대박' 40대 대기업 직장인의 뜻밖의 고민",
+          "link": "https://n.news.naver.com/article/277/0005834343?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "키옥시아 투자 결실, 주주에게…씁쓸함 남긴 '솔리다임 IPO 중단'",
+          "link": "https://n.news.naver.com/article/629/0000546438?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "[금융 꿀팁] ‘로또 1등’ 13억원 목돈 생긴다면…“적립식 분할 투자 추천”",
+          "link": "https://n.news.naver.com/article/662/0000107088?ntype=RANKING",
+          "press": "농민신문"
+        },
+        {
+          "title": "AI 투자, 누가 지속하고 실제 이익으로 연결하느냐가 관건",
+          "link": "https://n.news.naver.com/article/037/0000039051?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "\"90억 있어도 퇴사 못 하겠어요\"…'투자 대박' 40대 대기업 직장인의 뜻밖의 고민",
+          "link": "https://n.news.naver.com/article/277/0005834343?ntype=RANKING",
+          "press": "아시아경제"
+        }
+      ],
+      "related_titles": [
+        "\"90억 있어도 퇴사 못 하겠어요\"…'투자 대박' 40대 대기업 직장인의 뜻밖의 고민",
+        "키옥시아 투자 결실, 주주에게…씁쓸함 남긴 '솔리다임 IPO 중단'",
+        "[금융 꿀팁] ‘로또 1등’ 13억원 목돈 생긴다면…“적립식 분할 투자 추천”",
+        "AI 투자, 누가 지속하고 실제 이익으로 연결하느냐가 관건",
+        "\"90억 있어도 퇴사 못 하겠어요\"…'투자 대박' 40대 대기업 직장인의 뜻밖의 고민"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성전자",
+      "count": 4,
+      "representative_title": "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박",
+      "representative_link": "https://n.news.naver.com/article/374/0000540138?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박",
+          "link": "https://n.news.naver.com/article/374/0000540138?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "갤럭시 성능 제한 숨겨 과징금 201억원…삼성전자 “법적 대응”",
+          "link": "https://n.news.naver.com/article/024/0000109206?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "삼성전자 \"소비자들도 訴 취하했는데\"…공정위만 200억 과징금 부과",
+          "link": "https://n.news.naver.com/article/293/0000092271?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박",
+          "link": "https://n.news.naver.com/article/374/0000540138?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "갤럭시 성능 제한 숨겨 과징금 201억원…삼성전자 “법적 대응”",
+          "link": "https://n.news.naver.com/article/024/0000109206?ntype=RANKING",
+          "press": "매경이코노미"
+        }
+      ],
+      "related_titles": [
+        "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박",
+        "갤럭시 성능 제한 숨겨 과징금 201억원…삼성전자 “법적 대응”",
+        "삼성전자 \"소비자들도 訴 취하했는데\"…공정위만 200억 과징금 부과",
+        "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박",
+        "갤럭시 성능 제한 숨겨 과징금 201억원…삼성전자 “법적 대응”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "조원",
+      "count": 3,
+      "representative_title": "이재용 올해 주식 5조원 취득…3살 재벌가 손자는 145억원",
+      "representative_link": "https://n.news.naver.com/article/053/0000062645?ntype=RANKING",
+      "press": "주간조선",
+      "related_articles": [
+        {
+          "title": "이재용 올해 주식 5조원 취득…3살 재벌가 손자는 145억원",
+          "link": "https://n.news.naver.com/article/053/0000062645?ntype=RANKING",
+          "press": "주간조선"
+        },
+        {
+          "title": "이재용 올해 주식 5조원 취득…3살 재벌가 손자는 145억원",
+          "link": "https://n.news.naver.com/article/053/0000062645?ntype=RANKING",
+          "press": "주간조선"
+        },
+        {
+          "title": "이재용 올해 주식 5조원 취득…3살 재벌가 손자는 145억원",
+          "link": "https://n.news.naver.com/article/053/0000062645?ntype=RANKING",
+          "press": "주간조선"
+        }
+      ],
+      "related_titles": [
+        "이재용 올해 주식 5조원 취득…3살 재벌가 손자는 145억원",
+        "이재용 올해 주식 5조원 취득…3살 재벌가 손자는 145억원",
+        "이재용 올해 주식 5조원 취득…3살 재벌가 손자는 145억원"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "영재",
+      "series_title": "영재의 몰락",
+      "count": 2,
+      "representative_title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzIwdjEtQm9hSUM4ZDBSZlVHdlhTVWZGR2cxVU9mc1JqcVBMeW53c184WExBX3dTSGJXWHUtRWJrMGlOaXh4QVNpY0Zja2JhaXBvcUxFdlBRd3I3Tk1QeGdBRGVRc29xRm1GWm9rQmVkaWU0cUhITmlyNDhGQ3VXNDloRdIBlwFBVV95cUxOQmRvNlhGR1B6M1NjdFZaakpNN0lzOWc0bzJMN0x0ZTJlblBsd0NwRmZ0N3dQYmROZzltX254b3A5Z2g4YS13N3MyTUp4MTJnRy1FTEJFYzA4bEZhaC1wdlI0ekNwN1ZlNGg0S0ZORWxkQWJHM2hjdmRaNkRycXJoMnFCWnVjZ2UwNUctRURDVzFIN20yX1hJ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+        "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "천재",
+      "series_title": "천재의 몰락",
+      "count": 2,
+      "representative_title": "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWk9hS3JrTkxlWFNGdGlOOU1KWkRabmxRdW9zQ3FkS29aMWF1ZWRqcy14NTFEaTV5VGxTMnhKd3BJQ09vQ2VNcWtLMVlVTzA5T05XRzVHZVpyTm1tc0I5U1ZOU0s4QQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "그야말로 파격 결단! 몰락한 천재 감독 맨체스터 유나이티드에서 부활의 날개 펼치나…\"내부 인사들의 지지가 점점 커지고 있어\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SbWpUbmN6X28zS2tBSTlna1RiRnhaeDltOHF5M2hNZVEzZUFfQjMtWFllNXo1b0QyMHA1VWJjclUtZUlOQ2U4SEhoUkZhY25yOUoweDdBTkNkVERrRDhicA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\"",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWk9hS3JrTkxlWFNGdGlOOU1KWkRabmxRdW9zQ3FkS29aMWF1ZWRqcy14NTFEaTV5VGxTMnhKd3BJQ09vQ2VNcWtLMVlVTzA5T05XRzVHZVpyTm1tc0I5U1ZOU0s4QQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "그야말로 파격 결단! 몰락한 천재 감독 맨체스터 유나이티드에서 부활의 날개 펼치나…\"내부 인사들의 지지가 점점 커지고 있어\"",
+        "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 2,
+      "representative_title": "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+      "representative_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNampVRjNIUndFNHU3OVNHdnBGUTFjelpIZTNEZ2xGdW80SkxqMHh4SmViWWJmR1R6VFhRR2xyZHE0bG1TMWI3eHhuSFpFWGh3bzBObkd3VjNvQzhWclV5Vjc3Wi1NVW5SZ2FMY3BtTEpFWFdlckJZRkdfOFFhLS1SNTc3TGt1LXhSRkpuNUoxWFBXa0VKVm1hcDNxdWlVY0FSekJVTkRRSGVMa2tLWUNhQVl6eXpsTDE5bGRPVzk3WDQtbkRsYTdiYm1SSlVzdmZ1NkJEYU1ubHctcWF1UDF4SDZtZlN4ZFI5aFVMb05QZ1VYRmFlZmVfeVhvMUZScm1Ja2hjV2dLRmdDY2ZaRXpWbnZ0YmxYZ1lK?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNampVRjNIUndFNHU3OVNHdnBGUTFjelpIZTNEZ2xGdW80SkxqMHh4SmViWWJmR1R6VFhRR2xyZHE0bG1TMWI3eHhuSFpFWGh3bzBObkd3VjNvQzhWclV5Vjc3Wi1NVW5SZ2FMY3BtTEpFWFdlckJZRkdfOFFhLS1SNTc3TGt1LXhSRkpuNUoxWFBXa0VKVm1hcDNxdWlVY0FSekJVTkRRSGVMa2tLWUNhQVl6eXpsTDE5bGRPVzk3WDQtbkRsYTdiYm1SSlVzdmZ1NkJEYU1ubHctcWF1UDF4SDZtZlN4ZFI5aFVMb05QZ1VYRmFlZmVfeVhvMUZScm1Ja2hjV2dLRmdDY2ZaRXpWbnZ0YmxYZ1lK?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\"",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EbnJ1cDN3S1p3a2JXMVVtZGZjMlZLZlplcGhRVHJZSzlidGJIWEF1RURWWnY0MVRmYzRKWUM5TC1faUVjWW9ybWJ1czRlZXMxRDdQbHZyV3dWaWNMVjNuN1dJSVkxcUlWa2wzV3FYTQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+        "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "음바페",
+      "series_title": "음바페의 몰락",
+      "count": 1,
+      "representative_title": "중국 인민일보 \"음바페 몰락은 외국 스타들의 거울\"…‘마오쩌둥’ 논란 일파만파",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02TUktLWNoZ2ZaSURJa2xPTFRyS0ptYllWV1RWWV80bzlLZzNfbHdPRGhXeFB3MnNNQmI4REJ5ZzJUak9ZS21jWmEtN2dobFJzU0hyUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "중국 인민일보 \"음바페 몰락은 외국 스타들의 거울\"…‘마오쩌둥’ 논란 일파만파",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02TUktLWNoZ2ZaSURJa2xPTFRyS0ptYllWV1RWWV80bzlLZzNfbHdPRGhXeFB3MnNNQmI4REJ5ZzJUak9ZS21jWmEtN2dobFJzU0hyUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "중국 인민일보 \"음바페 몰락은 외국 스타들의 거울\"…‘마오쩌둥’ 논란 일파만파"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "결국",
+      "series_title": "결국의 몰락",
+      "count": 1,
+      "representative_title": "김정오 목사 “탐심은 거짓을 낳고, 결국 몰락으로 이어진다” : 한인교회 : 미주 종교신문1위",
+      "representative_link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPOGcyazgzbllFNUhaZUNWc3A0LXRLdTZDOVBIaDlDQTFZaVMyWWdxa3FKQzFXc3ZwX2llSkVhbENXcm9vU2wxdGVJc0lQMFV4QU4yMHNTUDVoblU5OUdrNVNpSDkxU1VTYXdpUEhQU3FlRFExTHhialQxV1NMRktDcHpJUS1RZmpyMEwydElzZ1VPTnh1UDU1d3RBaHdpcVJmQnhwRDNxQmozSVNndkhhZ2hsNzdyTm1zQmlTcDNFLTJYS3J3V0ZpMEdKbnBWVEs1bi1xZUIxVGl5N2tuM19WRC05NGE2VHlyandxeVJhd1h0MWhBOHJ2OVl6QktmMXZsejBIajJTMUdfb0NscUJWWlI4eFBRbEF1R294U0NYZ3A5cWFnWjc4QklxSDBDdHVRRWZIZkFFRlJiSUVWSE5LMkZXWUdfR2lYelRxbmlnNzZaeUd1SWExVnNJcm1Jakt1dklQTzVkMTVtbzVUc2JySmhUeGtZSl9hR3VVYWpHZzItc3ZOeXJnT1Y4M18?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "김정오 목사 “탐심은 거짓을 낳고, 결국 몰락으로 이어진다” : 한인교회 : 미주 종교신문1위",
+          "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPOGcyazgzbllFNUhaZUNWc3A0LXRLdTZDOVBIaDlDQTFZaVMyWWdxa3FKQzFXc3ZwX2llSkVhbENXcm9vU2wxdGVJc0lQMFV4QU4yMHNTUDVoblU5OUdrNVNpSDkxU1VTYXdpUEhQU3FlRFExTHhialQxV1NMRktDcHpJUS1RZmpyMEwydElzZ1VPTnh1UDU1d3RBaHdpcVJmQnhwRDNxQmozSVNndkhhZ2hsNzdyTm1zQmlTcDNFLTJYS3J3V0ZpMEdKbnBWVEs1bi1xZUIxVGl5N2tuM19WRC05NGE2VHlyandxeVJhd1h0MWhBOHJ2OVl6QktmMXZsejBIajJTMUdfb0NscUJWWlI4eFBRbEF1R294U0NYZ3A5cWFnWjc4QklxSDBDdHVRRWZIZkFFRlJiSUVWSE5LMkZXWUdfR2lYelRxbmlnNzZaeUd1SWExVnNJcm1Jakt1dklQTzVkMTVtbzVUc2JySmhUeGtZSl9hR3VVYWpHZzItc3ZOeXJnT1Y4M18?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "김정오 목사 “탐심은 거짓을 낳고, 결국 몰락으로 이어진다” : 한인교회 : 미주 종교신문1위"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 9,
+      "representative_title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+      "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVE9hdmd2bm9ZemVQMWZyenNOQ0xMd2lDUUVUa2FabzliNmNVTi1TVmFtamVQLW5fZWx5SFFTN0dlV3Z6akZEd3Uwc1ZFbGU2UnNsZkxiMDlYTzRnMVVVS1Z6Y0dDdnc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“집값 폭락할 것” LH 사장의 호언… 서울 아파트값 말처럼 될까 [주말 Q&amp;A]",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mS3NiVmYweDAxX2tPeXFnWTdnWXY5UGVZLTVhQlVDbF9NQndIRXlzN05GMk04QXZKWHRCdVlBaFJHYm5POE9CQlVzUnVIZHoxTHBLcUxseXVhT3FMSE1KR1RVazIybHhLb0VvRHNR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트값 상승률 올해 최저…강남·서초 내리고 노원 올라",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PX2M3UmYya3hKNHJzTXp1Q2doSEFtSU9iejdsYjhXM19Vc0xqczZOaXJMOWk5QmJ0ejhETWpJRTExOXhHTUU1a0NpbWtMQndxN2tmZ29jeWVSa3h4?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트값 상승폭 연중 최저…강남 하락·강북 강세 '엇갈린 집값'",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DRkR6UlUxbVB0YU8xRUVlRVE4d3I1c3V2LVF5WVlnb3JneVR5a2dBblI1Zm1Ea3ViS0J4bHIwRHpielNZT3pIRGY2ZnctTEpJbHVBNW5xR3dWZ0NtVjlYWUFGYmpDZ3IxUFBuUzNWalbSAXRBVV95cUxNaVNWZ0plQ0RWQ1l3cTBSZHpvRENQZkwxTXJGUWtmMXU2cFFrcEx2anF2OGhqWUVFcDZiaVc5WjZLOVBHWUY2dUZQbUdTR0RrRG14azRwd011ZFFIZVBlcjNqNUlkeUhGZmlNTzhyZEtDNWNEQw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+        "“집값 폭락할 것” LH 사장의 호언… 서울 아파트값 말처럼 될까 [주말 Q&amp;A]",
+        "서울 아파트값 상승률 올해 최저…강남·서초 내리고 노원 올라",
+        "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+        "서울 아파트값 상승폭 연중 최저…강남 하락·강북 강세 '엇갈린 집값'"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 7,
+      "representative_title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXgxbGxjaVo0ejh3LS1VS0JhU0Z2MGhNSWxvRU9SVGlmY191SUw2aVlZMkRiRlE4eDhxeXZUczN0aWtoRFcydUtTSGd0UjZLbHZhLXBpN2NCZ3VuN3luSWotWU0zOHJlT1N2OS1mbmQxYnRaTVB0OFNZeU96UzA2TDhDQQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“지방 아파트 30채 팔아야 강남 1채” 전국 집값 격차 역대 ‘최대’ [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96cjNTNzZxeVFpaGx1eC1xZmgxdnR1ZHpSc0Y1aWhMUEM5d25BdUNzNlNzOXJzOWhHeDhVRmF4VGlyLXowLWF3aGpYcVVuNVZvbUZrMHNR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "중저가 아파트가 이끈 10월 집값…강남·서초는 하락 전환",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Y2pBNWQ5VEFqc1hUcmVIV0h5MXVfUXZ2djNFeG0ta0ZVYnBONEh3MENoenplM3lVVHJuOHRROTRmbkVOU05qaXdFcFVWWEtOckw5YUU3RmRMNlg5S0ozZnFYc1JCUS1CLWxfetIBcEFVX3lxTE1mT0QtQk9Zbm42YkpSZWotY1dSR3dPWTk5MEJoeTJsWWtQV0tTdzB0RkpXZFR1S2hyVkhaRW9MaXM2YzZiMi15anJhWFp1Uk1LSE14ZUZuSTg1N0xZdExLM2dleHNOZ2phQTNibFFOVGo?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[부동산 포커스] 강남 집값은 빠지는데…반포 원베일리 120억 ‘신고가 역주행’",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TREVVeEo1MVotbG1NY1kxODY1U0l2RG02ODlpbkN1Z2tDQzhfOXJDYXlna2cxUFp6MG44WFEySm5MQ1F2Y2FTOFNIQjE0SFlZTFRfM1pnOHRxRzVUT2pEX1J0dWxTQS1CUTU2dG1iMTY0TmPSAXdBVV95cUxOXzk2c01XM1JGQjUtSVlBR0tFdEVENGJSZHF5NFFNMzBOWXgwNUVJN1lxM3lKM2FiMTVLWVRMQTdPZHpHZUZIUkdEQm5nNjdJRC1fX0M2dmtQaVdlZG8waUJkdkpUOC1Iak5FcXpZMzVyWUtnOGdSWQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”",
+        "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+        "“지방 아파트 30채 팔아야 강남 1채” 전국 집값 격차 역대 ‘최대’ [부동산360]",
+        "중저가 아파트가 이끈 10월 집값…강남·서초는 하락 전환",
+        "[부동산 포커스] 강남 집값은 빠지는데…반포 원베일리 120억 ‘신고가 역주행’"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "상승률",
+      "count": 5,
+      "representative_title": "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMUZ1WTNoODRhSTJsS2lOU3RjWDktN0ZRc0hRV29nQ014SlFWZHJIMWJjcnJ1R3F4SllWZFFfZERXcEFibGpja3luZzFhSW9nV1JEb2lfZGNWYkI2MzNzYmF1eGg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMUZ1WTNoODRhSTJsS2lOU3RjWDktN0ZRc0hRV29nQ014SlFWZHJIMWJjcnJ1R3F4SllWZFFfZERXcEFibGpja3luZzFhSW9nV1JEb2lfZGNWYkI2MzNzYmF1eGg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KdEVtY0ZrQVdkRGhhODJncjhzWklESkkxNFR3ODdORGJVTjU0MFF4TWlzNVdINDhYY1VrUS11a3o1QVQ2YTRhdGVJM2I1elI2VjlBUU95dnh5Vm1ZMDNjZ1p1Y2NZbE43SWxpOdIBcEFVX3lxTE1JLVhmNUpRNHMtdzFaNEF0NHprT1E5MjNtWUVfYzJReC1iZGxwN053N2otejdNNzJucmM0UzJtNE5takotSTVaejRCR19BU1VfaEs0ejQ5RHRkLUNrOVlVVXk5aTNuOHo2c3FVQnNEQ1A?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "지방 부동산 시장 침체 속 집값 상승률 1위 '전북'",
+        "지방 부동산 시장 침체 속 집값 상승률 1위 ‘전북’ 훈풍 어디까지"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
