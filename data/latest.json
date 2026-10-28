@@ -1,151 +1,134 @@
 {
   "date": "2026-10-28",
-  "hour": "07",
-  "slot": "2026-10-28_07",
-  "crawled_at": "2026-10-28 07:00:12",
-  "total_articles": 409,
+  "hour": "10",
+  "slot": "2026-10-28_10",
+  "crawled_at": "2026-10-28 10:00:04",
+  "total_articles": 410,
   "topics": [
     {
       "rank": 1,
-      "keyword": "구속",
-      "count": 19,
-      "representative_title": "김건희 구속 만료 4일 앞두고 추가 영장 발부",
-      "representative_link": "https://n.news.naver.com/article/055/0001398564?ntype=RANKING",
-      "press": "SBS",
+      "keyword": "하이닉스",
+      "count": 36,
+      "representative_title": "SK하이닉스, 60조원 대규모 추가 주주환원 발표",
+      "representative_link": "https://n.news.naver.com/article/666/0000129470?ntype=RANKING",
+      "press": "경기일보",
       "related_articles": [
         {
-          "title": "대법, 김건희 구속 2개월 연장...\"증거 인멸·도망 염려\"",
-          "link": "https://n.news.naver.com/article/052/0002424562?ntype=RANKING",
-          "press": "YTN"
+          "title": "[속보] SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입",
+          "link": "https://n.news.naver.com/article/001/0016404868?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "5·18 희생자 ‘북한군’ 비하 지만원 구속...“도주·증거인멸 우려”",
-          "link": "https://n.news.naver.com/article/666/0000129451?ntype=RANKING",
-          "press": "경기일보"
-        },
-        {
-          "title": "김건희, 구속 심사서 \"윤석열 얼마나 깨끗한가\" 매관매직 의혹 부인",
-          "link": "https://n.news.naver.com/article/214/0001531751?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "김건희 구속 만료 4일 앞두고 추가 영장 발부",
-          "link": "https://n.news.naver.com/article/055/0001398564?ntype=RANKING",
+          "title": "SK하이닉스, 60조 원 추가 주주환원…배당·자사주 매입",
+          "link": "https://n.news.naver.com/article/055/0001398681?ntype=RANKING",
           "press": "SBS"
         },
         {
-          "title": "술집서 손님 폭행하고 출동 경찰관에 침 뱉은 10대 구속",
-          "link": "https://n.news.naver.com/article/087/0001226705?ntype=RANKING",
-          "press": "강원일보"
-        }
-      ],
-      "related_titles": [
-        "대법, 김건희 구속 2개월 연장...\"증거 인멸·도망 염려\"",
-        "5·18 희생자 ‘북한군’ 비하 지만원 구속...“도주·증거인멸 우려”",
-        "김건희, 구속 심사서 \"윤석열 얼마나 깨끗한가\" 매관매직 의혹 부인",
-        "김건희 구속 만료 4일 앞두고 추가 영장 발부",
-        "술집서 손님 폭행하고 출동 경찰관에 침 뱉은 10대 구속"
-      ],
-      "category": "사건/사고"
-    },
-    {
-      "rank": 2,
-      "keyword": "김건희",
-      "count": 17,
-      "representative_title": "\"억울하고 건강 안좋아\" 호소했지만 김건희 석방 막혔다",
-      "representative_link": "https://n.news.naver.com/article/047/0002533715?ntype=RANKING",
-      "press": "오마이뉴스",
-      "related_articles": [
-        {
-          "title": "\"억울하고 건강 안좋아\" 호소했지만 김건희 석방 막혔다",
-          "link": "https://n.news.naver.com/article/047/0002533715?ntype=RANKING",
-          "press": "오마이뉴스"
-        },
-        {
-          "title": "김건희 추가 구속영장 발부…대법 “증거 인멸·도주 우려”",
-          "link": "https://n.news.naver.com/article/028/0002829438?ntype=RANKING",
+          "title": "SK하이닉스, 3분기 영업이익 83조 ‘어닝 서프라이즈’",
+          "link": "https://n.news.naver.com/article/028/0002829496?ntype=RANKING",
           "press": "한겨레"
         },
         {
-          "title": "오경미 대법관 김건희 만기 나흘전 구속영장 발부 \"증거인멸 도망 염려\"",
-          "link": "https://n.news.naver.com/article/006/0000138433?ntype=RANKING",
-          "press": "미디어오늘"
+          "title": "SK하이닉스 3분기 영업이익 83조 3천억 원…지난해보다 632%↑",
+          "link": "https://n.news.naver.com/article/056/0012282209?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "김건희 연말까지 구속기간 연장…대법 \"도주·증거인멸 우려\"",
-          "link": "https://n.news.naver.com/article/422/0000920105?ntype=RANKING",
-          "press": "연합뉴스TV"
-        },
-        {
-          "title": "검사들은 김건희 주가조작 불기소를 위해 어떻게 움직였나",
-          "link": "https://n.news.naver.com/article/607/0000003572?ntype=RANKING",
-          "press": "뉴스타파"
+          "title": "SK하이닉스, 영업익 83조 '역대 최대'…60조 추가 주주환원",
+          "link": "https://n.news.naver.com/article/437/0000517866?ntype=RANKING",
+          "press": "JTBC"
         }
       ],
       "related_titles": [
-        "\"억울하고 건강 안좋아\" 호소했지만 김건희 석방 막혔다",
-        "김건희 추가 구속영장 발부…대법 “증거 인멸·도주 우려”",
-        "오경미 대법관 김건희 만기 나흘전 구속영장 발부 \"증거인멸 도망 염려\"",
-        "김건희 연말까지 구속기간 연장…대법 \"도주·증거인멸 우려\"",
-        "검사들은 김건희 주가조작 불기소를 위해 어떻게 움직였나"
+        "[속보] SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입",
+        "SK하이닉스, 60조 원 추가 주주환원…배당·자사주 매입",
+        "SK하이닉스, 3분기 영업이익 83조 ‘어닝 서프라이즈’",
+        "SK하이닉스 3분기 영업이익 83조 3천억 원…지난해보다 632%↑",
+        "SK하이닉스, 영업익 83조 '역대 최대'…60조 추가 주주환원"
       ],
-      "category": "건강/의료"
+      "category": "산업/테크"
+    },
+    {
+      "rank": 2,
+      "keyword": "분기",
+      "count": 21,
+      "representative_title": "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박",
+      "representative_link": "https://n.news.naver.com/article/374/0000540138?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "삼성, 29일 3분기 세부실적 공개...엔비디아 제치고 영업이익 세계 1위 오를까?",
+          "link": "https://n.news.naver.com/article/660/0000120062?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박",
+          "link": "https://n.news.naver.com/article/374/0000540138?ntype=RANKING",
+          "press": "SBS Biz"
+        }
+      ],
+      "related_titles": [
+        "삼성, 29일 3분기 세부실적 공개...엔비디아 제치고 영업이익 세계 1위 오를까?",
+        "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박"
+      ],
+      "category": "산업/테크"
     },
     {
       "rank": 3,
-      "keyword": "구룡마을",
-      "count": 15,
-      "representative_title": "구룡마을 화재 확산 중…\"용수 부족해 진압 어려움\"",
-      "representative_link": "https://n.news.naver.com/article/082/0001404397?ntype=RANKING",
-      "press": "부산일보",
+      "keyword": "조원",
+      "count": 19,
+      "representative_title": "이재용, 올해 주식 5조원 순취득…대기업 오너 일가 1위",
+      "representative_link": "https://n.news.naver.com/article/654/0000207907?ntype=RANKING",
+      "press": "강원도민일보",
       "related_articles": [
         {
-          "title": "올해만 벌써 두 번째...구룡마을 왜 큰불 반복될까?",
-          "link": "https://n.news.naver.com/article/052/0002424625?ntype=RANKING",
-          "press": "YTN"
+          "title": "“韓 항공사, 2조원 배상하라” 소송 건 승객들…美 법원 판결금액은 ‘0원’, 무슨일?",
+          "link": "https://n.news.naver.com/article/011/0004675881?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "구룡마을 7시간 만에 주불 진압…축구장 26개 면적 전소",
-          "link": "https://n.news.naver.com/article/005/0001881310?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "구룡마을 올해 두번째 큰불... 주민들 속이 타들어 갔다",
-          "link": "https://n.news.naver.com/article/023/0004006215?ntype=RANKING",
-          "press": "조선일보"
-        },
-        {
-          "title": "[속보] '강남 마지막 판자촌' 구룡마을 화재…소방당국 진화 중",
-          "link": "https://n.news.naver.com/article/654/0000207748?ntype=RANKING",
+          "title": "이재용, 올해 주식 5조원 순취득…대기업 오너 일가 1위",
+          "link": "https://n.news.naver.com/article/654/0000207907?ntype=RANKING",
           "press": "강원도민일보"
-        },
-        {
-          "title": "'강남 마지막 판자촌' 구룡마을 화재 큰불 잡혔다…\"잔불 정리 중\"(종합)",
-          "link": "https://n.news.naver.com/article/421/0009254050?ntype=RANKING",
-          "press": "뉴스1"
         }
       ],
       "related_titles": [
-        "올해만 벌써 두 번째...구룡마을 왜 큰불 반복될까?",
-        "구룡마을 7시간 만에 주불 진압…축구장 26개 면적 전소",
-        "구룡마을 올해 두번째 큰불... 주민들 속이 타들어 갔다",
-        "[속보] '강남 마지막 판자촌' 구룡마을 화재…소방당국 진화 중",
-        "'강남 마지막 판자촌' 구룡마을 화재 큰불 잡혔다…\"잔불 정리 중\"(종합)"
+        "“韓 항공사, 2조원 배상하라” 소송 건 승객들…美 법원 판결금액은 ‘0원’, 무슨일?",
+        "이재용, 올해 주식 5조원 순취득…대기업 오너 일가 1위"
       ],
-      "category": "사회/일반"
+      "category": "경제/투자"
     },
     {
       "rank": 4,
-      "keyword": "대통령",
-      "count": 10,
-      "representative_title": "\"꺼져!\" 욕설 난무한 박정희 추모식…李대통령 화환 결국",
-      "representative_link": "https://n.news.naver.com/article/088/0001036854?ntype=RANKING",
-      "press": "매일신문",
+      "keyword": "주주환원",
+      "count": 17,
+      "representative_title": "삼전·닉스 120조 역대급 주주환원 온다…증시 반등 계기될까",
+      "representative_link": "https://n.news.naver.com/article/003/0014282857?ntype=RANKING",
+      "press": "뉴시스",
       "related_articles": [
         {
-          "title": "\"외국인 노동자, 국가 경제에 크게 도움 안된다\" 이 대통령 발언에 파장",
-          "link": "https://n.news.naver.com/article/469/0000962041?ntype=RANKING",
-          "press": "한국일보"
+          "title": "삼전·닉스 120조 역대급 주주환원 온다…증시 반등 계기될까",
+          "link": "https://n.news.naver.com/article/003/0014282857?ntype=RANKING",
+          "press": "뉴시스"
+        }
+      ],
+      "related_titles": [
+        "삼전·닉스 120조 역대급 주주환원 온다…증시 반등 계기될까"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 5,
+      "keyword": "대통령",
+      "count": 14,
+      "representative_title": "李대통령 “외국인노동자, 국가경제 크게 도움 안된다”",
+      "representative_link": "https://n.news.naver.com/article/021/0002828308?ntype=RANKING",
+      "press": "문화일보",
+      "related_articles": [
+        {
+          "title": "李대통령 \"자기만 개혁주체인 양 동지 공격…무책임한 극단주의\"",
+          "link": "https://n.news.naver.com/article/001/0016404776?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
           "title": "“송 장관이 농지조사 제안” 이 대통령 해명에…“이제 장관 탓” 비판",
@@ -153,92 +136,154 @@
           "press": "한겨레"
         },
         {
-          "title": "[속보]尹 “장기독재하려 계엄? 미쳤다고 힘든 대통령 오래하나”",
-          "link": "https://n.news.naver.com/article/021/0002828268?ntype=RANKING",
-          "press": "문화일보"
+          "title": "이 대통령 “자기만 개혁 주체인 양 선동…무책임한 극단주의”",
+          "link": "https://n.news.naver.com/article/032/0003478983?ntype=RANKING",
+          "press": "경향신문"
         },
         {
-          "title": "윤석열 \"아내가 '대통령 직위 좀 즐기지' 했지만…할 일은 해야\"",
-          "link": "https://n.news.naver.com/article/057/0001975410?ntype=RANKING",
+          "title": "'무극파 발언 사과' 요구에…이 대통령 \"기분 나쁘다면 되돌아보라\"",
+          "link": "https://n.news.naver.com/article/057/0001975430?ntype=RANKING",
           "press": "MBN"
         },
         {
-          "title": "\"꺼져!\" 욕설 난무한 박정희 추모식…李대통령 화환 결국",
-          "link": "https://n.news.naver.com/article/088/0001036854?ntype=RANKING",
-          "press": "매일신문"
+          "title": "이 대통령 \"'외국인 노동자보다는 국내경제에 더 크게 도움되는 내국인 고용 늘려야\"",
+          "link": "https://n.news.naver.com/article/003/0014282950?ntype=RANKING",
+          "press": "뉴시스"
         }
       ],
       "related_titles": [
-        "\"외국인 노동자, 국가 경제에 크게 도움 안된다\" 이 대통령 발언에 파장",
+        "李대통령 \"자기만 개혁주체인 양 동지 공격…무책임한 극단주의\"",
         "“송 장관이 농지조사 제안” 이 대통령 해명에…“이제 장관 탓” 비판",
-        "[속보]尹 “장기독재하려 계엄? 미쳤다고 힘든 대통령 오래하나”",
-        "윤석열 \"아내가 '대통령 직위 좀 즐기지' 했지만…할 일은 해야\"",
-        "\"꺼져!\" 욕설 난무한 박정희 추모식…李대통령 화환 결국"
+        "이 대통령 “자기만 개혁 주체인 양 선동…무책임한 극단주의”",
+        "'무극파 발언 사과' 요구에…이 대통령 \"기분 나쁘다면 되돌아보라\"",
+        "이 대통령 \"'외국인 노동자보다는 국내경제에 더 크게 도움되는 내국인 고용 늘려야\""
       ],
       "category": "정치"
-    },
-    {
-      "rank": 5,
-      "keyword": "시신",
-      "count": 10,
-      "representative_title": "[속보] 구로구 주택가서 비닐·신문에 싸인 시신 발견",
-      "representative_link": "https://n.news.naver.com/article/082/0001404354?ntype=RANKING",
-      "press": "부산일보",
-      "related_articles": [
-        {
-          "title": "주택가 쓰레기 더미서 미라 시신 발견…경찰 “신원 확인 중”",
-          "link": "https://n.news.naver.com/article/056/0012281965?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "구로구 주택가서 비닐·신문에 싸인 시신 발견…60대·80대 남성 긴급체포",
-          "link": "https://n.news.naver.com/article/654/0000207793?ntype=RANKING",
-          "press": "강원도민일보"
-        },
-        {
-          "title": "구로구 주택가서 비닐과 신문에 싸인 시신 발견…60대·80대 남성 2명 긴급체포",
-          "link": "https://n.news.naver.com/article/087/0001226678?ntype=RANKING",
-          "press": "강원일보"
-        },
-        {
-          "title": "도심 주택가에서 미라 시신 발견…80대 남성 등 2명 긴급 체포",
-          "link": "https://n.news.naver.com/article/081/0003693048?ntype=RANKING",
-          "press": "서울신문"
-        },
-        {
-          "title": "서울 구로구 '미라화' 시신 유기한 한국인 남성 2명 체포(종합)[영상]",
-          "link": "https://n.news.naver.com/article/079/0004203628?ntype=RANKING",
-          "press": "노컷뉴스"
-        }
-      ],
-      "related_titles": [
-        "주택가 쓰레기 더미서 미라 시신 발견…경찰 “신원 확인 중”",
-        "구로구 주택가서 비닐·신문에 싸인 시신 발견…60대·80대 남성 긴급체포",
-        "구로구 주택가서 비닐과 신문에 싸인 시신 발견…60대·80대 남성 2명 긴급체포",
-        "도심 주택가에서 미라 시신 발견…80대 남성 등 2명 긴급 체포",
-        "서울 구로구 '미라화' 시신 유기한 한국인 남성 2명 체포(종합)[영상]"
-      ],
-      "category": "사건/사고"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "삼성전자",
-      "count": 4,
-      "representative_title": "갤럭시 성능 제한 숨겼다...삼성전자, 과징금 201억원",
-      "representative_link": "https://n.news.naver.com/article/024/0000109206?ntype=RANKING",
-      "press": "매경이코노미",
+      "keyword": "하이닉스",
+      "count": 7,
+      "representative_title": "SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입",
+      "representative_link": "https://n.news.naver.com/article/374/0000540166?ntype=RANKING",
+      "press": "SBS Biz",
       "related_articles": [
+        {
+          "title": "[속보] SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입",
+          "link": "https://n.news.naver.com/article/001/0016404868?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "SK하이닉스, 100조 원 주주환원... 자사주 소각 60조 원·배당 30조 원 이상",
+          "link": "https://n.news.naver.com/article/469/0000962083?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "SK하이닉스, 60조 원 추가 주주환원…배당·자사주 매입",
+          "link": "https://n.news.naver.com/article/055/0001398681?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "\"하이닉스 실적 앞두고 엇갈린 外人\"…삼성 사고 SK 팔았다",
+          "link": "https://n.news.naver.com/article/003/0014282914?ntype=RANKING",
+          "press": "뉴시스"
+        },
         {
           "title": "‘삼성전자·SK하이닉스 급등’…코스피 5700선 회복, 매수 사이드카 발동",
           "link": "https://n.news.naver.com/article/138/0002246135?ntype=RANKING",
           "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "[속보] SK하이닉스, 60조원 추가 주주환원…배당·자사주 매입",
+        "SK하이닉스, 100조 원 주주환원... 자사주 소각 60조 원·배당 30조 원 이상",
+        "SK하이닉스, 60조 원 추가 주주환원…배당·자사주 매입",
+        "\"하이닉스 실적 앞두고 엇갈린 外人\"…삼성 사고 SK 팔았다",
+        "‘삼성전자·SK하이닉스 급등’…코스피 5700선 회복, 매수 사이드카 발동"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "주주환원",
+      "count": 6,
+      "representative_title": "삼전·닉스 120조 역대급 주주환원 온다…증시 반등 계기될까",
+      "representative_link": "https://n.news.naver.com/article/003/0014282857?ntype=RANKING",
+      "press": "뉴시스",
+      "related_articles": [
+        {
+          "title": "삼전·닉스 120조 역대급 주주환원 온다…증시 반등 계기될까",
+          "link": "https://n.news.naver.com/article/003/0014282857?ntype=RANKING",
+          "press": "뉴시스"
         },
         {
-          "title": "[셀럽의 한 수] HBM에서 영원한 1등은 없다? 삼성전자 맹추격, 하닉과 격차 줄었다",
-          "link": "https://n.news.naver.com/article/374/0000540059?ntype=RANKING",
+          "title": "삼전·닉스 120조 역대급 주주환원 온다…증시 반등 계기될까",
+          "link": "https://n.news.naver.com/article/003/0014282857?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "삼전·닉스 120조 역대급 주주환원 온다…증시 반등 계기될까",
+          "link": "https://n.news.naver.com/article/003/0014282857?ntype=RANKING",
+          "press": "뉴시스"
+        }
+      ],
+      "related_titles": [
+        "삼전·닉스 120조 역대급 주주환원 온다…증시 반등 계기될까",
+        "삼전·닉스 120조 역대급 주주환원 온다…증시 반등 계기될까",
+        "삼전·닉스 120조 역대급 주주환원 온다…증시 반등 계기될까"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "조원",
+      "count": 4,
+      "representative_title": "이재용, 올해 주식 5조원 순취득…대기업 오너 일가 1위",
+      "representative_link": "https://n.news.naver.com/article/654/0000207907?ntype=RANKING",
+      "press": "강원도민일보",
+      "related_articles": [
+        {
+          "title": "이재용, 올해 주식 5조원 순취득…대기업 오너 일가 1위",
+          "link": "https://n.news.naver.com/article/654/0000207907?ntype=RANKING",
+          "press": "강원도민일보"
+        },
+        {
+          "title": "이재용, 올해 주식 5조원 순취득…대기업 오너 일가 1위",
+          "link": "https://n.news.naver.com/article/654/0000207907?ntype=RANKING",
+          "press": "강원도민일보"
+        },
+        {
+          "title": "이재용, 올해 주식 5조원 순취득…대기업 오너 일가 1위",
+          "link": "https://n.news.naver.com/article/654/0000207907?ntype=RANKING",
+          "press": "강원도민일보"
+        }
+      ],
+      "related_titles": [
+        "이재용, 올해 주식 5조원 순취득…대기업 오너 일가 1위",
+        "이재용, 올해 주식 5조원 순취득…대기업 오너 일가 1위",
+        "이재용, 올해 주식 5조원 순취득…대기업 오너 일가 1위"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성전자",
+      "count": 4,
+      "representative_title": "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박",
+      "representative_link": "https://n.news.naver.com/article/374/0000540138?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박",
+          "link": "https://n.news.naver.com/article/374/0000540138?ntype=RANKING",
           "press": "SBS Biz"
+        },
+        {
+          "title": "갤럭시 성능 제한 숨겨 과징금 201억원…삼성전자 “법적 대응”",
+          "link": "https://n.news.naver.com/article/024/0000109206?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
           "title": "'삼성전자 배신 경종' 기밀유출 형량 늘고, 줄줄이 법정구속",
@@ -246,182 +291,65 @@
           "press": "이코노미스트"
         },
         {
-          "title": "갤럭시 성능 제한 숨겼다...삼성전자, 과징금 201억원",
+          "title": "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박",
+          "link": "https://n.news.naver.com/article/374/0000540138?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "갤럭시 성능 제한 숨겨 과징금 201억원…삼성전자 “법적 대응”",
           "link": "https://n.news.naver.com/article/024/0000109206?ntype=RANKING",
           "press": "매경이코노미"
-        },
-        {
-          "title": "‘삼성전자·SK하이닉스 급등’…코스피 5700선 회복, 매수 사이드카 발동",
-          "link": "https://n.news.naver.com/article/138/0002246135?ntype=RANKING",
-          "press": "디지털데일리"
         }
       ],
       "related_titles": [
-        "‘삼성전자·SK하이닉스 급등’…코스피 5700선 회복, 매수 사이드카 발동",
-        "[셀럽의 한 수] HBM에서 영원한 1등은 없다? 삼성전자 맹추격, 하닉과 격차 줄었다",
+        "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박",
+        "갤럭시 성능 제한 숨겨 과징금 201억원…삼성전자 “법적 대응”",
         "'삼성전자 배신 경종' 기밀유출 형량 늘고, 줄줄이 법정구속",
-        "갤럭시 성능 제한 숨겼다...삼성전자, 과징금 201억원",
-        "‘삼성전자·SK하이닉스 급등’…코스피 5700선 회복, 매수 사이드카 발동"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 2,
-      "keyword": "투자",
-      "count": 3,
-      "representative_title": "예측 불허 K증시…투자 공식의 배신",
-      "representative_link": "https://n.news.naver.com/article/024/0000109211?ntype=RANKING",
-      "press": "매경이코노미",
-      "related_articles": [
-        {
-          "title": "‘11월 말까지만 버텨봐?’ 주식시장 반등할 이유 나왔다 [투자360]",
-          "link": "https://n.news.naver.com/article/016/0002715183?ntype=RANKING",
-          "press": "헤럴드경제"
-        },
-        {
-          "title": "앤트로픽 상장 서류 보니… ‘25배 투자 대박’ SK텔레콤, 구글보다 싸게 샀다",
-          "link": "https://n.news.naver.com/article/366/0001200657?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "예측 불허 K증시…투자 공식의 배신",
-          "link": "https://n.news.naver.com/article/024/0000109211?ntype=RANKING",
-          "press": "매경이코노미"
-        },
-        {
-          "title": "‘11월 말까지만 버텨봐?’ 주식시장 반등할 이유 나왔다 [투자360]",
-          "link": "https://n.news.naver.com/article/016/0002715183?ntype=RANKING",
-          "press": "헤럴드경제"
-        },
-        {
-          "title": "앤트로픽 상장 서류 보니… ‘25배 투자 대박’ SK텔레콤, 구글보다 싸게 샀다",
-          "link": "https://n.news.naver.com/article/366/0001200657?ntype=RANKING",
-          "press": "조선비즈"
-        }
-      ],
-      "related_titles": [
-        "‘11월 말까지만 버텨봐?’ 주식시장 반등할 이유 나왔다 [투자360]",
-        "앤트로픽 상장 서류 보니… ‘25배 투자 대박’ SK텔레콤, 구글보다 싸게 샀다",
-        "예측 불허 K증시…투자 공식의 배신",
-        "‘11월 말까지만 버텨봐?’ 주식시장 반등할 이유 나왔다 [투자360]",
-        "앤트로픽 상장 서류 보니… ‘25배 투자 대박’ SK텔레콤, 구글보다 싸게 샀다"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 3,
-      "keyword": "급등",
-      "count": 3,
-      "representative_title": "앤트로픽 IPO 기대감 속 삼전닉스 급등…코스피 5600선 회복",
-      "representative_link": "https://n.news.naver.com/article/648/0000051979?ntype=RANKING",
-      "press": "비즈워치",
-      "related_articles": [
-        {
-          "title": "앤트로픽 IPO 기대감 속 삼전닉스 급등…코스피 5600선 회복",
-          "link": "https://n.news.naver.com/article/648/0000051979?ntype=RANKING",
-          "press": "비즈워치"
-        },
-        {
-          "title": "현대차 '아틀라스' 공급망 공개에 관련주 급등…나무가·캠시스 30% 가까이 상승",
-          "link": "https://n.news.naver.com/article/030/0003479218?ntype=RANKING",
-          "press": "전자신문"
-        },
-        {
-          "title": "앤트로픽 IPO 기대감 속 삼전닉스 급등…코스피 5600선 회복",
-          "link": "https://n.news.naver.com/article/648/0000051979?ntype=RANKING",
-          "press": "비즈워치"
-        },
-        {
-          "title": "현대차 '아틀라스' 공급망 공개에 관련주 급등…나무가·캠시스 30% 가까이 상승",
-          "link": "https://n.news.naver.com/article/030/0003479218?ntype=RANKING",
-          "press": "전자신문"
-        },
-        {
-          "title": "앤트로픽 IPO 기대감 속 삼전닉스 급등…코스피 5600선 회복",
-          "link": "https://n.news.naver.com/article/648/0000051979?ntype=RANKING",
-          "press": "비즈워치"
-        }
-      ],
-      "related_titles": [
-        "앤트로픽 IPO 기대감 속 삼전닉스 급등…코스피 5600선 회복",
-        "현대차 '아틀라스' 공급망 공개에 관련주 급등…나무가·캠시스 30% 가까이 상승",
-        "앤트로픽 IPO 기대감 속 삼전닉스 급등…코스피 5600선 회복",
-        "현대차 '아틀라스' 공급망 공개에 관련주 급등…나무가·캠시스 30% 가까이 상승",
-        "앤트로픽 IPO 기대감 속 삼전닉스 급등…코스피 5600선 회복"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 4,
-      "keyword": "코스피",
-      "count": 3,
-      "representative_title": "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜",
-      "representative_link": "https://n.news.naver.com/article/138/0002246194?ntype=RANKING",
-      "press": "디지털데일리",
-      "related_articles": [
-        {
-          "title": "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜",
-          "link": "https://n.news.naver.com/article/138/0002246194?ntype=RANKING",
-          "press": "디지털데일리"
-        },
-        {
-          "title": "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜",
-          "link": "https://n.news.naver.com/article/138/0002246194?ntype=RANKING",
-          "press": "디지털데일리"
-        },
-        {
-          "title": "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜",
-          "link": "https://n.news.naver.com/article/138/0002246194?ntype=RANKING",
-          "press": "디지털데일리"
-        }
-      ],
-      "related_titles": [
-        "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜",
-        "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜",
-        "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜"
+        "내일 삼성전자 3분기 세부실적…메모리 영업익 110조 육박",
+        "갤럭시 성능 제한 숨겨 과징금 201억원…삼성전자 “법적 대응”"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "개미들",
+      "keyword": "코스피",
       "count": 3,
-      "representative_title": "\"내일은 빨간불 뜨겠죠?\"…SK하이닉스 개미들 '초긴장' [종목+]",
-      "representative_link": "https://n.news.naver.com/article/015/0005347245?ntype=RANKING",
+      "representative_title": "\"코스피 7500 간다는데\"…외국인이 '삼전닉스' 던지는 이유 [분석+]",
+      "representative_link": "https://n.news.naver.com/article/015/0005347289?ntype=RANKING",
       "press": "한국경제",
       "related_articles": [
         {
-          "title": "\"내일은 빨간불 뜨겠죠?\"…SK하이닉스 개미들 '초긴장' [종목+]",
-          "link": "https://n.news.naver.com/article/015/0005347245?ntype=RANKING",
+          "title": "\"코스피 7500 간다는데\"…외국인이 '삼전닉스' 던지는 이유 [분석+]",
+          "link": "https://n.news.naver.com/article/015/0005347289?ntype=RANKING",
           "press": "한국경제"
         },
         {
-          "title": "\"빚내서 주식 샀다가 5조1000억원 강제 매도\"…개미들 무슨 일?",
-          "link": "https://n.news.naver.com/article/014/0005595425?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜",
+          "link": "https://n.news.naver.com/article/138/0002246194?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "주식 떨어지고, \"고점에 물렸다\" 금값도 28% '뚝'...개미들 대피한 곳",
-          "link": "https://n.news.naver.com/article/008/0005432565?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "\"내일은 빨간불 뜨겠죠?\"…SK하이닉스 개미들 '초긴장' [종목+]",
-          "link": "https://n.news.naver.com/article/015/0005347245?ntype=RANKING",
+          "title": "\"코스피 7500 간다는데\"…외국인이 '삼전닉스' 던지는 이유 [분석+]",
+          "link": "https://n.news.naver.com/article/015/0005347289?ntype=RANKING",
           "press": "한국경제"
         },
         {
-          "title": "\"빚내서 주식 샀다가 5조1000억원 강제 매도\"…개미들 무슨 일?",
-          "link": "https://n.news.naver.com/article/014/0005595425?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜",
+          "link": "https://n.news.naver.com/article/138/0002246194?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "\"코스피 7500 간다는데\"…외국인이 '삼전닉스' 던지는 이유 [분석+]",
+          "link": "https://n.news.naver.com/article/015/0005347289?ntype=RANKING",
+          "press": "한국경제"
         }
       ],
       "related_titles": [
-        "\"내일은 빨간불 뜨겠죠?\"…SK하이닉스 개미들 '초긴장' [종목+]",
-        "\"빚내서 주식 샀다가 5조1000억원 강제 매도\"…개미들 무슨 일?",
-        "주식 떨어지고, \"고점에 물렸다\" 금값도 28% '뚝'...개미들 대피한 곳",
-        "\"내일은 빨간불 뜨겠죠?\"…SK하이닉스 개미들 '초긴장' [종목+]",
-        "\"빚내서 주식 샀다가 5조1000억원 강제 매도\"…개미들 무슨 일?"
+        "\"코스피 7500 간다는데\"…외국인이 '삼전닉스' 던지는 이유 [분석+]",
+        "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜",
+        "\"코스피 7500 간다는데\"…외국인이 '삼전닉스' 던지는 이유 [분석+]",
+        "“매수 사이드카까지 발동됐지만”…코스피 3.1% 급등에도 5700선 못 지켜",
+        "\"코스피 7500 간다는데\"…외국인이 '삼전닉스' 던지는 이유 [분석+]"
       ],
       "category": "주식/코인"
     }
@@ -527,21 +455,21 @@
     },
     {
       "rank": 5,
-      "keyword": "네오클라우드",
-      "series_title": "네오클라우드의 몰락",
+      "keyword": "지식",
+      "series_title": "지식의 몰락",
       "count": 1,
-      "representative_title": "머스크 네오클라우드 몰락 경고",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uTlRySEdfX3dWUzhyM1QwTHdFdmxveGwzdlJ3TGpPc2RKSFRPZEZaSGU3bkRSZG16aHJSWkVEbHpzekl0UmNBUEZTZklOMFE2MGVuWnJKaU7SAVhBVV95cUxPbk5UckhHX193VlM4cjNUMEx3RXZsb3hsM3ZSd0xqT3NkSkhUT2RGWkhlN25EUmRtemhyUlpFRGx6c3pJdFJjQVBGU2ZJTjBRNjBlblpySmlO?oc=5",
+      "representative_title": "[역사와 현실]지식의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdHFoVWF1Z2lmV05hWEF0VFQxYTktVFc4TTJUbDJianZuaXYyMW5Gd2g5UmRaUFc4a2FCTkRPQklZWmlsTzJJT1dWb2JuN080WFI0bnhrZVJhUdIBX0FVX3lxTE1KVHd1MTl0UThfQUl2dGZwTWtoZjN1aXJtLUpVWVZyX1otS1RoRm9LQkk4aE15dVdxTUZ0ODJlZzVvTXJBT1BnZllTSDdmM3NiR2s2RUZBa3RSN2JLVWJ3?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "머스크 네오클라우드 몰락 경고",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uTlRySEdfX3dWUzhyM1QwTHdFdmxveGwzdlJ3TGpPc2RKSFRPZEZaSGU3bkRSZG16aHJSWkVEbHpzekl0UmNBUEZTZklOMFE2MGVuWnJKaU7SAVhBVV95cUxPbk5UckhHX193VlM4cjNUMEx3RXZsb3hsM3ZSd0xqT3NkSkhUT2RGWkhlN25EUmRtemhyUlpFRGx6c3pJdFJjQVBGU2ZJTjBRNjBlblpySmlO?oc=5",
+          "title": "[역사와 현실]지식의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RdHFoVWF1Z2lmV05hWEF0VFQxYTktVFc4TTJUbDJianZuaXYyMW5Gd2g5UmRaUFc4a2FCTkRPQklZWmlsTzJJT1dWb2JuN080WFI0bnhrZVJhUdIBX0FVX3lxTE1KVHd1MTl0UThfQUl2dGZwTWtoZjN1aXJtLUpVWVZyX1otS1RoRm9LQkk4aE15dVdxTUZ0ODJlZzVvTXJBT1BnZllTSDdmM3NiR2s2RUZBa3RSN2JLVWJ3?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "머스크 네오클라우드 몰락 경고"
+        "[역사와 현실]지식의 몰락"
       ],
       "category": "몰락"
     }
@@ -561,13 +489,13 @@
           "press": ""
         },
         {
-          "title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
+          "title": "“집값 폭락할 것” LH 사장의 호언… 서울 아파트값 말처럼 될까 [주말 Q&amp;A]",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mS3NiVmYweDAxX2tPeXFnWTdnWXY5UGVZLTVhQlVDbF9NQndIRXlzN05GMk04QXZKWHRCdVlBaFJHYm5POE9CQlVzUnVIZHoxTHBLcUxseXVhT3FMSE1KR1RVazIybHhLb0VvRHNR?oc=5",
           "press": ""
         },
         {
-          "title": "“집값 폭락할 것” LH 사장의 호언… 서울 아파트값 말처럼 될까 [주말 Q&amp;A]",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mS3NiVmYweDAxX2tPeXFnWTdnWXY5UGVZLTVhQlVDbF9NQndIRXlzN05GMk04QXZKWHRCdVlBaFJHYm5POE9CQlVzUnVIZHoxTHBLcUxseXVhT3FMSE1KR1RVazIybHhLb0VvRHNR?oc=5",
+          "title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
           "press": ""
         },
         {
@@ -583,8 +511,8 @@
       ],
       "related_titles": [
         "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
-        "서울 집값 잡히나 했더니…경기로 번지는 매수세",
         "“집값 폭락할 것” LH 사장의 호언… 서울 아파트값 말처럼 될까 [주말 Q&amp;A]",
+        "서울 집값 잡히나 했더니…경기로 번지는 매수세",
         "서울 아파트값 상승률 올해 최저…강남·서초 내리고 노원 올라",
         "서울 아파트값 89주 연속 상승 '역대 최장'…외곽이 더 올랐다"
       ],
