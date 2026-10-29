@@ -1,0 +1,566 @@
+{
+  "date": "2026-10-30",
+  "hour": "07",
+  "slot": "2026-10-30_07",
+  "crawled_at": "2026-10-30 07:00:03",
+  "total_articles": 405,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "최불암",
+      "count": 36,
+      "representative_title": "‘국민 아버지’ 배우 최불암 별세",
+      "representative_link": "https://n.news.naver.com/article/023/0004006830?ntype=RANKING",
+      "press": "조선일보",
+      "related_articles": [
+        {
+          "title": "'영원한 수사반장' 최불암 별세…'파하~' 웃음 짓던 '국민 아버지'(종합2보)",
+          "link": "https://n.news.naver.com/article/001/0016410613?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "'영원한 수사반장' 최불암 별세…'파하~' 웃음 남기고 떠난 '국민 아버지'(종합)",
+          "link": "https://n.news.naver.com/article/001/0016410601?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "'국민배우' 최불암, 87세 별세…희로애락 함께한 67년 연기 인생(종합)",
+          "link": "https://n.news.naver.com/article/421/0009259630?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "[속보] '수사반장'·'국민아버지' 배우 최불암 별세…향년 87세",
+          "link": "https://n.news.naver.com/article/421/0009259623?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "\"파하 소탈한 웃음 생생\"…'국민 아버지' 최불암 애도 물결",
+          "link": "https://n.news.naver.com/article/421/0009259628?ntype=RANKING",
+          "press": "뉴스1"
+        }
+      ],
+      "related_titles": [
+        "'영원한 수사반장' 최불암 별세…'파하~' 웃음 짓던 '국민 아버지'(종합2보)",
+        "'영원한 수사반장' 최불암 별세…'파하~' 웃음 남기고 떠난 '국민 아버지'(종합)",
+        "'국민배우' 최불암, 87세 별세…희로애락 함께한 67년 연기 인생(종합)",
+        "[속보] '수사반장'·'국민아버지' 배우 최불암 별세…향년 87세",
+        "\"파하 소탈한 웃음 생생\"…'국민 아버지' 최불암 애도 물결"
+      ],
+      "category": "연예/문화"
+    },
+    {
+      "rank": 2,
+      "keyword": "국민",
+      "count": 28,
+      "representative_title": "AI 대전환기, 국민 대표 223명이 모여 공동의 미래를 설계하다",
+      "representative_link": "https://n.news.naver.com/article/308/0000038912?ntype=RANKING",
+      "press": "시사IN",
+      "related_articles": [
+        {
+          "title": "특검, '내란 우두머리' 윤석열 2심도 사형 구형…\"국민 배신한 반역\"",
+          "link": "https://n.news.naver.com/article/660/0000120173?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "AI 대전환기, 국민 대표 223명이 모여 공동의 미래를 설계하다",
+          "link": "https://n.news.naver.com/article/308/0000038912?ntype=RANKING",
+          "press": "시사IN"
+        }
+      ],
+      "related_titles": [
+        "특검, '내란 우두머리' 윤석열 2심도 사형 구형…\"국민 배신한 반역\"",
+        "AI 대전환기, 국민 대표 223명이 모여 공동의 미래를 설계하다"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 3,
+      "keyword": "아버지",
+      "count": 27,
+      "representative_title": "34세 李 차남 전세 살다 관저행에 전용기 \"아버지 대통령이라 포기하는 일상도\" 조상호 \"미혼자녀 나가 살아야?\"",
+      "representative_link": "https://n.news.naver.com/article/088/0001037329?ntype=RANKING",
+      "press": "매일신문",
+      "related_articles": [
+        {
+          "title": "34세 李 차남 전세 살다 관저행에 전용기 \"아버지 대통령이라 포기하는 일상도\" 조상호 \"미혼자녀 나가 살아야?\"",
+          "link": "https://n.news.naver.com/article/088/0001037329?ntype=RANKING",
+          "press": "매일신문"
+        }
+      ],
+      "related_titles": [
+        "34세 李 차남 전세 살다 관저행에 전용기 \"아버지 대통령이라 포기하는 일상도\" 조상호 \"미혼자녀 나가 살아야?\""
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 4,
+      "keyword": "대통령",
+      "count": 15,
+      "representative_title": "李대통령 차남 한남동 관저 거주…“아빠 찬스” 지적",
+      "representative_link": "https://n.news.naver.com/article/005/0001881755?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "李대통령 차남 한남동 관저 거주…“아빠 찬스” 지적",
+          "link": "https://n.news.naver.com/article/005/0001881755?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "주진우 또 헛발질? \"대통령 부부, 그때 아들 부부와 골프 안 쳤다\"",
+          "link": "https://n.news.naver.com/article/047/0002533983?ntype=RANKING",
+          "press": "오마이뉴스"
+        },
+        {
+          "title": "임광현, 이 대통령 차남 관저 거주 논란에‥\"경호 문제 감안\"",
+          "link": "https://n.news.naver.com/article/214/0001532356?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "李대통령, 빈 살만과 통화... “한국, 사우디와 강력한 연대”",
+          "link": "https://n.news.naver.com/article/023/0004006733?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "李대통령, 빈 살만과 통화… 전쟁 중 원유 우선 공급에 감사",
+          "link": "https://n.news.naver.com/article/366/0001201387?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "李대통령 차남 한남동 관저 거주…“아빠 찬스” 지적",
+        "주진우 또 헛발질? \"대통령 부부, 그때 아들 부부와 골프 안 쳤다\"",
+        "임광현, 이 대통령 차남 관저 거주 논란에‥\"경호 문제 감안\"",
+        "李대통령, 빈 살만과 통화... “한국, 사우디와 강력한 연대”",
+        "李대통령, 빈 살만과 통화… 전쟁 중 원유 우선 공급에 감사"
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼성전자",
+      "count": 11,
+      "representative_title": "역대급 실적에도 주가는 하락…삼성전자 '엇박자' 까닭은",
+      "representative_link": "https://n.news.naver.com/article/586/0000141156?ntype=RANKING",
+      "press": "시사저널",
+      "related_articles": [
+        {
+          "title": "[속보]삼성전자 \"파운드리 8나노 이하 공정 가동률 100% 상회\"",
+          "link": "https://n.news.naver.com/article/014/0005596351?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "삼성전자 3분기 30조 배당에 주가 ‘뚝’…하이닉스와 왜 엇갈렸나",
+          "link": "https://n.news.naver.com/article/056/0012283726?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "삼성전자 \"메모리, 2028년까지 수급 빠듯...내년 HBM 완판\"",
+          "link": "https://n.news.naver.com/article/092/0002442946?ntype=RANKING",
+          "press": "지디넷코리아"
+        },
+        {
+          "title": "역대급 실적에도 주가는 하락…삼성전자 '엇박자' 까닭은",
+          "link": "https://n.news.naver.com/article/586/0000141156?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "삼성전자 '주주환원 실망'…코스피 하루 만에 6천선 반납",
+          "link": "https://n.news.naver.com/article/660/0000120193?ntype=RANKING",
+          "press": "kbc광주방송"
+        }
+      ],
+      "related_titles": [
+        "[속보]삼성전자 \"파운드리 8나노 이하 공정 가동률 100% 상회\"",
+        "삼성전자 3분기 30조 배당에 주가 ‘뚝’…하이닉스와 왜 엇갈렸나",
+        "삼성전자 \"메모리, 2028년까지 수급 빠듯...내년 HBM 완판\"",
+        "역대급 실적에도 주가는 하락…삼성전자 '엇박자' 까닭은",
+        "삼성전자 '주주환원 실망'…코스피 하루 만에 6천선 반납"
+      ],
+      "category": "경제/투자"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "삼성전자",
+      "count": 11,
+      "representative_title": "역대급 실적에도 주가는 하락…삼성전자 '엇박자' 까닭은",
+      "representative_link": "https://n.news.naver.com/article/586/0000141156?ntype=RANKING",
+      "press": "시사저널",
+      "related_articles": [
+        {
+          "title": "[속보]삼성전자 \"파운드리 8나노 이하 공정 가동률 100% 상회\"",
+          "link": "https://n.news.naver.com/article/014/0005596351?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "삼성전자 3분기 30조 배당에 주가 ‘뚝’…하이닉스와 왜 엇갈렸나",
+          "link": "https://n.news.naver.com/article/056/0012283726?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "삼성전자 \"메모리, 2028년까지 수급 빠듯...내년 HBM 완판\"",
+          "link": "https://n.news.naver.com/article/092/0002442946?ntype=RANKING",
+          "press": "지디넷코리아"
+        },
+        {
+          "title": "역대급 실적에도 주가는 하락…삼성전자 '엇박자' 까닭은",
+          "link": "https://n.news.naver.com/article/586/0000141156?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "삼성전자 '주주환원 실망'…코스피 하루 만에 6천선 반납",
+          "link": "https://n.news.naver.com/article/660/0000120193?ntype=RANKING",
+          "press": "kbc광주방송"
+        }
+      ],
+      "related_titles": [
+        "[속보]삼성전자 \"파운드리 8나노 이하 공정 가동률 100% 상회\"",
+        "삼성전자 3분기 30조 배당에 주가 ‘뚝’…하이닉스와 왜 엇갈렸나",
+        "삼성전자 \"메모리, 2028년까지 수급 빠듯...내년 HBM 완판\"",
+        "역대급 실적에도 주가는 하락…삼성전자 '엇박자' 까닭은",
+        "삼성전자 '주주환원 실망'…코스피 하루 만에 6천선 반납"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "알파벳",
+      "count": 4,
+      "representative_title": "‘실적부진’ 알파벳 12%대 급락… 뉴욕증시 일제히 하락 마감",
+      "representative_link": "https://n.news.naver.com/article/005/0001881900?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "‘실적부진’ 알파벳 12%대 급락… 뉴욕증시 일제히 하락 마감",
+          "link": "https://n.news.naver.com/article/005/0001881900?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "뉴욕증시, 알파벳 실적 실망에 하락 출발… 나스닥 1.58%↓",
+          "link": "https://n.news.naver.com/article/366/0001201390?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "[속보]알파벳 급락에 나스닥 1.4%↓…AI 투자 불안 재점화",
+          "link": "https://n.news.naver.com/article/018/0006399576?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "뉴욕증시, AI 투자비용 우려에 하락…알파벳 12.6% 급락·나스닥 1.4%↓",
+          "link": "https://n.news.naver.com/article/138/0002246617?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "‘실적부진’ 알파벳 12%대 급락… 뉴욕증시 일제히 하락 마감",
+          "link": "https://n.news.naver.com/article/005/0001881900?ntype=RANKING",
+          "press": "국민일보"
+        }
+      ],
+      "related_titles": [
+        "‘실적부진’ 알파벳 12%대 급락… 뉴욕증시 일제히 하락 마감",
+        "뉴욕증시, 알파벳 실적 실망에 하락 출발… 나스닥 1.58%↓",
+        "[속보]알파벳 급락에 나스닥 1.4%↓…AI 투자 불안 재점화",
+        "뉴욕증시, AI 투자비용 우려에 하락…알파벳 12.6% 급락·나스닥 1.4%↓",
+        "‘실적부진’ 알파벳 12%대 급락… 뉴욕증시 일제히 하락 마감"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "급락",
+      "count": 3,
+      "representative_title": "체코 원전 수주 철회 아닌데…시공협상 결렬에 대우건설 22%·두산에너빌 12% 급락",
+      "representative_link": "https://n.news.naver.com/article/050/0000112527?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "체코 원전 수주 철회 아닌데…시공협상 결렬에 대우건설 22%·두산에너빌 12% 급락",
+          "link": "https://n.news.naver.com/article/050/0000112527?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "체코 원전 수주 철회 아닌데…시공협상 결렬에 대우건설 22%·두산에너빌 12% 급락",
+          "link": "https://n.news.naver.com/article/050/0000112527?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "체코 원전 수주 철회 아닌데…시공협상 결렬에 대우건설 22%·두산에너빌 12% 급락",
+          "link": "https://n.news.naver.com/article/050/0000112527?ntype=RANKING",
+          "press": "한경비즈니스"
+        }
+      ],
+      "related_titles": [
+        "체코 원전 수주 철회 아닌데…시공협상 결렬에 대우건설 22%·두산에너빌 12% 급락",
+        "체코 원전 수주 철회 아닌데…시공협상 결렬에 대우건설 22%·두산에너빌 12% 급락",
+        "체코 원전 수주 철회 아닌데…시공협상 결렬에 대우건설 22%·두산에너빌 12% 급락"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "역대급",
+      "count": 3,
+      "representative_title": "역대급 실적에 '35조' 배당 풀었는데…\"주주환원은 1월로\" 삼전 무슨 일",
+      "representative_link": "https://n.news.naver.com/article/215/0001271017?ntype=RANKING",
+      "press": "한국경제TV",
+      "related_articles": [
+        {
+          "title": "역대급 실적에 '35조' 배당 풀었는데…\"주주환원은 1월로\" 삼전 무슨 일",
+          "link": "https://n.news.naver.com/article/215/0001271017?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "역대급 실적에 '35조' 배당 풀었는데…\"주주환원은 1월로\" 삼전 무슨 일",
+          "link": "https://n.news.naver.com/article/215/0001271017?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "역대급 실적에 '35조' 배당 풀었는데…\"주주환원은 1월로\" 삼전 무슨 일",
+          "link": "https://n.news.naver.com/article/215/0001271017?ntype=RANKING",
+          "press": "한국경제TV"
+        }
+      ],
+      "related_titles": [
+        "역대급 실적에 '35조' 배당 풀었는데…\"주주환원은 1월로\" 삼전 무슨 일",
+        "역대급 실적에 '35조' 배당 풀었는데…\"주주환원은 1월로\" 삼전 무슨 일",
+        "역대급 실적에 '35조' 배당 풀었는데…\"주주환원은 1월로\" 삼전 무슨 일"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "영재",
+      "series_title": "영재의 몰락",
+      "count": 2,
+      "representative_title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzIwdjEtQm9hSUM4ZDBSZlVHdlhTVWZGR2cxVU9mc1JqcVBMeW53c184WExBX3dTSGJXWHUtRWJrMGlOaXh4QVNpY0Zja2JhaXBvcUxFdlBRd3I3Tk1QeGdBRGVRc29xRm1GWm9rQmVkaWU0cUhITmlyNDhGQ3VXNDloRdIBlwFBVV95cUxOQmRvNlhGR1B6M1NjdFZaakpNN0lzOWc0bzJMN0x0ZTJlblBsd0NwRmZ0N3dQYmROZzltX254b3A5Z2g4YS13N3MyTUp4MTJnRy1FTEJFYzA4bEZhaC1wdlI0ekNwN1ZlNGg0S0ZORWxkQWJHM2hjdmRaNkRycXJoMnFCWnVjZ2UwNUctRURDVzFIN20yX1hJ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+        "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 2,
+      "representative_title": "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+      "representative_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNampVRjNIUndFNHU3OVNHdnBGUTFjelpIZTNEZ2xGdW80SkxqMHh4SmViWWJmR1R6VFhRR2xyZHE0bG1TMWI3eHhuSFpFWGh3bzBObkd3VjNvQzhWclV5Vjc3Wi1NVW5SZ2FMY3BtTEpFWFdlckJZRkdfOFFhLS1SNTc3TGt1LXhSRkpuNUoxWFBXa0VKVm1hcDNxdWlVY0FSekJVTkRRSGVMa2tLWUNhQVl6eXpsTDE5bGRPVzk3WDQtbkRsYTdiYm1SSlVzdmZ1NkJEYU1ubHctcWF1UDF4SDZtZlN4ZFI5aFVMb05QZ1VYRmFlZmVfeVhvMUZScm1Ja2hjV2dLRmdDY2ZaRXpWbnZ0YmxYZ1lK?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNampVRjNIUndFNHU3OVNHdnBGUTFjelpIZTNEZ2xGdW80SkxqMHh4SmViWWJmR1R6VFhRR2xyZHE0bG1TMWI3eHhuSFpFWGh3bzBObkd3VjNvQzhWclV5Vjc3Wi1NVW5SZ2FMY3BtTEpFWFdlckJZRkdfOFFhLS1SNTc3TGt1LXhSRkpuNUoxWFBXa0VKVm1hcDNxdWlVY0FSekJVTkRRSGVMa2tLWUNhQVl6eXpsTDE5bGRPVzk3WDQtbkRsYTdiYm1SSlVzdmZ1NkJEYU1ubHctcWF1UDF4SDZtZlN4ZFI5aFVMb05QZ1VYRmFlZmVfeVhvMUZScm1Ja2hjV2dLRmdDY2ZaRXpWbnZ0YmxYZ1lK?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\"",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EbnJ1cDN3S1p3a2JXMVVtZGZjMlZLZlplcGhRVHJZSzlidGJIWEF1RURWWnY0MVRmYzRKWUM5TC1faUVjWW9ybWJ1czRlZXMxRDdQbHZyV3dWaWNMVjNuN1dJSVkxcUlWa2wzV3FYTQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+        "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "천재",
+      "series_title": "천재의 몰락",
+      "count": 2,
+      "representative_title": "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWk9hS3JrTkxlWFNGdGlOOU1KWkRabmxRdW9zQ3FkS29aMWF1ZWRqcy14NTFEaTV5VGxTMnhKd3BJQ09vQ2VNcWtLMVlVTzA5T05XRzVHZVpyTm1tc0I5U1ZOU0s4QQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "그야말로 파격 결단! 몰락한 천재 감독 맨체스터 유나이티드에서 부활의 날개 펼치나…\"내부 인사들의 지지가 점점 커지고 있어\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SbWpUbmN6X28zS2tBSTlna1RiRnhaeDltOHF5M2hNZVEzZUFfQjMtWFllNXo1b0QyMHA1VWJjclUtZUlOQ2U4SEhoUkZhY25yOUoweDdBTkNkVERrRDhicA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\"",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWk9hS3JrTkxlWFNGdGlOOU1KWkRabmxRdW9zQ3FkS29aMWF1ZWRqcy14NTFEaTV5VGxTMnhKd3BJQ09vQ2VNcWtLMVlVTzA5T05XRzVHZVpyTm1tc0I5U1ZOU0s4QQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "그야말로 파격 결단! 몰락한 천재 감독 맨체스터 유나이티드에서 부활의 날개 펼치나…\"내부 인사들의 지지가 점점 커지고 있어\"",
+        "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "구글",
+      "series_title": "구글의 몰락",
+      "count": 1,
+      "representative_title": "AI가 뒤집은 빅테크 권력지형…애플과 구글의 몰락 예고? [박신영의 개장전 요것만]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fYUoyUGR3Um5ranctSzU0MmNYOHpuaVNNTllpb3lkODF0clZjcEl4UmgtZmo4X09RMVg5bjlwUmxwYlROcENhTlhpaVgxVkE4YzdRbm5CM25Bdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "AI가 뒤집은 빅테크 권력지형…애플과 구글의 몰락 예고? [박신영의 개장전 요것만]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fYUoyUGR3Um5ranctSzU0MmNYOHpuaVNNTllpb3lkODF0clZjcEl4UmgtZmo4X09RMVg5bjlwUmxwYlROcENhTlhpaVgxVkE4YzdRbm5CM25Bdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "AI가 뒤집은 빅테크 권력지형…애플과 구글의 몰락 예고? [박신영의 개장전 요것만]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "유시민",
+      "series_title": "유시민의 몰락",
+      "count": 1,
+      "representative_title": "논객 유시민의 몰락, 입증책임 뒤에 숨지 말라",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WcmVZbFp3d0lKXzlHejJUX2ZBSFhDWDZxMUFDS3NjS2hoLW9FQlowQnRKeTBnVnFDa20xaDhFeGtTNDFjcGVPU2NHUHlCdWJxeFZBRTNGNkRjalR1al9XVEIyTEpqZ3NBQnc?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "논객 유시민의 몰락, 입증책임 뒤에 숨지 말라",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WcmVZbFp3d0lKXzlHejJUX2ZBSFhDWDZxMUFDS3NjS2hoLW9FQlowQnRKeTBnVnFDa20xaDhFeGtTNDFjcGVPU2NHUHlCdWJxeFZBRTNGNkRjalR1al9XVEIyTEpqZ3NBQnc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "논객 유시민의 몰락, 입증책임 뒤에 숨지 말라"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "강남",
+      "count": 6,
+      "representative_title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 집값 주춤한 사이 강북 아파트 평균 12억원 돌파 … 수요 이동 가속",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kNmhqb3dGb2RPZ2ZCbUlUSkFqVW1qWERjcXE0emo2S194aUFvcmxhcXo4cmdhbU8tWmNLbnFLTUM3YjhlVk85QmpncGthTHAzQ3FJYzVMVVBvVk5WUjV4d0xZSmRlSDMwS3QyVA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트값 상승률 올해 최저…강남·서초 내리고 노원 올라",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PX2M3UmYya3hKNHJzTXp1Q2doSEFtSU9iejdsYjhXM19Vc0xqczZOaXJMOWk5QmJ0ejhETWpJRTExOXhHTUU1a0NpbWtMQndxN2tmZ29jeWVSa3h4?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXgxbGxjaVo0ejh3LS1VS0JhU0Z2MGhNSWxvRU9SVGlmY191SUw2aVlZMkRiRlE4eDhxeXZUczN0aWtoRFcydUtTSGd0UjZLbHZhLXBpN2NCZ3VuN3luSWotWU0zOHJlT1N2OS1mbmQxYnRaTVB0OFNZeU96UzA2TDhDQQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값 주춤한 사이 강북은 12억원 돌파…서울 아파트 시장 지형 바뀌나",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xLUdpendVakV5M3EtRVRiQ2JabXRTeGxxNXctdEpSbHFoV3diR3RtRV9WSHZvUWtLTW1kQTZPVFBSOHluQXFkWDJPdVBoWVU5NF9yNVc3M3dnNHVCQWpYVGhvWUxzYVdFY280TUY0T1hSeTcwZklEemZRbnQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 집값 주춤한 사이 강북 아파트 평균 12억원 돌파 … 수요 이동 가속",
+        "서울 아파트값 상승률 올해 최저…강남·서초 내리고 노원 올라",
+        "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”",
+        "강남 집값 주춤한 사이 강북은 12억원 돌파…서울 아파트 시장 지형 바뀌나",
+        "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "서울",
+      "count": 6,
+      "representative_title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+      "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVE9hdmd2bm9ZemVQMWZyenNOQ0xMd2lDUUVUa2FabzliNmNVTi1TVmFtamVQLW5fZWx5SFFTN0dlV3Z6akZEd3Uwc1ZFbGU2UnNsZkxiMDlYTzRnMVVVS1Z6Y0dDdnc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "‘집값 드디어 잡힐까’…KB부동산 “서울 아파트값 상승률 연내 최저”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2WldVMVpvZEpEU3htVzFnLTRseUpMakpMUGhZa3pDSG1sTzN1NC12bXVmQmJXbFZtM1hRVlp0dlA0c0FCeDlGbm9lejhrbHhCNHAwVS1R?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+        "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+        "‘집값 드디어 잡힐까’…KB부동산 “서울 아파트값 상승률 연내 최저”"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "강북",
+      "count": 2,
+      "representative_title": "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PNUJHMnhLaVhvWHgzQVlDY3JqTmRvcTh4eGFTb3pCTF8xOVpaRTI1OXpkMmVGWDIzZmJOSnVnRFU0WHNhU0xaY19kSlVxWkFHNHlib1ZjUVYtQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PNUJHMnhLaVhvWHgzQVlDY3JqTmRvcTh4eGFTb3pCTF8xOVpaRTI1OXpkMmVGWDIzZmJOSnVnRFU0WHNhU0xaY19kSlVxWkFHNHlib1ZjUVYtQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "떨어질",
+      "count": 2,
+      "representative_title": "“아파트 조심해야, 떨어질 가능성 크다” 박현주 회장 경고…집값 정말 꺾이나",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yWjZLZDl2cjh3TmI0MjBReENmdVlUeVZaUS1JQlY5UzE1VGNFb1NUa2tlYkotb1E2SHZfRnZPdnlzZEpKd0RRajVkX05xUHhucXRwQ1N3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“아파트 조심해야, 떨어질 가능성 크다” 박현주 회장 경고…집값 정말 꺾이나",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yWjZLZDl2cjh3TmI0MjBReENmdVlUeVZaUS1JQlY5UzE1VGNFb1NUa2tlYkotb1E2SHZfRnZPdnlzZEpKd0RRajVkX05xUHhucXRwQ1N3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“아파트 조심해야, 떨어질 가능성 크다” 박현주 회장 경고…집값 정말 꺾이나"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
