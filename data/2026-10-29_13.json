@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-29",
+  "hour": "13",
+  "slot": "2026-10-29_13",
+  "crawled_at": "2026-10-29 13:00:05",
+  "total_articles": 410,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "삼성전자",
+      "count": 40,
+      "representative_title": "삼성전자 실적 발표 후 급락…코스피 5,800선",
+      "representative_link": "https://n.news.naver.com/article/422/0000920725?ntype=RANKING",
+      "press": "연합뉴스TV",
+      "related_articles": [
+        {
+          "title": "삼성전자, 3Q 성적표 오늘 공개…주주환원, SK하닉 '100조' 뛰어넘나",
+          "link": "https://n.news.naver.com/article/421/0009256670?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "삼성전자, 30조 현금배당+최대 75조 추가 환원…영업익 100조 시대(종합)",
+          "link": "https://n.news.naver.com/article/421/0009257459?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "삼성전자, 3분기 주당 4천601원 현금배당…총 30조 원 규모",
+          "link": "https://n.news.naver.com/article/055/0001399004?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "삼성전자 \"내년 HBM 완판…10개사와 메모리 장기계약 협상중\"",
+          "link": "https://n.news.naver.com/article/001/0016408422?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "삼성전자 주주환원 계획에 실망?…코스피 3% 가까이 급락",
+          "link": "https://n.news.naver.com/article/015/0005347940?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "삼성전자, 3Q 성적표 오늘 공개…주주환원, SK하닉 '100조' 뛰어넘나",
+        "삼성전자, 30조 현금배당+최대 75조 추가 환원…영업익 100조 시대(종합)",
+        "삼성전자, 3분기 주당 4천601원 현금배당…총 30조 원 규모",
+        "삼성전자 \"내년 HBM 완판…10개사와 메모리 장기계약 협상중\"",
+        "삼성전자 주주환원 계획에 실망?…코스피 3% 가까이 급락"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 2,
+      "keyword": "대통령",
+      "count": 24,
+      "representative_title": "李 대통령 긍정평가 46%.. 2%p 상승 [NBS]",
+      "representative_link": "https://n.news.naver.com/article/659/0000048233?ntype=RANKING",
+      "press": "전주MBC",
+      "related_articles": [
+        {
+          "title": "이하늘 “호의인 척 짜증나”…李대통령 ‘유시민 처벌불원’에 발끈",
+          "link": "https://n.news.naver.com/article/025/0003561316?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "‘친명 좌장’ 정성호 “이 대통령, SNS 좀 줄여도 좋지 않겠나”",
+          "link": "https://n.news.naver.com/article/028/0002829719?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "故신해철·유재석·한영애·블랙핑크 문화훈장… 유해진·류승룡·소지섭 대통령 표창",
+          "link": "https://n.news.naver.com/article/081/0003693725?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "이 대통령 \"국가가 책임 다했다면 평범한 하루로 남았을 것\" [현장영상+]",
+          "link": "https://n.news.naver.com/article/052/0002425377?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "유시민 “이 대통령, 임기 다 못 채울 수도…尹과 똑같이 한다”",
+          "link": "https://n.news.naver.com/article/009/0005755674?ntype=RANKING",
+          "press": "매일경제"
+        }
+      ],
+      "related_titles": [
+        "이하늘 “호의인 척 짜증나”…李대통령 ‘유시민 처벌불원’에 발끈",
+        "‘친명 좌장’ 정성호 “이 대통령, SNS 좀 줄여도 좋지 않겠나”",
+        "故신해철·유재석·한영애·블랙핑크 문화훈장… 유해진·류승룡·소지섭 대통령 표창",
+        "이 대통령 \"국가가 책임 다했다면 평범한 하루로 남았을 것\" [현장영상+]",
+        "유시민 “이 대통령, 임기 다 못 채울 수도…尹과 똑같이 한다”"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 3,
+      "keyword": "영업익",
+      "count": 19,
+      "representative_title": "삼전 영업익 107조에 챗GPT도 \"확실히 오보야\"…얼마나 벌었길래",
+      "representative_link": "https://n.news.naver.com/article/018/0006398627?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "\"삼전 -5%, 주가 왜 이래\"...3Q 영업익 107조에도 '급락' 이유는",
+          "link": "https://n.news.naver.com/article/008/0005433498?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "삼전 영업익 107조에 챗GPT도 \"확실히 오보야\"…얼마나 벌었길래",
+          "link": "https://n.news.naver.com/article/018/0006398627?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "“삼전 영업익 107조인데 주가는 5%↓”…코스피, 6100 돌파 후 5800선 추락",
+          "link": "https://n.news.naver.com/article/138/0002246461?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "영업익 100조 시대 연 삼성 반도체, 내년 공급부족 대비 85조 설비투자",
+          "link": "https://n.news.naver.com/article/092/0002442914?ntype=RANKING",
+          "press": "지디넷코리아"
+        }
+      ],
+      "related_titles": [
+        "\"삼전 -5%, 주가 왜 이래\"...3Q 영업익 107조에도 '급락' 이유는",
+        "삼전 영업익 107조에 챗GPT도 \"확실히 오보야\"…얼마나 벌었길래",
+        "“삼전 영업익 107조인데 주가는 5%↓”…코스피, 6100 돌파 후 5800선 추락",
+        "영업익 100조 시대 연 삼성 반도체, 내년 공급부족 대비 85조 설비투자"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 4,
+      "keyword": "분기",
+      "count": 19,
+      "representative_title": "삼전 3분기 반도체 106.5조원벌 때, 스마트폰·가전은 8000억원 적자",
+      "representative_link": "https://n.news.naver.com/article/023/0004006611?ntype=RANKING",
+      "press": "조선일보",
+      "related_articles": [
+        {
+          "title": "삼전 3분기 반도체 106.5조원벌 때, 스마트폰·가전은 8000억원 적자",
+          "link": "https://n.news.naver.com/article/023/0004006611?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "영업이익 632.1% 뛰었다… SK하닉 3분기 또 '역대급 실적' [시크한 분석]",
+          "link": "https://n.news.naver.com/article/665/0000008446?ntype=RANKING",
+          "press": "더스쿠프"
+        },
+        {
+          "title": "역대 최대 83조 분기 영업이익 SK하닉, AI 산업 수익성 우려 날릴까&#160;&#160;",
+          "link": "https://n.news.naver.com/article/037/0000039052?ntype=RANKING",
+          "press": "주간동아"
+        }
+      ],
+      "related_titles": [
+        "삼전 3분기 반도체 106.5조원벌 때, 스마트폰·가전은 8000억원 적자",
+        "영업이익 632.1% 뛰었다… SK하닉 3분기 또 '역대급 실적' [시크한 분석]",
+        "역대 최대 83조 분기 영업이익 SK하닉, AI 산업 수익성 우려 날릴까&#160;&#160;"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 5,
+      "keyword": "강성은",
+      "count": 18,
+      "representative_title": "제주 보복살해 피의자 신상 공개‥61세 강성은",
+      "representative_link": "https://n.news.naver.com/article/214/0001532176?ntype=RANKING",
+      "press": "MBC",
+      "related_articles": [
+        {
+          "title": "제주 옛 연인 스토킹·보복살해범은 61세 강성은…신상 공개",
+          "link": "https://n.news.naver.com/article/421/0009257191?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "스마트워치 뜯어내고 보복살해…61세 강성은 얼굴 공개",
+          "link": "https://n.news.naver.com/article/081/0003693738?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "[속보]  '61세 강성은'...제주 40대女 보복살해범 신상 공개",
+          "link": "https://n.news.naver.com/article/018/0006398622?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "'스토킹·협박 끝 보복살해' 제주 61세 강성은 머그샷 공개",
+          "link": "https://n.news.naver.com/article/469/0000962343?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "제주 ‘스토킹 살인’ 피의자 신상공개…61살 강성은",
+          "link": "https://n.news.naver.com/article/056/0012283201?ntype=RANKING",
+          "press": "KBS"
+        }
+      ],
+      "related_titles": [
+        "제주 옛 연인 스토킹·보복살해범은 61세 강성은…신상 공개",
+        "스마트워치 뜯어내고 보복살해…61세 강성은 얼굴 공개",
+        "[속보]  '61세 강성은'...제주 40대女 보복살해범 신상 공개",
+        "'스토킹·협박 끝 보복살해' 제주 61세 강성은 머그샷 공개",
+        "제주 ‘스토킹 살인’ 피의자 신상공개…61살 강성은"
+      ],
+      "category": "사회/일반"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "삼성전자",
+      "count": 40,
+      "representative_title": "삼성전자 실적 발표 후 급락…코스피 5,800선",
+      "representative_link": "https://n.news.naver.com/article/422/0000920725?ntype=RANKING",
+      "press": "연합뉴스TV",
+      "related_articles": [
+        {
+          "title": "삼성전자, 3Q 성적표 오늘 공개…주주환원, SK하닉 '100조' 뛰어넘나",
+          "link": "https://n.news.naver.com/article/421/0009256670?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "삼성전자, 30조 현금배당+최대 75조 추가 환원…영업익 100조 시대(종합)",
+          "link": "https://n.news.naver.com/article/421/0009257459?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "삼성전자, 3분기 주당 4천601원 현금배당…총 30조 원 규모",
+          "link": "https://n.news.naver.com/article/055/0001399004?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "삼성전자 \"내년 HBM 완판…10개사와 메모리 장기계약 협상중\"",
+          "link": "https://n.news.naver.com/article/001/0016408422?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "삼성전자 주주환원 계획에 실망?…코스피 3% 가까이 급락",
+          "link": "https://n.news.naver.com/article/015/0005347940?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "삼성전자, 3Q 성적표 오늘 공개…주주환원, SK하닉 '100조' 뛰어넘나",
+        "삼성전자, 30조 현금배당+최대 75조 추가 환원…영업익 100조 시대(종합)",
+        "삼성전자, 3분기 주당 4천601원 현금배당…총 30조 원 규모",
+        "삼성전자 \"내년 HBM 완판…10개사와 메모리 장기계약 협상중\"",
+        "삼성전자 주주환원 계획에 실망?…코스피 3% 가까이 급락"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "영업익",
+      "count": 17,
+      "representative_title": "\"삼전 -5%, 주가 왜 이래\"...3Q 영업익 107조에도 '급락' 이유는",
+      "representative_link": "https://n.news.naver.com/article/008/0005433498?ntype=RANKING",
+      "press": "머니투데이",
+      "related_articles": [
+        {
+          "title": "\"삼전 -5%, 주가 왜 이래\"...3Q 영업익 107조에도 '급락' 이유는",
+          "link": "https://n.news.naver.com/article/008/0005433498?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "“삼전 영업익 107조인데 주가는 5%↓”…코스피, 6100 돌파 후 5800선 추락",
+          "link": "https://n.news.naver.com/article/138/0002246461?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "\"삼전 -5%, 주가 왜 이래\"...3Q 영업익 107조에도 '급락' 이유는",
+          "link": "https://n.news.naver.com/article/008/0005433498?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "“삼전 영업익 107조인데 주가는 5%↓”…코스피, 6100 돌파 후 5800선 추락",
+          "link": "https://n.news.naver.com/article/138/0002246461?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "\"삼전 -5%, 주가 왜 이래\"...3Q 영업익 107조에도 '급락' 이유는",
+          "link": "https://n.news.naver.com/article/008/0005433498?ntype=RANKING",
+          "press": "머니투데이"
+        }
+      ],
+      "related_titles": [
+        "\"삼전 -5%, 주가 왜 이래\"...3Q 영업익 107조에도 '급락' 이유는",
+        "“삼전 영업익 107조인데 주가는 5%↓”…코스피, 6100 돌파 후 5800선 추락",
+        "\"삼전 -5%, 주가 왜 이래\"...3Q 영업익 107조에도 '급락' 이유는",
+        "“삼전 영업익 107조인데 주가는 5%↓”…코스피, 6100 돌파 후 5800선 추락",
+        "\"삼전 -5%, 주가 왜 이래\"...3Q 영업익 107조에도 '급락' 이유는"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "급락",
+      "count": 10,
+      "representative_title": "[속보] 삼전, 주주환원 발표 후 4%대 급락",
+      "representative_link": "https://n.news.naver.com/article/082/0001404661?ntype=RANKING",
+      "press": "부산일보",
+      "related_articles": [
+        {
+          "title": "대우건설 주가 20% 급락…체코 원전 시공 협상 결렬 여파 [이런국장 저런주식]",
+          "link": "https://n.news.naver.com/article/011/0004676463?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "체코 원전 시공계약 '협상 결렬'에…대우건설, 22% 급락",
+          "link": "https://n.news.naver.com/article/215/0001270928?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "[속보] 삼전, 주주환원 발표 후 4%대 급락",
+          "link": "https://n.news.naver.com/article/082/0001404661?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "체코 원전 수주 철회 아닌데…시공협상 결렬에 대우건설 22%·두산에너빌 12% 급락",
+          "link": "https://n.news.naver.com/article/050/0000112527?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "대우건설 주가 20% 급락…체코 원전 시공 협상 결렬 여파 [이런국장 저런주식]",
+          "link": "https://n.news.naver.com/article/011/0004676463?ntype=RANKING",
+          "press": "서울경제"
+        }
+      ],
+      "related_titles": [
+        "대우건설 주가 20% 급락…체코 원전 시공 협상 결렬 여파 [이런국장 저런주식]",
+        "체코 원전 시공계약 '협상 결렬'에…대우건설, 22% 급락",
+        "[속보] 삼전, 주주환원 발표 후 4%대 급락",
+        "체코 원전 수주 철회 아닌데…시공협상 결렬에 대우건설 22%·두산에너빌 12% 급락",
+        "대우건설 주가 20% 급락…체코 원전 시공 협상 결렬 여파 [이런국장 저런주식]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "주가",
+      "count": 6,
+      "representative_title": "“15만원이 5만원 됐다”…주가 66% 폭락한 이 종목, 바닥일까[종목e슈]",
+      "representative_link": "https://n.news.naver.com/article/018/0006398352?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "“15만원이 5만원 됐다”…주가 66% 폭락한 이 종목, 바닥일까[종목e슈]",
+          "link": "https://n.news.naver.com/article/018/0006398352?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "“15만원이 5만원 됐다”…주가 66% 폭락한 이 종목, 바닥일까[종목e슈]",
+          "link": "https://n.news.naver.com/article/018/0006398352?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "“15만원이 5만원 됐다”…주가 66% 폭락한 이 종목, 바닥일까[종목e슈]",
+          "link": "https://n.news.naver.com/article/018/0006398352?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "“15만원이 5만원 됐다”…주가 66% 폭락한 이 종목, 바닥일까[종목e슈]",
+        "“15만원이 5만원 됐다”…주가 66% 폭락한 이 종목, 바닥일까[종목e슈]",
+        "“15만원이 5만원 됐다”…주가 66% 폭락한 이 종목, 바닥일까[종목e슈]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "반도체",
+      "count": 5,
+      "representative_title": "“반도체 시장 절반이 메모리 될 것”…토스증권, 삼성·하이닉스 AI 전략 비교",
+      "representative_link": "https://n.news.naver.com/article/138/0002246470?ntype=RANKING",
+      "press": "디지털데일리",
+      "related_articles": [
+        {
+          "title": "“반도체 시장 절반이 메모리 될 것”…토스증권, 삼성·하이닉스 AI 전략 비교",
+          "link": "https://n.news.naver.com/article/138/0002246470?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "“반도체 시장 절반이 메모리 될 것”…토스증권, 삼성·하이닉스 AI 전략 비교",
+          "link": "https://n.news.naver.com/article/138/0002246470?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "“반도체 시장 절반이 메모리 될 것”…토스증권, 삼성·하이닉스 AI 전략 비교",
+          "link": "https://n.news.naver.com/article/138/0002246470?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "“반도체 시장 절반이 메모리 될 것”…토스증권, 삼성·하이닉스 AI 전략 비교",
+        "“반도체 시장 절반이 메모리 될 것”…토스증권, 삼성·하이닉스 AI 전략 비교",
+        "“반도체 시장 절반이 메모리 될 것”…토스증권, 삼성·하이닉스 AI 전략 비교"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 2,
+      "representative_title": "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+      "representative_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNampVRjNIUndFNHU3OVNHdnBGUTFjelpIZTNEZ2xGdW80SkxqMHh4SmViWWJmR1R6VFhRR2xyZHE0bG1TMWI3eHhuSFpFWGh3bzBObkd3VjNvQzhWclV5Vjc3Wi1NVW5SZ2FMY3BtTEpFWFdlckJZRkdfOFFhLS1SNTc3TGt1LXhSRkpuNUoxWFBXa0VKVm1hcDNxdWlVY0FSekJVTkRRSGVMa2tLWUNhQVl6eXpsTDE5bGRPVzk3WDQtbkRsYTdiYm1SSlVzdmZ1NkJEYU1ubHctcWF1UDF4SDZtZlN4ZFI5aFVMb05QZ1VYRmFlZmVfeVhvMUZScm1Ja2hjV2dLRmdDY2ZaRXpWbnZ0YmxYZ1lK?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNampVRjNIUndFNHU3OVNHdnBGUTFjelpIZTNEZ2xGdW80SkxqMHh4SmViWWJmR1R6VFhRR2xyZHE0bG1TMWI3eHhuSFpFWGh3bzBObkd3VjNvQzhWclV5Vjc3Wi1NVW5SZ2FMY3BtTEpFWFdlckJZRkdfOFFhLS1SNTc3TGt1LXhSRkpuNUoxWFBXa0VKVm1hcDNxdWlVY0FSekJVTkRRSGVMa2tLWUNhQVl6eXpsTDE5bGRPVzk3WDQtbkRsYTdiYm1SSlVzdmZ1NkJEYU1ubHctcWF1UDF4SDZtZlN4ZFI5aFVMb05QZ1VYRmFlZmVfeVhvMUZScm1Ja2hjV2dLRmdDY2ZaRXpWbnZ0YmxYZ1lK?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\"",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EbnJ1cDN3S1p3a2JXMVVtZGZjMlZLZlplcGhRVHJZSzlidGJIWEF1RURWWnY0MVRmYzRKWUM5TC1faUVjWW9ybWJ1czRlZXMxRDdQbHZyV3dWaWNMVjNuN1dJSVkxcUlWa2wzV3FYTQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+        "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "영재",
+      "series_title": "영재의 몰락",
+      "count": 2,
+      "representative_title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzIwdjEtQm9hSUM4ZDBSZlVHdlhTVWZGR2cxVU9mc1JqcVBMeW53c184WExBX3dTSGJXWHUtRWJrMGlOaXh4QVNpY0Zja2JhaXBvcUxFdlBRd3I3Tk1QeGdBRGVRc29xRm1GWm9rQmVkaWU0cUhITmlyNDhGQ3VXNDloRdIBlwFBVV95cUxOQmRvNlhGR1B6M1NjdFZaakpNN0lzOWc0bzJMN0x0ZTJlblBsd0NwRmZ0N3dQYmROZzltX254b3A5Z2g4YS13N3MyTUp4MTJnRy1FTEJFYzA4bEZhaC1wdlI0ekNwN1ZlNGg0S0ZORWxkQWJHM2hjdmRaNkRycXJoMnFCWnVjZ2UwNUctRURDVzFIN20yX1hJ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+        "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "천재",
+      "series_title": "천재의 몰락",
+      "count": 2,
+      "representative_title": "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWk9hS3JrTkxlWFNGdGlOOU1KWkRabmxRdW9zQ3FkS29aMWF1ZWRqcy14NTFEaTV5VGxTMnhKd3BJQ09vQ2VNcWtLMVlVTzA5T05XRzVHZVpyTm1tc0I5U1ZOU0s4QQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "그야말로 파격 결단! 몰락한 천재 감독 맨체스터 유나이티드에서 부활의 날개 펼치나…\"내부 인사들의 지지가 점점 커지고 있어\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SbWpUbmN6X28zS2tBSTlna1RiRnhaeDltOHF5M2hNZVEzZUFfQjMtWFllNXo1b0QyMHA1VWJjclUtZUlOQ2U4SEhoUkZhY25yOUoweDdBTkNkVERrRDhicA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\"",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWk9hS3JrTkxlWFNGdGlOOU1KWkRabmxRdW9zQ3FkS29aMWF1ZWRqcy14NTFEaTV5VGxTMnhKd3BJQ09vQ2VNcWtLMVlVTzA5T05XRzVHZVpyTm1tc0I5U1ZOU0s4QQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "그야말로 파격 결단! 몰락한 천재 감독 맨체스터 유나이티드에서 부활의 날개 펼치나…\"내부 인사들의 지지가 점점 커지고 있어\"",
+        "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "음바페",
+      "series_title": "음바페의 몰락",
+      "count": 1,
+      "representative_title": "중국 인민일보 \"음바페 몰락은 외국 스타들의 거울\"…‘마오쩌둥’ 논란 일파만파",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02TUktLWNoZ2ZaSURJa2xPTFRyS0ptYllWV1RWWV80bzlLZzNfbHdPRGhXeFB3MnNNQmI4REJ5ZzJUak9ZS21jWmEtN2dobFJzU0hyUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "중국 인민일보 \"음바페 몰락은 외국 스타들의 거울\"…‘마오쩌둥’ 논란 일파만파",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02TUktLWNoZ2ZaSURJa2xPTFRyS0ptYllWV1RWWV80bzlLZzNfbHdPRGhXeFB3MnNNQmI4REJ5ZzJUak9ZS21jWmEtN2dobFJzU0hyUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "중국 인민일보 \"음바페 몰락은 외국 스타들의 거울\"…‘마오쩌둥’ 논란 일파만파"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "고속철",
+      "series_title": "고속철의 몰락",
+      "count": 1,
+      "representative_title": "[줌인] 9개월 새 114명 사망… ‘세계 2위’ 스페인 고속철의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVdET2IwTm50dHcxSV9oeC0xZ2NQbVV5X1NYbkdEY2ROZXhHcDZsLVpqUUV1aUZ4VXhGX3BUWGpGSG5IWHZJV2hDSnZid250NVExRTM2UmFsSXEtS1k4emhnM0lRV3dZVGlaM0FJaS1YaUJFa3hGLVFpWGFxd2xMMzNidkt0cWNMaE1aek9IVmM5ZHhzUXpCeXBoaDc2UQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[줌인] 9개월 새 114명 사망… ‘세계 2위’ 스페인 고속철의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVdET2IwTm50dHcxSV9oeC0xZ2NQbVV5X1NYbkdEY2ROZXhHcDZsLVpqUUV1aUZ4VXhGX3BUWGpGSG5IWHZJV2hDSnZid250NVExRTM2UmFsSXEtS1k4emhnM0lRV3dZVGlaM0FJaS1YaUJFa3hGLVFpWGFxd2xMMzNidkt0cWNMaE1aek9IVmM5ZHhzUXpCeXBoaDc2UQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[줌인] 9개월 새 114명 사망… ‘세계 2위’ 스페인 고속철의 몰락"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "강남",
+      "count": 6,
+      "representative_title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 집값 주춤한 사이 강북은 12억원 돌파…서울 아파트 시장 지형 바뀌나",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xLUdpendVakV5M3EtRVRiQ2JabXRTeGxxNXctdEpSbHFoV3diR3RtRV9WSHZvUWtLTW1kQTZPVFBSOHluQXFkWDJPdVBoWVU5NF9yNVc3M3dnNHVCQWpYVGhvWUxzYVdFY280TUY0T1hSeTcwZklEemZRbnQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트값 상승률 올해 최저…강남·서초 내리고 노원 올라",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PX2M3UmYya3hKNHJzTXp1Q2doSEFtSU9iejdsYjhXM19Vc0xqczZOaXJMOWk5QmJ0ejhETWpJRTExOXhHTUU1a0NpbWtMQndxN2tmZ29jeWVSa3h4?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXgxbGxjaVo0ejh3LS1VS0JhU0Z2MGhNSWxvRU9SVGlmY191SUw2aVlZMkRiRlE4eDhxeXZUczN0aWtoRFcydUtTSGd0UjZLbHZhLXBpN2NCZ3VuN3luSWotWU0zOHJlT1N2OS1mbmQxYnRaTVB0OFNZeU96UzA2TDhDQQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“지방 아파트 30채 팔아야 강남 1채” 전국 집값 격차 역대 ‘최대’ [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96cjNTNzZxeVFpaGx1eC1xZmgxdnR1ZHpSc0Y1aWhMUEM5d25BdUNzNlNzOXJzOWhHeDhVRmF4VGlyLXowLWF3aGpYcVVuNVZvbUZrMHNR?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 집값 주춤한 사이 강북은 12억원 돌파…서울 아파트 시장 지형 바뀌나",
+        "서울 아파트값 상승률 올해 최저…강남·서초 내리고 노원 올라",
+        "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”",
+        "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+        "“지방 아파트 30채 팔아야 강남 1채” 전국 집값 격차 역대 ‘최대’ [부동산360]"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "서울",
+      "count": 5,
+      "representative_title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+      "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVE9hdmd2bm9ZemVQMWZyenNOQ0xMd2lDUUVUa2FabzliNmNVTi1TVmFtamVQLW5fZWx5SFFTN0dlV3Z6akZEd3Uwc1ZFbGU2UnNsZkxiMDlYTzRnMVVVS1Z6Y0dDdnc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "‘집값 드디어 잡힐까’…KB부동산 “서울 아파트값 상승률 연내 최저”",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sVHp0bXc5RXBKbWRkblRQTWpicjFsOVExQmNLMmQ2d3Z4WF9TOXhicy1TSXFYZVB0UlRrdVdzVFFrN0p3cm5EMHdxTDhvd3RPcEt0elRsYw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+        "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+        "‘집값 드디어 잡힐까’…KB부동산 “서울 아파트값 상승률 연내 최저”"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "떨어질",
+      "count": 2,
+      "representative_title": "“아파트 조심해야, 떨어질 가능성 크다” 박현주 회장 경고…집값 정말 꺾이나",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yWjZLZDl2cjh3TmI0MjBReENmdVlUeVZaUS1JQlY5UzE1VGNFb1NUa2tlYkotb1E2SHZfRnZPdnlzZEpKd0RRajVkX05xUHhucXRwQ1N3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“아파트 조심해야, 떨어질 가능성 크다” 박현주 회장 경고…집값 정말 꺾이나",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yWjZLZDl2cjh3TmI0MjBReENmdVlUeVZaUS1JQlY5UzE1VGNFb1NUa2tlYkotb1E2SHZfRnZPdnlzZEpKd0RRajVkX05xUHhucXRwQ1N3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“아파트 조심해야, 떨어질 가능성 크다” 박현주 회장 경고…집값 정말 꺾이나"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
