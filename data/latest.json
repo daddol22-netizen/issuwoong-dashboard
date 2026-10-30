@@ -1,17 +1,17 @@
 {
   "date": "2026-10-30",
-  "hour": "13",
-  "slot": "2026-10-30_13",
-  "crawled_at": "2026-10-30 13:00:04",
-  "total_articles": 407,
+  "hour": "16",
+  "slot": "2026-10-30_16",
+  "crawled_at": "2026-10-30 16:00:03",
+  "total_articles": 403,
   "topics": [
     {
       "rank": 1,
       "keyword": "최불암",
-      "count": 32,
-      "representative_title": "'국민 아버지' 배우 최불암 별세…향년 87세",
-      "representative_link": "https://n.news.naver.com/article/057/0001975846?ntype=RANKING",
-      "press": "MBN",
+      "count": 30,
+      "representative_title": "'국민 아버지' 최불암…\"연기자는 모두 광대\"",
+      "representative_link": "https://n.news.naver.com/article/422/0000921011?ntype=RANKING",
+      "press": "연합뉴스TV",
       "related_articles": [
         {
           "title": "‘파하~’ 정겨운 웃음 뒤로하고…‘국민 아버지’ 최불암 별세",
@@ -19,295 +19,217 @@
           "press": "디지털타임스"
         },
         {
-          "title": "배우 최불암 향년 87세로 별세...아산병원에 빈소",
-          "link": "https://n.news.naver.com/article/052/0002425918?ntype=RANKING",
-          "press": "YTN"
+          "title": "'국민 아버지' 최불암…\"연기자는 모두 광대\"",
+          "link": "https://n.news.naver.com/article/422/0000921011?ntype=RANKING",
+          "press": "연합뉴스TV"
         },
         {
-          "title": "‘국민 아버지’ 최불암, 빈소는 서울아산병원… 오늘 오전 10시부터 조문",
-          "link": "https://n.news.naver.com/article/366/0001201410?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "“22년간 아버지였는데”…유인촌, 故 최불암 빈소서 먹먹한 작별",
+          "link": "https://n.news.naver.com/article/009/0005756533?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "[최불암 별세] 정치권서도 추모 물결…“국보급 정치인 되라던 덕담 간직”",
-          "link": "https://n.news.naver.com/article/081/0003694210?ntype=RANKING",
-          "press": "서울신문"
+          "title": "바바리코트 휘날리며 작별 인사…최불암, '수사반장' 동료들 곁으로",
+          "link": "https://n.news.naver.com/article/001/0016411903?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "“행복하고 감사했습니다” “존경하는 이모부”···국민배우 최불암 별세에 문화계 추모 물결",
-          "link": "https://n.news.naver.com/article/032/0003479647?ntype=RANKING",
-          "press": "경향신문"
+          "title": "'영원한 수사반장' 최불암 별세…'파하~' 웃음 짓던 '국민 아버지'(종합2보)",
+          "link": "https://n.news.naver.com/article/001/0016410613?ntype=RANKING",
+          "press": "연합뉴스"
         }
       ],
       "related_titles": [
         "‘파하~’ 정겨운 웃음 뒤로하고…‘국민 아버지’ 최불암 별세",
-        "배우 최불암 향년 87세로 별세...아산병원에 빈소",
-        "‘국민 아버지’ 최불암, 빈소는 서울아산병원… 오늘 오전 10시부터 조문",
-        "[최불암 별세] 정치권서도 추모 물결…“국보급 정치인 되라던 덕담 간직”",
-        "“행복하고 감사했습니다” “존경하는 이모부”···국민배우 최불암 별세에 문화계 추모 물결"
-      ],
-      "category": "정치"
-    },
-    {
-      "rank": 2,
-      "keyword": "무죄",
-      "count": 27,
-      "representative_title": "‘롯데리아 계엄 회동’ 군인 8명 모두 1심 무죄",
-      "representative_link": "https://n.news.naver.com/article/020/0003758916?ntype=RANKING",
-      "press": "동아일보",
-      "related_articles": [
-        {
-          "title": "“국헌문란 목적 없었다”…‘계엄 햄버거 회동’ 전직 군인들 1심 무죄",
-          "link": "https://n.news.naver.com/article/029/0003056214?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "계엄 6시간 앞두고 '롯데리아 회동'…군인 8명 전원 1심 무죄",
-          "link": "https://n.news.naver.com/article/437/0000518275?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "[속보] '계엄 햄버거 회동' 구삼회 등 전직 군인, 1심 무죄 선고",
-          "link": "https://n.news.naver.com/article/052/0002425984?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "‘롯데리아 회동’ 계엄 가담 군인들 1심 무죄... “국헌문란 목적 없어”",
-          "link": "https://n.news.naver.com/article/023/0004006872?ntype=RANKING",
-          "press": "조선일보"
-        },
-        {
-          "title": "[속보]‘햄버거 회동’ 구삼회 등 내란 가담 군인 8명, 1심 무죄···법원 “국헌문란 목적 인정 안돼”",
-          "link": "https://n.news.naver.com/article/032/0003479649?ntype=RANKING",
-          "press": "경향신문"
-        }
-      ],
-      "related_titles": [
-        "“국헌문란 목적 없었다”…‘계엄 햄버거 회동’ 전직 군인들 1심 무죄",
-        "계엄 6시간 앞두고 '롯데리아 회동'…군인 8명 전원 1심 무죄",
-        "[속보] '계엄 햄버거 회동' 구삼회 등 전직 군인, 1심 무죄 선고",
-        "‘롯데리아 회동’ 계엄 가담 군인들 1심 무죄... “국헌문란 목적 없어”",
-        "[속보]‘햄버거 회동’ 구삼회 등 내란 가담 군인 8명, 1심 무죄···법원 “국헌문란 목적 인정 안돼”"
+        "'국민 아버지' 최불암…\"연기자는 모두 광대\"",
+        "“22년간 아버지였는데”…유인촌, 故 최불암 빈소서 먹먹한 작별",
+        "바바리코트 휘날리며 작별 인사…최불암, '수사반장' 동료들 곁으로",
+        "'영원한 수사반장' 최불암 별세…'파하~' 웃음 짓던 '국민 아버지'(종합2보)"
       ],
       "category": "사회/일반"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "keyword": "대통령",
-      "count": 18,
+      "count": 16,
       "representative_title": "李대통령 차남 한남동 관저 거주…“아빠 찬스” 지적",
       "representative_link": "https://n.news.naver.com/article/005/0001881755?ntype=RANKING",
       "press": "국민일보",
       "related_articles": [
+        {
+          "title": "이 대통령, 연이은 발언 논란… ‘약자 차별 부추긴다’ 우려",
+          "link": "https://n.news.naver.com/article/036/0000054385?ntype=RANKING",
+          "press": "한겨레21"
+        },
         {
           "title": "'신변보호 해제' 유해진, 대통령 표창 수상…유재석은 등 토닥",
           "link": "https://n.news.naver.com/article/015/0005348416?ntype=RANKING",
           "press": "한국경제"
         },
         {
-          "title": "이 대통령 지지율 39%…민주 35%·국힘 30% 오차 범위 내 [한국갤럽]",
-          "link": "https://n.news.naver.com/article/055/0001399338?ntype=RANKING",
-          "press": "SBS"
+          "title": "李대통령 차남 한남동 관저 거주…“아빠 찬스” 지적",
+          "link": "https://n.news.naver.com/article/005/0001881755?ntype=RANKING",
+          "press": "국민일보"
         },
         {
-          "title": "주진우, ‘황제골프 의혹’ 李대통령 부부 고발&#8943;“골프 비용 결제 내역과 라운딩 동석한 프로골퍼 레슨 내역 투명하게 공개해야”",
-          "link": "https://n.news.naver.com/article/087/0001227168?ntype=RANKING",
-          "press": "강원일보"
+          "title": "주진우 \"황제골프 후 헬기\" vs 박지원 \"대통령 부부가 택시타냐\"",
+          "link": "https://n.news.naver.com/article/448/0000647931?ntype=RANKING",
+          "press": "TV조선"
         },
         {
-          "title": "이 대통령 국정지지율 39%, 서울 지역 긍정평가는 상승",
-          "link": "https://n.news.naver.com/article/047/0002534026?ntype=RANKING",
-          "press": "오마이뉴스"
-        },
-        {
-          "title": "[속보] 李대통령 지지율 39%…민주당 35%·국힘 30%[한국갤럽]",
-          "link": "https://n.news.naver.com/article/022/0004171073?ntype=RANKING",
-          "press": "세계일보"
+          "title": "李대통령 국정지지도 다시 40%선 붕괴…여야 지지율 최소 격차",
+          "link": "https://n.news.naver.com/article/002/0002463485?ntype=RANKING",
+          "press": "프레시안"
         }
       ],
       "related_titles": [
+        "이 대통령, 연이은 발언 논란… ‘약자 차별 부추긴다’ 우려",
         "'신변보호 해제' 유해진, 대통령 표창 수상…유재석은 등 토닥",
-        "이 대통령 지지율 39%…민주 35%·국힘 30% 오차 범위 내 [한국갤럽]",
-        "주진우, ‘황제골프 의혹’ 李대통령 부부 고발&#8943;“골프 비용 결제 내역과 라운딩 동석한 프로골퍼 레슨 내역 투명하게 공개해야”",
-        "이 대통령 국정지지율 39%, 서울 지역 긍정평가는 상승",
-        "[속보] 李대통령 지지율 39%…민주당 35%·국힘 30%[한국갤럽]"
+        "李대통령 차남 한남동 관저 거주…“아빠 찬스” 지적",
+        "주진우 \"황제골프 후 헬기\" vs 박지원 \"대통령 부부가 택시타냐\"",
+        "李대통령 국정지지도 다시 40%선 붕괴…여야 지지율 최소 격차"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 3,
+      "keyword": "오세훈",
+      "count": 16,
+      "representative_title": "특검, 오세훈 ‘여론조사비 대납 의혹’ 2심 무죄에 상고",
+      "representative_link": "https://n.news.naver.com/article/366/0001201487?ntype=RANKING",
+      "press": "조선비즈",
+      "related_articles": [
+        {
+          "title": "특검, 오세훈 정치자금법 2심 무죄에 상고…\"항소심, 사실 인정·판단 오류\"",
+          "link": "https://n.news.naver.com/article/422/0000921130?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "특검, 오세훈 2심 무죄에 상고…\"명태균 진술 뒷받침 증거 충분\"(종합)",
+          "link": "https://n.news.naver.com/article/001/0016411546?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "특검, 오세훈 ‘여론조사비 대납 의혹’ 2심 무죄에 상고",
+          "link": "https://n.news.naver.com/article/366/0001201487?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "특검, 오세훈 항소심 무죄에 상고… \"명태균 진술 뒷받침 증거 충분\"",
+          "link": "https://n.news.naver.com/article/656/0000191020?ntype=RANKING",
+          "press": "대전일보"
+        },
+        {
+          "title": "특검, 오세훈 무죄에 상고... \"'이틀 만에 의뢰' 판결 전제부터 틀렸다\"",
+          "link": "https://n.news.naver.com/article/047/0002534043?ntype=RANKING",
+          "press": "오마이뉴스"
+        }
+      ],
+      "related_titles": [
+        "특검, 오세훈 정치자금법 2심 무죄에 상고…\"항소심, 사실 인정·판단 오류\"",
+        "특검, 오세훈 2심 무죄에 상고…\"명태균 진술 뒷받침 증거 충분\"(종합)",
+        "특검, 오세훈 ‘여론조사비 대납 의혹’ 2심 무죄에 상고",
+        "특검, 오세훈 항소심 무죄에 상고… \"명태균 진술 뒷받침 증거 충분\"",
+        "특검, 오세훈 무죄에 상고... \"'이틀 만에 의뢰' 판결 전제부터 틀렸다\""
       ],
       "category": "정치"
     },
     {
       "rank": 4,
-      "keyword": "오세훈",
-      "count": 18,
-      "representative_title": "[속보] 특검, 오세훈 정치자금법 2심 무죄에 상고",
-      "representative_link": "https://n.news.naver.com/article/009/0005756454?ntype=RANKING",
-      "press": "매일경제",
+      "keyword": "여성",
+      "count": 13,
+      "representative_title": "“술자리 젠슨 황 옆 여성 기업인, 中스파이였다”",
+      "representative_link": "https://n.news.naver.com/article/020/0003758889?ntype=RANKING",
+      "press": "동아일보",
       "related_articles": [
         {
-          "title": "[속보] 특검, 오세훈 ‘여론조사비 대납 의혹’ 2심 무죄에 상고",
-          "link": "https://n.news.naver.com/article/366/0001201487?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "“헤어지자고?”…전 남친 집 찾아가 “불 지르겠다” 협박한 20대 여성 체포",
+          "link": "https://n.news.naver.com/article/029/0003056227?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "[속보] 김건희 특검, 오세훈 정치자금법 2심 무죄에 상고",
-          "link": "https://n.news.naver.com/article/422/0000921136?ntype=RANKING",
+          "title": "키 148cm·몸무게 132kg 일본 여성, 아이돌 도전 화제",
+          "link": "https://n.news.naver.com/article/422/0000921143?ntype=RANKING",
           "press": "연합뉴스TV"
         },
         {
-          "title": "특검, 오세훈 정치자금법 2심 무죄에 상고…“객관적 증거·정황 충분”",
-          "link": "https://n.news.naver.com/article/666/0000129876?ntype=RANKING",
-          "press": "경기일보"
+          "title": "\"혼자 죽기 두려워서\" 두어번 만난 日여성 살해한 30대男",
+          "link": "https://n.news.naver.com/article/018/0006399643?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "\"오세훈 부상하면 장동혁 입지 위태…한동훈 복당시켜 선의의 경쟁해야\"",
-          "link": "https://n.news.naver.com/article/586/0000141214?ntype=RANKING",
-          "press": "시사저널"
+          "title": "“술자리 젠슨 황 옆 여성 기업인, 中스파이였다”",
+          "link": "https://n.news.naver.com/article/020/0003758889?ntype=RANKING",
+          "press": "동아일보"
         },
         {
-          "title": "[속보] 특검, 오세훈 정치자금법 2심 무죄에 상고",
-          "link": "https://n.news.naver.com/article/009/0005756454?ntype=RANKING",
-          "press": "매일경제"
+          "title": "“약 끊고 버텨라”…챗GPT 조언 따른 뇌전증 여성 사망",
+          "link": "https://n.news.naver.com/article/020/0003758891?ntype=RANKING",
+          "press": "동아일보"
         }
       ],
       "related_titles": [
-        "[속보] 특검, 오세훈 ‘여론조사비 대납 의혹’ 2심 무죄에 상고",
-        "[속보] 김건희 특검, 오세훈 정치자금법 2심 무죄에 상고",
-        "특검, 오세훈 정치자금법 2심 무죄에 상고…“객관적 증거·정황 충분”",
-        "\"오세훈 부상하면 장동혁 입지 위태…한동훈 복당시켜 선의의 경쟁해야\"",
-        "[속보] 특검, 오세훈 정치자금법 2심 무죄에 상고"
+        "“헤어지자고?”…전 남친 집 찾아가 “불 지르겠다” 협박한 20대 여성 체포",
+        "키 148cm·몸무게 132kg 일본 여성, 아이돌 도전 화제",
+        "\"혼자 죽기 두려워서\" 두어번 만난 日여성 살해한 30대男",
+        "“술자리 젠슨 황 옆 여성 기업인, 中스파이였다”",
+        "“약 끊고 버텨라”…챗GPT 조언 따른 뇌전증 여성 사망"
       ],
-      "category": "정치"
+      "category": "사건/사고"
     },
     {
       "rank": 5,
-      "keyword": "국민",
-      "count": 16,
-      "representative_title": "AI 대전환기, 국민 대표 223명이 모여 공동의 미래를 설계하다",
-      "representative_link": "https://n.news.naver.com/article/308/0000038912?ntype=RANKING",
-      "press": "시사IN",
+      "keyword": "광주",
+      "count": 13,
+      "representative_title": "스타벅스, 불매운동 이후 광주 대형매장 첫 폐점",
+      "representative_link": "https://n.news.naver.com/article/005/0001881942?ntype=RANKING",
+      "press": "국민일보",
       "related_articles": [
         {
-          "title": "AI 대전환기, 국민 대표 223명이 모여 공동의 미래를 설계하다",
-          "link": "https://n.news.naver.com/article/308/0000038912?ntype=RANKING",
-          "press": "시사IN"
+          "title": "‘탱크데이’ 후폭풍…스타벅스, 광주 거점 대형매장 문 닫았다",
+          "link": "https://n.news.naver.com/article/029/0003056223?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "“문해력, 국가 생산성 좌우할 ‘국민 역량’…정보를 내 것으로 만드는 힘 필요”",
-          "link": "https://n.news.naver.com/article/262/0000019793?ntype=RANKING",
-          "press": "신동아"
+          "title": "'탱크데이' 논란 뒤 첫 사례…광주 무등산 앞 스벅 사라진다",
+          "link": "https://n.news.naver.com/article/437/0000518321?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "스타벅스, 불매운동 이후 광주 대형매장 첫 폐점",
+          "link": "https://n.news.naver.com/article/005/0001881942?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "스타벅스, '탱크데이' 불매운동 후 광주 대형 매장 첫 폐점",
+          "link": "https://n.news.naver.com/article/055/0001399356?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "'탱크데이' 불매 여파?…스타벅스, 광주 대형매장 문 닫았다",
+          "link": "https://n.news.naver.com/article/448/0000647968?ntype=RANKING",
+          "press": "TV조선"
         }
       ],
       "related_titles": [
-        "AI 대전환기, 국민 대표 223명이 모여 공동의 미래를 설계하다",
-        "“문해력, 국가 생산성 좌우할 ‘국민 역량’…정보를 내 것으로 만드는 힘 필요”"
+        "‘탱크데이’ 후폭풍…스타벅스, 광주 거점 대형매장 문 닫았다",
+        "'탱크데이' 논란 뒤 첫 사례…광주 무등산 앞 스벅 사라진다",
+        "스타벅스, 불매운동 이후 광주 대형매장 첫 폐점",
+        "스타벅스, '탱크데이' 불매운동 후 광주 대형 매장 첫 폐점",
+        "'탱크데이' 불매 여파?…스타벅스, 광주 대형매장 문 닫았다"
       ],
-      "category": "산업/테크"
+      "category": "사회/일반"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "코스피",
-      "count": 11,
-      "representative_title": "코스피 ‘W자’ 반등이냐 ‘L자’ 늪이냐",
-      "representative_link": "https://n.news.naver.com/article/024/0000109255?ntype=RANKING",
-      "press": "매경이코노미",
-      "related_articles": [
-        {
-          "title": "코스피 4%대 급락…11거래일 만에 매도 사이드카",
-          "link": "https://n.news.naver.com/article/029/0003056211?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "코스피, 알파벳發 쇼크에 5%대 폭락… 매도 사이드카 발동",
-          "link": "https://n.news.naver.com/article/366/0001201468?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "\"삼전닉스 또 왜 이래\"…구글 쇼크에 코스피 급락, 매도 사이드카",
-          "link": "https://n.news.naver.com/article/008/0005434166?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "코스피 5% 급락에 매도 사이드카…삼전·하닉 ‘와르르’[투자360]",
-          "link": "https://n.news.naver.com/article/016/0002716583?ntype=RANKING",
-          "press": "헤럴드경제"
-        },
-        {
-          "title": "[속보] 코스피 4%대 급락에 매도 사이드카 발동… 美 AI 투자 우려 재점화",
-          "link": "https://n.news.naver.com/article/469/0000962617?ntype=RANKING",
-          "press": "한국일보"
-        }
-      ],
-      "related_titles": [
-        "코스피 4%대 급락…11거래일 만에 매도 사이드카",
-        "코스피, 알파벳發 쇼크에 5%대 폭락… 매도 사이드카 발동",
-        "\"삼전닉스 또 왜 이래\"…구글 쇼크에 코스피 급락, 매도 사이드카",
-        "코스피 5% 급락에 매도 사이드카…삼전·하닉 ‘와르르’[투자360]",
-        "[속보] 코스피 4%대 급락에 매도 사이드카 발동… 美 AI 투자 우려 재점화"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 2,
-      "keyword": "급락",
-      "count": 6,
-      "representative_title": "\"오를만 하면 또 '와르르'\"…SK하닉 9% 급락, 허탈한 개미들",
-      "representative_link": "https://n.news.naver.com/article/014/0005596996?ntype=RANKING",
-      "press": "파이낸셜뉴스",
-      "related_articles": [
-        {
-          "title": "폴란드 수출 지연에 어닝 쇼크…한화에어로 10%대 급락[이런주식 저런국장]",
-          "link": "https://n.news.naver.com/article/011/0004676997?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "\"오를만 하면 또 '와르르'\"…SK하닉 9% 급락, 허탈한 개미들",
-          "link": "https://n.news.naver.com/article/014/0005596996?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        },
-        {
-          "title": "폴란드 수출 지연에 어닝 쇼크…한화에어로 10%대 급락[이런주식 저런국장]",
-          "link": "https://n.news.naver.com/article/011/0004676997?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "\"오를만 하면 또 '와르르'\"…SK하닉 9% 급락, 허탈한 개미들",
-          "link": "https://n.news.naver.com/article/014/0005596996?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        },
-        {
-          "title": "폴란드 수출 지연에 어닝 쇼크…한화에어로 10%대 급락[이런주식 저런국장]",
-          "link": "https://n.news.naver.com/article/011/0004676997?ntype=RANKING",
-          "press": "서울경제"
-        }
-      ],
-      "related_titles": [
-        "폴란드 수출 지연에 어닝 쇼크…한화에어로 10%대 급락[이런주식 저런국장]",
-        "\"오를만 하면 또 '와르르'\"…SK하닉 9% 급락, 허탈한 개미들",
-        "폴란드 수출 지연에 어닝 쇼크…한화에어로 10%대 급락[이런주식 저런국장]",
-        "\"오를만 하면 또 '와르르'\"…SK하닉 9% 급락, 허탈한 개미들",
-        "폴란드 수출 지연에 어닝 쇼크…한화에어로 10%대 급락[이런주식 저런국장]"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 3,
       "keyword": "삼성전자",
-      "count": 6,
+      "count": 10,
       "representative_title": "“호황에 안주 말라” 삼성전자 양대 수장 쓴소리",
       "representative_link": "https://n.news.naver.com/article/050/0000112578?ntype=RANKING",
       "press": "한경비즈니스",
       "related_articles": [
-        {
-          "title": "“호황에 안주 말라” 삼성전자 양대 수장 쓴소리",
-          "link": "https://n.news.naver.com/article/050/0000112578?ntype=RANKING",
-          "press": "한경비즈니스"
-        },
-        {
-          "title": "삼성전자, 40만원대 실속폰 '갤럭시A18 LTE' 국내 출시",
-          "link": "https://n.news.naver.com/article/629/0000547116?ntype=RANKING",
-          "press": "더팩트"
-        },
         {
           "title": "“내 연봉 8억, 아내는 4000만원…집안일 반반이 맞나?” 삼성전자 직원 글에 여성들 반응은?",
           "link": "https://n.news.naver.com/article/030/0003480303?ntype=RANKING",
@@ -319,103 +241,175 @@
           "press": "TV조선"
         },
         {
+          "title": "삼성전자, 역대급 실적에도 주주환원 발목…목표가 35만원으로 낮춘 IBK",
+          "link": "https://n.news.naver.com/article/648/0000052107?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "코스피 ‘알파벳 쇼크’...삼성전자 6%대↓, SK하이닉스 8%대↓",
+          "link": "https://n.news.naver.com/article/028/0002829956?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
           "title": "“호황에 안주 말라” 삼성전자 양대 수장 쓴소리",
           "link": "https://n.news.naver.com/article/050/0000112578?ntype=RANKING",
           "press": "한경비즈니스"
         }
       ],
       "related_titles": [
-        "“호황에 안주 말라” 삼성전자 양대 수장 쓴소리",
-        "삼성전자, 40만원대 실속폰 '갤럭시A18 LTE' 국내 출시",
         "“내 연봉 8억, 아내는 4000만원…집안일 반반이 맞나?” 삼성전자 직원 글에 여성들 반응은?",
         "107조 축포 뒤 8천억 적자…삼성전자 역대급 실적의 두 얼굴",
+        "삼성전자, 역대급 실적에도 주주환원 발목…목표가 35만원으로 낮춘 IBK",
+        "코스피 ‘알파벳 쇼크’...삼성전자 6%대↓, SK하이닉스 8%대↓",
         "“호황에 안주 말라” 삼성전자 양대 수장 쓴소리"
       ],
       "category": "주식/코인"
     },
     {
-      "rank": 4,
-      "keyword": "엔비디아",
-      "count": 5,
-      "representative_title": "[속보]엔비디아, 네이버 3대 주주 된다",
-      "representative_link": "https://n.news.naver.com/article/050/0000112575?ntype=RANKING",
-      "press": "한경비즈니스",
+      "rank": 2,
+      "keyword": "코스피",
+      "count": 7,
+      "representative_title": "코스피, 알파벳發 쇼크에 5%대 폭락… 매도 사이드카 발동",
+      "representative_link": "https://n.news.naver.com/article/366/0001201468?ntype=RANKING",
+      "press": "조선비즈",
       "related_articles": [
         {
-          "title": "엔비디아, 네이버 3대 주주 된다…AI 팩토리 동맹 본격화",
-          "link": "https://n.news.naver.com/article/293/0000092430?ntype=RANKING",
-          "press": "블로터"
+          "title": "유시민 \"재산 100억 반도 안 돼…이재명 '코스피 5000' 믿고 처음 주식 보유\"",
+          "link": "https://n.news.naver.com/article/437/0000518290?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "\"젠슨황과 술자리 중국 女기업인, 엔비디아 정보수집 中스파이\"",
-          "link": "https://n.news.naver.com/article/214/0001532365?ntype=RANKING",
-          "press": "MBC"
+          "title": "코스피, 알파벳發 쇼크에 5%대 폭락… 매도 사이드카 발동",
+          "link": "https://n.news.naver.com/article/366/0001201468?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "\"젠슨 황 곁 여성, 중국 스파이\" 美 발칵…엔비디아 \"정상적 고객\"",
-          "link": "https://n.news.naver.com/article/008/0005434063?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "코스피 5% 폭락에 '매도 사이드카'…장중 5600선도 붕괴",
+          "link": "https://n.news.naver.com/article/629/0000547231?ntype=RANKING",
+          "press": "더팩트"
         },
         {
-          "title": "[속보]엔비디아, 네이버 3대 주주 된다",
-          "link": "https://n.news.naver.com/article/050/0000112575?ntype=RANKING",
-          "press": "한경비즈니스"
+          "title": "유시민 \"재산 100억 반도 안 돼…이재명 '코스피 5000' 믿고 처음 주식 보유\"",
+          "link": "https://n.news.naver.com/article/437/0000518290?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "젠슨 황과 긴밀한 관계…“곁에 있던 그녀, 엔비디아 정보 노린 中 스파이였다”",
-          "link": "https://n.news.naver.com/article/030/0003480325?ntype=RANKING",
-          "press": "전자신문"
+          "title": "코스피, 알파벳發 쇼크에 5%대 폭락… 매도 사이드카 발동",
+          "link": "https://n.news.naver.com/article/366/0001201468?ntype=RANKING",
+          "press": "조선비즈"
         }
       ],
       "related_titles": [
-        "엔비디아, 네이버 3대 주주 된다…AI 팩토리 동맹 본격화",
-        "\"젠슨황과 술자리 중국 女기업인, 엔비디아 정보수집 中스파이\"",
-        "\"젠슨 황 곁 여성, 중국 스파이\" 美 발칵…엔비디아 \"정상적 고객\"",
-        "[속보]엔비디아, 네이버 3대 주주 된다",
-        "젠슨 황과 긴밀한 관계…“곁에 있던 그녀, 엔비디아 정보 노린 中 스파이였다”"
+        "유시민 \"재산 100억 반도 안 돼…이재명 '코스피 5000' 믿고 처음 주식 보유\"",
+        "코스피, 알파벳發 쇼크에 5%대 폭락… 매도 사이드카 발동",
+        "코스피 5% 폭락에 '매도 사이드카'…장중 5600선도 붕괴",
+        "유시민 \"재산 100억 반도 안 돼…이재명 '코스피 5000' 믿고 처음 주식 보유\"",
+        "코스피, 알파벳發 쇼크에 5%대 폭락… 매도 사이드카 발동"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "매도",
+      "count": 6,
+      "representative_title": "매도 사이드카 울렸는데…\"또 털렸대\" 30% 폭등한 주식",
+      "representative_link": "https://n.news.naver.com/article/008/0005434244?ntype=RANKING",
+      "press": "머니투데이",
+      "related_articles": [
+        {
+          "title": "매도 사이드카 울렸는데…\"또 털렸대\" 30% 폭등한 주식",
+          "link": "https://n.news.naver.com/article/008/0005434244?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "매도 사이드카 울렸는데…\"또 털렸대\" 30% 폭등한 주식",
+          "link": "https://n.news.naver.com/article/008/0005434244?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "매도 사이드카 울렸는데…\"또 털렸대\" 30% 폭등한 주식",
+          "link": "https://n.news.naver.com/article/008/0005434244?ntype=RANKING",
+          "press": "머니투데이"
+        }
+      ],
+      "related_titles": [
+        "매도 사이드카 울렸는데…\"또 털렸대\" 30% 폭등한 주식",
+        "매도 사이드카 울렸는데…\"또 털렸대\" 30% 폭등한 주식",
+        "매도 사이드카 울렸는데…\"또 털렸대\" 30% 폭등한 주식"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "하이닉스",
+      "count": 5,
+      "representative_title": "\"누구를 믿어야 하나\"...SK하이닉스 주가 전망에 개미들 '혼란'",
+      "representative_link": "https://n.news.naver.com/article/050/0000112589?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "\"누구를 믿어야 하나\"...SK하이닉스 주가 전망에 개미들 '혼란'",
+          "link": "https://n.news.naver.com/article/050/0000112589?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "\"누구를 믿어야 하나\"...SK하이닉스 주가 전망에 개미들 '혼란'",
+          "link": "https://n.news.naver.com/article/050/0000112589?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "\"누구를 믿어야 하나\"...SK하이닉스 주가 전망에 개미들 '혼란'",
+          "link": "https://n.news.naver.com/article/050/0000112589?ntype=RANKING",
+          "press": "한경비즈니스"
+        }
+      ],
+      "related_titles": [
+        "\"누구를 믿어야 하나\"...SK하이닉스 주가 전망에 개미들 '혼란'",
+        "\"누구를 믿어야 하나\"...SK하이닉스 주가 전망에 개미들 '혼란'",
+        "\"누구를 믿어야 하나\"...SK하이닉스 주가 전망에 개미들 '혼란'"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "선물",
+      "keyword": "만원",
       "count": 4,
-      "representative_title": "“그냥 가세요” 차 긁은 폐지 할아버지 보냈더니…돌아온 선물",
-      "representative_link": "https://n.news.naver.com/article/021/0002829050?ntype=RANKING",
-      "press": "문화일보",
+      "representative_title": "사상 최대 실적에도 주가 하락…삼전 목표가 69만원 vs 27만원",
+      "representative_link": "https://n.news.naver.com/article/024/0000109263?ntype=RANKING",
+      "press": "매경이코노미",
       "related_articles": [
         {
-          "title": "출고 4일 새 차 긁은 노인, 용서한 차주…며칠 뒤 받은 뜻밖의 선물",
-          "link": "https://n.news.naver.com/article/437/0000518256?ntype=RANKING",
-          "press": "JTBC"
+          "title": "발열에 검은 여백까지… 329만원 아이폰 듀오 품질 괜찮아? [애플 크랙게이트 後]",
+          "link": "https://n.news.naver.com/article/665/0000008457?ntype=RANKING",
+          "press": "더스쿠프"
         },
         {
-          "title": "“읽고 또 읽으니”…87살 할머니에게 닿은 조정래의 선물 [.txt]",
-          "link": "https://n.news.naver.com/article/028/0002829920?ntype=RANKING",
-          "press": "한겨레"
+          "title": "사상 최대 실적에도 주가 하락…삼전 목표가 69만원 vs 27만원",
+          "link": "https://n.news.naver.com/article/024/0000109263?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
-          "title": "“그냥 가세요” 차 긁은 폐지 할아버지 보냈더니…돌아온 선물",
-          "link": "https://n.news.naver.com/article/021/0002829050?ntype=RANKING",
-          "press": "문화일보"
+          "title": "사상 최대 실적에도 주가 하락…삼전 목표가 69만원 vs 27만원",
+          "link": "https://n.news.naver.com/article/024/0000109263?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
-          "title": "'김건희에 로저비비에 선물' 국힘 김기현 부부 오늘 1심 선고",
-          "link": "https://n.news.naver.com/article/658/0000159916?ntype=RANKING",
-          "press": "국제신문"
+          "title": "발열에 검은 여백까지… 329만원 아이폰 듀오 품질 괜찮아? [애플 크랙게이트 後]",
+          "link": "https://n.news.naver.com/article/665/0000008457?ntype=RANKING",
+          "press": "더스쿠프"
         },
         {
-          "title": "출고 4일 새 차 긁은 노인, 용서한 차주…며칠 뒤 받은 뜻밖의 선물",
-          "link": "https://n.news.naver.com/article/437/0000518256?ntype=RANKING",
-          "press": "JTBC"
+          "title": "사상 최대 실적에도 주가 하락…삼전 목표가 69만원 vs 27만원",
+          "link": "https://n.news.naver.com/article/024/0000109263?ntype=RANKING",
+          "press": "매경이코노미"
         }
       ],
       "related_titles": [
-        "출고 4일 새 차 긁은 노인, 용서한 차주…며칠 뒤 받은 뜻밖의 선물",
-        "“읽고 또 읽으니”…87살 할머니에게 닿은 조정래의 선물 [.txt]",
-        "“그냥 가세요” 차 긁은 폐지 할아버지 보냈더니…돌아온 선물",
-        "'김건희에 로저비비에 선물' 국힘 김기현 부부 오늘 1심 선고",
-        "출고 4일 새 차 긁은 노인, 용서한 차주…며칠 뒤 받은 뜻밖의 선물"
+        "발열에 검은 여백까지… 329만원 아이폰 듀오 품질 괜찮아? [애플 크랙게이트 後]",
+        "사상 최대 실적에도 주가 하락…삼전 목표가 69만원 vs 27만원",
+        "사상 최대 실적에도 주가 하락…삼전 목표가 69만원 vs 27만원",
+        "발열에 검은 여백까지… 329만원 아이폰 듀오 품질 괜찮아? [애플 크랙게이트 後]",
+        "사상 최대 실적에도 주가 하락…삼전 목표가 69만원 vs 27만원"
       ],
       "category": "주식/코인"
     }
@@ -449,27 +443,27 @@
     },
     {
       "rank": 2,
-      "keyword": "천재",
-      "series_title": "천재의 몰락",
+      "keyword": "영재",
+      "series_title": "영재의 몰락",
       "count": 2,
-      "representative_title": "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\"",
-      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWk9hS3JrTkxlWFNGdGlOOU1KWkRabmxRdW9zQ3FkS29aMWF1ZWRqcy14NTFEaTV5VGxTMnhKd3BJQ09vQ2VNcWtLMVlVTzA5T05XRzVHZVpyTm1tc0I5U1ZOU0s4QQ?oc=5",
+      "representative_title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "그야말로 파격 결단! 몰락한 천재 감독 맨체스터 유나이티드에서 부활의 날개 펼치나…\"내부 인사들의 지지가 점점 커지고 있어\"",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SbWpUbmN6X28zS2tBSTlna1RiRnhaeDltOHF5M2hNZVEzZUFfQjMtWFllNXo1b0QyMHA1VWJjclUtZUlOQ2U4SEhoUkZhY25yOUoweDdBTkNkVERrRDhicA?oc=5",
+          "title": "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzIwdjEtQm9hSUM4ZDBSZlVHdlhTVWZGR2cxVU9mc1JqcVBMeW53c184WExBX3dTSGJXWHUtRWJrMGlOaXh4QVNpY0Zja2JhaXBvcUxFdlBRd3I3Tk1QeGdBRGVRc29xRm1GWm9rQmVkaWU0cUhITmlyNDhGQ3VXNDloRdIBlwFBVV95cUxOQmRvNlhGR1B6M1NjdFZaakpNN0lzOWc0bzJMN0x0ZTJlblBsd0NwRmZ0N3dQYmROZzltX254b3A5Z2g4YS13N3MyTUp4MTJnRy1FTEJFYzA4bEZhaC1wdlI0ekNwN1ZlNGg0S0ZORWxkQWJHM2hjdmRaNkRycXJoMnFCWnVjZ2UwNUctRURDVzFIN20yX1hJ?oc=5",
           "press": ""
         },
         {
-          "title": "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\"",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oWk9hS3JrTkxlWFNGdGlOOU1KWkRabmxRdW9zQ3FkS29aMWF1ZWRqcy14NTFEaTV5VGxTMnhKd3BJQ09vQ2VNcWtLMVlVTzA5T05XRzVHZVpyTm1tc0I5U1ZOU0s4QQ?oc=5",
+          "title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "그야말로 파격 결단! 몰락한 천재 감독 맨체스터 유나이티드에서 부활의 날개 펼치나…\"내부 인사들의 지지가 점점 커지고 있어\"",
-        "몰락한 천재 감독, 맨체스터 유나이티드에서 재기 노리나…\"이미 접촉, 수락할 의향 있어\""
+        "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+        "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설"
       ],
       "category": "몰락"
     },
@@ -538,7 +532,7 @@
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 6,
+      "count": 5,
       "representative_title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
       "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
       "press": "",
@@ -546,11 +540,6 @@
         {
           "title": "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVE9hdmd2bm9ZemVQMWZyenNOQ0xMd2lDUUVUa2FabzliNmNVTi1TVmFtamVQLW5fZWx5SFFTN0dlV3Z6akZEd3Uwc1ZFbGU2UnNsZkxiMDlYTzRnMVVVS1Z6Y0dDdnc?oc=5",
-          "press": ""
-        },
-        {
-          "title": "서울 아파트값 상승률 올해 최저…강남·서초 내리고 노원 올라",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PX2M3UmYya3hKNHJzTXp1Q2doSEFtSU9iejdsYjhXM19Vc0xqczZOaXJMOWk5QmJ0ejhETWpJRTExOXhHTUU1a0NpbWtMQndxN2tmZ29jeWVSa3h4?oc=5",
           "press": ""
         },
         {
@@ -567,21 +556,26 @@
           "title": "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWExKNkctbEwya2czVkVRZjVLMVJSeHFFbFAtY0RHUGhjSHBCSDl2MzlmQWh6NFB2R1BabHNKTzlLZFpkYl8xbi1JM3NsUnJ1S1hIZnozOWZxUQ?oc=5",
           "press": ""
+        },
+        {
+          "title": "‘집값 드디어 잡힐까’…KB부동산 “서울 아파트값 상승률 연내 최저”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2WldVMVpvZEpEU3htVzFnLTRseUpMakpMUGhZa3pDSG1sTzN1NC12bXVmQmJXbFZtM1hRVlp0dlA0c0FCeDlGbm9lejhrbHhCNHAwVS1R?oc=5",
+          "press": ""
         }
       ],
       "related_titles": [
         "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
-        "서울 아파트값 상승률 올해 최저…강남·서초 내리고 노원 올라",
         "서울 집값 잡히나 했더니…경기로 번지는 매수세",
         "강남 집값 주춤한 사이 강북은 12억원 돌파…서울 아파트 시장 지형 바뀌나",
-        "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승"
+        "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승",
+        "‘집값 드디어 잡힐까’…KB부동산 “서울 아파트값 상승률 연내 최저”"
       ],
       "category": "부동산"
     },
     {
       "rank": 2,
       "keyword": "강남",
-      "count": 6,
+      "count": 5,
       "representative_title": "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”",
       "representative_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXgxbGxjaVo0ejh3LS1VS0JhU0Z2MGhNSWxvRU9SVGlmY191SUw2aVlZMkRiRlE4eDhxeXZUczN0aWtoRFcydUtTSGd0UjZLbHZhLXBpN2NCZ3VuN3luSWotWU0zOHJlT1N2OS1mbmQxYnRaTVB0OFNZeU96UzA2TDhDQQ?oc=5",
       "press": "",
