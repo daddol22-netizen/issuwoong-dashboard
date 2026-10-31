@@ -1,0 +1,663 @@
+{
+  "date": "2026-10-31",
+  "hour": "13",
+  "slot": "2026-10-31_13",
+  "crawled_at": "2026-10-31 13:00:04",
+  "total_articles": 405,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "진성준",
+      "count": 14,
+      "representative_title": "진성준 국방위원장 美비자 발급...내일 하와이로",
+      "representative_link": "https://n.news.naver.com/article/023/0004007047?ntype=RANKING",
+      "press": "조선일보",
+      "related_articles": [
+        {
+          "title": "진성준 국방위원장 美비자 발급...내일 하와이로",
+          "link": "https://n.news.naver.com/article/023/0004007047?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "진성준, '거부' 사흘 만에 미국 비자 발급…\"뒤늦게나마 다행\"",
+          "link": "https://n.news.naver.com/article/055/0001399596?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "'미 비자 거부' 진성준 국방위원장, 출국 하루 전 발급…방미 정상 진행",
+          "link": "https://n.news.naver.com/article/437/0000518470?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "진성준 국방위원장, 美 비자 거부 통보 사흘 만에 발급…“예정대로 내일 출국”",
+          "link": "https://n.news.naver.com/article/366/0001201680?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "진성준 국방위원장 \"미국 비자 발급...내일 출국\"",
+          "link": "https://n.news.naver.com/article/052/0002426425?ntype=RANKING",
+          "press": "YTN"
+        }
+      ],
+      "related_titles": [
+        "진성준 국방위원장 美비자 발급...내일 하와이로",
+        "진성준, '거부' 사흘 만에 미국 비자 발급…\"뒤늦게나마 다행\"",
+        "'미 비자 거부' 진성준 국방위원장, 출국 하루 전 발급…방미 정상 진행",
+        "진성준 국방위원장, 美 비자 거부 통보 사흘 만에 발급…“예정대로 내일 출국”",
+        "진성준 국방위원장 \"미국 비자 발급...내일 출국\""
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 2,
+      "keyword": "인텔",
+      "count": 13,
+      "representative_title": "인텔 28% 폭락‥기술주 매도세 뉴욕증시 하락",
+      "representative_link": "https://n.news.naver.com/article/214/0001532646?ntype=RANKING",
+      "press": "MBC",
+      "related_articles": [
+        {
+          "title": "인텔, 52년 만의 최악 폭락...뉴욕 증시도 털썩",
+          "link": "https://n.news.naver.com/article/023/0004007056?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "알파벳 이어 인텔 28% 폭락...나스닥100 한달새 시총 2700조원 증발",
+          "link": "https://n.news.naver.com/article/008/0005434581?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "‘인텔 -28%’ 美증시 “최악의 하루”…월요일 개장이 두렵다",
+          "link": "https://n.news.naver.com/article/020/0003759104?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
+          "link": "https://n.news.naver.com/article/009/0005756916?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "인텔 주가폭락에 AI 투자 우려 또 제기…나스닥 2.86% 하락",
+          "link": "https://n.news.naver.com/article/082/0001404941?ntype=RANKING",
+          "press": "부산일보"
+        }
+      ],
+      "related_titles": [
+        "인텔, 52년 만의 최악 폭락...뉴욕 증시도 털썩",
+        "알파벳 이어 인텔 28% 폭락...나스닥100 한달새 시총 2700조원 증발",
+        "‘인텔 -28%’ 美증시 “최악의 하루”…월요일 개장이 두렵다",
+        "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
+        "인텔 주가폭락에 AI 투자 우려 또 제기…나스닥 2.86% 하락"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 3,
+      "keyword": "최불암",
+      "count": 12,
+      "representative_title": "'불암산 산주', 배우 최불암 별세…향년 87세",
+      "representative_link": "https://n.news.naver.com/article/094/0000013918?ntype=RANKING",
+      "press": "월간 산",
+      "related_articles": [
+        {
+          "title": "임형주, 최불암 장례 미사서 '아베 마리아'로 마지막 배웅",
+          "link": "https://n.news.naver.com/article/654/0000208529?ntype=RANKING",
+          "press": "강원도민일보"
+        },
+        {
+          "title": "'국민 아버지' 배우 최불암 별세...김혜자 \"그리운 사람, 곧 만날 것\"",
+          "link": "https://n.news.naver.com/article/052/0002426427?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "\"곧 만납시다\"…故 최불암 떠나보내는 '국민 어머니' 끝내 눈물",
+          "link": "https://n.news.naver.com/article/079/0004205049?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "김혜자, 故 최불암 빈소서 윤여정 부둥켜안고 눈물… \"마지막이라 생각 안 해\"",
+          "link": "https://n.news.naver.com/article/469/0000962804?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "김혜자, 故 최불암 빈소 찾아 눈물 \"마지막이란 생각 안들어…너무 그리운 사람\"",
+          "link": "https://n.news.naver.com/article/421/0009262011?ntype=RANKING",
+          "press": "뉴스1"
+        }
+      ],
+      "related_titles": [
+        "임형주, 최불암 장례 미사서 '아베 마리아'로 마지막 배웅",
+        "'국민 아버지' 배우 최불암 별세...김혜자 \"그리운 사람, 곧 만날 것\"",
+        "\"곧 만납시다\"…故 최불암 떠나보내는 '국민 어머니' 끝내 눈물",
+        "김혜자, 故 최불암 빈소서 윤여정 부둥켜안고 눈물… \"마지막이라 생각 안 해\"",
+        "김혜자, 故 최불암 빈소 찾아 눈물 \"마지막이란 생각 안들어…너무 그리운 사람\""
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 4,
+      "keyword": "트럼프",
+      "count": 12,
+      "representative_title": "위기의 트럼프, 유세 취소 번복…선거 사흘 전 총력전",
+      "representative_link": "https://n.news.naver.com/article/056/0012284671?ntype=RANKING",
+      "press": "KBS",
+      "related_articles": [
+        {
+          "title": "\"북한, 세계 최대의 코인 절도범\"...트럼프 \"주시\"·FBI \"수사\"",
+          "link": "https://n.news.naver.com/article/052/0002426426?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "미국 중간선거 사전 투표 '역대 최다'...트럼프 \"캔자스·아이오와 갈 것\"",
+          "link": "https://n.news.naver.com/article/052/0002426430?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "트럼프 ‘63억 달러 탈취’ 바이낸스 해킹 북한 소행 여부에 “모른다, 살펴보고 있다”",
+          "link": "https://n.news.naver.com/article/032/0003479778?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "위기의 트럼프, 유세 취소 번복…선거 사흘 전 총력전",
+          "link": "https://n.news.naver.com/article/056/0012284671?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "트럼프 \"중간선거 이기면 1인당 5000달러, 한국 가서 쓰면 안 돼”",
+          "link": "https://n.news.naver.com/article/421/0009262068?ntype=RANKING",
+          "press": "뉴스1"
+        }
+      ],
+      "related_titles": [
+        "\"북한, 세계 최대의 코인 절도범\"...트럼프 \"주시\"·FBI \"수사\"",
+        "미국 중간선거 사전 투표 '역대 최다'...트럼프 \"캔자스·아이오와 갈 것\"",
+        "트럼프 ‘63억 달러 탈취’ 바이낸스 해킹 북한 소행 여부에 “모른다, 살펴보고 있다”",
+        "위기의 트럼프, 유세 취소 번복…선거 사흘 전 총력전",
+        "트럼프 \"중간선거 이기면 1인당 5000달러, 한국 가서 쓰면 안 돼”"
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 5,
+      "keyword": "만원",
+      "count": 10,
+      "representative_title": "숙박비 30만원 지원 받자…사우나·체험도 반값, 어디?",
+      "representative_link": "https://n.news.naver.com/article/374/0000540933?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "친한 친구니까 '10만원' 해야지 했는데…축의금까지 제한하는 中",
+          "link": "https://n.news.naver.com/article/277/0005835971?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "프로야구 입장권 매크로로 싹쓸이… 600만원 챙긴 10대 검거",
+          "link": "https://n.news.naver.com/article/654/0000208525?ntype=RANKING",
+          "press": "강원도민일보"
+        },
+        {
+          "title": "“141만원이 400만원 된다고?”…SK하이닉스, 지금이 기회?[종목e슈]",
+          "link": "https://n.news.naver.com/article/018/0006400561?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "'월세 130만원' 9평 원룸 떠났다…이국주, 임장도 없이 택한 도쿄 새집",
+          "link": "https://n.news.naver.com/article/215/0001271188?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "\"아기 맛있는 거 사줘\"…만원 지하철서 임산부 울린 할머니의 선물 [살맛나는 세상]",
+          "link": "https://n.news.naver.com/article/660/0000120301?ntype=RANKING",
+          "press": "kbc광주방송"
+        }
+      ],
+      "related_titles": [
+        "친한 친구니까 '10만원' 해야지 했는데…축의금까지 제한하는 中",
+        "프로야구 입장권 매크로로 싹쓸이… 600만원 챙긴 10대 검거",
+        "“141만원이 400만원 된다고?”…SK하이닉스, 지금이 기회?[종목e슈]",
+        "'월세 130만원' 9평 원룸 떠났다…이국주, 임장도 없이 택한 도쿄 새집",
+        "\"아기 맛있는 거 사줘\"…만원 지하철서 임산부 울린 할머니의 선물 [살맛나는 세상]"
+      ],
+      "category": "산업/테크"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "인텔",
+      "count": 8,
+      "representative_title": "뉴욕증시, AI 투자 우려에 일제히 하락…인텔 29% 급락",
+      "representative_link": "https://n.news.naver.com/article/138/0002246770?ntype=RANKING",
+      "press": "디지털데일리",
+      "related_articles": [
+        {
+          "title": "알파벳 이어 인텔 28% 폭락...나스닥100 한달새 시총 2700조원 증발",
+          "link": "https://n.news.naver.com/article/008/0005434581?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
+          "link": "https://n.news.naver.com/article/009/0005756916?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "인텔 주가폭락에 AI 투자 우려 또 제기…나스닥 2.86% 하락",
+          "link": "https://n.news.naver.com/article/082/0001404941?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "[속보]인텔 폭락에 나스닥 2.9% 급락…AI 투자 불안 확산",
+          "link": "https://n.news.naver.com/article/018/0006400572?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "AI 투자 우려에 뉴욕증시 '털썩'…인텔 29% 급락에 나스닥 2.9%↓",
+          "link": "https://n.news.naver.com/article/374/0000540931?ntype=RANKING",
+          "press": "SBS Biz"
+        }
+      ],
+      "related_titles": [
+        "알파벳 이어 인텔 28% 폭락...나스닥100 한달새 시총 2700조원 증발",
+        "“52년 만에 최악의 하루”…주가 29% 폭락 인텔, 시총 183조원 증발",
+        "인텔 주가폭락에 AI 투자 우려 또 제기…나스닥 2.86% 하락",
+        "[속보]인텔 폭락에 나스닥 2.9% 급락…AI 투자 불안 확산",
+        "AI 투자 우려에 뉴욕증시 '털썩'…인텔 29% 급락에 나스닥 2.9%↓"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "나스닥",
+      "count": 6,
+      "representative_title": "뉴욕증시, AI 회의론에 일제히 하락 마감…나스닥 2.86%↓",
+      "representative_link": "https://n.news.naver.com/article/629/0000547484?ntype=RANKING",
+      "press": "더팩트",
+      "related_articles": [
+        {
+          "title": "뉴욕증시, AI 회의론에 일제히 하락 마감…나스닥 2.86%↓",
+          "link": "https://n.news.naver.com/article/629/0000547484?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "뉴욕증시, AI 회의론에 일제히 하락 마감…나스닥 2.86%↓",
+          "link": "https://n.news.naver.com/article/629/0000547484?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "뉴욕증시, AI 회의론에 일제히 하락 마감…나스닥 2.86%↓",
+          "link": "https://n.news.naver.com/article/629/0000547484?ntype=RANKING",
+          "press": "더팩트"
+        }
+      ],
+      "related_titles": [
+        "뉴욕증시, AI 회의론에 일제히 하락 마감…나스닥 2.86%↓",
+        "뉴욕증시, AI 회의론에 일제히 하락 마감…나스닥 2.86%↓",
+        "뉴욕증시, AI 회의론에 일제히 하락 마감…나스닥 2.86%↓"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "코인",
+      "count": 6,
+      "representative_title": "블록체인은 안전한데…코인 8조원 어떻게 털렸나",
+      "representative_link": "https://n.news.naver.com/article/417/0001162771?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "\"북한, 세계 최대의 코인 절도범\"...트럼프 \"주시\"·FBI \"수사\"",
+          "link": "https://n.news.naver.com/article/052/0002426426?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "8조원을 20분 만에 털었다…北 '코인 해킹'에 전세계 '발칵'",
+          "link": "https://n.news.naver.com/article/586/0000141302?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "20분 만에 코인 8.4조 싹쓸이…트럼프, 北 배후설 “살펴보는 중”",
+          "link": "https://n.news.naver.com/article/005/0001882085?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "\"북한 외화벌이 절반\"…바이낸스 사태에 '코인 도둑질 산업화' 주목",
+          "link": "https://n.news.naver.com/article/001/0016413150?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "블록체인은 안전한데…코인 8조원 어떻게 털렸나",
+          "link": "https://n.news.naver.com/article/417/0001162771?ntype=RANKING",
+          "press": "동행미디어 시대"
+        }
+      ],
+      "related_titles": [
+        "\"북한, 세계 최대의 코인 절도범\"...트럼프 \"주시\"·FBI \"수사\"",
+        "8조원을 20분 만에 털었다…北 '코인 해킹'에 전세계 '발칵'",
+        "20분 만에 코인 8.4조 싹쓸이…트럼프, 北 배후설 “살펴보는 중”",
+        "\"북한 외화벌이 절반\"…바이낸스 사태에 '코인 도둑질 산업화' 주목",
+        "블록체인은 안전한데…코인 8조원 어떻게 털렸나"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "급락",
+      "count": 6,
+      "representative_title": "47조 유입에도 펀드 순자산 88조 감소…증시 급락 직격탄",
+      "representative_link": "https://n.news.naver.com/article/417/0001162770?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "AI발 매도 폭풍에 코스피 3% 급락...다음주 美 중간선거 주목",
+          "link": "https://n.news.naver.com/article/648/0000052126?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "47조 유입에도 펀드 순자산 88조 감소…증시 급락 직격탄",
+          "link": "https://n.news.naver.com/article/417/0001162770?ntype=RANKING",
+          "press": "동행미디어 시대"
+        },
+        {
+          "title": "AI발 매도 폭풍에 코스피 3% 급락...다음주 美 중간선거 주목",
+          "link": "https://n.news.naver.com/article/648/0000052126?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "47조 유입에도 펀드 순자산 88조 감소…증시 급락 직격탄",
+          "link": "https://n.news.naver.com/article/417/0001162770?ntype=RANKING",
+          "press": "동행미디어 시대"
+        },
+        {
+          "title": "AI발 매도 폭풍에 코스피 3% 급락...다음주 美 중간선거 주목",
+          "link": "https://n.news.naver.com/article/648/0000052126?ntype=RANKING",
+          "press": "비즈워치"
+        }
+      ],
+      "related_titles": [
+        "AI발 매도 폭풍에 코스피 3% 급락...다음주 美 중간선거 주목",
+        "47조 유입에도 펀드 순자산 88조 감소…증시 급락 직격탄",
+        "AI발 매도 폭풍에 코스피 3% 급락...다음주 美 중간선거 주목",
+        "47조 유입에도 펀드 순자산 88조 감소…증시 급락 직격탄",
+        "AI발 매도 폭풍에 코스피 3% 급락...다음주 美 중간선거 주목"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "시총",
+      "count": 5,
+      "representative_title": "애플, 엔비디아 제치고 시총 1위 탈환",
+      "representative_link": "https://n.news.naver.com/article/366/0001201682?ntype=RANKING",
+      "press": "조선비즈",
+      "related_articles": [
+        {
+          "title": "애플, 엔비디아 제치고 시총 1위 탈환",
+          "link": "https://n.news.naver.com/article/366/0001201682?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "“AI에 1조달러 베팅” 알파벳 폭락…하루 새 시총 671조 증발",
+          "link": "https://n.news.naver.com/article/024/0000109266?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "애플, 엔비디아 꺾었다...세계 시총 1위",
+          "link": "https://n.news.naver.com/article/050/0000112655?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "애플, 엔비디아 제치고 시총 1위 탈환",
+          "link": "https://n.news.naver.com/article/366/0001201682?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "“AI에 1조달러 베팅” 알파벳 폭락…하루 새 시총 671조 증발",
+          "link": "https://n.news.naver.com/article/024/0000109266?ntype=RANKING",
+          "press": "매경이코노미"
+        }
+      ],
+      "related_titles": [
+        "애플, 엔비디아 제치고 시총 1위 탈환",
+        "“AI에 1조달러 베팅” 알파벳 폭락…하루 새 시총 671조 증발",
+        "애플, 엔비디아 꺾었다...세계 시총 1위",
+        "애플, 엔비디아 제치고 시총 1위 탈환",
+        "“AI에 1조달러 베팅” 알파벳 폭락…하루 새 시총 671조 증발"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 4,
+      "representative_title": "“이재명 정권 몰락의 카운트다운 시작”",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdXZkR0lvdEdEdEFTNUtmZEhDc0tnMVpUZ1h5dXQzUWJfRjJvT2YzZlZBYUpES21FdVpLQmZMZGVYbTRHdld2ZTNGYkJkeTlFdjJFN3FR?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“이재명 정권 몰락의 카운트다운 시작”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdXZkR0lvdEdEdEFTNUtmZEhDc0tnMVpUZ1h5dXQzUWJfRjJvT2YzZlZBYUpES21FdVpLQmZMZGVYbTRHdld2ZTNGYkJkeTlFdjJFN3FR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국힘 \"이재명 정권 몰락 카운트다운 시작…조희대 죽이기 광기\"",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3JhS3VUZ3RlMmFodFplRV9rcDlPY2NDcnE0b0RNVXQ5X1ZHWlFqejUzLV9QSUNKbFgxdXFac2E5eXVCZmFmcldUMVFWMUMwSE5OUE91aF93YVk0amNEbzlKcEJTQ0N5WU9xRDM1ZmFOMnlKOHFuTjlraXdqN28xRw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNampVRjNIUndFNHU3OVNHdnBGUTFjelpIZTNEZ2xGdW80SkxqMHh4SmViWWJmR1R6VFhRR2xyZHE0bG1TMWI3eHhuSFpFWGh3bzBObkd3VjNvQzhWclV5Vjc3Wi1NVW5SZ2FMY3BtTEpFWFdlckJZRkdfOFFhLS1SNTc3TGt1LXhSRkpuNUoxWFBXa0VKVm1hcDNxdWlVY0FSekJVTkRRSGVMa2tLWUNhQVl6eXpsTDE5bGRPVzk3WDQtbkRsYTdiYm1SSlVzdmZ1NkJEYU1ubHctcWF1UDF4SDZtZlN4ZFI5aFVMb05QZ1VYRmFlZmVfeVhvMUZScm1Ja2hjV2dLRmdDY2ZaRXpWbnZ0YmxYZ1lK?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\"",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EbnJ1cDN3S1p3a2JXMVVtZGZjMlZLZlplcGhRVHJZSzlidGJIWEF1RURWWnY0MVRmYzRKWUM5TC1faUVjWW9ybWJ1czRlZXMxRDdQbHZyV3dWaWNMVjNuN1dJSVkxcUlWa2wzV3FYTQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“이재명 정권 몰락의 카운트다운 시작”",
+        "국힘 \"이재명 정권 몰락 카운트다운 시작…조희대 죽이기 광기\"",
+        "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+        "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "영재",
+      "series_title": "영재의 몰락",
+      "count": 2,
+      "representative_title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzIwdjEtQm9hSUM4ZDBSZlVHdlhTVWZGR2cxVU9mc1JqcVBMeW53c184WExBX3dTSGJXWHUtRWJrMGlOaXh4QVNpY0Zja2JhaXBvcUxFdlBRd3I3Tk1QeGdBRGVRc29xRm1GWm9rQmVkaWU0cUhITmlyNDhGQ3VXNDloRdIBlwFBVV95cUxOQmRvNlhGR1B6M1NjdFZaakpNN0lzOWc0bzJMN0x0ZTJlblBsd0NwRmZ0N3dQYmROZzltX254b3A5Z2g4YS13N3MyTUp4MTJnRy1FTEJFYzA4bEZhaC1wdlI0ekNwN1ZlNGg0S0ZORWxkQWJHM2hjdmRaNkRycXJoMnFCWnVjZ2UwNUctRURDVzFIN20yX1hJ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+        "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "게티이미지",
+      "series_title": "게티이미지의 몰락",
+      "count": 1,
+      "representative_title": "AI에 30년 밥그릇 뺏겼다…‘사진 왕국’ 게티이미지의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03ZG9QMzlQX3FDdnpvamxVWmlfYnRDemFocWw3dWdPZVRfWDZ5OXFfanBXbXVaNlpnQkl6Q3N0VjZseUdwSGt0U2Rmd242YnZNX19pdHpn?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "AI에 30년 밥그릇 뺏겼다…‘사진 왕국’ 게티이미지의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03ZG9QMzlQX3FDdnpvamxVWmlfYnRDemFocWw3dWdPZVRfWDZ5OXFfanBXbXVaNlpnQkl6Q3N0VjZseUdwSGt0U2Rmd242YnZNX19pdHpn?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "AI에 30년 밥그릇 뺏겼다…‘사진 왕국’ 게티이미지의 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "구글",
+      "series_title": "구글의 몰락",
+      "count": 1,
+      "representative_title": "AI가 뒤집은 빅테크 권력지형…애플과 구글의 몰락 예고? [박신영의 개장전 요것만]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fYUoyUGR3Um5ranctSzU0MmNYOHpuaVNNTllpb3lkODF0clZjcEl4UmgtZmo4X09RMVg5bjlwUmxwYlROcENhTlhpaVgxVkE4YzdRbm5CM25Bdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "AI가 뒤집은 빅테크 권력지형…애플과 구글의 몰락 예고? [박신영의 개장전 요것만]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fYUoyUGR3Um5ranctSzU0MmNYOHpuaVNNTllpb3lkODF0clZjcEl4UmgtZmo4X09RMVg5bjlwUmxwYlROcENhTlhpaVgxVkE4YzdRbm5CM25Bdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "AI가 뒤집은 빅테크 권력지형…애플과 구글의 몰락 예고? [박신영의 개장전 요것만]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "음바페",
+      "series_title": "음바페의 몰락",
+      "count": 1,
+      "representative_title": "중국 인민일보 \"음바페 몰락은 외국 스타들의 거울\"…‘마오쩌둥’ 논란 일파만파",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02TUktLWNoZ2ZaSURJa2xPTFRyS0ptYllWV1RWWV80bzlLZzNfbHdPRGhXeFB3MnNNQmI4REJ5ZzJUak9ZS21jWmEtN2dobFJzU0hyUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "중국 인민일보 \"음바페 몰락은 외국 스타들의 거울\"…‘마오쩌둥’ 논란 일파만파",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02TUktLWNoZ2ZaSURJa2xPTFRyS0ptYllWV1RWWV80bzlLZzNfbHdPRGhXeFB3MnNNQmI4REJ5ZzJUak9ZS21jWmEtN2dobFJzU0hyUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "중국 인민일보 \"음바페 몰락은 외국 스타들의 거울\"…‘마오쩌둥’ 논란 일파만파"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 5,
+      "representative_title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+      "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVE9hdmd2bm9ZemVQMWZyenNOQ0xMd2lDUUVUa2FabzliNmNVTi1TVmFtamVQLW5fZWx5SFFTN0dlV3Z6akZEd3Uwc1ZFbGU2UnNsZkxiMDlYTzRnMVVVS1Z6Y0dDdnc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값 주춤한 사이 강북은 12억원 돌파…서울 아파트 시장 지형 바뀌나",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xLUdpendVakV5M3EtRVRiQ2JabXRTeGxxNXctdEpSbHFoV3diR3RtRV9WSHZvUWtLTW1kQTZPVFBSOHluQXFkWDJPdVBoWVU5NF9yNVc3M3dnNHVCQWpYVGhvWUxzYVdFY280TUY0T1hSeTcwZklEemZRbnQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "‘집값 드디어 잡힐까’…KB부동산 “서울 아파트값 상승률 연내 최저”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2WldVMVpvZEpEU3htVzFnLTRseUpMakpMUGhZa3pDSG1sTzN1NC12bXVmQmJXbFZtM1hRVlp0dlA0c0FCeDlGbm9lejhrbHhCNHAwVS1R?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWExKNkctbEwya2czVkVRZjVLMVJSeHFFbFAtY0RHUGhjSHBCSDl2MzlmQWh6NFB2R1BabHNKTzlLZFpkYl8xbi1JM3NsUnJ1S1hIZnozOWZxUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+        "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+        "강남 집값 주춤한 사이 강북은 12억원 돌파…서울 아파트 시장 지형 바뀌나",
+        "‘집값 드디어 잡힐까’…KB부동산 “서울 아파트값 상승률 연내 최저”",
+        "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 4,
+      "representative_title": "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”",
+      "representative_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXgxbGxjaVo0ejh3LS1VS0JhU0Z2MGhNSWxvRU9SVGlmY191SUw2aVlZMkRiRlE4eDhxeXZUczN0aWtoRFcydUtTSGd0UjZLbHZhLXBpN2NCZ3VuN3luSWotWU0zOHJlT1N2OS1mbmQxYnRaTVB0OFNZeU96UzA2TDhDQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 집값 주춤한 사이 강북 아파트 평균 12억원 돌파 … 수요 이동 가속",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kNmhqb3dGb2RPZ2ZCbUlUSkFqVW1qWERjcXE0emo2S194aUFvcmxhcXo4cmdhbU8tWmNLbnFLTUM3YjhlVk85QmpncGthTHAzQ3FJYzVMVVBvVk5WUjV4d0xZSmRlSDMwS3QyVA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXgxbGxjaVo0ejh3LS1VS0JhU0Z2MGhNSWxvRU9SVGlmY191SUw2aVlZMkRiRlE4eDhxeXZUczN0aWtoRFcydUtTSGd0UjZLbHZhLXBpN2NCZ3VuN3luSWotWU0zOHJlT1N2OS1mbmQxYnRaTVB0OFNZeU96UzA2TDhDQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 집값 주춤한 사이 강북 아파트 평균 12억원 돌파 … 수요 이동 가속",
+        "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "강북",
+      "count": 2,
+      "representative_title": "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PNUJHMnhLaVhvWHgzQVlDY3JqTmRvcTh4eGFTb3pCTF8xOVpaRTI1OXpkMmVGWDIzZmJOSnVnRFU0WHNhU0xaY19kSlVxWkFHNHlib1ZjUVYtQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PNUJHMnhLaVhvWHgzQVlDY3JqTmRvcTh4eGFTb3pCTF8xOVpaRTI1OXpkMmVGWDIzZmJOSnVnRFU0WHNhU0xaY19kSlVxWkFHNHlib1ZjUVYtQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "떨어질",
+      "count": 2,
+      "representative_title": "“아파트 조심해야, 떨어질 가능성 크다” 박현주 회장 경고…집값 정말 꺾이나",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yWjZLZDl2cjh3TmI0MjBReENmdVlUeVZaUS1JQlY5UzE1VGNFb1NUa2tlYkotb1E2SHZfRnZPdnlzZEpKd0RRajVkX05xUHhucXRwQ1N3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“아파트 조심해야, 떨어질 가능성 크다” 박현주 회장 경고…집값 정말 꺾이나",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yWjZLZDl2cjh3TmI0MjBReENmdVlUeVZaUS1JQlY5UzE1VGNFb1NUa2tlYkotb1E2SHZfRnZPdnlzZEpKd0RRajVkX05xUHhucXRwQ1N3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“아파트 조심해야, 떨어질 가능성 크다” 박현주 회장 경고…집값 정말 꺾이나"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
