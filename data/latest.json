@@ -1,65 +1,27 @@
 {
   "date": "2026-10-31",
-  "hour": "07",
-  "slot": "2026-10-31_07",
-  "crawled_at": "2026-10-31 07:00:06",
+  "hour": "10",
+  "slot": "2026-10-31_10",
+  "crawled_at": "2026-10-31 10:00:05",
   "total_articles": 407,
   "topics": [
     {
       "rank": 1,
-      "keyword": "최불암",
-      "count": 16,
-      "representative_title": "'불암산 산주', 배우 최불암 별세…향년 87세",
-      "representative_link": "https://n.news.naver.com/article/094/0000013918?ntype=RANKING",
-      "press": "월간 산",
-      "related_articles": [
-        {
-          "title": "'22년간 부부' 최불암 떠나보내며...김혜자 \"곧 만날 거예요\"",
-          "link": "https://n.news.naver.com/article/437/0000518455?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "'국민 아버지' 최불암 떠난 날…\"가장 한국적 배우를 잃었다\" 애도 물결(종합)",
-          "link": "https://n.news.naver.com/article/421/0009261455?ntype=RANKING",
-          "press": "뉴스1"
-        },
-        {
-          "title": "故최불암 \"진정한 봉사는 함께 비 맞는 것\"…장례는 초록우산재단장(종합)",
-          "link": "https://n.news.naver.com/article/421/0009261798?ntype=RANKING",
-          "press": "뉴스1"
-        },
-        {
-          "title": "“내가 세상 떠나면 꼭 들러달라” 故최불암 운구 행렬 향하는 곳",
-          "link": "https://n.news.naver.com/article/025/0003561726?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
-          "title": "“마지막이라고 하지 마세요”…김혜자, 故 최불암 향한 먹먹한 그리움",
-          "link": "https://n.news.naver.com/article/009/0005756846?ntype=RANKING",
-          "press": "매일경제"
-        }
-      ],
-      "related_titles": [
-        "'22년간 부부' 최불암 떠나보내며...김혜자 \"곧 만날 거예요\"",
-        "'국민 아버지' 최불암 떠난 날…\"가장 한국적 배우를 잃었다\" 애도 물결(종합)",
-        "故최불암 \"진정한 봉사는 함께 비 맞는 것\"…장례는 초록우산재단장(종합)",
-        "“내가 세상 떠나면 꼭 들러달라” 故최불암 운구 행렬 향하는 곳",
-        "“마지막이라고 하지 마세요”…김혜자, 故 최불암 향한 먹먹한 그리움"
-      ],
-      "category": "연예/문화"
-    },
-    {
-      "rank": 2,
       "keyword": "경찰",
-      "count": 11,
-      "representative_title": "현직 경찰 음주 운전 적발.. \"직위 해제 후 감찰\"",
-      "representative_link": "https://n.news.naver.com/article/659/0000048284?ntype=RANKING",
-      "press": "전주MBC",
+      "count": 14,
+      "representative_title": "경찰 수사 받던 양산시 정책특보 숨진 채 발견",
+      "representative_link": "https://n.news.naver.com/article/003/0014291838?ntype=RANKING",
+      "press": "뉴시스",
       "related_articles": [
         {
-          "title": "특공대에 장갑차까지...경찰, 핼러윈 인파 관리 '총력전'",
-          "link": "https://n.news.naver.com/article/052/0002426343?ntype=RANKING",
-          "press": "YTN"
+          "title": "\"특산물 안 사면 배 못 타\" 울릉도 30명 감금 논란에…\"경찰 신고조차 없었다\"",
+          "link": "https://n.news.naver.com/article/277/0005836059?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "‘핼러윈 인파 관리’ 경찰 7,800명 투입…장갑차까지 동원",
+          "link": "https://n.news.naver.com/article/056/0012284674?ntype=RANKING",
+          "press": "KBS"
         },
         {
           "title": "소아응급실 압수수색 논란…의료계 “진료 방해” vs 경찰 “적법 집행”",
@@ -67,173 +29,216 @@
           "press": "한겨레"
         },
         {
-          "title": "핼러윈 앞둔 ‘불금’ 이태원엔 장갑차·경찰견까지···현장 안전관리 총력대응 나선 경찰",
-          "link": "https://n.news.naver.com/article/032/0003479761?ntype=RANKING",
-          "press": "경향신문"
+          "title": "\"문밖으로 사람 발이\" 8차선 한복판에 멈춘 차...슈퍼맨처럼 뛰어온 경찰",
+          "link": "https://n.news.naver.com/article/008/0005434555?ntype=RANKING",
+          "press": "머니투데이"
         },
         {
-          "title": "[속보] '응급실 압수수색' 경찰 사과에도…아주대 소아응급센터장 \"사표제출\"",
-          "link": "https://n.news.naver.com/article/655/0000033382?ntype=RANKING",
-          "press": "CJB청주방송"
-        },
-        {
-          "title": "청장이 ‘술 자제하라’ 했는데도... 음주운전하다 적발된 현직 경찰",
-          "link": "https://n.news.naver.com/article/023/0004006956?ntype=RANKING",
-          "press": "조선일보"
+          "title": "현직 경찰 음주 운전 적발.. \"직위 해제 후 감찰\"",
+          "link": "https://n.news.naver.com/article/659/0000048284?ntype=RANKING",
+          "press": "전주MBC"
         }
       ],
       "related_titles": [
-        "특공대에 장갑차까지...경찰, 핼러윈 인파 관리 '총력전'",
+        "\"특산물 안 사면 배 못 타\" 울릉도 30명 감금 논란에…\"경찰 신고조차 없었다\"",
+        "‘핼러윈 인파 관리’ 경찰 7,800명 투입…장갑차까지 동원",
         "소아응급실 압수수색 논란…의료계 “진료 방해” vs 경찰 “적법 집행”",
-        "핼러윈 앞둔 ‘불금’ 이태원엔 장갑차·경찰견까지···현장 안전관리 총력대응 나선 경찰",
-        "[속보] '응급실 압수수색' 경찰 사과에도…아주대 소아응급센터장 \"사표제출\"",
-        "청장이 ‘술 자제하라’ 했는데도... 음주운전하다 적발된 현직 경찰"
+        "\"문밖으로 사람 발이\" 8차선 한복판에 멈춘 차...슈퍼맨처럼 뛰어온 경찰",
+        "현직 경찰 음주 운전 적발.. \"직위 해제 후 감찰\""
       ],
       "category": "사건/사고"
     },
     {
-      "rank": 3,
-      "keyword": "논란",
-      "count": 10,
-      "representative_title": "급노화 논란 이후… ‘리프팅 시술’ 받고 달라진 닉쿤 근황",
-      "representative_link": "https://n.news.naver.com/article/346/0000118149?ntype=RANKING",
-      "press": "헬스조선",
+      "rank": 2,
+      "keyword": "트럼프",
+      "count": 14,
+      "representative_title": "위기의 트럼프, 유세 취소 번복…선거 사흘 전 총력전",
+      "representative_link": "https://n.news.naver.com/article/056/0012284671?ntype=RANKING",
+      "press": "KBS",
       "related_articles": [
         {
-          "title": "급노화 논란 이후… ‘리프팅 시술’ 받고 달라진 닉쿤 근황",
-          "link": "https://n.news.naver.com/article/346/0000118149?ntype=RANKING",
-          "press": "헬스조선"
+          "title": "트럼프 “이란 전쟁 곧 끝날 것”…호르무즈는 여전히 일촉즉발",
+          "link": "https://n.news.naver.com/article/056/0012284670?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "고개 숙인 '헬로키티'…산리오, '역사 왜곡 논란' 日드라마와 협업 중단[이런일이]",
-          "link": "https://n.news.naver.com/article/079/0004204954?ntype=RANKING",
-          "press": "노컷뉴스"
+          "title": "위기의 트럼프, 유세 취소 번복…선거 사흘 전 총력전",
+          "link": "https://n.news.naver.com/article/056/0012284671?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "“무슬림 1명이 가족 10명 데려와 건보 혜택”…취업비자 논란, 진실은?",
-          "link": "https://n.news.naver.com/article/009/0005756820?ntype=RANKING",
-          "press": "매일경제"
+          "title": "30년 텃밭 텍사스 '파랗게' 물들자…트럼프 \"다 날조다\"",
+          "link": "https://n.news.naver.com/article/437/0000518409?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "“여기 중국 아냐?” 지하철 노약자석 맨발로 누운 아이, 온라인서 논란",
-          "link": "https://n.news.naver.com/article/021/0002829235?ntype=RANKING",
-          "press": "문화일보"
+          "title": "“당신 역겨워, 형편없어”…트럼프, ‘건강 걱정’ 기자에 1분간 막말",
+          "link": "https://n.news.naver.com/article/028/0002830059?ntype=RANKING",
+          "press": "한겨레"
         },
         {
-          "title": "‘탱크데이 논란’ 스타벅스, 광주서 9년 운영한 대형 매장 문 닫았다",
-          "link": "https://n.news.naver.com/article/022/0004171115?ntype=RANKING",
-          "press": "세계일보"
+          "title": "\"우크라, 러 정유시설 공격 재개...트럼프 대놓고 무시\"",
+          "link": "https://n.news.naver.com/article/052/0002426397?ntype=RANKING",
+          "press": "YTN"
         }
       ],
       "related_titles": [
-        "급노화 논란 이후… ‘리프팅 시술’ 받고 달라진 닉쿤 근황",
-        "고개 숙인 '헬로키티'…산리오, '역사 왜곡 논란' 日드라마와 협업 중단[이런일이]",
-        "“무슬림 1명이 가족 10명 데려와 건보 혜택”…취업비자 논란, 진실은?",
-        "“여기 중국 아냐?” 지하철 노약자석 맨발로 누운 아이, 온라인서 논란",
-        "‘탱크데이 논란’ 스타벅스, 광주서 9년 운영한 대형 매장 문 닫았다"
+        "트럼프 “이란 전쟁 곧 끝날 것”…호르무즈는 여전히 일촉즉발",
+        "위기의 트럼프, 유세 취소 번복…선거 사흘 전 총력전",
+        "30년 텃밭 텍사스 '파랗게' 물들자…트럼프 \"다 날조다\"",
+        "“당신 역겨워, 형편없어”…트럼프, ‘건강 걱정’ 기자에 1분간 막말",
+        "\"우크라, 러 정유시설 공격 재개...트럼프 대놓고 무시\""
       ],
       "category": "국제"
     },
     {
-      "rank": 4,
-      "keyword": "학폭",
-      "count": 10,
-      "representative_title": "차예련 측, 중학생 시절 학폭 가해 의혹에 \"사실무근\"",
-      "representative_link": "https://n.news.naver.com/article/079/0004204899?ntype=RANKING",
-      "press": "노컷뉴스",
+      "rank": 3,
+      "keyword": "만원",
+      "count": 11,
+      "representative_title": "“딱 24세 청년한테만 25만원 준대”…경기도에서 무슨 일?",
+      "representative_link": "https://n.news.naver.com/article/662/0000107315?ntype=RANKING",
+      "press": "농민신문",
       "related_articles": [
         {
-          "title": "차예련 측, 중학생 시절 학폭 가해 의혹에 \"사실무근\"",
-          "link": "https://n.news.naver.com/article/079/0004204899?ntype=RANKING",
-          "press": "노컷뉴스"
+          "title": "친한 친구니까 '10만원' 해야지 했는데…축의금까지 제한하는 中",
+          "link": "https://n.news.naver.com/article/277/0005835971?ntype=RANKING",
+          "press": "아시아경제"
         },
         {
-          "title": "\"중학교서 유명한 일진, 뺨 맞아 고막 터져\"…'여배우 학폭' 폭로 터졌다",
-          "link": "https://n.news.naver.com/article/421/0009261154?ntype=RANKING",
-          "press": "뉴스1"
+          "title": "4인가족 한 끼에 94만원, 가격 올려도...\"연말 예약 이미 마감\"",
+          "link": "https://n.news.naver.com/article/008/0005434565?ntype=RANKING",
+          "press": "머니투데이"
         },
         {
-          "title": "“뺨 때려 고막도 찢어졌다”…차예련, 학폭 의혹에 “사실무근”",
-          "link": "https://n.news.naver.com/article/025/0003561762?ntype=RANKING",
-          "press": "중앙일보"
+          "title": "“141만원이 400만원 된다고?”…SK하이닉스, 지금이 기회?[종목e슈]",
+          "link": "https://n.news.naver.com/article/018/0006400561?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "“제가 85년생 학폭 여배우라고요?” 차예련, 의혹 제기에 “전혀 사실 아냐”",
-          "link": "https://n.news.naver.com/article/081/0003694418?ntype=RANKING",
-          "press": "서울신문"
+          "title": "\"한국서 배달로 월 330만원 벌었다\"…외국인 유학생 '꿀알바' 단속",
+          "link": "https://n.news.naver.com/article/014/0005597301?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
-          "title": "‘요리 잘하는 85년생 학폭’ 주장에…차예련 “전혀 사실 아냐”",
-          "link": "https://n.news.naver.com/article/020/0003758989?ntype=RANKING",
-          "press": "동아일보"
+          "title": "기초연금 수급 상위 1% 일반재산 평균 3.4억·근로소득 월220만원",
+          "link": "https://n.news.naver.com/article/001/0016413034?ntype=RANKING",
+          "press": "연합뉴스"
         }
       ],
       "related_titles": [
-        "차예련 측, 중학생 시절 학폭 가해 의혹에 \"사실무근\"",
-        "\"중학교서 유명한 일진, 뺨 맞아 고막 터져\"…'여배우 학폭' 폭로 터졌다",
-        "“뺨 때려 고막도 찢어졌다”…차예련, 학폭 의혹에 “사실무근”",
-        "“제가 85년생 학폭 여배우라고요?” 차예련, 의혹 제기에 “전혀 사실 아냐”",
-        "‘요리 잘하는 85년생 학폭’ 주장에…차예련 “전혀 사실 아냐”"
+        "친한 친구니까 '10만원' 해야지 했는데…축의금까지 제한하는 中",
+        "4인가족 한 끼에 94만원, 가격 올려도...\"연말 예약 이미 마감\"",
+        "“141만원이 400만원 된다고?”…SK하이닉스, 지금이 기회?[종목e슈]",
+        "\"한국서 배달로 월 330만원 벌었다\"…외국인 유학생 '꿀알바' 단속",
+        "기초연금 수급 상위 1% 일반재산 평균 3.4억·근로소득 월220만원"
       ],
-      "category": "연예/문화"
+      "category": "산업/테크"
+    },
+    {
+      "rank": 4,
+      "keyword": "최불암",
+      "count": 8,
+      "representative_title": "'불암산 산주', 배우 최불암 별세…향년 87세",
+      "representative_link": "https://n.news.naver.com/article/094/0000013918?ntype=RANKING",
+      "press": "월간 산",
+      "related_articles": [
+        {
+          "title": "최불암, 염수정 추기경으로부터 병자성사 받아...정순택 대주교 “우리 시대 어른” 애도",
+          "link": "https://n.news.naver.com/article/009/0005756744?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "'국민 아버지' 故최불암 빈소 조문 행렬…문화예술·정재계 곳곳서 발길(종합)",
+          "link": "https://n.news.naver.com/article/082/0001404938?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "\"형님, 절 놔두고 먼저 가시면\"… 눈물바다 된 故 최불암 빈소 [종합]",
+          "link": "https://n.news.naver.com/article/469/0000962757?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "\"곧 만나요\" 최불암 빈소 눈물바다… \"45년간 아이들 품은 진짜 어른\"",
+          "link": "https://n.news.naver.com/article/469/0000962750?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "김혜자 오열·김혜수 흐느껴…최불암 마지막 길, 별들이 울었다",
+          "link": "https://n.news.naver.com/article/654/0000208515?ntype=RANKING",
+          "press": "강원도민일보"
+        }
+      ],
+      "related_titles": [
+        "최불암, 염수정 추기경으로부터 병자성사 받아...정순택 대주교 “우리 시대 어른” 애도",
+        "'국민 아버지' 故최불암 빈소 조문 행렬…문화예술·정재계 곳곳서 발길(종합)",
+        "\"형님, 절 놔두고 먼저 가시면\"… 눈물바다 된 故 최불암 빈소 [종합]",
+        "\"곧 만나요\" 최불암 빈소 눈물바다… \"45년간 아이들 품은 진짜 어른\"",
+        "김혜자 오열·김혜수 흐느껴…최불암 마지막 길, 별들이 울었다"
+      ],
+      "category": "사회/일반"
     },
     {
       "rank": 5,
-      "keyword": "한동훈",
-      "count": 10,
-      "representative_title": "한동훈, 李 다문화정책 발언에 \"갈라치기 정치\"",
-      "representative_link": "https://n.news.naver.com/article/656/0000191054?ntype=RANKING",
-      "press": "대전일보",
+      "keyword": "여성",
+      "count": 8,
+      "representative_title": "백상아리 '쓰담쓰담' 여성…입 벌린 채 달려 들자 '아찔'",
+      "representative_link": "https://n.news.naver.com/article/422/0000921413?ntype=RANKING",
+      "press": "연합뉴스TV",
       "related_articles": [
         {
-          "title": "한동훈 “백주대낮에 바지 벗고 사법시스템 무너뜨려”…與 맹공",
-          "link": "https://n.news.naver.com/article/666/0000129956?ntype=RANKING",
-          "press": "경기일보"
+          "title": "“주식 실패, 혼자 죽기 무서워”…30대 남성, 애꿎은 日여성 살해",
+          "link": "https://n.news.naver.com/article/025/0003561803?ntype=RANKING",
+          "press": "중앙일보"
         },
         {
-          "title": "한동훈, 오세훈과 연대에 \"친분 아닌 명분으로 함께해야\"…장동혁·이준석은?",
-          "link": "https://n.news.naver.com/article/586/0000141268?ntype=RANKING",
-          "press": "시사저널"
+          "title": "[포착] “걸그룹 할래요” 키 148cm·몸무게 132kg로 무대 오른 여성…“AI 아냐” 해명한 사연",
+          "link": "https://n.news.naver.com/article/081/0003694154?ntype=RANKING",
+          "press": "서울신문"
         },
         {
-          "title": "'훈·훈 연대'에…한동훈 \"친분 아닌 명분…누구와도 힘 모아야\"",
-          "link": "https://n.news.naver.com/article/586/0000141290?ntype=RANKING",
-          "press": "시사저널"
+          "title": "“주식실패, 혼자 죽기 무서워서”…알고 지낸 日여성 살해한 30대",
+          "link": "https://n.news.naver.com/article/029/0003056236?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "野 차기 지도자, 오세훈 19.2% '5.9%p 급등'…장동혁 15.4%·한동훈 13.9%",
-          "link": "https://n.news.naver.com/article/119/0003149557?ntype=RANKING",
-          "press": "데일리안"
+          "title": "백상아리 '쓰담쓰담' 여성…입 벌린 채 달려 들자 '아찔'",
+          "link": "https://n.news.naver.com/article/422/0000921413?ntype=RANKING",
+          "press": "연합뉴스TV"
         },
         {
-          "title": "한동훈 \"이재명 정권 끝까지 못 갈 것\"…오세훈과 연대 가능성도 열어",
-          "link": "https://n.news.naver.com/article/053/0000062714?ntype=RANKING",
-          "press": "주간조선"
+          "title": "[속보] 서울 구로구서 '분신' 협박한 20대 여성 체포…전 연인 찾아가 위협",
+          "link": "https://n.news.naver.com/article/031/0001070896?ntype=RANKING",
+          "press": "아이뉴스24"
         }
       ],
       "related_titles": [
-        "한동훈 “백주대낮에 바지 벗고 사법시스템 무너뜨려”…與 맹공",
-        "한동훈, 오세훈과 연대에 \"친분 아닌 명분으로 함께해야\"…장동혁·이준석은?",
-        "'훈·훈 연대'에…한동훈 \"친분 아닌 명분…누구와도 힘 모아야\"",
-        "野 차기 지도자, 오세훈 19.2% '5.9%p 급등'…장동혁 15.4%·한동훈 13.9%",
-        "한동훈 \"이재명 정권 끝까지 못 갈 것\"…오세훈과 연대 가능성도 열어"
+        "“주식 실패, 혼자 죽기 무서워”…30대 남성, 애꿎은 日여성 살해",
+        "[포착] “걸그룹 할래요” 키 148cm·몸무게 132kg로 무대 오른 여성…“AI 아냐” 해명한 사연",
+        "“주식실패, 혼자 죽기 무서워서”…알고 지낸 日여성 살해한 30대",
+        "백상아리 '쓰담쓰담' 여성…입 벌린 채 달려 들자 '아찔'",
+        "[속보] 서울 구로구서 '분신' 협박한 20대 여성 체포…전 연인 찾아가 위협"
       ],
-      "category": "사회/일반"
+      "category": "경제/투자"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "코스피",
-      "count": 7,
-      "representative_title": "“아, 코스피”…빅테크 쇼크에 또 털렸다",
-      "representative_link": "https://n.news.naver.com/article/050/0000112625?ntype=RANKING",
-      "press": "한경비즈니스",
+      "keyword": "급락",
+      "count": 6,
+      "representative_title": "47조 유입에도 펀드 순자산 88조 감소…증시 급락 직격탄",
+      "representative_link": "https://n.news.naver.com/article/417/0001162770?ntype=RANKING",
+      "press": "동행미디어 시대",
       "related_articles": [
         {
-          "title": "[마켓 프리뷰] 추가 주주환원 없던 삼성전자…실망 매물에 코스피 '뚝'",
-          "link": "https://n.news.naver.com/article/374/0000540723?ntype=RANKING",
-          "press": "SBS Biz"
+          "title": "[속보]인텔 폭락에 나스닥 2.9% 급락…AI 투자 불안 확산",
+          "link": "https://n.news.naver.com/article/018/0006400572?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "47조 유입에도 펀드 순자산 88조 감소…증시 급락 직격탄",
+          "link": "https://n.news.naver.com/article/417/0001162770?ntype=RANKING",
+          "press": "동행미디어 시대"
         },
         {
           "title": "AI발 매도 폭풍에 코스피 3% 급락...다음주 美 중간선거 주목",
@@ -241,14 +246,9 @@
           "press": "비즈워치"
         },
         {
-          "title": "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에",
-          "link": "https://n.news.naver.com/article/030/0003480603?ntype=RANKING",
-          "press": "전자신문"
-        },
-        {
-          "title": "코스피, 美 빅테크 실적 충격에 3%대 급락…삼성전자 3%·SK하이닉스 7% 하락",
-          "link": "https://n.news.naver.com/article/030/0003480575?ntype=RANKING",
-          "press": "전자신문"
+          "title": "뉴욕증시, AI 투자 우려에 일제히 하락…인텔 29% 급락",
+          "link": "https://n.news.naver.com/article/138/0002246770?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
           "title": "‘미국발 쇼크’ 코스피, 매도 사이드카 발동…삼성전자·하이닉스 동반 급락",
@@ -257,171 +257,171 @@
         }
       ],
       "related_titles": [
-        "[마켓 프리뷰] 추가 주주환원 없던 삼성전자…실망 매물에 코스피 '뚝'",
+        "[속보]인텔 폭락에 나스닥 2.9% 급락…AI 투자 불안 확산",
+        "47조 유입에도 펀드 순자산 88조 감소…증시 급락 직격탄",
         "AI발 매도 폭풍에 코스피 3% 급락...다음주 美 중간선거 주목",
-        "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에",
-        "코스피, 美 빅테크 실적 충격에 3%대 급락…삼성전자 3%·SK하이닉스 7% 하락",
+        "뉴욕증시, AI 투자 우려에 일제히 하락…인텔 29% 급락",
         "‘미국발 쇼크’ 코스피, 매도 사이드카 발동…삼성전자·하이닉스 동반 급락"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "삼성전자",
-      "count": 6,
-      "representative_title": "비만치료제의 힘…일라이릴리, 삼성전자 시총까지 넘어섰다",
-      "representative_link": "https://n.news.naver.com/article/138/0002246700?ntype=RANKING",
-      "press": "디지털데일리",
+      "keyword": "투자",
+      "count": 5,
+      "representative_title": "엔비디아, 네이버 3대 주주 된다…1.5조 투자·AI 팩토리 본격화",
+      "representative_link": "https://n.news.naver.com/article/024/0000109268?ntype=RANKING",
+      "press": "매경이코노미",
       "related_articles": [
         {
-          "title": "4분기엔 전 세계 영업익 1위 찍는다는데… 삼성전자 시총은 엔비디아 ‘5분의 1’ 기현상",
-          "link": "https://n.news.naver.com/article/366/0001201610?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "인텔 실적 쇼크 '28% 폭락'...AI 투자 불안 반도체지수 7%↓[뉴욕마감]",
+          "link": "https://n.news.naver.com/article/008/0005434554?ntype=RANKING",
+          "press": "머니투데이"
         },
         {
-          "title": "삼성전자, 역대급 실적에도 주주환원 발목…목표가 35만원으로 낮춘 IBK",
-          "link": "https://n.news.naver.com/article/648/0000052107?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "AI 투자 우려에 뉴욕증시 '털썩'…인텔 29% 급락에 나스닥 2.9%↓",
+          "link": "https://n.news.naver.com/article/374/0000540931?ntype=RANKING",
+          "press": "SBS Biz"
         },
         {
-          "title": "비만치료제의 힘…일라이릴리, 삼성전자 시총까지 넘어섰다",
-          "link": "https://n.news.naver.com/article/138/0002246700?ntype=RANKING",
-          "press": "디지털데일리"
+          "title": "엔비디아, 네이버 3대 주주 된다…1.5조 투자·AI 팩토리 본격화",
+          "link": "https://n.news.naver.com/article/024/0000109268?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
-          "title": "4분기엔 전 세계 영업익 1위 찍는다는데… 삼성전자 시총은 엔비디아 ‘5분의 1’ 기현상",
-          "link": "https://n.news.naver.com/article/366/0001201610?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "인텔 실적 쇼크 '28% 폭락'...AI 투자 불안 반도체지수 7%↓[뉴욕마감]",
+          "link": "https://n.news.naver.com/article/008/0005434554?ntype=RANKING",
+          "press": "머니투데이"
         },
         {
-          "title": "삼성전자, 역대급 실적에도 주주환원 발목…목표가 35만원으로 낮춘 IBK",
-          "link": "https://n.news.naver.com/article/648/0000052107?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "AI 투자 우려에 뉴욕증시 '털썩'…인텔 29% 급락에 나스닥 2.9%↓",
+          "link": "https://n.news.naver.com/article/374/0000540931?ntype=RANKING",
+          "press": "SBS Biz"
         }
       ],
       "related_titles": [
-        "4분기엔 전 세계 영업익 1위 찍는다는데… 삼성전자 시총은 엔비디아 ‘5분의 1’ 기현상",
-        "삼성전자, 역대급 실적에도 주주환원 발목…목표가 35만원으로 낮춘 IBK",
-        "비만치료제의 힘…일라이릴리, 삼성전자 시총까지 넘어섰다",
-        "4분기엔 전 세계 영업익 1위 찍는다는데… 삼성전자 시총은 엔비디아 ‘5분의 1’ 기현상",
-        "삼성전자, 역대급 실적에도 주주환원 발목…목표가 35만원으로 낮춘 IBK"
+        "인텔 실적 쇼크 '28% 폭락'...AI 투자 불안 반도체지수 7%↓[뉴욕마감]",
+        "AI 투자 우려에 뉴욕증시 '털썩'…인텔 29% 급락에 나스닥 2.9%↓",
+        "엔비디아, 네이버 3대 주주 된다…1.5조 투자·AI 팩토리 본격화",
+        "인텔 실적 쇼크 '28% 폭락'...AI 투자 불안 반도체지수 7%↓[뉴욕마감]",
+        "AI 투자 우려에 뉴욕증시 '털썩'…인텔 29% 급락에 나스닥 2.9%↓"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "급락",
-      "count": 6,
-      "representative_title": "뉴욕증시, AI 투자 우려에 일제히 하락…인텔 29% 급락",
-      "representative_link": "https://n.news.naver.com/article/138/0002246770?ntype=RANKING",
-      "press": "디지털데일리",
+      "keyword": "북한",
+      "count": 4,
+      "representative_title": "20분만에 코인 8.4조 싹쓸이…\"역대 최대 해킹 배후는 북한?\"",
+      "representative_link": "https://n.news.naver.com/article/660/0000120298?ntype=RANKING",
+      "press": "kbc광주방송",
       "related_articles": [
         {
-          "title": "[속보]인텔 폭락에 나스닥 2.9% 급락…AI 투자 불안 확산",
-          "link": "https://n.news.naver.com/article/018/0006400572?ntype=RANKING",
-          "press": "이데일리"
+          "title": "\"북한, 세계 최대의 코인 절도범\"...트럼프 \"주시\"·FBI \"수사\"",
+          "link": "https://n.news.naver.com/article/052/0002426392?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "뉴욕증시, AI 투자 우려에 일제히 하락…인텔 29% 급락",
-          "link": "https://n.news.naver.com/article/138/0002246770?ntype=RANKING",
-          "press": "디지털데일리"
+          "title": "20분만에 코인 8.4조 싹쓸이…\"역대 최대 해킹 배후는 북한?\"",
+          "link": "https://n.news.naver.com/article/660/0000120298?ntype=RANKING",
+          "press": "kbc광주방송"
         },
         {
-          "title": "[오늘의증시] \"반도체 믿었는데\" SK하닉 7%·삼전 3% 급락…美 '알파벳 쇼크'에 와르르",
-          "link": "https://n.news.naver.com/article/243/0000104985?ntype=RANKING",
-          "press": "이코노미스트"
+          "title": "단 20분만에 코인 8.4조원 싹쓸이…북한 천리마 속도전에 당했나",
+          "link": "https://n.news.naver.com/article/055/0001399552?ntype=RANKING",
+          "press": "SBS"
         },
         {
-          "title": "[속보]인텔 폭락에 나스닥 2.9% 급락…AI 투자 불안 확산",
-          "link": "https://n.news.naver.com/article/018/0006400572?ntype=RANKING",
-          "press": "이데일리"
+          "title": "트럼프 ‘63억 달러 탈취’ 바이낸스 해킹 북한 소행 여부에 “모른다, 살펴보고 있다”",
+          "link": "https://n.news.naver.com/article/032/0003479778?ntype=RANKING",
+          "press": "경향신문"
         },
         {
-          "title": "뉴욕증시, AI 투자 우려에 일제히 하락…인텔 29% 급락",
-          "link": "https://n.news.naver.com/article/138/0002246770?ntype=RANKING",
-          "press": "디지털데일리"
+          "title": "\"북한, 세계 최대의 코인 절도범\"...트럼프 \"주시\"·FBI \"수사\"",
+          "link": "https://n.news.naver.com/article/052/0002426392?ntype=RANKING",
+          "press": "YTN"
         }
       ],
       "related_titles": [
-        "[속보]인텔 폭락에 나스닥 2.9% 급락…AI 투자 불안 확산",
-        "뉴욕증시, AI 투자 우려에 일제히 하락…인텔 29% 급락",
-        "[오늘의증시] \"반도체 믿었는데\" SK하닉 7%·삼전 3% 급락…美 '알파벳 쇼크'에 와르르",
-        "[속보]인텔 폭락에 나스닥 2.9% 급락…AI 투자 불안 확산",
-        "뉴욕증시, AI 투자 우려에 일제히 하락…인텔 29% 급락"
+        "\"북한, 세계 최대의 코인 절도범\"...트럼프 \"주시\"·FBI \"수사\"",
+        "20분만에 코인 8.4조 싹쓸이…\"역대 최대 해킹 배후는 북한?\"",
+        "단 20분만에 코인 8.4조원 싹쓸이…북한 천리마 속도전에 당했나",
+        "트럼프 ‘63억 달러 탈취’ 바이낸스 해킹 북한 소행 여부에 “모른다, 살펴보고 있다”",
+        "\"북한, 세계 최대의 코인 절도범\"...트럼프 \"주시\"·FBI \"수사\""
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "하락",
+      "keyword": "코인",
       "count": 4,
-      "representative_title": "뉴욕증시, 기술주 실적 부진에 하락 출발…나스닥 2.26%↓",
-      "representative_link": "https://n.news.naver.com/article/366/0001201655?ntype=RANKING",
-      "press": "조선비즈",
+      "representative_title": "단 20분 코인 8.4조원 싹쓸이…배후추정 北 천리마 속도전에 당했나",
+      "representative_link": "https://n.news.naver.com/article/001/0016413017?ntype=RANKING",
+      "press": "연합뉴스",
       "related_articles": [
         {
-          "title": "뉴욕증시, 기술주 실적 부진에 하락 출발…나스닥 2.26%↓",
-          "link": "https://n.news.naver.com/article/366/0001201655?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "단 20분 코인 8.4조원 싹쓸이…배후추정 北 천리마 속도전에 당했나",
+          "link": "https://n.news.naver.com/article/001/0016413017?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "현대차·기아, 영업익 개선에도 연간 수익성 '먹구름'…주가 동반 하락",
-          "link": "https://n.news.naver.com/article/123/0002393000?ntype=RANKING",
-          "press": "조세일보"
+          "title": "단 20분 코인 8.4조원 싹쓸이…배후추정 北 천리마 속도전에 당했나",
+          "link": "https://n.news.naver.com/article/001/0016413017?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "뉴욕증시, 기술주 실적 부진에 하락 출발…나스닥 2.26%↓",
-          "link": "https://n.news.naver.com/article/366/0001201655?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "현대차·기아, 영업익 개선에도 연간 수익성 '먹구름'…주가 동반 하락",
-          "link": "https://n.news.naver.com/article/123/0002393000?ntype=RANKING",
-          "press": "조세일보"
-        },
-        {
-          "title": "뉴욕증시, 기술주 실적 부진에 하락 출발…나스닥 2.26%↓",
-          "link": "https://n.news.naver.com/article/366/0001201655?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "단 20분 코인 8.4조원 싹쓸이…배후추정 北 천리마 속도전에 당했나",
+          "link": "https://n.news.naver.com/article/001/0016413017?ntype=RANKING",
+          "press": "연합뉴스"
         }
       ],
       "related_titles": [
-        "뉴욕증시, 기술주 실적 부진에 하락 출발…나스닥 2.26%↓",
-        "현대차·기아, 영업익 개선에도 연간 수익성 '먹구름'…주가 동반 하락",
-        "뉴욕증시, 기술주 실적 부진에 하락 출발…나스닥 2.26%↓",
-        "현대차·기아, 영업익 개선에도 연간 수익성 '먹구름'…주가 동반 하락",
-        "뉴욕증시, 기술주 실적 부진에 하락 출발…나스닥 2.26%↓"
+        "단 20분 코인 8.4조원 싹쓸이…배후추정 北 천리마 속도전에 당했나",
+        "단 20분 코인 8.4조원 싹쓸이…배후추정 北 천리마 속도전에 당했나",
+        "단 20분 코인 8.4조원 싹쓸이…배후추정 北 천리마 속도전에 당했나"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "매도",
-      "count": 3,
-      "representative_title": "\"또 매도 사이드카\" 증시 '뚝'...투자 매력 커졌다? 전문가 조언 보니",
-      "representative_link": "https://n.news.naver.com/article/008/0005434459?ntype=RANKING",
-      "press": "머니투데이",
+      "keyword": "코스피",
+      "count": 4,
+      "representative_title": "사흘간 사고 하루만에 코스피 떠난 외국인, SK·방산주 담았다",
+      "representative_link": "https://n.news.naver.com/article/037/0000039068?ntype=RANKING",
+      "press": "주간동아",
       "related_articles": [
         {
-          "title": "\"또 매도 사이드카\" 증시 '뚝'...투자 매력 커졌다? 전문가 조언 보니",
-          "link": "https://n.news.naver.com/article/008/0005434459?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에",
+          "link": "https://n.news.naver.com/article/030/0003480603?ntype=RANKING",
+          "press": "전자신문"
         },
         {
-          "title": "\"또 매도 사이드카\" 증시 '뚝'...투자 매력 커졌다? 전문가 조언 보니",
-          "link": "https://n.news.naver.com/article/008/0005434459?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "사흘간 사고 하루만에 코스피 떠난 외국인, SK·방산주 담았다",
+          "link": "https://n.news.naver.com/article/037/0000039068?ntype=RANKING",
+          "press": "주간동아"
         },
         {
-          "title": "\"또 매도 사이드카\" 증시 '뚝'...투자 매력 커졌다? 전문가 조언 보니",
-          "link": "https://n.news.naver.com/article/008/0005434459?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에",
+          "link": "https://n.news.naver.com/article/030/0003480603?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "사흘간 사고 하루만에 코스피 떠난 외국인, SK·방산주 담았다",
+          "link": "https://n.news.naver.com/article/037/0000039068?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에",
+          "link": "https://n.news.naver.com/article/030/0003480603?ntype=RANKING",
+          "press": "전자신문"
         }
       ],
       "related_titles": [
-        "\"또 매도 사이드카\" 증시 '뚝'...투자 매력 커졌다? 전문가 조언 보니",
-        "\"또 매도 사이드카\" 증시 '뚝'...투자 매력 커졌다? 전문가 조언 보니",
-        "\"또 매도 사이드카\" 증시 '뚝'...투자 매력 커졌다? 전문가 조언 보니"
+        "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에",
+        "사흘간 사고 하루만에 코스피 떠난 외국인, SK·방산주 담았다",
+        "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에",
+        "사흘간 사고 하루만에 코스피 떠난 외국인, SK·방산주 담았다",
+        "“내 주식 앞으로 얼마나 벌까?”…코스피 93%·코스닥 99% 묵묵부답, 뭐 때문에"
       ],
       "category": "주식/코인"
     }
@@ -455,6 +455,26 @@
     },
     {
       "rank": 2,
+      "keyword": "게티이미지",
+      "series_title": "게티이미지의 몰락",
+      "count": 1,
+      "representative_title": "AI에 30년 밥그릇 뺏겼다…‘사진 왕국’ 게티이미지의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03ZG9QMzlQX3FDdnpvamxVWmlfYnRDemFocWw3dWdPZVRfWDZ5OXFfanBXbXVaNlpnQkl6Q3N0VjZseUdwSGt0U2Rmd242YnZNX19pdHpn?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "AI에 30년 밥그릇 뺏겼다…‘사진 왕국’ 게티이미지의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03ZG9QMzlQX3FDdnpvamxVWmlfYnRDemFocWw3dWdPZVRfWDZ5OXFfanBXbXVaNlpnQkl6Q3N0VjZseUdwSGt0U2Rmd242YnZNX19pdHpn?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "AI에 30년 밥그릇 뺏겼다…‘사진 왕국’ 게티이미지의 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
       "keyword": "구글",
       "series_title": "구글의 몰락",
       "count": 1,
@@ -474,7 +494,7 @@
       "category": "몰락"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "음바페",
       "series_title": "음바페의 몰락",
       "count": 1,
@@ -494,7 +514,7 @@
       "category": "몰락"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "유시민",
       "series_title": "유시민의 몰락",
       "count": 1,
@@ -510,26 +530,6 @@
       ],
       "related_titles": [
         "논객 유시민의 몰락, 입증책임 뒤에 숨지 말라"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 5,
-      "keyword": "새턴",
-      "series_title": "새턴의 몰락",
-      "count": 1,
-      "representative_title": "WWE 스타서 노숙자로…페리 새턴의 몰락",
-      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9obTRFZUx2alJycVpvRkFzeXhpMXRZcGtodVlVNXRSb25lQU5IT0dwby1xV2t1M0Z4RW91cHAzSHdIdHVwYXBvVUhLajFxWTFPa2FCd1M4cGJ1bklOdDRtdQ?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "WWE 스타서 노숙자로…페리 새턴의 몰락",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9obTRFZUx2alJycVpvRkFzeXhpMXRZcGtodVlVNXRSb25lQU5IT0dwby1xV2t1M0Z4RW91cHAzSHdIdHVwYXBvVUhLajFxWTFPa2FCd1M4cGJ1bklOdDRtdQ?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "WWE 스타서 노숙자로…페리 새턴의 몰락"
       ],
       "category": "몰락"
     }
