@@ -1,0 +1,650 @@
+{
+  "date": "2026-11-01",
+  "hour": "13",
+  "slot": "2026-11-01_13",
+  "crawled_at": "2026-11-01 13:00:03",
+  "total_articles": 395,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "대통령",
+      "count": 22,
+      "representative_title": "이 대통령 \"지금은 견디는 중\"…집값 하락 전망 맞을까",
+      "representative_link": "https://n.news.naver.com/article/665/0000008467?ntype=RANKING",
+      "press": "더스쿠프",
+      "related_articles": [
+        {
+          "title": "이 대통령, 野 순방 비판에 \"돼지 눈엔 돼지만…링거 맞고 코피 터져\"",
+          "link": "https://n.news.naver.com/article/031/0001071046?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "국힘 \"윤석열 순방 '혈세 낭비'라 한 이 대통령‥사과부터 하라\"",
+          "link": "https://n.news.naver.com/article/214/0001532726?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "무섭게 떠나는 ‘중도·수도권·청년’…이 대통령 안 바뀌면 정권 위태롭다",
+          "link": "https://n.news.naver.com/article/028/0002830106?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "나경원 “고장난 시계도 하루 2번은 맞아…이 대통령 ‘내국인 역차별’ 옳다”",
+          "link": "https://n.news.naver.com/article/028/0002830112?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "박지원 \"한동훈, 대통령 될 것 같지?...그런 건 없어, 자기 딸도 조국-조민처럼, 부모 죄 자식이\"[여의도초대석]",
+          "link": "https://n.news.naver.com/article/660/0000120358?ntype=RANKING",
+          "press": "kbc광주방송"
+        }
+      ],
+      "related_titles": [
+        "이 대통령, 野 순방 비판에 \"돼지 눈엔 돼지만…링거 맞고 코피 터져\"",
+        "국힘 \"윤석열 순방 '혈세 낭비'라 한 이 대통령‥사과부터 하라\"",
+        "무섭게 떠나는 ‘중도·수도권·청년’…이 대통령 안 바뀌면 정권 위태롭다",
+        "나경원 “고장난 시계도 하루 2번은 맞아…이 대통령 ‘내국인 역차별’ 옳다”",
+        "박지원 \"한동훈, 대통령 될 것 같지?...그런 건 없어, 자기 딸도 조국-조민처럼, 부모 죄 자식이\"[여의도초대석]"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 2,
+      "keyword": "여성",
+      "count": 14,
+      "representative_title": "\"사형약물 두 번 맞았는데도\"…美여성 사형수, 깨어나 한 말",
+      "representative_link": "https://n.news.naver.com/article/660/0000120347?ntype=RANKING",
+      "press": "kbc광주방송",
+      "related_articles": [
+        {
+          "title": "\"직장에 민폐로 보일 텐데\"...육아휴직 후 복직 한 달 반 만에 다시 임신한 여성 [결혼과 이혼]",
+          "link": "https://n.news.naver.com/article/031/0001071063?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "독극물 주사 두 차례 맞고도 생존한 美 여성 사형수…내놓은 첫 입장은",
+          "link": "https://n.news.naver.com/article/023/0004007101?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "“혼자 죽긴 무서워서”…세 번 만난 日여성 살해한 30대男, 범행 동기 의문",
+          "link": "https://n.news.naver.com/article/011/0004677340?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "터널 내 시속 171km 음주 사망사고…30대 여성 항소심서 감형",
+          "link": "https://n.news.naver.com/article/422/0000921627?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "'만남 3회' 日 여성 살해한 30대… 일본 언론도 '천안 살인사건' 연일 보도",
+          "link": "https://n.news.naver.com/article/030/0003480705?ntype=RANKING",
+          "press": "전자신문"
+        }
+      ],
+      "related_titles": [
+        "\"직장에 민폐로 보일 텐데\"...육아휴직 후 복직 한 달 반 만에 다시 임신한 여성 [결혼과 이혼]",
+        "독극물 주사 두 차례 맞고도 생존한 美 여성 사형수…내놓은 첫 입장은",
+        "“혼자 죽긴 무서워서”…세 번 만난 日여성 살해한 30대男, 범행 동기 의문",
+        "터널 내 시속 171km 음주 사망사고…30대 여성 항소심서 감형",
+        "'만남 3회' 日 여성 살해한 30대… 일본 언론도 '천안 살인사건' 연일 보도"
+      ],
+      "category": "노동/파업"
+    },
+    {
+      "rank": 3,
+      "keyword": "한국",
+      "count": 13,
+      "representative_title": "‘칩 생태계’가 갈랐다, 한국·대만 성장률",
+      "representative_link": "https://n.news.naver.com/article/353/0000057087?ntype=RANKING",
+      "press": "중앙SUNDAY",
+      "related_articles": [
+        {
+          "title": "루비오 “한국 의원 비자 지연은 20여 년 전 행적 때문, 양자 해결할 것···북·미 대화 일정 없어”",
+          "link": "https://n.news.naver.com/article/032/0003479822?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "\"식당보다 맛있어요\"…외국인들 한국 편의점서 푹 빠진 '이 음식'[K홀릭]",
+          "link": "https://n.news.naver.com/article/277/0005836195?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "미 국무, 한국 국회의원 비자 거부에 \"수십 년 전 행동 관련\"",
+          "link": "https://n.news.naver.com/article/047/0002534174?ntype=RANKING",
+          "press": "오마이뉴스"
+        },
+        {
+          "title": "미 국무 \"트럼프, 김정은과 대화 준비...한국 의원 비자 문제 해결할 것\"",
+          "link": "https://n.news.naver.com/article/052/0002426707?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "한국 수출 1조 달러 시대 눈앞…11월 중 세계 네 번째 달성 전망",
+          "link": "https://n.news.naver.com/article/660/0000120359?ntype=RANKING",
+          "press": "kbc광주방송"
+        }
+      ],
+      "related_titles": [
+        "루비오 “한국 의원 비자 지연은 20여 년 전 행적 때문, 양자 해결할 것···북·미 대화 일정 없어”",
+        "\"식당보다 맛있어요\"…외국인들 한국 편의점서 푹 빠진 '이 음식'[K홀릭]",
+        "미 국무, 한국 국회의원 비자 거부에 \"수십 년 전 행동 관련\"",
+        "미 국무 \"트럼프, 김정은과 대화 준비...한국 의원 비자 문제 해결할 것\"",
+        "한국 수출 1조 달러 시대 눈앞…11월 중 세계 네 번째 달성 전망"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 4,
+      "keyword": "최불암",
+      "count": 13,
+      "representative_title": "'전원일기' 장남 김용건, 최불암 조문 망설인 이유",
+      "representative_link": "https://n.news.naver.com/article/079/0004205111?ntype=RANKING",
+      "press": "노컷뉴스",
+      "related_articles": [
+        {
+          "title": "'전원일기' 장남 김용건 \"최불암 빈소 못 찾아 마음 힘들어\"",
+          "link": "https://n.news.naver.com/article/015/0005348857?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "김용건 \"최불암 빈소 못 찾아 마음 힘들어…곁에 있어야 하는데\"",
+          "link": "https://n.news.naver.com/article/001/0016413788?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "‘전원일기’ 장남 김용건, 최불암 빈소 못찾는 속사정…“나도 만류”",
+          "link": "https://n.news.naver.com/article/025/0003561916?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "하정우 결혼 앞둔 김용건…故 최불암 빈소 못 찾은 사정",
+          "link": "https://n.news.naver.com/article/215/0001271231?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "‘전원일기 아버지’ 최불암 빈소 못 간 김용건…“子 하정우 결혼 앞둬”",
+          "link": "https://n.news.naver.com/article/009/0005757029?ntype=RANKING",
+          "press": "매일경제"
+        }
+      ],
+      "related_titles": [
+        "'전원일기' 장남 김용건 \"최불암 빈소 못 찾아 마음 힘들어\"",
+        "김용건 \"최불암 빈소 못 찾아 마음 힘들어…곁에 있어야 하는데\"",
+        "‘전원일기’ 장남 김용건, 최불암 빈소 못찾는 속사정…“나도 만류”",
+        "하정우 결혼 앞둔 김용건…故 최불암 빈소 못 찾은 사정",
+        "‘전원일기 아버지’ 최불암 빈소 못 간 김용건…“子 하정우 결혼 앞둬”"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "만원",
+      "count": 13,
+      "representative_title": "\"쏘렌토 최대 550만원 할인\"…기아, 1만대 특가 푼다",
+      "representative_link": "https://n.news.naver.com/article/014/0005597433?ntype=RANKING",
+      "press": "파이낸셜뉴스",
+      "related_articles": [
+        {
+          "title": "국민연금 수급자 800만명 돌파…10명중 7명은 월 60만원 미만",
+          "link": "https://n.news.naver.com/article/001/0016413556?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "“쏘렌토 550만원·아반떼 100만원 싸게 산다”…현대차·기아 할인전 돌입",
+          "link": "https://n.news.naver.com/article/011/0004677381?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "“쏘렌토 550만원·아반떼 100만원 싸게 산다”…현대차·기아 할인전 돌입",
+          "link": "https://n.news.naver.com/article/011/0004677381?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "\"2억 넣고 월 160만원 꼬박꼬박\" 30대 은퇴부부, 5천만원씩 담았다는 ETF는",
+          "link": "https://n.news.naver.com/article/014/0005597404?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "\"나 연봉 8억, 아내 4000만원...집안일 반반하는거 맞나?\" 삼성전자 남편의 투정 [어떻게 생각하세요]",
+          "link": "https://n.news.naver.com/article/014/0005597402?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        }
+      ],
+      "related_titles": [
+        "국민연금 수급자 800만명 돌파…10명중 7명은 월 60만원 미만",
+        "“쏘렌토 550만원·아반떼 100만원 싸게 산다”…현대차·기아 할인전 돌입",
+        "“쏘렌토 550만원·아반떼 100만원 싸게 산다”…현대차·기아 할인전 돌입",
+        "\"2억 넣고 월 160만원 꼬박꼬박\" 30대 은퇴부부, 5천만원씩 담았다는 ETF는",
+        "\"나 연봉 8억, 아내 4000만원...집안일 반반하는거 맞나?\" 삼성전자 남편의 투정 [어떻게 생각하세요]"
+      ],
+      "category": "산업/테크"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "달러",
+      "count": 7,
+      "representative_title": "북·미회담 ‘희망 고문’에 540억 달러 청구서만 받아 든 한국",
+      "representative_link": "https://n.news.naver.com/article/262/0000019804?ntype=RANKING",
+      "press": "신동아",
+      "related_articles": [
+        {
+          "title": "FBI \"북한, 가상화폐 63억 달러 탈취 배후…이더리움 전환 포착\"",
+          "link": "https://n.news.naver.com/article/055/0001399670?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "올해 수출 '꿈의 1조 달러' 눈앞…미·중·독 이어 세계 4위(종합)",
+          "link": "https://n.news.naver.com/article/001/0016413780?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "미 FBI \"북한, 가상화폐 63억 달러 탈취 배후‥이더리움 전환 포착\"",
+          "link": "https://n.news.naver.com/article/214/0001532713?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "한국 수출 1조 달러 시대 눈앞…11월 중 세계 네 번째 달성 전망",
+          "link": "https://n.news.naver.com/article/660/0000120359?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "[속보] 한국 수출 사상 첫 9천억 달러 돌파…11월 중 미·중·독 이어 네 번째 '1조 달러' 달성 확실시",
+          "link": "https://n.news.naver.com/article/002/0002463688?ntype=RANKING",
+          "press": "프레시안"
+        }
+      ],
+      "related_titles": [
+        "FBI \"북한, 가상화폐 63억 달러 탈취 배후…이더리움 전환 포착\"",
+        "올해 수출 '꿈의 1조 달러' 눈앞…미·중·독 이어 세계 4위(종합)",
+        "미 FBI \"북한, 가상화폐 63억 달러 탈취 배후‥이더리움 전환 포착\"",
+        "한국 수출 1조 달러 시대 눈앞…11월 중 세계 네 번째 달성 전망",
+        "[속보] 한국 수출 사상 첫 9천억 달러 돌파…11월 중 미·중·독 이어 네 번째 '1조 달러' 달성 확실시"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "코스피",
+      "count": 6,
+      "representative_title": "코스피 급락에 펀드 88조 증발…저가매수도 역부족",
+      "representative_link": "https://n.news.naver.com/article/123/0002393030?ntype=RANKING",
+      "press": "조세일보",
+      "related_articles": [
+        {
+          "title": "코스피 한 달새 16% '뚝'…'수주 실망' 조선·방산, 반도체보다 더 빠졌다",
+          "link": "https://n.news.naver.com/article/421/0009262349?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "5700선에서 하락 멈춘 코스피...연기금 매수했지만 외국인은 여전히 ‘팔자’",
+          "link": "https://n.news.naver.com/article/022/0004171372?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "\"바닥 두번 찍은 코스피, 반등할까\"…5700~6500선 전망 [주간 증시 전망]",
+          "link": "https://n.news.naver.com/article/119/0003149711?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "“9000은커녕 7000선이라도 올까”…삼성전자 107조 벌어도 못 웃는 코스피 [증시레이더]",
+          "link": "https://n.news.naver.com/article/138/0002246785?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "역대급 실적에도 코스피 급락…미국發 'AI 투자 쇼크'에 삼전·닉스 '휘청'",
+          "link": "https://n.news.naver.com/article/243/0000105046?ntype=RANKING",
+          "press": "이코노미스트"
+        }
+      ],
+      "related_titles": [
+        "코스피 한 달새 16% '뚝'…'수주 실망' 조선·방산, 반도체보다 더 빠졌다",
+        "5700선에서 하락 멈춘 코스피...연기금 매수했지만 외국인은 여전히 ‘팔자’",
+        "\"바닥 두번 찍은 코스피, 반등할까\"…5700~6500선 전망 [주간 증시 전망]",
+        "“9000은커녕 7000선이라도 올까”…삼성전자 107조 벌어도 못 웃는 코스피 [증시레이더]",
+        "역대급 실적에도 코스피 급락…미국發 'AI 투자 쇼크'에 삼전·닉스 '휘청'"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "삼성전자",
+      "count": 4,
+      "representative_title": "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
+      "representative_link": "https://n.news.naver.com/article/003/0014292317?ntype=RANKING",
+      "press": "뉴시스",
+      "related_articles": [
+        {
+          "title": "\"나 연봉 8억, 아내 4000만원...집안일 반반하는거 맞나?\" 삼성전자 남편의 투정 [어떻게 생각하세요]",
+          "link": "https://n.news.naver.com/article/014/0005597402?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
+          "link": "https://n.news.naver.com/article/003/0014292317?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "\"삼성전자, 괜찮은 거 맞아?\"...주가 전망 보니 '이럴수가'",
+          "link": "https://n.news.naver.com/article/050/0000112660?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "\"나 연봉 8억, 아내 4000만원...집안일 반반하는거 맞나?\" 삼성전자 남편의 투정 [어떻게 생각하세요]",
+          "link": "https://n.news.naver.com/article/014/0005597402?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
+          "link": "https://n.news.naver.com/article/003/0014292317?ntype=RANKING",
+          "press": "뉴시스"
+        }
+      ],
+      "related_titles": [
+        "\"나 연봉 8억, 아내 4000만원...집안일 반반하는거 맞나?\" 삼성전자 남편의 투정 [어떻게 생각하세요]",
+        "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\"",
+        "\"삼성전자, 괜찮은 거 맞아?\"...주가 전망 보니 '이럴수가'",
+        "\"나 연봉 8억, 아내 4000만원...집안일 반반하는거 맞나?\" 삼성전자 남편의 투정 [어떻게 생각하세요]",
+        "삼성전자·SK하이닉스 지금이 기회?…\"역사적 바겐세일 구간\""
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "북한",
+      "count": 3,
+      "representative_title": "FBI \"가상자산 거래소 바이낸스 8조원대 해킹 배후는 북한\"",
+      "representative_link": "https://n.news.naver.com/article/629/0000547537?ntype=RANKING",
+      "press": "더팩트",
+      "related_articles": [
+        {
+          "title": "FBI \"가상자산 거래소 바이낸스 8조원대 해킹 배후는 북한\"",
+          "link": "https://n.news.naver.com/article/629/0000547537?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "FBI \"가상자산 거래소 바이낸스 8조원대 해킹 배후는 북한\"",
+          "link": "https://n.news.naver.com/article/629/0000547537?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "FBI \"가상자산 거래소 바이낸스 8조원대 해킹 배후는 북한\"",
+          "link": "https://n.news.naver.com/article/629/0000547537?ntype=RANKING",
+          "press": "더팩트"
+        }
+      ],
+      "related_titles": [
+        "FBI \"가상자산 거래소 바이낸스 8조원대 해킹 배후는 북한\"",
+        "FBI \"가상자산 거래소 바이낸스 8조원대 해킹 배후는 북한\"",
+        "FBI \"가상자산 거래소 바이낸스 8조원대 해킹 배후는 북한\""
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "투자",
+      "count": 3,
+      "representative_title": "\"2억 넣고 月 160만 원씩\" 30대 은퇴 부부가 꼽은 투자 종목",
+      "representative_link": "https://n.news.naver.com/article/018/0006401145?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "\"2억 넣고 月 160만 원씩\" 30대 은퇴 부부가 꼽은 투자 종목",
+          "link": "https://n.news.naver.com/article/018/0006401145?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "홍준표의 뜬금없는 투자 실패담, 왜?…\"1.3억 투자했다 전액 잃었다\"",
+          "link": "https://n.news.naver.com/article/002/0002463684?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "\"2억 넣고 月 160만 원씩\" 30대 은퇴 부부가 꼽은 투자 종목",
+          "link": "https://n.news.naver.com/article/018/0006401145?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "홍준표의 뜬금없는 투자 실패담, 왜?…\"1.3억 투자했다 전액 잃었다\"",
+          "link": "https://n.news.naver.com/article/002/0002463684?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "\"2억 넣고 月 160만 원씩\" 30대 은퇴 부부가 꼽은 투자 종목",
+          "link": "https://n.news.naver.com/article/018/0006401145?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "\"2억 넣고 月 160만 원씩\" 30대 은퇴 부부가 꼽은 투자 종목",
+        "홍준표의 뜬금없는 투자 실패담, 왜?…\"1.3억 투자했다 전액 잃었다\"",
+        "\"2억 넣고 月 160만 원씩\" 30대 은퇴 부부가 꼽은 투자 종목",
+        "홍준표의 뜬금없는 투자 실패담, 왜?…\"1.3억 투자했다 전액 잃었다\"",
+        "\"2억 넣고 月 160만 원씩\" 30대 은퇴 부부가 꼽은 투자 종목"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 5,
+      "representative_title": "“이재명 정권 몰락의 카운트다운 시작”",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdXZkR0lvdEdEdEFTNUtmZEhDc0tnMVpUZ1h5dXQzUWJfRjJvT2YzZlZBYUpES21FdVpLQmZMZGVYbTRHdld2ZTNGYkJkeTlFdjJFN3FR?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "국민의힘 “조희대 죽이기가 민생? 이재명 정권 몰락 카운트다운 시작돼”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vNnlEQldfRkRNTmNYRndwVk0tbjhIWFpNRlBDTkFwQkh3Q0Njb1RtMjljeUxOaFNMcjRrVjFLWHV3aHE1a0VGMHBnUzNCZjFFdVVSUUlvQ21CWFk5ZEwwbFFhYlhJcnJzNHc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“이재명 정권 몰락의 카운트다운 시작”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdXZkR0lvdEdEdEFTNUtmZEhDc0tnMVpUZ1h5dXQzUWJfRjJvT2YzZlZBYUpES21FdVpLQmZMZGVYbTRHdld2ZTNGYkJkeTlFdjJFN3FR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국힘 \"이재명 정권 몰락 카운트다운 시작…조희대 죽이기 광기\"",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3JhS3VUZ3RlMmFodFplRV9rcDlPY2NDcnE0b0RNVXQ5X1ZHWlFqejUzLV9QSUNKbFgxdXFac2E5eXVCZmFmcldUMVFWMUMwSE5OUE91aF93YVk0amNEbzlKcEJTQ0N5WU9xRDM1ZmFOMnlKOHFuTjlraXdqN28xRw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNampVRjNIUndFNHU3OVNHdnBGUTFjelpIZTNEZ2xGdW80SkxqMHh4SmViWWJmR1R6VFhRR2xyZHE0bG1TMWI3eHhuSFpFWGh3bzBObkd3VjNvQzhWclV5Vjc3Wi1NVW5SZ2FMY3BtTEpFWFdlckJZRkdfOFFhLS1SNTc3TGt1LXhSRkpuNUoxWFBXa0VKVm1hcDNxdWlVY0FSekJVTkRRSGVMa2tLWUNhQVl6eXpsTDE5bGRPVzk3WDQtbkRsYTdiYm1SSlVzdmZ1NkJEYU1ubHctcWF1UDF4SDZtZlN4ZFI5aFVMb05QZ1VYRmFlZmVfeVhvMUZScm1Ja2hjV2dLRmdDY2ZaRXpWbnZ0YmxYZ1lK?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\"",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EbnJ1cDN3S1p3a2JXMVVtZGZjMlZLZlplcGhRVHJZSzlidGJIWEF1RURWWnY0MVRmYzRKWUM5TC1faUVjWW9ybWJ1czRlZXMxRDdQbHZyV3dWaWNMVjNuN1dJSVkxcUlWa2wzV3FYTQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "국민의힘 “조희대 죽이기가 민생? 이재명 정권 몰락 카운트다운 시작돼”",
+        "“이재명 정권 몰락의 카운트다운 시작”",
+        "국힘 \"이재명 정권 몰락 카운트다운 시작…조희대 죽이기 광기\"",
+        "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+        "국힘 \"민주당 '조희대 국정조사', 탄핵근거 짜 맞추기...정권 몰락의 서막\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "영재",
+      "series_title": "영재의 몰락",
+      "count": 2,
+      "representative_title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzIwdjEtQm9hSUM4ZDBSZlVHdlhTVWZGR2cxVU9mc1JqcVBMeW53c184WExBX3dTSGJXWHUtRWJrMGlOaXh4QVNpY0Zja2JhaXBvcUxFdlBRd3I3Tk1QeGdBRGVRc29xRm1GWm9rQmVkaWU0cUhITmlyNDhGQ3VXNDloRdIBlwFBVV95cUxOQmRvNlhGR1B6M1NjdFZaakpNN0lzOWc0bzJMN0x0ZTJlblBsd0NwRmZ0N3dQYmROZzltX254b3A5Z2g4YS13N3MyTUp4MTJnRy1FTEJFYzA4bEZhaC1wdlI0ekNwN1ZlNGg0S0ZORWxkQWJHM2hjdmRaNkRycXJoMnFCWnVjZ2UwNUctRURDVzFIN20yX1hJ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+        "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "빠져",
+      "series_title": "빠져의 몰락",
+      "count": 1,
+      "representative_title": "모바일·AI 혁신 외면하고 CPU만 의존 … 관료주의 함정에 빠져 몰락 위기",
+      "representative_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pVEh0eUtQU2Fsek9PT2l3MU4tN01qdEtVZnZOSG14VHVFV2VlczlVZ2N2Uy14Nk9oc1JjNVM3dFFtX3BsdkZxdGFZR19TOVh0eFN1S0Z4eFBVcTBqbF9Lb1pCYzRrOGZ1RTNJeWhNUVZFRmxsV25xTnZtNNIBgAFBVV95cUxNeGtxZWVwVi1MdGdEQWhlSWZQb3BXNGhncGFkdWE4dlRaWFV6MEFWR3J3ekpRZm9XOHZtU25CbHVRMzBUY0xOM3p5UHFlNTZpWGp2UkRnNC1kendxX0dKMXRkdDROZnBIU1dxc25PT1pmcFdFT005OFp5Vm1rQkFqcg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "모바일·AI 혁신 외면하고 CPU만 의존 … 관료주의 함정에 빠져 몰락 위기",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pVEh0eUtQU2Fsek9PT2l3MU4tN01qdEtVZnZOSG14VHVFV2VlczlVZ2N2Uy14Nk9oc1JjNVM3dFFtX3BsdkZxdGFZR19TOVh0eFN1S0Z4eFBVcTBqbF9Lb1pCYzRrOGZ1RTNJeWhNUVZFRmxsV25xTnZtNNIBgAFBVV95cUxNeGtxZWVwVi1MdGdEQWhlSWZQb3BXNGhncGFkdWE4dlRaWFV6MEFWR3J3ekpRZm9XOHZtU25CbHVRMzBUY0xOM3p5UHFlNTZpWGp2UkRnNC1kendxX0dKMXRkdDROZnBIU1dxc25PT1pmcFdFT005OFp5Vm1rQkFqcg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "모바일·AI 혁신 외면하고 CPU만 의존 … 관료주의 함정에 빠져 몰락 위기"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "사이버보안",
+      "series_title": "사이버보안의 몰락",
+      "count": 1,
+      "representative_title": "[보안칼럼] 인간중심 사이버보안의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWWtqUTRxMUJHQU8zeVRhLXBIbGNEbHFobno3NmVuOW5lTDRCVVdCSGZLaDN0NXJMM2VBSGxBVUtBT1dDYTM2anJVYVVuaGhRMkZpYmx3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[보안칼럼] 인간중심 사이버보안의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWWtqUTRxMUJHQU8zeVRhLXBIbGNEbHFobno3NmVuOW5lTDRCVVdCSGZLaDN0NXJMM2VBSGxBVUtBT1dDYTM2anJVYVVuaGhRMkZpYmx3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[보안칼럼] 인간중심 사이버보안의 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "구글",
+      "series_title": "구글의 몰락",
+      "count": 1,
+      "representative_title": "AI가 뒤집은 빅테크 권력지형…애플과 구글의 몰락 예고? [박신영의 개장전 요것만]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fYUoyUGR3Um5ranctSzU0MmNYOHpuaVNNTllpb3lkODF0clZjcEl4UmgtZmo4X09RMVg5bjlwUmxwYlROcENhTlhpaVgxVkE4YzdRbm5CM25Bdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "AI가 뒤집은 빅테크 권력지형…애플과 구글의 몰락 예고? [박신영의 개장전 요것만]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fYUoyUGR3Um5ranctSzU0MmNYOHpuaVNNTllpb3lkODF0clZjcEl4UmgtZmo4X09RMVg5bjlwUmxwYlROcENhTlhpaVgxVkE4YzdRbm5CM25Bdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "AI가 뒤집은 빅테크 권력지형…애플과 구글의 몰락 예고? [박신영의 개장전 요것만]"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 5,
+      "representative_title": "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWExKNkctbEwya2czVkVRZjVLMVJSeHFFbFAtY0RHUGhjSHBCSDl2MzlmQWh6NFB2R1BabHNKTzlLZFpkYl8xbi1JM3NsUnJ1S1hIZnozOWZxUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVE9hdmd2bm9ZemVQMWZyenNOQ0xMd2lDUUVUa2FabzliNmNVTi1TVmFtamVQLW5fZWx5SFFTN0dlV3Z6akZEd3Uwc1ZFbGU2UnNsZkxiMDlYTzRnMVVVS1Z6Y0dDdnc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값 주춤한 사이 강북은 12억원 돌파…서울 아파트 시장 지형 바뀌나",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xLUdpendVakV5M3EtRVRiQ2JabXRTeGxxNXctdEpSbHFoV3diR3RtRV9WSHZvUWtLTW1kQTZPVFBSOHluQXFkWDJPdVBoWVU5NF9yNVc3M3dnNHVCQWpYVGhvWUxzYVdFY280TUY0T1hSeTcwZklEemZRbnQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[통계로 보는 부동산] 서울 집값 숨 고르는데 경기 남부 들썩…수원·군포·용인 강세",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lUXh4WmtEMzhhb1FXaFhyZkotUHJnNnhYTUdWcXJpeFVhcnpLV0RPQVVYUDdNbmY4aXRtWVMxM09tREMwTDBHT0dCMTBjT1MtQzdhcXBjVU5BUdIBWEFVX3lxTE9XRzRFTktYc2JmenVTSV84eWZiQzBuRE1udHJ6Z1hNakQ1MDBIMml2OXRRN0FYeVMyLXZtVnRMSU1YS2RJMS1yNkVhNkpBTXZ5Q1BXMUUxdFY?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWExKNkctbEwya2czVkVRZjVLMVJSeHFFbFAtY0RHUGhjSHBCSDl2MzlmQWh6NFB2R1BabHNKTzlLZFpkYl8xbi1JM3NsUnJ1S1hIZnozOWZxUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "‘집값 드디어 잡힐까’…KB부동산 “서울 아파트값 상승률 연내 최저”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2WldVMVpvZEpEU3htVzFnLTRseUpMakpMUGhZa3pDSG1sTzN1NC12bXVmQmJXbFZtM1hRVlp0dlA0c0FCeDlGbm9lejhrbHhCNHAwVS1R?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "집값 주춤하나…KB부동산 \"10월 서울 아파트값 상승률 연내 최저\"",
+        "강남 집값 주춤한 사이 강북은 12억원 돌파…서울 아파트 시장 지형 바뀌나",
+        "[통계로 보는 부동산] 서울 집값 숨 고르는데 경기 남부 들썩…수원·군포·용인 강세",
+        "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승",
+        "‘집값 드디어 잡힐까’…KB부동산 “서울 아파트값 상승률 연내 최저”"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 4,
+      "representative_title": "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”",
+      "representative_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXgxbGxjaVo0ejh3LS1VS0JhU0Z2MGhNSWxvRU9SVGlmY191SUw2aVlZMkRiRlE4eDhxeXZUczN0aWtoRFcydUtTSGd0UjZLbHZhLXBpN2NCZ3VuN3luSWotWU0zOHJlT1N2OS1mbmQxYnRaTVB0OFNZeU96UzA2TDhDQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 집값 주춤한 사이 강북 아파트 평균 12억원 돌파 … 수요 이동 가속",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kNmhqb3dGb2RPZ2ZCbUlUSkFqVW1qWERjcXE0emo2S194aUFvcmxhcXo4cmdhbU8tWmNLbnFLTUM3YjhlVk85QmpncGthTHAzQ3FJYzVMVVBvVk5WUjV4d0xZSmRlSDMwS3QyVA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXgxbGxjaVo0ejh3LS1VS0JhU0Z2MGhNSWxvRU9SVGlmY191SUw2aVlZMkRiRlE4eDhxeXZUczN0aWtoRFcydUtTSGd0UjZLbHZhLXBpN2NCZ3VuN3luSWotWU0zOHJlT1N2OS1mbmQxYnRaTVB0OFNZeU96UzA2TDhDQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 집값 주춤한 사이 강북 아파트 평균 12억원 돌파 … 수요 이동 가속",
+        "강남 부동산들의 정책 솔직 평가 “치밀하고 전략적…집값 떨어질 듯”"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "강북",
+      "count": 2,
+      "representative_title": "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PNUJHMnhLaVhvWHgzQVlDY3JqTmRvcTh4eGFTb3pCTF8xOVpaRTI1OXpkMmVGWDIzZmJOSnVnRFU0WHNhU0xaY19kSlVxWkFHNHlib1ZjUVYtQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PNUJHMnhLaVhvWHgzQVlDY3JqTmRvcTh4eGFTb3pCTF8xOVpaRTI1OXpkMmVGWDIzZmJOSnVnRFU0WHNhU0xaY19kSlVxWkFHNHlib1ZjUVYtQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
