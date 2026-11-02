@@ -1,0 +1,658 @@
+{
+  "date": "2026-11-02",
+  "hour": "13",
+  "slot": "2026-11-02_13",
+  "crawled_at": "2026-11-02 13:00:02",
+  "total_articles": 396,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "대통령",
+      "count": 45,
+      "representative_title": "李대통령, ‘PC주의’와 정면 승부…전두환까지 소환",
+      "representative_link": "https://n.news.naver.com/article/005/0001882321?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "[속보]이 대통령 “30년 만에 IMF 졸업···K자 성장 극복은 새 성장 공식으로”",
+          "link": "https://n.news.naver.com/article/032/0003480031?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "박지원 “대통령 너무 많이 나오면 안돼…빅3, 내각이 일할 수 있는 시스템으로 가야”",
+          "link": "https://n.news.naver.com/article/032/0003480044?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "\"나라 경제 좋아졌다는데 내 살림은 팍팍\"…이 대통령, '모두의 성장' 강조",
+          "link": "https://n.news.naver.com/article/437/0000518638?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "李대통령, ‘PC주의’와 정면 승부…전두환까지 소환",
+          "link": "https://n.news.naver.com/article/005/0001882321?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "이 대통령 \"'내 살림 팍팍하다' 호소에 답해야‥대한민국 미래 투자 확대\"",
+          "link": "https://n.news.naver.com/article/214/0001532875?ntype=RANKING",
+          "press": "MBC"
+        }
+      ],
+      "related_titles": [
+        "[속보]이 대통령 “30년 만에 IMF 졸업···K자 성장 극복은 새 성장 공식으로”",
+        "박지원 “대통령 너무 많이 나오면 안돼…빅3, 내각이 일할 수 있는 시스템으로 가야”",
+        "\"나라 경제 좋아졌다는데 내 살림은 팍팍\"…이 대통령, '모두의 성장' 강조",
+        "李대통령, ‘PC주의’와 정면 승부…전두환까지 소환",
+        "이 대통령 \"'내 살림 팍팍하다' 호소에 답해야‥대한민국 미래 투자 확대\""
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 2,
+      "keyword": "사망",
+      "count": 21,
+      "representative_title": "육군 “철원 전방부대 하사 1명 외상 입고 사망”",
+      "representative_link": "https://n.news.naver.com/article/005/0001882370?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "[속보] 육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+          "link": "https://n.news.naver.com/article/469/0000963035?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "9명 탄 美 제트기, 미사일처럼 수직 추락… 탑승자 전원 사망",
+          "link": "https://n.news.naver.com/article/469/0000963024?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "[속보]육군 “강원도 철원 소재 전방 부대서 하사 1명 외상입고 사망”···사고 경위 조사 중",
+          "link": "https://n.news.naver.com/article/032/0003480049?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "제트기가 미사일처럼 '추락'…탑승자 9명 전원 사망 [소셜픽]",
+          "link": "https://n.news.naver.com/article/437/0000518617?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "육군 “철원 전방부대 하사 1명 외상 입고 사망”",
+          "link": "https://n.news.naver.com/article/005/0001882370?ntype=RANKING",
+          "press": "국민일보"
+        }
+      ],
+      "related_titles": [
+        "[속보] 육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\"",
+        "9명 탄 美 제트기, 미사일처럼 수직 추락… 탑승자 전원 사망",
+        "[속보]육군 “강원도 철원 소재 전방 부대서 하사 1명 외상입고 사망”···사고 경위 조사 중",
+        "제트기가 미사일처럼 '추락'…탑승자 9명 전원 사망 [소셜픽]",
+        "육군 “철원 전방부대 하사 1명 외상 입고 사망”"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 3,
+      "keyword": "철원",
+      "count": 16,
+      "representative_title": "[속보]철원 전방 부대 하사 외상 입고 숨진 채 발견",
+      "representative_link": "https://n.news.naver.com/article/021/0002829521?ntype=RANKING",
+      "press": "문화일보",
+      "related_articles": [
+        {
+          "title": "[속보]철원 전방 부대 하사 외상 입고 숨진 채 발견",
+          "link": "https://n.news.naver.com/article/021/0002829521?ntype=RANKING",
+          "press": "문화일보"
+        }
+      ],
+      "related_titles": [
+        "[속보]철원 전방 부대 하사 외상 입고 숨진 채 발견"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "김치맨",
+      "count": 16,
+      "representative_title": "박항서 감독에 “×× 김치맨” 야유…인종차별에 성명까지",
+      "representative_link": "https://n.news.naver.com/article/028/0002830238?ntype=RANKING",
+      "press": "한겨레",
+      "related_articles": [
+        {
+          "title": "\"김치맨\" 태국 축구팬 인종 차별에… 박항서 \"내려와서 얘기해\"",
+          "link": "https://n.news.naver.com/article/469/0000963017?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "박항서 감독에 \"김치맨\"…태국 프로축구서 인종차별적 조롱",
+          "link": "https://n.news.naver.com/article/055/0001399875?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "욕설 섞어 \"김치맨\"…분노한 박항서, 주먹 쥐고 \"내려와\"",
+          "link": "https://n.news.naver.com/article/055/0001399910?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "태국 축구장서 \"XX 김치맨\"…극대노한 박항서, 관중과 충돌",
+          "link": "https://n.news.naver.com/article/437/0000518642?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "\"김치맨\" 조롱에 폭발한 박항서, 관중석 향해 \"내려와\"",
+          "link": "https://n.news.naver.com/article/014/0005597881?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        }
+      ],
+      "related_titles": [
+        "\"김치맨\" 태국 축구팬 인종 차별에… 박항서 \"내려와서 얘기해\"",
+        "박항서 감독에 \"김치맨\"…태국 프로축구서 인종차별적 조롱",
+        "욕설 섞어 \"김치맨\"…분노한 박항서, 주먹 쥐고 \"내려와\"",
+        "태국 축구장서 \"XX 김치맨\"…극대노한 박항서, 관중과 충돌",
+        "\"김치맨\" 조롱에 폭발한 박항서, 관중석 향해 \"내려와\""
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "육군",
+      "count": 13,
+      "representative_title": "강원도 육군 전방 부대서 부사관 숨진 채 발견…\"총상\" 신고",
+      "representative_link": "https://n.news.naver.com/article/421/0009264291?ntype=RANKING",
+      "press": "뉴스1",
+      "related_articles": [
+        {
+          "title": "강원도 육군 전방 부대서 부사관 숨진 채 발견…\"총상\" 신고",
+          "link": "https://n.news.naver.com/article/421/0009264291?ntype=RANKING",
+          "press": "뉴스1"
+        }
+      ],
+      "related_titles": [
+        "강원도 육군 전방 부대서 부사관 숨진 채 발견…\"총상\" 신고"
+      ],
+      "category": "사회/일반"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "주식",
+      "count": 5,
+      "representative_title": "[속보]주식 판 돈 다음날 받는다…'결제주기' 전환",
+      "representative_link": "https://n.news.naver.com/article/050/0000112718?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "[속보]\"주식 팔면 다음 날 입금\"…증권 결제주기 55년 만에 단축",
+          "link": "https://n.news.naver.com/article/660/0000120414?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "\"주식 팔면 다음 날 받는다\"…주식 결제주기 'T+1일' 2028년 도입",
+          "link": "https://n.news.naver.com/article/003/0014294288?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "\"주식 팔면 다음 날 받는다\"…주식 결제주기 'T+1일' 2028년 도입",
+          "link": "https://n.news.naver.com/article/003/0014294288?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "“주식 팔면 다음 날 현금”…증권 결제주기, 50년 만에 하루 단축된다",
+          "link": "https://n.news.naver.com/article/138/0002246889?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "주식 판 돈, 이틀 말고 하루 만에 받는다… 54년 만에 결제주기 단축 2028년 목표",
+          "link": "https://n.news.naver.com/article/023/0004007261?ntype=RANKING",
+          "press": "조선일보"
+        }
+      ],
+      "related_titles": [
+        "[속보]\"주식 팔면 다음 날 입금\"…증권 결제주기 55년 만에 단축",
+        "\"주식 팔면 다음 날 받는다\"…주식 결제주기 'T+1일' 2028년 도입",
+        "\"주식 팔면 다음 날 받는다\"…주식 결제주기 'T+1일' 2028년 도입",
+        "“주식 팔면 다음 날 현금”…증권 결제주기, 50년 만에 하루 단축된다",
+        "주식 판 돈, 이틀 말고 하루 만에 받는다… 54년 만에 결제주기 단축 2028년 목표"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "달러",
+      "count": 4,
+      "representative_title": "트럼프 \"공화당 이기면 배당금 5000달러…한국 가서 쓰지 마\"",
+      "representative_link": "https://n.news.naver.com/article/417/0001162901?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "‘배당금 지급’ 한다던 트럼프 “5000달러 받아 한국 여행 가서 쓰면 안돼”",
+          "link": "https://n.news.naver.com/article/029/0003056469?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "트럼프 \"공화당 이기면 배당금 5000달러…한국 가서 쓰지 마\"",
+          "link": "https://n.news.naver.com/article/417/0001162901?ntype=RANKING",
+          "press": "동행미디어 시대"
+        },
+        {
+          "title": "북·미회담 ‘희망 고문’에 540억 달러 청구서만 받아 든 한국",
+          "link": "https://n.news.naver.com/article/262/0000019804?ntype=RANKING",
+          "press": "신동아"
+        },
+        {
+          "title": "'수출 1조 달러' 시대 열린다는데… 내 살림도 좋아질까 [11월 경제 캘린더]",
+          "link": "https://n.news.naver.com/article/665/0000008474?ntype=RANKING",
+          "press": "더스쿠프"
+        },
+        {
+          "title": "‘배당금 지급’ 한다던 트럼프 “5000달러 받아 한국 여행 가서 쓰면 안돼”",
+          "link": "https://n.news.naver.com/article/029/0003056469?ntype=RANKING",
+          "press": "디지털타임스"
+        }
+      ],
+      "related_titles": [
+        "‘배당금 지급’ 한다던 트럼프 “5000달러 받아 한국 여행 가서 쓰면 안돼”",
+        "트럼프 \"공화당 이기면 배당금 5000달러…한국 가서 쓰지 마\"",
+        "북·미회담 ‘희망 고문’에 540억 달러 청구서만 받아 든 한국",
+        "'수출 1조 달러' 시대 열린다는데… 내 살림도 좋아질까 [11월 경제 캘린더]",
+        "‘배당금 지급’ 한다던 트럼프 “5000달러 받아 한국 여행 가서 쓰면 안돼”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "투자",
+      "count": 3,
+      "representative_title": "\"AI 투자 계속된다\"...우려 덜어낸 반도체주 11월 반전 시동",
+      "representative_link": "https://n.news.naver.com/article/648/0000052168?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "이 대통령 \"'내 살림 팍팍하다' 호소에 답해야‥대한민국 미래 투자 확대\"",
+          "link": "https://n.news.naver.com/article/214/0001532875?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "\"AI 투자 계속된다\"...우려 덜어낸 반도체주 11월 반전 시동",
+          "link": "https://n.news.naver.com/article/648/0000052168?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "“젊은 층 관심 커진 재개발 투자… 적어도 ‘조합설립인가’ 받은 곳 노려야”",
+          "link": "https://n.news.naver.com/article/037/0000039075?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "이 대통령 \"'내 살림 팍팍하다' 호소에 답해야‥대한민국 미래 투자 확대\"",
+          "link": "https://n.news.naver.com/article/214/0001532875?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "\"AI 투자 계속된다\"...우려 덜어낸 반도체주 11월 반전 시동",
+          "link": "https://n.news.naver.com/article/648/0000052168?ntype=RANKING",
+          "press": "비즈워치"
+        }
+      ],
+      "related_titles": [
+        "이 대통령 \"'내 살림 팍팍하다' 호소에 답해야‥대한민국 미래 투자 확대\"",
+        "\"AI 투자 계속된다\"...우려 덜어낸 반도체주 11월 반전 시동",
+        "“젊은 층 관심 커진 재개발 투자… 적어도 ‘조합설립인가’ 받은 곳 노려야”",
+        "이 대통령 \"'내 살림 팍팍하다' 호소에 답해야‥대한민국 미래 투자 확대\"",
+        "\"AI 투자 계속된다\"...우려 덜어낸 반도체주 11월 반전 시동"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "테슬라",
+      "count": 3,
+      "representative_title": "北해커 훔친 비트코인, 테슬라 보유량 넘어…北연간 수출액 3배",
+      "representative_link": "https://n.news.naver.com/article/001/0016414586?ntype=RANKING",
+      "press": "연합뉴스",
+      "related_articles": [
+        {
+          "title": "\"한 주도 안 팔았는데 세금 22%\"…테슬라 주주들 국회 청원 나선 까닭",
+          "link": "https://n.news.naver.com/article/586/0000141341?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "北해커 훔친 비트코인, 테슬라 보유량 넘어…北연간 수출액 3배",
+          "link": "https://n.news.naver.com/article/001/0016414586?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[뉴스+] 홍준표 “대구 정치하는 놈들, 나쁜 놈 많더만”···“추경호? 테슬라 같은 소리 하고 있네”",
+          "link": "https://n.news.naver.com/article/657/0000056911?ntype=RANKING",
+          "press": "대구MBC"
+        },
+        {
+          "title": "\"한 주도 안 팔았는데 세금 22%\"…테슬라 주주들 국회 청원 나선 까닭",
+          "link": "https://n.news.naver.com/article/586/0000141341?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "北해커 훔친 비트코인, 테슬라 보유량 넘어…北연간 수출액 3배",
+          "link": "https://n.news.naver.com/article/001/0016414586?ntype=RANKING",
+          "press": "연합뉴스"
+        }
+      ],
+      "related_titles": [
+        "\"한 주도 안 팔았는데 세금 22%\"…테슬라 주주들 국회 청원 나선 까닭",
+        "北해커 훔친 비트코인, 테슬라 보유량 넘어…北연간 수출액 3배",
+        "[뉴스+] 홍준표 “대구 정치하는 놈들, 나쁜 놈 많더만”···“추경호? 테슬라 같은 소리 하고 있네”",
+        "\"한 주도 안 팔았는데 세금 22%\"…테슬라 주주들 국회 청원 나선 까닭",
+        "北해커 훔친 비트코인, 테슬라 보유량 넘어…北연간 수출액 3배"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "하이닉스",
+      "count": 3,
+      "representative_title": "'인텔 쇼크'에도 버티는 코스피…SK하이닉스 2% 상승",
+      "representative_link": "https://n.news.naver.com/article/648/0000052176?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "'인텔 쇼크'에도 버티는 코스피…SK하이닉스 2% 상승",
+          "link": "https://n.news.naver.com/article/648/0000052176?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "SK하이닉스, 다운사이클에 배당 삭감 '원천 차단'…투트랙 설계",
+          "link": "https://n.news.naver.com/article/293/0000092543?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "“SK하이닉스 350만원 간다”…영업이익 100조 돌파 기대 [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109322?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "'인텔 쇼크'에도 버티는 코스피…SK하이닉스 2% 상승",
+          "link": "https://n.news.naver.com/article/648/0000052176?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "SK하이닉스, 다운사이클에 배당 삭감 '원천 차단'…투트랙 설계",
+          "link": "https://n.news.naver.com/article/293/0000092543?ntype=RANKING",
+          "press": "블로터"
+        }
+      ],
+      "related_titles": [
+        "'인텔 쇼크'에도 버티는 코스피…SK하이닉스 2% 상승",
+        "SK하이닉스, 다운사이클에 배당 삭감 '원천 차단'…투트랙 설계",
+        "“SK하이닉스 350만원 간다”…영업이익 100조 돌파 기대 [오늘, 이 종목]",
+        "'인텔 쇼크'에도 버티는 코스피…SK하이닉스 2% 상승",
+        "SK하이닉스, 다운사이클에 배당 삭감 '원천 차단'…투트랙 설계"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 4,
+      "representative_title": "“이재명 정권 몰락의 카운트다운 시작”",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdXZkR0lvdEdEdEFTNUtmZEhDc0tnMVpUZ1h5dXQzUWJfRjJvT2YzZlZBYUpES21FdVpLQmZMZGVYbTRHdld2ZTNGYkJkeTlFdjJFN3FR?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“이재명 정권 몰락의 카운트다운 시작”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdXZkR0lvdEdEdEFTNUtmZEhDc0tnMVpUZ1h5dXQzUWJfRjJvT2YzZlZBYUpES21FdVpLQmZMZGVYbTRHdld2ZTNGYkJkeTlFdjJFN3FR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국민의힘 “조희대 죽이기가 민생? 이재명 정권 몰락 카운트다운 시작돼”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vNnlEQldfRkRNTmNYRndwVk0tbjhIWFpNRlBDTkFwQkh3Q0Njb1RtMjljeUxOaFNMcjRrVjFLWHV3aHE1a0VGMHBnUzNCZjFFdVVSUUlvQ21CWFk5ZEwwbFFhYlhJcnJzNHc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국힘 \"이재명 정권 몰락 카운트다운 시작…조희대 죽이기 광기\"",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3JhS3VUZ3RlMmFodFplRV9rcDlPY2NDcnE0b0RNVXQ5X1ZHWlFqejUzLV9QSUNKbFgxdXFac2E5eXVCZmFmcldUMVFWMUMwSE5OUE91aF93YVk0amNEbzlKcEJTQ0N5WU9xRDM1ZmFOMnlKOHFuTjlraXdqN28xRw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNampVRjNIUndFNHU3OVNHdnBGUTFjelpIZTNEZ2xGdW80SkxqMHh4SmViWWJmR1R6VFhRR2xyZHE0bG1TMWI3eHhuSFpFWGh3bzBObkd3VjNvQzhWclV5Vjc3Wi1NVW5SZ2FMY3BtTEpFWFdlckJZRkdfOFFhLS1SNTc3TGt1LXhSRkpuNUoxWFBXa0VKVm1hcDNxdWlVY0FSekJVTkRRSGVMa2tLWUNhQVl6eXpsTDE5bGRPVzk3WDQtbkRsYTdiYm1SSlVzdmZ1NkJEYU1ubHctcWF1UDF4SDZtZlN4ZFI5aFVMb05QZ1VYRmFlZmVfeVhvMUZScm1Ja2hjV2dLRmdDY2ZaRXpWbnZ0YmxYZ1lK?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“이재명 정권 몰락의 카운트다운 시작”",
+        "국민의힘 “조희대 죽이기가 민생? 이재명 정권 몰락 카운트다운 시작돼”",
+        "국힘 \"이재명 정권 몰락 카운트다운 시작…조희대 죽이기 광기\"",
+        "\"조희대 국조, 李정권 몰락 서막될 것\"…김장겸, 청년주권포럼과 與 규탄"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "영재",
+      "series_title": "영재의 몰락",
+      "count": 2,
+      "representative_title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzIwdjEtQm9hSUM4ZDBSZlVHdlhTVWZGR2cxVU9mc1JqcVBMeW53c184WExBX3dTSGJXWHUtRWJrMGlOaXh4QVNpY0Zja2JhaXBvcUxFdlBRd3I3Tk1QeGdBRGVRc29xRm1GWm9rQmVkaWU0cUhITmlyNDhGQ3VXNDloRdIBlwFBVV95cUxOQmRvNlhGR1B6M1NjdFZaakpNN0lzOWc0bzJMN0x0ZTJlblBsd0NwRmZ0N3dQYmROZzltX254b3A5Z2g4YS13N3MyTUp4MTJnRy1FTEJFYzA4bEZhaC1wdlI0ekNwN1ZlNGg0S0ZORWxkQWJHM2hjdmRaNkRycXJoMnFCWnVjZ2UwNUctRURDVzFIN20yX1hJ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+        "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "신화는",
+      "series_title": "신화는의 몰락",
+      "count": 1,
+      "representative_title": "SKY 졸업장 시대는 저물고 학벌 신화는 몰락....청년 고용시장에 비상",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01RlVoLUVkY2tERmRlYV9WU2xKMUJFVUxISUhZaG1UMDFjNUhieThVZEZOTmV1NWRERHBPWmhzNTdpX3lCZ2U2ODgwUERiVmh2c1ViNmFNRDhxZUlPV2FDRnBtV2dGRmJT?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "SKY 졸업장 시대는 저물고 학벌 신화는 몰락....청년 고용시장에 비상",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01RlVoLUVkY2tERmRlYV9WU2xKMUJFVUxISUhZaG1UMDFjNUhieThVZEZOTmV1NWRERHBPWmhzNTdpX3lCZ2U2ODgwUERiVmh2c1ViNmFNRDhxZUlPV2FDRnBtV2dGRmJT?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "SKY 졸업장 시대는 저물고 학벌 신화는 몰락....청년 고용시장에 비상"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "도살자",
+      "series_title": "도살자의 몰락",
+      "count": 1,
+      "representative_title": "\"맨유 팬들이 사랑했던 도살자의 몰락\" 리산드로 마르티네스, 첼시전 상대 얼굴 가격→퇴장·PK 허용...英 언론 \"올드 트래포드 떠날 시간 다가온다\" - 머니투데이",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZOENyR2NIdWJXb1paVzQ1Q0JvRUF6NlAtYWhvdkgwVU5oeEhiMVMtMHQ3NE05MXFxNk5pOGFWYk55a05RaV9sNXF0ajZ6U3Z5cWhsd0JZbEZNQjJ5WVBGcno3ZjFnc0VRRHfSAW9BVV95cUxOT1QxZ1Q5RWFwbXBVOXVyREJwd01XdkNrYjNpek1NLVZrQ2dLX2ZBWTVqVm11bmk4ZUxvMURrNF9HQV82TjRiS0JlcFpzQWhYQUhEYnJhdXJ6RkFMeVFNNTl6TzhQU2JfRGpZNFRqdXM?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"맨유 팬들이 사랑했던 도살자의 몰락\" 리산드로 마르티네스, 첼시전 상대 얼굴 가격→퇴장·PK 허용...英 언론 \"올드 트래포드 떠날 시간 다가온다\" - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZOENyR2NIdWJXb1paVzQ1Q0JvRUF6NlAtYWhvdkgwVU5oeEhiMVMtMHQ3NE05MXFxNk5pOGFWYk55a05RaV9sNXF0ajZ6U3Z5cWhsd0JZbEZNQjJ5WVBGcno3ZjFnc0VRRHfSAW9BVV95cUxOT1QxZ1Q5RWFwbXBVOXVyREJwd01XdkNrYjNpek1NLVZrQ2dLX2ZBWTVqVm11bmk4ZUxvMURrNF9HQV82TjRiS0JlcFpzQWhYQUhEYnJhdXJ6RkFMeVFNNTl6TzhQU2JfRGpZNFRqdXM?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"맨유 팬들이 사랑했던 도살자의 몰락\" 리산드로 마르티네스, 첼시전 상대 얼굴 가격→퇴장·PK 허용...英 언론 \"올드 트래포드 떠날 시간 다가온다\" - 머니투데이"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "사이버보안",
+      "series_title": "사이버보안의 몰락",
+      "count": 1,
+      "representative_title": "[보안칼럼] 인간중심 사이버보안의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWWtqUTRxMUJHQU8zeVRhLXBIbGNEbHFobno3NmVuOW5lTDRCVVdCSGZLaDN0NXJMM2VBSGxBVUtBT1dDYTM2anJVYVVuaGhRMkZpYmx3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[보안칼럼] 인간중심 사이버보안의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWWtqUTRxMUJHQU8zeVRhLXBIbGNEbHFobno3NmVuOW5lTDRCVVdCSGZLaDN0NXJMM2VBSGxBVUtBT1dDYTM2anJVYVVuaGhRMkZpYmx3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[보안칼럼] 인간중심 사이버보안의 몰락"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "강남",
+      "count": 5,
+      "representative_title": "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeWVfYXpGUUhxU2VMZGdGT0ZCMnFhVUNUSmhnUTRFeEYtc2M3dnluMnVycXdRS0k3SmFkbnNObFlSb2JWeVNFR2VOSEJUVzVleTJmZS1kN01OUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeWVfYXpGUUhxU2VMZGdGT0ZCMnFhVUNUSmhnUTRFeEYtc2M3dnluMnVycXdRS0k3SmFkbnNObFlSb2JWeVNFR2VOSEJUVzVleTJmZS1kN01OUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "김동현은 샀는데…강남 집값 내려도 남 얘기[부동산 취재로그]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHVOeTBMaFgySy0ybTJ3NnNmTlJ4X2J6SWJHa183NVVmWjBUYjAwMDZuUVpsWTJUUkVEOTd5Z0hRMlBTTHZqT1ZsaG0wNDdaQVV3THpUSnB0dzR6a2RBeFdINE56QmZVZzdTVGFDajN6TXVRYWVpRzVZQVZvYjhsXw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 아파트값 약세에도 서울은 90주째 상승…집값 떠받친 지역은?",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYemxMczZ6MTVac1pvOGRwOERlMWlJX3FMdWh6MEI4QjhXUWNMNWlGbWF0bWtnXzVFVmlWYXZJTzZKS0Y0ZzhOREhJaThmU24tWXNoeFduZGxwVkt5bTZaUnNvaG5QSkJQUWfSAW5BVV95cUxPWVZlQnNBRzhlbUEydUxqaHFzQ0JZbFUzQzViM090RnZ3Rkk4SGkzZl9xZWdYa3JXNFZDODRvbGFWYXEzSG9sdEV6STVGc1dmTlVYcjg1VDJXa2E2ZDdXTTJwbVRSU09IR0VVd0Etdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“지방 아파트 30채 팔아야 강남 1채” 전국 집값 격차 역대 ‘최대’ [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96cjNTNzZxeVFpaGx1eC1xZmgxdnR1ZHpSc0Y1aWhMUEM5d25BdUNzNlNzOXJzOWhHeDhVRmF4VGlyLXowLWF3aGpYcVVuNVZvbUZrMHNR?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
+        "김동현은 샀는데…강남 집값 내려도 남 얘기[부동산 취재로그]",
+        "강남 아파트값 약세에도 서울은 90주째 상승…집값 떠받친 지역은?",
+        "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+        "“지방 아파트 30채 팔아야 강남 1채” 전국 집값 격차 역대 ‘최대’ [부동산360]"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "서울",
+      "count": 4,
+      "representative_title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+      "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[부동산 리뷰] 90주 상승한 서울 집값, 12월부터 하락 반전하나",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54Z2syTndfM0FNUTNzTlVmLXREekl6Nk1jVUlScTJIaFhwYXhKME1PRlBfdkx5Ujlxd3lLVU9Fb2ZMejZPdU90bmdzUU5ubWVaT1VYbzNwaDhhM2c5TXU3RjZOVXB2QXMtUjNXeG5NZTQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yMlRFV0hwc19HNE9BV0VzREZBa25KMS1vaFlyRWFfbER0b2dIR2tlQnJBVzJpQzBQVGtySWVnak1YOXYzSl9RMXBoSG92bXFkSVlwckYyMk9uZw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[통계로 보는 부동산] 서울 집값 숨 고르는데 경기 남부 들썩…수원·군포·용인 강세",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lUXh4WmtEMzhhb1FXaFhyZkotUHJnNnhYTUdWcXJpeFVhcnpLV0RPQVVYUDdNbmY4aXRtWVMxM09tREMwTDBHT0dCMTBjT1MtQzdhcXBjVU5BUdIBWEFVX3lxTE9XRzRFTktYc2JmenVTSV84eWZiQzBuRE1udHJ6Z1hNakQ1MDBIMml2OXRRN0FYeVMyLXZtVnRMSU1YS2RJMS1yNkVhNkpBTXZ5Q1BXMUUxdFY?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[부동산 리뷰] 90주 상승한 서울 집값, 12월부터 하락 반전하나",
+        "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
+        "[통계로 보는 부동산] 서울 집값 숨 고르는데 경기 남부 들썩…수원·군포·용인 강세",
+        "서울 집값 잡히나 했더니…경기로 번지는 매수세"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "통계",
+      "count": 2,
+      "representative_title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42MnYweHA2ZlpkSUI1c0xQU0pTTWlRTGVUWXZycWMwNVlYZTNKNVY0bUsxYklLWmZOQXhVdEFLTFdjTXVyeXd4dWQ4eUF2RTU4ay05MFQtMVBjZjFZMS1oOVltTm5FclY40gFsQVVfeXFMTmxrWlVXLS00YmdtbC1RMVhRMjU1NXpxdWcwSHJEVXR4Tzk0WEV0aFlFQ3VlLVl5U0oxNEpnOENxVmRxeHgxdTBadk5SUnotTnZKX1NicjFDcWJPb29jbXdEU3hleFczeG1BVVJY?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42MnYweHA2ZlpkSUI1c0xQU0pTTWlRTGVUWXZycWMwNVlYZTNKNVY0bUsxYklLWmZOQXhVdEFLTFdjTXVyeXd4dWQ4eUF2RTU4ay05MFQtMVBjZjFZMS1oOVltTm5FclY40gFsQVVfeXFMTmxrWlVXLS00YmdtbC1RMVhRMjU1NXpxdWcwSHJEVXR4Tzk0WEV0aFlFQ3VlLVl5U0oxNEpnOENxVmRxeHgxdTBadk5SUnotTnZKX1NicjFDcWJPb29jbXdEU3hleFczeG1BVVJY?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "상승한",
+      "count": 2,
+      "representative_title": "[기자수첩] 89주 연속 상승한 집값, 끝나지 않는 '부동산 대란'...서민만 벼랑 끝",
+      "representative_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lTnZ4WXE2LUdLbm1LSkJtQ0dQMWRCTWV3QVdSeDFZdl93RGJnODJveTJGVmFlSjg0ZUdBcUpZRGZXZVNzb1lBZUZsdTV5VFNlOHJ4NGU4bUh0QWRBZ051N3NNSkc0bVRWQ2pz0gFvQVVfeXFMTmVZUkp2M0RrbTlReG9tblk5T3hfUDhOb3ZuWTVEaDNodEplalIxSHRLSFFrM3RtRVZkcE0ybFJaUm1SclNHWHFyb2daWHdxTmlLanhUX2F1b2w3WXFGNjk1dGV2MkRfS3oxT21kd0Nr?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[기자수첩] 89주 연속 상승한 집값, 끝나지 않는 '부동산 대란'...서민만 벼랑 끝",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lTnZ4WXE2LUdLbm1LSkJtQ0dQMWRCTWV3QVdSeDFZdl93RGJnODJveTJGVmFlSjg0ZUdBcUpZRGZXZVNzb1lBZUZsdTV5VFNlOHJ4NGU4bUh0QWRBZ051N3NNSkc0bVRWQ2pz0gFvQVVfeXFMTmVZUkp2M0RrbTlReG9tblk5T3hfUDhOb3ZuWTVEaDNodEplalIxSHRLSFFrM3RtRVZkcE0ybFJaUm1SclNHWHFyb2daWHdxTmlLanhUX2F1b2w3WXFGNjk1dGV2MkRfS3oxT21kd0Nr?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[기자수첩] 89주 연속 상승한 집값, 끝나지 않는 '부동산 대란'...서민만 벼랑 끝"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 5,
+      "keyword": "전셋값",
+      "count": 2,
+      "representative_title": "인천 남동구(南洞區) · '26년 10월 부동산 흐름 (집값 -0.28%, 전셋값 +3.90% — 연수구가 2.86% 오를 때 남동은 제자리, 구월 새 아파트는 시세의 1.8배)",
+      "representative_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjWnpiMk16NzkzejJXRjRQZTYyWlo2ZkE1aDdpZHI2elVqXzRuZVY3N3NjUEx3cm9scUpMX2ZfT1lieGNWMk44SXNxcEZlV2s3TUg3M2M5Tm44TTZwYVUwN2VMelpxSEZodGVtaGJkY2hyOFJwRW9RMzFpZEw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "인천 남동구(南洞區) · '26년 10월 부동산 흐름 (집값 -0.28%, 전셋값 +3.90% — 연수구가 2.86% 오를 때 남동은 제자리, 구월 새 아파트는 시세의 1.8배)",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjWnpiMk16NzkzejJXRjRQZTYyWlo2ZkE1aDdpZHI2elVqXzRuZVY3N3NjUEx3cm9scUpMX2ZfT1lieGNWMk44SXNxcEZlV2s3TUg3M2M5Tm44TTZwYVUwN2VMelpxSEZodGVtaGJkY2hyOFJwRW9RMzFpZEw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "인천 남동구(南洞區) · '26년 10월 부동산 흐름 (집값 -0.28%, 전셋값 +3.90% — 연수구가 2.86% 오를 때 남동은 제자리, 구월 새 아파트는 시세의 1.8배)"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
