@@ -1,22 +1,27 @@
 {
   "date": "2026-11-02",
-  "hour": "07",
-  "slot": "2026-11-02_07",
-  "crawled_at": "2026-11-02 07:00:04",
-  "total_articles": 391,
+  "hour": "10",
+  "slot": "2026-11-02_10",
+  "crawled_at": "2026-11-02 10:00:05",
+  "total_articles": 395,
   "topics": [
     {
       "rank": 1,
       "keyword": "대통령",
-      "count": 17,
-      "representative_title": "이 대통령 \"지금은 견디는 중\"…집값 하락 전망 맞을까",
-      "representative_link": "https://n.news.naver.com/article/665/0000008467?ntype=RANKING",
-      "press": "더스쿠프",
+      "count": 18,
+      "representative_title": "'역대 최대' 821조‥이 대통령 오늘 시정연설",
+      "representative_link": "https://n.news.naver.com/article/214/0001532804?ntype=RANKING",
+      "press": "MBC",
       "related_articles": [
         {
-          "title": "이 대통령 '돼지' 발언에...\"자백하나\" vs \"감히 훈계\"",
-          "link": "https://n.news.naver.com/article/052/0002426890?ntype=RANKING",
-          "press": "YTN"
+          "title": "[속보] 李대통령 지지율 1.6%p 상승…민주·국힘 오차범위 접전 [리얼미터]",
+          "link": "https://n.news.naver.com/article/016/0002717311?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "李대통령, 내년 예산 '821조' 직접 설명…국회 시정연설 나선다",
+          "link": "https://n.news.naver.com/article/660/0000120394?ntype=RANKING",
+          "press": "kbc광주방송"
         },
         {
           "title": "무섭게 떠나는 ‘중도·수도권·청년’…이 대통령 안 바뀌면 정권 위태롭다",
@@ -24,115 +29,110 @@
           "press": "한겨레"
         },
         {
-          "title": "민주 “이 대통령 순방 비판? 전용기에 소주 챙겨간 윤석열은…”",
-          "link": "https://n.news.naver.com/article/028/0002830138?ntype=RANKING",
-          "press": "한겨레"
+          "title": "'역대 최대' 821조‥이 대통령 오늘 시정연설",
+          "link": "https://n.news.naver.com/article/214/0001532804?ntype=RANKING",
+          "press": "MBC"
         },
         {
-          "title": "이 대통령 “돼지 눈에는 돼지만”…국힘 “돼지 눈으로 국정”",
-          "link": "https://n.news.naver.com/article/028/0002830199?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "이 대통령, “농어촌 기본소득 대규모 재정 투입 필요성 ‘확신’”",
-          "link": "https://n.news.naver.com/article/662/0000107387?ntype=RANKING",
-          "press": "농민신문"
+          "title": "대통령 말솜씨가 초등학생 수준?…막말·횡설수설 늘어난 트럼프",
+          "link": "https://n.news.naver.com/article/009/0005757317?ntype=RANKING",
+          "press": "매일경제"
         }
       ],
       "related_titles": [
-        "이 대통령 '돼지' 발언에...\"자백하나\" vs \"감히 훈계\"",
+        "[속보] 李대통령 지지율 1.6%p 상승…민주·국힘 오차범위 접전 [리얼미터]",
+        "李대통령, 내년 예산 '821조' 직접 설명…국회 시정연설 나선다",
         "무섭게 떠나는 ‘중도·수도권·청년’…이 대통령 안 바뀌면 정권 위태롭다",
-        "민주 “이 대통령 순방 비판? 전용기에 소주 챙겨간 윤석열은…”",
-        "이 대통령 “돼지 눈에는 돼지만”…국힘 “돼지 눈으로 국정”",
-        "이 대통령, “농어촌 기본소득 대규모 재정 투입 필요성 ‘확신’”"
+        "'역대 최대' 821조‥이 대통령 오늘 시정연설",
+        "대통령 말솜씨가 초등학생 수준?…막말·횡설수설 늘어난 트럼프"
       ],
       "category": "정치"
     },
     {
       "rank": 2,
-      "keyword": "만원",
-      "count": 16,
-      "representative_title": "현대차·기아, K-세일페스타 참가…최대 550만원 할인",
-      "representative_link": "https://n.news.naver.com/article/092/0002443321?ntype=RANKING",
-      "press": "지디넷코리아",
+      "keyword": "만에",
+      "count": 13,
+      "representative_title": "한화, 美 군함 첫 수주…2년 만에 결실",
+      "representative_link": "https://n.news.naver.com/article/374/0000541039?ntype=RANKING",
+      "press": "SBS Biz",
       "related_articles": [
         {
-          "title": "“전화만 받으면 월 1000만원”…망고단지의 비밀①[그날의 이유]",
-          "link": "https://n.news.naver.com/article/018/0006401725?ntype=RANKING",
-          "press": "이데일리"
+          "title": "\"일본서 과자 하나 먹었다가 아뿔싸\"…74년 만에 바뀐 규정에 돈 날릴 판",
+          "link": "https://n.news.naver.com/article/277/0005836306?ntype=RANKING",
+          "press": "아시아경제"
         },
         {
-          "title": "\"이자만 월 1300만원\"…건물주 이해인, 결국 '틱톡' 켠다",
-          "link": "https://n.news.naver.com/article/015/0005348976?ntype=RANKING",
-          "press": "한국경제"
+          "title": "[속보]조국혁신당 지지율 8.1% '2년 만에 최고'…李대통령도 한 주 만에 반등",
+          "link": "https://n.news.naver.com/article/660/0000120400?ntype=RANKING",
+          "press": "kbc광주방송"
         },
         {
-          "title": "“집 샀다더니 월세만 600만원”…시체로 발견된 아내의 비밀",
-          "link": "https://n.news.naver.com/article/025/0003561951?ntype=RANKING",
-          "press": "중앙일보"
+          "title": "[속보]조국혁신당 지지율 8.1% '2년 만에 최고'…李대통령도 한 주 만에 반등",
+          "link": "https://n.news.naver.com/article/660/0000120400?ntype=RANKING",
+          "press": "kbc광주방송"
         },
         {
-          "title": "32억 빚내 건물주 됐건만…‘월 이자 1300만원’ 결국 틱톡 켠 인플루언서",
-          "link": "https://n.news.naver.com/article/009/0005757150?ntype=RANKING",
-          "press": "매일경제"
+          "title": "\"52년 만에 최대 폭락\"…삼전닉스 개미들 월요일이 두렵다",
+          "link": "https://n.news.naver.com/article/215/0001271269?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "\"2억 넣고 월 160만원 꼬박꼬박\" 30대 은퇴부부, 5천만원씩 담았다는 ETF는",
-          "link": "https://n.news.naver.com/article/014/0005597404?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "군 복무 중 숨진 아들 순직 30년 만에 통보…“보상금 지급 거부 위법”",
+          "link": "https://n.news.naver.com/article/029/0003056485?ntype=RANKING",
+          "press": "디지털타임스"
         }
       ],
       "related_titles": [
-        "“전화만 받으면 월 1000만원”…망고단지의 비밀①[그날의 이유]",
-        "\"이자만 월 1300만원\"…건물주 이해인, 결국 '틱톡' 켠다",
-        "“집 샀다더니 월세만 600만원”…시체로 발견된 아내의 비밀",
-        "32억 빚내 건물주 됐건만…‘월 이자 1300만원’ 결국 틱톡 켠 인플루언서",
-        "\"2억 넣고 월 160만원 꼬박꼬박\" 30대 은퇴부부, 5천만원씩 담았다는 ETF는"
+        "\"일본서 과자 하나 먹었다가 아뿔싸\"…74년 만에 바뀐 규정에 돈 날릴 판",
+        "[속보]조국혁신당 지지율 8.1% '2년 만에 최고'…李대통령도 한 주 만에 반등",
+        "[속보]조국혁신당 지지율 8.1% '2년 만에 최고'…李대통령도 한 주 만에 반등",
+        "\"52년 만에 최대 폭락\"…삼전닉스 개미들 월요일이 두렵다",
+        "군 복무 중 숨진 아들 순직 30년 만에 통보…“보상금 지급 거부 위법”"
       ],
-      "category": "사회/일반"
+      "category": "정치"
     },
     {
       "rank": 3,
-      "keyword": "최불암",
+      "keyword": "한국",
       "count": 12,
-      "representative_title": "김용건, 최불암 빈소 못 간 이유…\"주변서 만류\"",
-      "representative_link": "https://n.news.naver.com/article/057/0001976158?ntype=RANKING",
-      "press": "MBN",
+      "representative_title": "한국, 역대급 '신기록'...전세계 '깜짝'",
+      "representative_link": "https://n.news.naver.com/article/050/0000112679?ntype=RANKING",
+      "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "‘젊은 수사반장’ 이제훈 “최불암 선생님 따라하려니 ‘그냥 편하게 해’라고 하셔”",
-          "link": "https://n.news.naver.com/article/020/0003759194?ntype=RANKING",
-          "press": "동아일보"
+          "title": "“말도 안 돼, 한국 와서 가장 놀랐다”…밤에도 안전한 韓 거리에 외국인들 깜짝",
+          "link": "https://n.news.naver.com/article/011/0004677546?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "오늘 고 최불암 발인식...염수정 추기경 장례미사 집전",
-          "link": "https://n.news.naver.com/article/052/0002426942?ntype=RANKING",
-          "press": "YTN"
+          "title": "\"무방부제 수제빵 1000원\" 알고보니…'소비기한 내년 1월 18일' 한국 점령하는 중국빵[C쇼크, 벼랑 끝 K산업｜식품]①",
+          "link": "https://n.news.naver.com/article/277/0005836378?ntype=RANKING",
+          "press": "아시아경제"
         },
         {
-          "title": "최불암 빈소 사흘 내내 지킨 김혜수... 마지막 날까지 조문객 행렬",
-          "link": "https://n.news.naver.com/article/469/0000962952?ntype=RANKING",
+          "title": "\"중국산 김치 없으면 한국 식당 안 돌아가\"…싼 맛에 진 '김치 종주국'의 굴욕[C쇼크, 벼랑 끝 K산업｜식품]②",
+          "link": "https://n.news.naver.com/article/277/0005836379?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "\"5000달러 받아서 한국 여행? 어림없다\"… 트럼프 '미국 우선 소비령'",
+          "link": "https://n.news.naver.com/article/469/0000962991?ntype=RANKING",
           "press": "한국일보"
         },
         {
-          "title": "조문객 신발 정리하고 유족 챙겼다…故최불암 딸 자처한 김혜수",
-          "link": "https://n.news.naver.com/article/025/0003561996?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
-          "title": "‘22년 부부연기’ 김혜자·‘60년지기’ 오지명·‘딸 같은’ 김혜수…최불암 빈소 찾은 별들",
-          "link": "https://n.news.naver.com/article/032/0003479912?ntype=RANKING",
-          "press": "경향신문"
+          "title": "한국 증시 개장 앞두고 터진 메타·앤트로픽 악재…단기 피난처는 [마켓무버의 국장 힌트]",
+          "link": "https://n.news.naver.com/article/215/0001271287?ntype=RANKING",
+          "press": "한국경제TV"
         }
       ],
       "related_titles": [
-        "‘젊은 수사반장’ 이제훈 “최불암 선생님 따라하려니 ‘그냥 편하게 해’라고 하셔”",
-        "오늘 고 최불암 발인식...염수정 추기경 장례미사 집전",
-        "최불암 빈소 사흘 내내 지킨 김혜수... 마지막 날까지 조문객 행렬",
-        "조문객 신발 정리하고 유족 챙겼다…故최불암 딸 자처한 김혜수",
-        "‘22년 부부연기’ 김혜자·‘60년지기’ 오지명·‘딸 같은’ 김혜수…최불암 빈소 찾은 별들"
+        "“말도 안 돼, 한국 와서 가장 놀랐다”…밤에도 안전한 韓 거리에 외국인들 깜짝",
+        "\"무방부제 수제빵 1000원\" 알고보니…'소비기한 내년 1월 18일' 한국 점령하는 중국빵[C쇼크, 벼랑 끝 K산업｜식품]①",
+        "\"중국산 김치 없으면 한국 식당 안 돌아가\"…싼 맛에 진 '김치 종주국'의 굴욕[C쇼크, 벼랑 끝 K산업｜식품]②",
+        "\"5000달러 받아서 한국 여행? 어림없다\"… 트럼프 '미국 우선 소비령'",
+        "한국 증시 개장 앞두고 터진 메타·앤트로픽 악재…단기 피난처는 [마켓무버의 국장 힌트]"
       ],
-      "category": "사회/일반"
+      "category": "경제/투자"
     },
     {
       "rank": 4,
@@ -143,254 +143,297 @@
       "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "FBI, 바이낸스 8조원대 해킹 배후 북한 지목…트럼프 “북한 연루 사실이면 대화”",
-          "link": "https://n.news.naver.com/article/056/0012285006?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "트럼프 연일 타격 시사에…이란 “서아시아 밖 미국 자산도 공격 가능”",
-          "link": "https://n.news.naver.com/article/018/0006401712?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "횡설수설 늘고 비속어 남발…NYT “80세 트럼프 인지력 의문”",
-          "link": "https://n.news.naver.com/article/025/0003562075?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
           "title": "'8조 규모' 해킹 당했는데…트럼프 \"북한이 맞다면 대화할 것\"",
           "link": "https://n.news.naver.com/article/437/0000518575?ntype=RANKING",
           "press": "JTBC"
         },
         {
-          "title": "트럼프 \"바이낸스 해킹, 北 소행 확인되면 북한과 대화\"",
-          "link": "https://n.news.naver.com/article/374/0000540997?ntype=RANKING",
-          "press": "SBS Biz"
+          "title": "“제정신 아니다”…80세 트럼프, 비속어 2.5배 늘고 횡설수설",
+          "link": "https://n.news.naver.com/article/081/0003694689?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "'김칫국 드링킹' 트럼프, \"5천 달러 배당금은 미국에서 사용\"",
+          "link": "https://n.news.naver.com/article/079/0004205218?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "미, 5천300만 명 사전투표 역대 최대…트럼프 강행군 속 민주당 우세 전망",
+          "link": "https://n.news.naver.com/article/056/0012285086?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "'샤이 트럼프' 이번엔 없다, 왜?",
+          "link": "https://n.news.naver.com/article/047/0002534238?ntype=RANKING",
+          "press": "오마이뉴스"
         }
       ],
       "related_titles": [
-        "FBI, 바이낸스 8조원대 해킹 배후 북한 지목…트럼프 “북한 연루 사실이면 대화”",
-        "트럼프 연일 타격 시사에…이란 “서아시아 밖 미국 자산도 공격 가능”",
-        "횡설수설 늘고 비속어 남발…NYT “80세 트럼프 인지력 의문”",
         "'8조 규모' 해킹 당했는데…트럼프 \"북한이 맞다면 대화할 것\"",
-        "트럼프 \"바이낸스 해킹, 北 소행 확인되면 북한과 대화\""
+        "“제정신 아니다”…80세 트럼프, 비속어 2.5배 늘고 횡설수설",
+        "'김칫국 드링킹' 트럼프, \"5천 달러 배당금은 미국에서 사용\"",
+        "미, 5천300만 명 사전투표 역대 최대…트럼프 강행군 속 민주당 우세 전망",
+        "'샤이 트럼프' 이번엔 없다, 왜?"
       ],
       "category": "국제"
     },
     {
       "rank": 5,
-      "keyword": "장동혁",
-      "count": 11,
-      "representative_title": "오세훈 향해 \"힘 모으자\"는 장동혁…한동훈엔 '선 긋기'",
-      "representative_link": "https://n.news.naver.com/article/437/0000518578?ntype=RANKING",
-      "press": "JTBC",
+      "keyword": "만원",
+      "count": 10,
+      "representative_title": "방송에 QR코드 노출했다가…'1,666만원' 주문 폭탄?",
+      "representative_link": "https://n.news.naver.com/article/422/0000921813?ntype=RANKING",
+      "press": "연합뉴스TV",
       "related_articles": [
         {
-          "title": "‘한동훈 복당’ 선 그은 장동혁 “내가 지도부에 있는 한 거론할 조건 안 돼”",
-          "link": "https://n.news.naver.com/article/028/0002830161?ntype=RANKING",
-          "press": "한겨레"
+          "title": "36년 직장생활 마친 박 상무, 퇴직금 5억중에 앉은 자리서 세금 5000만원 낸 사연[이연부]",
+          "link": "https://n.news.naver.com/article/016/0002717250?ntype=RANKING",
+          "press": "헤럴드경제"
         },
         {
-          "title": "오세훈 향해 \"힘 모으자\"는 장동혁…한동훈엔 '선 긋기'",
-          "link": "https://n.news.naver.com/article/437/0000518578?ntype=RANKING",
-          "press": "JTBC"
+          "title": "\"출근 안 해도 매달 160만원 꽂힌다\"…30대에 공무원 그만둔 부부의 비결",
+          "link": "https://n.news.naver.com/article/277/0005836290?ntype=RANKING",
+          "press": "아시아경제"
         },
         {
-          "title": "“박근혜, 국가시스템 붕괴 우려…정권 가져와야한다 말해” 장동혁 공개",
-          "link": "https://n.news.naver.com/article/009/0005757264?ntype=RANKING",
-          "press": "매일경제"
+          "title": "“호텔결혼식 축의금은 20만원? 하객이 왜 식대 신경 써야 하나”…당신 생각은[사연잇슈]",
+          "link": "https://n.news.naver.com/article/081/0003694696?ntype=RANKING",
+          "press": "서울신문"
         },
         {
-          "title": "장동혁, 연임 도전 질문에 “필요하다면 책임 피할 생각 없다”",
-          "link": "https://n.news.naver.com/article/023/0004007150?ntype=RANKING",
-          "press": "조선일보"
+          "title": "\"40억 건물주 됐는데\"…매달 '1,300만원'에 허덕이는 여배우, 결국",
+          "link": "https://n.news.naver.com/article/215/0001271262?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\"",
-          "link": "https://n.news.naver.com/article/214/0001532758?ntype=RANKING",
-          "press": "MBC"
+          "title": "방송에 QR코드 노출했다가…'1,666만원' 주문 폭탄?",
+          "link": "https://n.news.naver.com/article/422/0000921813?ntype=RANKING",
+          "press": "연합뉴스TV"
         }
       ],
       "related_titles": [
-        "‘한동훈 복당’ 선 그은 장동혁 “내가 지도부에 있는 한 거론할 조건 안 돼”",
-        "오세훈 향해 \"힘 모으자\"는 장동혁…한동훈엔 '선 긋기'",
-        "“박근혜, 국가시스템 붕괴 우려…정권 가져와야한다 말해” 장동혁 공개",
-        "장동혁, 연임 도전 질문에 “필요하다면 책임 피할 생각 없다”",
-        "장동혁 \"서울시장 반드시 재선거‥박근혜 '끝까지 결과 만들라' 해\""
+        "36년 직장생활 마친 박 상무, 퇴직금 5억중에 앉은 자리서 세금 5000만원 낸 사연[이연부]",
+        "\"출근 안 해도 매달 160만원 꽂힌다\"…30대에 공무원 그만둔 부부의 비결",
+        "“호텔결혼식 축의금은 20만원? 하객이 왜 식대 신경 써야 하나”…당신 생각은[사연잇슈]",
+        "\"40억 건물주 됐는데\"…매달 '1,300만원'에 허덕이는 여배우, 결국",
+        "방송에 QR코드 노출했다가…'1,666만원' 주문 폭탄?"
       ],
-      "category": "정치"
+      "category": "노동/파업"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "시총",
-      "count": 3,
-      "representative_title": "AI 뒤처져서 웃었다?…엔비디아 제치고 시총 1위 오른 애플",
-      "representative_link": "https://n.news.naver.com/article/024/0000109314?ntype=RANKING",
-      "press": "매경이코노미",
+      "keyword": "비트코인",
+      "count": 9,
+      "representative_title": "북한 해커가 훔친 비트코인, 北연간 수출액의 3배",
+      "representative_link": "https://n.news.naver.com/article/082/0001405087?ntype=RANKING",
+      "press": "부산일보",
       "related_articles": [
         {
-          "title": "‘양날의 검’ 메모리…삼전닉스 최대 실적 때 인텔 시총 189조 증발",
-          "link": "https://n.news.naver.com/article/020/0003759195?ntype=RANKING",
-          "press": "동아일보"
+          "title": "北해커 훔친 비트코인, 테슬라 보유량 넘어…北연간 수출액 3배",
+          "link": "https://n.news.naver.com/article/001/0016414586?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "‘체코 원전 계약 불발’ 두산에너빌… 증권가 “시총 하락 과도”",
-          "link": "https://n.news.naver.com/article/082/0001405040?ntype=RANKING",
-          "press": "부산일보"
+          "title": "北해커가 훔친 비트코인, 테슬라보다 많았다…北수출액 3배",
+          "link": "https://n.news.naver.com/article/081/0003694701?ntype=RANKING",
+          "press": "서울신문"
         },
         {
-          "title": "AI 뒤처져서 웃었다?…엔비디아 제치고 시총 1위 오른 애플",
-          "link": "https://n.news.naver.com/article/024/0000109314?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "북 해커가 훔친 비트코인 '14억 달러'…테슬라 보유량 넘었다",
+          "link": "https://n.news.naver.com/article/057/0001976207?ntype=RANKING",
+          "press": "MBN"
         },
         {
-          "title": "‘양날의 검’ 메모리…삼전닉스 최대 실적 때 인텔 시총 189조 증발",
-          "link": "https://n.news.naver.com/article/020/0003759195?ntype=RANKING",
-          "press": "동아일보"
+          "title": "北해커 훔친 비트코인, 테슬라 보유량 넘어‥北연간 수출액 3배",
+          "link": "https://n.news.naver.com/article/214/0001532809?ntype=RANKING",
+          "press": "MBC"
         },
         {
-          "title": "‘체코 원전 계약 불발’ 두산에너빌… 증권가 “시총 하락 과도”",
-          "link": "https://n.news.naver.com/article/082/0001405040?ntype=RANKING",
-          "press": "부산일보"
+          "title": "북한 해커가 훔친 비트코인, 테슬라의 보유량 넘어 북한 1년 수출액 3배",
+          "link": "https://n.news.naver.com/article/052/0002426972?ntype=RANKING",
+          "press": "YTN"
         }
       ],
       "related_titles": [
-        "‘양날의 검’ 메모리…삼전닉스 최대 실적 때 인텔 시총 189조 증발",
-        "‘체코 원전 계약 불발’ 두산에너빌… 증권가 “시총 하락 과도”",
-        "AI 뒤처져서 웃었다?…엔비디아 제치고 시총 1위 오른 애플",
-        "‘양날의 검’ 메모리…삼전닉스 최대 실적 때 인텔 시총 189조 증발",
-        "‘체코 원전 계약 불발’ 두산에너빌… 증권가 “시총 하락 과도”"
+        "北해커 훔친 비트코인, 테슬라 보유량 넘어…北연간 수출액 3배",
+        "北해커가 훔친 비트코인, 테슬라보다 많았다…北수출액 3배",
+        "북 해커가 훔친 비트코인 '14억 달러'…테슬라 보유량 넘었다",
+        "北해커 훔친 비트코인, 테슬라 보유량 넘어‥北연간 수출액 3배",
+        "북한 해커가 훔친 비트코인, 테슬라의 보유량 넘어 북한 1년 수출액 3배"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "주식",
-      "count": 3,
-      "representative_title": "내일부터 주식 종목에 ‘저PBR’ 표기…한국거래소, 151곳 첫 공표",
-      "representative_link": "https://n.news.naver.com/article/666/0000130117?ntype=RANKING",
-      "press": "경기일보",
+      "keyword": "달러",
+      "count": 9,
+      "representative_title": "이란, 미군의 ‘눈’부터 노렸다… 5억 달러 사드 레이더 파괴",
+      "representative_link": "https://n.news.naver.com/article/023/0004007238?ntype=RANKING",
+      "press": "조선일보",
       "related_articles": [
         {
-          "title": "코스피 7000 간다?...결국 시장 끌고 갈 주인공은 100% '이 주식'",
-          "link": "https://n.news.naver.com/article/014/0005597690?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "\"5000달러 받아서 한국 여행? 어림없다\"… 트럼프 '미국 우선 소비령'",
+          "link": "https://n.news.naver.com/article/469/0000962991?ntype=RANKING",
+          "press": "한국일보"
         },
         {
-          "title": "내일부터 주식 종목에 ‘저PBR’ 표기…한국거래소, 151곳 첫 공표",
-          "link": "https://n.news.naver.com/article/666/0000130117?ntype=RANKING",
-          "press": "경기일보"
+          "title": "이란, 미군의 ‘눈’부터 노렸다… 5억 달러 사드 레이더 파괴",
+          "link": "https://n.news.naver.com/article/023/0004007238?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "[따져보니] 李 \"부동산 대신 주식\"에도 집값 고공행진…\"시장 왜곡 부작용만\"",
-          "link": "https://n.news.naver.com/article/448/0000648316?ntype=RANKING",
-          "press": "TV조선"
+          "title": "‘배당금 지급’ 한다던 트럼프 “5000달러 받아 한국 여행 가서 쓰면 안돼”",
+          "link": "https://n.news.naver.com/article/029/0003056469?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "코스피 7000 간다?...결국 시장 끌고 갈 주인공은 100% '이 주식'",
-          "link": "https://n.news.naver.com/article/014/0005597690?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "'김칫국 드링킹' 트럼프, \"5천 달러 배당금은 미국에서 사용\"",
+          "link": "https://n.news.naver.com/article/079/0004205218?ntype=RANKING",
+          "press": "노컷뉴스"
         },
         {
-          "title": "내일부터 주식 종목에 ‘저PBR’ 표기…한국거래소, 151곳 첫 공표",
-          "link": "https://n.news.naver.com/article/666/0000130117?ntype=RANKING",
-          "press": "경기일보"
+          "title": "사상 첫 ‘수출 1조 달러’ 눈앞…9월 이어 10월에도 1100억 달러 넘어",
+          "link": "https://n.news.naver.com/article/092/0002443336?ntype=RANKING",
+          "press": "지디넷코리아"
         }
       ],
       "related_titles": [
-        "코스피 7000 간다?...결국 시장 끌고 갈 주인공은 100% '이 주식'",
-        "내일부터 주식 종목에 ‘저PBR’ 표기…한국거래소, 151곳 첫 공표",
-        "[따져보니] 李 \"부동산 대신 주식\"에도 집값 고공행진…\"시장 왜곡 부작용만\"",
-        "코스피 7000 간다?...결국 시장 끌고 갈 주인공은 100% '이 주식'",
-        "내일부터 주식 종목에 ‘저PBR’ 표기…한국거래소, 151곳 첫 공표"
+        "\"5000달러 받아서 한국 여행? 어림없다\"… 트럼프 '미국 우선 소비령'",
+        "이란, 미군의 ‘눈’부터 노렸다… 5억 달러 사드 레이더 파괴",
+        "‘배당금 지급’ 한다던 트럼프 “5000달러 받아 한국 여행 가서 쓰면 안돼”",
+        "'김칫국 드링킹' 트럼프, \"5천 달러 배당금은 미국에서 사용\"",
+        "사상 첫 ‘수출 1조 달러’ 눈앞…9월 이어 10월에도 1100억 달러 넘어"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "주가",
-      "count": 3,
-      "representative_title": "주가 저평가 151곳 꼬리표…증권사 MTS에 '저PBR' 표시",
-      "representative_link": "https://n.news.naver.com/article/648/0000052152?ntype=RANKING",
-      "press": "비즈워치",
+      "keyword": "테슬라",
+      "count": 7,
+      "representative_title": "\"한 주도 안 팔았는데 세금 22%\"…테슬라 주주들 국회 청원 나선 까닭",
+      "representative_link": "https://n.news.naver.com/article/586/0000141341?ntype=RANKING",
+      "press": "시사저널",
       "related_articles": [
         {
-          "title": "“30만원→16만원, 주가 보고 절망” 삼전닉스보다 심하다…‘반토막’에 노조까지, 국민 포털 어쩌나",
-          "link": "https://n.news.naver.com/article/016/0002717248?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "\"한 주도 안 팔았는데 세금 22%\"…테슬라 주주들 국회 청원 나선 까닭",
+          "link": "https://n.news.naver.com/article/586/0000141341?ntype=RANKING",
+          "press": "시사저널"
         },
         {
-          "title": "주가 저평가 151곳 꼬리표…증권사 MTS에 '저PBR' 표시",
-          "link": "https://n.news.naver.com/article/648/0000052152?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "[뉴스+] 홍준표 “대구 정치하는 놈들, 나쁜 놈 많더만”···“추경호? 테슬라 같은 소리 하고 있네”",
+          "link": "https://n.news.naver.com/article/657/0000056911?ntype=RANKING",
+          "press": "대구MBC"
         },
         {
-          "title": "美 중간선거 끝나면 주가 올랐다…연말 노려볼 종목은[송현주의 재.밌.돈]",
-          "link": "https://n.news.naver.com/article/243/0000105039?ntype=RANKING",
-          "press": "이코노미스트"
+          "title": "\"한 주도 안 팔았는데 세금 22%\"…테슬라 주주들 국회 청원 나선 까닭",
+          "link": "https://n.news.naver.com/article/586/0000141341?ntype=RANKING",
+          "press": "시사저널"
         },
         {
-          "title": "“30만원→16만원, 주가 보고 절망” 삼전닉스보다 심하다…‘반토막’에 노조까지, 국민 포털 어쩌나",
-          "link": "https://n.news.naver.com/article/016/0002717248?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "[뉴스+] 홍준표 “대구 정치하는 놈들, 나쁜 놈 많더만”···“추경호? 테슬라 같은 소리 하고 있네”",
+          "link": "https://n.news.naver.com/article/657/0000056911?ntype=RANKING",
+          "press": "대구MBC"
         },
         {
-          "title": "주가 저평가 151곳 꼬리표…증권사 MTS에 '저PBR' 표시",
-          "link": "https://n.news.naver.com/article/648/0000052152?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "\"한 주도 안 팔았는데 세금 22%\"…테슬라 주주들 국회 청원 나선 까닭",
+          "link": "https://n.news.naver.com/article/586/0000141341?ntype=RANKING",
+          "press": "시사저널"
         }
       ],
       "related_titles": [
-        "“30만원→16만원, 주가 보고 절망” 삼전닉스보다 심하다…‘반토막’에 노조까지, 국민 포털 어쩌나",
-        "주가 저평가 151곳 꼬리표…증권사 MTS에 '저PBR' 표시",
-        "美 중간선거 끝나면 주가 올랐다…연말 노려볼 종목은[송현주의 재.밌.돈]",
-        "“30만원→16만원, 주가 보고 절망” 삼전닉스보다 심하다…‘반토막’에 노조까지, 국민 포털 어쩌나",
-        "주가 저평가 151곳 꼬리표…증권사 MTS에 '저PBR' 표시"
+        "\"한 주도 안 팔았는데 세금 22%\"…테슬라 주주들 국회 청원 나선 까닭",
+        "[뉴스+] 홍준표 “대구 정치하는 놈들, 나쁜 놈 많더만”···“추경호? 테슬라 같은 소리 하고 있네”",
+        "\"한 주도 안 팔았는데 세금 22%\"…테슬라 주주들 국회 청원 나선 까닭",
+        "[뉴스+] 홍준표 “대구 정치하는 놈들, 나쁜 놈 많더만”···“추경호? 테슬라 같은 소리 하고 있네”",
+        "\"한 주도 안 팔았는데 세금 22%\"…테슬라 주주들 국회 청원 나선 까닭"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "달러",
+      "keyword": "폭락",
       "count": 3,
-      "representative_title": "'김칫국 드링킹' 트럼프, \"5천 달러 배당금은 미국에서 사용\"",
-      "representative_link": "https://n.news.naver.com/article/079/0004205218?ntype=RANKING",
-      "press": "노컷뉴스",
+      "representative_title": "“AI 올인했다간 큰일”…월가 큰손들, 주가 폭락 보험 들었다",
+      "representative_link": "https://n.news.naver.com/article/016/0002717278?ntype=RANKING",
+      "press": "헤럴드경제",
       "related_articles": [
         {
-          "title": "‘배당금 지급’ 한다던 트럼프 “5000달러 받아 한국 여행 가서 쓰면 안돼”",
-          "link": "https://n.news.naver.com/article/029/0003056469?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "“AI 올인했다간 큰일”…월가 큰손들, 주가 폭락 보험 들었다",
+          "link": "https://n.news.naver.com/article/016/0002717278?ntype=RANKING",
+          "press": "헤럴드경제"
         },
         {
-          "title": "'김칫국 드링킹' 트럼프, \"5천 달러 배당금은 미국에서 사용\"",
-          "link": "https://n.news.naver.com/article/079/0004205218?ntype=RANKING",
-          "press": "노컷뉴스"
+          "title": "“인텔 28% 폭락 쇼크”…코스피, 또 검은 월요일 될까? [잇슈 머니]",
+          "link": "https://n.news.naver.com/article/056/0012285113?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "북·미회담 ‘희망 고문’에 540억 달러 청구서만 받아 든 한국",
-          "link": "https://n.news.naver.com/article/262/0000019804?ntype=RANKING",
-          "press": "신동아"
+          "title": "월요일이 두려운 삼전·하이닉스 개미들…美 반도체 쇼크, 인텔 \"52년 만에 최대 폭락\"",
+          "link": "https://n.news.naver.com/article/448/0000648331?ntype=RANKING",
+          "press": "TV조선"
         },
         {
-          "title": "‘배당금 지급’ 한다던 트럼프 “5000달러 받아 한국 여행 가서 쓰면 안돼”",
-          "link": "https://n.news.naver.com/article/029/0003056469?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "“AI 올인했다간 큰일”…월가 큰손들, 주가 폭락 보험 들었다",
+          "link": "https://n.news.naver.com/article/016/0002717278?ntype=RANKING",
+          "press": "헤럴드경제"
         },
         {
-          "title": "'김칫국 드링킹' 트럼프, \"5천 달러 배당금은 미국에서 사용\"",
-          "link": "https://n.news.naver.com/article/079/0004205218?ntype=RANKING",
-          "press": "노컷뉴스"
+          "title": "“인텔 28% 폭락 쇼크”…코스피, 또 검은 월요일 될까? [잇슈 머니]",
+          "link": "https://n.news.naver.com/article/056/0012285113?ntype=RANKING",
+          "press": "KBS"
         }
       ],
       "related_titles": [
-        "‘배당금 지급’ 한다던 트럼프 “5000달러 받아 한국 여행 가서 쓰면 안돼”",
-        "'김칫국 드링킹' 트럼프, \"5천 달러 배당금은 미국에서 사용\"",
-        "북·미회담 ‘희망 고문’에 540억 달러 청구서만 받아 든 한국",
-        "‘배당금 지급’ 한다던 트럼프 “5000달러 받아 한국 여행 가서 쓰면 안돼”",
-        "'김칫국 드링킹' 트럼프, \"5천 달러 배당금은 미국에서 사용\""
+        "“AI 올인했다간 큰일”…월가 큰손들, 주가 폭락 보험 들었다",
+        "“인텔 28% 폭락 쇼크”…코스피, 또 검은 월요일 될까? [잇슈 머니]",
+        "월요일이 두려운 삼전·하이닉스 개미들…美 반도체 쇼크, 인텔 \"52년 만에 최대 폭락\"",
+        "“AI 올인했다간 큰일”…월가 큰손들, 주가 폭락 보험 들었다",
+        "“인텔 28% 폭락 쇼크”…코스피, 또 검은 월요일 될까? [잇슈 머니]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼전",
+      "count": 3,
+      "representative_title": "반도체 다시 ‘휘청’…삼전·하닉, 프리마켓 3% 대 급락",
+      "representative_link": "https://n.news.naver.com/article/029/0003056490?ntype=RANKING",
+      "press": "디지털타임스",
+      "related_articles": [
+        {
+          "title": "'107조 벌어놓고 이럴 줄은'…뒤통수 맞은 삼전 개미들 분통 [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005349011?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "반도체 다시 ‘휘청’…삼전·하닉, 프리마켓 3% 대 급락",
+          "link": "https://n.news.naver.com/article/029/0003056490?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "'107조 벌어놓고 이럴 줄은'…뒤통수 맞은 삼전 개미들 분통 [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005349011?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "반도체 다시 ‘휘청’…삼전·하닉, 프리마켓 3% 대 급락",
+          "link": "https://n.news.naver.com/article/029/0003056490?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "'107조 벌어놓고 이럴 줄은'…뒤통수 맞은 삼전 개미들 분통 [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005349011?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "'107조 벌어놓고 이럴 줄은'…뒤통수 맞은 삼전 개미들 분통 [종목+]",
+        "반도체 다시 ‘휘청’…삼전·하닉, 프리마켓 3% 대 급락",
+        "'107조 벌어놓고 이럴 줄은'…뒤통수 맞은 삼전 개미들 분통 [종목+]",
+        "반도체 다시 ‘휘청’…삼전·하닉, 프리마켓 3% 대 급락",
+        "'107조 벌어놓고 이럴 줄은'…뒤통수 맞은 삼전 개미들 분통 [종목+]"
       ],
       "category": "주식/코인"
     }
@@ -442,6 +485,26 @@
     },
     {
       "rank": 2,
+      "keyword": "신화는",
+      "series_title": "신화는의 몰락",
+      "count": 1,
+      "representative_title": "SKY 졸업장 시대는 저물고 학벌 신화는 몰락....청년 고용시장에 비상",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01RlVoLUVkY2tERmRlYV9WU2xKMUJFVUxISUhZaG1UMDFjNUhieThVZEZOTmV1NWRERHBPWmhzNTdpX3lCZ2U2ODgwUERiVmh2c1ViNmFNRDhxZUlPV2FDRnBtV2dGRmJT?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "SKY 졸업장 시대는 저물고 학벌 신화는 몰락....청년 고용시장에 비상",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01RlVoLUVkY2tERmRlYV9WU2xKMUJFVUxISUhZaG1UMDFjNUhieThVZEZOTmV1NWRERHBPWmhzNTdpX3lCZ2U2ODgwUERiVmh2c1ViNmFNRDhxZUlPV2FDRnBtV2dGRmJT?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "SKY 졸업장 시대는 저물고 학벌 신화는 몰락....청년 고용시장에 비상"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
       "keyword": "도살자",
       "series_title": "도살자의 몰락",
       "count": 1,
@@ -461,7 +524,7 @@
       "category": "몰락"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "사이버보안",
       "series_title": "사이버보안의 몰락",
       "count": 1,
@@ -481,7 +544,7 @@
       "category": "몰락"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "프리미어리그서",
       "series_title": "프리미어리그서의 몰락",
       "count": 1,
@@ -499,35 +562,58 @@
         "왜 결장하나 했더니…역시나 또 음주 파문, 프리미어리그서 몰락한 이유 있었다"
       ],
       "category": "몰락"
-    },
-    {
-      "rank": 5,
-      "keyword": "빠져",
-      "series_title": "빠져의 몰락",
-      "count": 1,
-      "representative_title": "모바일·AI 혁신 외면하고 CPU만 의존 … 관료주의 함정에 빠져 몰락 위기",
-      "representative_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pVEh0eUtQU2Fsek9PT2l3MU4tN01qdEtVZnZOSG14VHVFV2VlczlVZ2N2Uy14Nk9oc1JjNVM3dFFtX3BsdkZxdGFZR19TOVh0eFN1S0Z4eFBVcTBqbF9Lb1pCYzRrOGZ1RTNJeWhNUVZFRmxsV25xTnZtNNIBgAFBVV95cUxNeGtxZWVwVi1MdGdEQWhlSWZQb3BXNGhncGFkdWE4dlRaWFV6MEFWR3J3ekpRZm9XOHZtU25CbHVRMzBUY0xOM3p5UHFlNTZpWGp2UkRnNC1kendxX0dKMXRkdDROZnBIU1dxc25PT1pmcFdFT005OFp5Vm1rQkFqcg?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "모바일·AI 혁신 외면하고 CPU만 의존 … 관료주의 함정에 빠져 몰락 위기",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pVEh0eUtQU2Fsek9PT2l3MU4tN01qdEtVZnZOSG14VHVFV2VlczlVZ2N2Uy14Nk9oc1JjNVM3dFFtX3BsdkZxdGFZR19TOVh0eFN1S0Z4eFBVcTBqbF9Lb1pCYzRrOGZ1RTNJeWhNUVZFRmxsV25xTnZtNNIBgAFBVV95cUxNeGtxZWVwVi1MdGdEQWhlSWZQb3BXNGhncGFkdWE4dlRaWFV6MEFWR3J3ekpRZm9XOHZtU25CbHVRMzBUY0xOM3p5UHFlNTZpWGp2UkRnNC1kendxX0dKMXRkdDROZnBIU1dxc25PT1pmcFdFT005OFp5Vm1rQkFqcg?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "모바일·AI 혁신 외면하고 CPU만 의존 … 관료주의 함정에 빠져 몰락 위기"
-      ],
-      "category": "몰락"
     }
   ],
   "budongsan_topics": [
     {
       "rank": 1,
+      "keyword": "강남",
+      "count": 5,
+      "representative_title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "김동현은 샀는데…강남 집값 내려도 남 얘기[부동산 취재로그]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHVOeTBMaFgySy0ybTJ3NnNmTlJ4X2J6SWJHa183NVVmWjBUYjAwMDZuUVpsWTJUUkVEOTd5Z0hRMlBTTHZqT1ZsaG0wNDdaQVV3THpUSnB0dzR6a2RBeFdINE56QmZVZzdTVGFDajN6TXVRYWVpRzVZQVZvYjhsXw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 아파트값 약세에도 서울은 90주째 상승…집값 떠받친 지역은?",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYemxMczZ6MTVac1pvOGRwOERlMWlJX3FMdWh6MEI4QjhXUWNMNWlGbWF0bWtnXzVFVmlWYXZJTzZKS0Y0ZzhOREhJaThmU24tWXNoeFduZGxwVkt5bTZaUnNvaG5QSkJQUWfSAW5BVV95cUxPWVZlQnNBRzhlbUEydUxqaHFzQ0JZbFUzQzViM090RnZ3Rkk4SGkzZl9xZWdYa3JXNFZDODRvbGFWYXEzSG9sdEV6STVGc1dmTlVYcjg1VDJXa2E2ZDdXTTJwbVRSU09IR0VVd0Etdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWExKNkctbEwya2czVkVRZjVLMVJSeHFFbFAtY0RHUGhjSHBCSDl2MzlmQWh6NFB2R1BabHNKTzlLZFpkYl8xbi1JM3NsUnJ1S1hIZnozOWZxUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3UlNweDhmc3VkUDZ4RG9UR3Nvb3RjbzVmSmtKTzJlbnB2elVqcUJ5emtIVHNSNlE5WEJ1ZERLY3RFRDN0Y1VqLWh5NnpMb0NTcVAzODRFaEZIaFdvWkRvQ9IBeEFVX3lxTE8tQmRZVm94Nk9aZU5CN1YyS29wMTJhc0ZoWV9pcmp6anRkTkdTMThpT3NWWWVuUGxxanltMUw4bHNiQUlVMVMxbEdxQjdGOGRsemJYWUJBM050QmxlNThyeUtFTnBtbWRVMi1CdDB4cXFmaHlCUEFycg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“지방 아파트 30채 팔아야 강남 1채” 전국 집값 격차 역대 ‘최대’ [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96cjNTNzZxeVFpaGx1eC1xZmgxdnR1ZHpSc0Y1aWhMUEM5d25BdUNzNlNzOXJzOWhHeDhVRmF4VGlyLXowLWF3aGpYcVVuNVZvbUZrMHNR?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "김동현은 샀는데…강남 집값 내려도 남 얘기[부동산 취재로그]",
+        "강남 아파트값 약세에도 서울은 90주째 상승…집값 떠받친 지역은?",
+        "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승",
+        "강남 집값, 버티던 '59㎡'도 꺾였다…하락세 확산 조짐",
+        "“지방 아파트 30채 팔아야 강남 1채” 전국 집값 격차 역대 ‘최대’ [부동산360]"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
       "keyword": "서울",
-      "count": 3,
-      "representative_title": "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yMlRFV0hwc19HNE9BV0VzREZBa25KMS1vaFlyRWFfbER0b2dIR2tlQnJBVzJpQzBQVGtySWVnak1YOXYzSl9RMXBoSG92bXFkSVlwckYyMk9uZw?oc=5",
+      "count": 4,
+      "representative_title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+      "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
       "press": "",
       "related_articles": [
         {
@@ -541,40 +627,15 @@
           "press": ""
         },
         {
-          "title": "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWExKNkctbEwya2czVkVRZjVLMVJSeHFFbFAtY0RHUGhjSHBCSDl2MzlmQWh6NFB2R1BabHNKTzlLZFpkYl8xbi1JM3NsUnJ1S1hIZnozOWZxUQ?oc=5",
+          "title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
         "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
         "[통계로 보는 부동산] 서울 집값 숨 고르는데 경기 남부 들썩…수원·군포·용인 강세",
-        "서울 집값 상승세 2주째 둔화…강남 3구 '뚝', 강북은 상승"
-      ],
-      "category": "부동산"
-    },
-    {
-      "rank": 2,
-      "keyword": "강남",
-      "count": 3,
-      "representative_title": "김동현은 샀는데…강남 집값 내려도 남 얘기[부동산 취재로그]",
-      "representative_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHVOeTBMaFgySy0ybTJ3NnNmTlJ4X2J6SWJHa183NVVmWjBUYjAwMDZuUVpsWTJUUkVEOTd5Z0hRMlBTTHZqT1ZsaG0wNDdaQVV3THpUSnB0dzR6a2RBeFdINE56QmZVZzdTVGFDajN6TXVRYWVpRzVZQVZvYjhsXw?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "김동현은 샀는데…강남 집값 내려도 남 얘기[부동산 취재로그]",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHVOeTBMaFgySy0ybTJ3NnNmTlJ4X2J6SWJHa183NVVmWjBUYjAwMDZuUVpsWTJUUkVEOTd5Z0hRMlBTTHZqT1ZsaG0wNDdaQVV3THpUSnB0dzR6a2RBeFdINE56QmZVZzdTVGFDajN6TXVRYWVpRzVZQVZvYjhsXw?oc=5",
-          "press": ""
-        },
-        {
-          "title": "강남 집값 주춤한 사이 강북 아파트 평균 12억원 돌파 … 수요 이동 가속",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kNmhqb3dGb2RPZ2ZCbUlUSkFqVW1qWERjcXE0emo2S194aUFvcmxhcXo4cmdhbU8tWmNLbnFLTUM3YjhlVk85QmpncGthTHAzQ3FJYzVMVVBvVk5WUjV4d0xZSmRlSDMwS3QyVA?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "김동현은 샀는데…강남 집값 내려도 남 얘기[부동산 취재로그]",
-        "강남 집값 주춤한 사이 강북 아파트 평균 12억원 돌파 … 수요 이동 가속"
+        "서울 집값 잡히나 했더니…경기로 번지는 매수세"
       ],
       "category": "부동산"
     },
@@ -594,25 +655,6 @@
       ],
       "related_titles": [
         "인천 남동구(南洞區) · '26년 10월 부동산 흐름 (집값 -0.28%, 전셋값 +3.90% — 연수구가 2.86% 오를 때 남동은 제자리, 구월 새 아파트는 시세의 1.8배)"
-      ],
-      "category": "부동산"
-    },
-    {
-      "rank": 4,
-      "keyword": "강북",
-      "count": 2,
-      "representative_title": "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PNUJHMnhLaVhvWHgzQVlDY3JqTmRvcTh4eGFTb3pCTF8xOVpaRTI1OXpkMmVGWDIzZmJOSnVnRFU0WHNhU0xaY19kSlVxWkFHNHlib1ZjUVYtQQ?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PNUJHMnhLaVhvWHgzQVlDY3JqTmRvcTh4eGFTb3pCTF8xOVpaRTI1OXpkMmVGWDIzZmJOSnVnRFU0WHNhU0xaY19kSlVxWkFHNHlib1ZjUVYtQQ?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "\"여기가 강북 맞아요?\"…부동산 갔다가 '화들짝' 놀란 이유"
       ],
       "category": "부동산"
     }
