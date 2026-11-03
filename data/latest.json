@@ -1,180 +1,198 @@
 {
   "date": "2026-11-03",
-  "hour": "07",
-  "slot": "2026-11-03_07",
-  "crawled_at": "2026-11-03 07:00:04",
-  "total_articles": 397,
+  "hour": "10",
+  "slot": "2026-11-03_10",
+  "crawled_at": "2026-11-03 10:00:00",
+  "total_articles": 399,
   "topics": [
     {
       "rank": 1,
       "keyword": "대통령",
-      "count": 35,
-      "representative_title": "이 대통령 \"지방성장에 내년 33조원 쏟을 것\"",
-      "representative_link": "https://n.news.naver.com/article/654/0000208995?ntype=RANKING",
-      "press": "강원도민일보",
+      "count": 26,
+      "representative_title": "이 대통령 SNS에 호응한 조선일보, 비판한 경향신문",
+      "representative_link": "https://n.news.naver.com/article/006/0000138529?ntype=RANKING",
+      "press": "미디어오늘",
       "related_articles": [
+        {
+          "title": "[단독] 이재명 대통령 여권번호까지…‘1호기 탑승자’ 168명 정보 인터넷에 노출",
+          "link": "https://n.news.naver.com/article/056/0012285730?ntype=RANKING",
+          "press": "KBS"
+        },
         {
           "title": "\"왜 국채 발행?\" 연설 중 터진 고성‥대통령 \"자꾸 방해\"",
           "link": "https://n.news.naver.com/article/214/0001532996?ntype=RANKING",
           "press": "MBC"
         },
         {
-          "title": "李대통령 부부 등 ‘1호기 탑승자’ 168명, 여권번호 등 정보 유출",
-          "link": "https://n.news.naver.com/article/023/0004007339?ntype=RANKING",
-          "press": "조선일보"
+          "title": "이 대통령 부부 여권번호까지…‘1호기’ 탄 168명 정보 5개월간 유출",
+          "link": "https://n.news.naver.com/article/028/0002830377?ntype=RANKING",
+          "press": "한겨레"
         },
         {
-          "title": "“대통령, 대법관 후보 선정 개입은 안 되고 대법원장도 대통령 판단 제한하면 안돼”",
-          "link": "https://n.news.naver.com/article/023/0004007340?ntype=RANKING",
-          "press": "조선일보"
+          "title": "이 대통령 부부 여권번호까지…'1호기 탑승자' 명단 정보 노출",
+          "link": "https://n.news.naver.com/article/057/0001976400?ntype=RANKING",
+          "press": "MBN"
         },
         {
-          "title": "“대통령, 대법관 후보 선정 개입은 안 되고 대법원장도 대통령 판단 제한하면 안돼”",
-          "link": "https://n.news.naver.com/article/023/0004007340?ntype=RANKING",
-          "press": "조선일보"
-        },
-        {
-          "title": "이 대통령 부부·국무위원 등 168명 개인정보 유출 파문…순방 전 노출돼 '경호 구멍'",
-          "link": "https://n.news.naver.com/article/437/0000518792?ntype=RANKING",
-          "press": "JTBC"
+          "title": "이 대통령 여권번호도 털렸다... '1호기 탑승자' 168명 정보 무더기 노출",
+          "link": "https://n.news.naver.com/article/469/0000963191?ntype=RANKING",
+          "press": "한국일보"
         }
       ],
       "related_titles": [
+        "[단독] 이재명 대통령 여권번호까지…‘1호기 탑승자’ 168명 정보 인터넷에 노출",
         "\"왜 국채 발행?\" 연설 중 터진 고성‥대통령 \"자꾸 방해\"",
-        "李대통령 부부 등 ‘1호기 탑승자’ 168명, 여권번호 등 정보 유출",
-        "“대통령, 대법관 후보 선정 개입은 안 되고 대법원장도 대통령 판단 제한하면 안돼”",
-        "“대통령, 대법관 후보 선정 개입은 안 되고 대법원장도 대통령 판단 제한하면 안돼”",
-        "이 대통령 부부·국무위원 등 168명 개인정보 유출 파문…순방 전 노출돼 '경호 구멍'"
+        "이 대통령 부부 여권번호까지…‘1호기’ 탄 168명 정보 5개월간 유출",
+        "이 대통령 부부 여권번호까지…'1호기 탑승자' 명단 정보 노출",
+        "이 대통령 여권번호도 털렸다... '1호기 탑승자' 168명 정보 무더기 노출"
       ],
       "category": "정치"
     },
     {
       "rank": 2,
-      "keyword": "호기",
-      "count": 14,
-      "representative_title": "李 여권번호-‘공군 1호기’ 168명 정보 5개월간 인터넷 노출",
-      "representative_link": "https://n.news.naver.com/article/020/0003759499?ntype=RANKING",
-      "press": "동아일보",
+      "keyword": "김여정",
+      "count": 13,
+      "representative_title": "北김여정, 바이낸스 사태에 \"美 정치적 도발…예의주시\"",
+      "representative_link": "https://n.news.naver.com/article/001/0016417203?ntype=RANKING",
+      "press": "연합뉴스",
       "related_articles": [
         {
-          "title": "李 여권번호-‘공군 1호기’ 168명 정보 5개월간 인터넷 노출",
-          "link": "https://n.news.naver.com/article/020/0003759499?ntype=RANKING",
-          "press": "동아일보"
+          "title": "김여정, '바이낸스 해킹' 북한 배후설 부인... \"미국의 정치적 도발\"",
+          "link": "https://n.news.naver.com/article/047/0002534398?ntype=RANKING",
+          "press": "오마이뉴스"
         },
         {
-          "title": "靑, 1호기 탑승자 명단 정보 노출에 “사전 인지 후 대응 조치”",
-          "link": "https://n.news.naver.com/article/449/0000366168?ntype=RANKING",
-          "press": "채널A"
+          "title": "북 김여정 바이낸스 사태에 \"미 정치적 도발‥예의 주시\"",
+          "link": "https://n.news.naver.com/article/214/0001533080?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "김여정, 바이낸스 사태에 “미국의 상투적 도발…예의주시”",
+          "link": "https://n.news.naver.com/article/028/0002830389?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "北김여정, 바이낸스 사태에 \"美 정치적 도발…예의주시\"",
+          "link": "https://n.news.naver.com/article/001/0016417203?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "北김여정, 바이낸스 사태에 “美 정치적 도발…예의주시”",
+          "link": "https://n.news.naver.com/article/005/0001882585?ntype=RANKING",
+          "press": "국민일보"
         }
       ],
       "related_titles": [
-        "李 여권번호-‘공군 1호기’ 168명 정보 5개월간 인터넷 노출",
-        "靑, 1호기 탑승자 명단 정보 노출에 “사전 인지 후 대응 조치”"
+        "김여정, '바이낸스 해킹' 북한 배후설 부인... \"미국의 정치적 도발\"",
+        "북 김여정 바이낸스 사태에 \"미 정치적 도발‥예의 주시\"",
+        "김여정, 바이낸스 사태에 “미국의 상투적 도발…예의주시”",
+        "北김여정, 바이낸스 사태에 \"美 정치적 도발…예의주시\"",
+        "北김여정, 바이낸스 사태에 “美 정치적 도발…예의주시”"
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 3,
+      "keyword": "바이낸스",
+      "count": 12,
+      "representative_title": "8년째 수배 중인 '北 해커' 박진혁…바이낸스 사태로 재소환",
+      "representative_link": "https://n.news.naver.com/article/586/0000141440?ntype=RANKING",
+      "press": "시사저널",
+      "related_articles": [
+        {
+          "title": "8년째 수배 중인 '北 해커' 박진혁…바이낸스 사태로 재소환",
+          "link": "https://n.news.naver.com/article/586/0000141440?ntype=RANKING",
+          "press": "시사저널"
+        }
+      ],
+      "related_titles": [
+        "8년째 수배 중인 '北 해커' 박진혁…바이낸스 사태로 재소환"
       ],
       "category": "사회/일반"
     },
     {
-      "rank": 3,
-      "keyword": "논란",
-      "count": 14,
-      "representative_title": "어딜 눌러? 명품 브랜드 창립자 ‘나쁜손’ 논란",
-      "representative_link": "https://n.news.naver.com/article/021/0002829628?ntype=RANKING",
-      "press": "문화일보",
+      "rank": 4,
+      "keyword": "한동훈",
+      "count": 11,
+      "representative_title": "한동훈 ‘무소속’ 의원과 흥신소 정치[편집실에서]",
+      "representative_link": "https://n.news.naver.com/article/033/0000053111?ntype=RANKING",
+      "press": "주간경향",
       "related_articles": [
+        {
+          "title": "김정철 \"오세훈, 한동훈 복당에 원칙 없다? 유능한 전략\"[한판승부]",
+          "link": "https://n.news.naver.com/article/079/0004205721?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "오세훈·한동훈, 장례식장서 한자리... “공식 만남 갖자”",
+          "link": "https://n.news.naver.com/article/366/0001202074?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "[속보]차기대권? 오세훈18.4% 장동혁13.6% 한동훈12.6%",
+          "link": "https://n.news.naver.com/article/021/0002829772?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "[단독] 빈소서 만난 오세훈과 한동훈…\"공식적으로 한 번 보자\"",
+          "link": "https://n.news.naver.com/article/448/0000648542?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "오세훈 둘러싼 삼각관계…한동훈·장동혁·이준석의 동상이몽",
+          "link": "https://n.news.naver.com/article/586/0000141443?ntype=RANKING",
+          "press": "시사저널"
+        }
+      ],
+      "related_titles": [
+        "김정철 \"오세훈, 한동훈 복당에 원칙 없다? 유능한 전략\"[한판승부]",
+        "오세훈·한동훈, 장례식장서 한자리... “공식 만남 갖자”",
+        "[속보]차기대권? 오세훈18.4% 장동혁13.6% 한동훈12.6%",
+        "[단독] 빈소서 만난 오세훈과 한동훈…\"공식적으로 한 번 보자\"",
+        "오세훈 둘러싼 삼각관계…한동훈·장동혁·이준석의 동상이몽"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "논란",
+      "count": 10,
+      "representative_title": "“고3 아들 데리러 갑니다”…주차장 ‘자리 맡기’ 논란",
+      "representative_link": "https://n.news.naver.com/article/020/0003759495?ntype=RANKING",
+      "press": "동아일보",
+      "related_articles": [
+        {
+          "title": "장례식장에 검은 가죽 재킷…고 최불암 조문 김지영 ‘복장 논란’",
+          "link": "https://n.news.naver.com/article/009/0005757938?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "\"고3 아들 데리러 갑니다. 다른 곳에 주차하세요\"…자리맡기 또 논란",
+          "link": "https://n.news.naver.com/article/057/0001976415?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "\"고3 아들 데리러 간다\"…주차칸에 박스 놓고 자리 맡아 논란",
+          "link": "https://n.news.naver.com/article/015/0005349476?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "연소득 1억 넘는 16만명도 대상? 소득 문턱 없앤 'K-민생지킴대출' 논란",
+          "link": "https://n.news.naver.com/article/005/0001882579?ntype=RANKING",
+          "press": "국민일보"
+        },
         {
           "title": "“실격 처리해야” 샤이니 민호 마라톤 ‘페이스 메이커’ 논란…“등 미는 모습 포착”",
           "link": "https://n.news.naver.com/article/016/0002717741?ntype=RANKING",
           "press": "헤럴드경제"
-        },
-        {
-          "title": "伊 명품 브랜드 창립자 '나쁜 손' 논란…여배우 신체 접촉",
-          "link": "https://n.news.naver.com/article/015/0005349434?ntype=RANKING",
-          "press": "한국경제"
-        },
-        {
-          "title": "‘조력자 손’ 논란…샤이니 민호, 첫 마라톤 완주에 “실격 처리하라” 말 나온 이유 [이슈픽]",
-          "link": "https://n.news.naver.com/article/081/0003694980?ntype=RANKING",
-          "press": "서울신문"
-        },
-        {
-          "title": "김유정 이어 中 여배우에게도… 伊 명품 창업자, '나쁜 손' 논란",
-          "link": "https://n.news.naver.com/article/469/0000963169?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "“XX 김치맨” 욕설에 박항서 극대노…태국 프로축구 인종차별 논란",
-          "link": "https://n.news.naver.com/article/056/0012285752?ntype=RANKING",
-          "press": "KBS"
         }
       ],
       "related_titles": [
-        "“실격 처리해야” 샤이니 민호 마라톤 ‘페이스 메이커’ 논란…“등 미는 모습 포착”",
-        "伊 명품 브랜드 창립자 '나쁜 손' 논란…여배우 신체 접촉",
-        "‘조력자 손’ 논란…샤이니 민호, 첫 마라톤 완주에 “실격 처리하라” 말 나온 이유 [이슈픽]",
-        "김유정 이어 中 여배우에게도… 伊 명품 창업자, '나쁜 손' 논란",
-        "“XX 김치맨” 욕설에 박항서 극대노…태국 프로축구 인종차별 논란"
-      ],
-      "category": "연예/문화"
-    },
-    {
-      "rank": 4,
-      "keyword": "만원",
-      "count": 12,
-      "representative_title": "5벌 세탁비 15만원, 엔진오일 교체 17% 인상…생활비 비상",
-      "representative_link": "https://n.news.naver.com/article/005/0001882495?ntype=RANKING",
-      "press": "국민일보",
-      "related_articles": [
-        {
-          "title": "5벌 세탁비 15만원, 엔진오일 교체 17% 인상…생활비 비상",
-          "link": "https://n.news.naver.com/article/005/0001882495?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "\"부부여행 가니 4살 아이 72시간 봐달라\"...30만원 베이비시터 구인글 [어떻게 생각하세요]",
-          "link": "https://n.news.naver.com/article/014/0005597985?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        },
-        {
-          "title": "\"성과급 71억5000만원 예상\"…삼성전자 직원, 40세 전 은퇴 고민 [어떻게 생각하세요]",
-          "link": "https://n.news.naver.com/article/014/0005598331?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        },
-        {
-          "title": "방송 켜고 식당서 밥 먹다가 '1600만원' 날벼락…시청자들, 화면 속 'QR코드' 찍어 허위주문",
-          "link": "https://n.news.naver.com/article/030/0003481305?ntype=RANKING",
-          "press": "전자신문"
-        },
-        {
-          "title": "\"아우의 반란\" 형 제치고 돈 잘 버는데…'19만→15만원' 개미 웃지 못한 이유 [주식R]",
-          "link": "https://n.news.naver.com/article/215/0001271407?ntype=RANKING",
-          "press": "한국경제TV"
-        }
-      ],
-      "related_titles": [
-        "5벌 세탁비 15만원, 엔진오일 교체 17% 인상…생활비 비상",
-        "\"부부여행 가니 4살 아이 72시간 봐달라\"...30만원 베이비시터 구인글 [어떻게 생각하세요]",
-        "\"성과급 71억5000만원 예상\"…삼성전자 직원, 40세 전 은퇴 고민 [어떻게 생각하세요]",
-        "방송 켜고 식당서 밥 먹다가 '1600만원' 날벼락…시청자들, 화면 속 'QR코드' 찍어 허위주문",
-        "\"아우의 반란\" 형 제치고 돈 잘 버는데…'19만→15만원' 개미 웃지 못한 이유 [주식R]"
-      ],
-      "category": "경제/투자"
-    },
-    {
-      "rank": 5,
-      "keyword": "정보",
-      "count": 12,
-      "representative_title": "\"매일 아침 출발\" 정보 입수…'왕복 100km' 추적해 동선 확인",
-      "representative_link": "https://n.news.naver.com/article/437/0000518762?ntype=RANKING",
-      "press": "JTBC",
-      "related_articles": [
-        {
-          "title": "\"매일 아침 출발\" 정보 입수…'왕복 100km' 추적해 동선 확인",
-          "link": "https://n.news.naver.com/article/437/0000518762?ntype=RANKING",
-          "press": "JTBC"
-        }
-      ],
-      "related_titles": [
-        "\"매일 아침 출발\" 정보 입수…'왕복 100km' 추적해 동선 확인"
+        "장례식장에 검은 가죽 재킷…고 최불암 조문 김지영 ‘복장 논란’",
+        "\"고3 아들 데리러 갑니다. 다른 곳에 주차하세요\"…자리맡기 또 논란",
+        "\"고3 아들 데리러 간다\"…주차칸에 박스 놓고 자리 맡아 논란",
+        "연소득 1억 넘는 16만명도 대상? 소득 문턱 없앤 'K-민생지킴대출' 논란",
+        "“실격 처리해야” 샤이니 민호 마라톤 ‘페이스 메이커’ 논란…“등 미는 모습 포착”"
       ],
       "category": "사회/일반"
     }
@@ -183,24 +201,19 @@
     {
       "rank": 1,
       "keyword": "주식",
-      "count": 9,
-      "representative_title": "주식 판 돈 하루 당겨 받는 게, 그렇게 어렵나요",
-      "representative_link": "https://n.news.naver.com/article/648/0000052197?ntype=RANKING",
-      "press": "비즈워치",
+      "count": 7,
+      "representative_title": "[속보]주식 판 돈 다음날 받는다…'결제주기' 전환",
+      "representative_link": "https://n.news.naver.com/article/050/0000112718?ntype=RANKING",
+      "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "“주식 팔아도 왜 돈 안들어와?” 이틀이 2년 같았는데…무려 50년 만에 바뀐다 [투자360]",
-          "link": "https://n.news.naver.com/article/016/0002717759?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "배우 이미숙 “집 날아갔다…늘그막에 왜 주식 뛰어들어가지고”",
+          "link": "https://n.news.naver.com/article/025/0003562390?ntype=RANKING",
+          "press": "중앙일보"
         },
         {
-          "title": "“13년간 모은 5억, 주식 투자로 3억 손실”…결혼자금 날린 직장인 ‘눈물’",
-          "link": "https://n.news.naver.com/article/016/0002717815?ntype=RANKING",
-          "press": "헤럴드경제"
-        },
-        {
-          "title": "생전 안 하던 주식 뛰어든 이미숙…급락장에 \"집 날아갔다\"",
-          "link": "https://n.news.naver.com/article/018/0006402276?ntype=RANKING",
+          "title": "\"주식 실패 때문이라더니\"...숨진 일본 여성, 발견 당시",
+          "link": "https://n.news.naver.com/article/018/0006402449?ntype=RANKING",
           "press": "이데일리"
         },
         {
@@ -209,80 +222,85 @@
           "press": "전자신문"
         },
         {
-          "title": "주식 판 돈 하루 당겨 받는 게, 그렇게 어렵나요",
-          "link": "https://n.news.naver.com/article/648/0000052197?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "조원태, 한진칼 지분 370억 매입…종가보다 15% 싼 주식 누가 파나",
+          "link": "https://n.news.naver.com/article/119/0003150415?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "\"집 날아갔어, 늘그막에 주식 해서\"…이미숙 '한탄'",
+          "link": "https://n.news.naver.com/article/031/0001071584?ntype=RANKING",
+          "press": "아이뉴스24"
         }
       ],
       "related_titles": [
-        "“주식 팔아도 왜 돈 안들어와?” 이틀이 2년 같았는데…무려 50년 만에 바뀐다 [투자360]",
-        "“13년간 모은 5억, 주식 투자로 3억 손실”…결혼자금 날린 직장인 ‘눈물’",
-        "생전 안 하던 주식 뛰어든 이미숙…급락장에 \"집 날아갔다\"",
+        "배우 이미숙 “집 날아갔다…늘그막에 왜 주식 뛰어들어가지고”",
+        "\"주식 실패 때문이라더니\"...숨진 일본 여성, 발견 당시",
         "“13년 모은 결혼자금 5억, 주식 한번에 3억 날렸다”…아까워 못 팔고 부동산 가계약금도 잃어",
-        "주식 판 돈 하루 당겨 받는 게, 그렇게 어렵나요"
+        "조원태, 한진칼 지분 370억 매입…종가보다 15% 싼 주식 누가 파나",
+        "\"집 날아갔어, 늘그막에 주식 해서\"…이미숙 '한탄'"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
       "keyword": "투자",
-      "count": 7,
-      "representative_title": "코스피 7500 간다? 반도체 바닥은 언제…투자 구루의 답",
-      "representative_link": "https://n.news.naver.com/article/050/0000112748?ntype=RANKING",
-      "press": "한경비즈니스",
+      "count": 5,
+      "representative_title": "할리우드행 택한 韓 게임들…단기 수익보단 'IP 생명력' 투자",
+      "representative_link": "https://n.news.naver.com/article/293/0000092567?ntype=RANKING",
+      "press": "블로터",
       "related_articles": [
         {
-          "title": "“왜 늘그막에 주식을 해서”…이미숙, ‘집 날아간’ 투자 손실 고백",
-          "link": "https://n.news.naver.com/article/009/0005757721?ntype=RANKING",
-          "press": "매일경제"
+          "title": "'상장 목전' 앤트로픽, 매출 12배 '폭등'...\"1200조원 AI 투자 약정\"",
+          "link": "https://n.news.naver.com/article/215/0001271428?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "[유미's 픽] \"이재용이 콕 찍은 구미\"…삼성 60조 투자 시동, 다음은 오픈AI?",
-          "link": "https://n.news.naver.com/article/092/0002443496?ntype=RANKING",
-          "press": "지디넷코리아"
+          "title": "美 중간선거 앞두고 월가 ‘머니무브’…韓 반도체 투자 흔드나 [호황의 시계①]",
+          "link": "https://n.news.naver.com/article/119/0003150439?ntype=RANKING",
+          "press": "데일리안"
         },
         {
-          "title": "(주)이수페타시스, 대구에 7공장 새로 짓기로···대구시·달성군과 5천억 원 투자 협약 체결",
-          "link": "https://n.news.naver.com/article/657/0000056957?ntype=RANKING",
-          "press": "대구MBC"
-        },
-        {
-          "title": "코스피 7500 간다? 반도체 바닥은 언제…투자 구루의 답",
-          "link": "https://n.news.naver.com/article/050/0000112748?ntype=RANKING",
-          "press": "한경비즈니스"
+          "title": "할리우드행 택한 韓 게임들…단기 수익보단 'IP 생명력' 투자",
+          "link": "https://n.news.naver.com/article/293/0000092567?ntype=RANKING",
+          "press": "블로터"
         },
         {
           "title": "“젊은 층 관심 커진 재개발 투자… 적어도 ‘조합설립인가’ 받은 곳 노려야”",
           "link": "https://n.news.naver.com/article/037/0000039075?ntype=RANKING",
           "press": "주간동아"
+        },
+        {
+          "title": "'상장 목전' 앤트로픽, 매출 12배 '폭등'...\"1200조원 AI 투자 약정\"",
+          "link": "https://n.news.naver.com/article/215/0001271428?ntype=RANKING",
+          "press": "한국경제TV"
         }
       ],
       "related_titles": [
-        "“왜 늘그막에 주식을 해서”…이미숙, ‘집 날아간’ 투자 손실 고백",
-        "[유미's 픽] \"이재용이 콕 찍은 구미\"…삼성 60조 투자 시동, 다음은 오픈AI?",
-        "(주)이수페타시스, 대구에 7공장 새로 짓기로···대구시·달성군과 5천억 원 투자 협약 체결",
-        "코스피 7500 간다? 반도체 바닥은 언제…투자 구루의 답",
-        "“젊은 층 관심 커진 재개발 투자… 적어도 ‘조합설립인가’ 받은 곳 노려야”"
+        "'상장 목전' 앤트로픽, 매출 12배 '폭등'...\"1200조원 AI 투자 약정\"",
+        "美 중간선거 앞두고 월가 ‘머니무브’…韓 반도체 투자 흔드나 [호황의 시계①]",
+        "할리우드행 택한 韓 게임들…단기 수익보단 'IP 생명력' 투자",
+        "“젊은 층 관심 커진 재개발 투자… 적어도 ‘조합설립인가’ 받은 곳 노려야”",
+        "'상장 목전' 앤트로픽, 매출 12배 '폭등'...\"1200조원 AI 투자 약정\""
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
       "keyword": "삼성전자",
-      "count": 5,
-      "representative_title": "美브로드컴, ‘삼성전자 장기계약 강요’ 과징금 취소 소송 최종 패소",
-      "representative_link": "https://n.news.naver.com/article/658/0000160186?ntype=RANKING",
-      "press": "국제신문",
+      "count": 4,
+      "representative_title": "\"삼성전자, 2년간 1022조 번다…목표주가 60만원 유지\"[클릭e종목]",
+      "representative_link": "https://n.news.naver.com/article/277/0005837001?ntype=RANKING",
+      "press": "아시아경제",
       "related_articles": [
+        {
+          "title": "\"삼성전자, 2년간 1022조 번다…목표주가 60만원 유지\"[클릭e종목]",
+          "link": "https://n.news.naver.com/article/277/0005837001?ntype=RANKING",
+          "press": "아시아경제"
+        },
         {
           "title": "\"성과급 71억5000만원 예상\"…삼성전자 직원, 40세 전 은퇴 고민 [어떻게 생각하세요]",
           "link": "https://n.news.naver.com/article/014/0005598331?ntype=RANKING",
           "press": "파이낸셜뉴스"
-        },
-        {
-          "title": "\"예상 성과급 71억…40살 전 은퇴가 꿈\" 삼성전자 직원 글 '화제'",
-          "link": "https://n.news.naver.com/article/018/0006402388?ntype=RANKING",
-          "press": "이데일리"
         },
         {
           "title": "\"성과급만 71억, 마흔 전 은퇴 새 삶 살고 싶다\"…삼성전자 직원 글 '갸웃'",
@@ -295,60 +313,79 @@
           "press": "디지털데일리"
         },
         {
-          "title": "美브로드컴, ‘삼성전자 장기계약 강요’ 과징금 취소 소송 최종 패소",
-          "link": "https://n.news.naver.com/article/658/0000160186?ntype=RANKING",
-          "press": "국제신문"
+          "title": "\"삼성전자, 2년간 1022조 번다…목표주가 60만원 유지\"[클릭e종목]",
+          "link": "https://n.news.naver.com/article/277/0005837001?ntype=RANKING",
+          "press": "아시아경제"
         }
       ],
       "related_titles": [
+        "\"삼성전자, 2년간 1022조 번다…목표주가 60만원 유지\"[클릭e종목]",
         "\"성과급 71억5000만원 예상\"…삼성전자 직원, 40세 전 은퇴 고민 [어떻게 생각하세요]",
-        "\"예상 성과급 71억…40살 전 은퇴가 꿈\" 삼성전자 직원 글 '화제'",
         "\"성과급만 71억, 마흔 전 은퇴 새 삶 살고 싶다\"…삼성전자 직원 글 '갸웃'",
         "“내년 영업익 1110조인데”…KB증권, 삼성전자 목표가 60만원·SK하이닉스 350만원 유지",
-        "美브로드컴, ‘삼성전자 장기계약 강요’ 과징금 취소 소송 최종 패소"
+        "\"삼성전자, 2년간 1022조 번다…목표주가 60만원 유지\"[클릭e종목]"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "코스피",
+      "keyword": "만원",
       "count": 4,
-      "representative_title": "블랙 먼데이는 없었다…코스피 2.24% 급등, 5800선 탈환",
-      "representative_link": "https://n.news.naver.com/article/138/0002246970?ntype=RANKING",
-      "press": "디지털데일리",
+      "representative_title": "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
+      "representative_link": "https://n.news.naver.com/article/015/0005349465?ntype=RANKING",
+      "press": "한국경제",
       "related_articles": [
         {
-          "title": "“인텔 폭락에 코스피 안 보려 했는데”…멱살 잡고 끌어올린 ‘큰손’",
-          "link": "https://n.news.naver.com/article/009/0005757895?ntype=RANKING",
-          "press": "매일경제"
+          "title": "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005349465?ntype=RANKING",
+          "press": "한국경제"
         },
         {
-          "title": "11월 증시 출발부터 '파란불'…코스피 1.47% 하락해 5640선",
-          "link": "https://n.news.naver.com/article/629/0000547663?ntype=RANKING",
-          "press": "더팩트"
+          "title": "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005349465?ntype=RANKING",
+          "press": "한국경제"
         },
         {
-          "title": "블랙 먼데이는 없었다…코스피 2.24% 급등, 5800선 탈환",
-          "link": "https://n.news.naver.com/article/138/0002246970?ntype=RANKING",
-          "press": "디지털데일리"
-        },
-        {
-          "title": "“인텔 폭락에 코스피 안 보려 했는데”…멱살 잡고 끌어올린 ‘큰손’",
-          "link": "https://n.news.naver.com/article/009/0005757895?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "11월 증시 출발부터 '파란불'…코스피 1.47% 하락해 5640선",
-          "link": "https://n.news.naver.com/article/629/0000547663?ntype=RANKING",
-          "press": "더팩트"
+          "title": "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005349465?ntype=RANKING",
+          "press": "한국경제"
         }
       ],
       "related_titles": [
-        "“인텔 폭락에 코스피 안 보려 했는데”…멱살 잡고 끌어올린 ‘큰손’",
-        "11월 증시 출발부터 '파란불'…코스피 1.47% 하락해 5640선",
-        "블랙 먼데이는 없었다…코스피 2.24% 급등, 5800선 탈환",
-        "“인텔 폭락에 코스피 안 보려 했는데”…멱살 잡고 끌어올린 ‘큰손’",
-        "11월 증시 출발부터 '파란불'…코스피 1.47% 하락해 5640선"
+        "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
+        "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
+        "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "이미숙",
+      "count": 3,
+      "representative_title": "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
+      "representative_link": "https://n.news.naver.com/article/081/0003695119?ntype=RANKING",
+      "press": "서울신문",
+      "related_articles": [
+        {
+          "title": "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
+          "link": "https://n.news.naver.com/article/081/0003695119?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
+          "link": "https://n.news.naver.com/article/081/0003695119?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
+          "link": "https://n.news.naver.com/article/081/0003695119?ntype=RANKING",
+          "press": "서울신문"
+        }
+      ],
+      "related_titles": [
+        "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
+        "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
+        "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]"
       ],
       "category": "주식/코인"
     }
@@ -476,47 +513,10 @@
   "budongsan_topics": [
     {
       "rank": 1,
-      "keyword": "강남",
-      "count": 4,
-      "representative_title": "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeWVfYXpGUUhxU2VMZGdGT0ZCMnFhVUNUSmhnUTRFeEYtc2M3dnluMnVycXdRS0k3SmFkbnNObFlSb2JWeVNFR2VOSEJUVzVleTJmZS1kN01OUQ?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeWVfYXpGUUhxU2VMZGdGT0ZCMnFhVUNUSmhnUTRFeEYtc2M3dnluMnVycXdRS0k3SmFkbnNObFlSb2JWeVNFR2VOSEJUVzVleTJmZS1kN01OUQ?oc=5",
-          "press": ""
-        },
-        {
-          "title": "강남 아파트값 약세에도 서울은 90주째 상승…집값 떠받친 지역은?",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYemxMczZ6MTVac1pvOGRwOERlMWlJX3FMdWh6MEI4QjhXUWNMNWlGbWF0bWtnXzVFVmlWYXZJTzZKS0Y0ZzhOREhJaThmU24tWXNoeFduZGxwVkt5bTZaUnNvaG5QSkJQUWfSAW5BVV95cUxPWVZlQnNBRzhlbUEydUxqaHFzQ0JZbFUzQzViM090RnZ3Rkk4SGkzZl9xZWdYa3JXNFZDODRvbGFWYXEzSG9sdEV6STVGc1dmTlVYcjg1VDJXa2E2ZDdXTTJwbVRSU09IR0VVd0Etdw?oc=5",
-          "press": ""
-        },
-        {
-          "title": "김동현은 샀는데…강남 집값 내려도 남 얘기[부동산 취재로그]",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHVOeTBMaFgySy0ybTJ3NnNmTlJ4X2J6SWJHa183NVVmWjBUYjAwMDZuUVpsWTJUUkVEOTd5Z0hRMlBTTHZqT1ZsaG0wNDdaQVV3THpUSnB0dzR6a2RBeFdINE56QmZVZzdTVGFDajN6TXVRYWVpRzVZQVZvYjhsXw?oc=5",
-          "press": ""
-        },
-        {
-          "title": "“지방 아파트 30채 팔아야 강남 1채” 전국 집값 격차 역대 ‘최대’ [부동산360]",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96cjNTNzZxeVFpaGx1eC1xZmgxdnR1ZHpSc0Y1aWhMUEM5d25BdUNzNlNzOXJzOWhHeDhVRmF4VGlyLXowLWF3aGpYcVVuNVZvbUZrMHNR?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
-        "강남 아파트값 약세에도 서울은 90주째 상승…집값 떠받친 지역은?",
-        "김동현은 샀는데…강남 집값 내려도 남 얘기[부동산 취재로그]",
-        "“지방 아파트 30채 팔아야 강남 1채” 전국 집값 격차 역대 ‘최대’ [부동산360]"
-      ],
-      "category": "부동산"
-    },
-    {
-      "rank": 2,
       "keyword": "서울",
-      "count": 4,
-      "representative_title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
-      "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
+      "count": 3,
+      "representative_title": "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yMlRFV0hwc19HNE9BV0VzREZBa25KMS1vaFlyRWFfbER0b2dIR2tlQnJBVzJpQzBQVGtySWVnak1YOXYzSl9RMXBoSG92bXFkSVlwckYyMk9uZw?oc=5",
       "press": "",
       "related_articles": [
         {
@@ -533,61 +533,17 @@
           "title": "[통계로 보는 부동산] 서울 집값 숨 고르는데 경기 남부 들썩…수원·군포·용인 강세",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lUXh4WmtEMzhhb1FXaFhyZkotUHJnNnhYTUdWcXJpeFVhcnpLV0RPQVVYUDdNbmY4aXRtWVMxM09tREMwTDBHT0dCMTBjT1MtQzdhcXBjVU5BUdIBWEFVX3lxTE9XRzRFTktYc2JmenVTSV84eWZiQzBuRE1udHJ6Z1hNakQ1MDBIMml2OXRRN0FYeVMyLXZtVnRMSU1YS2RJMS1yNkVhNkpBTXZ5Q1BXMUUxdFY?oc=5",
           "press": ""
-        },
-        {
-          "title": "서울 집값 잡히나 했더니…경기로 번지는 매수세",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMUxrZjg0YWlXaWJHdFZacjRGUDlLaEFTX1pSUXg0d3lFb2l4Z1R3aFlsclNNX0l2cmpLQlVWTEgyVVdpb1VZMVdxMUpBSkJuUW9EQU1OR19oUDFjYTBfUGdqQmFib1FKVHRxN3JfV3hiYjjSAXdBVV95cUxQbGpoOUVXMTd5RHR2dU1VSkpPdW5peEhZSms5TlR5c05SYVBhZG4tUjNFbXBQS0tiRTEwcGZoNkFJMjR6Mkt1enNmOEtxTllFdEV6M2hGYXp4dFlhVmdIQndCM2lqWUF4MjdqUE90YzZBdHZRZjl1UQ?oc=5",
-          "press": ""
         }
       ],
       "related_titles": [
         "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
         "[부동산 리뷰] 90주 상승한 서울 집값, 12월부터 하락 반전하나",
-        "[통계로 보는 부동산] 서울 집값 숨 고르는데 경기 남부 들썩…수원·군포·용인 강세",
-        "서울 집값 잡히나 했더니…경기로 번지는 매수세"
+        "[통계로 보는 부동산] 서울 집값 숨 고르는데 경기 남부 들썩…수원·군포·용인 강세"
       ],
       "category": "부동산"
     },
     {
-      "rank": 3,
-      "keyword": "통계",
-      "count": 2,
-      "representative_title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
-      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42MnYweHA2ZlpkSUI1c0xQU0pTTWlRTGVUWXZycWMwNVlYZTNKNVY0bUsxYklLWmZOQXhVdEFLTFdjTXVyeXd4dWQ4eUF2RTU4ay05MFQtMVBjZjFZMS1oOVltTm5FclY40gFsQVVfeXFMTmxrWlVXLS00YmdtbC1RMVhRMjU1NXpxdWcwSHJEVXR4Tzk0WEV0aFlFQ3VlLVl5U0oxNEpnOENxVmRxeHgxdTBadk5SUnotTnZKX1NicjFDcWJPb29jbXdEU3hleFczeG1BVVJY?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42MnYweHA2ZlpkSUI1c0xQU0pTTWlRTGVUWXZycWMwNVlYZTNKNVY0bUsxYklLWmZOQXhVdEFLTFdjTXVyeXd4dWQ4eUF2RTU4ay05MFQtMVBjZjFZMS1oOVltTm5FclY40gFsQVVfeXFMTmxrWlVXLS00YmdtbC1RMVhRMjU1NXpxdWcwSHJEVXR4Tzk0WEV0aFlFQ3VlLVl5U0oxNEpnOENxVmRxeHgxdTBadk5SUnotTnZKX1NicjFDcWJPb29jbXdEU3hleFczeG1BVVJY?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐"
-      ],
-      "category": "부동산"
-    },
-    {
-      "rank": 4,
-      "keyword": "전셋값",
-      "count": 2,
-      "representative_title": "인천 남동구(南洞區) · '26년 10월 부동산 흐름 (집값 -0.28%, 전셋값 +3.90% — 연수구가 2.86% 오를 때 남동은 제자리, 구월 새 아파트는 시세의 1.8배)",
-      "representative_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjWnpiMk16NzkzejJXRjRQZTYyWlo2ZkE1aDdpZHI2elVqXzRuZVY3N3NjUEx3cm9scUpMX2ZfT1lieGNWMk44SXNxcEZlV2s3TUg3M2M5Tm44TTZwYVUwN2VMelpxSEZodGVtaGJkY2hyOFJwRW9RMzFpZEw?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "인천 남동구(南洞區) · '26년 10월 부동산 흐름 (집값 -0.28%, 전셋값 +3.90% — 연수구가 2.86% 오를 때 남동은 제자리, 구월 새 아파트는 시세의 1.8배)",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjWnpiMk16NzkzejJXRjRQZTYyWlo2ZkE1aDdpZHI2elVqXzRuZVY3N3NjUEx3cm9scUpMX2ZfT1lieGNWMk44SXNxcEZlV2s3TUg3M2M5Tm44TTZwYVUwN2VMelpxSEZodGVtaGJkY2hyOFJwRW9RMzFpZEw?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "인천 남동구(南洞區) · '26년 10월 부동산 흐름 (집값 -0.28%, 전셋값 +3.90% — 연수구가 2.86% 오를 때 남동은 제자리, 구월 새 아파트는 시세의 1.8배)"
-      ],
-      "category": "부동산"
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "keyword": "상승한",
       "count": 2,
       "representative_title": "[기자수첩] 89주 연속 상승한 집값, 끝나지 않는 '부동산 대란'...서민만 벼랑 끝",
@@ -602,6 +558,50 @@
       ],
       "related_titles": [
         "[기자수첩] 89주 연속 상승한 집값, 끝나지 않는 '부동산 대란'...서민만 벼랑 끝"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "강남",
+      "count": 2,
+      "representative_title": "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeWVfYXpGUUhxU2VMZGdGT0ZCMnFhVUNUSmhnUTRFeEYtc2M3dnluMnVycXdRS0k3SmFkbnNObFlSb2JWeVNFR2VOSEJUVzVleTJmZS1kN01OUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeWVfYXpGUUhxU2VMZGdGT0ZCMnFhVUNUSmhnUTRFeEYtc2M3dnluMnVycXdRS0k3SmFkbnNObFlSb2JWeVNFR2VOSEJUVzVleTJmZS1kN01OUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "김동현은 샀는데…강남 집값 내려도 남 얘기[부동산 취재로그]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHVOeTBMaFgySy0ybTJ3NnNmTlJ4X2J6SWJHa183NVVmWjBUYjAwMDZuUVpsWTJUUkVEOTd5Z0hRMlBTTHZqT1ZsaG0wNDdaQVV3THpUSnB0dzR6a2RBeFdINE56QmZVZzdTVGFDajN6TXVRYWVpRzVZQVZvYjhsXw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
+        "김동현은 샀는데…강남 집값 내려도 남 얘기[부동산 취재로그]"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "통계",
+      "count": 2,
+      "representative_title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
+      "representative_link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZTkMwUEo5SEZJUE5XZjdYejUzVkFXaW5zbjdpT1E3WDVEUXl3SC15dXRhQXJDekhMVzRLQVktQ0Jrcm9wRlE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZTkMwUEo5SEZJUE5XZjdYejUzVkFXaW5zbjdpT1E3WDVEUXl3SC15dXRhQXJDekhMVzRLQVktQ0Jrcm9wRlE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐"
       ],
       "category": "부동산"
     }
