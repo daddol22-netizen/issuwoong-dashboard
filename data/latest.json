@@ -1,301 +1,227 @@
 {
   "date": "2026-11-03",
-  "hour": "10",
-  "slot": "2026-11-03_10",
-  "crawled_at": "2026-11-03 10:00:00",
-  "total_articles": 399,
+  "hour": "13",
+  "slot": "2026-11-03_13",
+  "crawled_at": "2026-11-03 13:00:00",
+  "total_articles": 404,
   "topics": [
     {
       "rank": 1,
       "keyword": "대통령",
-      "count": 26,
-      "representative_title": "이 대통령 SNS에 호응한 조선일보, 비판한 경향신문",
-      "representative_link": "https://n.news.naver.com/article/006/0000138529?ntype=RANKING",
-      "press": "미디어오늘",
+      "count": 48,
+      "representative_title": "외교부 \"대통령 내외 등 여권 재발급 조치 시행\"",
+      "representative_link": "https://n.news.naver.com/article/658/0000160236?ntype=RANKING",
+      "press": "국제신문",
       "related_articles": [
         {
-          "title": "[단독] 이재명 대통령 여권번호까지…‘1호기 탑승자’ 168명 정보 인터넷에 노출",
-          "link": "https://n.news.naver.com/article/056/0012285730?ntype=RANKING",
-          "press": "KBS"
+          "title": "이 대통령 “서울 주요지역 아파트값 놀라울 정도로 떨어져…폭락 걱정하는 쪽도 생겨”",
+          "link": "https://n.news.naver.com/article/009/0005758057?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "\"왜 국채 발행?\" 연설 중 터진 고성‥대통령 \"자꾸 방해\"",
-          "link": "https://n.news.naver.com/article/214/0001532996?ntype=RANKING",
-          "press": "MBC"
+          "title": "이 대통령 “한 달 한 번쯤 오시라” 했는데…김지용, 또 국무회의 참석",
+          "link": "https://n.news.naver.com/article/032/0003480317?ntype=RANKING",
+          "press": "경향신문"
         },
         {
-          "title": "이 대통령 부부 여권번호까지…‘1호기’ 탄 168명 정보 5개월간 유출",
-          "link": "https://n.news.naver.com/article/028/0002830377?ntype=RANKING",
-          "press": "한겨레"
+          "title": "이 대통령 \"합리적 근거 없는 약자 혜택, 혐오 선동 세력에 빌미\"",
+          "link": "https://n.news.naver.com/article/006/0000138539?ntype=RANKING",
+          "press": "미디어오늘"
         },
         {
-          "title": "이 대통령 부부 여권번호까지…'1호기 탑승자' 명단 정보 노출",
-          "link": "https://n.news.naver.com/article/057/0001976400?ntype=RANKING",
-          "press": "MBN"
+          "title": "李대통령, 사정기관에 \"허위사실 유포 강력 대응\" 지시&#160;",
+          "link": "https://n.news.naver.com/article/006/0000138536?ntype=RANKING",
+          "press": "미디어오늘"
         },
         {
-          "title": "이 대통령 여권번호도 털렸다... '1호기 탑승자' 168명 정보 무더기 노출",
-          "link": "https://n.news.naver.com/article/469/0000963191?ntype=RANKING",
-          "press": "한국일보"
+          "title": "이재명 대통령 '다문화 발언'에 경향 \"갈라치기 정치 편승 지적\"",
+          "link": "https://n.news.naver.com/article/006/0000138533?ntype=RANKING",
+          "press": "미디어오늘"
         }
       ],
       "related_titles": [
-        "[단독] 이재명 대통령 여권번호까지…‘1호기 탑승자’ 168명 정보 인터넷에 노출",
-        "\"왜 국채 발행?\" 연설 중 터진 고성‥대통령 \"자꾸 방해\"",
-        "이 대통령 부부 여권번호까지…‘1호기’ 탄 168명 정보 5개월간 유출",
-        "이 대통령 부부 여권번호까지…'1호기 탑승자' 명단 정보 노출",
-        "이 대통령 여권번호도 털렸다... '1호기 탑승자' 168명 정보 무더기 노출"
+        "이 대통령 “서울 주요지역 아파트값 놀라울 정도로 떨어져…폭락 걱정하는 쪽도 생겨”",
+        "이 대통령 “한 달 한 번쯤 오시라” 했는데…김지용, 또 국무회의 참석",
+        "이 대통령 \"합리적 근거 없는 약자 혜택, 혐오 선동 세력에 빌미\"",
+        "李대통령, 사정기관에 \"허위사실 유포 강력 대응\" 지시&#160;",
+        "이재명 대통령 '다문화 발언'에 경향 \"갈라치기 정치 편승 지적\""
       ],
       "category": "정치"
     },
     {
       "rank": 2,
-      "keyword": "김여정",
-      "count": 13,
-      "representative_title": "北김여정, 바이낸스 사태에 \"美 정치적 도발…예의주시\"",
-      "representative_link": "https://n.news.naver.com/article/001/0016417203?ntype=RANKING",
-      "press": "연합뉴스",
+      "keyword": "호기",
+      "count": 14,
+      "representative_title": "靑, 1호기 개인정보 유출 긴급회의 \"중대 사안…관리책임 규명\"",
+      "representative_link": "https://n.news.naver.com/article/629/0000548097?ntype=RANKING",
+      "press": "더팩트",
       "related_articles": [
         {
-          "title": "김여정, '바이낸스 해킹' 북한 배후설 부인... \"미국의 정치적 도발\"",
-          "link": "https://n.news.naver.com/article/047/0002534398?ntype=RANKING",
-          "press": "오마이뉴스"
+          "title": "[속보] 외교부 \"1호기 탑승자 정보 유출, 수사 요청 및 고의성 조사\"",
+          "link": "https://n.news.naver.com/article/448/0000648660?ntype=RANKING",
+          "press": "TV조선"
         },
         {
-          "title": "북 김여정 바이낸스 사태에 \"미 정치적 도발‥예의 주시\"",
-          "link": "https://n.news.naver.com/article/214/0001533080?ntype=RANKING",
-          "press": "MBC"
+          "title": "대통령부터 경호관까지, '1호기' 탑승자 168명 정보 유출…5개월간 노출",
+          "link": "https://n.news.naver.com/article/053/0000062794?ntype=RANKING",
+          "press": "주간조선"
         },
         {
-          "title": "김여정, 바이낸스 사태에 “미국의 상투적 도발…예의주시”",
-          "link": "https://n.news.naver.com/article/028/0002830389?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "北김여정, 바이낸스 사태에 \"美 정치적 도발…예의주시\"",
-          "link": "https://n.news.naver.com/article/001/0016417203?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "北김여정, 바이낸스 사태에 “美 정치적 도발…예의주시”",
-          "link": "https://n.news.naver.com/article/005/0001882585?ntype=RANKING",
-          "press": "국민일보"
+          "title": "靑, 1호기 개인정보 유출 긴급회의 \"중대 사안…관리책임 규명\"",
+          "link": "https://n.news.naver.com/article/629/0000548097?ntype=RANKING",
+          "press": "더팩트"
         }
       ],
       "related_titles": [
-        "김여정, '바이낸스 해킹' 북한 배후설 부인... \"미국의 정치적 도발\"",
-        "북 김여정 바이낸스 사태에 \"미 정치적 도발‥예의 주시\"",
-        "김여정, 바이낸스 사태에 “미국의 상투적 도발…예의주시”",
-        "北김여정, 바이낸스 사태에 \"美 정치적 도발…예의주시\"",
-        "北김여정, 바이낸스 사태에 “美 정치적 도발…예의주시”"
+        "[속보] 외교부 \"1호기 탑승자 정보 유출, 수사 요청 및 고의성 조사\"",
+        "대통령부터 경호관까지, '1호기' 탑승자 168명 정보 유출…5개월간 노출",
+        "靑, 1호기 개인정보 유출 긴급회의 \"중대 사안…관리책임 규명\""
       ],
       "category": "국제"
     },
     {
       "rank": 3,
-      "keyword": "바이낸스",
-      "count": 12,
-      "representative_title": "8년째 수배 중인 '北 해커' 박진혁…바이낸스 사태로 재소환",
-      "representative_link": "https://n.news.naver.com/article/586/0000141440?ntype=RANKING",
-      "press": "시사저널",
+      "keyword": "서울",
+      "count": 13,
+      "representative_title": "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+      "representative_link": "https://n.news.naver.com/article/037/0000039080?ntype=RANKING",
+      "press": "주간동아",
       "related_articles": [
         {
-          "title": "8년째 수배 중인 '北 해커' 박진혁…바이낸스 사태로 재소환",
-          "link": "https://n.news.naver.com/article/586/0000141440?ntype=RANKING",
-          "press": "시사저널"
+          "title": "日언론 “한국, 도대체 왜 이러나”...서울 효도여행 온 딸은 어머니를 잃었다 [오늘의 그날]",
+          "link": "https://n.news.naver.com/article/011/0004677959?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "“과잠 입고 서울 누빌래요” 베트남 학생 1만5000명 줄섰다",
+          "link": "https://n.news.naver.com/article/023/0004007425?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "李 \"서울 주요지역 집값 놀라울 정도로 떨어져…매물도 급증\"",
+          "link": "https://n.news.naver.com/article/448/0000648634?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "'장모 의혹'에 3년 멈춘 서울-양평 고속도로 재추진",
+          "link": "https://n.news.naver.com/article/648/0000052225?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "2년 넘게 멈춘 서울-양평고속도로 재추진…노선 원점 재검토",
+          "link": "https://n.news.naver.com/article/374/0000541356?ntype=RANKING",
+          "press": "SBS Biz"
         }
       ],
       "related_titles": [
-        "8년째 수배 중인 '北 해커' 박진혁…바이낸스 사태로 재소환"
+        "日언론 “한국, 도대체 왜 이러나”...서울 효도여행 온 딸은 어머니를 잃었다 [오늘의 그날]",
+        "“과잠 입고 서울 누빌래요” 베트남 학생 1만5000명 줄섰다",
+        "李 \"서울 주요지역 집값 놀라울 정도로 떨어져…매물도 급증\"",
+        "'장모 의혹'에 3년 멈춘 서울-양평 고속도로 재추진",
+        "2년 넘게 멈춘 서울-양평고속도로 재추진…노선 원점 재검토"
       ],
       "category": "사회/일반"
     },
     {
       "rank": 4,
-      "keyword": "한동훈",
-      "count": 11,
-      "representative_title": "한동훈 ‘무소속’ 의원과 흥신소 정치[편집실에서]",
-      "representative_link": "https://n.news.naver.com/article/033/0000053111?ntype=RANKING",
-      "press": "주간경향",
+      "keyword": "이명수",
+      "count": 13,
+      "representative_title": "'역삼 연쇄방화' 피의자는 77세 이명수",
+      "representative_link": "https://n.news.naver.com/article/658/0000160226?ntype=RANKING",
+      "press": "국제신문",
       "related_articles": [
         {
-          "title": "김정철 \"오세훈, 한동훈 복당에 원칙 없다? 유능한 전략\"[한판승부]",
-          "link": "https://n.news.naver.com/article/079/0004205721?ntype=RANKING",
-          "press": "노컷뉴스"
+          "title": "[속보] '역삼 연쇄 방화' 피의자 신상 공개...77살 이명수",
+          "link": "https://n.news.naver.com/article/052/0002427536?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "오세훈·한동훈, 장례식장서 한자리... “공식 만남 갖자”",
-          "link": "https://n.news.naver.com/article/366/0001202074?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "'역삼동 연쇄 방화' 피의자 신상 공개...77살 이명수",
+          "link": "https://n.news.naver.com/article/052/0002427601?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "[속보]차기대권? 오세훈18.4% 장동혁13.6% 한동훈12.6%",
-          "link": "https://n.news.naver.com/article/021/0002829772?ntype=RANKING",
-          "press": "문화일보"
+          "title": "‘역삼 연쇄방화’ 피의자 신상공개…77세 이명수",
+          "link": "https://n.news.naver.com/article/056/0012286039?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "[단독] 빈소서 만난 오세훈과 한동훈…\"공식적으로 한 번 보자\"",
-          "link": "https://n.news.naver.com/article/448/0000648542?ntype=RANKING",
-          "press": "TV조선"
+          "title": "'역삼동 연쇄방화' 피의자는 77살 이명수…신상공개",
+          "link": "https://n.news.naver.com/article/437/0000518821?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "오세훈 둘러싼 삼각관계…한동훈·장동혁·이준석의 동상이몽",
-          "link": "https://n.news.naver.com/article/586/0000141443?ntype=RANKING",
-          "press": "시사저널"
+          "title": "'역삼동 연쇄방화' 피의자 77세 이명수…경찰 신상공개",
+          "link": "https://n.news.naver.com/article/003/0014296689?ntype=RANKING",
+          "press": "뉴시스"
         }
       ],
       "related_titles": [
-        "김정철 \"오세훈, 한동훈 복당에 원칙 없다? 유능한 전략\"[한판승부]",
-        "오세훈·한동훈, 장례식장서 한자리... “공식 만남 갖자”",
-        "[속보]차기대권? 오세훈18.4% 장동혁13.6% 한동훈12.6%",
-        "[단독] 빈소서 만난 오세훈과 한동훈…\"공식적으로 한 번 보자\"",
-        "오세훈 둘러싼 삼각관계…한동훈·장동혁·이준석의 동상이몽"
+        "[속보] '역삼 연쇄 방화' 피의자 신상 공개...77살 이명수",
+        "'역삼동 연쇄 방화' 피의자 신상 공개...77살 이명수",
+        "‘역삼 연쇄방화’ 피의자 신상공개…77세 이명수",
+        "'역삼동 연쇄방화' 피의자는 77살 이명수…신상공개",
+        "'역삼동 연쇄방화' 피의자 77세 이명수…경찰 신상공개"
       ],
-      "category": "사회/일반"
+      "category": "사건/사고"
     },
     {
       "rank": 5,
-      "keyword": "논란",
-      "count": 10,
-      "representative_title": "“고3 아들 데리러 갑니다”…주차장 ‘자리 맡기’ 논란",
-      "representative_link": "https://n.news.naver.com/article/020/0003759495?ntype=RANKING",
-      "press": "동아일보",
+      "keyword": "이란",
+      "count": 12,
+      "representative_title": "WSJ \"미국, 이란 호르무즈 요충지 게슘섬 타격\"",
+      "representative_link": "https://n.news.naver.com/article/374/0000541327?ntype=RANKING",
+      "press": "SBS Biz",
       "related_articles": [
         {
-          "title": "장례식장에 검은 가죽 재킷…고 최불암 조문 김지영 ‘복장 논란’",
-          "link": "https://n.news.naver.com/article/009/0005757938?ntype=RANKING",
+          "title": "[속보] WSJ “미국, 이란 호르무즈 요충지 게슘섬 타격”",
+          "link": "https://n.news.naver.com/article/009/0005758001?ntype=RANKING",
           "press": "매일경제"
         },
         {
-          "title": "\"고3 아들 데리러 갑니다. 다른 곳에 주차하세요\"…자리맡기 또 논란",
-          "link": "https://n.news.naver.com/article/057/0001976415?ntype=RANKING",
-          "press": "MBN"
+          "title": "선거 코앞 이란 공격한 美…“케슘섬 공격, 수주간 이어져”",
+          "link": "https://n.news.naver.com/article/011/0004678125?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "\"고3 아들 데리러 간다\"…주차칸에 박스 놓고 자리 맡아 논란",
-          "link": "https://n.news.naver.com/article/015/0005349476?ntype=RANKING",
-          "press": "한국경제"
+          "title": "美, 선거전날 이란 게슘섬 타격…\"선박 공격에 방어적 조치\"",
+          "link": "https://n.news.naver.com/article/001/0016417787?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "연소득 1억 넘는 16만명도 대상? 소득 문턱 없앤 'K-민생지킴대출' 논란",
-          "link": "https://n.news.naver.com/article/005/0001882579?ntype=RANKING",
-          "press": "국민일보"
+          "title": "WSJ \"미, 이란 호르무즈 요충지 게슘섬 타격‥방어적 조치\"",
+          "link": "https://n.news.naver.com/article/214/0001533158?ntype=RANKING",
+          "press": "MBC"
         },
         {
-          "title": "“실격 처리해야” 샤이니 민호 마라톤 ‘페이스 메이커’ 논란…“등 미는 모습 포착”",
-          "link": "https://n.news.naver.com/article/016/0002717741?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "전쟁으로 연명 네타냐휴, 트럼프에 '이란 공격 재개' 애원",
+          "link": "https://n.news.naver.com/article/079/0004205795?ntype=RANKING",
+          "press": "노컷뉴스"
         }
       ],
       "related_titles": [
-        "장례식장에 검은 가죽 재킷…고 최불암 조문 김지영 ‘복장 논란’",
-        "\"고3 아들 데리러 갑니다. 다른 곳에 주차하세요\"…자리맡기 또 논란",
-        "\"고3 아들 데리러 간다\"…주차칸에 박스 놓고 자리 맡아 논란",
-        "연소득 1억 넘는 16만명도 대상? 소득 문턱 없앤 'K-민생지킴대출' 논란",
-        "“실격 처리해야” 샤이니 민호 마라톤 ‘페이스 메이커’ 논란…“등 미는 모습 포착”"
+        "[속보] WSJ “미국, 이란 호르무즈 요충지 게슘섬 타격”",
+        "선거 코앞 이란 공격한 美…“케슘섬 공격, 수주간 이어져”",
+        "美, 선거전날 이란 게슘섬 타격…\"선박 공격에 방어적 조치\"",
+        "WSJ \"미, 이란 호르무즈 요충지 게슘섬 타격‥방어적 조치\"",
+        "전쟁으로 연명 네타냐휴, 트럼프에 '이란 공격 재개' 애원"
       ],
-      "category": "사회/일반"
+      "category": "국제"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "주식",
-      "count": 7,
-      "representative_title": "[속보]주식 판 돈 다음날 받는다…'결제주기' 전환",
-      "representative_link": "https://n.news.naver.com/article/050/0000112718?ntype=RANKING",
-      "press": "한경비즈니스",
-      "related_articles": [
-        {
-          "title": "배우 이미숙 “집 날아갔다…늘그막에 왜 주식 뛰어들어가지고”",
-          "link": "https://n.news.naver.com/article/025/0003562390?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
-          "title": "\"주식 실패 때문이라더니\"...숨진 일본 여성, 발견 당시",
-          "link": "https://n.news.naver.com/article/018/0006402449?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "“13년 모은 결혼자금 5억, 주식 한번에 3억 날렸다”…아까워 못 팔고 부동산 가계약금도 잃어",
-          "link": "https://n.news.naver.com/article/030/0003481307?ntype=RANKING",
-          "press": "전자신문"
-        },
-        {
-          "title": "조원태, 한진칼 지분 370억 매입…종가보다 15% 싼 주식 누가 파나",
-          "link": "https://n.news.naver.com/article/119/0003150415?ntype=RANKING",
-          "press": "데일리안"
-        },
-        {
-          "title": "\"집 날아갔어, 늘그막에 주식 해서\"…이미숙 '한탄'",
-          "link": "https://n.news.naver.com/article/031/0001071584?ntype=RANKING",
-          "press": "아이뉴스24"
-        }
-      ],
-      "related_titles": [
-        "배우 이미숙 “집 날아갔다…늘그막에 왜 주식 뛰어들어가지고”",
-        "\"주식 실패 때문이라더니\"...숨진 일본 여성, 발견 당시",
-        "“13년 모은 결혼자금 5억, 주식 한번에 3억 날렸다”…아까워 못 팔고 부동산 가계약금도 잃어",
-        "조원태, 한진칼 지분 370억 매입…종가보다 15% 싼 주식 누가 파나",
-        "\"집 날아갔어, 늘그막에 주식 해서\"…이미숙 '한탄'"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 2,
-      "keyword": "투자",
+      "keyword": "만원",
       "count": 5,
-      "representative_title": "할리우드행 택한 韓 게임들…단기 수익보단 'IP 생명력' 투자",
-      "representative_link": "https://n.news.naver.com/article/293/0000092567?ntype=RANKING",
-      "press": "블로터",
+      "representative_title": "삼전 19만원·하닉 90만원까지?…전문가가 꼽은 추가 매수 시점",
+      "representative_link": "https://n.news.naver.com/article/088/0001037989?ntype=RANKING",
+      "press": "매일신문",
       "related_articles": [
         {
-          "title": "'상장 목전' 앤트로픽, 매출 12배 '폭등'...\"1200조원 AI 투자 약정\"",
-          "link": "https://n.news.naver.com/article/215/0001271428?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "美 중간선거 앞두고 월가 ‘머니무브’…韓 반도체 투자 흔드나 [호황의 시계①]",
-          "link": "https://n.news.naver.com/article/119/0003150439?ntype=RANKING",
-          "press": "데일리안"
-        },
-        {
-          "title": "할리우드행 택한 韓 게임들…단기 수익보단 'IP 생명력' 투자",
-          "link": "https://n.news.naver.com/article/293/0000092567?ntype=RANKING",
-          "press": "블로터"
-        },
-        {
-          "title": "“젊은 층 관심 커진 재개발 투자… 적어도 ‘조합설립인가’ 받은 곳 노려야”",
-          "link": "https://n.news.naver.com/article/037/0000039075?ntype=RANKING",
-          "press": "주간동아"
-        },
-        {
-          "title": "'상장 목전' 앤트로픽, 매출 12배 '폭등'...\"1200조원 AI 투자 약정\"",
-          "link": "https://n.news.naver.com/article/215/0001271428?ntype=RANKING",
-          "press": "한국경제TV"
-        }
-      ],
-      "related_titles": [
-        "'상장 목전' 앤트로픽, 매출 12배 '폭등'...\"1200조원 AI 투자 약정\"",
-        "美 중간선거 앞두고 월가 ‘머니무브’…韓 반도체 투자 흔드나 [호황의 시계①]",
-        "할리우드행 택한 韓 게임들…단기 수익보단 'IP 생명력' 투자",
-        "“젊은 층 관심 커진 재개발 투자… 적어도 ‘조합설립인가’ 받은 곳 노려야”",
-        "'상장 목전' 앤트로픽, 매출 12배 '폭등'...\"1200조원 AI 투자 약정\""
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 3,
-      "keyword": "삼성전자",
-      "count": 4,
-      "representative_title": "\"삼성전자, 2년간 1022조 번다…목표주가 60만원 유지\"[클릭e종목]",
-      "representative_link": "https://n.news.naver.com/article/277/0005837001?ntype=RANKING",
-      "press": "아시아경제",
-      "related_articles": [
-        {
-          "title": "\"삼성전자, 2년간 1022조 번다…목표주가 60만원 유지\"[클릭e종목]",
-          "link": "https://n.news.naver.com/article/277/0005837001?ntype=RANKING",
-          "press": "아시아경제"
+          "title": "\"삼성전자 19만원·SK하닉 90만원이 바닥\"...'손절' 말라는 전문가, \"이때 더 사라\"",
+          "link": "https://n.news.naver.com/article/014/0005598410?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
           "title": "\"성과급 71억5000만원 예상\"…삼성전자 직원, 40세 전 은퇴 고민 [어떻게 생각하세요]",
@@ -303,89 +229,156 @@
           "press": "파이낸셜뉴스"
         },
         {
-          "title": "\"성과급만 71억, 마흔 전 은퇴 새 삶 살고 싶다\"…삼성전자 직원 글 '갸웃'",
-          "link": "https://n.news.naver.com/article/421/0009263900?ntype=RANKING",
-          "press": "뉴스1"
+          "title": "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005349465?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "삼전 19만원·하닉 90만원까지?…전문가가 꼽은 추가 매수 시점",
+          "link": "https://n.news.naver.com/article/088/0001037989?ntype=RANKING",
+          "press": "매일신문"
         },
         {
           "title": "“내년 영업익 1110조인데”…KB증권, 삼성전자 목표가 60만원·SK하이닉스 350만원 유지",
           "link": "https://n.news.naver.com/article/138/0002246952?ntype=RANKING",
           "press": "디지털데일리"
-        },
-        {
-          "title": "\"삼성전자, 2년간 1022조 번다…목표주가 60만원 유지\"[클릭e종목]",
-          "link": "https://n.news.naver.com/article/277/0005837001?ntype=RANKING",
-          "press": "아시아경제"
         }
       ],
       "related_titles": [
-        "\"삼성전자, 2년간 1022조 번다…목표주가 60만원 유지\"[클릭e종목]",
+        "\"삼성전자 19만원·SK하닉 90만원이 바닥\"...'손절' 말라는 전문가, \"이때 더 사라\"",
         "\"성과급 71억5000만원 예상\"…삼성전자 직원, 40세 전 은퇴 고민 [어떻게 생각하세요]",
-        "\"성과급만 71억, 마흔 전 은퇴 새 삶 살고 싶다\"…삼성전자 직원 글 '갸웃'",
-        "“내년 영업익 1110조인데”…KB증권, 삼성전자 목표가 60만원·SK하이닉스 350만원 유지",
-        "\"삼성전자, 2년간 1022조 번다…목표주가 60만원 유지\"[클릭e종목]"
+        "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
+        "삼전 19만원·하닉 90만원까지?…전문가가 꼽은 추가 매수 시점",
+        "“내년 영업익 1110조인데”…KB증권, 삼성전자 목표가 60만원·SK하이닉스 350만원 유지"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "코스피",
+      "count": 4,
+      "representative_title": "코스피 7500 간다? 반도체 바닥은 언제…투자 구루의 답",
+      "representative_link": "https://n.news.naver.com/article/050/0000112748?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
+          "link": "https://n.news.naver.com/article/081/0003695119?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "“코스피 적정 가치는 7200, 공포에 질린 지금이 매수 적기”",
+          "link": "https://n.news.naver.com/article/023/0004007438?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "美 반도체 또 흔들리자 '삼전닉스' 급락…코스피, 3% 밀려 5600선",
+          "link": "https://n.news.naver.com/article/629/0000548078?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "코스피 7500 간다? 반도체 바닥은 언제…투자 구루의 답",
+          "link": "https://n.news.naver.com/article/050/0000112748?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
+          "link": "https://n.news.naver.com/article/081/0003695119?ntype=RANKING",
+          "press": "서울신문"
+        }
+      ],
+      "related_titles": [
+        "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
+        "“코스피 적정 가치는 7200, 공포에 질린 지금이 매수 적기”",
+        "美 반도체 또 흔들리자 '삼전닉스' 급락…코스피, 3% 밀려 5600선",
+        "코스피 7500 간다? 반도체 바닥은 언제…투자 구루의 답",
+        "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "종목",
+      "count": 4,
+      "representative_title": "“도저히 바닥이 안보여요”...기아 목표주가 ‘뚝’ [오늘, 이 종목]",
+      "representative_link": "https://n.news.naver.com/article/024/0000109330?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "한화오션 ‘불기둥’...잠수함 수평발사장치 국산화 성공 [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109340?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "“삼성전기 지금 살까요”…MLCC 공급 부족에 실적 개선 기대 [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109329?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "“도저히 바닥이 안보여요”...기아 목표주가 ‘뚝’ [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109330?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "한화오션 ‘불기둥’...잠수함 수평발사장치 국산화 성공 [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109340?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "“삼성전기 지금 살까요”…MLCC 공급 부족에 실적 개선 기대 [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109329?ntype=RANKING",
+          "press": "매경이코노미"
+        }
+      ],
+      "related_titles": [
+        "한화오션 ‘불기둥’...잠수함 수평발사장치 국산화 성공 [오늘, 이 종목]",
+        "“삼성전기 지금 살까요”…MLCC 공급 부족에 실적 개선 기대 [오늘, 이 종목]",
+        "“도저히 바닥이 안보여요”...기아 목표주가 ‘뚝’ [오늘, 이 종목]",
+        "한화오션 ‘불기둥’...잠수함 수평발사장치 국산화 성공 [오늘, 이 종목]",
+        "“삼성전기 지금 살까요”…MLCC 공급 부족에 실적 개선 기대 [오늘, 이 종목]"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "만원",
-      "count": 4,
-      "representative_title": "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
-      "representative_link": "https://n.news.naver.com/article/015/0005349465?ntype=RANKING",
-      "press": "한국경제",
-      "related_articles": [
-        {
-          "title": "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
-          "link": "https://n.news.naver.com/article/015/0005349465?ntype=RANKING",
-          "press": "한국경제"
-        },
-        {
-          "title": "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
-          "link": "https://n.news.naver.com/article/015/0005349465?ntype=RANKING",
-          "press": "한국경제"
-        },
-        {
-          "title": "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
-          "link": "https://n.news.naver.com/article/015/0005349465?ntype=RANKING",
-          "press": "한국경제"
-        }
-      ],
-      "related_titles": [
-        "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
-        "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]",
-        "8만원 넘보더니 한순간에 반토막 났다…개미들 '망연자실' [종목+]"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 5,
-      "keyword": "이미숙",
+      "keyword": "투자",
       "count": 3,
-      "representative_title": "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
-      "representative_link": "https://n.news.naver.com/article/081/0003695119?ntype=RANKING",
-      "press": "서울신문",
+      "representative_title": "방송 출연한 ‘부동산 투자 전문가’…알고 보니 125억 폰지사기",
+      "representative_link": "https://n.news.naver.com/article/056/0012286120?ntype=RANKING",
+      "press": "KBS",
       "related_articles": [
         {
-          "title": "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
-          "link": "https://n.news.naver.com/article/081/0003695119?ntype=RANKING",
-          "press": "서울신문"
+          "title": "방송 출연한 ‘부동산 투자 전문가’…알고 보니 125억 폰지사기",
+          "link": "https://n.news.naver.com/article/056/0012286120?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
-          "link": "https://n.news.naver.com/article/081/0003695119?ntype=RANKING",
-          "press": "서울신문"
+          "title": "“젊은 층 관심 커진 재개발 투자… 적어도 ‘조합설립인가’ 받은 곳 노려야”",
+          "link": "https://n.news.naver.com/article/037/0000039075?ntype=RANKING",
+          "press": "주간동아"
         },
         {
-          "title": "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
-          "link": "https://n.news.naver.com/article/081/0003695119?ntype=RANKING",
-          "press": "서울신문"
+          "title": "방송 출연한 ‘부동산 투자 전문가’…알고 보니 125억 폰지사기",
+          "link": "https://n.news.naver.com/article/056/0012286120?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "“젊은 층 관심 커진 재개발 투자… 적어도 ‘조합설립인가’ 받은 곳 노려야”",
+          "link": "https://n.news.naver.com/article/037/0000039075?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "방송 출연한 ‘부동산 투자 전문가’…알고 보니 125억 폰지사기",
+          "link": "https://n.news.naver.com/article/056/0012286120?ntype=RANKING",
+          "press": "KBS"
         }
       ],
       "related_titles": [
-        "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
-        "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]",
-        "이미숙 “늘그막에 주식해서 집 날려”…올해 번 돈 거의 토해낸 코스피 [내가샀다]"
+        "방송 출연한 ‘부동산 투자 전문가’…알고 보니 125억 폰지사기",
+        "“젊은 층 관심 커진 재개발 투자… 적어도 ‘조합설립인가’ 받은 곳 노려야”",
+        "방송 출연한 ‘부동산 투자 전문가’…알고 보니 125억 폰지사기",
+        "“젊은 층 관심 커진 재개발 투자… 적어도 ‘조합설립인가’ 받은 곳 노려야”",
+        "방송 출연한 ‘부동산 투자 전문가’…알고 보니 125억 폰지사기"
       ],
       "category": "주식/코인"
     }
@@ -431,26 +424,52 @@
     },
     {
       "rank": 2,
-      "keyword": "명가",
-      "series_title": "명가의 몰락",
-      "count": 1,
-      "representative_title": "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓",
-      "representative_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bjJ0LTlYMmJfaFFYMjVNd0Y0cUhyblNkM1Rid3gyeFNDRVNEeWN4eFY4QV9FTGlDRGpMbkFCek05cmx4S2NJSUFucURkWkRNSlVzQVFxTnI0UTFsS3R5TFpaLUZfVTJ1aTJVZUdn0gFzQVVfeXFMUDltNnJJd0NkV203emV3SVJNdXJSRFloU1NEUHNreGJTY2xhOGRGUkg1Qm0tdGtEdl9FQVAwaDdfU0pBcEU1eXZnR0J5VXNya0xtTl9yVEk5bXg2NU1ZekRrSnc1SFdtVUFXQmhIX2ozbzVMMA?oc=5",
+      "keyword": "영재",
+      "series_title": "영재의 몰락",
+      "count": 2,
+      "representative_title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bjJ0LTlYMmJfaFFYMjVNd0Y0cUhyblNkM1Rid3gyeFNDRVNEeWN4eFY4QV9FTGlDRGpMbkFCek05cmx4S2NJSUFucURkWkRNSlVzQVFxTnI0UTFsS3R5TFpaLUZfVTJ1aTJVZUdn0gFzQVVfeXFMUDltNnJJd0NkV203emV3SVJNdXJSRFloU1NEUHNreGJTY2xhOGRGUkg1Qm0tdGtEdl9FQVAwaDdfU0pBcEU1eXZnR0J5VXNya0xtTl9yVEk5bXg2NU1ZekRrSnc1SFdtVUFXQmhIX2ozbzVMMA?oc=5",
+          "title": "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzIwdjEtQm9hSUM4ZDBSZlVHdlhTVWZGR2cxVU9mc1JqcVBMeW53c184WExBX3dTSGJXWHUtRWJrMGlOaXh4QVNpY0Zja2JhaXBvcUxFdlBRd3I3Tk1QeGdBRGVRc29xRm1GWm9rQmVkaWU0cUhITmlyNDhGQ3VXNDloRdIBlwFBVV95cUxOQmRvNlhGR1B6M1NjdFZaakpNN0lzOWc0bzJMN0x0ZTJlblBsd0NwRmZ0N3dQYmROZzltX254b3A5Z2g4YS13N3MyTUp4MTJnRy1FTEJFYzA4bEZhaC1wdlI0ekNwN1ZlNGg0S0ZORWxkQWJHM2hjdmRaNkRycXJoMnFCWnVjZ2UwNUctRURDVzFIN20yX1hJ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uaDhVT0pLZ2cwamhKVlAtQ19Ud2E1aG1iWl9CVEVPVE9rWnhmdFRtVkNwUmItUzB0anp5UEZCR0wzaGItYXRJM05SN3owYWFNLUl3b2c1Tk55dw?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓"
+        "화이트해커 영재의 몰락… 불법 도박사이트 개설·해킹 혐의로 실형",
+        "컴퓨터 영재의 몰락…개인정보 빼돌려 팔고 도박사이트 개설"
       ],
       "category": "몰락"
     },
     {
       "rank": 3,
+      "keyword": "기업",
+      "series_title": "기업의 몰락",
+      "count": 1,
+      "representative_title": "주가 100배 폭등했던 탄소크레딧 기업의 몰락…EKI 창업자 증시 거래 금지",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aSzdlV0d4REI1V3Q4VUxYV3NncDdzR3MyRUZZMjFXTXZ5R25RWWd3a1lkOUlWVmhjNHRFQXk0dFhraDlFdUhaZ2VhQTF0Z1dnWlMwLXdYUGZfMEgxalo2MHNSMkwyRkVJdEE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "주가 100배 폭등했던 탄소크레딧 기업의 몰락…EKI 창업자 증시 거래 금지",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aSzdlV0d4REI1V3Q4VUxYV3NncDdzR3MyRUZZMjFXTXZ5R25RWWd3a1lkOUlWVmhjNHRFQXk0dFhraDlFdUhaZ2VhQTF0Z1dnWlMwLXdYUGZfMEgxalo2MHNSMkwyRkVJdEE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "주가 100배 폭등했던 탄소크레딧 기업의 몰락…EKI 창업자 증시 거래 금지"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
       "keyword": "사이버보안",
       "series_title": "사이버보안의 몰락",
       "count": 1,
@@ -470,42 +489,22 @@
       "category": "몰락"
     },
     {
-      "rank": 4,
-      "keyword": "제사장",
-      "series_title": "제사장의 몰락",
-      "count": 1,
-      "representative_title": "[아들아~] 제사장의 몰락..김어준 실화임?",
-      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VdWJ6VjJCU1pZdk85eFBiV2JpQWFuTE5COXlrbWc5enZFbE5zdmdmUkt0YU5OYVhWcnJMSDcxdXdYZkdHRzdaRDVpWGlzVDhGTXhQT3FxdFE3RGJ1LWtveUdYTmpFUU8zaS1abw?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "[아들아~] 제사장의 몰락..김어준 실화임?",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VdWJ6VjJCU1pZdk85eFBiV2JpQWFuTE5COXlrbWc5enZFbE5zdmdmUkt0YU5OYVhWcnJMSDcxdXdYZkdHRzdaRDVpWGlzVDhGTXhQT3FxdFE3RGJ1LWtveUdYTmpFUU8zaS1abw?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "[아들아~] 제사장의 몰락..김어준 실화임?"
-      ],
-      "category": "몰락"
-    },
-    {
       "rank": 5,
-      "keyword": "신화는",
-      "series_title": "신화는의 몰락",
+      "keyword": "명가",
+      "series_title": "명가의 몰락",
       "count": 1,
-      "representative_title": "SKY 졸업장 시대는 저물고 학벌 신화는 몰락....청년 고용시장에 비상",
-      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01RlVoLUVkY2tERmRlYV9WU2xKMUJFVUxISUhZaG1UMDFjNUhieThVZEZOTmV1NWRERHBPWmhzNTdpX3lCZ2U2ODgwUERiVmh2c1ViNmFNRDhxZUlPV2FDRnBtV2dGRmJT?oc=5",
+      "representative_title": "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓",
+      "representative_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bjJ0LTlYMmJfaFFYMjVNd0Y0cUhyblNkM1Rid3gyeFNDRVNEeWN4eFY4QV9FTGlDRGpMbkFCek05cmx4S2NJSUFucURkWkRNSlVzQVFxTnI0UTFsS3R5TFpaLUZfVTJ1aTJVZUdn0gFzQVVfeXFMUDltNnJJd0NkV203emV3SVJNdXJSRFloU1NEUHNreGJTY2xhOGRGUkg1Qm0tdGtEdl9FQVAwaDdfU0pBcEU1eXZnR0J5VXNya0xtTl9yVEk5bXg2NU1ZekRrSnc1SFdtVUFXQmhIX2ozbzVMMA?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "SKY 졸업장 시대는 저물고 학벌 신화는 몰락....청년 고용시장에 비상",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01RlVoLUVkY2tERmRlYV9WU2xKMUJFVUxISUhZaG1UMDFjNUhieThVZEZOTmV1NWRERHBPWmhzNTdpX3lCZ2U2ODgwUERiVmh2c1ViNmFNRDhxZUlPV2FDRnBtV2dGRmJT?oc=5",
+          "title": "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bjJ0LTlYMmJfaFFYMjVNd0Y0cUhyblNkM1Rid3gyeFNDRVNEeWN4eFY4QV9FTGlDRGpMbkFCek05cmx4S2NJSUFucURkWkRNSlVzQVFxTnI0UTFsS3R5TFpaLUZfVTJ1aTJVZUdn0gFzQVVfeXFMUDltNnJJd0NkV203emV3SVJNdXJSRFloU1NEUHNreGJTY2xhOGRGUkg1Qm0tdGtEdl9FQVAwaDdfU0pBcEU1eXZnR0J5VXNya0xtTl9yVEk5bXg2NU1ZekRrSnc1SFdtVUFXQmhIX2ozbzVMMA?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "SKY 졸업장 시대는 저물고 학벌 신화는 몰락....청년 고용시장에 비상"
+        "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓"
       ],
       "category": "몰락"
     }
@@ -514,11 +513,16 @@
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 3,
+      "count": 4,
       "representative_title": "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
       "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yMlRFV0hwc19HNE9BV0VzREZBa25KMS1vaFlyRWFfbER0b2dIR2tlQnJBVzJpQzBQVGtySWVnak1YOXYzSl9RMXBoSG92bXFkSVlwckYyMk9uZw?oc=5",
       "press": "",
       "related_articles": [
+        {
+          "title": "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByZS15X0ZiaVBJQzdMZVYwVHVwenhXVWZJanctWTBiT0V6ZXVqeHFhRVpFanhERFR0aFBBMnl5ZWd5MFVjRjFsRm54dmNPc1lnNWpJYmZ3?oc=5",
+          "press": ""
+        },
         {
           "title": "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yMlRFV0hwc19HNE9BV0VzREZBa25KMS1vaFlyRWFfbER0b2dIR2tlQnJBVzJpQzBQVGtySWVnak1YOXYzSl9RMXBoSG92bXFkSVlwckYyMk9uZw?oc=5",
@@ -536,6 +540,7 @@
         }
       ],
       "related_titles": [
+        "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승",
         "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
         "[부동산 리뷰] 90주 상승한 서울 집값, 12월부터 하락 반전하나",
         "[통계로 보는 부동산] 서울 집값 숨 고르는데 경기 남부 들썩…수원·군포·용인 강세"
