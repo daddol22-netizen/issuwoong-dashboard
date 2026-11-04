@@ -1,0 +1,615 @@
+{
+  "date": "2026-11-04",
+  "hour": "16",
+  "slot": "2026-11-04_16",
+  "crawled_at": "2026-11-04 16:00:00",
+  "total_articles": 407,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "트럼프",
+      "count": 45,
+      "representative_title": "트럼프 “중간선거 결과 수용…민주당과 협력할 것”",
+      "representative_link": "https://n.news.naver.com/article/449/0000366362?ntype=RANKING",
+      "press": "채널A",
+      "related_articles": [
+        {
+          "title": "트럼프 “중간선거 결과 전적 수용 의향…민주당과 협력”",
+          "link": "https://n.news.naver.com/article/056/0012287067?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "美 중간선거 흔든 ‘앵그리 트럼프’ 표심… 숨은 지지층보다 반대층 결집",
+          "link": "https://n.news.naver.com/article/366/0001202504?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "트럼프 “중간선거 결과 수용 의향…민주당과 협력할 것”",
+          "link": "https://n.news.naver.com/article/366/0001202494?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "민주, 20년만에 상·하원 동시 탈환…트럼프 남은 2년 '여소야대'(종합2보)",
+          "link": "https://n.news.naver.com/article/421/0009269853?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "[속보] 트럼프 \"중간선거 결과 수용 의향...민주당과 협력할 것\"",
+          "link": "https://n.news.naver.com/article/052/0002428208?ntype=RANKING",
+          "press": "YTN"
+        }
+      ],
+      "related_titles": [
+        "트럼프 “중간선거 결과 전적 수용 의향…민주당과 협력”",
+        "美 중간선거 흔든 ‘앵그리 트럼프’ 표심… 숨은 지지층보다 반대층 결집",
+        "트럼프 “중간선거 결과 수용 의향…민주당과 협력할 것”",
+        "민주, 20년만에 상·하원 동시 탈환…트럼프 남은 2년 '여소야대'(종합2보)",
+        "[속보] 트럼프 \"중간선거 결과 수용 의향...민주당과 협력할 것\""
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 2,
+      "keyword": "중간선거",
+      "count": 42,
+      "representative_title": "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+      "representative_link": "https://n.news.naver.com/article/023/0004007724?ntype=RANKING",
+      "press": "조선일보",
+      "related_articles": [
+        {
+          "title": "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+          "link": "https://n.news.naver.com/article/023/0004007724?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "역대급 중간선거, 결과는 언제쯤?...\"4년 전에는 한 달 걸려\"",
+          "link": "https://n.news.naver.com/article/052/0002428212?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "“저가 매수도 하지 마라” S&P500 10% 폭락 경고…美 중간선거 앞두고 월가 초긴장",
+          "link": "https://n.news.naver.com/article/011/0004678514?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "[美중간선거] '경합지' 캔자스·아이오와 상원, 민주당 승리 예측",
+          "link": "https://n.news.naver.com/article/001/0016421281?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "공화당 ‘비열한 비방 광고’ 역풍 불었나···민주당, 오하이오서 20년 만에 주지사 배출[미 중간선거]",
+          "link": "https://n.news.naver.com/article/032/0003480608?ntype=RANKING",
+          "press": "경향신문"
+        }
+      ],
+      "related_titles": [
+        "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+        "역대급 중간선거, 결과는 언제쯤?...\"4년 전에는 한 달 걸려\"",
+        "“저가 매수도 하지 마라” S&P500 10% 폭락 경고…美 중간선거 앞두고 월가 초긴장",
+        "[美중간선거] '경합지' 캔자스·아이오와 상원, 민주당 승리 예측",
+        "공화당 ‘비열한 비방 광고’ 역풍 불었나···민주당, 오하이오서 20년 만에 주지사 배출[미 중간선거]"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 3,
+      "keyword": "민주당",
+      "count": 36,
+      "representative_title": "미국 민주당 완승, 하원 물론 상원도 과반 예상",
+      "representative_link": "https://n.news.naver.com/article/047/0002534619?ntype=RANKING",
+      "press": "오마이뉴스",
+      "related_articles": [
+        {
+          "title": "‘보수 아성’ 무너졌다… 美 텍사스 주지사에 민주당 히노호사 당선",
+          "link": "https://n.news.naver.com/article/366/0001202514?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "미 주요 언론, 연방 하원 이어 상원도 민주당 승리 예측",
+          "link": "https://n.news.naver.com/article/366/0001202500?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "미 언론 \"민주당 하원 다수당 탈환\"...한국계 댄 고 하원 당선",
+          "link": "https://n.news.naver.com/article/052/0002428211?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "[속보] 美 메인주 상원의원 선거서 민주당 승리 예측",
+          "link": "https://n.news.naver.com/article/001/0016421426?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[속보]민주당 ‘제주 고씨’ 댄 고, 매사추세츠 하원의원 당선···바이든 시절 백악관 근무",
+          "link": "https://n.news.naver.com/article/032/0003480588?ntype=RANKING",
+          "press": "경향신문"
+        }
+      ],
+      "related_titles": [
+        "‘보수 아성’ 무너졌다… 美 텍사스 주지사에 민주당 히노호사 당선",
+        "미 주요 언론, 연방 하원 이어 상원도 민주당 승리 예측",
+        "미 언론 \"민주당 하원 다수당 탈환\"...한국계 댄 고 하원 당선",
+        "[속보] 美 메인주 상원의원 선거서 민주당 승리 예측",
+        "[속보]민주당 ‘제주 고씨’ 댄 고, 매사추세츠 하원의원 당선···바이든 시절 백악관 근무"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 4,
+      "keyword": "하원",
+      "count": 33,
+      "representative_title": "“美민주, 20년 만에 상·하원 모두 승리”",
+      "representative_link": "https://n.news.naver.com/article/023/0004007715?ntype=RANKING",
+      "press": "조선일보",
+      "related_articles": [
+        {
+          "title": "‘블루 쓰나미’ 현실되나…민주 4년 만에 하원 탈환·상원도 우세",
+          "link": "https://n.news.naver.com/article/056/0012287064?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "美민주 상·하원 다수당 탈환 확실시…'블루 쓰나미' 목전(종합)",
+          "link": "https://n.news.naver.com/article/421/0009269654?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "“美민주, 20년 만에 상·하원 모두 승리”",
+          "link": "https://n.news.naver.com/article/023/0004007715?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "[속보] CNN \"미 민주, 연방 하원 이어 상원도 승리 예측\"",
+          "link": "https://n.news.naver.com/article/052/0002428217?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "[속보] 美민주, 연방 하원 이어 상원도 승리 예측",
+          "link": "https://n.news.naver.com/article/422/0000922790?ntype=RANKING",
+          "press": "연합뉴스TV"
+        }
+      ],
+      "related_titles": [
+        "‘블루 쓰나미’ 현실되나…민주 4년 만에 하원 탈환·상원도 우세",
+        "美민주 상·하원 다수당 탈환 확실시…'블루 쓰나미' 목전(종합)",
+        "“美민주, 20년 만에 상·하원 모두 승리”",
+        "[속보] CNN \"미 민주, 연방 하원 이어 상원도 승리 예측\"",
+        "[속보] 美민주, 연방 하원 이어 상원도 승리 예측"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "민주",
+      "count": 23,
+      "representative_title": "美민주 상원 탈환…공화 텃밭 뒤집으며 트럼프에 제동",
+      "representative_link": "https://n.news.naver.com/article/018/0006403557?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "美 민주, 상원 탈환도 성공…텍사스·오하이오·캔자스·아이오와도 이겼다 [이상은의 워싱턴나우]",
+          "link": "https://n.news.naver.com/article/015/0005350136?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "美민주 상원 탈환…공화 텃밭 뒤집으며 트럼프에 제동",
+          "link": "https://n.news.naver.com/article/018/0006403557?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "美 민주, 상원 탈환도 성공…텍사스·오하이오·캔자스·아이오와도 이겼다 [이상은의 워싱턴나우]",
+        "美민주 상원 탈환…공화 텃밭 뒤집으며 트럼프에 제동"
+      ],
+      "category": "사회/일반"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "삼성전자",
+      "count": 11,
+      "representative_title": "“더 이상은 안 돼”…삼성전자, 단단히 뿔났다",
+      "representative_link": "https://n.news.naver.com/article/050/0000112783?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "칠순 손영권 삼성전자 고문, 25세 연하 모델 김자연과 결혼",
+          "link": "https://n.news.naver.com/article/422/0000922721?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "25세 연하 모델과 결혼한 70세 삼성전자 전 사장…러브스토리 깜짝",
+          "link": "https://n.news.naver.com/article/025/0003562685?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "\"삼성전자 40% 빠졌는데 반전 온다?\"…증권가서 나온 '파격 전망'",
+          "link": "https://n.news.naver.com/article/277/0005837800?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "45세 前슈퍼모델 김자연, 70세 손영권 삼성전자 고문과 결혼",
+          "link": "https://n.news.naver.com/article/020/0003759767?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "70세 전 삼성전자 사장, 25세 연하 모델과 결혼…김자연 \"키 큰 저를 귀여워해\"",
+          "link": "https://n.news.naver.com/article/082/0001405563?ntype=RANKING",
+          "press": "부산일보"
+        }
+      ],
+      "related_titles": [
+        "칠순 손영권 삼성전자 고문, 25세 연하 모델 김자연과 결혼",
+        "25세 연하 모델과 결혼한 70세 삼성전자 전 사장…러브스토리 깜짝",
+        "\"삼성전자 40% 빠졌는데 반전 온다?\"…증권가서 나온 '파격 전망'",
+        "45세 前슈퍼모델 김자연, 70세 손영권 삼성전자 고문과 결혼",
+        "70세 전 삼성전자 사장, 25세 연하 모델과 결혼…김자연 \"키 큰 저를 귀여워해\""
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "중간선거",
+      "count": 4,
+      "representative_title": "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+      "representative_link": "https://n.news.naver.com/article/023/0004007724?ntype=RANKING",
+      "press": "조선일보",
+      "related_articles": [
+        {
+          "title": "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+          "link": "https://n.news.naver.com/article/023/0004007724?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "“저가 매수도 하지 마라” S&P500 10% 폭락 경고…美 중간선거 앞두고 월가 초긴장",
+          "link": "https://n.news.naver.com/article/011/0004678514?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "美 중간선거 '블루웨이브'에 증시 출렁…코스피 3.5%대 '급락' [주가동향]",
+          "link": "https://n.news.naver.com/article/123/0002393314?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "“저가 매수도 하지 마라” S&P500 10% 폭락 경고…美 중간선거 앞두고 월가 초긴장",
+          "link": "https://n.news.naver.com/article/011/0004678514?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+          "link": "https://n.news.naver.com/article/023/0004007724?ntype=RANKING",
+          "press": "조선일보"
+        }
+      ],
+      "related_titles": [
+        "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+        "“저가 매수도 하지 마라” S&P500 10% 폭락 경고…美 중간선거 앞두고 월가 초긴장",
+        "美 중간선거 '블루웨이브'에 증시 출렁…코스피 3.5%대 '급락' [주가동향]",
+        "“저가 매수도 하지 마라” S&P500 10% 폭락 경고…美 중간선거 앞두고 월가 초긴장",
+        "美 역대 중간선거…1년 뒤 주가 10% 이상 상승"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "코스피",
+      "count": 4,
+      "representative_title": "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”",
+      "representative_link": "https://n.news.naver.com/article/024/0000109378?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”",
+          "link": "https://n.news.naver.com/article/024/0000109378?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”",
+          "link": "https://n.news.naver.com/article/024/0000109378?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”",
+          "link": "https://n.news.naver.com/article/024/0000109378?ntype=RANKING",
+          "press": "매경이코노미"
+        }
+      ],
+      "related_titles": [
+        "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”",
+        "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”",
+        "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "하이닉스",
+      "count": 4,
+      "representative_title": "“하이닉스 70% 수익이 본전으로”…그때 왜 못 팔았을까",
+      "representative_link": "https://n.news.naver.com/article/262/0000019812?ntype=RANKING",
+      "press": "신동아",
+      "related_articles": [
+        {
+          "title": "“하이닉스 70% 수익이 본전으로”…그때 왜 못 팔았을까",
+          "link": "https://n.news.naver.com/article/262/0000019812?ntype=RANKING",
+          "press": "신동아"
+        },
+        {
+          "title": "“하이닉스 70% 수익이 본전으로”…그때 왜 못 팔았을까",
+          "link": "https://n.news.naver.com/article/262/0000019812?ntype=RANKING",
+          "press": "신동아"
+        },
+        {
+          "title": "“하이닉스 70% 수익이 본전으로”…그때 왜 못 팔았을까",
+          "link": "https://n.news.naver.com/article/262/0000019812?ntype=RANKING",
+          "press": "신동아"
+        }
+      ],
+      "related_titles": [
+        "“하이닉스 70% 수익이 본전으로”…그때 왜 못 팔았을까",
+        "“하이닉스 70% 수익이 본전으로”…그때 왜 못 팔았을까",
+        "“하이닉스 70% 수익이 본전으로”…그때 왜 못 팔았을까"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "주가",
+      "count": 3,
+      "representative_title": "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+      "representative_link": "https://n.news.naver.com/article/037/0000039080?ntype=RANKING",
+      "press": "주간동아",
+      "related_articles": [
+        {
+          "title": "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+          "link": "https://n.news.naver.com/article/037/0000039080?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+          "link": "https://n.news.naver.com/article/037/0000039080?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+          "link": "https://n.news.naver.com/article/037/0000039080?ntype=RANKING",
+          "press": "주간동아"
+        }
+      ],
+      "related_titles": [
+        "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+        "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+        "주가 하락하면 서울 집값도 떨어졌다… 이번엔?"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 3,
+      "representative_title": "“이재명 정권 몰락의 카운트다운 시작”",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdXZkR0lvdEdEdEFTNUtmZEhDc0tnMVpUZ1h5dXQzUWJfRjJvT2YzZlZBYUpES21FdVpLQmZMZGVYbTRHdld2ZTNGYkJkeTlFdjJFN3FR?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "국민의힘 “조희대 죽이기가 민생? 이재명 정권 몰락 카운트다운 시작돼”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vNnlEQldfRkRNTmNYRndwVk0tbjhIWFpNRlBDTkFwQkh3Q0Njb1RtMjljeUxOaFNMcjRrVjFLWHV3aHE1a0VGMHBnUzNCZjFFdVVSUUlvQ21CWFk5ZEwwbFFhYlhJcnJzNHc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“이재명 정권 몰락의 카운트다운 시작”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdXZkR0lvdEdEdEFTNUtmZEhDc0tnMVpUZ1h5dXQzUWJfRjJvT2YzZlZBYUpES21FdVpLQmZMZGVYbTRHdld2ZTNGYkJkeTlFdjJFN3FR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "국힘 \"이재명 정권 몰락 카운트다운 시작…조희대 죽이기 광기\"",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3JhS3VUZ3RlMmFodFplRV9rcDlPY2NDcnE0b0RNVXQ5X1ZHWlFqejUzLV9QSUNKbFgxdXFac2E5eXVCZmFmcldUMVFWMUMwSE5OUE91aF93YVk0amNEbzlKcEJTQ0N5WU9xRDM1ZmFOMnlKOHFuTjlraXdqN28xRw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "국민의힘 “조희대 죽이기가 민생? 이재명 정권 몰락 카운트다운 시작돼”",
+        "“이재명 정권 몰락의 카운트다운 시작”",
+        "국힘 \"이재명 정권 몰락 카운트다운 시작…조희대 죽이기 광기\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "유럽",
+      "series_title": "유럽의 몰락",
+      "count": 1,
+      "representative_title": "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TXZkNVA3SEJOM1d0c2xwYThVdXBDem1DdFEybjhabTNDenNUcHhKdU1iUld5bzZlV1FzV2RCYVJDdXBCaUhVSmhOT3RJZ24zdHhOalI5Qzlha0cxeE04VmRVYnNxdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TXZkNVA3SEJOM1d0c2xwYThVdXBDem1DdFEybjhabTNDenNUcHhKdU1iUld5bzZlV1FzV2RCYVJDdXBCaUhVSmhOT3RJZ24zdHhOalI5Qzlha0cxeE04VmRVYnNxdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "등으로",
+      "series_title": "등으로의 몰락",
+      "count": 1,
+      "representative_title": "이동섭 일진글로벌 회장, 일진 주식 취득액 4741억원으로 3위....하청기업들은 부도 등으로 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44bndKR1dUaVJmY29sOU8tQlJ5V1hGMk5VLWNDNlRSQmYyc3hJVVJmUUtGUWt2S3VPQ090LWNVLVlVV3g4SFNPMVpKNUNONks0Q2Z5Vm9Ga0lyOV9xLUNybG1Ddw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "이동섭 일진글로벌 회장, 일진 주식 취득액 4741억원으로 3위....하청기업들은 부도 등으로 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44bndKR1dUaVJmY29sOU8tQlJ5V1hGMk5VLWNDNlRSQmYyc3hJVVJmUUtGUWt2S3VPQ090LWNVLVlVV3g4SFNPMVpKNUNONks0Q2Z5Vm9Ga0lyOV9xLUNybG1Ddw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "이동섭 일진글로벌 회장, 일진 주식 취득액 4741억원으로 3위....하청기업들은 부도 등으로 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "사이버보안",
+      "series_title": "사이버보안의 몰락",
+      "count": 1,
+      "representative_title": "[보안칼럼] 인간중심 사이버보안의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWWtqUTRxMUJHQU8zeVRhLXBIbGNEbHFobno3NmVuOW5lTDRCVVdCSGZLaDN0NXJMM2VBSGxBVUtBT1dDYTM2anJVYVVuaGhRMkZpYmx3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[보안칼럼] 인간중심 사이버보안의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWWtqUTRxMUJHQU8zeVRhLXBIbGNEbHFobno3NmVuOW5lTDRCVVdCSGZLaDN0NXJMM2VBSGxBVUtBT1dDYTM2anJVYVVuaGhRMkZpYmx3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[보안칼럼] 인간중심 사이버보안의 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "명가",
+      "series_title": "명가의 몰락",
+      "count": 1,
+      "representative_title": "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓",
+      "representative_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bjJ0LTlYMmJfaFFYMjVNd0Y0cUhyblNkM1Rid3gyeFNDRVNEeWN4eFY4QV9FTGlDRGpMbkFCek05cmx4S2NJSUFucURkWkRNSlVzQVFxTnI0UTFsS3R5TFpaLUZfVTJ1aTJVZUdn0gFzQVVfeXFMUDltNnJJd0NkV203emV3SVJNdXJSRFloU1NEUHNreGJTY2xhOGRGUkg1Qm0tdGtEdl9FQVAwaDdfU0pBcEU1eXZnR0J5VXNya0xtTl9yVEk5bXg2NU1ZekRrSnc1SFdtVUFXQmhIX2ozbzVMMA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bjJ0LTlYMmJfaFFYMjVNd0Y0cUhyblNkM1Rid3gyeFNDRVNEeWN4eFY4QV9FTGlDRGpMbkFCek05cmx4S2NJSUFucURkWkRNSlVzQVFxTnI0UTFsS3R5TFpaLUZfVTJ1aTJVZUdn0gFzQVVfeXFMUDltNnJJd0NkV203emV3SVJNdXJSRFloU1NEUHNreGJTY2xhOGRGUkg1Qm0tdGtEdl9FQVAwaDdfU0pBcEU1eXZnR0J5VXNya0xtTl9yVEk5bXg2NU1ZekRrSnc1SFdtVUFXQmhIX2ozbzVMMA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 5,
+      "representative_title": "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yMlRFV0hwc19HNE9BV0VzREZBa25KMS1vaFlyRWFfbER0b2dIR2tlQnJBVzJpQzBQVGtySWVnak1YOXYzSl9RMXBoSG92bXFkSVlwckYyMk9uZw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "李 “서울 아파트 매물 급증…집값 놀라울 정도로 떨어지고 있다”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53RHQ5dVdOd1JlbkxndXdyQzR6dTVRVTI3R2N1MUstNEF0RkQ0VDhhTE9ZRUkzNGRnMHdHeXN5ZVJsbVp5SWJkeFZWY3k3MHo5R0w4RkdB?oc=5",
+          "press": ""
+        },
+        {
+          "title": "李대통령 \"서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져\"",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXNUT0NUdkNSTFlpSXo0UTNUc2dEbnVBdkRaQ2RiSThLWTV1dzBxOGpfdFNrbXU1eWsxeE9tT1lDOUdCSWdKU2JTVVJQWTB0YTRMZ1VtX2thdjdCNmZjTjZmem40d2VUeHU1TTdfY3FvRm41anpRZXZ4ZXE1Y2NVLUw1Ry1EV01M?oc=5",
+          "press": ""
+        },
+        {
+          "title": "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByZS15X0ZiaVBJQzdMZVYwVHVwenhXVWZJanctWTBiT0V6ZXVqeHFhRVpFanhERFR0aFBBMnl5ZWd5MFVjRjFsRm54dmNPc1lnNWpJYmZ3?oc=5",
+          "press": ""
+        },
+        {
+          "title": "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yMlRFV0hwc19HNE9BV0VzREZBa25KMS1vaFlyRWFfbER0b2dIR2tlQnJBVzJpQzBQVGtySWVnak1YOXYzSl9RMXBoSG92bXFkSVlwckYyMk9uZw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ib3VMdGJtaW5ad1F4bmFZOTdFaFF2M3dRZjEyVnFOTXVtU000Z0RlRjVvSGZ1eEJmYzRMblE1YUgxbjAzMkhEUllGUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "李 “서울 아파트 매물 급증…집값 놀라울 정도로 떨어지고 있다”",
+        "李대통령 \"서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져\"",
+        "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승",
+        "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
+        "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "놀라울",
+      "count": 4,
+      "representative_title": "[팩트체크] 李대통령 “집값 놀라울 정도로 떨어져”…사실일까?",
+      "representative_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tekcxaUhZWjdseXprcktFNDlLTlNKc1N6VWttNEc1X2F5TmRKd2FMN29Ya0pBZmE3d3dMRzBOT1RzbkNic3ZDbGlJa1Q4bHczOWJaRUp0OUxJclEteGVyS2pBb2N6OEhfbU9oWUhWY9IBc0FVX3lxTE9IY0hEdlE5N3FTZXU4NWY5Tk91MUhINXVOMWZYTm1tbTI3Z2lOQmo5LVlyMEctbklOd0VzQUQ3ZEhyOGVwcnh6YmlFQmI2bzZsYXZfeExPRXNBZi1NR2NzVFgxUEhlQkNXSGVRd0NkUWtIcG8?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[팩트체크] 李대통령 “집값 놀라울 정도로 떨어져”…사실일까?",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tekcxaUhZWjdseXprcktFNDlLTlNKc1N6VWttNEc1X2F5TmRKd2FMN29Ya0pBZmE3d3dMRzBOT1RzbkNic3ZDbGlJa1Q4bHczOWJaRUp0OUxJclEteGVyS2pBb2N6OEhfbU9oWUhWY9IBc0FVX3lxTE9IY0hEdlE5N3FTZXU4NWY5Tk91MUhINXVOMWZYTm1tbTI3Z2lOQmo5LVlyMEctbklOd0VzQUQ3ZEhyOGVwcnh6YmlFQmI2bzZsYXZfeExPRXNBZi1NR2NzVFgxUEhlQkNXSGVRd0NkUWtIcG8?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[팩트체크] 李대통령 “집값 놀라울 정도로 떨어져”…사실일까?"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "통계",
+      "count": 2,
+      "representative_title": "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeWVfYXpGUUhxU2VMZGdGT0ZCMnFhVUNUSmhnUTRFeEYtc2M3dnluMnVycXdRS0k3SmFkbnNObFlSb2JWeVNFR2VOSEJUVzVleTJmZS1kN01OUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeWVfYXpGUUhxU2VMZGdGT0ZCMnFhVUNUSmhnUTRFeEYtc2M3dnluMnVycXdRS0k3SmFkbnNObFlSb2JWeVNFR2VOSEJUVzVleTJmZS1kN01OUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZTkMwUEo5SEZJUE5XZjdYejUzVkFXaW5zbjdpT1E3WDVEUXl3SC15dXRhQXJDekhMVzRLQVktQ0Jrcm9wRlE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
+        "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "품은",
+      "count": 2,
+      "representative_title": "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hSENsb0VNZVlRWDEtek1tUTZxU1dWTW1qV25KLXZhR1FLUWp4SHJ1LWx2ODl6ZEpZblFTRG5hcExfNmF6QVFFQ2s1eExvRGRyWnJJQmZ1VTU2Zw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“10년 후 집값 ‘여기’가 뜬다”…부동산 전문가가 콕 집은 호재 품은 동네는 바로",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wM0pRdERqNzdTSGFjMDFTOXBLanFjRVI3cnBCNko2X2E5eE1XS1JSMlZrRjZ2X1ZIS1hQci1HTmZoQllva1JRcmEyTHBWTUZIUXfSAVNBVV95cUxPVnhaSGFtamtPUjBCMGpoeEZEVEtSNTMzNk1kU2tiaDdmV3hXR1pVU2FwOVkzazdYanRPaUt6TWJBaTlmWEVoSHVEY1VWOFY5Q3hCRQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hSENsb0VNZVlRWDEtek1tUTZxU1dWTW1qV25KLXZhR1FLUWp4SHJ1LWx2ODl6ZEpZblFTRG5hcExfNmF6QVFFQ2s1eExvRGRyWnJJQmZ1VTU2Zw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“10년 후 집값 ‘여기’가 뜬다”…부동산 전문가가 콕 집은 호재 품은 동네는 바로",
+        "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'"
+      ],
+      "category": "부동산"
+    }
+  ]
+}

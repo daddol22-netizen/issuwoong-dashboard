@@ -1,198 +1,204 @@
 {
   "date": "2026-11-04",
-  "hour": "13",
-  "slot": "2026-11-04_13",
-  "crawled_at": "2026-11-04 13:00:04",
+  "hour": "16",
+  "slot": "2026-11-04_16",
+  "crawled_at": "2026-11-04 16:00:00",
   "total_articles": 407,
   "topics": [
     {
       "rank": 1,
-      "keyword": "중간선거",
-      "count": 27,
-      "representative_title": "미 중간선거 투표 막바지…이 시각 개표 상황은?",
-      "representative_link": "https://n.news.naver.com/article/056/0012286907?ntype=RANKING",
-      "press": "KBS",
+      "keyword": "트럼프",
+      "count": 45,
+      "representative_title": "트럼프 “중간선거 결과 수용…민주당과 협력할 것”",
+      "representative_link": "https://n.news.naver.com/article/449/0000366362?ntype=RANKING",
+      "press": "채널A",
       "related_articles": [
         {
-          "title": "[美중간선거]공화 텃밭 텍사스·캔자스 '흔들'…민주 경합주 초반 우세",
-          "link": "https://n.news.naver.com/article/421/0009269378?ntype=RANKING",
-          "press": "뉴스1"
-        },
-        {
-          "title": "중간선거 투표 진행‥\"민주 승리확률 하원 96%, 상원 78%\"",
-          "link": "https://n.news.naver.com/article/214/0001533400?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "미 중간선거 투표 막바지…이 시각 개표 상황은?",
-          "link": "https://n.news.naver.com/article/056/0012286907?ntype=RANKING",
+          "title": "트럼프 “중간선거 결과 전적 수용 의향…민주당과 협력”",
+          "link": "https://n.news.naver.com/article/056/0012287067?ntype=RANKING",
           "press": "KBS"
         },
         {
-          "title": "폭스뉴스 개표 방송 보던 트럼프, SNS서 불만 폭발···“진행자 거슬리니 다른 데 좀 다녀올게”[미 중간선거]",
-          "link": "https://n.news.naver.com/article/032/0003480559?ntype=RANKING",
-          "press": "경향신문"
+          "title": "美 중간선거 흔든 ‘앵그리 트럼프’ 표심… 숨은 지지층보다 반대층 결집",
+          "link": "https://n.news.naver.com/article/366/0001202504?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "[르포]\"대통령 한 명 바꿨더니 모든 게 비싸져\"…투표장서 쏟아진 고물가 불만[美 중간선거]",
-          "link": "https://n.news.naver.com/article/277/0005837623?ntype=RANKING",
-          "press": "아시아경제"
+          "title": "트럼프 “중간선거 결과 수용 의향…민주당과 협력할 것”",
+          "link": "https://n.news.naver.com/article/366/0001202494?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "민주, 20년만에 상·하원 동시 탈환…트럼프 남은 2년 '여소야대'(종합2보)",
+          "link": "https://n.news.naver.com/article/421/0009269853?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "[속보] 트럼프 \"중간선거 결과 수용 의향...민주당과 협력할 것\"",
+          "link": "https://n.news.naver.com/article/052/0002428208?ntype=RANKING",
+          "press": "YTN"
         }
       ],
       "related_titles": [
-        "[美중간선거]공화 텃밭 텍사스·캔자스 '흔들'…민주 경합주 초반 우세",
-        "중간선거 투표 진행‥\"민주 승리확률 하원 96%, 상원 78%\"",
-        "미 중간선거 투표 막바지…이 시각 개표 상황은?",
-        "폭스뉴스 개표 방송 보던 트럼프, SNS서 불만 폭발···“진행자 거슬리니 다른 데 좀 다녀올게”[미 중간선거]",
-        "[르포]\"대통령 한 명 바꿨더니 모든 게 비싸져\"…투표장서 쏟아진 고물가 불만[美 중간선거]"
+        "트럼프 “중간선거 결과 전적 수용 의향…민주당과 협력”",
+        "美 중간선거 흔든 ‘앵그리 트럼프’ 표심… 숨은 지지층보다 반대층 결집",
+        "트럼프 “중간선거 결과 수용 의향…민주당과 협력할 것”",
+        "민주, 20년만에 상·하원 동시 탈환…트럼프 남은 2년 '여소야대'(종합2보)",
+        "[속보] 트럼프 \"중간선거 결과 수용 의향...민주당과 협력할 것\""
       ],
       "category": "정치"
     },
     {
       "rank": 2,
-      "keyword": "대통령",
-      "count": 25,
-      "representative_title": "갈등 진원지 된 대통령 SNS, 이대로 괜찮나",
-      "representative_link": "https://n.news.naver.com/article/127/0000040001?ntype=RANKING",
-      "press": "기자협회보",
+      "keyword": "중간선거",
+      "count": 42,
+      "representative_title": "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+      "representative_link": "https://n.news.naver.com/article/023/0004007724?ntype=RANKING",
+      "press": "조선일보",
       "related_articles": [
         {
-          "title": "이 대통령, \"집값 폭락 발언\" 보도에 \"가짜뉴스\" 반박",
-          "link": "https://n.news.naver.com/article/214/0001533424?ntype=RANKING",
-          "press": "MBC"
+          "title": "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+          "link": "https://n.news.naver.com/article/023/0004007724?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "\"대통령 혼자 딴 세상 사나\"…李 '집값 하락론' 후폭풍",
-          "link": "https://n.news.naver.com/article/586/0000141522?ntype=RANKING",
-          "press": "시사저널"
+          "title": "역대급 중간선거, 결과는 언제쯤?...\"4년 전에는 한 달 걸려\"",
+          "link": "https://n.news.naver.com/article/052/0002428212?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "이 대통령 “서울 집값 발언, 강남만 맞았다는 것도 가짜뉴스”",
-          "link": "https://n.news.naver.com/article/028/0002830612?ntype=RANKING",
-          "press": "한겨레"
+          "title": "“저가 매수도 하지 마라” S&P500 10% 폭락 경고…美 중간선거 앞두고 월가 초긴장",
+          "link": "https://n.news.naver.com/article/011/0004678514?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "\"'집값 폭락 중' 발언은 가짜뉴스\"...이 대통령 \"직접 인용 표시 안 돼\"",
-          "link": "https://n.news.naver.com/article/437/0000519034?ntype=RANKING",
-          "press": "JTBC"
+          "title": "[美중간선거] '경합지' 캔자스·아이오와 상원, 민주당 승리 예측",
+          "link": "https://n.news.naver.com/article/001/0016421281?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "이 대통령 \"폭락 걱정하는 쪽도\"…오세훈 \"딴 세상 사시나\"",
-          "link": "https://n.news.naver.com/article/665/0000008487?ntype=RANKING",
-          "press": "더스쿠프"
+          "title": "공화당 ‘비열한 비방 광고’ 역풍 불었나···민주당, 오하이오서 20년 만에 주지사 배출[미 중간선거]",
+          "link": "https://n.news.naver.com/article/032/0003480608?ntype=RANKING",
+          "press": "경향신문"
         }
       ],
       "related_titles": [
-        "이 대통령, \"집값 폭락 발언\" 보도에 \"가짜뉴스\" 반박",
-        "\"대통령 혼자 딴 세상 사나\"…李 '집값 하락론' 후폭풍",
-        "이 대통령 “서울 집값 발언, 강남만 맞았다는 것도 가짜뉴스”",
-        "\"'집값 폭락 중' 발언은 가짜뉴스\"...이 대통령 \"직접 인용 표시 안 돼\"",
-        "이 대통령 \"폭락 걱정하는 쪽도\"…오세훈 \"딴 세상 사시나\""
+        "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+        "역대급 중간선거, 결과는 언제쯤?...\"4년 전에는 한 달 걸려\"",
+        "“저가 매수도 하지 마라” S&P500 10% 폭락 경고…美 중간선거 앞두고 월가 초긴장",
+        "[美중간선거] '경합지' 캔자스·아이오와 상원, 민주당 승리 예측",
+        "공화당 ‘비열한 비방 광고’ 역풍 불었나···민주당, 오하이오서 20년 만에 주지사 배출[미 중간선거]"
       ],
       "category": "정치"
     },
     {
       "rank": 3,
-      "keyword": "트럼프",
-      "count": 24,
-      "representative_title": "美 민주당 오소프, 트럼프 지지 후보 꺾고 재선",
-      "representative_link": "https://n.news.naver.com/article/629/0000548566?ntype=RANKING",
-      "press": "더팩트",
+      "keyword": "민주당",
+      "count": 36,
+      "representative_title": "미국 민주당 완승, 하원 물론 상원도 과반 예상",
+      "representative_link": "https://n.news.naver.com/article/047/0002534619?ntype=RANKING",
+      "press": "오마이뉴스",
       "related_articles": [
         {
-          "title": "열폭한 트럼프…폭스 개표방송 보다 “이러니 시청률 폭락” 맹비난 [1일1트]",
-          "link": "https://n.news.naver.com/article/016/0002718591?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "‘보수 아성’ 무너졌다… 美 텍사스 주지사에 민주당 히노호사 당선",
+          "link": "https://n.news.naver.com/article/366/0001202514?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "美 출구조사 “트럼프 반대 표명하려 투표” 43%",
-          "link": "https://n.news.naver.com/article/020/0003759950?ntype=RANKING",
-          "press": "동아일보"
+          "title": "미 주요 언론, 연방 하원 이어 상원도 민주당 승리 예측",
+          "link": "https://n.news.naver.com/article/366/0001202500?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "트럼프, 폭스뉴스 개표방송에 '극대노'…\"이러니 시청률 폭락\"",
-          "link": "https://n.news.naver.com/article/057/0001976638?ntype=RANKING",
-          "press": "MBN"
+          "title": "미 언론 \"민주당 하원 다수당 탈환\"...한국계 댄 고 하원 당선",
+          "link": "https://n.news.naver.com/article/052/0002428211?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "트럼프 “인플레 해결됐다…선거결과 생각보다 좋을 것”",
-          "link": "https://n.news.naver.com/article/029/0003056981?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "[속보] 美 메인주 상원의원 선거서 민주당 승리 예측",
+          "link": "https://n.news.naver.com/article/001/0016421426?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "트럼프 승리한 조지아서 민주당 오소프 재선…상원 탈환 청신호",
-          "link": "https://n.news.naver.com/article/014/0005599141?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "[속보]민주당 ‘제주 고씨’ 댄 고, 매사추세츠 하원의원 당선···바이든 시절 백악관 근무",
+          "link": "https://n.news.naver.com/article/032/0003480588?ntype=RANKING",
+          "press": "경향신문"
         }
       ],
       "related_titles": [
-        "열폭한 트럼프…폭스 개표방송 보다 “이러니 시청률 폭락” 맹비난 [1일1트]",
-        "美 출구조사 “트럼프 반대 표명하려 투표” 43%",
-        "트럼프, 폭스뉴스 개표방송에 '극대노'…\"이러니 시청률 폭락\"",
-        "트럼프 “인플레 해결됐다…선거결과 생각보다 좋을 것”",
-        "트럼프 승리한 조지아서 민주당 오소프 재선…상원 탈환 청신호"
+        "‘보수 아성’ 무너졌다… 美 텍사스 주지사에 민주당 히노호사 당선",
+        "미 주요 언론, 연방 하원 이어 상원도 민주당 승리 예측",
+        "미 언론 \"민주당 하원 다수당 탈환\"...한국계 댄 고 하원 당선",
+        "[속보] 美 메인주 상원의원 선거서 민주당 승리 예측",
+        "[속보]민주당 ‘제주 고씨’ 댄 고, 매사추세츠 하원의원 당선···바이든 시절 백악관 근무"
       ],
-      "category": "사건/사고"
+      "category": "정치"
     },
     {
       "rank": 4,
-      "keyword": "집값",
-      "count": 22,
-      "representative_title": "李 “서울 집값 하락 발언, 강남·서초 ·송파만 언급한 것”",
-      "representative_link": "https://n.news.naver.com/article/366/0001202463?ntype=RANKING",
-      "press": "조선비즈",
+      "keyword": "하원",
+      "count": 33,
+      "representative_title": "“美민주, 20년 만에 상·하원 모두 승리”",
+      "representative_link": "https://n.news.naver.com/article/023/0004007715?ntype=RANKING",
+      "press": "조선일보",
       "related_articles": [
         {
-          "title": "“집값 5억인데 국평 가려면 분담금이 7.6억” 노원 재건축 분담금 쇼크 [부동산360]",
-          "link": "https://n.news.naver.com/article/016/0002718612?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "‘블루 쓰나미’ 현실되나…민주 4년 만에 하원 탈환·상원도 우세",
+          "link": "https://n.news.naver.com/article/056/0012287064?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "李, 집값 하락 논란에 “강남·서초·송파 말한 것...서울 전체라 한 적 없다”",
-          "link": "https://n.news.naver.com/article/023/0004007687?ntype=RANKING",
+          "title": "美민주 상·하원 다수당 탈환 확실시…'블루 쓰나미' 목전(종합)",
+          "link": "https://n.news.naver.com/article/421/0009269654?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "“美민주, 20년 만에 상·하원 모두 승리”",
+          "link": "https://n.news.naver.com/article/023/0004007715?ntype=RANKING",
           "press": "조선일보"
         },
         {
-          "title": "집값 ‘22억’ 찍을 때는 좋았는데…심상치 않은 ‘이 동네’  부동산에 무슨 일이",
-          "link": "https://n.news.naver.com/article/011/0004678400?ntype=RANKING",
-          "press": "서울경제"
+          "title": "[속보] CNN \"미 민주, 연방 하원 이어 상원도 승리 예측\"",
+          "link": "https://n.news.naver.com/article/052/0002428217?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "李 “서울 전체 집값 폭락 말한 적 없어…강남·서초·송파 말한 것”",
-          "link": "https://n.news.naver.com/article/029/0003057030?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "李 “서울 집값 하락 발언, 강남·서초 ·송파만 언급한 것”",
-          "link": "https://n.news.naver.com/article/366/0001202463?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "[속보] 美민주, 연방 하원 이어 상원도 승리 예측",
+          "link": "https://n.news.naver.com/article/422/0000922790?ntype=RANKING",
+          "press": "연합뉴스TV"
         }
       ],
       "related_titles": [
-        "“집값 5억인데 국평 가려면 분담금이 7.6억” 노원 재건축 분담금 쇼크 [부동산360]",
-        "李, 집값 하락 논란에 “강남·서초·송파 말한 것...서울 전체라 한 적 없다”",
-        "집값 ‘22억’ 찍을 때는 좋았는데…심상치 않은 ‘이 동네’  부동산에 무슨 일이",
-        "李 “서울 전체 집값 폭락 말한 적 없어…강남·서초·송파 말한 것”",
-        "李 “서울 집값 하락 발언, 강남·서초 ·송파만 언급한 것”"
+        "‘블루 쓰나미’ 현실되나…민주 4년 만에 하원 탈환·상원도 우세",
+        "美민주 상·하원 다수당 탈환 확실시…'블루 쓰나미' 목전(종합)",
+        "“美민주, 20년 만에 상·하원 모두 승리”",
+        "[속보] CNN \"미 민주, 연방 하원 이어 상원도 승리 예측\"",
+        "[속보] 美민주, 연방 하원 이어 상원도 승리 예측"
       ],
       "category": "사회/일반"
     },
     {
       "rank": 5,
-      "keyword": "폭락",
-      "count": 17,
-      "representative_title": "李 \"서울 전체 집값이 폭락 중이라고 한 적 없다\"…또 직접 반박",
-      "representative_link": "https://n.news.naver.com/article/448/0000648896?ntype=RANKING",
-      "press": "TV조선",
+      "keyword": "민주",
+      "count": 23,
+      "representative_title": "美민주 상원 탈환…공화 텃밭 뒤집으며 트럼프에 제동",
+      "representative_link": "https://n.news.naver.com/article/018/0006403557?ntype=RANKING",
+      "press": "이데일리",
       "related_articles": [
         {
-          "title": "李 \"서울 전체 집값이 폭락 중이라고 한 적 없다\"…또 직접 반박",
-          "link": "https://n.news.naver.com/article/448/0000648896?ntype=RANKING",
-          "press": "TV조선"
+          "title": "美 민주, 상원 탈환도 성공…텍사스·오하이오·캔자스·아이오와도 이겼다 [이상은의 워싱턴나우]",
+          "link": "https://n.news.naver.com/article/015/0005350136?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "美민주 상원 탈환…공화 텃밭 뒤집으며 트럼프에 제동",
+          "link": "https://n.news.naver.com/article/018/0006403557?ntype=RANKING",
+          "press": "이데일리"
         }
       ],
       "related_titles": [
-        "李 \"서울 전체 집값이 폭락 중이라고 한 적 없다\"…또 직접 반박"
+        "美 민주, 상원 탈환도 성공…텍사스·오하이오·캔자스·아이오와도 이겼다 [이상은의 워싱턴나우]",
+        "美민주 상원 탈환…공화 텃밭 뒤집으며 트럼프에 제동"
       ],
       "category": "사회/일반"
     }
@@ -202,10 +208,20 @@
       "rank": 1,
       "keyword": "삼성전자",
       "count": 11,
-      "representative_title": "칠순 손영권 삼성전자 고문, 25세 연하 모델 김자연과 결혼",
-      "representative_link": "https://n.news.naver.com/article/422/0000922721?ntype=RANKING",
-      "press": "연합뉴스TV",
+      "representative_title": "“더 이상은 안 돼”…삼성전자, 단단히 뿔났다",
+      "representative_link": "https://n.news.naver.com/article/050/0000112783?ntype=RANKING",
+      "press": "한경비즈니스",
       "related_articles": [
+        {
+          "title": "칠순 손영권 삼성전자 고문, 25세 연하 모델 김자연과 결혼",
+          "link": "https://n.news.naver.com/article/422/0000922721?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "25세 연하 모델과 결혼한 70세 삼성전자 전 사장…러브스토리 깜짝",
+          "link": "https://n.news.naver.com/article/025/0003562685?ntype=RANKING",
+          "press": "중앙일보"
+        },
         {
           "title": "\"삼성전자 40% 빠졌는데 반전 온다?\"…증권가서 나온 '파격 전망'",
           "link": "https://n.news.naver.com/article/277/0005837800?ntype=RANKING",
@@ -217,113 +233,91 @@
           "press": "동아일보"
         },
         {
-          "title": "칠순 손영권 삼성전자 고문, 25세 연하 모델 김자연과 결혼",
-          "link": "https://n.news.naver.com/article/422/0000922721?ntype=RANKING",
-          "press": "연합뉴스TV"
-        },
-        {
-          "title": "45세 슈퍼모델, 70세 前 삼성전자 사장과 결혼…25살 뛰어넘은 로맨스",
-          "link": "https://n.news.naver.com/article/448/0000648861?ntype=RANKING",
-          "press": "TV조선"
-        },
-        {
-          "title": "25세 연하 모델과 결혼한 70세 삼성전자 전 사장…러브스토리 깜짝",
-          "link": "https://n.news.naver.com/article/025/0003562685?ntype=RANKING",
-          "press": "중앙일보"
+          "title": "70세 전 삼성전자 사장, 25세 연하 모델과 결혼…김자연 \"키 큰 저를 귀여워해\"",
+          "link": "https://n.news.naver.com/article/082/0001405563?ntype=RANKING",
+          "press": "부산일보"
         }
       ],
       "related_titles": [
+        "칠순 손영권 삼성전자 고문, 25세 연하 모델 김자연과 결혼",
+        "25세 연하 모델과 결혼한 70세 삼성전자 전 사장…러브스토리 깜짝",
         "\"삼성전자 40% 빠졌는데 반전 온다?\"…증권가서 나온 '파격 전망'",
         "45세 前슈퍼모델 김자연, 70세 손영권 삼성전자 고문과 결혼",
-        "칠순 손영권 삼성전자 고문, 25세 연하 모델 김자연과 결혼",
-        "45세 슈퍼모델, 70세 前 삼성전자 사장과 결혼…25살 뛰어넘은 로맨스",
-        "25세 연하 모델과 결혼한 70세 삼성전자 전 사장…러브스토리 깜짝"
+        "70세 전 삼성전자 사장, 25세 연하 모델과 결혼…김자연 \"키 큰 저를 귀여워해\""
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "코스피",
-      "count": 7,
-      "representative_title": "“코스피 9000 찍는다”...낙관론 제기한 이유",
-      "representative_link": "https://n.news.naver.com/article/050/0000112770?ntype=RANKING",
-      "press": "한경비즈니스",
+      "keyword": "중간선거",
+      "count": 4,
+      "representative_title": "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+      "representative_link": "https://n.news.naver.com/article/023/0004007724?ntype=RANKING",
+      "press": "조선일보",
       "related_articles": [
         {
-          "title": "3% 급등하더니 하락 반전…美 중간선거에 코스피 '롤러코스터'",
-          "link": "https://n.news.naver.com/article/586/0000141542?ntype=RANKING",
-          "press": "시사저널"
+          "title": "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+          "link": "https://n.news.naver.com/article/023/0004007724?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "AI 투자 우려 재부각...코스피 3% 급락해 5600선 마감",
-          "link": "https://n.news.naver.com/article/648/0000052237?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "“저가 매수도 하지 마라” S&P500 10% 폭락 경고…美 중간선거 앞두고 월가 초긴장",
+          "link": "https://n.news.naver.com/article/011/0004678514?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "3% 급등 출발 코스피, 美선거 개표 시작되자 '하락' 전환",
-          "link": "https://n.news.naver.com/article/079/0004206281?ntype=RANKING",
-          "press": "노컷뉴스"
+          "title": "美 중간선거 '블루웨이브'에 증시 출렁…코스피 3.5%대 '급락' [주가동향]",
+          "link": "https://n.news.naver.com/article/123/0002393314?ntype=RANKING",
+          "press": "조세일보"
         },
         {
-          "title": "“코스피 9000 찍는다”...낙관론 제기한 이유",
-          "link": "https://n.news.naver.com/article/050/0000112770?ntype=RANKING",
-          "press": "한경비즈니스"
+          "title": "“저가 매수도 하지 마라” S&P500 10% 폭락 경고…美 중간선거 앞두고 월가 초긴장",
+          "link": "https://n.news.naver.com/article/011/0004678514?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까",
-          "link": "https://n.news.naver.com/article/053/0000062823?ntype=RANKING",
-          "press": "주간조선"
+          "title": "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+          "link": "https://n.news.naver.com/article/023/0004007724?ntype=RANKING",
+          "press": "조선일보"
         }
       ],
       "related_titles": [
-        "3% 급등하더니 하락 반전…美 중간선거에 코스피 '롤러코스터'",
-        "AI 투자 우려 재부각...코스피 3% 급락해 5600선 마감",
-        "3% 급등 출발 코스피, 美선거 개표 시작되자 '하락' 전환",
-        "“코스피 9000 찍는다”...낙관론 제기한 이유",
-        "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까"
+        "美 역대 중간선거…1년 뒤 주가 10% 이상 상승",
+        "“저가 매수도 하지 마라” S&P500 10% 폭락 경고…美 중간선거 앞두고 월가 초긴장",
+        "美 중간선거 '블루웨이브'에 증시 출렁…코스피 3.5%대 '급락' [주가동향]",
+        "“저가 매수도 하지 마라” S&P500 10% 폭락 경고…美 중간선거 앞두고 월가 초긴장",
+        "美 역대 중간선거…1년 뒤 주가 10% 이상 상승"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "공식",
+      "keyword": "코스피",
       "count": 4,
-      "representative_title": "김민석, '가상자산 과세 유예' 정부에 공식 제안‥\"적응기간 필요\"",
-      "representative_link": "https://n.news.naver.com/article/214/0001533417?ntype=RANKING",
-      "press": "MBC",
+      "representative_title": "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”",
+      "representative_link": "https://n.news.naver.com/article/024/0000109378?ntype=RANKING",
+      "press": "매경이코노미",
       "related_articles": [
         {
-          "title": "김민석, '가상자산 과세 유예' 정부에 공식 제안‥\"적응기간 필요\"",
-          "link": "https://n.news.naver.com/article/214/0001533417?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "김민석 “가상자산 소득 과세 유예 정부에 공식 제안…디지털자산기본법 우선 제정”",
-          "link": "https://n.news.naver.com/article/056/0012286883?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "[속보] 김민석 “가상자산 과세 유예, 당 차원서 정부에 공식 제안”",
-          "link": "https://n.news.naver.com/article/024/0000109375?ntype=RANKING",
+          "title": "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”",
+          "link": "https://n.news.naver.com/article/024/0000109378?ntype=RANKING",
           "press": "매경이코노미"
         },
         {
-          "title": "김민석, '가상자산 과세 유예' 정부에 공식 제안‥\"적응기간 필요\"",
-          "link": "https://n.news.naver.com/article/214/0001533417?ntype=RANKING",
-          "press": "MBC"
+          "title": "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”",
+          "link": "https://n.news.naver.com/article/024/0000109378?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
-          "title": "김민석 “가상자산 소득 과세 유예 정부에 공식 제안…디지털자산기본법 우선 제정”",
-          "link": "https://n.news.naver.com/article/056/0012286883?ntype=RANKING",
-          "press": "KBS"
+          "title": "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”",
+          "link": "https://n.news.naver.com/article/024/0000109378?ntype=RANKING",
+          "press": "매경이코노미"
         }
       ],
       "related_titles": [
-        "김민석, '가상자산 과세 유예' 정부에 공식 제안‥\"적응기간 필요\"",
-        "김민석 “가상자산 소득 과세 유예 정부에 공식 제안…디지털자산기본법 우선 제정”",
-        "[속보] 김민석 “가상자산 과세 유예, 당 차원서 정부에 공식 제안”",
-        "김민석, '가상자산 과세 유예' 정부에 공식 제안‥\"적응기간 필요\"",
-        "김민석 “가상자산 소득 과세 유예 정부에 공식 제안…디지털자산기본법 우선 제정”"
+        "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”",
+        "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”",
+        "도대체 코스피 언제 반등?...하나證 “최소 3개월 뒤”"
       ],
       "category": "주식/코인"
     },
@@ -360,44 +354,32 @@
     },
     {
       "rank": 5,
-      "keyword": "급락",
+      "keyword": "주가",
       "count": 3,
-      "representative_title": "HLB, 간암 신약 FDA 본심사 재개…연내 허가 불발에 주가 급락",
-      "representative_link": "https://n.news.naver.com/article/030/0003482005?ntype=RANKING",
-      "press": "전자신문",
+      "representative_title": "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+      "representative_link": "https://n.news.naver.com/article/037/0000039080?ntype=RANKING",
+      "press": "주간동아",
       "related_articles": [
         {
-          "title": "HLB, 간암 신약 FDA 본심사 재개…연내 허가 불발에 주가 급락",
-          "link": "https://n.news.naver.com/article/030/0003482005?ntype=RANKING",
-          "press": "전자신문"
+          "title": "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+          "link": "https://n.news.naver.com/article/037/0000039080?ntype=RANKING",
+          "press": "주간동아"
         },
         {
-          "title": "민주당이 상하원 싹쓸이?...\"AI 규제 강화할라\" 나스닥 선물 급락",
-          "link": "https://n.news.naver.com/article/008/0005436402?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+          "link": "https://n.news.naver.com/article/037/0000039080?ntype=RANKING",
+          "press": "주간동아"
         },
         {
-          "title": "HLB, 간암 신약 FDA 본심사 재개…연내 허가 불발에 주가 급락",
-          "link": "https://n.news.naver.com/article/030/0003482005?ntype=RANKING",
-          "press": "전자신문"
-        },
-        {
-          "title": "민주당이 상하원 싹쓸이?...\"AI 규제 강화할라\" 나스닥 선물 급락",
-          "link": "https://n.news.naver.com/article/008/0005436402?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "HLB, 간암 신약 FDA 본심사 재개…연내 허가 불발에 주가 급락",
-          "link": "https://n.news.naver.com/article/030/0003482005?ntype=RANKING",
-          "press": "전자신문"
+          "title": "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+          "link": "https://n.news.naver.com/article/037/0000039080?ntype=RANKING",
+          "press": "주간동아"
         }
       ],
       "related_titles": [
-        "HLB, 간암 신약 FDA 본심사 재개…연내 허가 불발에 주가 급락",
-        "민주당이 상하원 싹쓸이?...\"AI 규제 강화할라\" 나스닥 선물 급락",
-        "HLB, 간암 신약 FDA 본심사 재개…연내 허가 불발에 주가 급락",
-        "민주당이 상하원 싹쓸이?...\"AI 규제 강화할라\" 나스닥 선물 급락",
-        "HLB, 간암 신약 FDA 본심사 재개…연내 허가 불발에 주가 급락"
+        "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+        "주가 하락하면 서울 집값도 떨어졌다… 이번엔?",
+        "주가 하락하면 서울 집값도 떨어졌다… 이번엔?"
       ],
       "category": "주식/코인"
     }
@@ -531,48 +513,43 @@
           "press": ""
         },
         {
-          "title": "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByZS15X0ZiaVBJQzdMZVYwVHVwenhXVWZJanctWTBiT0V6ZXVqeHFhRVpFanhERFR0aFBBMnl5ZWd5MFVjRjFsRm54dmNPc1lnNWpJYmZ3?oc=5",
-          "press": ""
-        },
-        {
-          "title": "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ib3VMdGJtaW5ad1F4bmFZOTdFaFF2M3dRZjEyVnFOTXVtU000Z0RlRjVvSGZ1eEJmYzRMblE1YUgxbjAzMkhEUllGUQ?oc=5",
-          "press": ""
-        },
-        {
           "title": "李대통령 \"서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져\"",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXNUT0NUdkNSTFlpSXo0UTNUc2dEbnVBdkRaQ2RiSThLWTV1dzBxOGpfdFNrbXU1eWsxeE9tT1lDOUdCSWdKU2JTVVJQWTB0YTRMZ1VtX2thdjdCNmZjTjZmem40d2VUeHU1TTdfY3FvRm41anpRZXZ4ZXE1Y2NVLUw1Ry1EV01M?oc=5",
+          "press": ""
+        },
+        {
+          "title": "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByZS15X0ZiaVBJQzdMZVYwVHVwenhXVWZJanctWTBiT0V6ZXVqeHFhRVpFanhERFR0aFBBMnl5ZWd5MFVjRjFsRm54dmNPc1lnNWpJYmZ3?oc=5",
           "press": ""
         },
         {
           "title": "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yMlRFV0hwc19HNE9BV0VzREZBa25KMS1vaFlyRWFfbER0b2dIR2tlQnJBVzJpQzBQVGtySWVnak1YOXYzSl9RMXBoSG92bXFkSVlwckYyMk9uZw?oc=5",
           "press": ""
+        },
+        {
+          "title": "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ib3VMdGJtaW5ad1F4bmFZOTdFaFF2M3dRZjEyVnFOTXVtU000Z0RlRjVvSGZ1eEJmYzRMblE1YUgxbjAzMkhEUllGUQ?oc=5",
+          "press": ""
         }
       ],
       "related_titles": [
         "李 “서울 아파트 매물 급증…집값 놀라울 정도로 떨어지고 있다”",
-        "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승",
-        "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산",
         "李대통령 \"서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져\"",
-        "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월"
+        "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승",
+        "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
+        "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산"
       ],
       "category": "부동산"
     },
     {
       "rank": 2,
-      "keyword": "대통령",
+      "keyword": "놀라울",
       "count": 4,
       "representative_title": "[팩트체크] 李대통령 “집값 놀라울 정도로 떨어져”…사실일까?",
       "representative_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tekcxaUhZWjdseXprcktFNDlLTlNKc1N6VWttNEc1X2F5TmRKd2FMN29Ya0pBZmE3d3dMRzBOT1RzbkNic3ZDbGlJa1Q4bHczOWJaRUp0OUxJclEteGVyS2pBb2N6OEhfbU9oWUhWY9IBc0FVX3lxTE9IY0hEdlE5N3FTZXU4NWY5Tk91MUhINXVOMWZYTm1tbTI3Z2lOQmo5LVlyMEctbklOd0VzQUQ3ZEhyOGVwcnh6YmlFQmI2bzZsYXZfeExPRXNBZi1NR2NzVFgxUEhlQkNXSGVRd0NkUWtIcG8?oc=5",
       "press": "",
       "related_articles": [
-        {
-          "title": "또 터진 강남 집값 통계조작 논란?…대통령 \"부동산 정보 편향적 전달\"",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55bUljQ0ppVlZ2TGhXR3g4T2xQQWgyN1pQNlFyVEhDY0k2S2xQSFYxVC1XVXVyck1wbklsMThLTW1rS1RYRS00WWRqbDU1b0lES2V3eEk5RDREamNRSWd1NXZyS2VFUW9UVUdzcG02SHJ4ZUnSAXNBVV95cUxOeW1JY0NKaVZWdkxoV0d4OE9sUEFoMjdaUDZRclRIQ2NJNktsUEhWMVQtV1V1cnJNcG5JbDE4S01ta0tUWEUtNFlkamw1NW9JREtld3hJOUQ0RGpjUUlndTV2cktlRVFvVFVHc3BtNkhyeGVJ?oc=5",
-          "press": ""
-        },
         {
           "title": "[팩트체크] 李대통령 “집값 놀라울 정도로 떨어져”…사실일까?",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tekcxaUhZWjdseXprcktFNDlLTlNKc1N6VWttNEc1X2F5TmRKd2FMN29Ya0pBZmE3d3dMRzBOT1RzbkNic3ZDbGlJa1Q4bHczOWJaRUp0OUxJclEteGVyS2pBb2N6OEhfbU9oWUhWY9IBc0FVX3lxTE9IY0hEdlE5N3FTZXU4NWY5Tk91MUhINXVOMWZYTm1tbTI3Z2lOQmo5LVlyMEctbklOd0VzQUQ3ZEhyOGVwcnh6YmlFQmI2bzZsYXZfeExPRXNBZi1NR2NzVFgxUEhlQkNXSGVRd0NkUWtIcG8?oc=5",
@@ -580,15 +557,14 @@
         }
       ],
       "related_titles": [
-        "또 터진 강남 집값 통계조작 논란?…대통령 \"부동산 정보 편향적 전달\"",
         "[팩트체크] 李대통령 “집값 놀라울 정도로 떨어져”…사실일까?"
       ],
       "category": "부동산"
     },
     {
       "rank": 3,
-      "keyword": "강남",
-      "count": 3,
+      "keyword": "통계",
+      "count": 2,
       "representative_title": "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
       "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeWVfYXpGUUhxU2VMZGdGT0ZCMnFhVUNUSmhnUTRFeEYtc2M3dnluMnVycXdRS0k3SmFkbnNObFlSb2JWeVNFR2VOSEJUVzVleTJmZS1kN01OUQ?oc=5",
       "press": "",
@@ -599,38 +575,19 @@
           "press": ""
         },
         {
-          "title": "강남 아파트값 약세에도 서울은 90주째 상승…집값 떠받친 지역은?",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYemxMczZ6MTVac1pvOGRwOERlMWlJX3FMdWh6MEI4QjhXUWNMNWlGbWF0bWtnXzVFVmlWYXZJTzZKS0Y0ZzhOREhJaThmU24tWXNoeFduZGxwVkt5bTZaUnNvaG5QSkJQUWfSAW5BVV95cUxPWVZlQnNBRzhlbUEydUxqaHFzQ0JZbFUzQzViM090RnZ3Rkk4SGkzZl9xZWdYa3JXNFZDODRvbGFWYXEzSG9sdEV6STVGc1dmTlVYcjg1VDJXa2E2ZDdXTTJwbVRSU09IR0VVd0Etdw?oc=5",
+          "title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZTkMwUEo5SEZJUE5XZjdYejUzVkFXaW5zbjdpT1E3WDVEUXl3SC15dXRhQXJDekhMVzRLQVktQ0Jrcm9wRlE?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
         "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
-        "강남 아파트값 약세에도 서울은 90주째 상승…집값 떠받친 지역은?"
-      ],
-      "category": "부동산"
-    },
-    {
-      "rank": 4,
-      "keyword": "통계",
-      "count": 2,
-      "representative_title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
-      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42MnYweHA2ZlpkSUI1c0xQU0pTTWlRTGVUWXZycWMwNVlYZTNKNVY0bUsxYklLWmZOQXhVdEFLTFdjTXVyeXd4dWQ4eUF2RTU4ay05MFQtMVBjZjFZMS1oOVltTm5FclY40gFsQVVfeXFMTmxrWlVXLS00YmdtbC1RMVhRMjU1NXpxdWcwSHJEVXR4Tzk0WEV0aFlFQ3VlLVl5U0oxNEpnOENxVmRxeHgxdTBadk5SUnotTnZKX1NicjFDcWJPb29jbXdEU3hleFczeG1BVVJY?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42MnYweHA2ZlpkSUI1c0xQU0pTTWlRTGVUWXZycWMwNVlYZTNKNVY0bUsxYklLWmZOQXhVdEFLTFdjTXVyeXd4dWQ4eUF2RTU4ay05MFQtMVBjZjFZMS1oOVltTm5FclY40gFsQVVfeXFMTmxrWlVXLS00YmdtbC1RMVhRMjU1NXpxdWcwSHJEVXR4Tzk0WEV0aFlFQ3VlLVl5U0oxNEpnOENxVmRxeHgxdTBadk5SUnotTnZKX1NicjFDcWJPb29jbXdEU3hleFczeG1BVVJY?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
         "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐"
       ],
       "category": "부동산"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "keyword": "품은",
       "count": 2,
       "representative_title": "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'",
@@ -638,19 +595,19 @@
       "press": "",
       "related_articles": [
         {
-          "title": "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hSENsb0VNZVlRWDEtek1tUTZxU1dWTW1qV25KLXZhR1FLUWp4SHJ1LWx2ODl6ZEpZblFTRG5hcExfNmF6QVFFQ2s1eExvRGRyWnJJQmZ1VTU2Zw?oc=5",
+          "title": "“10년 후 집값 ‘여기’가 뜬다”…부동산 전문가가 콕 집은 호재 품은 동네는 바로",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wM0pRdERqNzdTSGFjMDFTOXBLanFjRVI3cnBCNko2X2E5eE1XS1JSMlZrRjZ2X1ZIS1hQci1HTmZoQllva1JRcmEyTHBWTUZIUXfSAVNBVV95cUxPVnhaSGFtamtPUjBCMGpoeEZEVEtSNTMzNk1kU2tiaDdmV3hXR1pVU2FwOVkzazdYanRPaUt6TWJBaTlmWEVoSHVEY1VWOFY5Q3hCRQ?oc=5",
           "press": ""
         },
         {
-          "title": "“10년 후 집값 ‘여기’가 뜬다”…부동산 전문가가 콕 집은 호재 품은 동네는 바로",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wM0pRdERqNzdTSGFjMDFTOXBLanFjRVI3cnBCNko2X2E5eE1XS1JSMlZrRjZ2X1ZIS1hQci1HTmZoQllva1JRcmEyTHBWTUZIUXfSAVNBVV95cUxPVnhaSGFtamtPUjBCMGpoeEZEVEtSNTMzNk1kU2tiaDdmV3hXR1pVU2FwOVkzazdYanRPaUt6TWJBaTlmWEVoSHVEY1VWOFY5Q3hCRQ?oc=5",
+          "title": "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hSENsb0VNZVlRWDEtek1tUTZxU1dWTW1qV25KLXZhR1FLUWp4SHJ1LWx2ODl6ZEpZblFTRG5hcExfNmF6QVFFQ2s1eExvRGRyWnJJQmZ1VTU2Zw?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'",
-        "“10년 후 집값 ‘여기’가 뜬다”…부동산 전문가가 콕 집은 호재 품은 동네는 바로"
+        "“10년 후 집값 ‘여기’가 뜬다”…부동산 전문가가 콕 집은 호재 품은 동네는 바로",
+        "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'"
       ],
       "category": "부동산"
     }
