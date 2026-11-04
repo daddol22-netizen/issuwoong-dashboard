@@ -1,171 +1,61 @@
 {
   "date": "2026-11-04",
-  "hour": "07",
-  "slot": "2026-11-04_07",
-  "crawled_at": "2026-11-04 07:00:05",
-  "total_articles": 403,
+  "hour": "10",
+  "slot": "2026-11-04_10",
+  "crawled_at": "2026-11-04 10:00:03",
+  "total_articles": 406,
   "topics": [
     {
       "rank": 1,
-      "keyword": "트럼프",
-      "count": 20,
-      "representative_title": "트럼프 운명의 날…조기 레임덕으로 가나?",
-      "representative_link": "https://n.news.naver.com/article/056/0012286601?ntype=RANKING",
-      "press": "KBS",
+      "keyword": "중간선거",
+      "count": 22,
+      "representative_title": "트럼프 임기 반환점에 치러진 중간선거…투표 개시",
+      "representative_link": "https://n.news.naver.com/article/660/0000120515?ntype=RANKING",
+      "press": "kbc광주방송",
       "related_articles": [
         {
-          "title": "심판대에 선 트럼프, 美 중간선거 4일 오전 8시 첫 투표 마감",
-          "link": "https://n.news.naver.com/article/018/0006403172?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "트럼프 \"이란 방공시설 어젯밤 타격‥많은 사람 죽이고 싶진 않지만\"",
-          "link": "https://n.news.naver.com/article/214/0001533326?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "트럼프 운명 가를 '단 네 석' 7곳 모두 민주당 우세?‥\"그래도 모른다\"",
-          "link": "https://n.news.naver.com/article/214/0001533283?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "트럼프 운명의 날…조기 레임덕으로 가나?",
-          "link": "https://n.news.naver.com/article/056/0012286601?ntype=RANKING",
+          "title": "“집권당 지면 코스피 오른다?”…미 중간선거, 이번에도 통할까? [잇슈 머니]",
+          "link": "https://n.news.naver.com/article/056/0012286787?ntype=RANKING",
           "press": "KBS"
         },
         {
-          "title": "트럼프 \"전쟁 필요하다면 계속\"...이란 \"전략적 오판 말아야\"",
-          "link": "https://n.news.naver.com/article/052/0002428030?ntype=RANKING",
+          "title": "미 중간선거, 투표 진행 중…이르면 오늘 낮 윤곽",
+          "link": "https://n.news.naver.com/article/056/0012286759?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "美 중간선거 당일 트럼프 “예상보다 좋은 결과”… 민주당 “상원 탈환 기대”",
+          "link": "https://n.news.naver.com/article/366/0001202362?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "‘美 중간선거 디데이’…선거 한 달 뒤, 외국인은 6번 중 5번 샀다",
+          "link": "https://n.news.naver.com/article/366/0001202354?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "중간선거 투표 잠시 뒤 마감...트럼프 \"생각보다 좋을 것\" vs 민주 \"상원도 승리\"",
+          "link": "https://n.news.naver.com/article/052/0002428072?ntype=RANKING",
           "press": "YTN"
         }
       ],
       "related_titles": [
-        "심판대에 선 트럼프, 美 중간선거 4일 오전 8시 첫 투표 마감",
-        "트럼프 \"이란 방공시설 어젯밤 타격‥많은 사람 죽이고 싶진 않지만\"",
-        "트럼프 운명 가를 '단 네 석' 7곳 모두 민주당 우세?‥\"그래도 모른다\"",
-        "트럼프 운명의 날…조기 레임덕으로 가나?",
-        "트럼프 \"전쟁 필요하다면 계속\"...이란 \"전략적 오판 말아야\""
-      ],
-      "category": "국제"
-    },
-    {
-      "rank": 2,
-      "keyword": "김민석",
-      "count": 17,
-      "representative_title": "김민석 “신천지 與 입당 증거 없다” 사과(종합)",
-      "representative_link": "https://n.news.naver.com/article/658/0000160320?ntype=RANKING",
-      "press": "국제신문",
-      "related_articles": [
-        {
-          "title": "김민석 “신천지, 대단히 죄송” 울컥…정청래 “자업자득 결자해지”",
-          "link": "https://n.news.naver.com/article/020/0003759778?ntype=RANKING",
-          "press": "동아일보"
-        },
-        {
-          "title": "\"비밀연합 없었다\" 김민석 백기‥정청래 \"책임져라\" 격앙",
-          "link": "https://n.news.naver.com/article/214/0001533308?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "최민희, 김민석 사과 직후 \"당원들에게도 공개 사과하라\" 직격",
-          "link": "https://n.news.naver.com/article/586/0000141520?ntype=RANKING",
-          "press": "시사저널"
-        },
-        {
-          "title": "진중권 \"김민석, 정청래에 완패…신천지 사과는 사실상 백기\"",
-          "link": "https://n.news.naver.com/article/586/0000141524?ntype=RANKING",
-          "press": "시사저널"
-        },
-        {
-          "title": "'신천지 개입설' 사과하며 울먹인 김민석…&#160;의총선 박수, 친청계 반발",
-          "link": "https://n.news.naver.com/article/469/0000963438?ntype=RANKING",
-          "press": "한국일보"
-        }
-      ],
-      "related_titles": [
-        "김민석 “신천지, 대단히 죄송” 울컥…정청래 “자업자득 결자해지”",
-        "\"비밀연합 없었다\" 김민석 백기‥정청래 \"책임져라\" 격앙",
-        "최민희, 김민석 사과 직후 \"당원들에게도 공개 사과하라\" 직격",
-        "진중권 \"김민석, 정청래에 완패…신천지 사과는 사실상 백기\"",
-        "'신천지 개입설' 사과하며 울먹인 김민석…&#160;의총선 박수, 친청계 반발"
-      ],
-      "category": "사회/일반"
-    },
-    {
-      "rank": 3,
-      "keyword": "중간선거",
-      "count": 16,
-      "representative_title": "백악관 벌써 중간선거 패색…'최악 시나리오' 대비",
-      "representative_link": "https://n.news.naver.com/article/422/0000922447?ntype=RANKING",
-      "press": "연합뉴스TV",
-      "related_articles": [
-        {
-          "title": "미 중간선거 뒤 ‘코스피 상승’ 공식? 이번엔 다른 이유",
-          "link": "https://n.news.naver.com/article/005/0001882788?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "미 중간선거 현장 투표 순조롭게 진행...\"미국, 다시 바로잡아야\"",
-          "link": "https://n.news.naver.com/article/052/0002427997?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "[美중간선거] 하버드대 \"민주 승리 확률 하원 96%·상원 78%\"",
-          "link": "https://n.news.naver.com/article/001/0016420058?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "美 중간선거 오늘 개표, 이후 반도체주 반등할까…“관건은 의회 구도”",
-          "link": "https://n.news.naver.com/article/021/0002830072?ntype=RANKING",
-          "press": "문화일보"
-        },
-        {
-          "title": "백악관 벌써 중간선거 패색…'최악 시나리오' 대비",
-          "link": "https://n.news.naver.com/article/422/0000922447?ntype=RANKING",
-          "press": "연합뉴스TV"
-        }
-      ],
-      "related_titles": [
-        "미 중간선거 뒤 ‘코스피 상승’ 공식? 이번엔 다른 이유",
-        "미 중간선거 현장 투표 순조롭게 진행...\"미국, 다시 바로잡아야\"",
-        "[美중간선거] 하버드대 \"민주 승리 확률 하원 96%·상원 78%\"",
-        "美 중간선거 오늘 개표, 이후 반도체주 반등할까…“관건은 의회 구도”",
-        "백악관 벌써 중간선거 패색…'최악 시나리오' 대비"
+        "“집권당 지면 코스피 오른다?”…미 중간선거, 이번에도 통할까? [잇슈 머니]",
+        "미 중간선거, 투표 진행 중…이르면 오늘 낮 윤곽",
+        "美 중간선거 당일 트럼프 “예상보다 좋은 결과”… 민주당 “상원 탈환 기대”",
+        "‘美 중간선거 디데이’…선거 한 달 뒤, 외국인은 6번 중 5번 샀다",
+        "중간선거 투표 잠시 뒤 마감...트럼프 \"생각보다 좋을 것\" vs 민주 \"상원도 승리\""
       ],
       "category": "경제/투자"
     },
     {
-      "rank": 4,
-      "keyword": "신천지",
-      "count": 15,
-      "representative_title": "신천지 논란 없던 일로… 황당한 與, 두달간 헛발",
-      "representative_link": "https://n.news.naver.com/article/005/0001882760?ntype=RANKING",
-      "press": "국민일보",
-      "related_articles": [
-        {
-          "title": "신천지 논란 없던 일로… 황당한 與, 두달간 헛발",
-          "link": "https://n.news.naver.com/article/005/0001882760?ntype=RANKING",
-          "press": "국민일보"
-        }
-      ],
-      "related_titles": [
-        "신천지 논란 없던 일로… 황당한 與, 두달간 헛발"
-      ],
-      "category": "사회/일반"
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "keyword": "대통령",
-      "count": 14,
+      "count": 13,
       "representative_title": "갈등 진원지 된 대통령 SNS, 이대로 괜찮나",
       "representative_link": "https://n.news.naver.com/article/127/0000040001?ntype=RANKING",
       "press": "기자협회보",
       "related_articles": [
-        {
-          "title": "이 대통령 \"집값 통계 제대로 알려야...하락 대비책 강구 중\"",
-          "link": "https://n.news.naver.com/article/052/0002427944?ntype=RANKING",
-          "press": "YTN"
-        },
         {
           "title": "\"대통령 혼자 딴 세상 사나\"…李 '집값 하락론' 후폭풍",
           "link": "https://n.news.naver.com/article/586/0000141522?ntype=RANKING",
@@ -177,22 +67,150 @@
           "press": "시사저널"
         },
         {
-          "title": "[단독]이주민 단체 만난 청와대 경청수석, 이 대통령 발언에 “대신해 사과”",
-          "link": "https://n.news.naver.com/article/032/0003480445?ntype=RANKING",
-          "press": "경향신문"
+          "title": "이 대통령 “北 삼중철책에 멧돼지도 넘기 어려워”…정동영 “남북 공동방역 준비”",
+          "link": "https://n.news.naver.com/article/449/0000366240?ntype=RANKING",
+          "press": "채널A"
         },
         {
-          "title": "이 대통령 “주요지역 집값 하락 놀라울 정도”…강남권만 해당",
-          "link": "https://n.news.naver.com/article/028/0002830568?ntype=RANKING",
-          "press": "한겨레"
+          "title": "\"집값 떨어졌다\"는 대통령 말, 사실일까... 서울은 90주 연속 상승",
+          "link": "https://n.news.naver.com/article/469/0000963462?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "李대통령 \"어처구니 없다…단순한 기술 문제도 해결 못하나\" 작심 질타, 무슨 일?",
+          "link": "https://n.news.naver.com/article/088/0001038195?ntype=RANKING",
+          "press": "매일신문"
         }
       ],
       "related_titles": [
-        "이 대통령 \"집값 통계 제대로 알려야...하락 대비책 강구 중\"",
         "\"대통령 혼자 딴 세상 사나\"…李 '집값 하락론' 후폭풍",
         "[팩트체크] 李대통령 \"집값 놀라울 정도로 떨어져\"…사실일까?",
-        "[단독]이주민 단체 만난 청와대 경청수석, 이 대통령 발언에 “대신해 사과”",
-        "이 대통령 “주요지역 집값 하락 놀라울 정도”…강남권만 해당"
+        "이 대통령 “北 삼중철책에 멧돼지도 넘기 어려워”…정동영 “남북 공동방역 준비”",
+        "\"집값 떨어졌다\"는 대통령 말, 사실일까... 서울은 90주 연속 상승",
+        "李대통령 \"어처구니 없다…단순한 기술 문제도 해결 못하나\" 작심 질타, 무슨 일?"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 3,
+      "keyword": "트럼프",
+      "count": 12,
+      "representative_title": "트럼프 지면 보복당할라‥미군 감축 등 우려",
+      "representative_link": "https://n.news.naver.com/article/214/0001533355?ntype=RANKING",
+      "press": "MBC",
+      "related_articles": [
+        {
+          "title": "트럼프 \"이란 방공시설 어젯밤 타격‥많은 사람 죽이고 싶진 않지만\"",
+          "link": "https://n.news.naver.com/article/214/0001533326?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "트럼프 지면 보복당할라‥미군 감축 등 우려",
+          "link": "https://n.news.naver.com/article/214/0001533355?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "트럼프 \"생각보다 좋은 결과\"…슈머 \"민주당 상원 탈환 예상\"",
+          "link": "https://n.news.naver.com/article/448/0000648823?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "트럼프 \"연말부터 이스라엘에 연간 40억달러 지원 중단…네타냐후와 합의\"",
+          "link": "https://n.news.naver.com/article/123/0002393266?ntype=RANKING",
+          "press": "조세일보"
+        }
+      ],
+      "related_titles": [
+        "트럼프 \"이란 방공시설 어젯밤 타격‥많은 사람 죽이고 싶진 않지만\"",
+        "트럼프 지면 보복당할라‥미군 감축 등 우려",
+        "트럼프 \"생각보다 좋은 결과\"…슈머 \"민주당 상원 탈환 예상\"",
+        "트럼프 \"연말부터 이스라엘에 연간 40억달러 지원 중단…네타냐후와 합의\""
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 4,
+      "keyword": "민주당",
+      "count": 11,
+      "representative_title": "'조희대 국조' 미루고 '조작기소 특검'은 강행…민주당 속내는",
+      "representative_link": "https://n.news.naver.com/article/119/0003150933?ntype=RANKING",
+      "press": "데일리안",
+      "related_articles": [
+        {
+          "title": "하버드대 \"美중간선거서 민주당 승리확률 하원 96%·상원 78%\"",
+          "link": "https://n.news.naver.com/article/082/0001405523?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "'블루 쓰나미' 오나…  하버드대 \"민주당, 美 하원·상원 다수당 전망\"",
+          "link": "https://n.news.naver.com/article/469/0000963483?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "美민주당 '블루웨이브' 최종 결정, 오늘 오후 아니면 몇 주나 걸린다",
+          "link": "https://n.news.naver.com/article/079/0004206217?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "'조희대 국조' 미루고 '조작기소 특검'은 강행…민주당 속내는",
+          "link": "https://n.news.naver.com/article/119/0003150933?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "美 하버드대 “민주당 승리 확률 하원 96%·상원 78%” 예측",
+          "link": "https://n.news.naver.com/article/119/0003150934?ntype=RANKING",
+          "press": "데일리안"
+        }
+      ],
+      "related_titles": [
+        "하버드대 \"美중간선거서 민주당 승리확률 하원 96%·상원 78%\"",
+        "'블루 쓰나미' 오나…  하버드대 \"민주당, 美 하원·상원 다수당 전망\"",
+        "美민주당 '블루웨이브' 최종 결정, 오늘 오후 아니면 몇 주나 걸린다",
+        "'조희대 국조' 미루고 '조작기소 특검'은 강행…민주당 속내는",
+        "美 하버드대 “민주당 승리 확률 하원 96%·상원 78%” 예측"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 5,
+      "keyword": "김민석",
+      "count": 11,
+      "representative_title": "김민석 ‘신천지 사과’ 논란, 누구 말이 맞는 걸까",
+      "representative_link": "https://n.news.naver.com/article/033/0000053128?ntype=RANKING",
+      "press": "주간경향",
+      "related_articles": [
+        {
+          "title": "진중권 \"김민석, 정청래에 완패…신천지 사과는 사실상 백기\"",
+          "link": "https://n.news.naver.com/article/586/0000141524?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "최민희, 김민석 사과 직후 \"당원들에게도 공개 사과하라\" 직격",
+          "link": "https://n.news.naver.com/article/586/0000141520?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "김민석 “신천지 ‘3자 비밀연합’, 증거 없다” 사과… ‘조작기소 특검법’ 당론 채택",
+          "link": "https://n.news.naver.com/article/082/0001405461?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "'신천지 사과' 김민석 눈물에 한동훈 “왜 울었나…법적 책임져야”",
+          "link": "https://n.news.naver.com/article/018/0006403263?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "차기 대통령감?…오세훈 20.4%·한동훈 14.3%·장동혁 12.7%·김민석 11.7%",
+          "link": "https://n.news.naver.com/article/448/0000648841?ntype=RANKING",
+          "press": "TV조선"
+        }
+      ],
+      "related_titles": [
+        "진중권 \"김민석, 정청래에 완패…신천지 사과는 사실상 백기\"",
+        "최민희, 김민석 사과 직후 \"당원들에게도 공개 사과하라\" 직격",
+        "김민석 “신천지 ‘3자 비밀연합’, 증거 없다” 사과… ‘조작기소 특검법’ 당론 채택",
+        "'신천지 사과' 김민석 눈물에 한동훈 “왜 울었나…법적 책임져야”",
+        "차기 대통령감?…오세훈 20.4%·한동훈 14.3%·장동혁 12.7%·김민석 11.7%"
       ],
       "category": "정치"
     }
@@ -201,25 +219,20 @@
     {
       "rank": 1,
       "keyword": "삼성전자",
-      "count": 11,
+      "count": 9,
       "representative_title": "“더 이상은 안 돼”…삼성전자, 단단히 뿔났다",
       "representative_link": "https://n.news.naver.com/article/050/0000112783?ntype=RANKING",
       "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "45세 前슈퍼모델 김자연, 70세 손영권 삼성전자 고문과 결혼",
-          "link": "https://n.news.naver.com/article/020/0003759767?ntype=RANKING",
-          "press": "동아일보"
+          "title": "70세 前삼성전자 사장, 25살 연하 슈퍼모델과 결혼…\"MIT 선후배\"",
+          "link": "https://n.news.naver.com/article/031/0001071920?ntype=RANKING",
+          "press": "아이뉴스24"
         },
         {
-          "title": "“삼성전자 前사장-25세 연하 모델 출신 결혼”…누군가 했더니",
-          "link": "https://n.news.naver.com/article/018/0006403012?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "70세 前삼성전자 사장, 25살 연하 슈퍼모델 김자연과 화촉",
-          "link": "https://n.news.naver.com/article/005/0001882778?ntype=RANKING",
-          "press": "국민일보"
+          "title": "\"70세 삼성전자 전 사장과 결혼\"…45세 슈퍼모델 출신 김자연, 25세 나이 차 화제",
+          "link": "https://n.news.naver.com/article/014/0005598981?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
           "title": "‘슈퍼모델’ 김자연, 25살 연상 손영권 전 삼성전자 사장과 결혼",
@@ -227,22 +240,70 @@
           "press": "조선비즈"
         },
         {
-          "title": "한투證 “삼성전자, 지금 가격 매력은 연말이 마지막…목표가 44만원”",
-          "link": "https://n.news.naver.com/article/366/0001202102?ntype=RANKING",
+          "title": "앤트로픽발 AI 투자 리스크 확산… 삼성전자·SK하이닉스, 반도체 공급 넘어 금융보증까지 나서나",
+          "link": "https://n.news.naver.com/article/366/0001202358?ntype=RANKING",
           "press": "조선비즈"
+        },
+        {
+          "title": "45세 슈퍼모델 김자연, 70세 '삼성전자 전 사장' 손영권과 결혼",
+          "link": "https://n.news.naver.com/article/421/0009267755?ntype=RANKING",
+          "press": "뉴스1"
         }
       ],
       "related_titles": [
-        "45세 前슈퍼모델 김자연, 70세 손영권 삼성전자 고문과 결혼",
-        "“삼성전자 前사장-25세 연하 모델 출신 결혼”…누군가 했더니",
-        "70세 前삼성전자 사장, 25살 연하 슈퍼모델 김자연과 화촉",
+        "70세 前삼성전자 사장, 25살 연하 슈퍼모델과 결혼…\"MIT 선후배\"",
+        "\"70세 삼성전자 전 사장과 결혼\"…45세 슈퍼모델 출신 김자연, 25세 나이 차 화제",
         "‘슈퍼모델’ 김자연, 25살 연상 손영권 전 삼성전자 사장과 결혼",
-        "한투證 “삼성전자, 지금 가격 매력은 연말이 마지막…목표가 44만원”"
+        "앤트로픽발 AI 투자 리스크 확산… 삼성전자·SK하이닉스, 반도체 공급 넘어 금융보증까지 나서나",
+        "45세 슈퍼모델 김자연, 70세 '삼성전자 전 사장' 손영권과 결혼"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
+      "keyword": "투자",
+      "count": 6,
+      "representative_title": "'홀로서기' 하림식품…'더미식' 투자 성과 증명은 언제",
+      "representative_link": "https://n.news.naver.com/article/648/0000052252?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "엔비디아, 네이버에 1조3412억원 투자 확정&#8943;3대 주주로, 지분 4.13% 전망",
+          "link": "https://n.news.naver.com/article/031/0001071948?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "‘어제는 3.59% 급락했는데’ 하루만에 분위기 반전하나…美반도체주 강세에 코스피 반등 기대감 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002718466?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "'홀로서기' 하림식품…'더미식' 투자 성과 증명은 언제",
+          "link": "https://n.news.naver.com/article/648/0000052252?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "美 중간선거·AI 투자 불안 겹쳤지만…\"2018년 폭락 재현 가능성 낮아\"",
+          "link": "https://n.news.naver.com/article/243/0000105162?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "美 중간선거, AI 투자 속도와 규제 향방 가른다…K-반도체 영향도 불가피",
+          "link": "https://n.news.naver.com/article/138/0002247150?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "엔비디아, 네이버에 1조3412억원 투자 확정&#8943;3대 주주로, 지분 4.13% 전망",
+        "‘어제는 3.59% 급락했는데’ 하루만에 분위기 반전하나…美반도체주 강세에 코스피 반등 기대감 [투자360]",
+        "'홀로서기' 하림식품…'더미식' 투자 성과 증명은 언제",
+        "美 중간선거·AI 투자 불안 겹쳤지만…\"2018년 폭락 재현 가능성 낮아\"",
+        "美 중간선거, AI 투자 속도와 규제 향방 가른다…K-반도체 영향도 불가피"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
       "keyword": "코스피",
       "count": 6,
       "representative_title": "“코스피 9000 찍는다”...낙관론 제기한 이유",
@@ -250,9 +311,9 @@
       "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "미 중간선거 뒤 ‘코스피 상승’ 공식? 이번엔 다른 이유",
-          "link": "https://n.news.naver.com/article/005/0001882788?ntype=RANKING",
-          "press": "국민일보"
+          "title": "“집권당 지면 코스피 오른다?”…미 중간선거, 이번에도 통할까? [잇슈 머니]",
+          "link": "https://n.news.naver.com/article/056/0012286787?ntype=RANKING",
+          "press": "KBS"
         },
         {
           "title": "“설마 했는데 진짜 30% 올랐다” 코스피 폭락에도 개미들 환호…무슨 종목이길래",
@@ -260,70 +321,89 @@
           "press": "서울경제"
         },
         {
-          "title": "코스피 1만 넘을 수도…\"내년 하반기 7000~10500” [주식R]",
-          "link": "https://n.news.naver.com/article/215/0001271432?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "[오늘의 증시]美 중간선거 경계감 속 기술주 상승…코스피 반등 시도",
+          "link": "https://n.news.naver.com/article/003/0014299649?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "“코스피 9000 찍는다”...낙관론 제기한 이유",
+          "link": "https://n.news.naver.com/article/050/0000112770?ntype=RANKING",
+          "press": "한경비즈니스"
         },
         {
           "title": "“어제 2% 올랐는데 하루 만에 급락”…코스피 3.3%↓, 반도체주 와르르",
           "link": "https://n.news.naver.com/article/138/0002247025?ntype=RANKING",
           "press": "디지털데일리"
-        },
-        {
-          "title": "美 반도체 또 흔들리자 '삼전닉스' 급락…코스피, 3% 밀려 5600선",
-          "link": "https://n.news.naver.com/article/629/0000548078?ntype=RANKING",
-          "press": "더팩트"
         }
       ],
       "related_titles": [
-        "미 중간선거 뒤 ‘코스피 상승’ 공식? 이번엔 다른 이유",
+        "“집권당 지면 코스피 오른다?”…미 중간선거, 이번에도 통할까? [잇슈 머니]",
         "“설마 했는데 진짜 30% 올랐다” 코스피 폭락에도 개미들 환호…무슨 종목이길래",
-        "코스피 1만 넘을 수도…\"내년 하반기 7000~10500” [주식R]",
-        "“어제 2% 올랐는데 하루 만에 급락”…코스피 3.3%↓, 반도체주 와르르",
-        "美 반도체 또 흔들리자 '삼전닉스' 급락…코스피, 3% 밀려 5600선"
+        "[오늘의 증시]美 중간선거 경계감 속 기술주 상승…코스피 반등 시도",
+        "“코스피 9000 찍는다”...낙관론 제기한 이유",
+        "“어제 2% 올랐는데 하루 만에 급락”…코스피 3.3%↓, 반도체주 와르르"
       ],
       "category": "주식/코인"
     },
     {
-      "rank": 3,
-      "keyword": "주식",
-      "count": 3,
-      "representative_title": "한진칼 주식 절반 이상이 이미 담보… 호반에 자금력 밀리는 조원태",
-      "representative_link": "https://n.news.naver.com/article/366/0001202307?ntype=RANKING",
-      "press": "조선비즈",
+      "rank": 4,
+      "keyword": "중간선거",
+      "count": 5,
+      "representative_title": "뉴욕증시, 美중간선거 당일 혼조 마감…반도체주 반등 나스닥 0.83%↑",
+      "representative_link": "https://n.news.naver.com/article/629/0000548464?ntype=RANKING",
+      "press": "더팩트",
       "related_articles": [
         {
-          "title": "한진칼 주식 절반 이상이 이미 담보… 호반에 자금력 밀리는 조원태",
-          "link": "https://n.news.naver.com/article/366/0001202307?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "뉴욕증시, 美중간선거 당일 혼조 마감…반도체주 반등 나스닥 0.83%↑",
+          "link": "https://n.news.naver.com/article/629/0000548464?ntype=RANKING",
+          "press": "더팩트"
         },
         {
-          "title": "\"설마했는데 진짜 上쳤네\"…'곡소리' 속 나홀로 '싱글벙글'한 주식",
-          "link": "https://n.news.naver.com/article/031/0001071908?ntype=RANKING",
-          "press": "아이뉴스24"
+          "title": "뉴욕증시, 美중간선거 당일 혼조 마감…반도체주 반등 나스닥 0.83%↑",
+          "link": "https://n.news.naver.com/article/629/0000548464?ntype=RANKING",
+          "press": "더팩트"
         },
         {
-          "title": "한진칼 주식 절반 이상이 이미 담보… 호반에 자금력 밀리는 조원태",
-          "link": "https://n.news.naver.com/article/366/0001202307?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "\"설마했는데 진짜 上쳤네\"…'곡소리' 속 나홀로 '싱글벙글'한 주식",
-          "link": "https://n.news.naver.com/article/031/0001071908?ntype=RANKING",
-          "press": "아이뉴스24"
-        },
-        {
-          "title": "한진칼 주식 절반 이상이 이미 담보… 호반에 자금력 밀리는 조원태",
-          "link": "https://n.news.naver.com/article/366/0001202307?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "뉴욕증시, 美중간선거 당일 혼조 마감…반도체주 반등 나스닥 0.83%↑",
+          "link": "https://n.news.naver.com/article/629/0000548464?ntype=RANKING",
+          "press": "더팩트"
         }
       ],
       "related_titles": [
-        "한진칼 주식 절반 이상이 이미 담보… 호반에 자금력 밀리는 조원태",
-        "\"설마했는데 진짜 上쳤네\"…'곡소리' 속 나홀로 '싱글벙글'한 주식",
-        "한진칼 주식 절반 이상이 이미 담보… 호반에 자금력 밀리는 조원태",
-        "\"설마했는데 진짜 上쳤네\"…'곡소리' 속 나홀로 '싱글벙글'한 주식",
-        "한진칼 주식 절반 이상이 이미 담보… 호반에 자금력 밀리는 조원태"
+        "뉴욕증시, 美중간선거 당일 혼조 마감…반도체주 반등 나스닥 0.83%↑",
+        "뉴욕증시, 美중간선거 당일 혼조 마감…반도체주 반등 나스닥 0.83%↑",
+        "뉴욕증시, 美중간선거 당일 혼조 마감…반도체주 반등 나스닥 0.83%↑"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "반등",
+      "count": 4,
+      "representative_title": "'너무 떨어졌나' 기술주 숨통 트였다…엔비디아·AMD 줄줄이 반등",
+      "representative_link": "https://n.news.naver.com/article/215/0001271560?ntype=RANKING",
+      "press": "한국경제TV",
+      "related_articles": [
+        {
+          "title": "'너무 떨어졌나' 기술주 숨통 트였다…엔비디아·AMD 줄줄이 반등",
+          "link": "https://n.news.naver.com/article/215/0001271560?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "'너무 떨어졌나' 기술주 숨통 트였다…엔비디아·AMD 줄줄이 반등",
+          "link": "https://n.news.naver.com/article/215/0001271560?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "'너무 떨어졌나' 기술주 숨통 트였다…엔비디아·AMD 줄줄이 반등",
+          "link": "https://n.news.naver.com/article/215/0001271560?ntype=RANKING",
+          "press": "한국경제TV"
+        }
+      ],
+      "related_titles": [
+        "'너무 떨어졌나' 기술주 숨통 트였다…엔비디아·AMD 줄줄이 반등",
+        "'너무 떨어졌나' 기술주 숨통 트였다…엔비디아·AMD 줄줄이 반등",
+        "'너무 떨어졌나' 기술주 숨통 트였다…엔비디아·AMD 줄줄이 반등"
       ],
       "category": "주식/코인"
     }
@@ -467,13 +547,13 @@
           "press": ""
         },
         {
-          "title": "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ib3VMdGJtaW5ad1F4bmFZOTdFaFF2M3dRZjEyVnFOTXVtU000Z0RlRjVvSGZ1eEJmYzRMblE1YUgxbjAzMkhEUllGUQ?oc=5",
+          "title": "[부동산 리뷰] 90주 상승한 서울 집값, 12월부터 하락 반전하나",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54Z2syTndfM0FNUTNzTlVmLXREekl6Nk1jVUlScTJIaFhwYXhKME1PRlBfdkx5Ujlxd3lLVU9Fb2ZMejZPdU90bmdzUU5ubWVaT1VYbzNwaDhhM2c5TXU3RjZOVXB2QXMtUjNXeG5NZTQ?oc=5",
           "press": ""
         },
         {
-          "title": "[부동산 리뷰] 90주 상승한 서울 집값, 12월부터 하락 반전하나",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54Z2syTndfM0FNUTNzTlVmLXREekl6Nk1jVUlScTJIaFhwYXhKME1PRlBfdkx5Ujlxd3lLVU9Fb2ZMejZPdU90bmdzUU5ubWVaT1VYbzNwaDhhM2c5TXU3RjZOVXB2QXMtUjNXeG5NZTQ?oc=5",
+          "title": "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ib3VMdGJtaW5ad1F4bmFZOTdFaFF2M3dRZjEyVnFOTXVtU000Z0RlRjVvSGZ1eEJmYzRMblE1YUgxbjAzMkhEUllGUQ?oc=5",
           "press": ""
         }
       ],
@@ -481,13 +561,32 @@
         "李 “서울 아파트 매물 급증…집값 놀라울 정도로 떨어지고 있다”",
         "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승",
         "李대통령 \"서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져\"",
-        "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산",
-        "[부동산 리뷰] 90주 상승한 서울 집값, 12월부터 하락 반전하나"
+        "[부동산 리뷰] 90주 상승한 서울 집값, 12월부터 하락 반전하나",
+        "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산"
       ],
       "category": "부동산"
     },
     {
       "rank": 2,
+      "keyword": "놀라울",
+      "count": 4,
+      "representative_title": "[팩트체크] 李대통령 “집값 놀라울 정도로 떨어져”…사실일까?",
+      "representative_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tekcxaUhZWjdseXprcktFNDlLTlNKc1N6VWttNEc1X2F5TmRKd2FMN29Ya0pBZmE3d3dMRzBOT1RzbkNic3ZDbGlJa1Q4bHczOWJaRUp0OUxJclEteGVyS2pBb2N6OEhfbU9oWUhWY9IBc0FVX3lxTE9IY0hEdlE5N3FTZXU4NWY5Tk91MUhINXVOMWZYTm1tbTI3Z2lOQmo5LVlyMEctbklOd0VzQUQ3ZEhyOGVwcnh6YmlFQmI2bzZsYXZfeExPRXNBZi1NR2NzVFgxUEhlQkNXSGVRd0NkUWtIcG8?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[팩트체크] 李대통령 “집값 놀라울 정도로 떨어져”…사실일까?",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tekcxaUhZWjdseXprcktFNDlLTlNKc1N6VWttNEc1X2F5TmRKd2FMN29Ya0pBZmE3d3dMRzBOT1RzbkNic3ZDbGlJa1Q4bHczOWJaRUp0OUxJclEteGVyS2pBb2N6OEhfbU9oWUhWY9IBc0FVX3lxTE9IY0hEdlE5N3FTZXU4NWY5Tk91MUhINXVOMWZYTm1tbTI3Z2lOQmo5LVlyMEctbklOd0VzQUQ3ZEhyOGVwcnh6YmlFQmI2bzZsYXZfeExPRXNBZi1NR2NzVFgxUEhlQkNXSGVRd0NkUWtIcG8?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[팩트체크] 李대통령 “집값 놀라울 정도로 떨어져”…사실일까?"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
       "keyword": "품은",
       "count": 2,
       "representative_title": "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'",
@@ -512,7 +611,7 @@
       "category": "부동산"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "강남",
       "count": 2,
       "representative_title": "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
@@ -537,7 +636,7 @@
       "category": "부동산"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "통계",
       "count": 2,
       "representative_title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
