@@ -1,317 +1,274 @@
 {
   "date": "2026-11-05",
-  "hour": "13",
-  "slot": "2026-11-05_13",
-  "crawled_at": "2026-11-05 13:09:23",
-  "total_articles": 405,
+  "hour": "16",
+  "slot": "2026-11-05_16",
+  "crawled_at": "2026-11-05 16:00:01",
+  "total_articles": 402,
   "topics": [
     {
       "rank": 1,
       "keyword": "트럼프",
-      "count": 25,
-      "representative_title": "트럼프 \"이란 전쟁 때문에 중간선거 패배\"",
-      "representative_link": "https://n.news.naver.com/article/050/0000112837?ntype=RANKING",
-      "press": "한경비즈니스",
+      "count": 18,
+      "representative_title": "캐나다, 트럼프 참패에 환호…\"펄쩍펄쩍 뛰며 기뻐해\"",
+      "representative_link": "https://n.news.naver.com/article/422/0000923100?ntype=RANKING",
+      "press": "연합뉴스TV",
       "related_articles": [
         {
-          "title": "‘블루 싹쓸이’에 모두가 웃었다, 반도체만 빼고 [트럼프 스톡커]",
-          "link": "https://n.news.naver.com/article/011/0004678947?ntype=RANKING",
-          "press": "서울경제"
+          "title": "“이란 전쟁 때문에 졌다” 인정한 트럼프…헤그세스에 책임 돌리며 “그래도 교체 안 해”[1일1트]",
+          "link": "https://n.news.naver.com/article/016/0002719010?ntype=RANKING",
+          "press": "헤럴드경제"
         },
         {
-          "title": "트럼프, 선거 패배 \"내탓 아냐\"...데이브 민, 하원의원 재선 성공",
-          "link": "https://n.news.naver.com/article/052/0002428635?ntype=RANKING",
-          "press": "YTN"
+          "title": "\"중간선거 참패한 트럼프, 헤그세스 국방장관 교체 검토\"",
+          "link": "https://n.news.naver.com/article/214/0001533651?ntype=RANKING",
+          "press": "MBC"
         },
         {
-          "title": "\"트럼프 졌대\" 中서 조롱 봇물…7000만뷰 터졌지만 속내는 복잡 [차이나 워치]",
-          "link": "https://n.news.naver.com/article/015/0005350584?ntype=RANKING",
-          "press": "한국경제"
-        },
-        {
-          "title": "트럼프 \"탄핵 시도 땐 민주당 파멸\"… 중간선거 참패 속 '강력 경고'",
-          "link": "https://n.news.naver.com/article/469/0000963761?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "\"선거 참패\" 두고 서로 '으르렁'…트럼프 손절한 머독?",
-          "link": "https://n.news.naver.com/article/055/0001400838?ntype=RANKING",
-          "press": "SBS"
-        }
-      ],
-      "related_titles": [
-        "‘블루 싹쓸이’에 모두가 웃었다, 반도체만 빼고 [트럼프 스톡커]",
-        "트럼프, 선거 패배 \"내탓 아냐\"...데이브 민, 하원의원 재선 성공",
-        "\"트럼프 졌대\" 中서 조롱 봇물…7000만뷰 터졌지만 속내는 복잡 [차이나 워치]",
-        "트럼프 \"탄핵 시도 땐 민주당 파멸\"… 중간선거 참패 속 '강력 경고'",
-        "\"선거 참패\" 두고 서로 '으르렁'…트럼프 손절한 머독?"
-      ],
-      "category": "산업/테크"
-    },
-    {
-      "rank": 2,
-      "keyword": "중간선거",
-      "count": 16,
-      "representative_title": "美 중간선거 후폭풍, AI 데이터센터 강타하나",
-      "representative_link": "https://n.news.naver.com/article/092/0002443975?ntype=RANKING",
-      "press": "지디넷코리아",
-      "related_articles": [
-        {
-          "title": "트럼프의 '중간선거 역사적 패배’…세 번째 탄핵 소추도 이뤄지나",
-          "link": "https://n.news.naver.com/article/003/0014303040?ntype=RANKING",
-          "press": "뉴시스"
-        },
-        {
-          "title": "“머스크, 선거 최대 패배자”…거액 후원 후보 낙선에 데이터센터 사업도 불똥[미 중간선거]",
-          "link": "https://n.news.naver.com/article/032/0003480805?ntype=RANKING",
+          "title": "“트럼프 범죄 일가·측근 최우선 조사”···의회 장악한 민주당 첫 경고장[미 중간선거]",
+          "link": "https://n.news.naver.com/article/032/0003480854?ntype=RANKING",
           "press": "경향신문"
         },
         {
-          "title": "미 중간선거 영향?…코스피, 급락에 '매도 사이드카' 발동",
-          "link": "https://n.news.naver.com/article/057/0001976812?ntype=RANKING",
-          "press": "MBN"
+          "title": "[美중간선거] \"트럼프, 헤그세스 국방장관 교체 물밑 검토\"",
+          "link": "https://n.news.naver.com/article/001/0016423215?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "6000억 쏟아붓더니…美 중간선거 최대 패배자는 트럼프도 공화당도 아닌 '이 남자'",
-          "link": "https://n.news.naver.com/article/030/0003482497?ntype=RANKING",
-          "press": "전자신문"
-        },
-        {
-          "title": "중간선거 끝나고 난리 난 머스크...‘블루 쓰나미’에 휩쓸렸다",
-          "link": "https://n.news.naver.com/article/024/0000109401?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "'잔칫날' 맞은 소셜미디어…美중간선거 참패에 쏟아진 '트럼프 밈'",
+          "link": "https://n.news.naver.com/article/018/0006404161?ntype=RANKING",
+          "press": "이데일리"
         }
       ],
       "related_titles": [
-        "트럼프의 '중간선거 역사적 패배’…세 번째 탄핵 소추도 이뤄지나",
-        "“머스크, 선거 최대 패배자”…거액 후원 후보 낙선에 데이터센터 사업도 불똥[미 중간선거]",
-        "미 중간선거 영향?…코스피, 급락에 '매도 사이드카' 발동",
-        "6000억 쏟아붓더니…美 중간선거 최대 패배자는 트럼프도 공화당도 아닌 '이 남자'",
-        "중간선거 끝나고 난리 난 머스크...‘블루 쓰나미’에 휩쓸렸다"
+        "“이란 전쟁 때문에 졌다” 인정한 트럼프…헤그세스에 책임 돌리며 “그래도 교체 안 해”[1일1트]",
+        "\"중간선거 참패한 트럼프, 헤그세스 국방장관 교체 검토\"",
+        "“트럼프 범죄 일가·측근 최우선 조사”···의회 장악한 민주당 첫 경고장[미 중간선거]",
+        "[美중간선거] \"트럼프, 헤그세스 국방장관 교체 물밑 검토\"",
+        "'잔칫날' 맞은 소셜미디어…美중간선거 참패에 쏟아진 '트럼프 밈'"
       ],
-      "category": "경제/투자"
+      "category": "국제"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "keyword": "대통령",
-      "count": 14,
+      "count": 15,
       "representative_title": "이 대통령 사랑제일교회 보며, \"말이 안 되는 것\"",
       "representative_link": "https://n.news.naver.com/article/665/0000008495?ntype=RANKING",
       "press": "더스쿠프",
       "related_articles": [
+        {
+          "title": "[속보]이 대통령 “수능서 스마트 안경 등 이용한 부정행위 원천 차단해야”",
+          "link": "https://n.news.naver.com/article/022/0004172764?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "91주 상승 서울, 강남·서초는 하락…李대통령 \"부동산 불패신화 깨야\"",
+          "link": "https://n.news.naver.com/article/421/0009272375?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "이 대통령 사랑제일교회 보며, \"말이 안 되는 것\"",
+          "link": "https://n.news.naver.com/article/665/0000008495?ntype=RANKING",
+          "press": "더스쿠프"
+        },
         {
           "title": "[단독] '마은혁 미임명 위헌'으로 李대통령 겨눈 국힘…조희대 제청권 엄호",
           "link": "https://n.news.naver.com/article/079/0004206782?ntype=RANKING",
           "press": "노컷뉴스"
         },
         {
-          "title": "재개발서 빠진 '전광훈 교회'…이 대통령 \"법 어겨도 버티면 되는 세상 없다\"",
-          "link": "https://n.news.naver.com/article/437/0000519246?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "\"내 죄 내가 심판? 루이 14세냐\"… 한동훈, 李대통령 작심 비판",
-          "link": "https://n.news.naver.com/article/655/0000033440?ntype=RANKING",
-          "press": "CJB청주방송"
-        },
-        {
-          "title": "[속보]李대통령 20대 지지율 12.7%p 급등 40%-미디어토마토",
-          "link": "https://n.news.naver.com/article/021/0002830472?ntype=RANKING",
-          "press": "문화일보"
-        },
-        {
-          "title": "‘자기땅에서 유배당한’ 노무현… 김종인 “李대통령 그렇게 될 수도”[허민의 정치카페]",
-          "link": "https://n.news.naver.com/article/021/0002830469?ntype=RANKING",
-          "press": "문화일보"
+          "title": "돌아선 줄 알았는데…李대통령 20대 지지율 12.7%p 급등",
+          "link": "https://n.news.naver.com/article/448/0000649166?ntype=RANKING",
+          "press": "TV조선"
         }
       ],
       "related_titles": [
+        "[속보]이 대통령 “수능서 스마트 안경 등 이용한 부정행위 원천 차단해야”",
+        "91주 상승 서울, 강남·서초는 하락…李대통령 \"부동산 불패신화 깨야\"",
+        "이 대통령 사랑제일교회 보며, \"말이 안 되는 것\"",
         "[단독] '마은혁 미임명 위헌'으로 李대통령 겨눈 국힘…조희대 제청권 엄호",
-        "재개발서 빠진 '전광훈 교회'…이 대통령 \"법 어겨도 버티면 되는 세상 없다\"",
-        "\"내 죄 내가 심판? 루이 14세냐\"… 한동훈, 李대통령 작심 비판",
-        "[속보]李대통령 20대 지지율 12.7%p 급등 40%-미디어토마토",
-        "‘자기땅에서 유배당한’ 노무현… 김종인 “李대통령 그렇게 될 수도”[허민의 정치카페]"
+        "돌아선 줄 알았는데…李대통령 20대 지지율 12.7%p 급등"
       ],
       "category": "정치"
     },
     {
-      "rank": 4,
-      "keyword": "국힘",
-      "count": 12,
-      "representative_title": "조작기소 특검법안, 오늘 본회의 상정…국힘 \"마침내 선 넘었다\"",
-      "representative_link": "https://n.news.naver.com/article/437/0000519267?ntype=RANKING",
-      "press": "JTBC",
-      "related_articles": [
-        {
-          "title": "윤석열 당선무효형에 국힘 박형수 “397억 반환, 확정되면 받아들여야”",
-          "link": "https://n.news.naver.com/article/028/0002830788?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "조작기소 특검법안, 오늘 본회의 상정…국힘 \"마침내 선 넘었다\"",
-          "link": "https://n.news.naver.com/article/437/0000519267?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "국힘 김태호 “한동훈 전격 복당 추진해야”···당내선 “그런 말할 때 아냐” 반발도",
-          "link": "https://n.news.naver.com/article/032/0003480829?ntype=RANKING",
-          "press": "경향신문"
-        },
-        {
-          "title": "국힘 “미래대응기금 전면 철회해야…빚 갚으면 국채 이자 연간 3兆 줄여”",
-          "link": "https://n.news.naver.com/article/366/0001202768?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "'조작기소 특검법안' 상정 예고...국힘 \"독재 맞서야\" 필버 대응",
-          "link": "https://n.news.naver.com/article/660/0000120652?ntype=RANKING",
-          "press": "kbc광주방송"
-        }
-      ],
-      "related_titles": [
-        "윤석열 당선무효형에 국힘 박형수 “397억 반환, 확정되면 받아들여야”",
-        "조작기소 특검법안, 오늘 본회의 상정…국힘 \"마침내 선 넘었다\"",
-        "국힘 김태호 “한동훈 전격 복당 추진해야”···당내선 “그런 말할 때 아냐” 반발도",
-        "국힘 “미래대응기금 전면 철회해야…빚 갚으면 국채 이자 연간 3兆 줄여”",
-        "'조작기소 특검법안' 상정 예고...국힘 \"독재 맞서야\" 필버 대응"
-      ],
-      "category": "사회/일반"
-    },
-    {
-      "rank": 5,
-      "keyword": "반도체",
-      "count": 12,
-      "representative_title": "“용인 반도체 산단, 지방 소멸 불러온다”",
-      "representative_link": "https://n.news.naver.com/article/036/0000054407?ntype=RANKING",
-      "press": "한겨레21",
-      "related_articles": [
-        {
-          "title": "‘반도체 급락’에 고수는 삼성전자 팔고 삼성전기·한국콜마 담았다 [주식 초고수는 지금]",
-          "link": "https://n.news.naver.com/article/011/0004679032?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "3300조원 美데이터센터 ‘유탄’ 우려… “K반도체 미래 수익성 변수될 수도”",
-          "link": "https://n.news.naver.com/article/005/0001883029?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "‘블루 쓰나미’ 직격탄… 美 빅테크 날고 韓 반도체 추락",
-          "link": "https://n.news.naver.com/article/021/0002830555?ntype=RANKING",
-          "press": "문화일보"
-        },
-        {
-          "title": "이번엔 美 '반도체 쇼크'…코스피, 5%대 급락에 매도 사이드카",
-          "link": "https://n.news.naver.com/article/003/0014303032?ntype=RANKING",
-          "press": "뉴시스"
-        },
-        {
-          "title": "[단독]카페 대표·의사가… 호남 반도체 6조 지원금 심의",
-          "link": "https://n.news.naver.com/article/023/0004007872?ntype=RANKING",
-          "press": "조선일보"
-        }
-      ],
-      "related_titles": [
-        "‘반도체 급락’에 고수는 삼성전자 팔고 삼성전기·한국콜마 담았다 [주식 초고수는 지금]",
-        "3300조원 美데이터센터 ‘유탄’ 우려… “K반도체 미래 수익성 변수될 수도”",
-        "‘블루 쓰나미’ 직격탄… 美 빅테크 날고 韓 반도체 추락",
-        "이번엔 美 '반도체 쇼크'…코스피, 5%대 급락에 매도 사이드카",
-        "[단독]카페 대표·의사가… 호남 반도체 6조 지원금 심의"
-      ],
-      "category": "경제/투자"
-    }
-  ],
-  "stock_topics": [
-    {
-      "rank": 1,
-      "keyword": "삼성전자",
-      "count": 12,
-      "representative_title": "[속보]삼성전자, 신규 노조 설립 추진",
-      "representative_link": "https://n.news.naver.com/article/050/0000112859?ntype=RANKING",
-      "press": "한경비즈니스",
-      "related_articles": [
-        {
-          "title": "‘반도체 급락’에 고수는 삼성전자 팔고 삼성전기·한국콜마 담았다 [주식 초고수는 지금]",
-          "link": "https://n.news.naver.com/article/011/0004679032?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "삼성전자 18만원대·하이닉스 90만원까지?…지금 ‘물타기’ 말리는 이유 [숫자 뒤의 진실]",
-          "link": "https://n.news.naver.com/article/022/0004172614?ntype=RANKING",
-          "press": "세계일보"
-        },
-        {
-          "title": "[속보] ‘노노갈등’ 삼성전자, 6번째 노조 생긴다…동행·초기업노조 출신 주도",
-          "link": "https://n.news.naver.com/article/029/0003057302?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "[단독] 삼성전자 '제 6노조' 설립 추진…기존 양대 노조 출신들 뭉쳤다",
-          "link": "https://n.news.naver.com/article/031/0001072350?ntype=RANKING",
-          "press": "아이뉴스24"
-        },
-        {
-          "title": "“대안이 없다”… 삼성전자, 中 LCD 패널값 인상에 TV 사업 적자 장기화 우려",
-          "link": "https://n.news.naver.com/article/366/0001202666?ntype=RANKING",
-          "press": "조선비즈"
-        }
-      ],
-      "related_titles": [
-        "‘반도체 급락’에 고수는 삼성전자 팔고 삼성전기·한국콜마 담았다 [주식 초고수는 지금]",
-        "삼성전자 18만원대·하이닉스 90만원까지?…지금 ‘물타기’ 말리는 이유 [숫자 뒤의 진실]",
-        "[속보] ‘노노갈등’ 삼성전자, 6번째 노조 생긴다…동행·초기업노조 출신 주도",
-        "[단독] 삼성전자 '제 6노조' 설립 추진…기존 양대 노조 출신들 뭉쳤다",
-        "“대안이 없다”… 삼성전자, 中 LCD 패널값 인상에 TV 사업 적자 장기화 우려"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 2,
+      "rank": 3,
       "keyword": "코스피",
-      "count": 9,
-      "representative_title": "코스피 급락에 매도 사이드카 발동… 올해 56번째",
-      "representative_link": "https://n.news.naver.com/article/656/0000191539?ntype=RANKING",
-      "press": "대전일보",
+      "count": 13,
+      "representative_title": "코스피 이어 코스닥도 ‘매도 사이드카’ 발동",
+      "representative_link": "https://n.news.naver.com/article/366/0001202823?ntype=RANKING",
+      "press": "조선비즈",
       "related_articles": [
-        {
-          "title": "이번엔 美 '반도체 쇼크'…코스피, 5%대 급락에 매도 사이드카",
-          "link": "https://n.news.naver.com/article/003/0014303032?ntype=RANKING",
-          "press": "뉴시스"
-        },
-        {
-          "title": "미 중간선거 영향?…코스피, 급락에 '매도 사이드카' 발동",
-          "link": "https://n.news.naver.com/article/057/0001976812?ntype=RANKING",
-          "press": "MBN"
-        },
         {
           "title": "“코스피 5000선까지 무너질 수” 미국 선거 끝나도 코스피는 오르락내리락 [투자360]",
           "link": "https://n.news.naver.com/article/016/0002718940?ntype=RANKING",
           "press": "헤럴드경제"
         },
         {
-          "title": "코스피 급락에 매도 사이드카 발동… 올해 56번째",
-          "link": "https://n.news.naver.com/article/656/0000191539?ntype=RANKING",
+          "title": "‘블루쓰나미’ 덮친 코스피 5%대 급락…삼전 7%↓ SK하닉 9%↓",
+          "link": "https://n.news.naver.com/article/020/0003760254?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "[속보] 급락장에 코스피 이어 코스닥도 매도 사이드카",
+          "link": "https://n.news.naver.com/article/005/0001883230?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "코스피 이어 코스닥 매도 사이드카… 지수 5%대 급락",
+          "link": "https://n.news.naver.com/article/656/0000191570?ntype=RANKING",
           "press": "대전일보"
         },
         {
-          "title": "[속보] 코스피, 4%대 급락에 '매도 사이드카' 발동…5500선 아래로",
-          "link": "https://n.news.naver.com/article/654/0000209554?ntype=RANKING",
-          "press": "강원도민일보"
+          "title": "[속보] 코스피 이어 코스닥도 매도 사이드카… 680선으로 털썩",
+          "link": "https://n.news.naver.com/article/469/0000963817?ntype=RANKING",
+          "press": "한국일보"
         }
       ],
       "related_titles": [
-        "이번엔 美 '반도체 쇼크'…코스피, 5%대 급락에 매도 사이드카",
-        "미 중간선거 영향?…코스피, 급락에 '매도 사이드카' 발동",
         "“코스피 5000선까지 무너질 수” 미국 선거 끝나도 코스피는 오르락내리락 [투자360]",
-        "코스피 급락에 매도 사이드카 발동… 올해 56번째",
-        "[속보] 코스피, 4%대 급락에 '매도 사이드카' 발동…5500선 아래로"
+        "‘블루쓰나미’ 덮친 코스피 5%대 급락…삼전 7%↓ SK하닉 9%↓",
+        "[속보] 급락장에 코스피 이어 코스닥도 매도 사이드카",
+        "코스피 이어 코스닥 매도 사이드카… 지수 5%대 급락",
+        "[속보] 코스피 이어 코스닥도 매도 사이드카… 680선으로 털썩"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 4,
+      "keyword": "민주당",
+      "count": 13,
+      "representative_title": "블룸버그 “美 민주당 승리는 韓 반도체 변수”",
+      "representative_link": "https://n.news.naver.com/article/024/0000109393?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "“현대차 무슨 일 있습니까”…美 민주당 승리에 ‘친환경차’ 기대감",
+          "link": "https://n.news.naver.com/article/009/0005759361?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "美 민주당 압승에 AI 데이터센터 건설 계획 40% 영향권… “AI 과속 투자 제동, 빅테크에 호재”",
+          "link": "https://n.news.naver.com/article/366/0001202785?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "민주당 美 의회 장악에 볕드는 韓 에너지업계… “배터리·태양광 수혜”",
+          "link": "https://n.news.naver.com/article/366/0001202800?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "[속보] 美민주당 압승에 뉴욕 증시 환호…유가 급락세",
+          "link": "https://n.news.naver.com/article/002/0002464349?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "[속보] 한동훈 \"민주당, 尹 판결 환영하더니… 너희 논리대로라면 李도 당선무효형 유죄\"",
+          "link": "https://n.news.naver.com/article/655/0000033456?ntype=RANKING",
+          "press": "CJB청주방송"
+        }
+      ],
+      "related_titles": [
+        "“현대차 무슨 일 있습니까”…美 민주당 승리에 ‘친환경차’ 기대감",
+        "美 민주당 압승에 AI 데이터센터 건설 계획 40% 영향권… “AI 과속 투자 제동, 빅테크에 호재”",
+        "민주당 美 의회 장악에 볕드는 韓 에너지업계… “배터리·태양광 수혜”",
+        "[속보] 美민주당 압승에 뉴욕 증시 환호…유가 급락세",
+        "[속보] 한동훈 \"민주당, 尹 판결 환영하더니… 너희 논리대로라면 李도 당선무효형 유죄\""
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 5,
+      "keyword": "여성",
+      "count": 13,
+      "representative_title": "여성 목발 부러뜨리고 술 먹이고…카광에 맞선 변호사",
+      "representative_link": "https://n.news.naver.com/article/055/0001400878?ntype=RANKING",
+      "press": "SBS",
+      "related_articles": [
+        {
+          "title": "\"인도네시아서 스노클링하다가\"…한국인 여성 한 달째 '행방불명'",
+          "link": "https://n.news.naver.com/article/437/0000519276?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "\"축의금 돌려줍니다\"…흰 드레스 입고 '이혼식' 연 여성, 120만 명 봤다",
+          "link": "https://n.news.naver.com/article/014/0005599663?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "[단독] 전자발찌 떼자마자 살해…피해 여성 알고 보니",
+          "link": "https://n.news.naver.com/article/055/0001400849?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "여성 목발 부러뜨리고 술 먹이고…카광에 맞선 변호사",
+          "link": "https://n.news.naver.com/article/055/0001400878?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "[속보] SUV 차량 주차장서 돌진…70대 여성 1명 사망·1명 중상",
+          "link": "https://n.news.naver.com/article/087/0001228798?ntype=RANKING",
+          "press": "강원일보"
+        }
+      ],
+      "related_titles": [
+        "\"인도네시아서 스노클링하다가\"…한국인 여성 한 달째 '행방불명'",
+        "\"축의금 돌려줍니다\"…흰 드레스 입고 '이혼식' 연 여성, 120만 명 봤다",
+        "[단독] 전자발찌 떼자마자 살해…피해 여성 알고 보니",
+        "여성 목발 부러뜨리고 술 먹이고…카광에 맞선 변호사",
+        "[속보] SUV 차량 주차장서 돌진…70대 여성 1명 사망·1명 중상"
+      ],
+      "category": "산업/테크"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 13,
+      "representative_title": "코스피 이어 코스닥도 ‘매도 사이드카’ 발동",
+      "representative_link": "https://n.news.naver.com/article/366/0001202823?ntype=RANKING",
+      "press": "조선비즈",
+      "related_articles": [
+        {
+          "title": "“코스피 5000선까지 무너질 수” 미국 선거 끝나도 코스피는 오르락내리락 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002718940?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "‘블루쓰나미’ 덮친 코스피 5%대 급락…삼전 7%↓ SK하닉 9%↓",
+          "link": "https://n.news.naver.com/article/020/0003760254?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "[속보] 급락장에 코스피 이어 코스닥도 매도 사이드카",
+          "link": "https://n.news.naver.com/article/005/0001883230?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "코스피 이어 코스닥 매도 사이드카… 지수 5%대 급락",
+          "link": "https://n.news.naver.com/article/656/0000191570?ntype=RANKING",
+          "press": "대전일보"
+        },
+        {
+          "title": "[속보] 코스피 이어 코스닥도 매도 사이드카… 680선으로 털썩",
+          "link": "https://n.news.naver.com/article/469/0000963817?ntype=RANKING",
+          "press": "한국일보"
+        }
+      ],
+      "related_titles": [
+        "“코스피 5000선까지 무너질 수” 미국 선거 끝나도 코스피는 오르락내리락 [투자360]",
+        "‘블루쓰나미’ 덮친 코스피 5%대 급락…삼전 7%↓ SK하닉 9%↓",
+        "[속보] 급락장에 코스피 이어 코스닥도 매도 사이드카",
+        "코스피 이어 코스닥 매도 사이드카… 지수 5%대 급락",
+        "[속보] 코스피 이어 코스닥도 매도 사이드카… 680선으로 털썩"
       ],
       "category": "주식/코인"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "keyword": "매도",
-      "count": 8,
+      "count": 11,
       "representative_title": "또 켜진 매도 사이드카…삼전닉스 급락에 '5400피'로 추락",
       "representative_link": "https://n.news.naver.com/article/629/0000548994?ntype=RANKING",
       "press": "더팩트",
@@ -352,32 +309,65 @@
       "category": "주식/코인"
     },
     {
+      "rank": 3,
+      "keyword": "삼성전자",
+      "count": 9,
+      "representative_title": "[속보]삼성전자, 신규 노조 설립 추진",
+      "representative_link": "https://n.news.naver.com/article/050/0000112859?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "삼성전자 18만원대·하이닉스 90만원까지?…지금 ‘물타기’ 말리는 이유 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004172614?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "‘반도체 급락’에 고수는 삼성전자 팔고 삼성전기·한국콜마 담았다 [주식 초고수는 지금]",
+          "link": "https://n.news.naver.com/article/011/0004679032?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "“대안이 없다”… 삼성전자, 中 LCD 패널값 인상에 TV 사업 적자 장기화 우려",
+          "link": "https://n.news.naver.com/article/366/0001202666?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "삼성전자 이어 SK하이닉스도...증권사 '주식보상 계좌' 유치전",
+          "link": "https://n.news.naver.com/article/648/0000052277?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "[속보] ‘노노갈등’ 삼성전자, 6번째 노조 생긴다…동행·초기업노조 출신 주도",
+          "link": "https://n.news.naver.com/article/029/0003057302?ntype=RANKING",
+          "press": "디지털타임스"
+        }
+      ],
+      "related_titles": [
+        "삼성전자 18만원대·하이닉스 90만원까지?…지금 ‘물타기’ 말리는 이유 [숫자 뒤의 진실]",
+        "‘반도체 급락’에 고수는 삼성전자 팔고 삼성전기·한국콜마 담았다 [주식 초고수는 지금]",
+        "“대안이 없다”… 삼성전자, 中 LCD 패널값 인상에 TV 사업 적자 장기화 우려",
+        "삼성전자 이어 SK하이닉스도...증권사 '주식보상 계좌' 유치전",
+        "[속보] ‘노노갈등’ 삼성전자, 6번째 노조 생긴다…동행·초기업노조 출신 주도"
+      ],
+      "category": "주식/코인"
+    },
+    {
       "rank": 4,
       "keyword": "급락",
       "count": 7,
-      "representative_title": "삼전닉스 급락…美민주당 압승에 ‘AI데이터센터 규제 강화’ 우려",
-      "representative_link": "https://n.news.naver.com/article/020/0003760254?ntype=RANKING",
-      "press": "동아일보",
+      "representative_title": "삼전 6%·하닉 8% 급락…美증시 뛰었는데 반도체는 왜? [칩칩폭폭]",
+      "representative_link": "https://n.news.naver.com/article/123/0002393386?ntype=RANKING",
+      "press": "조세일보",
       "related_articles": [
-        {
-          "title": "삼전닉스 급락…美민주당 압승에 ‘AI데이터센터 규제 강화’ 우려",
-          "link": "https://n.news.naver.com/article/020/0003760254?ntype=RANKING",
-          "press": "동아일보"
-        },
         {
           "title": "삼전 6%·하닉 8% 급락…美증시 뛰었는데 반도체는 왜? [칩칩폭폭]",
           "link": "https://n.news.naver.com/article/123/0002393386?ntype=RANKING",
           "press": "조세일보"
         },
         {
-          "title": "美 증시 3% 급등했는데 코스피는 2% 급락… 반도체에 무슨  일이",
-          "link": "https://n.news.naver.com/article/661/0000086155?ntype=RANKING",
-          "press": "JIBS"
-        },
-        {
-          "title": "삼전닉스 급락…美민주당 압승에 ‘AI데이터센터 규제 강화’ 우려",
-          "link": "https://n.news.naver.com/article/020/0003760254?ntype=RANKING",
-          "press": "동아일보"
+          "title": "삼전 6%·하닉 8% 급락…美증시 뛰었는데 반도체는 왜? [칩칩폭폭]",
+          "link": "https://n.news.naver.com/article/123/0002393386?ntype=RANKING",
+          "press": "조세일보"
         },
         {
           "title": "삼전 6%·하닉 8% 급락…美증시 뛰었는데 반도체는 왜? [칩칩폭폭]",
@@ -386,54 +376,52 @@
         }
       ],
       "related_titles": [
-        "삼전닉스 급락…美민주당 압승에 ‘AI데이터센터 규제 강화’ 우려",
         "삼전 6%·하닉 8% 급락…美증시 뛰었는데 반도체는 왜? [칩칩폭폭]",
-        "美 증시 3% 급등했는데 코스피는 2% 급락… 반도체에 무슨  일이",
-        "삼전닉스 급락…美민주당 압승에 ‘AI데이터센터 규제 강화’ 우려",
+        "삼전 6%·하닉 8% 급락…美증시 뛰었는데 반도체는 왜? [칩칩폭폭]",
         "삼전 6%·하닉 8% 급락…美증시 뛰었는데 반도체는 왜? [칩칩폭폭]"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "선물",
-      "count": 3,
-      "representative_title": "간호사 꿈꾸던 22세 전수연 씨, 장기기증으로 8명에 새 생명 선물",
-      "representative_link": "https://n.news.naver.com/article/087/0001228732?ntype=RANKING",
-      "press": "강원일보",
+      "keyword": "급등",
+      "count": 4,
+      "representative_title": "돌아선 줄 알았는데…李대통령 20대 지지율 12.7%p 급등",
+      "representative_link": "https://n.news.naver.com/article/448/0000649166?ntype=RANKING",
+      "press": "TV조선",
       "related_articles": [
         {
-          "title": "간호사 꿈꾸던 22세 전수연 씨, 장기기증으로 8명에 새 생명 선물",
-          "link": "https://n.news.naver.com/article/087/0001228732?ntype=RANKING",
-          "press": "강원일보"
+          "title": "돌아선 줄 알았는데…李대통령 20대 지지율 12.7%p 급등",
+          "link": "https://n.news.naver.com/article/448/0000649166?ntype=RANKING",
+          "press": "TV조선"
         },
         {
-          "title": "\"하루 종일 우울했는데\"…퇴근길 엘리베이터에서 발견한 '뜻밖의 선물' [살맛나는 세상]",
-          "link": "https://n.news.naver.com/article/660/0000120626?ntype=RANKING",
-          "press": "kbc광주방송"
+          "title": "[속보]李대통령 20대 지지율 12.7%p 급등 40%-미디어토마토",
+          "link": "https://n.news.naver.com/article/021/0002830472?ntype=RANKING",
+          "press": "문화일보"
         },
         {
-          "title": "\"엄마 딸로 태어나줘서 고마워\" 22세 전수연씨 8명에게 새 삶 선물",
-          "link": "https://n.news.naver.com/article/654/0000209553?ntype=RANKING",
-          "press": "강원도민일보"
+          "title": "[DD's톡] \"폭락장에도 급등\"…네카오 주가, 8% 이상 뛴 이유는",
+          "link": "https://n.news.naver.com/article/138/0002247417?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "간호사 꿈꾸던 22세 전수연 씨, 장기기증으로 8명에 새 생명 선물",
-          "link": "https://n.news.naver.com/article/087/0001228732?ntype=RANKING",
-          "press": "강원일보"
+          "title": "[속보] 李대통령 지지율 40.6%…20대 12.7%p ‘급등’ [미디어토마토]",
+          "link": "https://n.news.naver.com/article/024/0000109403?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
-          "title": "\"하루 종일 우울했는데\"…퇴근길 엘리베이터에서 발견한 '뜻밖의 선물' [살맛나는 세상]",
-          "link": "https://n.news.naver.com/article/660/0000120626?ntype=RANKING",
-          "press": "kbc광주방송"
+          "title": "돌아선 줄 알았는데…李대통령 20대 지지율 12.7%p 급등",
+          "link": "https://n.news.naver.com/article/448/0000649166?ntype=RANKING",
+          "press": "TV조선"
         }
       ],
       "related_titles": [
-        "간호사 꿈꾸던 22세 전수연 씨, 장기기증으로 8명에 새 생명 선물",
-        "\"하루 종일 우울했는데\"…퇴근길 엘리베이터에서 발견한 '뜻밖의 선물' [살맛나는 세상]",
-        "\"엄마 딸로 태어나줘서 고마워\" 22세 전수연씨 8명에게 새 삶 선물",
-        "간호사 꿈꾸던 22세 전수연 씨, 장기기증으로 8명에 새 생명 선물",
-        "\"하루 종일 우울했는데\"…퇴근길 엘리베이터에서 발견한 '뜻밖의 선물' [살맛나는 세상]"
+        "돌아선 줄 알았는데…李대통령 20대 지지율 12.7%p 급등",
+        "[속보]李대통령 20대 지지율 12.7%p 급등 40%-미디어토마토",
+        "[DD's톡] \"폭락장에도 급등\"…네카오 주가, 8% 이상 뛴 이유는",
+        "[속보] 李대통령 지지율 40.6%…20대 12.7%p ‘급등’ [미디어토마토]",
+        "돌아선 줄 알았는데…李대통령 20대 지지율 12.7%p 급등"
       ],
       "category": "주식/코인"
     }
@@ -487,46 +475,6 @@
     },
     {
       "rank": 3,
-      "keyword": "사이버보안",
-      "series_title": "사이버보안의 몰락",
-      "count": 1,
-      "representative_title": "[보안칼럼] 인간중심 사이버보안의 몰락",
-      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWWtqUTRxMUJHQU8zeVRhLXBIbGNEbHFobno3NmVuOW5lTDRCVVdCSGZLaDN0NXJMM2VBSGxBVUtBT1dDYTM2anJVYVVuaGhRMkZpYmx3?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "[보안칼럼] 인간중심 사이버보안의 몰락",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwWWtqUTRxMUJHQU8zeVRhLXBIbGNEbHFobno3NmVuOW5lTDRCVVdCSGZLaDN0NXJMM2VBSGxBVUtBT1dDYTM2anJVYVVuaGhRMkZpYmx3?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "[보안칼럼] 인간중심 사이버보안의 몰락"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 4,
-      "keyword": "역세권",
-      "series_title": "역세권의 몰락",
-      "count": 1,
-      "representative_title": "양산 역세권 몰락 부추긴 오피스텔 1차 ‘공사재개’ 된다",
-      "representative_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wa3JKbUVYOF84cVVCRjAxNXJmRVNIdTRiT1dwVlAyME8zT2k5VEYxd3lxOVR0NVBhRUhwR0pUNnNpQV9nc1ZfX0I4R0hTRDFlN1llMUI4UG5qdXJOajgzTEVXRQ?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "양산 역세권 몰락 부추긴 오피스텔 1차 ‘공사재개’ 된다",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wa3JKbUVYOF84cVVCRjAxNXJmRVNIdTRiT1dwVlAyME8zT2k5VEYxd3lxOVR0NVBhRUhwR0pUNnNpQV9nc1ZfX0I4R0hTRDFlN1llMUI4UG5qdXJOajgzTEVXRQ?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "양산 역세권 몰락 부추긴 오피스텔 1차 ‘공사재개’ 된다"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 5,
       "keyword": "신화는",
       "series_title": "신화는의 몰락",
       "count": 1,
@@ -544,13 +492,53 @@
         "SKY 졸업장 시대는 저물고 학벌 신화는 몰락....청년 고용시장에 비상"
       ],
       "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "명가",
+      "series_title": "명가의 몰락",
+      "count": 1,
+      "representative_title": "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓",
+      "representative_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bjJ0LTlYMmJfaFFYMjVNd0Y0cUhyblNkM1Rid3gyeFNDRVNEeWN4eFY4QV9FTGlDRGpMbkFCek05cmx4S2NJSUFucURkWkRNSlVzQVFxTnI0UTFsS3R5TFpaLUZfVTJ1aTJVZUdn0gFzQVVfeXFMUDltNnJJd0NkV203emV3SVJNdXJSRFloU1NEUHNreGJTY2xhOGRGUkg1Qm0tdGtEdl9FQVAwaDdfU0pBcEU1eXZnR0J5VXNya0xtTl9yVEk5bXg2NU1ZekRrSnc1SFdtVUFXQmhIX2ozbzVMMA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bjJ0LTlYMmJfaFFYMjVNd0Y0cUhyblNkM1Rid3gyeFNDRVNEeWN4eFY4QV9FTGlDRGpMbkFCek05cmx4S2NJSUFucURkWkRNSlVzQVFxTnI0UTFsS3R5TFpaLUZfVTJ1aTJVZUdn0gFzQVVfeXFMUDltNnJJd0NkV203emV3SVJNdXJSRFloU1NEUHNreGJTY2xhOGRGUkg1Qm0tdGtEdl9FQVAwaDdfU0pBcEU1eXZnR0J5VXNya0xtTl9yVEk5bXg2NU1ZekRrSnc1SFdtVUFXQmhIX2ozbzVMMA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "역세권",
+      "series_title": "역세권의 몰락",
+      "count": 1,
+      "representative_title": "양산 역세권 몰락 부추긴 오피스텔 1차 ‘공사재개’ 된다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wa3JKbUVYOF84cVVCRjAxNXJmRVNIdTRiT1dwVlAyME8zT2k5VEYxd3lxOVR0NVBhRUhwR0pUNnNpQV9nc1ZfX0I4R0hTRDFlN1llMUI4UG5qdXJOajgzTEVXRQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "양산 역세권 몰락 부추긴 오피스텔 1차 ‘공사재개’ 된다",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wa3JKbUVYOF84cVVCRjAxNXJmRVNIdTRiT1dwVlAyME8zT2k5VEYxd3lxOVR0NVBhRUhwR0pUNnNpQV9nc1ZfX0I4R0hTRDFlN1llMUI4UG5qdXJOajgzTEVXRQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "양산 역세권 몰락 부추긴 오피스텔 1차 ‘공사재개’ 된다"
+      ],
+      "category": "몰락"
     }
   ],
   "budongsan_topics": [
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 7,
+      "count": 6,
       "representative_title": "금리·집값 이중고에…서울 생애 첫 주택 매수 '급감'",
       "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10NldKbjRFaElKOE9MNnRHQjlmV093bm1NZXhjRXg5dXpMY0VUV1VwMlFSVmpFeXlzcmlRdndQQUQ2UThPeG04S1liUF9KWE44eU9XMHpWaFRhdXd1LTBSbjM3QXMyOWZGcXc?oc=5",
       "press": "",
@@ -571,13 +559,13 @@
           "press": ""
         },
         {
-          "title": "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yMlRFV0hwc19HNE9BV0VzREZBa25KMS1vaFlyRWFfbER0b2dIR2tlQnJBVzJpQzBQVGtySWVnak1YOXYzSl9RMXBoSG92bXFkSVlwckYyMk9uZw?oc=5",
+          "title": "금리·집값 이중고에…서울 생애 첫 주택 매수 '급감'",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10NldKbjRFaElKOE9MNnRHQjlmV093bm1NZXhjRXg5dXpMY0VUV1VwMlFSVmpFeXlzcmlRdndQQUQ2UThPeG04S1liUF9KWE44eU9XMHpWaFRhdXd1LTBSbjM3QXMyOWZGcXc?oc=5",
           "press": ""
         },
         {
-          "title": "금리·집값 이중고에…서울 생애 첫 주택 매수 '급감'",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10NldKbjRFaElKOE9MNnRHQjlmV093bm1NZXhjRXg5dXpMY0VUV1VwMlFSVmpFeXlzcmlRdndQQUQ2UThPeG04S1liUF9KWE44eU9XMHpWaFRhdXd1LTBSbjM3QXMyOWZGcXc?oc=5",
+          "title": "李대통령 \"서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져\"",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXNUT0NUdkNSTFlpSXo0UTNUc2dEbnVBdkRaQ2RiSThLWTV1dzBxOGpfdFNrbXU1eWsxeE9tT1lDOUdCSWdKU2JTVVJQWTB0YTRMZ1VtX2thdjdCNmZjTjZmem40d2VUeHU1TTdfY3FvRm41anpRZXZ4ZXE1Y2NVLUw1Ry1EV01M?oc=5",
           "press": ""
         }
       ],
@@ -585,8 +573,8 @@
         "李 “서울 아파트 매물 급증…집값 놀라울 정도로 떨어지고 있다”",
         "[양준서의 정조준] 서울 아파트값은 90주 연속 상승...이 대통령은 왜 '집값 폭락' 대비 선언?",
         "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승",
-        "품귀에 더 뛰는 전셋값…서울 아파트, 집값 상승률 추월",
-        "금리·집값 이중고에…서울 생애 첫 주택 매수 '급감'"
+        "금리·집값 이중고에…서울 생애 첫 주택 매수 '급감'",
+        "李대통령 \"서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져\""
       ],
       "category": "부동산"
     },
@@ -613,18 +601,18 @@
       "rank": 3,
       "keyword": "강남",
       "count": 2,
-      "representative_title": "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeWVfYXpGUUhxU2VMZGdGT0ZCMnFhVUNUSmhnUTRFeEYtc2M3dnluMnVycXdRS0k3SmFkbnNObFlSb2JWeVNFR2VOSEJUVzVleTJmZS1kN01OUQ?oc=5",
+      "representative_title": "강남3구 집값 안정 아닌 ‘거래절벽’",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aZi1vdHVueHJEZVJrNEloSTY3ejE2R2MzdlJiN20wbjl1X2RhUTlRbkkzRG9kWHpjZzZKYlNORVJKLVNGcndrNjUxblFFRTdoYmZkTmo2eVluMjloUkEtTmQwTDk?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeWVfYXpGUUhxU2VMZGdGT0ZCMnFhVUNUSmhnUTRFeEYtc2M3dnluMnVycXdRS0k3SmFkbnNObFlSb2JWeVNFR2VOSEJUVzVleTJmZS1kN01OUQ?oc=5",
+          "title": "강남3구 집값 안정 아닌 ‘거래절벽’",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aZi1vdHVueHJEZVJrNEloSTY3ejE2R2MzdlJiN20wbjl1X2RhUTlRbkkzRG9kWHpjZzZKYlNORVJKLVNGcndrNjUxblFFRTdoYmZkTmo2eVluMjloUkEtTmQwTDk?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "\"강남 집값 올랐나, 내렸나\"…공공·민간 통계 정반대"
+        "강남3구 집값 안정 아닌 ‘거래절벽’"
       ],
       "category": "부동산"
     },
@@ -649,20 +637,26 @@
     },
     {
       "rank": 5,
-      "keyword": "통계",
+      "keyword": "품은",
       "count": 2,
-      "representative_title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
-      "representative_link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZTkMwUEo5SEZJUE5XZjdYejUzVkFXaW5zbjdpT1E3WDVEUXl3SC15dXRhQXJDekhMVzRLQVktQ0Jrcm9wRlE?oc=5",
+      "representative_title": "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hSENsb0VNZVlRWDEtek1tUTZxU1dWTW1qV25KLXZhR1FLUWp4SHJ1LWx2ODl6ZEpZblFTRG5hcExfNmF6QVFFQ2s1eExvRGRyWnJJQmZ1VTU2Zw?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZTkMwUEo5SEZJUE5XZjdYejUzVkFXaW5zbjdpT1E3WDVEUXl3SC15dXRhQXJDekhMVzRLQVktQ0Jrcm9wRlE?oc=5",
+          "title": "“10년 후 집값 ‘여기’가 뜬다”…부동산 전문가가 콕 집은 호재 품은 동네는 바로",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wM0pRdERqNzdTSGFjMDFTOXBLanFjRVI3cnBCNko2X2E5eE1XS1JSMlZrRjZ2X1ZIS1hQci1HTmZoQllva1JRcmEyTHBWTUZIUXfSAVNBVV95cUxPVnhaSGFtamtPUjBCMGpoeEZEVEtSNTMzNk1kU2tiaDdmV3hXR1pVU2FwOVkzazdYanRPaUt6TWJBaTlmWEVoSHVEY1VWOFY5Q3hCRQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hSENsb0VNZVlRWDEtek1tUTZxU1dWTW1qV25KLXZhR1FLUWp4SHJ1LWx2ODl6ZEpZblFTRG5hcExfNmF6QVFFQ2s1eExvRGRyWnJJQmZ1VTU2Zw?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "전월세 거래 절반 넘는 비아파트… 집값 통계 표본은 22%뿐"
+        "“10년 후 집값 ‘여기’가 뜬다”…부동산 전문가가 콕 집은 호재 품은 동네는 바로",
+        "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'"
       ],
       "category": "부동산"
     }
