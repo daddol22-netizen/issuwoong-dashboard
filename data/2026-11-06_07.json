@@ -1,0 +1,651 @@
+{
+  "date": "2026-11-06",
+  "hour": "07",
+  "slot": "2026-11-06_07",
+  "crawled_at": "2026-11-06 07:00:01",
+  "total_articles": 404,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "대통령",
+      "count": 36,
+      "representative_title": "이 대통령 사랑제일교회 보며, \"말이 안 되는 것\"",
+      "representative_link": "https://n.news.naver.com/article/665/0000008495?ntype=RANKING",
+      "press": "더스쿠프",
+      "related_articles": [
+        {
+          "title": "이 대통령 장남 \"한산대CC 안 가\"…주진우 의원 명예훼손 고소",
+          "link": "https://n.news.naver.com/article/437/0000519391?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "이 대통령 장남, '황제 골프' 의혹 제기한 주진우 명예훼손 고소",
+          "link": "https://n.news.naver.com/article/057/0001976925?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "李대통령 \"알고리즘에 갇히지 않는다…욕도 보고 비난도 봐\"",
+          "link": "https://n.news.naver.com/article/001/0016425160?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "이 대통령 장남, 국힘 주진우 명예훼손 고소…\"골프장 간 적 없다\"",
+          "link": "https://n.news.naver.com/article/082/0001405940?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "[속보] 이 대통령 “‘알고리즘에 갇혔다’ 주장 있는데, 갇히지 않는다”…첫 유튜브 방송에서 김어준 주장 반박",
+          "link": "https://n.news.naver.com/article/032/0003481016?ntype=RANKING",
+          "press": "경향신문"
+        }
+      ],
+      "related_titles": [
+        "이 대통령 장남 \"한산대CC 안 가\"…주진우 의원 명예훼손 고소",
+        "이 대통령 장남, '황제 골프' 의혹 제기한 주진우 명예훼손 고소",
+        "李대통령 \"알고리즘에 갇히지 않는다…욕도 보고 비난도 봐\"",
+        "이 대통령 장남, 국힘 주진우 명예훼손 고소…\"골프장 간 적 없다\"",
+        "[속보] 이 대통령 “‘알고리즘에 갇혔다’ 주장 있는데, 갇히지 않는다”…첫 유튜브 방송에서 김어준 주장 반박"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 2,
+      "keyword": "트럼프",
+      "count": 22,
+      "representative_title": "“트럼프 때문에 졌다” 마가 내분 폭발",
+      "representative_link": "https://n.news.naver.com/article/020/0003760537?ntype=RANKING",
+      "press": "동아일보",
+      "related_articles": [
+        {
+          "title": "“트럼프 때문에 졌다” 마가 내분 폭발",
+          "link": "https://n.news.naver.com/article/020/0003760537?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "트럼프 힘 빠지자 셈법 복잡해진 李…3500억달러 숨통, 핵잠은 암초",
+          "link": "https://n.news.naver.com/article/018/0006404633?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "민주당 1호 타깃은 헤그세스…트럼프 가족까지 다 턴다",
+          "link": "https://n.news.naver.com/article/025/0003562983?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "\"탄핵하면 파멸\" 경고한 트럼프…민주, 트럼프 가족·측근부터 노린다",
+          "link": "https://n.news.naver.com/article/057/0001976896?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "\"탄핵하면 파멸\" 경고한 트럼프…민주, 트럼프 가족·측근부터 노린다",
+          "link": "https://n.news.naver.com/article/057/0001976896?ntype=RANKING",
+          "press": "MBN"
+        }
+      ],
+      "related_titles": [
+        "“트럼프 때문에 졌다” 마가 내분 폭발",
+        "트럼프 힘 빠지자 셈법 복잡해진 李…3500억달러 숨통, 핵잠은 암초",
+        "민주당 1호 타깃은 헤그세스…트럼프 가족까지 다 턴다",
+        "\"탄핵하면 파멸\" 경고한 트럼프…민주, 트럼프 가족·측근부터 노린다",
+        "\"탄핵하면 파멸\" 경고한 트럼프…민주, 트럼프 가족·측근부터 노린다"
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 3,
+      "keyword": "고소",
+      "count": 18,
+      "representative_title": "‘교권 침해’ 인정 받고 또 고소 당해…“버틸 힘이 있을까”",
+      "representative_link": "https://n.news.naver.com/article/056/0012288274?ntype=RANKING",
+      "press": "KBS",
+      "related_articles": [
+        {
+          "title": "유치원생에 물려 파상풍 주사 맞았는데…‘아동학대’로 고소 당해",
+          "link": "https://n.news.naver.com/article/020/0003760398?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "‘교권 침해’ 인정 받고 또 고소 당해…“버틸 힘이 있을까”",
+          "link": "https://n.news.naver.com/article/056/0012288274?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "유치원생에 물려 파상풍 주사까지… 학부모는 '아동학대'로 고소",
+          "link": "https://n.news.naver.com/article/277/0005838837?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "\"골프 친 적 없다\"…이재명 장남, '황제 골프' 의혹 주진우 고소",
+          "link": "https://n.news.naver.com/article/660/0000120692?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "원생에 물려 파상풍 주사 맞은 교사...학부모는 두 차례 고소",
+          "link": "https://n.news.naver.com/article/119/0003151818?ntype=RANKING",
+          "press": "데일리안"
+        }
+      ],
+      "related_titles": [
+        "유치원생에 물려 파상풍 주사 맞았는데…‘아동학대’로 고소 당해",
+        "‘교권 침해’ 인정 받고 또 고소 당해…“버틸 힘이 있을까”",
+        "유치원생에 물려 파상풍 주사까지… 학부모는 '아동학대'로 고소",
+        "\"골프 친 적 없다\"…이재명 장남, '황제 골프' 의혹 주진우 고소",
+        "원생에 물려 파상풍 주사 맞은 교사...학부모는 두 차례 고소"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "최태원",
+      "count": 18,
+      "representative_title": "최태원 \"美 선거에 증시 요동…롤러코스터 계속\"",
+      "representative_link": "https://n.news.naver.com/article/374/0000542022?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "최태원 \"주식시장 롤러코스터 계속될 것…오를 때 진입도 위험\"(종합)",
+          "link": "https://n.news.naver.com/article/421/0009273203?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "최태원 \"美중간선거 하나에도 증시 요동…롤러코스터 계속될 것\"",
+          "link": "https://n.news.naver.com/article/215/0001271829?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "최태원 \"2100조 투자발표, 이렇게 해도 되나 싶었다…증시 롤러코스터는 계속\"",
+          "link": "https://n.news.naver.com/article/448/0000649281?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "SK 2100조원 투자 발표에 \"정상 맞아?\"…최태원 회장이 내놓은 답",
+          "link": "https://n.news.naver.com/article/008/0005437334?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "최태원 \"美 중간선거 결과에 증시 요동‥롤러코스터 계속될 것\"",
+          "link": "https://n.news.naver.com/article/214/0001533801?ntype=RANKING",
+          "press": "MBC"
+        }
+      ],
+      "related_titles": [
+        "최태원 \"주식시장 롤러코스터 계속될 것…오를 때 진입도 위험\"(종합)",
+        "최태원 \"美중간선거 하나에도 증시 요동…롤러코스터 계속될 것\"",
+        "최태원 \"2100조 투자발표, 이렇게 해도 되나 싶었다…증시 롤러코스터는 계속\"",
+        "SK 2100조원 투자 발표에 \"정상 맞아?\"…최태원 회장이 내놓은 답",
+        "최태원 \"美 중간선거 결과에 증시 요동‥롤러코스터 계속될 것\""
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 5,
+      "keyword": "증시",
+      "count": 13,
+      "representative_title": "'블루쓰나미' 직격탄 맞은 韓 증시…코스피 한때 6% 밀렸다",
+      "representative_link": "https://n.news.naver.com/article/079/0004206943?ntype=RANKING",
+      "press": "노컷뉴스",
+      "related_articles": [
+        {
+          "title": "K증시 덮친 ‘블루 쓰나미’… AI 데이터센터 제동 우려에 5% 급락",
+          "link": "https://n.news.naver.com/article/020/0003760539?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "삼전닉스 20.6조 팔아치운 외국인…'블루웨이브'에 K증시 매도 쓰나미",
+          "link": "https://n.news.naver.com/article/008/0005437293?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "'블루쓰나미' 직격탄 맞은 韓 증시…코스피 한때 6% 밀렸다",
+          "link": "https://n.news.naver.com/article/079/0004206943?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "[오늘의증시] '미국발 쇼크'에 국내 증시 패닉 장세…자동차·항공만 날았다",
+          "link": "https://n.news.naver.com/article/243/0000105254?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "삼전닉스 한숨 돌리나…中 YMTC, 증시 급락에 6.8조원 상장 보류",
+          "link": "https://n.news.naver.com/article/024/0000109412?ntype=RANKING",
+          "press": "매경이코노미"
+        }
+      ],
+      "related_titles": [
+        "K증시 덮친 ‘블루 쓰나미’… AI 데이터센터 제동 우려에 5% 급락",
+        "삼전닉스 20.6조 팔아치운 외국인…'블루웨이브'에 K증시 매도 쓰나미",
+        "'블루쓰나미' 직격탄 맞은 韓 증시…코스피 한때 6% 밀렸다",
+        "[오늘의증시] '미국발 쇼크'에 국내 증시 패닉 장세…자동차·항공만 날았다",
+        "삼전닉스 한숨 돌리나…中 YMTC, 증시 급락에 6.8조원 상장 보류"
+      ],
+      "category": "경제/투자"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 11,
+      "representative_title": "코스피 파랗게 질렸는데 현대차·기아는 ‘화색’",
+      "representative_link": "https://n.news.naver.com/article/024/0000109415?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "“코스피 폭락에도 구조대 기다릴 만…美중간선거 후 반등 기대”",
+          "link": "https://n.news.naver.com/article/018/0006404456?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "'블루쓰나미' 직격탄 맞은 韓 증시…코스피 한때 6% 밀렸다",
+          "link": "https://n.news.naver.com/article/079/0004206943?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "“엄마 미안해, 돈 다 잃었어” 코스피 폭락에 개미들 몰려간 곳…절하고 굿까지 한다는데 [이슈, 풀어주리]",
+          "link": "https://n.news.naver.com/article/011/0004679276?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "“다우 3% 급등에도 반도체 쇼크”…코스피 2.10% 급락, 5500선도 위태",
+          "link": "https://n.news.naver.com/article/138/0002247366?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "“삼성전자 6%·하이닉스 9% 추락”…코스피 4.7% 폭락, 매도 사이드카 발동",
+          "link": "https://n.news.naver.com/article/138/0002247401?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "“코스피 폭락에도 구조대 기다릴 만…美중간선거 후 반등 기대”",
+        "'블루쓰나미' 직격탄 맞은 韓 증시…코스피 한때 6% 밀렸다",
+        "“엄마 미안해, 돈 다 잃었어” 코스피 폭락에 개미들 몰려간 곳…절하고 굿까지 한다는데 [이슈, 풀어주리]",
+        "“다우 3% 급등에도 반도체 쇼크”…코스피 2.10% 급락, 5500선도 위태",
+        "“삼성전자 6%·하이닉스 9% 추락”…코스피 4.7% 폭락, 매도 사이드카 발동"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "급락",
+      "count": 10,
+      "representative_title": "민주당 압승 후폭풍…美 나스닥 4% 급락",
+      "representative_link": "https://n.news.naver.com/article/014/0005600287?ntype=RANKING",
+      "press": "파이낸셜뉴스",
+      "related_articles": [
+        {
+          "title": "K증시 덮친 ‘블루 쓰나미’… AI 데이터센터 제동 우려에 5% 급락",
+          "link": "https://n.news.naver.com/article/020/0003760539?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "나스닥 장중 4% 이상 급락…기술주 매도세에 조정장 진입",
+          "link": "https://n.news.naver.com/article/025/0003563266?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "[속보] 나스닥 장중 4.1% 급락…조정장 진입",
+          "link": "https://n.news.naver.com/article/421/0009273297?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "뉴욕증시 급락 반전…나스닥 장중 4% 이상↓ 조정국면 진입",
+          "link": "https://n.news.naver.com/article/001/0016425208?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "\"개미들 어쩌나\"…1조2199억원 사들인 ETF 45% 급락",
+          "link": "https://n.news.naver.com/article/014/0005600291?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        }
+      ],
+      "related_titles": [
+        "K증시 덮친 ‘블루 쓰나미’… AI 데이터센터 제동 우려에 5% 급락",
+        "나스닥 장중 4% 이상 급락…기술주 매도세에 조정장 진입",
+        "[속보] 나스닥 장중 4.1% 급락…조정장 진입",
+        "뉴욕증시 급락 반전…나스닥 장중 4% 이상↓ 조정국면 진입",
+        "\"개미들 어쩌나\"…1조2199억원 사들인 ETF 45% 급락"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "삼성전자",
+      "count": 7,
+      "representative_title": "교섭단 떠나고 합의엔 반발…삼성전자 DX노조 '명분 논란'",
+      "representative_link": "https://n.news.naver.com/article/648/0000052346?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "교섭단 떠나고 합의엔 반발…삼성전자 DX노조 '명분 논란'",
+          "link": "https://n.news.naver.com/article/648/0000052346?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "민주당이 美 의회 장악해도 반도체 관세는 대통령 몫… 삼성전자·SK하이닉스 변수는 세액공제·中 규제 기조",
+          "link": "https://n.news.naver.com/article/366/0001202868?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "삼성전자 18만원대·하이닉스 90만원까지?…지금 ‘물타기’ 말리는 이유 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004172614?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "삼성전자·하이닉스 급락에 팔까 말까?…존리가 짚은 3가지 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004172944?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "SK하이닉스, '턱밑 추격' 마이크론 따돌렸다...1위 삼성전자",
+          "link": "https://n.news.naver.com/article/243/0000105261?ntype=RANKING",
+          "press": "이코노미스트"
+        }
+      ],
+      "related_titles": [
+        "교섭단 떠나고 합의엔 반발…삼성전자 DX노조 '명분 논란'",
+        "민주당이 美 의회 장악해도 반도체 관세는 대통령 몫… 삼성전자·SK하이닉스 변수는 세액공제·中 규제 기조",
+        "삼성전자 18만원대·하이닉스 90만원까지?…지금 ‘물타기’ 말리는 이유 [숫자 뒤의 진실]",
+        "삼성전자·하이닉스 급락에 팔까 말까?…존리가 짚은 3가지 [숫자 뒤의 진실]",
+        "SK하이닉스, '턱밑 추격' 마이크론 따돌렸다...1위 삼성전자"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "하이닉스",
+      "count": 7,
+      "representative_title": "장중 '20만전자' 깨지고 하이닉스 9% 추락…반도체 투톱 흘러내렸다",
+      "representative_link": "https://n.news.naver.com/article/629/0000549156?ntype=RANKING",
+      "press": "더팩트",
+      "related_articles": [
+        {
+          "title": "장중 '20만전자' 깨지고 하이닉스 9% 추락…반도체 투톱 흘러내렸다",
+          "link": "https://n.news.naver.com/article/629/0000549156?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "장중 '20만전자' 깨지고 하이닉스 9% 추락…반도체 투톱 흘러내렸다",
+          "link": "https://n.news.naver.com/article/629/0000549156?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "장중 '20만전자' 깨지고 하이닉스 9% 추락…반도체 투톱 흘러내렸다",
+          "link": "https://n.news.naver.com/article/629/0000549156?ntype=RANKING",
+          "press": "더팩트"
+        }
+      ],
+      "related_titles": [
+        "장중 '20만전자' 깨지고 하이닉스 9% 추락…반도체 투톱 흘러내렸다",
+        "장중 '20만전자' 깨지고 하이닉스 9% 추락…반도체 투톱 흘러내렸다",
+        "장중 '20만전자' 깨지고 하이닉스 9% 추락…반도체 투톱 흘러내렸다"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "주식",
+      "count": 6,
+      "representative_title": "파란 쓰나미에 코스피도…외국인들 팔아치운 주식 보니",
+      "representative_link": "https://n.news.naver.com/article/055/0001400969?ntype=RANKING",
+      "press": "SBS",
+      "related_articles": [
+        {
+          "title": "파란 쓰나미에 코스피도…외국인들 팔아치운 주식 보니",
+          "link": "https://n.news.naver.com/article/055/0001400969?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "“6만원에 샀는데, 현재 120만원”…김구라 아들 그리, 주식 투자로 대박?",
+          "link": "https://n.news.naver.com/article/016/0002719553?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "최태원, SK 주식 9440억 원어치 매각…노소영 재산분할금 마련",
+          "link": "https://n.news.naver.com/article/449/0000366522?ntype=RANKING",
+          "press": "채널A"
+        },
+        {
+          "title": "최태원, SK 주식 팔아 9,440억 원 확보…재산분할금 마련",
+          "link": "https://n.news.naver.com/article/422/0000923256?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "최태원, SK㈜ 주식 9440억 매각 완료…이혼 소송 재산분할 대비",
+          "link": "https://n.news.naver.com/article/053/0000062863?ntype=RANKING",
+          "press": "주간조선"
+        }
+      ],
+      "related_titles": [
+        "파란 쓰나미에 코스피도…외국인들 팔아치운 주식 보니",
+        "“6만원에 샀는데, 현재 120만원”…김구라 아들 그리, 주식 투자로 대박?",
+        "최태원, SK 주식 9440억 원어치 매각…노소영 재산분할금 마련",
+        "최태원, SK 주식 팔아 9,440억 원 확보…재산분할금 마련",
+        "최태원, SK㈜ 주식 9440억 매각 완료…이혼 소송 재산분할 대비"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "트럼프",
+      "series_title": "트럼프의 몰락",
+      "count": 3,
+      "representative_title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWVzNlbHZfZHk4a3gxR1g4c2ZCY3k3Qlh0d1BaOHd0NUtCSGl3RlFZQ3dkQTR1RDlwa25CMWNjOFY0ZHpJLU9tUkVrV0RHdkNvZHc3ZlI1NlliQQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02cHh4ZllhLW1NTEFGN1NsTW5PeFpPX213VEkzNmpTcHY3WlhRcjl2eHcyMmFsNGw5Q3JvUnR2WnBjYmRWeXVhZHpERTB5bldLRVpZ0gFYQVVfeXFMUDBWYjZoamhjRFlQRDZIMDVxZTV3MFJ5SnQ4UjVvbFR3eXJUZXJ1TERxbFlBT2tDelF3YzRGTVV0ejVwZVA2TmQzUHpCUlNHbktyVllubWd4Sg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+        "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+        "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "기업",
+      "series_title": "기업의 몰락",
+      "count": 1,
+      "representative_title": "하루 만에 2조 증발…국가대표 기업 몰락에 中 공포 덮쳤다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DYVZfUzRvbWJ2QTVJemhVUjV1SHZGMHRSM1FhMnJNVWNyeDRrWUNLMWw0YWxBTUZBSnZjdFdRMmdjbzNpQnctUXZtelBVZWxFYXppUm04SkhiQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "하루 만에 2조 증발…국가대표 기업 몰락에 中 공포 덮쳤다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DYVZfUzRvbWJ2QTVJemhVUjV1SHZGMHRSM1FhMnJNVWNyeDRrWUNLMWw0YWxBTUZBSnZjdFdRMmdjbzNpQnctUXZtelBVZWxFYXppUm04SkhiQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "하루 만에 2조 증발…국가대표 기업 몰락에 中 공포 덮쳤다"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "유럽",
+      "series_title": "유럽의 몰락",
+      "count": 1,
+      "representative_title": "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TXZkNVA3SEJOM1d0c2xwYThVdXBDem1DdFEybjhabTNDenNUcHhKdU1iUld5bzZlV1FzV2RCYVJDdXBCaUhVSmhOT3RJZ24zdHhOalI5Qzlha0cxeE04VmRVYnNxdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TXZkNVA3SEJOM1d0c2xwYThVdXBDem1DdFEybjhabTNDenNUcHhKdU1iUld5bzZlV1FzV2RCYVJDdXBCaUhVSmhOT3RJZ24zdHhOalI5Qzlha0cxeE04VmRVYnNxdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "명가",
+      "series_title": "명가의 몰락",
+      "count": 1,
+      "representative_title": "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓",
+      "representative_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bjJ0LTlYMmJfaFFYMjVNd0Y0cUhyblNkM1Rid3gyeFNDRVNEeWN4eFY4QV9FTGlDRGpMbkFCek05cmx4S2NJSUFucURkWkRNSlVzQVFxTnI0UTFsS3R5TFpaLUZfVTJ1aTJVZUdn0gFzQVVfeXFMUDltNnJJd0NkV203emV3SVJNdXJSRFloU1NEUHNreGJTY2xhOGRGUkg1Qm0tdGtEdl9FQVAwaDdfU0pBcEU1eXZnR0J5VXNya0xtTl9yVEk5bXg2NU1ZekRrSnc1SFdtVUFXQmhIX2ozbzVMMA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96bjJ0LTlYMmJfaFFYMjVNd0Y0cUhyblNkM1Rid3gyeFNDRVNEeWN4eFY4QV9FTGlDRGpMbkFCek05cmx4S2NJSUFucURkWkRNSlVzQVFxTnI0UTFsS3R5TFpaLUZfVTJ1aTJVZUdn0gFzQVVfeXFMUDltNnJJd0NkV203emV3SVJNdXJSRFloU1NEUHNreGJTY2xhOGRGUkg1Qm0tdGtEdl9FQVAwaDdfU0pBcEU1eXZnR0J5VXNya0xtTl9yVEk5bXg2NU1ZekRrSnc1SFdtVUFXQmhIX2ozbzVMMA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'몰락한 명가' 삼성의 화려한 부활... 4대 스포츠 구단 일제히 날갯짓"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "역세권",
+      "series_title": "역세권의 몰락",
+      "count": 1,
+      "representative_title": "양산 역세권 몰락 부추긴 오피스텔 1차 ‘공사재개’ 된다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wa3JKbUVYOF84cVVCRjAxNXJmRVNIdTRiT1dwVlAyME8zT2k5VEYxd3lxOVR0NVBhRUhwR0pUNnNpQV9nc1ZfX0I4R0hTRDFlN1llMUI4UG5qdXJOajgzTEVXRQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "양산 역세권 몰락 부추긴 오피스텔 1차 ‘공사재개’ 된다",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wa3JKbUVYOF84cVVCRjAxNXJmRVNIdTRiT1dwVlAyME8zT2k5VEYxd3lxOVR0NVBhRUhwR0pUNnNpQV9nc1ZfX0I4R0hTRDFlN1llMUI4UG5qdXJOajgzTEVXRQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "양산 역세권 몰락 부추긴 오피스텔 1차 ‘공사재개’ 된다"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 5,
+      "representative_title": "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산",
+      "representative_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ib3VMdGJtaW5ad1F4bmFZOTdFaFF2M3dRZjEyVnFOTXVtU000Z0RlRjVvSGZ1eEJmYzRMblE1YUgxbjAzMkhEUllGUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "李 “서울 아파트 매물 급증…집값 놀라울 정도로 떨어지고 있다”",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53RHQ5dVdOd1JlbkxndXdyQzR6dTVRVTI3R2N1MUstNEF0RkQ0VDhhTE9ZRUkzNGRnMHdHeXN5ZVJsbVp5SWJkeFZWY3k3MHo5R0w4RkdB?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[양준서의 정조준] 서울 아파트값은 90주 연속 상승...이 대통령은 왜 '집값 폭락' 대비 선언?",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rSG9FUDFVQW5Bb0NLd1o4blRrZnlhSkxUMEVRbWVEVzZOVVZBSXRfN0h1SVRQNXFSMFFnOUlvR1lCVFF6UU0xcXd0RlRYTlpLNnFyTEd2QWRSMDlmUHVhOEVxcmNTQXhYTl9J0gFvQVVfeXFMTjBHT01Va0RRTENQS3ZyUTFKRVlGZldCQ2ZKd1lxRzM2R3c0emdrQy1fNlJzaWRVazVfTjFKbXgzLXI1SElpVTZqWG9aV2xteTVWQ1Jfc3l5bEQwdEZfRTJVMUJWRXFuQVhDXzRkeVBr?oc=5",
+          "press": ""
+        },
+        {
+          "title": "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByZS15X0ZiaVBJQzdMZVYwVHVwenhXVWZJanctWTBiT0V6ZXVqeHFhRVpFanhERFR0aFBBMnl5ZWd5MFVjRjFsRm54dmNPc1lnNWpJYmZ3?oc=5",
+          "press": ""
+        },
+        {
+          "title": "李대통령 \"서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져\"",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXNUT0NUdkNSTFlpSXo0UTNUc2dEbnVBdkRaQ2RiSThLWTV1dzBxOGpfdFNrbXU1eWsxeE9tT1lDOUdCSWdKU2JTVVJQWTB0YTRMZ1VtX2thdjdCNmZjTjZmem40d2VUeHU1TTdfY3FvRm41anpRZXZ4ZXE1Y2NVLUw1Ry1EV01M?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ib3VMdGJtaW5ad1F4bmFZOTdFaFF2M3dRZjEyVnFOTXVtU000Z0RlRjVvSGZ1eEJmYzRMblE1YUgxbjAzMkhEUllGUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "李 “서울 아파트 매물 급증…집값 놀라울 정도로 떨어지고 있다”",
+        "[양준서의 정조준] 서울 아파트값은 90주 연속 상승...이 대통령은 왜 '집값 폭락' 대비 선언?",
+        "이 대통령 \"집값 놀라울 정도로 떨어져, 폭락 걱정도\" 서울 아파트값은 90주째 상승",
+        "李대통령 \"서울 아파트 매물 급속도로 늘고, 가격도 놀라울 정도로 떨어져\"",
+        "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "대통령",
+      "count": 3,
+      "representative_title": "또 터진 강남 집값 통계조작 논란?…대통령 \"부동산 정보 편향적 전달\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ieVV4alNrM2J4aThYbGVPd1R0cHhSWTJmN2U2amlCdUJVUWMxRVpBQktHeGdyTEF1RTBEVWllVU5GMnh6bVFNQVBlQWlkQ1R5T1YwdU9jcTVuaXZjMzc2NzRrWTVXc2drN2xrME1na1dhQ0Q0MGJqWlNjb3p1bkHSAXNBVV95cUxOeW1JY0NKaVZWdkxoV0d4OE9sUEFoMjdaUDZRclRIQ2NJNktsUEhWMVQtV1V1cnJNcG5JbDE4S01ta0tUWEUtNFlkamw1NW9JREtld3hJOUQ0RGpjUUlndTV2cktlRVFvVFVHc3BtNkhyeGVJ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "또 터진 강남 집값 통계조작 논란?…대통령 \"부동산 정보 편향적 전달\"",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ieVV4alNrM2J4aThYbGVPd1R0cHhSWTJmN2U2amlCdUJVUWMxRVpBQktHeGdyTEF1RTBEVWllVU5GMnh6bVFNQVBlQWlkQ1R5T1YwdU9jcTVuaXZjMzc2NzRrWTVXc2drN2xrME1na1dhQ0Q0MGJqWlNjb3p1bkHSAXNBVV95cUxOeW1JY0NKaVZWdkxoV0d4OE9sUEFoMjdaUDZRclRIQ2NJNktsUEhWMVQtV1V1cnJNcG5JbDE4S01ta0tUWEUtNFlkamw1NW9JREtld3hJOUQ0RGpjUUlndTV2cktlRVFvVFVHc3BtNkhyeGVJ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "또 터진 강남 집값 통계조작 논란?…대통령 \"부동산 정보 편향적 전달\""
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "대통령은",
+      "count": 2,
+      "representative_title": "집값상승 통계에도 대통령은 \"주요지역 하락\"…시각차 왜? - 머니투데이",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwSjRTVjNMXzhENFFQYTd3QllvYllIeVBtcElwMHpLeVp1SnZ3bm9QTk8xb1lDUzNpTENMV2hwMTFSRElLT3hRUlNBQzlNcjNBTXUzbHhqY1NMQ3pBOElDWkFwbW9XY1czbGfSAW9BVV95cUxQUzFpOHJvQ1AzMXBXQ0h5UHdQd3luaTNkcXkzX3VfZWNNWVdhLXN2VndldWlDNTZGV3I1ZS1pYlk4RVVXdm1TOUdfV3ZDQ3Q1Uk9XVG4xd0xXRU95U1BPUmFUcEcxRHd2NHlaUkFRdzQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "집값상승 통계에도 대통령은 \"주요지역 하락\"…시각차 왜? - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwSjRTVjNMXzhENFFQYTd3QllvYllIeVBtcElwMHpLeVp1SnZ3bm9QTk8xb1lDUzNpTENMV2hwMTFSRElLT3hRUlNBQzlNcjNBTXUzbHhqY1NMQ3pBOElDWkFwbW9XY1czbGfSAW9BVV95cUxQUzFpOHJvQ1AzMXBXQ0h5UHdQd3luaTNkcXkzX3VfZWNNWVdhLXN2VndldWlDNTZGV3I1ZS1pYlk4RVVXdm1TOUdfV3ZDQ3Q1Uk9XVG4xd0xXRU95U1BPUmFUcEcxRHd2NHlaUkFRdzQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "집값상승 통계에도 대통령은 \"주요지역 하락\"…시각차 왜? - 머니투데이"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "품은",
+      "count": 2,
+      "representative_title": "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hSENsb0VNZVlRWDEtek1tUTZxU1dWTW1qV25KLXZhR1FLUWp4SHJ1LWx2ODl6ZEpZblFTRG5hcExfNmF6QVFFQ2s1eExvRGRyWnJJQmZ1VTU2Zw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“10년 후 집값 ‘여기’가 뜬다”…부동산 전문가가 콕 집은 호재 품은 동네는 바로",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wM0pRdERqNzdTSGFjMDFTOXBLanFjRVI3cnBCNko2X2E5eE1XS1JSMlZrRjZ2X1ZIS1hQci1HTmZoQllva1JRcmEyTHBWTUZIUXfSAVNBVV95cUxPVnhaSGFtamtPUjBCMGpoeEZEVEtSNTMzNk1kU2tiaDdmV3hXR1pVU2FwOVkzazdYanRPaUt6TWJBaTlmWEVoSHVEY1VWOFY5Q3hCRQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hSENsb0VNZVlRWDEtek1tUTZxU1dWTW1qV25KLXZhR1FLUWp4SHJ1LWx2ODl6ZEpZblFTRG5hcExfNmF6QVFFQ2s1eExvRGRyWnJJQmZ1VTU2Zw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“10년 후 집값 ‘여기’가 뜬다”…부동산 전문가가 콕 집은 호재 품은 동네는 바로",
+        "부동산시장도 반도체·AI 특수... 첨단산업 품은 지역 집값 '쑥'"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
