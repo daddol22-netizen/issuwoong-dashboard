@@ -1,0 +1,645 @@
+{
+  "date": "2026-11-07",
+  "hour": "07",
+  "slot": "2026-11-07_07",
+  "crawled_at": "2026-11-07 07:00:06",
+  "total_articles": 407,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 21,
+      "representative_title": "코스피 급락에 정부 긴급 대응",
+      "representative_link": "https://n.news.naver.com/article/050/0000112913?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "석달 전 “코스피 5000 깨질 수 있다”…예언 적중하자 “여기서 더 떨어질지는” [내가샀다]",
+          "link": "https://n.news.naver.com/article/081/0003696735?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "한동훈, 코스피 5000선 붕괴에 “국민 노후 담보로 투기판 벌인 대가…李 대통령 직접 답하라”",
+          "link": "https://n.news.naver.com/article/087/0001229057?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "‘검은 금요일’ 맞은 코스피…6% 넘게 급락해 5000피 ‘턱걸이’",
+          "link": "https://n.news.naver.com/article/082/0001406021?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "장중 5000선 붕괴에도…노무라 “코스피 1만 간다” 왜?",
+          "link": "https://n.news.naver.com/article/029/0003057544?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "3개월 전 \"코스피5000 깨질 수도, 현금 가져라\"…예언 적중한 전문가",
+          "link": "https://n.news.naver.com/article/018/0006405395?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "석달 전 “코스피 5000 깨질 수 있다”…예언 적중하자 “여기서 더 떨어질지는” [내가샀다]",
+        "한동훈, 코스피 5000선 붕괴에 “국민 노후 담보로 투기판 벌인 대가…李 대통령 직접 답하라”",
+        "‘검은 금요일’ 맞은 코스피…6% 넘게 급락해 5000피 ‘턱걸이’",
+        "장중 5000선 붕괴에도…노무라 “코스피 1만 간다” 왜?",
+        "3개월 전 \"코스피5000 깨질 수도, 현금 가져라\"…예언 적중한 전문가"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 2,
+      "keyword": "트럼프",
+      "count": 15,
+      "representative_title": "\"트럼프, 오는 9일 대이란 군사작전 재개 검토\"",
+      "representative_link": "https://n.news.naver.com/article/422/0000923684?ntype=RANKING",
+      "press": "연합뉴스TV",
+      "related_articles": [
+        {
+          "title": "트럼프 \"내 집무실 손대지 마\"…난데없이 국가기념물 지정",
+          "link": "https://n.news.naver.com/article/437/0000519555?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "폭락 본 트럼프 '민주당이 이겨서 그래'…틀린 말 아니다?",
+          "link": "https://n.news.naver.com/article/437/0000519551?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "트럼프, AI규제 방침 美 민주에 “황금 거부하는 어리석인 자들”",
+          "link": "https://n.news.naver.com/article/029/0003057591?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "\"내 집무실 손대지 마\"…선거 참패 트럼프, '대못 박기' 나선 이유는",
+          "link": "https://n.news.naver.com/article/018/0006404758?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "\"관세 300%!\" 정신승리 끝판왕 트럼프‥심판했지만 심판받지 않았다?",
+          "link": "https://n.news.naver.com/article/214/0001534025?ntype=RANKING",
+          "press": "MBC"
+        }
+      ],
+      "related_titles": [
+        "트럼프 \"내 집무실 손대지 마\"…난데없이 국가기념물 지정",
+        "폭락 본 트럼프 '민주당이 이겨서 그래'…틀린 말 아니다?",
+        "트럼프, AI규제 방침 美 민주에 “황금 거부하는 어리석인 자들”",
+        "\"내 집무실 손대지 마\"…선거 참패 트럼프, '대못 박기' 나선 이유는",
+        "\"관세 300%!\" 정신승리 끝판왕 트럼프‥심판했지만 심판받지 않았다?"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 3,
+      "keyword": "민주당",
+      "count": 13,
+      "representative_title": "민주당, 야당에 ‘관계성 범죄’ 입법 협력 제안",
+      "representative_link": "https://n.news.naver.com/article/310/0000141501?ntype=RANKING",
+      "press": "여성신문",
+      "related_articles": [
+        {
+          "title": "‘핵 비확산’ 美 민주당 승리에… 한·미 핵잠 협상 ‘첩첩산중’",
+          "link": "https://n.news.naver.com/article/005/0001883555?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "민주당 승리에 반도체 호황은 끝?…“글로벌 투자경쟁 꺾이지 않을 것”",
+          "link": "https://n.news.naver.com/article/082/0001406059?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "천하람 \"필리버스터 종결 투표 마감까지 1시간 이상… 민주당 얼빠져\"",
+          "link": "https://n.news.naver.com/article/079/0004207411?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "신천지 명단 비공개 열람한 민주당…친석·친청 '극과 극' 반응",
+          "link": "https://n.news.naver.com/article/079/0004207399?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "[민심 X-ray] \"김민석 머리채 잡혔다?\"…민주당 지지층 이탈에 웃는 조국",
+          "link": "https://n.news.naver.com/article/586/0000141791?ntype=RANKING",
+          "press": "시사저널"
+        }
+      ],
+      "related_titles": [
+        "‘핵 비확산’ 美 민주당 승리에… 한·미 핵잠 협상 ‘첩첩산중’",
+        "민주당 승리에 반도체 호황은 끝?…“글로벌 투자경쟁 꺾이지 않을 것”",
+        "천하람 \"필리버스터 종결 투표 마감까지 1시간 이상… 민주당 얼빠져\"",
+        "신천지 명단 비공개 열람한 민주당…친석·친청 '극과 극' 반응",
+        "[민심 X-ray] \"김민석 머리채 잡혔다?\"…민주당 지지층 이탈에 웃는 조국"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 4,
+      "keyword": "한동훈",
+      "count": 12,
+      "representative_title": "증시 폭락하자 책임론 공방…한동훈, 李 대통령에 해명 요구",
+      "representative_link": "https://n.news.naver.com/article/138/0002247608?ntype=RANKING",
+      "press": "디지털데일리",
+      "related_articles": [
+        {
+          "title": "'한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'",
+          "link": "https://n.news.naver.com/article/469/0000964172?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "장동혁, '한동훈 복당'·'계엄 2주년 사과' 요구 일축…\"대여투쟁 집중해야\"",
+          "link": "https://n.news.naver.com/article/002/0002464735?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "'훈풍'에 제동 건 오세훈 \"한동훈 복당, 공감대 전제돼야\"…친한계 \"입장 바뀌어\"",
+          "link": "https://n.news.naver.com/article/448/0000649542?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "증시 폭락하자 책임론 공방…한동훈, 李 대통령에 해명 요구",
+          "link": "https://n.news.naver.com/article/138/0002247608?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "“한동훈 제명은 자멸”이라던 오세훈 “복당 문제 신중해야···공감대 형성이 우선”",
+          "link": "https://n.news.naver.com/article/033/0000053202?ntype=RANKING",
+          "press": "주간경향"
+        }
+      ],
+      "related_titles": [
+        "'한동훈 복당론' 속… 장동혁도 한동훈도 오세훈에 바짝 '밀착'",
+        "장동혁, '한동훈 복당'·'계엄 2주년 사과' 요구 일축…\"대여투쟁 집중해야\"",
+        "'훈풍'에 제동 건 오세훈 \"한동훈 복당, 공감대 전제돼야\"…친한계 \"입장 바뀌어\"",
+        "증시 폭락하자 책임론 공방…한동훈, 李 대통령에 해명 요구",
+        "“한동훈 제명은 자멸”이라던 오세훈 “복당 문제 신중해야···공감대 형성이 우선”"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 5,
+      "keyword": "여성",
+      "count": 11,
+      "representative_title": "미 의회 \"간첩 의혹 옆자리 여성, 젠슨 황이 해명하라\"",
+      "representative_link": "https://n.news.naver.com/article/417/0001163513?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "\"제발 유리 좀 찾아주세요\"...30대 韓 여성, 대낮 휴양지서 사라져 한달째 실종",
+          "link": "https://n.news.naver.com/article/014/0005600310?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "군산서 60대 여성, 교제하던 남성 흉기로 찔러…“평소 폭행당했다” 주장",
+          "link": "https://n.news.naver.com/article/087/0001229055?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "혼자 걷는 여성 5명 뒤쫓으며 범행 대상 물색…성폭행 시도 30대 징역 4년",
+          "link": "https://n.news.naver.com/article/087/0001229098?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "인도네시아서 스노클링 중 실종된 한국인 여성… 한 달째 행방 묘연",
+          "link": "https://n.news.naver.com/article/366/0001203140?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "'세브란스병원 흉기 습격' 50대 여성, 구속기로…살인미수 혐의",
+          "link": "https://n.news.naver.com/article/586/0000141783?ntype=RANKING",
+          "press": "시사저널"
+        }
+      ],
+      "related_titles": [
+        "\"제발 유리 좀 찾아주세요\"...30대 韓 여성, 대낮 휴양지서 사라져 한달째 실종",
+        "군산서 60대 여성, 교제하던 남성 흉기로 찔러…“평소 폭행당했다” 주장",
+        "혼자 걷는 여성 5명 뒤쫓으며 범행 대상 물색…성폭행 시도 30대 징역 4년",
+        "인도네시아서 스노클링 중 실종된 한국인 여성… 한 달째 행방 묘연",
+        "'세브란스병원 흉기 습격' 50대 여성, 구속기로…살인미수 혐의"
+      ],
+      "category": "사건/사고"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 21,
+      "representative_title": "코스피 급락에 정부 긴급 대응",
+      "representative_link": "https://n.news.naver.com/article/050/0000112913?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "석달 전 “코스피 5000 깨질 수 있다”…예언 적중하자 “여기서 더 떨어질지는” [내가샀다]",
+          "link": "https://n.news.naver.com/article/081/0003696735?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "한동훈, 코스피 5000선 붕괴에 “국민 노후 담보로 투기판 벌인 대가…李 대통령 직접 답하라”",
+          "link": "https://n.news.naver.com/article/087/0001229057?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "‘검은 금요일’ 맞은 코스피…6% 넘게 급락해 5000피 ‘턱걸이’",
+          "link": "https://n.news.naver.com/article/082/0001406021?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "장중 5000선 붕괴에도…노무라 “코스피 1만 간다” 왜?",
+          "link": "https://n.news.naver.com/article/029/0003057544?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "3개월 전 \"코스피5000 깨질 수도, 현금 가져라\"…예언 적중한 전문가",
+          "link": "https://n.news.naver.com/article/018/0006405395?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "석달 전 “코스피 5000 깨질 수 있다”…예언 적중하자 “여기서 더 떨어질지는” [내가샀다]",
+        "한동훈, 코스피 5000선 붕괴에 “국민 노후 담보로 투기판 벌인 대가…李 대통령 직접 답하라”",
+        "‘검은 금요일’ 맞은 코스피…6% 넘게 급락해 5000피 ‘턱걸이’",
+        "장중 5000선 붕괴에도…노무라 “코스피 1만 간다” 왜?",
+        "3개월 전 \"코스피5000 깨질 수도, 현금 가져라\"…예언 적중한 전문가"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "테슬라",
+      "count": 11,
+      "representative_title": "태극기 중간에 테슬라 마크?…머스크 '韓시장 1위' 홍보",
+      "representative_link": "https://n.news.naver.com/article/001/0016427287?ntype=RANKING",
+      "press": "연합뉴스",
+      "related_articles": [
+        {
+          "title": "태극기 중간에 테슬라 마크?…머스크 '韓시장 1위' 홍보",
+          "link": "https://n.news.naver.com/article/001/0016427287?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "\"주식 한 주도 안 팔았는데\"…테슬라 개미들 '세금 폭탄' 공포",
+          "link": "https://n.news.naver.com/article/215/0001271970?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "태극기 SNS에 공유한 머스크…테슬라, 한국 수입차 9개월째 1위",
+          "link": "https://n.news.naver.com/article/018/0006405384?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "국장 피해 미장 갔다가… 테슬라·엔비디아도 폭락 ‘개미 이중고’",
+          "link": "https://n.news.naver.com/article/366/0001203134?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "머스크, 태극기 사진 올리며 \"테슬라 코리아\"…무슨 일이",
+          "link": "https://n.news.naver.com/article/015/0005351322?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "태극기 중간에 테슬라 마크?…머스크 '韓시장 1위' 홍보",
+        "\"주식 한 주도 안 팔았는데\"…테슬라 개미들 '세금 폭탄' 공포",
+        "태극기 SNS에 공유한 머스크…테슬라, 한국 수입차 9개월째 1위",
+        "국장 피해 미장 갔다가… 테슬라·엔비디아도 폭락 ‘개미 이중고’",
+        "머스크, 태극기 사진 올리며 \"테슬라 코리아\"…무슨 일이"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "주식",
+      "count": 9,
+      "representative_title": "박진영 “주식? 하나님이 다 해주셔”…JYP 주가는 55%↓",
+      "representative_link": "https://n.news.naver.com/article/009/0005760095?ntype=RANKING",
+      "press": "매일경제",
+      "related_articles": [
+        {
+          "title": "박진영 “주식? 하나님이 다 해주셔”…JYP 주가는 55%↓",
+          "link": "https://n.news.naver.com/article/009/0005760095?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "20만전자 무너졌는데 \"성과급 주식 수 많아져\" 뜻밖 글…\"주주는 피눈물 흘리는데\"",
+          "link": "https://n.news.naver.com/article/215/0001271959?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "\"알고 보니 주식 고수?\" 오늘도 벌었다…폭락장에 1000만원 담은 박용진",
+          "link": "https://n.news.naver.com/article/277/0005839324?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "\"주식 반토막, 이게 뭡니까\" -50%된 개미들, 존리에게 따졌더니 답변은",
+          "link": "https://n.news.naver.com/article/088/0001038894?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "'20만 전자' 무너진 날…노태문, 삼성전자 주식 6.3억원 매입",
+          "link": "https://n.news.naver.com/article/119/0003152355?ntype=RANKING",
+          "press": "데일리안"
+        }
+      ],
+      "related_titles": [
+        "박진영 “주식? 하나님이 다 해주셔”…JYP 주가는 55%↓",
+        "20만전자 무너졌는데 \"성과급 주식 수 많아져\" 뜻밖 글…\"주주는 피눈물 흘리는데\"",
+        "\"알고 보니 주식 고수?\" 오늘도 벌었다…폭락장에 1000만원 담은 박용진",
+        "\"주식 반토막, 이게 뭡니까\" -50%된 개미들, 존리에게 따졌더니 답변은",
+        "'20만 전자' 무너진 날…노태문, 삼성전자 주식 6.3억원 매입"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성전자",
+      "count": 5,
+      "representative_title": "주당 21만원에 3천주 매입했다…삼성전자 노태문, 6억3천만원 규모",
+      "representative_link": "https://n.news.naver.com/article/009/0005760241?ntype=RANKING",
+      "press": "매일경제",
+      "related_articles": [
+        {
+          "title": "주당 21만원에 3천주 매입했다…삼성전자 노태문, 6억3천만원 규모",
+          "link": "https://n.news.naver.com/article/009/0005760241?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "\"삼성전자 믿었다 망했다\" 원성에…존리 \"1년 해놓고 장투? 도박한 거다\"",
+          "link": "https://n.news.naver.com/article/014/0005600534?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "노태문, 삼성전자 자사주 3000주 또 매입, '얼마에 매수했나?'",
+          "link": "https://n.news.naver.com/article/243/0000105320?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "'20만전자' 무너지자…삼성전자 노태문, '3000주' 6억3000만원 규모 추가 매입",
+          "link": "https://n.news.naver.com/article/030/0003483149?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "주당 21만원에 3천주 매입했다…삼성전자 노태문, 6억3천만원 규모",
+          "link": "https://n.news.naver.com/article/009/0005760241?ntype=RANKING",
+          "press": "매일경제"
+        }
+      ],
+      "related_titles": [
+        "주당 21만원에 3천주 매입했다…삼성전자 노태문, 6억3천만원 규모",
+        "\"삼성전자 믿었다 망했다\" 원성에…존리 \"1년 해놓고 장투? 도박한 거다\"",
+        "노태문, 삼성전자 자사주 3000주 또 매입, '얼마에 매수했나?'",
+        "'20만전자' 무너지자…삼성전자 노태문, '3000주' 6억3000만원 규모 추가 매입",
+        "주당 21만원에 3천주 매입했다…삼성전자 노태문, 6억3천만원 규모"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "만원",
+      "count": 5,
+      "representative_title": "\"곡소리 날 때 진입\"? 박용진, 폭락장서 1000만원어치 매수, 1시간도 안 돼 30만원↑…과거 산 삼전은 +224%",
+      "representative_link": "https://n.news.naver.com/article/088/0001038850?ntype=RANKING",
+      "press": "매일신문",
+      "related_articles": [
+        {
+          "title": "\"곡소리 날 때 진입\"? 박용진, 폭락장서 1000만원어치 매수, 1시간도 안 돼 30만원↑…과거 산 삼전은 +224%",
+          "link": "https://n.news.naver.com/article/088/0001038850?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "\"곡소리 날 때 진입\"? 박용진, 폭락장서 1000만원어치 매수, 1시간도 안 돼 30만원↑…과거 산 삼전은 +224%",
+          "link": "https://n.news.naver.com/article/088/0001038850?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "\"곡소리 날 때 진입\"? 박용진, 폭락장서 1000만원어치 매수, 1시간도 안 돼 30만원↑…과거 산 삼전은 +224%",
+          "link": "https://n.news.naver.com/article/088/0001038850?ntype=RANKING",
+          "press": "매일신문"
+        }
+      ],
+      "related_titles": [
+        "\"곡소리 날 때 진입\"? 박용진, 폭락장서 1000만원어치 매수, 1시간도 안 돼 30만원↑…과거 산 삼전은 +224%",
+        "\"곡소리 날 때 진입\"? 박용진, 폭락장서 1000만원어치 매수, 1시간도 안 돼 30만원↑…과거 산 삼전은 +224%",
+        "\"곡소리 날 때 진입\"? 박용진, 폭락장서 1000만원어치 매수, 1시간도 안 돼 30만원↑…과거 산 삼전은 +224%"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "트럼프",
+      "series_title": "트럼프의 몰락",
+      "count": 3,
+      "representative_title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02cHh4ZllhLW1NTEFGN1NsTW5PeFpPX213VEkzNmpTcHY3WlhRcjl2eHcyMmFsNGw5Q3JvUnR2WnBjYmRWeXVhZHpERTB5bldLRVpZ0gFYQVVfeXFMUDBWYjZoamhjRFlQRDZIMDVxZTV3MFJ5SnQ4UjVvbFR3eXJUZXJ1TERxbFlBT2tDelF3YzRGTVV0ejVwZVA2TmQzUHpCUlNHbktyVllubWd4Sg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWVzNlbHZfZHk4a3gxR1g4c2ZCY3k3Qlh0d1BaOHd0NUtCSGl3RlFZQ3dkQTR1RDlwa25CMWNjOFY0ZHpJLU9tUkVrV0RHdkNvZHc3ZlI1NlliQQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+        "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+        "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "베네수엘라",
+      "series_title": "베네수엘라의 몰락",
+      "count": 1,
+      "representative_title": "김용현 “베네수엘라 몰락 시점 중 하나가 선거 시스템 무너진 순간”[현장영상]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wOFVwc2QzaEhWVWF4X2M5WFhCZkUzTzNibTdqZ0s5TnNucXcyNnQyZjVsSzJXR3FrZ3ZpclVybGlmQ2VWZFBwdWcxbm5pajNlT21kVktMb2JTdXhaZnfSAWNBVV95cUxPV19HNFVzM3ZrVUtBSHpIWnJxcHNraGd4bXZ6dVVHMjB0SjVNUHBkMVFKb0xlcGJHOE9maHIwOWpta0ZEZEtaQXU2bUdPYXRJVTZBZTJFbkthVGVBWWdlQTFtSkU?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "김용현 “베네수엘라 몰락 시점 중 하나가 선거 시스템 무너진 순간”[현장영상]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wOFVwc2QzaEhWVWF4X2M5WFhCZkUzTzNibTdqZ0s5TnNucXcyNnQyZjVsSzJXR3FrZ3ZpclVybGlmQ2VWZFBwdWcxbm5pajNlT21kVktMb2JTdXhaZnfSAWNBVV95cUxPV19HNFVzM3ZrVUtBSHpIWnJxcHNraGd4bXZ6dVVHMjB0SjVNUHBkMVFKb0xlcGJHOE9maHIwOWpta0ZEZEtaQXU2bUdPYXRJVTZBZTJFbkthVGVBWWdlQTFtSkU?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "김용현 “베네수엘라 몰락 시점 중 하나가 선거 시스템 무너진 순간”[현장영상]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "정치적",
+      "series_title": "정치적의 몰락",
+      "count": 1,
+      "representative_title": "트럼프 앞은 '가시밭길'…공화당 역사적 참패에 美언론 \"정치적 몰락\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pRkM3SlAyOXZlQ1NMYWJ3ZG1Vc0pJMkJhdjNFMDh5cGsyUUJoLTkwb2NpZHJiUVlzVHdtQkNEcThCTVhVOC1kbk1BNF9YUUlmTE16MDdlc2VVWWFJWnNudTBNV1NYMGNaT0E?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "트럼프 앞은 '가시밭길'…공화당 역사적 참패에 美언론 \"정치적 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pRkM3SlAyOXZlQ1NMYWJ3ZG1Vc0pJMkJhdjNFMDh5cGsyUUJoLTkwb2NpZHJiUVlzVHdtQkNEcThCTVhVOC1kbk1BNF9YUUlmTE16MDdlc2VVWWFJWnNudTBNV1NYMGNaT0E?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "트럼프 앞은 '가시밭길'…공화당 역사적 참패에 美언론 \"정치적 몰락\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "기업",
+      "series_title": "기업의 몰락",
+      "count": 1,
+      "representative_title": "하루 만에 2조 증발…국가대표 기업 몰락에 中 공포 덮쳤다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DYVZfUzRvbWJ2QTVJemhVUjV1SHZGMHRSM1FhMnJNVWNyeDRrWUNLMWw0YWxBTUZBSnZjdFdRMmdjbzNpQnctUXZtelBVZWxFYXppUm04SkhiQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "하루 만에 2조 증발…국가대표 기업 몰락에 中 공포 덮쳤다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DYVZfUzRvbWJ2QTVJemhVUjV1SHZGMHRSM1FhMnJNVWNyeDRrWUNLMWw0YWxBTUZBSnZjdFdRMmdjbzNpQnctUXZtelBVZWxFYXppUm04SkhiQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "하루 만에 2조 증발…국가대표 기업 몰락에 中 공포 덮쳤다"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "유럽",
+      "series_title": "유럽의 몰락",
+      "count": 1,
+      "representative_title": "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TXZkNVA3SEJOM1d0c2xwYThVdXBDem1DdFEybjhabTNDenNUcHhKdU1iUld5bzZlV1FzV2RCYVJDdXBCaUhVSmhOT3RJZ24zdHhOalI5Qzlha0cxeE04VmRVYnNxdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TXZkNVA3SEJOM1d0c2xwYThVdXBDem1DdFEybjhabTNDenNUcHhKdU1iUld5bzZlV1FzV2RCYVJDdXBCaUhVSmhOT3RJZ24zdHhOalI5Qzlha0cxeE04VmRVYnNxdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 4,
+      "representative_title": "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산",
+      "representative_link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ib3VMdGJtaW5ad1F4bmFZOTdFaFF2M3dRZjEyVnFOTXVtU000Z0RlRjVvSGZ1eEJmYzRMblE1YUgxbjAzMkhEUllGUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[2026년 부동산] 서울 집값 91주 연속 상승…강남 3구 보고 ‘집값 떨어진다’",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSkQ1ZXZnZTVfY1B5cnp6S0NRbzd1ZGlhdG1qdGtESko0MVN4dXB3am1sMy1tR3NPRnpwSVVEYXFQbmVXV2pSTkR5dmhSQWJ0RU1hNDlBS2o0NjhWNElIbEF2TV94LUlFcWlNUg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[양준서의 정조준] 서울 아파트값은 90주 연속 상승...이 대통령은 왜 '집값 폭락' 대비 선언?",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rSG9FUDFVQW5Bb0NLd1o4blRrZnlhSkxUMEVRbWVEVzZOVVZBSXRfN0h1SVRQNXFSMFFnOUlvR1lCVFF6UU0xcXd0RlRYTlpLNnFyTEd2QWRSMDlmUHVhOEVxcmNTQXhYTl9J0gFvQVVfeXFMTjBHT01Va0RRTENQS3ZyUTFKRVlGZldCQ2ZKd1lxRzM2R3c0emdrQy1fNlJzaWRVazVfTjFKbXgzLXI1SElpVTZqWG9aV2xteTVWQ1Jfc3l5bEQwdEZfRTJVMUJWRXFuQVhDXzRkeVBr?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값은 '뚝' 외곽은 '쑥'···서울 아파트 100주 연속 상승 현실화하나",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vNUdtYkQwcTM0Y3l3VG9RSUdJekdpQVFoUmxHUlBVMVZHRFZtUDNEZXVSaWNmWHFhaklkYXNOTW0tcXlsMXZYRDZyd0hvNkJyTHJnN0RMLWtjSzBXckZfaGNSLUVLVmk2bGZfTQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ib3VMdGJtaW5ad1F4bmFZOTdFaFF2M3dRZjEyVnFOTXVtU000Z0RlRjVvSGZ1eEJmYzRMblE1YUgxbjAzMkhEUllGUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[2026년 부동산] 서울 집값 91주 연속 상승…강남 3구 보고 ‘집값 떨어진다’",
+        "[양준서의 정조준] 서울 아파트값은 90주 연속 상승...이 대통령은 왜 '집값 폭락' 대비 선언?",
+        "강남 집값은 '뚝' 외곽은 '쑥'···서울 아파트 100주 연속 상승 현실화하나",
+        "서울 아파트 매물 35% 늘어…李 '대비책 강구' : 부동산"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 3,
+      "representative_title": "또 터진 강남 집값 통계조작 논란?…대통령 \"부동산 정보 편향적 전달\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ieVV4alNrM2J4aThYbGVPd1R0cHhSWTJmN2U2amlCdUJVUWMxRVpBQktHeGdyTEF1RTBEVWllVU5GMnh6bVFNQVBlQWlkQ1R5T1YwdU9jcTVuaXZjMzc2NzRrWTVXc2drN2xrME1na1dhQ0Q0MGJqWlNjb3p1bkHSAXNBVV95cUxOeW1JY0NKaVZWdkxoV0d4OE9sUEFoMjdaUDZRclRIQ2NJNktsUEhWMVQtV1V1cnJNcG5JbDE4S01ta0tUWEUtNFlkamw1NW9JREtld3hJOUQ0RGpjUUlndTV2cktlRVFvVFVHc3BtNkhyeGVJ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "또 터진 강남 집값 통계조작 논란?…대통령 \"부동산 정보 편향적 전달\"",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ieVV4alNrM2J4aThYbGVPd1R0cHhSWTJmN2U2amlCdUJVUWMxRVpBQktHeGdyTEF1RTBEVWllVU5GMnh6bVFNQVBlQWlkQ1R5T1YwdU9jcTVuaXZjMzc2NzRrWTVXc2drN2xrME1na1dhQ0Q0MGJqWlNjb3p1bkHSAXNBVV95cUxOeW1JY0NKaVZWdkxoV0d4OE9sUEFoMjdaUDZRclRIQ2NJNktsUEhWMVQtV1V1cnJNcG5JbDE4S01ta0tUWEUtNFlkamw1NW9JREtld3hJOUQ0RGpjUUlndTV2cktlRVFvVFVHc3BtNkhyeGVJ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "또 터진 강남 집값 통계조작 논란?…대통령 \"부동산 정보 편향적 전달\""
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "통계",
+      "count": 2,
+      "representative_title": "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVWE2V2UyRUxXRkVSdFdrTjByVnNjdmJoTlRhdFNtRjM3ZlFUSXoyZFcwSjJTR005cXNYTV9kWHphUFI1NFVRaDRHZjhkcktWRzlBSk8xTlc0VTlRMWdsNdIBeEFVX3lxTE1aZkY1bm56aXNRb1hYNDZJN0dzaFh1cURZN3BNc0FyX2otU1lMdTJBbUNmN3JpYTRjQUdPV2lGNmxFSEpmMUtBSGhsRmpleDVVS3V4ejRGYUVZT0UzVmNpQkJzLVpFc3RZN1BIZXF5ZTJnWmxNU25LYw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVWE2V2UyRUxXRkVSdFdrTjByVnNjdmJoTlRhdFNtRjM3ZlFUSXoyZFcwSjJTR005cXNYTV9kWHphUFI1NFVRaDRHZjhkcktWRzlBSk8xTlc0VTlRMWdsNdIBeEFVX3lxTE1aZkY1bm56aXNRb1hYNDZJN0dzaFh1cURZN3BNc0FyX2otU1lMdTJBbUNmN3JpYTRjQUdPV2lGNmxFSEpmMUtBSGhsRmpleDVVS3V4ejRGYUVZT0UzVmNpQkJzLVpFc3RZN1BIZXF5ZTJnWmxNU25LYw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMG1LQi1uWEZ4bzRZQVJTSDMxNUhRUmZaeFpHZlVnaEluWk1NREVXMmpqb19KUkJDTHdReWtZU2pDbEpzWnZQVW9Id3MyclNDUGpzZThVM0FOekhGbnd5NFBuanBPLW95d2RRbQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
+        "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "대통령은",
+      "count": 2,
+      "representative_title": "집값상승 통계에도 대통령은 \"주요지역 하락\"…시각차 왜? - 머니투데이",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwSjRTVjNMXzhENFFQYTd3QllvYllIeVBtcElwMHpLeVp1SnZ3bm9QTk8xb1lDUzNpTENMV2hwMTFSRElLT3hRUlNBQzlNcjNBTXUzbHhqY1NMQ3pBOElDWkFwbW9XY1czbGfSAW9BVV95cUxQUzFpOHJvQ1AzMXBXQ0h5UHdQd3luaTNkcXkzX3VfZWNNWVdhLXN2VndldWlDNTZGV3I1ZS1pYlk4RVVXdm1TOUdfV3ZDQ3Q1Uk9XVG4xd0xXRU95U1BPUmFUcEcxRHd2NHlaUkFRdzQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "집값상승 통계에도 대통령은 \"주요지역 하락\"…시각차 왜? - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwSjRTVjNMXzhENFFQYTd3QllvYllIeVBtcElwMHpLeVp1SnZ3bm9QTk8xb1lDUzNpTENMV2hwMTFSRElLT3hRUlNBQzlNcjNBTXUzbHhqY1NMQ3pBOElDWkFwbW9XY1czbGfSAW9BVV95cUxQUzFpOHJvQ1AzMXBXQ0h5UHdQd3luaTNkcXkzX3VfZWNNWVdhLXN2VndldWlDNTZGV3I1ZS1pYlk4RVVXdm1TOUdfV3ZDQ3Q1Uk9XVG4xd0xXRU95U1BPUmFUcEcxRHd2NHlaUkFRdzQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "집값상승 통계에도 대통령은 \"주요지역 하락\"…시각차 왜? - 머니투데이"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
