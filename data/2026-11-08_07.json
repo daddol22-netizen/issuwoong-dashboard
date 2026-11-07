@@ -1,0 +1,627 @@
+{
+  "date": "2026-11-08",
+  "hour": "07",
+  "slot": "2026-11-08_07",
+  "crawled_at": "2026-11-08 07:00:05",
+  "total_articles": 404,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "젠슨",
+      "count": 20,
+      "representative_title": "젠슨 황, 중국 스파이와 연인?…의혹 일파만파",
+      "representative_link": "https://n.news.naver.com/article/055/0001401390?ntype=RANKING",
+      "press": "SBS",
+      "related_articles": [
+        {
+          "title": "\"대체 그 여자와 무슨 사이냐\"…젠슨 황, 술집서 은밀히 만난 그녀 탓 美 발칵",
+          "link": "https://n.news.naver.com/article/277/0005839412?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "FT “젠슨 황, 中 스파이 여성과 연인 관계” 美 정보당국 메모 파장",
+          "link": "https://n.news.naver.com/article/366/0001203218?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "FT \"美, 젠슨 황 '中스파이' 여성과 연인 관계 판단\"",
+          "link": "https://n.news.naver.com/article/422/0000923834?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "젠슨 황 ‘中스파이’ 의심 女와 연인설에…장녀 방한 전격 취소",
+          "link": "https://n.news.naver.com/article/025/0003563523?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "젠슨 황 장녀 매디슨 황, 방한 하루 앞두고 취소…\"가족 사유\"",
+          "link": "https://n.news.naver.com/article/001/0016428366?ntype=RANKING",
+          "press": "연합뉴스"
+        }
+      ],
+      "related_titles": [
+        "\"대체 그 여자와 무슨 사이냐\"…젠슨 황, 술집서 은밀히 만난 그녀 탓 美 발칵",
+        "FT “젠슨 황, 中 스파이 여성과 연인 관계” 美 정보당국 메모 파장",
+        "FT \"美, 젠슨 황 '中스파이' 여성과 연인 관계 판단\"",
+        "젠슨 황 ‘中스파이’ 의심 女와 연인설에…장녀 방한 전격 취소",
+        "젠슨 황 장녀 매디슨 황, 방한 하루 앞두고 취소…\"가족 사유\""
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 2,
+      "keyword": "만원",
+      "count": 14,
+      "representative_title": "\"58만원 없어 서울대 포기할 뻔했는데\"…39년 전 소년은 지금",
+      "representative_link": "https://n.news.naver.com/article/031/0001073070?ntype=RANKING",
+      "press": "아이뉴스24",
+      "related_articles": [
+        {
+          "title": "“어제 못 사서 현금 들고 왔어요”…외국인이 150만원 쓴 종로 ‘이 거리’ [룩앤씬]",
+          "link": "https://n.news.naver.com/article/020/0003760778?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "\"한동훈, 불난 집에 부채질\"...코스피 폭락장에 '1000만원 매수'한 박용진",
+          "link": "https://n.news.naver.com/article/014/0005600768?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "국민연금 한 달 49만원 받는 80세, 나이 들어 가장 큰 후회는…",
+          "link": "https://n.news.naver.com/article/023/0004008315?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "\"58만원 없어 서울대 포기할 뻔했는데\"…39년 전 소년은 지금",
+          "link": "https://n.news.naver.com/article/031/0001073070?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "“500만원→160만원” 하이닉스보다 심하다…‘반토막’에 노조 파업까지 ‘망연자실’",
+          "link": "https://n.news.naver.com/article/016/0002720285?ntype=RANKING",
+          "press": "헤럴드경제"
+        }
+      ],
+      "related_titles": [
+        "“어제 못 사서 현금 들고 왔어요”…외국인이 150만원 쓴 종로 ‘이 거리’ [룩앤씬]",
+        "\"한동훈, 불난 집에 부채질\"...코스피 폭락장에 '1000만원 매수'한 박용진",
+        "국민연금 한 달 49만원 받는 80세, 나이 들어 가장 큰 후회는…",
+        "\"58만원 없어 서울대 포기할 뻔했는데\"…39년 전 소년은 지금",
+        "“500만원→160만원” 하이닉스보다 심하다…‘반토막’에 노조 파업까지 ‘망연자실’"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 3,
+      "keyword": "방한",
+      "count": 12,
+      "representative_title": "[단독] '마스가' 움직임 포착…미 해군 고위인사 방한",
+      "representative_link": "https://n.news.naver.com/article/055/0001401392?ntype=RANKING",
+      "press": "SBS",
+      "related_articles": [
+        {
+          "title": "매디슨 황, 입국 하루 앞두고 방한 취소…엔비디아 행사 예정대로",
+          "link": "https://n.news.naver.com/article/366/0001203233?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "[단독] '마스가' 움직임 포착…미 해군 고위인사 방한",
+          "link": "https://n.news.naver.com/article/055/0001401392?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "매디슨 황 방한 돌연 취소…내일 배경훈 과기부총리 만남 불발",
+          "link": "https://n.news.naver.com/article/003/0014308161?ntype=RANKING",
+          "press": "뉴시스"
+        }
+      ],
+      "related_titles": [
+        "매디슨 황, 입국 하루 앞두고 방한 취소…엔비디아 행사 예정대로",
+        "[단독] '마스가' 움직임 포착…미 해군 고위인사 방한",
+        "매디슨 황 방한 돌연 취소…내일 배경훈 과기부총리 만남 불발"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "취소",
+      "count": 12,
+      "representative_title": "ABC 방송면허 취소 압박한 트럼프, 의회 조사 쟁점으로 급부상",
+      "representative_link": "https://n.news.naver.com/article/092/0002444299?ntype=RANKING",
+      "press": "지디넷코리아",
+      "related_articles": [
+        {
+          "title": "ABC 방송면허 취소 압박한 트럼프, 의회 조사 쟁점으로 급부상",
+          "link": "https://n.news.naver.com/article/092/0002444299?ntype=RANKING",
+          "press": "지디넷코리아"
+        }
+      ],
+      "related_titles": [
+        "ABC 방송면허 취소 압박한 트럼프, 의회 조사 쟁점으로 급부상"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "트럼프",
+      "count": 12,
+      "representative_title": "‘트럼프 시대’, 쓰나미에 쓸려 나가다",
+      "representative_link": "https://n.news.naver.com/article/036/0000054420?ntype=RANKING",
+      "press": "한겨레21",
+      "related_articles": [
+        {
+          "title": "\"트럼프 살해하란 목소리 들려\"…총기들고 백악관 접근한 남성 체포",
+          "link": "https://n.news.naver.com/article/422/0000923820?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "미, 트럼프 선거 참패 뒤 첫 호르무즈 공습…“경미한 것”",
+          "link": "https://n.news.naver.com/article/028/0002831142?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "백악관 인근서 무장 남성 체포…\"트럼프 살해 목적\"",
+          "link": "https://n.news.naver.com/article/001/0016427985?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[속보]“트럼프 살해 목적”…백악관 인근서 총기 소지 남성 체포",
+          "link": "https://n.news.naver.com/article/029/0003057612?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "트럼프, '이민 단속 설계자'로 비서실장 교체…\"노선 안 바꾼다\"",
+          "link": "https://n.news.naver.com/article/047/0002534990?ntype=RANKING",
+          "press": "오마이뉴스"
+        }
+      ],
+      "related_titles": [
+        "\"트럼프 살해하란 목소리 들려\"…총기들고 백악관 접근한 남성 체포",
+        "미, 트럼프 선거 참패 뒤 첫 호르무즈 공습…“경미한 것”",
+        "백악관 인근서 무장 남성 체포…\"트럼프 살해 목적\"",
+        "[속보]“트럼프 살해 목적”…백악관 인근서 총기 소지 남성 체포",
+        "트럼프, '이민 단속 설계자'로 비서실장 교체…\"노선 안 바꾼다\""
+      ],
+      "category": "정치"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 8,
+      "representative_title": "\"한국 주식 안 삽니다\"...코스피 '대탈출'",
+      "representative_link": "https://n.news.naver.com/article/050/0000112959?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "\"개미는 쉬지않아\"... 코스피 폭락에 2조원 쓸어담았는데, SOXL도 '와르르'",
+          "link": "https://n.news.naver.com/article/014/0005600802?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "\"현금 들고 기다려라\"…코스피 5000선 아래로 떨어지자 재조명된 경고",
+          "link": "https://n.news.naver.com/article/014/0005600739?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "\"한동훈, 불난 집에 부채질\"...코스피 폭락장에 '1000만원 매수'한 박용진",
+          "link": "https://n.news.naver.com/article/014/0005600768?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "5000선 턱밑까지 밀린 코스피…美 물가·AI 실적에 달린 반등",
+          "link": "https://n.news.naver.com/article/029/0003057624?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "\"한국 주식 빨리 탈출\" 코스피 급락에 서학개미, 美주식 3조원 쓸어담아",
+          "link": "https://n.news.naver.com/article/088/0001038988?ntype=RANKING",
+          "press": "매일신문"
+        }
+      ],
+      "related_titles": [
+        "\"개미는 쉬지않아\"... 코스피 폭락에 2조원 쓸어담았는데, SOXL도 '와르르'",
+        "\"현금 들고 기다려라\"…코스피 5000선 아래로 떨어지자 재조명된 경고",
+        "\"한동훈, 불난 집에 부채질\"...코스피 폭락장에 '1000만원 매수'한 박용진",
+        "5000선 턱밑까지 밀린 코스피…美 물가·AI 실적에 달린 반등",
+        "\"한국 주식 빨리 탈출\" 코스피 급락에 서학개미, 美주식 3조원 쓸어담아"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "주식",
+      "count": 7,
+      "representative_title": "서학개미 11월 들어 미 주식 3조 원 '폭풍 매수'",
+      "representative_link": "https://n.news.naver.com/article/052/0002429663?ntype=RANKING",
+      "press": "YTN",
+      "related_articles": [
+        {
+          "title": "JYP 주가 '반토막'인데…박진영 \"주식? 하나님이 다 해주신다, 서둘러 부자 되려는 게 문제\"",
+          "link": "https://n.news.naver.com/article/277/0005839419?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "“평생 모은 5억 주식 몰빵, 4.5억 날려” 직장인 한탄",
+          "link": "https://n.news.naver.com/article/021/0002831071?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "박용진 “1000만원어치 주식 샀어요”…폭락장에 매수 인증샷",
+          "link": "https://n.news.naver.com/article/025/0003563498?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "서학개미 11월 들어 미 주식 3조 원 '폭풍 매수'",
+          "link": "https://n.news.naver.com/article/052/0002429663?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "“주식 더 떨어져도 좋아?”…20만전자 무너졌는데 “손실은 주주가 떠안나”",
+          "link": "https://n.news.naver.com/article/030/0003483176?ntype=RANKING",
+          "press": "전자신문"
+        }
+      ],
+      "related_titles": [
+        "JYP 주가 '반토막'인데…박진영 \"주식? 하나님이 다 해주신다, 서둘러 부자 되려는 게 문제\"",
+        "“평생 모은 5억 주식 몰빵, 4.5억 날려” 직장인 한탄",
+        "박용진 “1000만원어치 주식 샀어요”…폭락장에 매수 인증샷",
+        "서학개미 11월 들어 미 주식 3조 원 '폭풍 매수'",
+        "“주식 더 떨어져도 좋아?”…20만전자 무너졌는데 “손실은 주주가 떠안나”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "주가",
+      "count": 3,
+      "representative_title": "K-방산, 실적·주가 동반 부진…신규 수주·제재까지 첩첩산중",
+      "representative_link": "https://n.news.naver.com/article/138/0002247644?ntype=RANKING",
+      "press": "디지털데일리",
+      "related_articles": [
+        {
+          "title": "'계좌 박살 났다' 현타 온 개미들…주가 폭락에 몰려든 곳이 [투자톡]",
+          "link": "https://n.news.naver.com/article/015/0005351392?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "K-방산, 실적·주가 동반 부진…신규 수주·제재까지 첩첩산중",
+          "link": "https://n.news.naver.com/article/138/0002247644?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "'계좌 박살 났다' 현타 온 개미들…주가 폭락에 몰려든 곳이 [투자톡]",
+          "link": "https://n.news.naver.com/article/015/0005351392?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "K-방산, 실적·주가 동반 부진…신규 수주·제재까지 첩첩산중",
+          "link": "https://n.news.naver.com/article/138/0002247644?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "'계좌 박살 났다' 현타 온 개미들…주가 폭락에 몰려든 곳이 [투자톡]",
+          "link": "https://n.news.naver.com/article/015/0005351392?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "'계좌 박살 났다' 현타 온 개미들…주가 폭락에 몰려든 곳이 [투자톡]",
+        "K-방산, 실적·주가 동반 부진…신규 수주·제재까지 첩첩산중",
+        "'계좌 박살 났다' 현타 온 개미들…주가 폭락에 몰려든 곳이 [투자톡]",
+        "K-방산, 실적·주가 동반 부진…신규 수주·제재까지 첩첩산중",
+        "'계좌 박살 났다' 현타 온 개미들…주가 폭락에 몰려든 곳이 [투자톡]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "테슬라",
+      "count": 3,
+      "representative_title": "테슬라, 판매 부진에 사이버트럭 생산 중단",
+      "representative_link": "https://n.news.naver.com/article/417/0001163557?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "테슬라, 판매 부진에 사이버트럭 생산 중단…\"사이버캡에 집중\"",
+          "link": "https://n.news.naver.com/article/293/0000092872?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "일론 머스크 \"한 시대의 끝\"…테슬라 사이버트럭 생산 중단 수순",
+          "link": "https://n.news.naver.com/article/374/0000542292?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "테슬라, 판매 부진에 사이버트럭 생산 중단",
+          "link": "https://n.news.naver.com/article/417/0001163557?ntype=RANKING",
+          "press": "동행미디어 시대"
+        },
+        {
+          "title": "테슬라, 판매 부진에 사이버트럭 생산 중단…\"사이버캡에 집중\"",
+          "link": "https://n.news.naver.com/article/293/0000092872?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "일론 머스크 \"한 시대의 끝\"…테슬라 사이버트럭 생산 중단 수순",
+          "link": "https://n.news.naver.com/article/374/0000542292?ntype=RANKING",
+          "press": "SBS Biz"
+        }
+      ],
+      "related_titles": [
+        "테슬라, 판매 부진에 사이버트럭 생산 중단…\"사이버캡에 집중\"",
+        "일론 머스크 \"한 시대의 끝\"…테슬라 사이버트럭 생산 중단 수순",
+        "테슬라, 판매 부진에 사이버트럭 생산 중단",
+        "테슬라, 판매 부진에 사이버트럭 생산 중단…\"사이버캡에 집중\"",
+        "일론 머스크 \"한 시대의 끝\"…테슬라 사이버트럭 생산 중단 수순"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "시총",
+      "count": 3,
+      "representative_title": "[속보]세계 증시 시총 하루만에 4800조 증발",
+      "representative_link": "https://n.news.naver.com/article/050/0000112963?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "하루 새 전 세계 시총 '4774조 원' 증발…&#160;美 민주 압승 여파",
+          "link": "https://n.news.naver.com/article/469/0000964231?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "'2250조 증발' 삼전닉스, 급락장에 7개월만 시총 2000조도 깨졌다",
+          "link": "https://n.news.naver.com/article/243/0000105341?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "[속보]세계 증시 시총 하루만에 4800조 증발",
+          "link": "https://n.news.naver.com/article/050/0000112963?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "하루 새 전 세계 시총 '4774조 원' 증발…&#160;美 민주 압승 여파",
+          "link": "https://n.news.naver.com/article/469/0000964231?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "'2250조 증발' 삼전닉스, 급락장에 7개월만 시총 2000조도 깨졌다",
+          "link": "https://n.news.naver.com/article/243/0000105341?ntype=RANKING",
+          "press": "이코노미스트"
+        }
+      ],
+      "related_titles": [
+        "하루 새 전 세계 시총 '4774조 원' 증발…&#160;美 민주 압승 여파",
+        "'2250조 증발' 삼전닉스, 급락장에 7개월만 시총 2000조도 깨졌다",
+        "[속보]세계 증시 시총 하루만에 4800조 증발",
+        "하루 새 전 세계 시총 '4774조 원' 증발…&#160;美 민주 압승 여파",
+        "'2250조 증발' 삼전닉스, 급락장에 7개월만 시총 2000조도 깨졌다"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "트럼프",
+      "series_title": "트럼프의 몰락",
+      "count": 3,
+      "representative_title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWVzNlbHZfZHk4a3gxR1g4c2ZCY3k3Qlh0d1BaOHd0NUtCSGl3RlFZQ3dkQTR1RDlwa25CMWNjOFY0ZHpJLU9tUkVrV0RHdkNvZHc3ZlI1NlliQQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02cHh4ZllhLW1NTEFGN1NsTW5PeFpPX213VEkzNmpTcHY3WlhRcjl2eHcyMmFsNGw5Q3JvUnR2WnBjYmRWeXVhZHpERTB5bldLRVpZ0gFYQVVfeXFMUDBWYjZoamhjRFlQRDZIMDVxZTV3MFJ5SnQ4UjVvbFR3eXJUZXJ1TERxbFlBT2tDelF3YzRGTVV0ejVwZVA2TmQzUHpCUlNHbktyVllubWd4Sg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+        "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+        "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "필수의료",
+      "series_title": "필수의료의 몰락",
+      "count": 1,
+      "representative_title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "정치인",
+      "series_title": "정치인의 몰락",
+      "count": 1,
+      "representative_title": "파면된 파라과이 대통령…전도유망했던 남미 우파 정치인의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56OElLc2VIalVUU0FyWEt1N1R1R1dLSHdfWEFwQXlvaDdCSWRKdS1FVWRaTkxTX3F1TEUzY1N1TTlTTW9PVGMtWkpmSVBDUW1pbmp3RHRkcFUweXPSAWBBVV95cUxOcXB1SUFhYlJKZ0VraXp4UmlyTlZjazVsWmVMUFZrcWFpUHhZbktHakZ6d1h3LVBKZldjZEU0MzhvM0YyRkR4RE8wZ21mMm0yVXpoNlVKSl9iRURZaG9nUkE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "파면된 파라과이 대통령…전도유망했던 남미 우파 정치인의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56OElLc2VIalVUU0FyWEt1N1R1R1dLSHdfWEFwQXlvaDdCSWRKdS1FVWRaTkxTX3F1TEUzY1N1TTlTTW9PVGMtWkpmSVBDUW1pbmp3RHRkcFUweXPSAWBBVV95cUxOcXB1SUFhYlJKZ0VraXp4UmlyTlZjazVsWmVMUFZrcWFpUHhZbktHakZ6d1h3LVBKZldjZEU0MzhvM0YyRkR4RE8wZ21mMm0yVXpoNlVKSl9iRURZaG9nUkE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "파면된 파라과이 대통령…전도유망했던 남미 우파 정치인의 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "베네수엘라",
+      "series_title": "베네수엘라의 몰락",
+      "count": 1,
+      "representative_title": "김용현 “베네수엘라 몰락 시점 중 하나가 선거 시스템 무너진 순간”[현장영상]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wOFVwc2QzaEhWVWF4X2M5WFhCZkUzTzNibTdqZ0s5TnNucXcyNnQyZjVsSzJXR3FrZ3ZpclVybGlmQ2VWZFBwdWcxbm5pajNlT21kVktMb2JTdXhaZnfSAWNBVV95cUxPV19HNFVzM3ZrVUtBSHpIWnJxcHNraGd4bXZ6dVVHMjB0SjVNUHBkMVFKb0xlcGJHOE9maHIwOWpta0ZEZEtaQXU2bUdPYXRJVTZBZTJFbkthVGVBWWdlQTFtSkU?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "김용현 “베네수엘라 몰락 시점 중 하나가 선거 시스템 무너진 순간”[현장영상]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wOFVwc2QzaEhWVWF4X2M5WFhCZkUzTzNibTdqZ0s5TnNucXcyNnQyZjVsSzJXR3FrZ3ZpclVybGlmQ2VWZFBwdWcxbm5pajNlT21kVktMb2JTdXhaZnfSAWNBVV95cUxPV19HNFVzM3ZrVUtBSHpIWnJxcHNraGd4bXZ6dVVHMjB0SjVNUHBkMVFKb0xlcGJHOE9maHIwOWpta0ZEZEtaQXU2bUdPYXRJVTZBZTJFbkthVGVBWWdlQTFtSkU?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "김용현 “베네수엘라 몰락 시점 중 하나가 선거 시스템 무너진 순간”[현장영상]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "기업",
+      "series_title": "기업의 몰락",
+      "count": 1,
+      "representative_title": "하루 만에 2조 증발…국가대표 기업 몰락에 中 공포 덮쳤다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DYVZfUzRvbWJ2QTVJemhVUjV1SHZGMHRSM1FhMnJNVWNyeDRrWUNLMWw0YWxBTUZBSnZjdFdRMmdjbzNpQnctUXZtelBVZWxFYXppUm04SkhiQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "하루 만에 2조 증발…국가대표 기업 몰락에 中 공포 덮쳤다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DYVZfUzRvbWJ2QTVJemhVUjV1SHZGMHRSM1FhMnJNVWNyeDRrWUNLMWw0YWxBTUZBSnZjdFdRMmdjbzNpQnctUXZtelBVZWxFYXppUm04SkhiQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "하루 만에 2조 증발…국가대표 기업 몰락에 中 공포 덮쳤다"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 6,
+      "representative_title": "서울 집값 3주째 둔화…상승폭, 7개월來 최저",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSeEF5Zk9qZVdCNmljRk5zNlVBQkFHYjRRYkN5eUE1dUk2dWhJNTBjSzZ5bjZUQ0t6cE9WQ0wzeDFQbFd4VmFsNmJaeExHR0QxSEc2QUxLTW5adw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdUVmNFFGVWRMTmJna2gtS0QwTkxfc2o5YnhJeFYwUDRENUNLeTNLb1BYUUhVVFZJWkczOW5CSmstdWNVeERNSXRrWThUa0F4cm1nTGlVS1JHcE3SAWBBVV95cUxOcUxXMGY5alVCRHgyUHMzTXZvX01CemhBQWJUSXJFSlh0RkFLdDVIU3hzeDZ6NXp4T3NkTGJJRmtXSVJsUDVxYlNCRXpMTTVEaHhJRFQ2QVhnSml4RDlmbGc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값, 91주 연속 상승하며 역대 최장 기록 갱신...부동산 어쩌나",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfMFEtWmlWUFJmTW1fUFVvQVpteTRHZllxUkUtdTczbU9sMjRLY0JJcnNrVDJqN05OS3RLUGVLTTZ6MGZIXzcwVk9KUnJEeThqcUV3TmUzZUxSM2lmMFNMZHZKeTFYUURYM2pB0gFvQVVfeXFMTWZmUFo5LWpkREcwV1MwMkx0d3VsczRadHJNdVZ0a1VPeWYtNEQ4am5CUWhkUDA5dFBnWEttMHVIQkstZFEycnlCVktGbnEyWEJ0UXNLUHRpdUwtOUw0X0ZkckxXSXFpTGZkdWllZXk4?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[2026년 부동산] 서울 집값 91주 연속 상승…강남 3구 보고 ‘집값 떨어진다’",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSkQ1ZXZnZTVfY1B5cnp6S0NRbzd1ZGlhdG1qdGtESko0MVN4dXB3am1sMy1tR3NPRnpwSVVEYXFQbmVXV2pSTkR5dmhSQWJ0RU1hNDlBS2o0NjhWNElIbEF2TV94LUlFcWlNUg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값은 '뚝' 외곽은 '쑥'···서울 아파트 100주 연속 상승 현실화하나",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vNUdtYkQwcTM0Y3l3VG9RSUdJekdpQVFoUmxHUlBVMVZHRFZtUDNEZXVSaWNmWHFhaklkYXNOTW0tcXlsMXZYRDZyd0hvNkJyTHJnN0RMLWtjSzBXckZfaGNSLUVLVmk2bGZfTQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 매매 상승폭 3주째 축소…전세는 0.17% 상승 유지",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvMWQ1QzRHOTlvN3RPU1FUVko3M2JYcFZEbEVza1JXMDZTOUhUVlF2TVh0NGpSN2lLczJvWUpHMnlaQU03ZXRyTDFOM0ZtelRpRDZkOUVBVmNvSlhqZ0JNMGRlYw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+        "서울 집값, 91주 연속 상승하며 역대 최장 기록 갱신...부동산 어쩌나",
+        "[2026년 부동산] 서울 집값 91주 연속 상승…강남 3구 보고 ‘집값 떨어진다’",
+        "강남 집값은 '뚝' 외곽은 '쑥'···서울 아파트 100주 연속 상승 현실화하나",
+        "서울 아파트 매매 상승폭 3주째 축소…전세는 0.17% 상승 유지"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 4,
+      "representative_title": "‘놀라울 정도 떨어졌다’는 강남 3구 실거래가, 바닥 찍고 4주째 올라",
+      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHhseDdxcnZOVFh3S2RBYTlFSW5fNzdtV0ZTQzZMYzRUbEgtY0J0SHYwSG1vY0psZFZIcTFRSnBPZUk1NmlDTHFjZXg1LUtZdDRNY2JGc0o1MzVwWnhtSlhhZGY3cGxEMXF3RTN3djhhNUt6Qks4YTZQSXlzaTBNYWNPVWNNYzFF?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "‘놀라울 정도 떨어졌다’는 강남 3구 실거래가, 바닥 찍고 4주째 올라",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHhseDdxcnZOVFh3S2RBYTlFSW5fNzdtV0ZTQzZMYzRUbEgtY0J0SHYwSG1vY0psZFZIcTFRSnBPZUk1NmlDTHFjZXg1LUtZdDRNY2JGc0o1MzVwWnhtSlhhZGY3cGxEMXF3RTN3djhhNUt6Qks4YTZQSXlzaTBNYWNPVWNNYzFF?oc=5",
+          "press": ""
+        },
+        {
+          "title": "또 터진 강남 집값 통계조작 논란?…대통령 \"부동산 정보 편향적 전달\"",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ieVV4alNrM2J4aThYbGVPd1R0cHhSWTJmN2U2amlCdUJVUWMxRVpBQktHeGdyTEF1RTBEVWllVU5GMnh6bVFNQVBlQWlkQ1R5T1YwdU9jcTVuaXZjMzc2NzRrWTVXc2drN2xrME1na1dhQ0Q0MGJqWlNjb3p1bkHSAXNBVV95cUxOeW1JY0NKaVZWdkxoV0d4OE9sUEFoMjdaUDZRclRIQ2NJNktsUEhWMVQtV1V1cnJNcG5JbDE4S01ta0tUWEUtNFlkamw1NW9JREtld3hJOUQ0RGpjUUlndTV2cktlRVFvVFVHc3BtNkhyeGVJ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "‘놀라울 정도 떨어졌다’는 강남 3구 실거래가, 바닥 찍고 4주째 올라",
+        "또 터진 강남 집값 통계조작 논란?…대통령 \"부동산 정보 편향적 전달\""
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "집값은",
+      "count": 2,
+      "representative_title": "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'",
+      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMG1LQi1uWEZ4bzRZQVJTSDMxNUhRUmZaeFpHZlVnaEluWk1NREVXMmpqb19KUkJDTHdReWtZU2pDbEpzWnZQVW9Id3MyclNDUGpzZThVM0FOekhGbnd5NFBuanBPLW95d2RRbQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMG1LQi1uWEZ4bzRZQVJTSDMxNUhRUmZaeFpHZlVnaEluWk1NREVXMmpqb19KUkJDTHdReWtZU2pDbEpzWnZQVW9Id3MyclNDUGpzZThVM0FOekhGbnd5NFBuanBPLW95d2RRbQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "통계",
+      "count": 2,
+      "representative_title": "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVWE2V2UyRUxXRkVSdFdrTjByVnNjdmJoTlRhdFNtRjM3ZlFUSXoyZFcwSjJTR005cXNYTV9kWHphUFI1NFVRaDRHZjhkcktWRzlBSk8xTlc0VTlRMWdsNdIBeEFVX3lxTE1aZkY1bm56aXNRb1hYNDZJN0dzaFh1cURZN3BNc0FyX2otU1lMdTJBbUNmN3JpYTRjQUdPV2lGNmxFSEpmMUtBSGhsRmpleDVVS3V4ejRGYUVZT0UzVmNpQkJzLVpFc3RZN1BIZXF5ZTJnWmxNU25LYw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVWE2V2UyRUxXRkVSdFdrTjByVnNjdmJoTlRhdFNtRjM3ZlFUSXoyZFcwSjJTR005cXNYTV9kWHphUFI1NFVRaDRHZjhkcktWRzlBSk8xTlc0VTlRMWdsNdIBeEFVX3lxTE1aZkY1bm56aXNRb1hYNDZJN0dzaFh1cURZN3BNc0FyX2otU1lMdTJBbUNmN3JpYTRjQUdPV2lGNmxFSEpmMUtBSGhsRmpleDVVS3V4ejRGYUVZT0UzVmNpQkJzLVpFc3RZN1BIZXF5ZTJnWmxNU25LYw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
