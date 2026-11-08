@@ -1,0 +1,515 @@
+{
+  "date": "2026-11-09",
+  "hour": "07",
+  "slot": "2026-11-09_07",
+  "crawled_at": "2026-11-09 07:00:03",
+  "total_articles": 390,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "삼성",
+      "count": 17,
+      "representative_title": "삼성·현대차, ‘부부동반’ 만난다…사상 초유",
+      "representative_link": "https://n.news.naver.com/article/029/0003057728?ntype=RANKING",
+      "press": "디지털타임스",
+      "related_articles": [
+        {
+          "title": "“삼성 우승 기념, 大바겐세일 중” 개미들 난리났다…“할인율 63%”",
+          "link": "https://n.news.naver.com/article/016/0002720476?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "\"삼성 우승 세일이죠?\"…삼전 개미들 '웃픈 반응' 터졌다",
+          "link": "https://n.news.naver.com/article/015/0005351542?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "[단독] 강북삼성병원, 삼성 재단 떠나 성균관대로…‘의대 부속병원’ 전환 추진",
+          "link": "https://n.news.naver.com/article/009/0005760672?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "삼성·현대차, ‘부부동반’ 만난다…사상 초유",
+          "link": "https://n.news.naver.com/article/029/0003057728?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "대만, 정부 주도로 첨단 메모리 진출…삼성·SK하이닉스에 도전장",
+          "link": "https://n.news.naver.com/article/029/0003057657?ntype=RANKING",
+          "press": "디지털타임스"
+        }
+      ],
+      "related_titles": [
+        "“삼성 우승 기념, 大바겐세일 중” 개미들 난리났다…“할인율 63%”",
+        "\"삼성 우승 세일이죠?\"…삼전 개미들 '웃픈 반응' 터졌다",
+        "[단독] 강북삼성병원, 삼성 재단 떠나 성균관대로…‘의대 부속병원’ 전환 추진",
+        "삼성·현대차, ‘부부동반’ 만난다…사상 초유",
+        "대만, 정부 주도로 첨단 메모리 진출…삼성·SK하이닉스에 도전장"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 2,
+      "keyword": "만원",
+      "count": 14,
+      "representative_title": "'140만원 패딩' 올렸다가…박수홍 아내, 결국 입 열었다",
+      "representative_link": "https://n.news.naver.com/article/215/0001272048?ntype=RANKING",
+      "press": "한국경제TV",
+      "related_articles": [
+        {
+          "title": "“먹방 이제 너무 식상하다 했는데” 쯔양 하루에 80만원 시켜 먹더니…‘200만명’ 돌파 반전",
+          "link": "https://n.news.naver.com/article/016/0002720466?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "“주식하다 10㎏ 빠졌다”…평생 모은 5억 투자한 직장인 “4억 5000만원 증발”[사연잇슈]",
+          "link": "https://n.news.naver.com/article/081/0003696933?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "중학생까지 “자리 맡아놨으니 10만원 내세요” 장사…호텔비는 ‘9만→55만원’ 치솟기도",
+          "link": "https://n.news.naver.com/article/011/0004679953?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "중학생까지 “자리 맡아놨으니 10만원 내세요” 장사…호텔비는 ‘9만→55만원’ 치솟기도",
+          "link": "https://n.news.naver.com/article/011/0004679953?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "\"불꽃놀이 보려면 식사 80만원…호텔 1박 219만원\" 부산 또 바가지",
+          "link": "https://n.news.naver.com/article/421/0009277041?ntype=RANKING",
+          "press": "뉴스1"
+        }
+      ],
+      "related_titles": [
+        "“먹방 이제 너무 식상하다 했는데” 쯔양 하루에 80만원 시켜 먹더니…‘200만명’ 돌파 반전",
+        "“주식하다 10㎏ 빠졌다”…평생 모은 5억 투자한 직장인 “4억 5000만원 증발”[사연잇슈]",
+        "중학생까지 “자리 맡아놨으니 10만원 내세요” 장사…호텔비는 ‘9만→55만원’ 치솟기도",
+        "중학생까지 “자리 맡아놨으니 10만원 내세요” 장사…호텔비는 ‘9만→55만원’ 치솟기도",
+        "\"불꽃놀이 보려면 식사 80만원…호텔 1박 219만원\" 부산 또 바가지"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 3,
+      "keyword": "대통령",
+      "count": 14,
+      "representative_title": "김무성 \"조작기소 특검법 처리되면 李대통령 임기 못 채울 것\"",
+      "representative_link": "https://n.news.naver.com/article/586/0000141846?ntype=RANKING",
+      "press": "시사저널",
+      "related_articles": [
+        {
+          "title": "“주식시장 망가지는 건 다 정부 탓”…李대통령 과거 발언 재조명",
+          "link": "https://n.news.naver.com/article/005/0001883770?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "김무성 \"조작기소 특검법 처리되면 李대통령 임기 못 채울 것\"",
+          "link": "https://n.news.naver.com/article/586/0000141846?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "靑 핵심 참모 줄교체…'대통령 눈과 귀' 김정우 국정상황실장 사의, 후임에 김태근",
+          "link": "https://n.news.naver.com/article/586/0000141842?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "독일, 사상 최초 ‘대학 졸업장 없는 미혼 여성’ 대통령 예고",
+          "link": "https://n.news.naver.com/article/029/0003057800?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "李 대통령 사과 요구한 오세훈, 민주당 \"대권 눈 팔려 엉뚱한 훈계\"",
+          "link": "https://n.news.naver.com/article/006/0000138636?ntype=RANKING",
+          "press": "미디어오늘"
+        }
+      ],
+      "related_titles": [
+        "“주식시장 망가지는 건 다 정부 탓”…李대통령 과거 발언 재조명",
+        "김무성 \"조작기소 특검법 처리되면 李대통령 임기 못 채울 것\"",
+        "靑 핵심 참모 줄교체…'대통령 눈과 귀' 김정우 국정상황실장 사의, 후임에 김태근",
+        "독일, 사상 최초 ‘대학 졸업장 없는 미혼 여성’ 대통령 예고",
+        "李 대통령 사과 요구한 오세훈, 민주당 \"대권 눈 팔려 엉뚱한 훈계\""
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 4,
+      "keyword": "서울",
+      "count": 13,
+      "representative_title": "[속보]서울 아파트, 매물 '급증'",
+      "representative_link": "https://n.news.naver.com/article/050/0000112987?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "경매 나온 서울 아파트 '열에 여덟' 유찰이었다는데",
+          "link": "https://n.news.naver.com/article/648/0000052400?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "경적 대신 일제히 차들이 멈췄다…서울 한복판서 뜻밖의 장면",
+          "link": "https://n.news.naver.com/article/025/0003563643?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "서울 도심 지하서 80도 온수 터져 40대 전신 화상... 노후 열수송관 안전 비상",
+          "link": "https://n.news.naver.com/article/469/0000964338?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "與서울 의원들, 고위당정협의서 \"비거주 1주택 종부세 완화\" 강력 요청",
+          "link": "https://n.news.naver.com/article/008/0005438146?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "“차들이 일제히 멈췄다”…서울 한복판서 포착된 뭉클한 장면",
+          "link": "https://n.news.naver.com/article/020/0003760860?ntype=RANKING",
+          "press": "동아일보"
+        }
+      ],
+      "related_titles": [
+        "경매 나온 서울 아파트 '열에 여덟' 유찰이었다는데",
+        "경적 대신 일제히 차들이 멈췄다…서울 한복판서 뜻밖의 장면",
+        "서울 도심 지하서 80도 온수 터져 40대 전신 화상... 노후 열수송관 안전 비상",
+        "與서울 의원들, 고위당정협의서 \"비거주 1주택 종부세 완화\" 강력 요청",
+        "“차들이 일제히 멈췄다”…서울 한복판서 포착된 뭉클한 장면"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "종부세",
+      "count": 11,
+      "representative_title": "與 “종부세 기본공제 14억원으로 통일”…정부에 강력 요구",
+      "representative_link": "https://n.news.naver.com/article/366/0001203330?ntype=RANKING",
+      "press": "조선비즈",
+      "related_articles": [
+        {
+          "title": "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"(종합)",
+          "link": "https://n.news.naver.com/article/001/0016429948?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "민주 “비거주 1주택도 종부세 공제 14억, 정부에 강력 요구”",
+          "link": "https://n.news.naver.com/article/028/0002831266?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "당정 \"소방 투자에 2조 원\"‥'종부세 공제 14억 통일' 요구",
+          "link": "https://n.news.naver.com/article/214/0001534237?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "성난 부동산 민심에…與, 정부에 “종부세 공제, 거주 구분 없이 14억으로” 요구",
+          "link": "https://n.news.naver.com/article/011/0004679951?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "與 “종부세 기본공제 14억원으로 통일”…정부에 강력 요구",
+          "link": "https://n.news.naver.com/article/366/0001203330?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"(종합)",
+        "민주 “비거주 1주택도 종부세 공제 14억, 정부에 강력 요구”",
+        "당정 \"소방 투자에 2조 원\"‥'종부세 공제 14억 통일' 요구",
+        "성난 부동산 민심에…與, 정부에 “종부세 공제, 거주 구분 없이 14억으로” 요구",
+        "與 “종부세 기본공제 14억원으로 통일”…정부에 강력 요구"
+      ],
+      "category": "경제/투자"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 7,
+      "representative_title": "금리 인상 저울질하는 한은…코스피 폭락 변수되나",
+      "representative_link": "https://n.news.naver.com/article/648/0000052398?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "금리 인상 저울질하는 한은…코스피 폭락 변수되나",
+          "link": "https://n.news.naver.com/article/648/0000052398?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "'코스피 대탈출' 경고음…8조 던진 외국인 심상치 않다",
+          "link": "https://n.news.naver.com/article/015/0005351595?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "\"개미들 잠 못 잔다\"…코스피 11.71% 급락, 증권가 전망은",
+          "link": "https://n.news.naver.com/article/014/0005600838?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "코스피 폭락장에도 60% 치솟았다…'분쟁 프리미엄' 붙었다는 종목",
+          "link": "https://n.news.naver.com/article/030/0003483339?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "지금이 바닥일까…코스피 급락에 상장사 3곳 중 1곳 ‘연중 최저가’",
+          "link": "https://n.news.naver.com/article/119/0003152591?ntype=RANKING",
+          "press": "데일리안"
+        }
+      ],
+      "related_titles": [
+        "금리 인상 저울질하는 한은…코스피 폭락 변수되나",
+        "'코스피 대탈출' 경고음…8조 던진 외국인 심상치 않다",
+        "\"개미들 잠 못 잔다\"…코스피 11.71% 급락, 증권가 전망은",
+        "코스피 폭락장에도 60% 치솟았다…'분쟁 프리미엄' 붙었다는 종목",
+        "지금이 바닥일까…코스피 급락에 상장사 3곳 중 1곳 ‘연중 최저가’"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "투자",
+      "count": 3,
+      "representative_title": "안철수 “美 AI 데이터센터 투자, 호남에 유치해 ‘데이터 방패’ 세워야”",
+      "representative_link": "https://n.news.naver.com/article/366/0001203302?ntype=RANKING",
+      "press": "조선비즈",
+      "related_articles": [
+        {
+          "title": "韓반도체, 언제 주울까 “삼성전자 17만원대부터 분할매수 권고” [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002720478?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "안철수 “美 AI 데이터센터 투자, 호남에 유치해 ‘데이터 방패’ 세워야”",
+          "link": "https://n.news.naver.com/article/366/0001203302?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "與 \"정부에 '종부세 14억' 실거주 구분 없이 적용 요구…소방 투자 2兆 지원 검토\"",
+          "link": "https://n.news.naver.com/article/119/0003152624?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "韓반도체, 언제 주울까 “삼성전자 17만원대부터 분할매수 권고” [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002720478?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "안철수 “美 AI 데이터센터 투자, 호남에 유치해 ‘데이터 방패’ 세워야”",
+          "link": "https://n.news.naver.com/article/366/0001203302?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "韓반도체, 언제 주울까 “삼성전자 17만원대부터 분할매수 권고” [투자360]",
+        "안철수 “美 AI 데이터센터 투자, 호남에 유치해 ‘데이터 방패’ 세워야”",
+        "與 \"정부에 '종부세 14억' 실거주 구분 없이 적용 요구…소방 투자 2兆 지원 검토\"",
+        "韓반도체, 언제 주울까 “삼성전자 17만원대부터 분할매수 권고” [투자360]",
+        "안철수 “美 AI 데이터센터 투자, 호남에 유치해 ‘데이터 방패’ 세워야”"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "트럼프",
+      "series_title": "트럼프의 몰락",
+      "count": 3,
+      "representative_title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWVzNlbHZfZHk4a3gxR1g4c2ZCY3k3Qlh0d1BaOHd0NUtCSGl3RlFZQ3dkQTR1RDlwa25CMWNjOFY0ZHpJLU9tUkVrV0RHdkNvZHc3ZlI1NlliQQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02cHh4ZllhLW1NTEFGN1NsTW5PeFpPX213VEkzNmpTcHY3WlhRcjl2eHcyMmFsNGw5Q3JvUnR2WnBjYmRWeXVhZHpERTB5bldLRVpZ0gFYQVVfeXFMUDBWYjZoamhjRFlQRDZIMDVxZTV3MFJ5SnQ4UjVvbFR3eXJUZXJ1TERxbFlBT2tDelF3YzRGTVV0ejVwZVA2TmQzUHpCUlNHbktyVllubWd4Sg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+        "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+        "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "유럽",
+      "series_title": "유럽의 몰락",
+      "count": 2,
+      "representative_title": "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TXZkNVA3SEJOM1d0c2xwYThVdXBDem1DdFEybjhabTNDenNUcHhKdU1iUld5bzZlV1FzV2RCYVJDdXBCaUhVSmhOT3RJZ24zdHhOalI5Qzlha0cxeE04VmRVYnNxdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2pKdXJXTi1ZRm8xekk1QUxiTmRDSGVEWmwtd0JIclotVHdFMjFiYmJhMDE2dHNpbkh5aTlpdldHUG1oR29RRWdsVnNWX2lvVzMxZEJudW5XUUdKNmJ5RmRndTlmRmF3eHlXNnF6dlBKLW52b1NtZUxLUFAzUXBzaDFrUEtfSDVXX3pqWA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TXZkNVA3SEJOM1d0c2xwYThVdXBDem1DdFEybjhabTNDenNUcHhKdU1iUld5bzZlV1FzV2RCYVJDdXBCaUhVSmhOT3RJZ24zdHhOalI5Qzlha0cxeE04VmRVYnNxdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”",
+        "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "대통령도",
+      "series_title": "대통령도의 몰락",
+      "count": 1,
+      "representative_title": "은행 파산 사흘 만에 대통령도 몰락···페냐 파라과이 대통령 파면에 중남미 우파 ‘휘청’",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vTVhvUGNBbWVkR3d6dlZaT09kY29TNWJuMzFyeWpCWDVpUlMxYVVRalk2S01oTldpZnQ4Q0ZQRnlNTVlVMmVSMndRaGo2MEpyWVRicWg2N3ZNUdIBX0FVX3lxTFBYOFdfdEJla2Z3SXh0clNWenM5aDNSTmQtR1FYSXhBVHQ1RE5CcFB2Um1yMmRtLXF3Z05xdk4xRkg1MGZGZEgtTkVrSHV6QUwwbTRLUFVUZmVZUWVlOEo4?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "은행 파산 사흘 만에 대통령도 몰락···페냐 파라과이 대통령 파면에 중남미 우파 ‘휘청’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vTVhvUGNBbWVkR3d6dlZaT09kY29TNWJuMzFyeWpCWDVpUlMxYVVRalk2S01oTldpZnQ4Q0ZQRnlNTVlVMmVSMndRaGo2MEpyWVRicWg2N3ZNUdIBX0FVX3lxTFBYOFdfdEJla2Z3SXh0clNWenM5aDNSTmQtR1FYSXhBVHQ1RE5CcFB2Um1yMmRtLXF3Z05xdk4xRkg1MGZGZEgtTkVrSHV6QUwwbTRLUFVUZmVZUWVlOEo4?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "은행 파산 사흘 만에 대통령도 몰락···페냐 파라과이 대통령 파면에 중남미 우파 ‘휘청’"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "선봉장",
+      "series_title": "선봉장의 몰락",
+      "count": 1,
+      "representative_title": "‘美 밀착’ 파라과이 페냐 탄핵…남미 ‘블루 타이드’ 선봉장 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YS0VrcXlrTDFDcFZoQVZnUHRmXzhJOFFqU1NsSUZvaWxmRV9Xc1NsZ0g5QVBELUgzSDFFQndlLTd0bVZUdU9KQUdJbkhVQjBScnBwTUl3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "‘美 밀착’ 파라과이 페냐 탄핵…남미 ‘블루 타이드’ 선봉장 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YS0VrcXlrTDFDcFZoQVZnUHRmXzhJOFFqU1NsSUZvaWxmRV9Xc1NsZ0g5QVBELUgzSDFFQndlLTd0bVZUdU9KQUdJbkhVQjBScnBwTUl3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "‘美 밀착’ 파라과이 페냐 탄핵…남미 ‘블루 타이드’ 선봉장 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "필수의료",
+      "series_title": "필수의료의 몰락",
+      "count": 1,
+      "representative_title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\""
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 14,
+      "representative_title": "[속보]서울 아파트, 매물 '급증'",
+      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMU41Vld4NlZ5eXZkanNKSm1EM3FDbldaNUkwMVVjZjRrOXZ2dzI3Qkl3a2FvWVZqX2N4V0R5OTV0S3hSdUR2M2VZNm9EVFBfejBGS25oOTN0X1hDZ0l0aFpYNU5HY1FvdnRlYw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdUVmNFFGVWRMTmJna2gtS0QwTkxfc2o5YnhJeFYwUDRENUNLeTNLb1BYUUhVVFZJWkczOW5CSmstdWNVeERNSXRrWThUa0F4cm1nTGlVS1JHcE3SAWBBVV95cUxOcUxXMGY5alVCRHgyUHMzTXZvX01CemhBQWJUSXJFSlh0RkFLdDVIU3hzeDZ6NXp4T3NkTGJJRmtXSVJsUDVxYlNCRXpMTTVEaHhJRFQ2QVhnSml4RDlmbGc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 매물 훅 늘었다…집값은? 다 올랐는데 ‘여기만’",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fVkcyRUw1SUZPYzhNZHVOa0hLd1BzVmlHZTdnRkRuTmJjS3dRUlJsZ3d6UzBJWEhNQTZwMzVtMHlLV1lkMzJkOWU3VlI5azl6UWdnVQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[속보]서울 아파트, 매물 '급증'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMU41Vld4NlZ5eXZkanNKSm1EM3FDbldaNUkwMVVjZjRrOXZ2dzI3Qkl3a2FvWVZqX2N4V0R5OTV0S3hSdUR2M2VZNm9EVFBfejBGS25oOTN0X1hDZ0l0aFpYNU5HY1FvdnRlYw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 매물 석 달 새 33%↑…집값 안정은 ‘미지수’",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15RDBKZjlIcXBmVGpWSFM5VzJ5ZUQtd0RwWFN0WW5GdldZOWFKODBiZm5ubDUwNmRjRS1UNF8tVjZMNGNFLWtRaFNlQTJ1RENjTVlrcDd3OEs3OWtYb3ZobERQTFl2dUhJTWpqZdIBcEFVX3lxTE1yUnBub0NxSmVmeHRKYi1RZzJvMjZZZk1rajd0eE1yazNKNHN3TkV4dFpVMzFGdWI1SFUzUTIyWmVDdDNEMnk0WmRLSWZuNHU0aFdvLUVUOWZPTFFmbE44dzFvcjA5NlFqTjRQSHhjclc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[경제진단] 서울 아파트 매물 33% 늘었는데 집값은 상승…부동산 시장에 나타난 '정책과 가격의 괴리'",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzeTgyU1pCYllaZmZCbWhRellSRkhFbDRpdDJtUVpQTUlmYVpyZ0plVUZobklvejNFMnFqWEFNdnExb1NZN0JWeGdFVGV5aW9ubmxhQkp3TWFwWG1SNkgzYlRzd08?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+        "서울 아파트 매물 훅 늘었다…집값은? 다 올랐는데 ‘여기만’",
+        "[속보]서울 아파트, 매물 '급증'",
+        "서울 아파트 매물 석 달 새 33%↑…집값 안정은 ‘미지수’",
+        "[경제진단] 서울 아파트 매물 33% 늘었는데 집값은 상승…부동산 시장에 나타난 '정책과 가격의 괴리'"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "집값은",
+      "count": 4,
+      "representative_title": "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'",
+      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMG1LQi1uWEZ4bzRZQVJTSDMxNUhRUmZaeFpHZlVnaEluWk1NREVXMmpqb19KUkJDTHdReWtZU2pDbEpzWnZQVW9Id3MyclNDUGpzZThVM0FOekhGbnd5NFBuanBPLW95d2RRbQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMG1LQi1uWEZ4bzRZQVJTSDMxNUhRUmZaeFpHZlVnaEluWk1NREVXMmpqb19KUkJDTHdReWtZU2pDbEpzWnZQVW9Id3MyclNDUGpzZThVM0FOekhGbnd5NFBuanBPLW95d2RRbQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "통계",
+      "count": 2,
+      "representative_title": "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVWE2V2UyRUxXRkVSdFdrTjByVnNjdmJoTlRhdFNtRjM3ZlFUSXoyZFcwSjJTR005cXNYTV9kWHphUFI1NFVRaDRHZjhkcktWRzlBSk8xTlc0VTlRMWdsNdIBeEFVX3lxTE1aZkY1bm56aXNRb1hYNDZJN0dzaFh1cURZN3BNc0FyX2otU1lMdTJBbUNmN3JpYTRjQUdPV2lGNmxFSEpmMUtBSGhsRmpleDVVS3V4ejRGYUVZT0UzVmNpQkJzLVpFc3RZN1BIZXF5ZTJnWmxNU25LYw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVWE2V2UyRUxXRkVSdFdrTjByVnNjdmJoTlRhdFNtRjM3ZlFUSXoyZFcwSjJTR005cXNYTV9kWHphUFI1NFVRaDRHZjhkcktWRzlBSk8xTlc0VTlRMWdsNdIBeEFVX3lxTE1aZkY1bm56aXNRb1hYNDZJN0dzaFh1cURZN3BNc0FyX2otU1lMdTJBbUNmN3JpYTRjQUdPV2lGNmxFSEpmMUtBSGhsRmpleDVVS3V4ejRGYUVZT0UzVmNpQkJzLVpFc3RZN1BIZXF5ZTJnWmxNU25LYw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
