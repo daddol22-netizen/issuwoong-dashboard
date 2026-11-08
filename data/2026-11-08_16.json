@@ -1,0 +1,583 @@
+{
+  "date": "2026-11-08",
+  "hour": "16",
+  "slot": "2026-11-08_16",
+  "crawled_at": "2026-11-08 16:00:02",
+  "total_articles": 395,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "첫눈",
+      "count": 17,
+      "representative_title": "서울에 벌써 '첫눈'…오늘도 초겨울 추위",
+      "representative_link": "https://n.news.naver.com/article/055/0001401444?ntype=RANKING",
+      "press": "SBS",
+      "related_articles": [
+        {
+          "title": "서울에 많이 이른 '첫눈'…작년보다 26일, 평년보다 12일 빨라(종합)",
+          "link": "https://n.news.naver.com/article/001/0016428723?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "서울에 첫눈 내렸다…지난해보다 26일 빨라",
+          "link": "https://n.news.naver.com/article/005/0001883653?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "서울에 '첫눈', 작년보다 26일 빨라‥수도권 등 흐리고 비",
+          "link": "https://n.news.naver.com/article/214/0001534182?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "[날씨] 서울 첫눈, 추위 속 중부 곳곳 비...내일 남부 중심 비",
+          "link": "https://n.news.naver.com/article/052/0002429905?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "[날씨] 서울 올가을 첫눈 관측...2010년 이후 가장 빨라",
+          "link": "https://n.news.naver.com/article/052/0002429874?ntype=RANKING",
+          "press": "YTN"
+        }
+      ],
+      "related_titles": [
+        "서울에 많이 이른 '첫눈'…작년보다 26일, 평년보다 12일 빨라(종합)",
+        "서울에 첫눈 내렸다…지난해보다 26일 빨라",
+        "서울에 '첫눈', 작년보다 26일 빨라‥수도권 등 흐리고 비",
+        "[날씨] 서울 첫눈, 추위 속 중부 곳곳 비...내일 남부 중심 비",
+        "[날씨] 서울 올가을 첫눈 관측...2010년 이후 가장 빨라"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 2,
+      "keyword": "대통령",
+      "count": 17,
+      "representative_title": "민주당 대변인 \"이 대통령 세계인이 존경\"",
+      "representative_link": "https://n.news.naver.com/article/057/0001977201?ntype=RANKING",
+      "press": "MBN",
+      "related_articles": [
+        {
+          "title": "국민의힘 장외투쟁에 與 대변인 “李 대통령 탄핵? 세계인이 존경”",
+          "link": "https://n.news.naver.com/article/023/0004008400?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "오세훈 “주식시장 거대한 도박판… 李대통령 사과해야”",
+          "link": "https://n.news.naver.com/article/023/0004008398?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "네타냐후 내친 이스라엘 대통령… 아이젠코트 총리 ‘유력’",
+          "link": "https://n.news.naver.com/article/022/0004173323?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "이 대통령 “국민 부담 가중 공공부문 민영화 꼭 막을 것”",
+          "link": "https://n.news.naver.com/article/056/0012289451?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "이 대통령 직격한 오세훈 “선거용 주식 도박…오만이 지옥문 열어”",
+          "link": "https://n.news.naver.com/article/028/0002831179?ntype=RANKING",
+          "press": "한겨레"
+        }
+      ],
+      "related_titles": [
+        "국민의힘 장외투쟁에 與 대변인 “李 대통령 탄핵? 세계인이 존경”",
+        "오세훈 “주식시장 거대한 도박판… 李대통령 사과해야”",
+        "네타냐후 내친 이스라엘 대통령… 아이젠코트 총리 ‘유력’",
+        "이 대통령 “국민 부담 가중 공공부문 민영화 꼭 막을 것”",
+        "이 대통령 직격한 오세훈 “선거용 주식 도박…오만이 지옥문 열어”"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 3,
+      "keyword": "서울",
+      "count": 15,
+      "representative_title": "[속보]서울 아파트, 매물 '급증'",
+      "representative_link": "https://n.news.naver.com/article/050/0000112987?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "서울 아파트 매물 훅 늘었다…집값은? 다 올랐는데 '여기만'",
+          "link": "https://n.news.naver.com/article/437/0000519677?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "서울 식대 8만원에 축의금 10만원…신랑·신부에게 2만원 남을까 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004173296?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "경매 나온 서울 아파트 '열에 여덟' 유찰이었다는데",
+          "link": "https://n.news.naver.com/article/648/0000052400?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "경기 아파트값 상승폭, 서울 앞질렀다…경기남부 강세",
+          "link": "https://n.news.naver.com/article/374/0000542329?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "“금리에 장사 없다” 역대 최장기 상승 서울 집값 버블 가능성 없나",
+          "link": "https://n.news.naver.com/article/037/0000039111?ntype=RANKING",
+          "press": "주간동아"
+        }
+      ],
+      "related_titles": [
+        "서울 아파트 매물 훅 늘었다…집값은? 다 올랐는데 '여기만'",
+        "서울 식대 8만원에 축의금 10만원…신랑·신부에게 2만원 남을까 [숫자 뒤의 진실]",
+        "경매 나온 서울 아파트 '열에 여덟' 유찰이었다는데",
+        "경기 아파트값 상승폭, 서울 앞질렀다…경기남부 강세",
+        "“금리에 장사 없다” 역대 최장기 상승 서울 집값 버블 가능성 없나"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "민주당",
+      "count": 14,
+      "representative_title": "조갑제, 국힘 지도부 겨냥 \"이런 얼굴로는 민주당 못 이겨\"",
+      "representative_link": "https://n.news.naver.com/article/656/0000191749?ntype=RANKING",
+      "press": "대전일보",
+      "related_articles": [
+        {
+          "title": "美중간선거 투표율 49% ‘112년 만에 두 번째’…민주당 압승 이끈 투표 열기",
+          "link": "https://n.news.naver.com/article/016/0002720418?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "조갑제, 국힘 지도부 겨냥 \"이런 얼굴로는 민주당 못 이겨\"",
+          "link": "https://n.news.naver.com/article/656/0000191749?ntype=RANKING",
+          "press": "대전일보"
+        },
+        {
+          "title": "[속보]조갑제 “이런 얼굴들로는 죽었다 깨나도 민주당 못 이긴다”",
+          "link": "https://n.news.naver.com/article/021/0002831133?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "조갑제 \"멍청한 극우는 극좌의 밥…이런 얼굴들론 민주당 못 이겨\"",
+          "link": "https://n.news.naver.com/article/448/0000649697?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "민주당, 국민의힘 '조작기소 특검법' 장외투쟁에 \"윤석열 정치검찰 방탄\"",
+          "link": "https://n.news.naver.com/article/655/0000033490?ntype=RANKING",
+          "press": "CJB청주방송"
+        }
+      ],
+      "related_titles": [
+        "美중간선거 투표율 49% ‘112년 만에 두 번째’…민주당 압승 이끈 투표 열기",
+        "조갑제, 국힘 지도부 겨냥 \"이런 얼굴로는 민주당 못 이겨\"",
+        "[속보]조갑제 “이런 얼굴들로는 죽었다 깨나도 민주당 못 이긴다”",
+        "조갑제 \"멍청한 극우는 극좌의 밥…이런 얼굴들론 민주당 못 이겨\"",
+        "민주당, 국민의힘 '조작기소 특검법' 장외투쟁에 \"윤석열 정치검찰 방탄\""
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 5,
+      "keyword": "오세훈",
+      "count": 14,
+      "representative_title": "오세훈 \"선거 전 주가 치솟더니 이후 폭락…우연일치냐\"",
+      "representative_link": "https://n.news.naver.com/article/374/0000542338?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "오세훈 \"국민연금으로 주식도박…정부 오만함이 지옥문 열어\"",
+          "link": "https://n.news.naver.com/article/656/0000191744?ntype=RANKING",
+          "press": "대전일보"
+        },
+        {
+          "title": "오세훈 \"지방선거용 주식 도박…李정부 오만, 지옥문 열어\"",
+          "link": "https://n.news.naver.com/article/586/0000141836?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "오세훈 \"선거 전 주가 띄우더니 국민 도박판에 내몰아…李, 사과하라\"",
+          "link": "https://n.news.naver.com/article/448/0000649663?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "오세훈 \"선거 전 주가 치솟더니 이후 폭락…우연일치냐\"",
+          "link": "https://n.news.naver.com/article/374/0000542338?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "오세훈 \"지방선거용 주식 도박…이재명, 영끌투자자에 사과해야\"",
+          "link": "https://n.news.naver.com/article/629/0000549707?ntype=RANKING",
+          "press": "더팩트"
+        }
+      ],
+      "related_titles": [
+        "오세훈 \"국민연금으로 주식도박…정부 오만함이 지옥문 열어\"",
+        "오세훈 \"지방선거용 주식 도박…李정부 오만, 지옥문 열어\"",
+        "오세훈 \"선거 전 주가 띄우더니 국민 도박판에 내몰아…李, 사과하라\"",
+        "오세훈 \"선거 전 주가 치솟더니 이후 폭락…우연일치냐\"",
+        "오세훈 \"지방선거용 주식 도박…이재명, 영끌투자자에 사과해야\""
+      ],
+      "category": "경제/투자"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "삼성전자",
+      "count": 8,
+      "representative_title": "협력 다지는 삼성전자·현대차...양사 경영진 부부동반 행사",
+      "representative_link": "https://n.news.naver.com/article/469/0000964282?ntype=RANKING",
+      "press": "한국일보",
+      "related_articles": [
+        {
+          "title": "삼성전자 현금 200조 돌파…올해 주주환원도 미래투자도 '100조+α'",
+          "link": "https://n.news.naver.com/article/422/0000923963?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "20만원 무너진 삼성전자 시험대 올라…반등 조건은 '외인 복귀'",
+          "link": "https://n.news.naver.com/article/421/0009276715?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "협력 다지는 삼성전자·현대차...양사 경영진 부부동반 행사",
+          "link": "https://n.news.naver.com/article/469/0000964282?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "'현금 215조' 삼성전자…주주환원·미래 투자에 통 큰 베팅",
+          "link": "https://n.news.naver.com/article/660/0000120841?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "\"삼성전자 덕에 12배 잭팟\"…반도체 호황에 돈벼락 예고된 이 동네",
+          "link": "https://n.news.naver.com/article/215/0001272016?ntype=RANKING",
+          "press": "한국경제TV"
+        }
+      ],
+      "related_titles": [
+        "삼성전자 현금 200조 돌파…올해 주주환원도 미래투자도 '100조+α'",
+        "20만원 무너진 삼성전자 시험대 올라…반등 조건은 '외인 복귀'",
+        "협력 다지는 삼성전자·현대차...양사 경영진 부부동반 행사",
+        "'현금 215조' 삼성전자…주주환원·미래 투자에 통 큰 베팅",
+        "\"삼성전자 덕에 12배 잭팟\"…반도체 호황에 돈벼락 예고된 이 동네"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "오세훈",
+      "count": 8,
+      "representative_title": "오세훈 \"선거 전 주가 치솟더니 이후 폭락…우연일치냐\"",
+      "representative_link": "https://n.news.naver.com/article/374/0000542338?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "이 대통령 직격한 오세훈 “선거용 주식 도박…오만이 지옥문 열어”",
+          "link": "https://n.news.naver.com/article/028/0002831179?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "오세훈 \"지방선거용 주식 도박…李정부 오만, 지옥문 열어\"",
+          "link": "https://n.news.naver.com/article/586/0000141836?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "오세훈 \"국민연금으로 지방선거용 주식 도박…이 대통령 사과해야\"",
+          "link": "https://n.news.naver.com/article/055/0001401439?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "오세훈 \"선거 전 주가 띄우더니 국민 도박판에 내몰아…李, 사과하라\"",
+          "link": "https://n.news.naver.com/article/448/0000649663?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "오세훈 \"선거 전 주가 치솟더니 이후 폭락…우연일치냐\"",
+          "link": "https://n.news.naver.com/article/374/0000542338?ntype=RANKING",
+          "press": "SBS Biz"
+        }
+      ],
+      "related_titles": [
+        "이 대통령 직격한 오세훈 “선거용 주식 도박…오만이 지옥문 열어”",
+        "오세훈 \"지방선거용 주식 도박…李정부 오만, 지옥문 열어\"",
+        "오세훈 \"국민연금으로 지방선거용 주식 도박…이 대통령 사과해야\"",
+        "오세훈 \"선거 전 주가 띄우더니 국민 도박판에 내몰아…李, 사과하라\"",
+        "오세훈 \"선거 전 주가 치솟더니 이후 폭락…우연일치냐\""
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "주식",
+      "count": 6,
+      "representative_title": "“평생 모은 5억 주식 몰빵, 4.5억 날려” 직장인 한탄",
+      "representative_link": "https://n.news.naver.com/article/021/0002831071?ntype=RANKING",
+      "press": "문화일보",
+      "related_articles": [
+        {
+          "title": "“평생 모은 5억 주식 몰빵, 4.5억 날려” 직장인 한탄",
+          "link": "https://n.news.naver.com/article/021/0002831071?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "“평생 모은 5억 주식 몰빵, 4.5억 날려” 직장인 한탄",
+          "link": "https://n.news.naver.com/article/021/0002831071?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "“평생 모은 5억 주식 몰빵, 4.5억 날려” 직장인 한탄",
+          "link": "https://n.news.naver.com/article/021/0002831071?ntype=RANKING",
+          "press": "문화일보"
+        }
+      ],
+      "related_titles": [
+        "“평생 모은 5억 주식 몰빵, 4.5억 날려” 직장인 한탄",
+        "“평생 모은 5억 주식 몰빵, 4.5억 날려” 직장인 한탄",
+        "“평생 모은 5억 주식 몰빵, 4.5억 날려” 직장인 한탄"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "코스피",
+      "count": 5,
+      "representative_title": "금리 인상 저울질하는 한은…코스피 폭락 변수되나",
+      "representative_link": "https://n.news.naver.com/article/648/0000052398?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "금리 인상 저울질하는 한은…코스피 폭락 변수되나",
+          "link": "https://n.news.naver.com/article/648/0000052398?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "[속보]국힘, 李대통령 겨냥 “코스피 오를 땐 내 덕, 내리면 남 탓”",
+          "link": "https://n.news.naver.com/article/021/0002831163?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "\"개미들 잠 못 잔다\"…코스피 11.71% 급락, 증권가 전망은",
+          "link": "https://n.news.naver.com/article/014/0005600838?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "“코스피 5000도 위태롭다”…4500선 추락 가능성까지 경고",
+          "link": "https://n.news.naver.com/article/030/0003483255?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "“코스피, 앞으로 이렇게 됩니다”...최태원이 건넨 ‘섬뜩한 경고’",
+          "link": "https://n.news.naver.com/article/050/0000112977?ntype=RANKING",
+          "press": "한경비즈니스"
+        }
+      ],
+      "related_titles": [
+        "금리 인상 저울질하는 한은…코스피 폭락 변수되나",
+        "[속보]국힘, 李대통령 겨냥 “코스피 오를 땐 내 덕, 내리면 남 탓”",
+        "\"개미들 잠 못 잔다\"…코스피 11.71% 급락, 증권가 전망은",
+        "“코스피 5000도 위태롭다”…4500선 추락 가능성까지 경고",
+        "“코스피, 앞으로 이렇게 됩니다”...최태원이 건넨 ‘섬뜩한 경고’"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "트럼프",
+      "series_title": "트럼프의 몰락",
+      "count": 3,
+      "representative_title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWVzNlbHZfZHk4a3gxR1g4c2ZCY3k3Qlh0d1BaOHd0NUtCSGl3RlFZQ3dkQTR1RDlwa25CMWNjOFY0ZHpJLU9tUkVrV0RHdkNvZHc3ZlI1NlliQQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02cHh4ZllhLW1NTEFGN1NsTW5PeFpPX213VEkzNmpTcHY3WlhRcjl2eHcyMmFsNGw5Q3JvUnR2WnBjYmRWeXVhZHpERTB5bldLRVpZ0gFYQVVfeXFMUDBWYjZoamhjRFlQRDZIMDVxZTV3MFJ5SnQ4UjVvbFR3eXJUZXJ1TERxbFlBT2tDelF3YzRGTVV0ejVwZVA2TmQzUHpCUlNHbktyVllubWd4Sg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+        "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+        "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "충격적인",
+      "series_title": "충격적인의 몰락",
+      "count": 1,
+      "representative_title": "\"122년 동안 없었던 일이 벌어졌다\" 맨시티의 충격적인 몰락...개막 7연승→3연패, 마레스카의 꿈이 악몽으로 - 머니투데이",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HdEVSazFvMlAxSUlKTWltdUxtNHc0b0lGUVRMUzVxY2U1VzJKSWN2OU9NNFlPQjVMc3FfMG43VUtDQmhFY2N5TUZxUDhsQTdPUV9SYkJFR3A0b3h1NmZOdFFrZFB5eUNYSnfSAW9BVV95cUxPNl9yVzRCNDRZQXVkZkduTDVxLXhsNGd4ZDlSb2F1b3NzSEJHdGQyMDZoYXVMTWQxRHRmTS0wR05WOWdSTlVhUUtBRW44dGhaQTRDVlBKRjZmMFJIcEE2VFowQ1VYeWdwaGhhUV9hRUk?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"122년 동안 없었던 일이 벌어졌다\" 맨시티의 충격적인 몰락...개막 7연승→3연패, 마레스카의 꿈이 악몽으로 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HdEVSazFvMlAxSUlKTWltdUxtNHc0b0lGUVRMUzVxY2U1VzJKSWN2OU9NNFlPQjVMc3FfMG43VUtDQmhFY2N5TUZxUDhsQTdPUV9SYkJFR3A0b3h1NmZOdFFrZFB5eUNYSnfSAW9BVV95cUxPNl9yVzRCNDRZQXVkZkduTDVxLXhsNGd4ZDlSb2F1b3NzSEJHdGQyMDZoYXVMTWQxRHRmTS0wR05WOWdSTlVhUUtBRW44dGhaQTRDVlBKRjZmMFJIcEE2VFowQ1VYeWdwaGhhUV9hRUk?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"122년 동안 없었던 일이 벌어졌다\" 맨시티의 충격적인 몰락...개막 7연승→3연패, 마레스카의 꿈이 악몽으로 - 머니투데이"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "필수의료",
+      "series_title": "필수의료의 몰락",
+      "count": 1,
+      "representative_title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "힘든",
+      "series_title": "힘든의 몰락",
+      "count": 1,
+      "representative_title": "'7연승→3연패' 맨시티의 믿기 힘든 몰락...홈에서 골도 못 넣던 19위 노팅엄에 3실점 굴욕",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9weUU2ckxNSU1oQkNwSGxoM2pFeGRMVktrektZdUlYSHgza2ZSVlFENThEXzRwNHY2OUpRaXdkSWlLRnVNcE5OTnNSUXRzdl9vdm9JYw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'7연승→3연패' 맨시티의 믿기 힘든 몰락...홈에서 골도 못 넣던 19위 노팅엄에 3실점 굴욕",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9weUU2ckxNSU1oQkNwSGxoM2pFeGRMVktrektZdUlYSHgza2ZSVlFENThEXzRwNHY2OUpRaXdkSWlLRnVNcE5OTnNSUXRzdl9vdm9JYw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'7연승→3연패' 맨시티의 믿기 힘든 몰락...홈에서 골도 못 넣던 19위 노팅엄에 3실점 굴욕"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "정치인",
+      "series_title": "정치인의 몰락",
+      "count": 1,
+      "representative_title": "파면된 파라과이 대통령…전도유망했던 남미 우파 정치인의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56OElLc2VIalVUU0FyWEt1N1R1R1dLSHdfWEFwQXlvaDdCSWRKdS1FVWRaTkxTX3F1TEUzY1N1TTlTTW9PVGMtWkpmSVBDUW1pbmp3RHRkcFUweXPSAWBBVV95cUxOcXB1SUFhYlJKZ0VraXp4UmlyTlZjazVsWmVMUFZrcWFpUHhZbktHakZ6d1h3LVBKZldjZEU0MzhvM0YyRkR4RE8wZ21mMm0yVXpoNlVKSl9iRURZaG9nUkE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "파면된 파라과이 대통령…전도유망했던 남미 우파 정치인의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56OElLc2VIalVUU0FyWEt1N1R1R1dLSHdfWEFwQXlvaDdCSWRKdS1FVWRaTkxTX3F1TEUzY1N1TTlTTW9PVGMtWkpmSVBDUW1pbmp3RHRkcFUweXPSAWBBVV95cUxOcXB1SUFhYlJKZ0VraXp4UmlyTlZjazVsWmVMUFZrcWFpUHhZbktHakZ6d1h3LVBKZldjZEU0MzhvM0YyRkR4RE8wZ21mMm0yVXpoNlVKSl9iRURZaG9nUkE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "파면된 파라과이 대통령…전도유망했던 남미 우파 정치인의 몰락"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 11,
+      "representative_title": "서울 집값 3주째 둔화…상승폭, 7개월來 최저",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSeEF5Zk9qZVdCNmljRk5zNlVBQkFHYjRRYkN5eUE1dUk2dWhJNTBjSzZ5bjZUQ0t6cE9WQ0wzeDFQbFd4VmFsNmJaeExHR0QxSEc2QUxLTW5adw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "서울 아파트 매물 훅 늘었다…집값은? 다 올랐는데 ‘여기만’",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fVkcyRUw1SUZPYzhNZHVOa0hLd1BzVmlHZTdnRkRuTmJjS3dRUlJsZ3d6UzBJWEhNQTZwMzVtMHlLV1lkMzJkOWU3VlI5azl6UWdnVQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xTFcwZjlqVUJEeDJQczNNdm9fTUJ6aEFBYlRJckVKWHRGQUt0NUhTeHN4Nno1enhPc2RMYklGa1dJUmxQNXFiU0JFekxNNURoeElEVDZBWGdKaXhEOWZsZ9IBYEFVX3lxTE5xTFcwZjlqVUJEeDJQczNNdm9fTUJ6aEFBYlRJckVKWHRGQUt0NUhTeHN4Nno1enhPc2RMYklGa1dJUmxQNXFiU0JFekxNNURoeElEVDZBWGdKaXhEOWZsZw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[경제진단] 서울 아파트 매물 33% 늘었는데 집값은 상승…부동산 시장에 나타난 '정책과 가격의 괴리'",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzeTgyU1pCYllaZmZCbWhRellSRkhFbDRpdDJtUVpQTUlmYVpyZ0plVUZobklvejNFMnFqWEFNdnExb1NZN0JWeGdFVGV5aW9ubmxhQkp3TWFwWG1SNkgzYlRzd08?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[부동산 포커스] ‘매물 폭탄’에도 서울 집값 안정은 ‘미지수’… “내년 봄이 고비”",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nRG9jT2JnT2Yza2wwaUVPd0xFUUdXUWpNY09ocmJNVlA3cmg3M3JvanFsMDRNMTRHUHZCMzZ4S3FQTmEwaTd6bU0xTmlRRjI3X3VPaFJ3NEhZa3FhSlZ4TXpUbUdvc3VMa1JSODlGdEtvUEHSAXdBVV95cUxNR2tLMTFYU24tVlR6YWlYWmZZaTRNaVh2eFhLc1ptZEwwUC1HRklHNHlic25jVXlhZ2tJMHBURWR5azhlc2hFYWthb0VOcEdSMUhuOHJTX19weS1jRVplWC1ERFZSNms3bGFOX2JJTkRUbElqdUNzcw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 매물 석달 새 33% 증가…집값 안정될까",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqeDU3R1BfRFFLUHI0bzRFZVdkUWk0M1pIU2pSbURwLUJVaUtTUGhpTldkUXZYNVBVbEJPQVJ4enJXMWZjd3lLLWZ2YzVSMmQyUDF2Z1RFcWotZw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "서울 아파트 매물 훅 늘었다…집값은? 다 올랐는데 ‘여기만’",
+        "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+        "[경제진단] 서울 아파트 매물 33% 늘었는데 집값은 상승…부동산 시장에 나타난 '정책과 가격의 괴리'",
+        "[부동산 포커스] ‘매물 폭탄’에도 서울 집값 안정은 ‘미지수’… “내년 봄이 고비”",
+        "서울 아파트 매물 석달 새 33% 증가…집값 안정될까"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "집값은",
+      "count": 4,
+      "representative_title": "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'",
+      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMG1LQi1uWEZ4bzRZQVJTSDMxNUhRUmZaeFpHZlVnaEluWk1NREVXMmpqb19KUkJDTHdReWtZU2pDbEpzWnZQVW9Id3MyclNDUGpzZThVM0FOekhGbnd5NFBuanBPLW95d2RRbQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMG1LQi1uWEZ4bzRZQVJTSDMxNUhRUmZaeFpHZlVnaEluWk1NREVXMmpqb19KUkJDTHdReWtZU2pDbEpzWnZQVW9Id3MyclNDUGpzZThVM0FOekhGbnd5NFBuanBPLW95d2RRbQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "통계",
+      "count": 2,
+      "representative_title": "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVWE2V2UyRUxXRkVSdFdrTjByVnNjdmJoTlRhdFNtRjM3ZlFUSXoyZFcwSjJTR005cXNYTV9kWHphUFI1NFVRaDRHZjhkcktWRzlBSk8xTlc0VTlRMWdsNdIBeEFVX3lxTE1aZkY1bm56aXNRb1hYNDZJN0dzaFh1cURZN3BNc0FyX2otU1lMdTJBbUNmN3JpYTRjQUdPV2lGNmxFSEpmMUtBSGhsRmpleDVVS3V4ejRGYUVZT0UzVmNpQkJzLVpFc3RZN1BIZXF5ZTJnWmxNU25LYw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVWE2V2UyRUxXRkVSdFdrTjByVnNjdmJoTlRhdFNtRjM3ZlFUSXoyZFcwSjJTR005cXNYTV9kWHphUFI1NFVRaDRHZjhkcktWRzlBSk8xTlc0VTlRMWdsNdIBeEFVX3lxTE1aZkY1bm56aXNRb1hYNDZJN0dzaFh1cURZN3BNc0FyX2otU1lMdTJBbUNmN3JpYTRjQUdPV2lGNmxFSEpmMUtBSGhsRmpleDVVS3V4ejRGYUVZT0UzVmNpQkJzLVpFc3RZN1BIZXF5ZTJnWmxNU25LYw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
