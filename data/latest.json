@@ -1,310 +1,361 @@
 {
   "date": "2026-11-09",
-  "hour": "07",
-  "slot": "2026-11-09_07",
-  "crawled_at": "2026-11-09 07:00:03",
-  "total_articles": 390,
+  "hour": "10",
+  "slot": "2026-11-09_10",
+  "crawled_at": "2026-11-09 10:00:05",
+  "total_articles": 393,
   "topics": [
     {
       "rank": 1,
-      "keyword": "삼성",
-      "count": 17,
-      "representative_title": "삼성·현대차, ‘부부동반’ 만난다…사상 초유",
-      "representative_link": "https://n.news.naver.com/article/029/0003057728?ntype=RANKING",
-      "press": "디지털타임스",
+      "keyword": "불륜",
+      "count": 45,
+      "representative_title": "중국 미인계 결국 통했나… 젠슨황 불륜 시인",
+      "representative_link": "https://n.news.naver.com/article/022/0004173544?ntype=RANKING",
+      "press": "세계일보",
       "related_articles": [
         {
-          "title": "“삼성 우승 기념, 大바겐세일 중” 개미들 난리났다…“할인율 63%”",
-          "link": "https://n.news.naver.com/article/016/0002720476?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "중국 미인계 결국 통했나… 젠슨황 불륜 시인",
+          "link": "https://n.news.naver.com/article/022/0004173544?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "\"삼성 우승 세일이죠?\"…삼전 개미들 '웃픈 반응' 터졌다",
-          "link": "https://n.news.naver.com/article/015/0005351542?ntype=RANKING",
+          "title": "젠슨 황, ‘중국 스파이 의혹’ 여성과 불륜 시인…엔비디아 조사 착수",
+          "link": "https://n.news.naver.com/article/028/0002831278?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "젠슨황, 中스파이 의심 여성과 불륜 인정…\"아내에게 불충실했다\"",
+          "link": "https://n.news.naver.com/article/082/0001406191?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "\"변명 여지 없다\"…젠슨 황, '中 스파이 의심 女'와 불륜 인정",
+          "link": "https://n.news.naver.com/article/015/0005351628?ntype=RANKING",
           "press": "한국경제"
         },
         {
-          "title": "[단독] 강북삼성병원, 삼성 재단 떠나 성균관대로…‘의대 부속병원’ 전환 추진",
-          "link": "https://n.news.naver.com/article/009/0005760672?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "삼성·현대차, ‘부부동반’ 만난다…사상 초유",
-          "link": "https://n.news.naver.com/article/029/0003057728?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "대만, 정부 주도로 첨단 메모리 진출…삼성·SK하이닉스에 도전장",
-          "link": "https://n.news.naver.com/article/029/0003057657?ntype=RANKING",
-          "press": "디지털타임스"
-        }
-      ],
-      "related_titles": [
-        "“삼성 우승 기념, 大바겐세일 중” 개미들 난리났다…“할인율 63%”",
-        "\"삼성 우승 세일이죠?\"…삼전 개미들 '웃픈 반응' 터졌다",
-        "[단독] 강북삼성병원, 삼성 재단 떠나 성균관대로…‘의대 부속병원’ 전환 추진",
-        "삼성·현대차, ‘부부동반’ 만난다…사상 초유",
-        "대만, 정부 주도로 첨단 메모리 진출…삼성·SK하이닉스에 도전장"
-      ],
-      "category": "산업/테크"
-    },
-    {
-      "rank": 2,
-      "keyword": "만원",
-      "count": 14,
-      "representative_title": "'140만원 패딩' 올렸다가…박수홍 아내, 결국 입 열었다",
-      "representative_link": "https://n.news.naver.com/article/215/0001272048?ntype=RANKING",
-      "press": "한국경제TV",
-      "related_articles": [
-        {
-          "title": "“먹방 이제 너무 식상하다 했는데” 쯔양 하루에 80만원 시켜 먹더니…‘200만명’ 돌파 반전",
-          "link": "https://n.news.naver.com/article/016/0002720466?ntype=RANKING",
-          "press": "헤럴드경제"
-        },
-        {
-          "title": "“주식하다 10㎏ 빠졌다”…평생 모은 5억 투자한 직장인 “4억 5000만원 증발”[사연잇슈]",
-          "link": "https://n.news.naver.com/article/081/0003696933?ntype=RANKING",
-          "press": "서울신문"
-        },
-        {
-          "title": "중학생까지 “자리 맡아놨으니 10만원 내세요” 장사…호텔비는 ‘9만→55만원’ 치솟기도",
-          "link": "https://n.news.naver.com/article/011/0004679953?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "중학생까지 “자리 맡아놨으니 10만원 내세요” 장사…호텔비는 ‘9만→55만원’ 치솟기도",
-          "link": "https://n.news.naver.com/article/011/0004679953?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "\"불꽃놀이 보려면 식사 80만원…호텔 1박 219만원\" 부산 또 바가지",
-          "link": "https://n.news.naver.com/article/421/0009277041?ntype=RANKING",
+          "title": "젠슨 황 불륜 상대 다닌 싱가포르 기업, 엔비디아칩 밀반출 의혹",
+          "link": "https://n.news.naver.com/article/421/0009277770?ntype=RANKING",
           "press": "뉴스1"
         }
       ],
       "related_titles": [
-        "“먹방 이제 너무 식상하다 했는데” 쯔양 하루에 80만원 시켜 먹더니…‘200만명’ 돌파 반전",
-        "“주식하다 10㎏ 빠졌다”…평생 모은 5억 투자한 직장인 “4억 5000만원 증발”[사연잇슈]",
-        "중학생까지 “자리 맡아놨으니 10만원 내세요” 장사…호텔비는 ‘9만→55만원’ 치솟기도",
-        "중학생까지 “자리 맡아놨으니 10만원 내세요” 장사…호텔비는 ‘9만→55만원’ 치솟기도",
-        "\"불꽃놀이 보려면 식사 80만원…호텔 1박 219만원\" 부산 또 바가지"
+        "중국 미인계 결국 통했나… 젠슨황 불륜 시인",
+        "젠슨 황, ‘중국 스파이 의혹’ 여성과 불륜 시인…엔비디아 조사 착수",
+        "젠슨황, 中스파이 의심 여성과 불륜 인정…\"아내에게 불충실했다\"",
+        "\"변명 여지 없다\"…젠슨 황, '中 스파이 의심 女'와 불륜 인정",
+        "젠슨 황 불륜 상대 다닌 싱가포르 기업, 엔비디아칩 밀반출 의혹"
       ],
-      "category": "경제/투자"
+      "category": "국제"
     },
     {
-      "rank": 3,
-      "keyword": "대통령",
-      "count": 14,
-      "representative_title": "김무성 \"조작기소 특검법 처리되면 李대통령 임기 못 채울 것\"",
-      "representative_link": "https://n.news.naver.com/article/586/0000141846?ntype=RANKING",
-      "press": "시사저널",
+      "rank": 2,
+      "keyword": "젠슨",
+      "count": 37,
+      "representative_title": "'중국 스파이' 연루설 보도 뒤…젠슨 황 장녀 돌연 방한 취소",
+      "representative_link": "https://n.news.naver.com/article/437/0000519723?ntype=RANKING",
+      "press": "JTBC",
       "related_articles": [
         {
-          "title": "“주식시장 망가지는 건 다 정부 탓”…李대통령 과거 발언 재조명",
-          "link": "https://n.news.naver.com/article/005/0001883770?ntype=RANKING",
-          "press": "국민일보"
+          "title": "젠슨 황 \"아내에게 불충실\" 입 열었다…엔비디아, 독립조사 착수",
+          "link": "https://n.news.naver.com/article/437/0000519745?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "김무성 \"조작기소 특검법 처리되면 李대통령 임기 못 채울 것\"",
-          "link": "https://n.news.naver.com/article/586/0000141846?ntype=RANKING",
-          "press": "시사저널"
+          "title": "'중국 스파이' 연루설 보도 뒤…젠슨 황 장녀 돌연 방한 취소",
+          "link": "https://n.news.naver.com/article/437/0000519723?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "靑 핵심 참모 줄교체…'대통령 눈과 귀' 김정우 국정상황실장 사의, 후임에 김태근",
-          "link": "https://n.news.naver.com/article/586/0000141842?ntype=RANKING",
-          "press": "시사저널"
+          "title": "회식서 볼뽀뽀·떠날 땐 같은 차…젠슨 황과 그녀, 이미 심상치 않았다",
+          "link": "https://n.news.naver.com/article/421/0009277787?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "독일, 사상 최초 ‘대학 졸업장 없는 미혼 여성’ 대통령 예고",
-          "link": "https://n.news.naver.com/article/029/0003057800?ntype=RANKING",
+          "title": "“아내에게 불충실” 젠슨 황, 불륜시인…엔비디아 이사회 “독립위 꾸려 조사 착수”",
+          "link": "https://n.news.naver.com/article/029/0003057816?ntype=RANKING",
           "press": "디지털타임스"
         },
         {
-          "title": "李 대통령 사과 요구한 오세훈, 민주당 \"대권 눈 팔려 엉뚱한 훈계\"",
-          "link": "https://n.news.naver.com/article/006/0000138636?ntype=RANKING",
-          "press": "미디어오늘"
+          "title": "젠슨 황, AI 규제·스파이접촉 의혹에 美 의회서 압박…中 우회 판매 의혹도",
+          "link": "https://n.news.naver.com/article/374/0000542376?ntype=RANKING",
+          "press": "SBS Biz"
         }
       ],
       "related_titles": [
-        "“주식시장 망가지는 건 다 정부 탓”…李대통령 과거 발언 재조명",
-        "김무성 \"조작기소 특검법 처리되면 李대통령 임기 못 채울 것\"",
-        "靑 핵심 참모 줄교체…'대통령 눈과 귀' 김정우 국정상황실장 사의, 후임에 김태근",
-        "독일, 사상 최초 ‘대학 졸업장 없는 미혼 여성’ 대통령 예고",
-        "李 대통령 사과 요구한 오세훈, 민주당 \"대권 눈 팔려 엉뚱한 훈계\""
+        "젠슨 황 \"아내에게 불충실\" 입 열었다…엔비디아, 독립조사 착수",
+        "'중국 스파이' 연루설 보도 뒤…젠슨 황 장녀 돌연 방한 취소",
+        "회식서 볼뽀뽀·떠날 땐 같은 차…젠슨 황과 그녀, 이미 심상치 않았다",
+        "“아내에게 불충실” 젠슨 황, 불륜시인…엔비디아 이사회 “독립위 꾸려 조사 착수”",
+        "젠슨 황, AI 규제·스파이접촉 의혹에 美 의회서 압박…中 우회 판매 의혹도"
       ],
-      "category": "경제/투자"
+      "category": "산업/테크"
     },
     {
-      "rank": 4,
-      "keyword": "서울",
-      "count": 13,
-      "representative_title": "[속보]서울 아파트, 매물 '급증'",
-      "representative_link": "https://n.news.naver.com/article/050/0000112987?ntype=RANKING",
-      "press": "한경비즈니스",
+      "rank": 3,
+      "keyword": "인정",
+      "count": 24,
+      "representative_title": "젠슨황 \"아내와 자녀에 상처\"…'中 스파이' 불륜설 인정",
+      "representative_link": "https://n.news.naver.com/article/448/0000649765?ntype=RANKING",
+      "press": "TV조선",
       "related_articles": [
         {
-          "title": "경매 나온 서울 아파트 '열에 여덟' 유찰이었다는데",
-          "link": "https://n.news.naver.com/article/648/0000052400?ntype=RANKING",
-          "press": "비즈워치"
-        },
-        {
-          "title": "경적 대신 일제히 차들이 멈췄다…서울 한복판서 뜻밖의 장면",
-          "link": "https://n.news.naver.com/article/025/0003563643?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
-          "title": "서울 도심 지하서 80도 온수 터져 40대 전신 화상... 노후 열수송관 안전 비상",
-          "link": "https://n.news.naver.com/article/469/0000964338?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "與서울 의원들, 고위당정협의서 \"비거주 1주택 종부세 완화\" 강력 요청",
-          "link": "https://n.news.naver.com/article/008/0005438146?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "“차들이 일제히 멈췄다”…서울 한복판서 포착된 뭉클한 장면",
-          "link": "https://n.news.naver.com/article/020/0003760860?ntype=RANKING",
-          "press": "동아일보"
+          "title": "젠슨황 \"아내와 자녀에 상처\"…'中 스파이' 불륜설 인정",
+          "link": "https://n.news.naver.com/article/448/0000649765?ntype=RANKING",
+          "press": "TV조선"
         }
       ],
       "related_titles": [
-        "경매 나온 서울 아파트 '열에 여덟' 유찰이었다는데",
-        "경적 대신 일제히 차들이 멈췄다…서울 한복판서 뜻밖의 장면",
-        "서울 도심 지하서 80도 온수 터져 40대 전신 화상... 노후 열수송관 안전 비상",
-        "與서울 의원들, 고위당정협의서 \"비거주 1주택 종부세 완화\" 강력 요청",
-        "“차들이 일제히 멈췄다”…서울 한복판서 포착된 뭉클한 장면"
+        "젠슨황 \"아내와 자녀에 상처\"…'中 스파이' 불륜설 인정"
       ],
       "category": "사회/일반"
     },
     {
-      "rank": 5,
-      "keyword": "종부세",
-      "count": 11,
-      "representative_title": "與 “종부세 기본공제 14억원으로 통일”…정부에 강력 요구",
-      "representative_link": "https://n.news.naver.com/article/366/0001203330?ntype=RANKING",
-      "press": "조선비즈",
+      "rank": 4,
+      "keyword": "스파이",
+      "count": 21,
+      "representative_title": "'중국 스파이 접촉설'&#160;젠슨황, 불륜시인…\"아내에게 충실하지 못했다\"",
+      "representative_link": "https://n.news.naver.com/article/310/0000141528?ntype=RANKING",
+      "press": "여성신문",
       "related_articles": [
         {
-          "title": "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"(종합)",
-          "link": "https://n.news.naver.com/article/001/0016429948?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "민주 “비거주 1주택도 종부세 공제 14억, 정부에 강력 요구”",
-          "link": "https://n.news.naver.com/article/028/0002831266?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "당정 \"소방 투자에 2조 원\"‥'종부세 공제 14억 통일' 요구",
-          "link": "https://n.news.naver.com/article/214/0001534237?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "성난 부동산 민심에…與, 정부에 “종부세 공제, 거주 구분 없이 14억으로” 요구",
-          "link": "https://n.news.naver.com/article/011/0004679951?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "與 “종부세 기본공제 14억원으로 통일”…정부에 강력 요구",
-          "link": "https://n.news.naver.com/article/366/0001203330?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "'중국 스파이 접촉설'&#160;젠슨황, 불륜시인…\"아내에게 충실하지 못했다\"",
+          "link": "https://n.news.naver.com/article/310/0000141528?ntype=RANKING",
+          "press": "여성신문"
         }
       ],
       "related_titles": [
-        "與 \"정부에 '실거주 구분 없이 종부세 공제 14억' 강력히 요구\"(종합)",
-        "민주 “비거주 1주택도 종부세 공제 14억, 정부에 강력 요구”",
-        "당정 \"소방 투자에 2조 원\"‥'종부세 공제 14억 통일' 요구",
-        "성난 부동산 민심에…與, 정부에 “종부세 공제, 거주 구분 없이 14억으로” 요구",
-        "與 “종부세 기본공제 14억원으로 통일”…정부에 강력 요구"
+        "'중국 스파이 접촉설'&#160;젠슨황, 불륜시인…\"아내에게 충실하지 못했다\""
       ],
-      "category": "경제/투자"
+      "category": "국제"
+    },
+    {
+      "rank": 5,
+      "keyword": "엔비디아",
+      "count": 19,
+      "representative_title": "매디슨 황 방한 취소…'엔비디아 AI 데이'는 예정대로",
+      "representative_link": "https://n.news.naver.com/article/092/0002444355?ntype=RANKING",
+      "press": "지디넷코리아",
+      "related_articles": [
+        {
+          "title": "매디슨 황 방한 취소…'엔비디아 AI 데이'는 예정대로",
+          "link": "https://n.news.naver.com/article/092/0002444355?ntype=RANKING",
+          "press": "지디넷코리아"
+        },
+        {
+          "title": "젠슨황, 결국 불륜시인…엔비디아 이사회, 독립위 꾸려 조사착수",
+          "link": "https://n.news.naver.com/article/001/0016430007?ntype=RANKING",
+          "press": "연합뉴스"
+        }
+      ],
+      "related_titles": [
+        "매디슨 황 방한 취소…'엔비디아 AI 데이'는 예정대로",
+        "젠슨황, 결국 불륜시인…엔비디아 이사회, 독립위 꾸려 조사착수"
+      ],
+      "category": "산업/테크"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "코스피",
-      "count": 7,
-      "representative_title": "금리 인상 저울질하는 한은…코스피 폭락 변수되나",
-      "representative_link": "https://n.news.naver.com/article/648/0000052398?ntype=RANKING",
-      "press": "비즈워치",
+      "keyword": "엔비디아",
+      "count": 19,
+      "representative_title": "젠슨황, 불륜 시인…엔비디아 이사회 조사 착수",
+      "representative_link": "https://n.news.naver.com/article/422/0000924109?ntype=RANKING",
+      "press": "연합뉴스TV",
       "related_articles": [
         {
-          "title": "금리 인상 저울질하는 한은…코스피 폭락 변수되나",
-          "link": "https://n.news.naver.com/article/648/0000052398?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "젠슨 황, ‘중국 스파이 의혹’ 여성과 불륜 시인…엔비디아 조사 착수",
+          "link": "https://n.news.naver.com/article/028/0002831278?ntype=RANKING",
+          "press": "한겨레"
         },
         {
-          "title": "'코스피 대탈출' 경고음…8조 던진 외국인 심상치 않다",
-          "link": "https://n.news.naver.com/article/015/0005351595?ntype=RANKING",
-          "press": "한국경제"
+          "title": "젠슨 황 \"아내에게 불충실\" 입 열었다…엔비디아, 독립조사 착수",
+          "link": "https://n.news.naver.com/article/437/0000519745?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "\"개미들 잠 못 잔다\"…코스피 11.71% 급락, 증권가 전망은",
-          "link": "https://n.news.naver.com/article/014/0005600838?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "젠슨 황의 불륜 고백…엔비디아 '후계자 없는 33년 경영' 시험대",
+          "link": "https://n.news.naver.com/article/421/0009277720?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "코스피 폭락장에도 60% 치솟았다…'분쟁 프리미엄' 붙었다는 종목",
-          "link": "https://n.news.naver.com/article/030/0003483339?ntype=RANKING",
-          "press": "전자신문"
+          "title": "“아내에게 불충실” 젠슨 황, 불륜시인…엔비디아 이사회 “독립위 꾸려 조사 착수”",
+          "link": "https://n.news.naver.com/article/029/0003057816?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "지금이 바닥일까…코스피 급락에 상장사 3곳 중 1곳 ‘연중 최저가’",
-          "link": "https://n.news.naver.com/article/119/0003152591?ntype=RANKING",
-          "press": "데일리안"
+          "title": "'불륜 의혹' 인정한 젠슨 황…엔비디아 '中 스파이 공작' 독립 조사",
+          "link": "https://n.news.naver.com/article/374/0000542379?ntype=RANKING",
+          "press": "SBS Biz"
         }
       ],
       "related_titles": [
-        "금리 인상 저울질하는 한은…코스피 폭락 변수되나",
-        "'코스피 대탈출' 경고음…8조 던진 외국인 심상치 않다",
-        "\"개미들 잠 못 잔다\"…코스피 11.71% 급락, 증권가 전망은",
-        "코스피 폭락장에도 60% 치솟았다…'분쟁 프리미엄' 붙었다는 종목",
-        "지금이 바닥일까…코스피 급락에 상장사 3곳 중 1곳 ‘연중 최저가’"
+        "젠슨 황, ‘중국 스파이 의혹’ 여성과 불륜 시인…엔비디아 조사 착수",
+        "젠슨 황 \"아내에게 불충실\" 입 열었다…엔비디아, 독립조사 착수",
+        "젠슨 황의 불륜 고백…엔비디아 '후계자 없는 33년 경영' 시험대",
+        "“아내에게 불충실” 젠슨 황, 불륜시인…엔비디아 이사회 “독립위 꾸려 조사 착수”",
+        "'불륜 의혹' 인정한 젠슨 황…엔비디아 '中 스파이 공작' 독립 조사"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "투자",
-      "count": 3,
-      "representative_title": "안철수 “美 AI 데이터센터 투자, 호남에 유치해 ‘데이터 방패’ 세워야”",
-      "representative_link": "https://n.news.naver.com/article/366/0001203302?ntype=RANKING",
-      "press": "조선비즈",
+      "keyword": "코스피",
+      "count": 5,
+      "representative_title": "“코스피, 앞으로 이렇게 됩니다”...최태원이 건넨 ‘섬뜩한 경고’",
+      "representative_link": "https://n.news.naver.com/article/050/0000112977?ntype=RANKING",
+      "press": "한경비즈니스",
       "related_articles": [
+        {
+          "title": "11% 추락한 코스피, 바닥 찍었나…11일 오전에 쏠리는 눈 [주간 증시 전망]",
+          "link": "https://n.news.naver.com/article/011/0004679989?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "[오늘의 증시]美 반도체지수 4% 반등…코스피, 폭락분 만회 나설 듯",
+          "link": "https://n.news.naver.com/article/003/0014309605?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "코스피 5천선 아슬아슬&#8943;상장사 3곳 중 1곳 '올해 최저가'",
+          "link": "https://n.news.naver.com/article/031/0001073184?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "“코스피, 앞으로 이렇게 됩니다”...최태원이 건넨 ‘섬뜩한 경고’",
+          "link": "https://n.news.naver.com/article/050/0000112977?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "코스피 11.7% 폭락에도 은행주 1.7% 하락…'방어주' 매력 부각 [주가동향]",
+          "link": "https://n.news.naver.com/article/123/0002393599?ntype=RANKING",
+          "press": "조세일보"
+        }
+      ],
+      "related_titles": [
+        "11% 추락한 코스피, 바닥 찍었나…11일 오전에 쏠리는 눈 [주간 증시 전망]",
+        "[오늘의 증시]美 반도체지수 4% 반등…코스피, 폭락분 만회 나설 듯",
+        "코스피 5천선 아슬아슬&#8943;상장사 3곳 중 1곳 '올해 최저가'",
+        "“코스피, 앞으로 이렇게 됩니다”...최태원이 건넨 ‘섬뜩한 경고’",
+        "코스피 11.7% 폭락에도 은행주 1.7% 하락…'방어주' 매력 부각 [주가동향]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "삼성전자",
+      "count": 4,
+      "representative_title": "삼성전자, 女 임원 수 1위…CJ제일제당은 5명 중 1명이 女",
+      "representative_link": "https://n.news.naver.com/article/050/0000112991?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "107조 벌고도 20만원 깨졌다…삼성전자 이틀 새 폭락한 이유 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004173502?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "\"삼성전자 팔면 후회할까\"…20년 통계 봤더니 '놀라운 결과' [분석+]",
+          "link": "https://n.news.naver.com/article/015/0005351636?ntype=RANKING",
+          "press": "한국경제"
+        },
         {
           "title": "韓반도체, 언제 주울까 “삼성전자 17만원대부터 분할매수 권고” [투자360]",
           "link": "https://n.news.naver.com/article/016/0002720478?ntype=RANKING",
           "press": "헤럴드경제"
         },
         {
-          "title": "안철수 “美 AI 데이터센터 투자, 호남에 유치해 ‘데이터 방패’ 세워야”",
-          "link": "https://n.news.naver.com/article/366/0001203302?ntype=RANKING",
+          "title": "삼성전자, 女 임원 수 1위…CJ제일제당은 5명 중 1명이 女",
+          "link": "https://n.news.naver.com/article/050/0000112991?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "107조 벌고도 20만원 깨졌다…삼성전자 이틀 새 폭락한 이유 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004173502?ntype=RANKING",
+          "press": "세계일보"
+        }
+      ],
+      "related_titles": [
+        "107조 벌고도 20만원 깨졌다…삼성전자 이틀 새 폭락한 이유 [숫자 뒤의 진실]",
+        "\"삼성전자 팔면 후회할까\"…20년 통계 봤더니 '놀라운 결과' [분석+]",
+        "韓반도체, 언제 주울까 “삼성전자 17만원대부터 분할매수 권고” [투자360]",
+        "삼성전자, 女 임원 수 1위…CJ제일제당은 5명 중 1명이 女",
+        "107조 벌고도 20만원 깨졌다…삼성전자 이틀 새 폭락한 이유 [숫자 뒤의 진실]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "투자",
+      "count": 4,
+      "representative_title": "AI 투자 열기 배터리로 옮겨붙었다…차세대 에너지 기술로 이동",
+      "representative_link": "https://n.news.naver.com/article/029/0003057822?ntype=RANKING",
+      "press": "디지털타임스",
+      "related_articles": [
+        {
+          "title": "AI 투자 열기 배터리로 옮겨붙었다…차세대 에너지 기술로 이동",
+          "link": "https://n.news.naver.com/article/029/0003057822?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "美 의회 뒤집히자… 고려아연 1165억 심해채굴 투자 회수 ‘안갯속’",
+          "link": "https://n.news.naver.com/article/366/0001203339?ntype=RANKING",
           "press": "조선비즈"
         },
         {
-          "title": "與 \"정부에 '종부세 14억' 실거주 구분 없이 적용 요구…소방 투자 2兆 지원 검토\"",
-          "link": "https://n.news.naver.com/article/119/0003152624?ntype=RANKING",
-          "press": "데일리안"
+          "title": "AI로 영토 확장하는 SKT… 앤트로픽 투자, 디지털트윈으로 사업 확대",
+          "link": "https://n.news.naver.com/article/037/0000039115?ntype=RANKING",
+          "press": "주간동아"
         },
         {
-          "title": "韓반도체, 언제 주울까 “삼성전자 17만원대부터 분할매수 권고” [투자360]",
-          "link": "https://n.news.naver.com/article/016/0002720478?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "AI 투자 열기 배터리로 옮겨붙었다…차세대 에너지 기술로 이동",
+          "link": "https://n.news.naver.com/article/029/0003057822?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "안철수 “美 AI 데이터센터 투자, 호남에 유치해 ‘데이터 방패’ 세워야”",
-          "link": "https://n.news.naver.com/article/366/0001203302?ntype=RANKING",
+          "title": "美 의회 뒤집히자… 고려아연 1165억 심해채굴 투자 회수 ‘안갯속’",
+          "link": "https://n.news.naver.com/article/366/0001203339?ntype=RANKING",
           "press": "조선비즈"
         }
       ],
       "related_titles": [
-        "韓반도체, 언제 주울까 “삼성전자 17만원대부터 분할매수 권고” [투자360]",
-        "안철수 “美 AI 데이터센터 투자, 호남에 유치해 ‘데이터 방패’ 세워야”",
-        "與 \"정부에 '종부세 14억' 실거주 구분 없이 적용 요구…소방 투자 2兆 지원 검토\"",
-        "韓반도체, 언제 주울까 “삼성전자 17만원대부터 분할매수 권고” [투자360]",
-        "안철수 “美 AI 데이터센터 투자, 호남에 유치해 ‘데이터 방패’ 세워야”"
+        "AI 투자 열기 배터리로 옮겨붙었다…차세대 에너지 기술로 이동",
+        "美 의회 뒤집히자… 고려아연 1165억 심해채굴 투자 회수 ‘안갯속’",
+        "AI로 영토 확장하는 SKT… 앤트로픽 투자, 디지털트윈으로 사업 확대",
+        "AI 투자 열기 배터리로 옮겨붙었다…차세대 에너지 기술로 이동",
+        "美 의회 뒤집히자… 고려아연 1165억 심해채굴 투자 회수 ‘안갯속’"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "증시",
+      "count": 3,
+      "representative_title": "李 대통령 지지율 35.9%…\"조작기소 특검, 증시 급락 원인\" [리얼미터]",
+      "representative_link": "https://n.news.naver.com/article/448/0000649786?ntype=RANKING",
+      "press": "TV조선",
+      "related_articles": [
+        {
+          "title": "李 대통령 지지율 35.9%…\"조작기소 특검, 증시 급락 원인\" [리얼미터]",
+          "link": "https://n.news.naver.com/article/448/0000649786?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "李 대통령 지지율 35.9%…\"조작기소 특검, 증시 급락 원인\" [리얼미터]",
+          "link": "https://n.news.naver.com/article/448/0000649786?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "李 대통령 지지율 35.9%…\"조작기소 특검, 증시 급락 원인\" [리얼미터]",
+          "link": "https://n.news.naver.com/article/448/0000649786?ntype=RANKING",
+          "press": "TV조선"
+        }
+      ],
+      "related_titles": [
+        "李 대통령 지지율 35.9%…\"조작기소 특검, 증시 급락 원인\" [리얼미터]",
+        "李 대통령 지지율 35.9%…\"조작기소 특검, 증시 급락 원인\" [리얼미터]",
+        "李 대통령 지지율 35.9%…\"조작기소 특검, 증시 급락 원인\" [리얼미터]"
       ],
       "category": "주식/코인"
     }
@@ -433,7 +484,7 @@
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 14,
+      "count": 13,
       "representative_title": "[속보]서울 아파트, 매물 '급증'",
       "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMU41Vld4NlZ5eXZkanNKSm1EM3FDbldaNUkwMVVjZjRrOXZ2dzI3Qkl3a2FvWVZqX2N4V0R5OTV0S3hSdUR2M2VZNm9EVFBfejBGS25oOTN0X1hDZ0l0aFpYNU5HY1FvdnRlYw?oc=5",
       "press": "",
@@ -444,13 +495,13 @@
           "press": ""
         },
         {
-          "title": "서울 아파트 매물 훅 늘었다…집값은? 다 올랐는데 ‘여기만’",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fVkcyRUw1SUZPYzhNZHVOa0hLd1BzVmlHZTdnRkRuTmJjS3dRUlJsZ3d6UzBJWEhNQTZwMzVtMHlLV1lkMzJkOWU3VlI5azl6UWdnVQ?oc=5",
+          "title": "[속보]서울 아파트, 매물 '급증'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMU41Vld4NlZ5eXZkanNKSm1EM3FDbldaNUkwMVVjZjRrOXZ2dzI3Qkl3a2FvWVZqX2N4V0R5OTV0S3hSdUR2M2VZNm9EVFBfejBGS25oOTN0X1hDZ0l0aFpYNU5HY1FvdnRlYw?oc=5",
           "press": ""
         },
         {
-          "title": "[속보]서울 아파트, 매물 '급증'",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMU41Vld4NlZ5eXZkanNKSm1EM3FDbldaNUkwMVVjZjRrOXZ2dzI3Qkl3a2FvWVZqX2N4V0R5OTV0S3hSdUR2M2VZNm9EVFBfejBGS25oOTN0X1hDZ0l0aFpYNU5HY1FvdnRlYw?oc=5",
+          "title": "서울 아파트 매물 훅 늘었다…집값은? 다 올랐는데 ‘여기만’",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fVkcyRUw1SUZPYzhNZHVOa0hLd1BzVmlHZTdnRkRuTmJjS3dRUlJsZ3d6UzBJWEhNQTZwMzVtMHlLV1lkMzJkOWU3VlI5azl6UWdnVQ?oc=5",
           "press": ""
         },
         {
@@ -459,17 +510,17 @@
           "press": ""
         },
         {
-          "title": "[경제진단] 서울 아파트 매물 33% 늘었는데 집값은 상승…부동산 시장에 나타난 '정책과 가격의 괴리'",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzeTgyU1pCYllaZmZCbWhRellSRkhFbDRpdDJtUVpQTUlmYVpyZ0plVUZobklvejNFMnFqWEFNdnExb1NZN0JWeGdFVGV5aW9ubmxhQkp3TWFwWG1SNkgzYlRzd08?oc=5",
+          "title": "[이슈체크] 집값 안정 신호일까...서울 아파트 매물 석 달 새 33% 증가",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hYlE4eDMtRUljU2JJYXJDYWhsSm1nUHVvMlNwX3FTcUtlU1RubjYxY09Qa3ZId09ka0VOZGdzaTBsSkI1eldVSkNiZnhmbEZLRzVVbnoxWHVMVzJRTGJmMkpISQ?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
         "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
-        "서울 아파트 매물 훅 늘었다…집값은? 다 올랐는데 ‘여기만’",
         "[속보]서울 아파트, 매물 '급증'",
+        "서울 아파트 매물 훅 늘었다…집값은? 다 올랐는데 ‘여기만’",
         "서울 아파트 매물 석 달 새 33%↑…집값 안정은 ‘미지수’",
-        "[경제진단] 서울 아파트 매물 33% 늘었는데 집값은 상승…부동산 시장에 나타난 '정책과 가격의 괴리'"
+        "[이슈체크] 집값 안정 신호일까...서울 아파트 매물 석 달 새 33% 증가"
       ],
       "category": "부동산"
     },
