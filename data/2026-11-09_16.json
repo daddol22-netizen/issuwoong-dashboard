@@ -1,0 +1,627 @@
+{
+  "date": "2026-11-09",
+  "hour": "16",
+  "slot": "2026-11-09_16",
+  "crawled_at": "2026-11-09 16:00:03",
+  "total_articles": 399,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "젠슨",
+      "count": 41,
+      "representative_title": "젠슨 황, 불륜 인정…엔비디아 독립 조사 착수",
+      "representative_link": "https://n.news.naver.com/article/658/0000160725?ntype=RANKING",
+      "press": "국제신문",
+      "related_articles": [
+        {
+          "title": "젠슨 황 “아내에게 불충실했다” 中 간첩 의심녀와 불륜 인정",
+          "link": "https://n.news.naver.com/article/023/0004008522?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "젠슨 황 \"연인 맞다\"...트럼프, 알고도 뭉개 '일파만파'",
+          "link": "https://n.news.naver.com/article/052/0002430254?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "‘불륜’ 젠슨 황 “가족에 미안”…고민 깊은 韓",
+          "link": "https://n.news.naver.com/article/081/0003697033?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "젠슨 황, 불륜 시인… 딸 카카오모빌리티 행사 불참에도 \"레벨4 자율주행 앞당길 것\"",
+          "link": "https://n.news.naver.com/article/006/0000138644?ntype=RANKING",
+          "press": "미디어오늘"
+        },
+        {
+          "title": "트럼프, 젠슨 황 ‘불륜’ 시인에도 “명예로운 사람…순방 데려갈 것”",
+          "link": "https://n.news.naver.com/article/028/0002831324?ntype=RANKING",
+          "press": "한겨레"
+        }
+      ],
+      "related_titles": [
+        "젠슨 황 “아내에게 불충실했다” 中 간첩 의심녀와 불륜 인정",
+        "젠슨 황 \"연인 맞다\"...트럼프, 알고도 뭉개 '일파만파'",
+        "‘불륜’ 젠슨 황 “가족에 미안”…고민 깊은 韓",
+        "젠슨 황, 불륜 시인… 딸 카카오모빌리티 행사 불참에도 \"레벨4 자율주행 앞당길 것\"",
+        "트럼프, 젠슨 황 ‘불륜’ 시인에도 “명예로운 사람…순방 데려갈 것”"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 2,
+      "keyword": "불륜",
+      "count": 36,
+      "representative_title": "중국 미인계 결국 통했나… 젠슨황 불륜 시인",
+      "representative_link": "https://n.news.naver.com/article/022/0004173544?ntype=RANKING",
+      "press": "세계일보",
+      "related_articles": [
+        {
+          "title": "젠슨황 불륜, 이미 5월 파악...트럼프 '앨리스 황' 스파이 의혹 알고도 뭉개",
+          "link": "https://n.news.naver.com/article/008/0005438459?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "젠슨황, 中스파이 의심 여성과 불륜 인정…이사회 독립조사 착수(종합)",
+          "link": "https://n.news.naver.com/article/001/0016430034?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[속보] '젠슨황 불륜 인정·中스파이' 논란 美 '발칵'…트럼프 \"그는 훌륭한 사람, 中 데려갈 것\"",
+          "link": "https://n.news.naver.com/article/002/0002464840?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "중국 미인계 결국 통했나… 젠슨황 불륜 시인",
+          "link": "https://n.news.naver.com/article/022/0004173544?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "“아내에 불충실했다”…젠슨황, 첩자 의혹女와 불륜 인정",
+          "link": "https://n.news.naver.com/article/021/0002831210?ntype=RANKING",
+          "press": "문화일보"
+        }
+      ],
+      "related_titles": [
+        "젠슨황 불륜, 이미 5월 파악...트럼프 '앨리스 황' 스파이 의혹 알고도 뭉개",
+        "젠슨황, 中스파이 의심 여성과 불륜 인정…이사회 독립조사 착수(종합)",
+        "[속보] '젠슨황 불륜 인정·中스파이' 논란 美 '발칵'…트럼프 \"그는 훌륭한 사람, 中 데려갈 것\"",
+        "중국 미인계 결국 통했나… 젠슨황 불륜 시인",
+        "“아내에 불충실했다”…젠슨황, 첩자 의혹女와 불륜 인정"
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 3,
+      "keyword": "인정",
+      "count": 18,
+      "representative_title": "트럼프 “이민 정책 너무 강경했다”… 중간선거 참패 원인 인정",
+      "representative_link": "https://n.news.naver.com/article/366/0001203492?ntype=RANKING",
+      "press": "조선비즈",
+      "related_articles": [
+        {
+          "title": "트럼프 “이민 정책 너무 강경했다”… 중간선거 참패 원인 인정",
+          "link": "https://n.news.naver.com/article/366/0001203492?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "트럼프 “이민 정책 너무 강경했다”… 중간선거 참패 원인 인정"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 4,
+      "keyword": "국적",
+      "count": 16,
+      "representative_title": "황우석 전 서울대 교수, UAE 국적 취득…한국 국적 상실",
+      "representative_link": "https://n.news.naver.com/article/656/0000191830?ntype=RANKING",
+      "press": "대전일보",
+      "related_articles": [
+        {
+          "title": "‘줄기세포 논문 조작’ 황우석, UAE 국적 취득해 한국 국적 상실",
+          "link": "https://n.news.naver.com/article/023/0004008562?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "‘줄기세포 논문 조작’ 황우석, UAE 국적 취득해 한국 국적 상실",
+          "link": "https://n.news.naver.com/article/023/0004008562?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "'줄기세포 논문조작' 황우석, UAE 국적 취득…한국 국적 상실",
+          "link": "https://n.news.naver.com/article/422/0000924181?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "'줄기세포 논문조작' 황우석, UAE 국적 취득…한국 국적 상실",
+          "link": "https://n.news.naver.com/article/422/0000924181?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "\"만수르가 밀어준 황우석\" 한국 국적 잃고 UAE서 연구소 이끈다",
+          "link": "https://n.news.naver.com/article/277/0005839738?ntype=RANKING",
+          "press": "아시아경제"
+        }
+      ],
+      "related_titles": [
+        "‘줄기세포 논문 조작’ 황우석, UAE 국적 취득해 한국 국적 상실",
+        "‘줄기세포 논문 조작’ 황우석, UAE 국적 취득해 한국 국적 상실",
+        "'줄기세포 논문조작' 황우석, UAE 국적 취득…한국 국적 상실",
+        "'줄기세포 논문조작' 황우석, UAE 국적 취득…한국 국적 상실",
+        "\"만수르가 밀어준 황우석\" 한국 국적 잃고 UAE서 연구소 이끈다"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "의혹",
+      "count": 15,
+      "representative_title": "[속보]선관위 특검, '투표지 계수기 담합 의혹' 업체 2곳 압수수색",
+      "representative_link": "https://n.news.naver.com/article/629/0000549971?ntype=RANKING",
+      "press": "더팩트",
+      "related_articles": [
+        {
+          "title": "민주, '청담동 술자리' 의혹 재점화…한동훈 \"겁도 이성도 상실, 법적 대응\"",
+          "link": "https://n.news.naver.com/article/586/0000141880?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "40년 전 신원식 '부대원 사망' 조작 의혹 보도 소송, 2심서 뒤집혔다",
+          "link": "https://n.news.naver.com/article/006/0000138645?ntype=RANKING",
+          "press": "미디어오늘"
+        },
+        {
+          "title": "[속보]선관위 특검, '투표지 계수기 담합 의혹' 업체 2곳 압수수색",
+          "link": "https://n.news.naver.com/article/629/0000549971?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "[속보]선관위 특검, ‘투표지 계수기 담합 의혹’ 업체 2곳 압수수색",
+          "link": "https://n.news.naver.com/article/024/0000109494?ntype=RANKING",
+          "press": "매경이코노미"
+        }
+      ],
+      "related_titles": [
+        "민주, '청담동 술자리' 의혹 재점화…한동훈 \"겁도 이성도 상실, 법적 대응\"",
+        "40년 전 신원식 '부대원 사망' 조작 의혹 보도 소송, 2심서 뒤집혔다",
+        "[속보]선관위 특검, '투표지 계수기 담합 의혹' 업체 2곳 압수수색",
+        "[속보]선관위 특검, ‘투표지 계수기 담합 의혹’ 업체 2곳 압수수색"
+      ],
+      "category": "사건/사고"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "젠슨",
+      "count": 10,
+      "representative_title": "젠슨 황, 불륜 인정…엔비디아 독립 조사 착수",
+      "representative_link": "https://n.news.naver.com/article/658/0000160725?ntype=RANKING",
+      "press": "국제신문",
+      "related_articles": [
+        {
+          "title": "젠슨 황 불륜 한 방에 '5,400조' 엔비디아 흔들리나... AI 시장 전체 파급 우려",
+          "link": "https://n.news.naver.com/article/469/0000964470?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "젠슨 황 불륜, 여파는 단기적?···‘한국인이 사랑하는 해외 주식 2위’ 엔비디아 어떻게 되나",
+          "link": "https://n.news.naver.com/article/032/0003481465?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "젠슨 황 불륜 시인에 엔비디아 '리더십 리스크' 부각…반도체 수출 통제도 우려",
+          "link": "https://n.news.naver.com/article/030/0003483561?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "불륜·中스파이 의혹…젠슨 황의 엔비디아, 경영체계 '흔들'[영상]",
+          "link": "https://n.news.naver.com/article/079/0004207750?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "젠슨 황, '중국 스파이 의혹' 인물과 불륜 시인…엔비디아, 자체 조사 착수",
+          "link": "https://n.news.naver.com/article/629/0000549798?ntype=RANKING",
+          "press": "더팩트"
+        }
+      ],
+      "related_titles": [
+        "젠슨 황 불륜 한 방에 '5,400조' 엔비디아 흔들리나... AI 시장 전체 파급 우려",
+        "젠슨 황 불륜, 여파는 단기적?···‘한국인이 사랑하는 해외 주식 2위’ 엔비디아 어떻게 되나",
+        "젠슨 황 불륜 시인에 엔비디아 '리더십 리스크' 부각…반도체 수출 통제도 우려",
+        "불륜·中스파이 의혹…젠슨 황의 엔비디아, 경영체계 '흔들'[영상]",
+        "젠슨 황, '중국 스파이 의혹' 인물과 불륜 시인…엔비디아, 자체 조사 착수"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "엔비디아",
+      "count": 10,
+      "representative_title": "젠슨황 '中스파이 의심' 여성과 불륜 시인… 엔비디아 이사회 조사",
+      "representative_link": "https://n.news.naver.com/article/660/0000120891?ntype=RANKING",
+      "press": "kbc광주방송",
+      "related_articles": [
+        {
+          "title": "젠슨황 '中스파이 의심' 여성과 불륜 시인… 엔비디아 이사회 조사",
+          "link": "https://n.news.naver.com/article/660/0000120891?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "젠슨황 '中스파이 의심' 여성과 불륜 시인… 엔비디아 이사회 조사",
+          "link": "https://n.news.naver.com/article/660/0000120891?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
+          "title": "젠슨황 '中스파이 의심' 여성과 불륜 시인… 엔비디아 이사회 조사",
+          "link": "https://n.news.naver.com/article/660/0000120891?ntype=RANKING",
+          "press": "kbc광주방송"
+        }
+      ],
+      "related_titles": [
+        "젠슨황 '中스파이 의심' 여성과 불륜 시인… 엔비디아 이사회 조사",
+        "젠슨황 '中스파이 의심' 여성과 불륜 시인… 엔비디아 이사회 조사",
+        "젠슨황 '中스파이 의심' 여성과 불륜 시인… 엔비디아 이사회 조사"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "달러",
+      "count": 4,
+      "representative_title": "달러 버금가는 기축통화, 엔화 주목할 때",
+      "representative_link": "https://n.news.naver.com/article/262/0000019828?ntype=RANKING",
+      "press": "신동아",
+      "related_articles": [
+        {
+          "title": "환율 1500→1300원 ‘급감’ 이유 봤더니…기업 달러 ‘390조’ 풀렸다 [머니뭐니]",
+          "link": "https://n.news.naver.com/article/016/0002720839?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "\"얼굴이…\" 63억 달러 해킹 배후로 지목된 북한 해커, FBI는 8년째 추적 중",
+          "link": "https://n.news.naver.com/article/082/0001406214?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "달러 버금가는 기축통화, 엔화 주목할 때",
+          "link": "https://n.news.naver.com/article/262/0000019828?ntype=RANKING",
+          "press": "신동아"
+        },
+        {
+          "title": "\"얼굴이…\" 63억 달러 해킹 배후로 지목된 북한 해커, FBI는 8년째 추적 중",
+          "link": "https://n.news.naver.com/article/082/0001406214?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "환율 1500→1300원 ‘급감’ 이유 봤더니…기업 달러 ‘390조’ 풀렸다 [머니뭐니]",
+          "link": "https://n.news.naver.com/article/016/0002720839?ntype=RANKING",
+          "press": "헤럴드경제"
+        }
+      ],
+      "related_titles": [
+        "환율 1500→1300원 ‘급감’ 이유 봤더니…기업 달러 ‘390조’ 풀렸다 [머니뭐니]",
+        "\"얼굴이…\" 63억 달러 해킹 배후로 지목된 북한 해커, FBI는 8년째 추적 중",
+        "달러 버금가는 기축통화, 엔화 주목할 때",
+        "\"얼굴이…\" 63억 달러 해킹 배후로 지목된 북한 해커, FBI는 8년째 추적 중",
+        "환율 1500→1300원 ‘급감’ 이유 봤더니…기업 달러 ‘390조’ 풀렸다 [머니뭐니]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "코스피",
+      "count": 3,
+      "representative_title": "코스피 출렁이는 진짜 이유... 미국 AI기업들의 이걸 주목하라",
+      "representative_link": "https://n.news.naver.com/article/047/0002535102?ntype=RANKING",
+      "press": "오마이뉴스",
+      "related_articles": [
+        {
+          "title": "최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 '섬뜩한 시나리오' 재조명",
+          "link": "https://n.news.naver.com/article/277/0005839713?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "뒤늦게 '1만피' 기대 접은 증권가…내년 코스피 밴드 최저 5000선까지 '줄하향'",
+          "link": "https://n.news.naver.com/article/003/0014310348?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "코스피 출렁이는 진짜 이유... 미국 AI기업들의 이걸 주목하라",
+          "link": "https://n.news.naver.com/article/047/0002535102?ntype=RANKING",
+          "press": "오마이뉴스"
+        },
+        {
+          "title": "최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 '섬뜩한 시나리오' 재조명",
+          "link": "https://n.news.naver.com/article/277/0005839713?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "뒤늦게 '1만피' 기대 접은 증권가…내년 코스피 밴드 최저 5000선까지 '줄하향'",
+          "link": "https://n.news.naver.com/article/003/0014310348?ntype=RANKING",
+          "press": "뉴시스"
+        }
+      ],
+      "related_titles": [
+        "최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 '섬뜩한 시나리오' 재조명",
+        "뒤늦게 '1만피' 기대 접은 증권가…내년 코스피 밴드 최저 5000선까지 '줄하향'",
+        "코스피 출렁이는 진짜 이유... 미국 AI기업들의 이걸 주목하라",
+        "최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 '섬뜩한 시나리오' 재조명",
+        "뒤늦게 '1만피' 기대 접은 증권가…내년 코스피 밴드 최저 5000선까지 '줄하향'"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "주식",
+      "count": 3,
+      "representative_title": "“20년 만에 처음”… 美 기술주보다 비싸진 ‘이 주식’",
+      "representative_link": "https://n.news.naver.com/article/050/0000113020?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "“한국시리즈 우승 기념, 삼성 주식 바겐세일?”… 개미들 풍자 이어져",
+          "link": "https://n.news.naver.com/article/366/0001203415?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "“20년 만에 처음”… 美 기술주보다 비싸진 ‘이 주식’",
+          "link": "https://n.news.naver.com/article/050/0000113020?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "“한국시리즈 우승 기념, 삼성 주식 바겐세일?”… 개미들 풍자 이어져",
+          "link": "https://n.news.naver.com/article/366/0001203415?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "“20년 만에 처음”… 美 기술주보다 비싸진 ‘이 주식’",
+          "link": "https://n.news.naver.com/article/050/0000113020?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "“한국시리즈 우승 기념, 삼성 주식 바겐세일?”… 개미들 풍자 이어져",
+          "link": "https://n.news.naver.com/article/366/0001203415?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "“한국시리즈 우승 기념, 삼성 주식 바겐세일?”… 개미들 풍자 이어져",
+        "“20년 만에 처음”… 美 기술주보다 비싸진 ‘이 주식’",
+        "“한국시리즈 우승 기념, 삼성 주식 바겐세일?”… 개미들 풍자 이어져",
+        "“20년 만에 처음”… 美 기술주보다 비싸진 ‘이 주식’",
+        "“한국시리즈 우승 기념, 삼성 주식 바겐세일?”… 개미들 풍자 이어져"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "트럼프",
+      "series_title": "트럼프의 몰락",
+      "count": 3,
+      "representative_title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWVzNlbHZfZHk4a3gxR1g4c2ZCY3k3Qlh0d1BaOHd0NUtCSGl3RlFZQ3dkQTR1RDlwa25CMWNjOFY0ZHpJLU9tUkVrV0RHdkNvZHc3ZlI1NlliQQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02cHh4ZllhLW1NTEFGN1NsTW5PeFpPX213VEkzNmpTcHY3WlhRcjl2eHcyMmFsNGw5Q3JvUnR2WnBjYmRWeXVhZHpERTB5bldLRVpZ0gFYQVVfeXFMUDBWYjZoamhjRFlQRDZIMDVxZTV3MFJ5SnQ4UjVvbFR3eXJUZXJ1TERxbFlBT2tDelF3YzRGTVV0ejVwZVA2TmQzUHpCUlNHbktyVllubWd4Sg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+        "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+        "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "유럽",
+      "series_title": "유럽의 몰락",
+      "count": 2,
+      "representative_title": "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TXZkNVA3SEJOM1d0c2xwYThVdXBDem1DdFEybjhabTNDenNUcHhKdU1iUld5bzZlV1FzV2RCYVJDdXBCaUhVSmhOT3RJZ24zdHhOalI5Qzlha0cxeE04VmRVYnNxdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2pKdXJXTi1ZRm8xekk1QUxiTmRDSGVEWmwtd0JIclotVHdFMjFiYmJhMDE2dHNpbkh5aTlpdldHUG1oR29RRWdsVnNWX2lvVzMxZEJudW5XUUdKNmJ5RmRndTlmRmF3eHlXNnF6dlBKLW52b1NtZUxLUFAzUXBzaDFrUEtfSDVXX3pqWA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TXZkNVA3SEJOM1d0c2xwYThVdXBDem1DdFEybjhabTNDenNUcHhKdU1iUld5bzZlV1FzV2RCYVJDdXBCaUhVSmhOT3RJZ24zdHhOalI5Qzlha0cxeE04VmRVYnNxdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”",
+        "‘젠지의 반란’, 유럽의 몰락인가 한국의 침묵인가 [신진욱의 시선]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "충격적인",
+      "series_title": "충격적인의 몰락",
+      "count": 2,
+      "representative_title": "[A-포커스] '90승' KT의 충격적인 몰락… 5회 실책 2개에 우승 꿈 무너졌다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15dHMwU1lhaDV5akJrQXd0VTkzcjRtWjVON2d0cTVibVc0NDYweU81dXpyX21ORVlVTGw0QXRIcFo3dTNPZWhWODB0eExJRVppQlJaQkttRDh5VWQ5QkJXWll4ZGpMc2Jm?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[A-포커스] '90승' KT의 충격적인 몰락… 5회 실책 2개에 우승 꿈 무너졌다",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15dHMwU1lhaDV5akJrQXd0VTkzcjRtWjVON2d0cTVibVc0NDYweU81dXpyX21ORVlVTGw0QXRIcFo3dTNPZWhWODB0eExJRVppQlJaQkttRDh5VWQ5QkJXWll4ZGpMc2Jm?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"122년 동안 없었던 일이 벌어졌다\" 맨시티의 충격적인 몰락…개막 7연승→3연패, 마레스카의 꿈이 악몽으로",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NSzR5OHQwelQxd3JSandXTTZ2Z3VGZUFWdmN5eDlMOFhuTTlKX3B0MTF4aUZveHViUjhXR1h5N0FYNWU3WXRZTkMwSFQ4bGw3SW1FQ1B3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[A-포커스] '90승' KT의 충격적인 몰락… 5회 실책 2개에 우승 꿈 무너졌다",
+        "\"122년 동안 없었던 일이 벌어졌다\" 맨시티의 충격적인 몰락…개막 7연승→3연패, 마레스카의 꿈이 악몽으로"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "대통령도",
+      "series_title": "대통령도의 몰락",
+      "count": 1,
+      "representative_title": "은행 파산 사흘 만에 대통령도 몰락···페냐 파라과이 대통령 파면에 중남미 우파 ‘휘청’",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vTVhvUGNBbWVkR3d6dlZaT09kY29TNWJuMzFyeWpCWDVpUlMxYVVRalk2S01oTldpZnQ4Q0ZQRnlNTVlVMmVSMndRaGo2MEpyWVRicWg2N3ZNUdIBX0FVX3lxTFBYOFdfdEJla2Z3SXh0clNWenM5aDNSTmQtR1FYSXhBVHQ1RE5CcFB2Um1yMmRtLXF3Z05xdk4xRkg1MGZGZEgtTkVrSHV6QUwwbTRLUFVUZmVZUWVlOEo4?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "은행 파산 사흘 만에 대통령도 몰락···페냐 파라과이 대통령 파면에 중남미 우파 ‘휘청’",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vTVhvUGNBbWVkR3d6dlZaT09kY29TNWJuMzFyeWpCWDVpUlMxYVVRalk2S01oTldpZnQ4Q0ZQRnlNTVlVMmVSMndRaGo2MEpyWVRicWg2N3ZNUdIBX0FVX3lxTFBYOFdfdEJla2Z3SXh0clNWenM5aDNSTmQtR1FYSXhBVHQ1RE5CcFB2Um1yMmRtLXF3Z05xdk4xRkg1MGZGZEgtTkVrSHV6QUwwbTRLUFVUZmVZUWVlOEo4?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "은행 파산 사흘 만에 대통령도 몰락···페냐 파라과이 대통령 파면에 중남미 우파 ‘휘청’"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "필수의료",
+      "series_title": "필수의료의 몰락",
+      "count": 1,
+      "representative_title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\""
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 14,
+      "representative_title": "서울 아파트, 매물 '급증'",
+      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMU41Vld4NlZ5eXZkanNKSm1EM3FDbldaNUkwMVVjZjRrOXZ2dzI3Qkl3a2FvWVZqX2N4V0R5OTV0S3hSdUR2M2VZNm9EVFBfejBGS25oOTN0X1hDZ0l0aFpYNU5HY1FvdnRlYw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "서울 아파트 매물 8만건 돌파에도 집값 상승세… 지역별 양극화 심화",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03M3U5THVXOFFtZGVRX2JudVlVZnVvWEJ1cHExejk3TEFjR0Z2cDAwMFRnZXBPTFNhc1hubk1KTjg4aUVtWHY1TFFPcFVNTzdDbHdUeDZoZU5TckRieXFBeUhEamJZV0JhNlVQWtIBcEFVX3lxTE4yVVZoeGNUMkxWVklYZVJxN2ctZzg5OFQyVVZGTUdBRlMtQ25kRXE0c1h5N3RrbzBTZDRaUUdWdGZXalZWTEd0UWQ1SGxnOUVhM0NpMjhIbGdYR2tETUxoYmN5WldpNGRkVkRHZjkzT2s?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdUVmNFFGVWRMTmJna2gtS0QwTkxfc2o5YnhJeFYwUDRENUNLeTNLb1BYUUhVVFZJWkczOW5CSmstdWNVeERNSXRrWThUa0F4cm1nTGlVS1JHcE3SAWBBVV95cUxOcUxXMGY5alVCRHgyUHMzTXZvX01CemhBQWJUSXJFSlh0RkFLdDVIU3hzeDZ6NXp4T3NkTGJJRmtXSVJsUDVxYlNCRXpMTTVEaHhJRFQ2QVhnSml4RDlmbGc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 매물 훅 늘었다…집값은? 다 올랐는데 ‘여기만’",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fVkcyRUw1SUZPYzhNZHVOa0hLd1BzVmlHZTdnRkRuTmJjS3dRUlJsZ3d6UzBJWEhNQTZwMzVtMHlLV1lkMzJkOWU3VlI5azl6UWdnVQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[이슈체크] 집값 안정 신호일까...서울 아파트 매물 석 달 새 33% 증가",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hYlE4eDMtRUljU2JJYXJDYWhsSm1nUHVvMlNwX3FTcUtlU1RubjYxY09Qa3ZId09ka0VOZGdzaTBsSkI1eldVSkNiZnhmbEZLRzVVbnoxWHVMVzJRTGJmMkpISQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트, 매물 '급증'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMU41Vld4NlZ5eXZkanNKSm1EM3FDbldaNUkwMVVjZjRrOXZ2dzI3Qkl3a2FvWVZqX2N4V0R5OTV0S3hSdUR2M2VZNm9EVFBfejBGS25oOTN0X1hDZ0l0aFpYNU5HY1FvdnRlYw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "서울 아파트 매물 8만건 돌파에도 집값 상승세… 지역별 양극화 심화",
+        "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+        "서울 아파트 매물 훅 늘었다…집값은? 다 올랐는데 ‘여기만’",
+        "[이슈체크] 집값 안정 신호일까...서울 아파트 매물 석 달 새 33% 증가",
+        "서울 아파트, 매물 '급증'"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 4,
+      "representative_title": "[기대위 부동산칼럼] 강남 집값, 정부는 1.38% 하락 민간은 상승 엇갈린 통계에 시장 혼란",
+      "representative_link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKNy1NM2hGVHFRNGxvOTNEZ1IzUFVTS0Nucjk3OEFtQUFfdTBYaTVNZ1RrMVd2VWxJdENudVAwZUVQMUotM3ZhQ1ZPSVk0eE9MdFNR?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[기대위 부동산칼럼] 강남 집값, 정부는 1.38% 하락 민간은 상승 엇갈린 통계에 시장 혼란",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKNy1NM2hGVHFRNGxvOTNEZ1IzUFVTS0Nucjk3OEFtQUFfdTBYaTVNZ1RrMVd2VWxJdENudVAwZUVQMUotM3ZhQ1ZPSVk0eE9MdFNR?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[기대위 부동산칼럼] 강남 집값, 정부는 1.38% 하락 민간은 상승 엇갈린 통계에 시장 혼란"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "집값은",
+      "count": 3,
+      "representative_title": "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'",
+      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMG1LQi1uWEZ4bzRZQVJTSDMxNUhRUmZaeFpHZlVnaEluWk1NREVXMmpqb19KUkJDTHdReWtZU2pDbEpzWnZQVW9Id3MyclNDUGpzZThVM0FOekhGbnd5NFBuanBPLW95d2RRbQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMG1LQi1uWEZ4bzRZQVJTSDMxNUhRUmZaeFpHZlVnaEluWk1NREVXMmpqb19KUkJDTHdReWtZU2pDbEpzWnZQVW9Id3MyclNDUGpzZThVM0FOekhGbnd5NFBuanBPLW95d2RRbQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"집값은 하나인데 통계는 세 갈래\"···한국부동산원 주간 통계 '손질 불가피'"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "민간은",
+      "count": 2,
+      "representative_title": "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVWE2V2UyRUxXRkVSdFdrTjByVnNjdmJoTlRhdFNtRjM3ZlFUSXoyZFcwSjJTR005cXNYTV9kWHphUFI1NFVRaDRHZjhkcktWRzlBSk8xTlc0VTlRMWdsNdIBeEFVX3lxTE1aZkY1bm56aXNRb1hYNDZJN0dzaFh1cURZN3BNc0FyX2otU1lMdTJBbUNmN3JpYTRjQUdPV2lGNmxFSEpmMUtBSGhsRmpleDVVS3V4ejRGYUVZT0UzVmNpQkJzLVpFc3RZN1BIZXF5ZTJnWmxNU25LYw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVWE2V2UyRUxXRkVSdFdrTjByVnNjdmJoTlRhdFNtRjM3ZlFUSXoyZFcwSjJTR005cXNYTV9kWHphUFI1NFVRaDRHZjhkcktWRzlBSk8xTlc0VTlRMWdsNdIBeEFVX3lxTE1aZkY1bm56aXNRb1hYNDZJN0dzaFh1cURZN3BNc0FyX2otU1lMdTJBbUNmN3JpYTRjQUdPV2lGNmxFSEpmMUtBSGhsRmpleDVVS3V4ejRGYUVZT0UzVmNpQkJzLVpFc3RZN1BIZXF5ZTJnWmxNU25LYw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
