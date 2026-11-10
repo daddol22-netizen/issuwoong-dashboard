@@ -1,222 +1,222 @@
 {
   "date": "2026-11-10",
-  "hour": "10",
-  "slot": "2026-11-10_10",
-  "crawled_at": "2026-11-10 10:00:05",
-  "total_articles": 406,
+  "hour": "13",
+  "slot": "2026-11-10_13",
+  "crawled_at": "2026-11-10 13:01:21",
+  "total_articles": 402,
   "topics": [
     {
       "rank": 1,
       "keyword": "젠슨",
-      "count": 54,
-      "representative_title": "트럼프 “젠슨 황과 통화…스파이인줄 몰랐다 한다”",
-      "representative_link": "https://n.news.naver.com/article/005/0001884126?ntype=RANKING",
-      "press": "국민일보",
+      "count": 49,
+      "representative_title": "엔비디아 美주주들, 젠슨 황에 '주가급락 손배소송'",
+      "representative_link": "https://n.news.naver.com/article/374/0000542660?ntype=RANKING",
+      "press": "SBS Biz",
       "related_articles": [
         {
-          "title": "정체 불명 ‘젠슨 황 연인’…출신·경력 등 베일에 싸여 있다",
-          "link": "https://n.news.naver.com/article/028/0002831435?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "트럼프 “젠슨 황과 통화…중국 스파이인 줄 전혀 몰랐다고 해”",
-          "link": "https://n.news.naver.com/article/028/0002831450?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "젠슨 황 '스파이 불륜녀' 지금 어디에...경력도 의문투성이",
-          "link": "https://n.news.naver.com/article/215/0001272223?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "[속보]트럼프 \"젠슨 황과 통화…문제의 여성 스파이인지 몰랐다고 해\"",
-          "link": "https://n.news.naver.com/article/003/0014311931?ntype=RANKING",
-          "press": "뉴시스"
-        },
-        {
-          "title": "젠슨 황 내연녀, 나이도 이력도 알 수 없어…\"행방 묘연\"",
-          "link": "https://n.news.naver.com/article/018/0006406987?ntype=RANKING",
-          "press": "이데일리"
-        }
-      ],
-      "related_titles": [
-        "정체 불명 ‘젠슨 황 연인’…출신·경력 등 베일에 싸여 있다",
-        "트럼프 “젠슨 황과 통화…중국 스파이인 줄 전혀 몰랐다고 해”",
-        "젠슨 황 '스파이 불륜녀' 지금 어디에...경력도 의문투성이",
-        "[속보]트럼프 \"젠슨 황과 통화…문제의 여성 스파이인지 몰랐다고 해\"",
-        "젠슨 황 내연녀, 나이도 이력도 알 수 없어…\"행방 묘연\""
-      ],
-      "category": "국제"
-    },
-    {
-      "rank": 2,
-      "keyword": "트럼프",
-      "count": 38,
-      "representative_title": "트럼프 \"중간선거 공정했나…유권자보다 개표기가 더 중요\"",
-      "representative_link": "https://n.news.naver.com/article/123/0002393673?ntype=RANKING",
-      "press": "조세일보",
-      "related_articles": [
-        {
-          "title": "트럼프, 결국 꺼낸 ‘부정선거론’…헤그세스 “탄핵 걱정 안 해”",
-          "link": "https://n.news.naver.com/article/056/0012290443?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "후티, 사우디 아람코 타워 공격…트럼프 “이란 재공격 가능성 작아”",
-          "link": "https://n.news.naver.com/article/056/0012290274?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "트럼프, 엿새만에 부정선거론 제기...헤그세스 탄핵 늦어도 11일 표결",
-          "link": "https://n.news.naver.com/article/052/0002430610?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "“美 돕는 나라 한국 뿐”…블룸버그 “트럼프, 군함 발주 더 해라” 지적 [밀리터리+]",
-          "link": "https://n.news.naver.com/article/081/0003697411?ntype=RANKING",
+          "title": "‘젠슨 황 불륜 사진’ 일파만파…40대라는 앨리스 황, 과거 직업 보니",
+          "link": "https://n.news.naver.com/article/081/0003697620?ntype=RANKING",
           "press": "서울신문"
         },
         {
-          "title": "트럼프 \"이란전 종식 긍정적 모멘텀…공격재개 가능성 매우 작아\"",
-          "link": "https://n.news.naver.com/article/082/0001406383?ntype=RANKING",
-          "press": "부산일보"
+          "title": "젠슨 황 불륜 상대 앨리스 황, 행방 묘연… 과거 이력도 미스터리",
+          "link": "https://n.news.naver.com/article/469/0000964675?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "불륜 들킬 거 알았나...“젠슨 황, 1년 전 성추문 대응 해결사 고용”",
+          "link": "https://n.news.naver.com/article/023/0004008757?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "아빠 불륜 상대인지 모르고…웃으며 사진 찍어 준 젠슨 황 딸",
+          "link": "https://n.news.naver.com/article/021/0002831593?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "트럼프 \"젠슨 황, 스파이인줄 몰랐다 한다…FBI가 살펴보는 중\"(종합)",
+          "link": "https://n.news.naver.com/article/001/0016432370?ntype=RANKING",
+          "press": "연합뉴스"
         }
       ],
       "related_titles": [
-        "트럼프, 결국 꺼낸 ‘부정선거론’…헤그세스 “탄핵 걱정 안 해”",
-        "후티, 사우디 아람코 타워 공격…트럼프 “이란 재공격 가능성 작아”",
-        "트럼프, 엿새만에 부정선거론 제기...헤그세스 탄핵 늦어도 11일 표결",
-        "“美 돕는 나라 한국 뿐”…블룸버그 “트럼프, 군함 발주 더 해라” 지적 [밀리터리+]",
-        "트럼프 \"이란전 종식 긍정적 모멘텀…공격재개 가능성 매우 작아\""
+        "‘젠슨 황 불륜 사진’ 일파만파…40대라는 앨리스 황, 과거 직업 보니",
+        "젠슨 황 불륜 상대 앨리스 황, 행방 묘연… 과거 이력도 미스터리",
+        "불륜 들킬 거 알았나...“젠슨 황, 1년 전 성추문 대응 해결사 고용”",
+        "아빠 불륜 상대인지 모르고…웃으며 사진 찍어 준 젠슨 황 딸",
+        "트럼프 \"젠슨 황, 스파이인줄 몰랐다 한다…FBI가 살펴보는 중\"(종합)"
       ],
-      "category": "국제"
+      "category": "사회/일반"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "keyword": "대통령",
-      "count": 14,
+      "count": 23,
       "representative_title": "이 대통령 엑스가 쏘아올린 공, 결국 차별이었다",
       "representative_link": "https://n.news.naver.com/article/036/0000054429?ntype=RANKING",
       "press": "한겨레21",
       "related_articles": [
         {
-          "title": "[단독] 李대통령 분당집 매수자 \"17억7000만원 다 갚았다\"",
-          "link": "https://n.news.naver.com/article/014/0005601720?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "[속보] 이 대통령, 美 중간선거 결과에 \"미 의회 내에도 초당적 협력 토대 구축해야\"",
+          "link": "https://n.news.naver.com/article/469/0000964658?ntype=RANKING",
+          "press": "한국일보"
         },
         {
-          "title": "대통령 인사에 숨어있는 코드명 ‘PK’…눈에 띄는 부·울·경 출신 전면 배치",
-          "link": "https://n.news.naver.com/article/032/0003481677?ntype=RANKING",
-          "press": "경향신문"
+          "title": "李대통령 “법 질서 무력 저항 사례, 전국적으로 체크해야”... 사랑제일교회 겨냥?",
+          "link": "https://n.news.naver.com/article/023/0004008759?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "이재명 대통령 유튜브 '대통령의 Y' 회당 1700만원…4편에 6812만원",
-          "link": "https://n.news.naver.com/article/437/0000519839?ntype=RANKING",
-          "press": "JTBC"
+          "title": "[속보]‘돌아선 50대’ 대통령 부정 61.7%·긍정 37.8%-리서치뷰",
+          "link": "https://n.news.naver.com/article/021/0002831653?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "김재원 “이 대통령 탄핵 당장 불가능…희망이라도”",
+          "link": "https://n.news.naver.com/article/028/0002831464?ntype=RANKING",
+          "press": "한겨레"
         },
         {
           "title": "이 대통령 \"기가 찬다\"...빵집·주차장 '꼼수 상속' 손질, 불만 커진 이유",
           "link": "https://n.news.naver.com/article/008/0005438730?ntype=RANKING",
           "press": "머니투데이"
-        },
-        {
-          "title": "野최수진 \"李대통령, 자기 죄 없애려 나라 아수라장으로 만들어\"",
-          "link": "https://n.news.naver.com/article/586/0000141929?ntype=RANKING",
-          "press": "시사저널"
         }
       ],
       "related_titles": [
-        "[단독] 李대통령 분당집 매수자 \"17억7000만원 다 갚았다\"",
-        "대통령 인사에 숨어있는 코드명 ‘PK’…눈에 띄는 부·울·경 출신 전면 배치",
-        "이재명 대통령 유튜브 '대통령의 Y' 회당 1700만원…4편에 6812만원",
-        "이 대통령 \"기가 찬다\"...빵집·주차장 '꼼수 상속' 손질, 불만 커진 이유",
-        "野최수진 \"李대통령, 자기 죄 없애려 나라 아수라장으로 만들어\""
+        "[속보] 이 대통령, 美 중간선거 결과에 \"미 의회 내에도 초당적 협력 토대 구축해야\"",
+        "李대통령 “법 질서 무력 저항 사례, 전국적으로 체크해야”... 사랑제일교회 겨냥?",
+        "[속보]‘돌아선 50대’ 대통령 부정 61.7%·긍정 37.8%-리서치뷰",
+        "김재원 “이 대통령 탄핵 당장 불가능…희망이라도”",
+        "이 대통령 \"기가 찬다\"...빵집·주차장 '꼼수 상속' 손질, 불만 커진 이유"
       ],
-      "category": "정치"
+      "category": "국제"
+    },
+    {
+      "rank": 3,
+      "keyword": "한국",
+      "count": 15,
+      "representative_title": "주주 지키려다 성장 막은 한국 증시",
+      "representative_link": "https://n.news.naver.com/article/417/0001163750?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "‘美하원 입성’ 한국계 댄 고… “트럼프가 한국 다룬 방식 책임 물을 것”",
+          "link": "https://n.news.naver.com/article/023/0004008763?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "\"한국 남자랑 결혼할래요\"…일본서 난리인 이유",
+          "link": "https://n.news.naver.com/article/055/0001401869?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "황우석 “UAE 국적 갑자기 받아…한국 국적 회복 신청했다”",
+          "link": "https://n.news.naver.com/article/005/0001884144?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "\"차 한 잔 하자더니 UAE 국적 줬다\"…황우석, 한국 국적 회복 신청",
+          "link": "https://n.news.naver.com/article/008/0005438955?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "[단독 인터뷰]황우석 \"법무부에 한국 국적 회복 신청했다\"",
+          "link": "https://n.news.naver.com/article/277/0005840219?ntype=RANKING",
+          "press": "아시아경제"
+        }
+      ],
+      "related_titles": [
+        "‘美하원 입성’ 한국계 댄 고… “트럼프가 한국 다룬 방식 책임 물을 것”",
+        "\"한국 남자랑 결혼할래요\"…일본서 난리인 이유",
+        "황우석 “UAE 국적 갑자기 받아…한국 국적 회복 신청했다”",
+        "\"차 한 잔 하자더니 UAE 국적 줬다\"…황우석, 한국 국적 회복 신청",
+        "[단독 인터뷰]황우석 \"법무부에 한국 국적 회복 신청했다\""
+      ],
+      "category": "사회/일반"
     },
     {
       "rank": 4,
       "keyword": "엔비디아",
-      "count": 13,
-      "representative_title": "엔비디아, 젠슨황의 중국 스파이 불륜에 장중 8% 급락",
-      "representative_link": "https://n.news.naver.com/article/056/0012290484?ntype=RANKING",
-      "press": "KBS",
+      "count": 14,
+      "representative_title": "“엔비디아, 앨리스 황 억류되자 직접 미국 정부에 문의”",
+      "representative_link": "https://n.news.naver.com/article/005/0001884140?ntype=RANKING",
+      "press": "국민일보",
       "related_articles": [
         {
-          "title": "엔비디아, 젠슨황의 중국 스파이 불륜에 장중 8% 급락",
-          "link": "https://n.news.naver.com/article/056/0012290484?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "‘1인 결정 체제’ 엔비디아 오너리스크… ‘깐부’ 韓기업 영향 촉각",
-          "link": "https://n.news.naver.com/article/020/0003761247?ntype=RANKING",
-          "press": "동아일보"
-        },
-        {
-          "title": "수상한 엔비디아…칩 공급받는 中기업, 사무실 텅 비어있었다",
-          "link": "https://n.news.naver.com/article/020/0003761050?ntype=RANKING",
-          "press": "동아일보"
-        },
-        {
-          "title": "'젠슨황 리스크' 엔비디아 시총 258조원 증발…나홀로 급락",
-          "link": "https://n.news.naver.com/article/001/0016432281?ntype=RANKING",
+          "title": "젠슨황 스캔들에 엔비디아 급락…국내 관련 ETF 주가도 영향권?",
+          "link": "https://n.news.naver.com/article/001/0016433007?ntype=RANKING",
           "press": "연합뉴스"
         },
         {
-          "title": "[글로벌증시] 뉴욕증시, AI 충격 딛고 반등…엔비디아 4%대↓",
-          "link": "https://n.news.naver.com/article/422/0000924473?ntype=RANKING",
-          "press": "연합뉴스TV"
-        }
-      ],
-      "related_titles": [
-        "엔비디아, 젠슨황의 중국 스파이 불륜에 장중 8% 급락",
-        "‘1인 결정 체제’ 엔비디아 오너리스크… ‘깐부’ 韓기업 영향 촉각",
-        "수상한 엔비디아…칩 공급받는 中기업, 사무실 텅 비어있었다",
-        "'젠슨황 리스크' 엔비디아 시총 258조원 증발…나홀로 급락",
-        "[글로벌증시] 뉴욕증시, AI 충격 딛고 반등…엔비디아 4%대↓"
-      ],
-      "category": "경제/투자"
-    },
-    {
-      "rank": 5,
-      "keyword": "만원",
-      "count": 13,
-      "representative_title": "170㎝ 78㎏도 건보? 월 40만원 비만약 기준 안갯속",
-      "representative_link": "https://n.news.naver.com/article/417/0001163754?ntype=RANKING",
-      "press": "동행미디어 시대",
-      "related_articles": [
-        {
-          "title": "김구라 “올해 번 돈 다 까먹었다”…5800만원 날린 개미의 치명적 실수",
-          "link": "https://n.news.naver.com/article/018/0006406963?ntype=RANKING",
-          "press": "이데일리"
+          "title": "“엔비디아, 앨리스 황 억류되자 직접 미국 정부에 문의”",
+          "link": "https://n.news.naver.com/article/005/0001884140?ntype=RANKING",
+          "press": "국민일보"
         },
         {
-          "title": "‘건당 4만원 알바’에 공무원-교사까지 마약배달-해킹범죄 가담",
-          "link": "https://n.news.naver.com/article/020/0003761215?ntype=RANKING",
-          "press": "동아일보"
-        },
-        {
-          "title": "노숙하면 월 120만원?…통장에 찍히는 돈 따져보니 [숫자 뒤의 진실]",
-          "link": "https://n.news.naver.com/article/022/0004173804?ntype=RANKING",
-          "press": "세계일보"
-        },
-        {
-          "title": "\"8000만원 넣었는데\"…증권사 돌변에 '악!' 곡소리 터졌다 [분석+]",
-          "link": "https://n.news.naver.com/article/015/0005352072?ntype=RANKING",
+          "title": "\"전청조 가석방해야\"…엔비디아 흔들리자 'I am 신뢰' 재소환",
+          "link": "https://n.news.naver.com/article/015/0005352188?ntype=RANKING",
           "press": "한국경제"
         },
         {
-          "title": "“살려주세요” 5살 아이까지 생매장…일가족 4명 죽이고 챙긴 돈은 고작 20만원 [오늘의 그날]",
-          "link": "https://n.news.naver.com/article/011/0004680367?ntype=RANKING",
-          "press": "서울경제"
+          "title": "“나스닥 2.7% 뛰었는데”… 엔비디아, '中 스파이 스캔들'에 나홀로 4% 급락",
+          "link": "https://n.news.naver.com/article/030/0003483891?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "[속보] '젠슨황 리스크' 엔비디아 시총 258조원 증발",
+          "link": "https://n.news.naver.com/article/658/0000160835?ntype=RANKING",
+          "press": "국제신문"
         }
       ],
       "related_titles": [
-        "김구라 “올해 번 돈 다 까먹었다”…5800만원 날린 개미의 치명적 실수",
-        "‘건당 4만원 알바’에 공무원-교사까지 마약배달-해킹범죄 가담",
-        "노숙하면 월 120만원?…통장에 찍히는 돈 따져보니 [숫자 뒤의 진실]",
-        "\"8000만원 넣었는데\"…증권사 돌변에 '악!' 곡소리 터졌다 [분석+]",
-        "“살려주세요” 5살 아이까지 생매장…일가족 4명 죽이고 챙긴 돈은 고작 20만원 [오늘의 그날]"
+        "젠슨황 스캔들에 엔비디아 급락…국내 관련 ETF 주가도 영향권?",
+        "“엔비디아, 앨리스 황 억류되자 직접 미국 정부에 문의”",
+        "\"전청조 가석방해야\"…엔비디아 흔들리자 'I am 신뢰' 재소환",
+        "“나스닥 2.7% 뛰었는데”… 엔비디아, '中 스파이 스캔들'에 나홀로 4% 급락",
+        "[속보] '젠슨황 리스크' 엔비디아 시총 258조원 증발"
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 5,
+      "keyword": "국적",
+      "count": 14,
+      "representative_title": "황우석 “韓 국적 회복 신청… 법무부 심사 기다려”",
+      "representative_link": "https://n.news.naver.com/article/366/0001203677?ntype=RANKING",
+      "press": "조선비즈",
+      "related_articles": [
+        {
+          "title": "황우석 “韓 국적 회복 신청… 법무부 심사 기다려”",
+          "link": "https://n.news.naver.com/article/366/0001203677?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "'UAE 국민' 황우석 반전? \"차 한잔 하자더니 국적 수여…국적 회복 신청\"",
+          "link": "https://n.news.naver.com/article/437/0000519966?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "'UAE 국민' 황우석 반전? \"차 한잔 하자더니 국적 수여…국적 회복 신청\"",
+          "link": "https://n.news.naver.com/article/437/0000519966?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "딸에게 아내 외도 소식 전해 들은 후 “업무 제대로 안한다”는 상사 질책에 흉기 수차례 휘두른 외국 국적 선원 징역 3년",
+          "link": "https://n.news.naver.com/article/087/0001229478?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "'韓국적 상실' 황우석 근황…\"낙타 복제 500마리\"",
+          "link": "https://n.news.naver.com/article/655/0000033513?ntype=RANKING",
+          "press": "CJB청주방송"
+        }
+      ],
+      "related_titles": [
+        "황우석 “韓 국적 회복 신청… 법무부 심사 기다려”",
+        "'UAE 국민' 황우석 반전? \"차 한잔 하자더니 국적 수여…국적 회복 신청\"",
+        "'UAE 국민' 황우석 반전? \"차 한잔 하자더니 국적 수여…국적 회복 신청\"",
+        "딸에게 아내 외도 소식 전해 들은 후 “업무 제대로 안한다”는 상사 질책에 흉기 수차례 휘두른 외국 국적 선원 징역 3년",
+        "'韓국적 상실' 황우석 근황…\"낙타 복제 500마리\""
       ],
       "category": "사회/일반"
     }
@@ -225,177 +225,48 @@
     {
       "rank": 1,
       "keyword": "엔비디아",
-      "count": 13,
-      "representative_title": "‘젠슨 황 스캔들’ 파장…엔비디아 경영·中사업 흔드나",
-      "representative_link": "https://n.news.naver.com/article/050/0000113029?ntype=RANKING",
-      "press": "한경비즈니스",
+      "count": 14,
+      "representative_title": "엔비디아 美주주들, 젠슨 황에 '주가급락 손배소송'",
+      "representative_link": "https://n.news.naver.com/article/374/0000542660?ntype=RANKING",
+      "press": "SBS Biz",
       "related_articles": [
         {
-          "title": "엔비디아, 젠슨황의 중국 스파이 불륜에 장중 8% 급락",
-          "link": "https://n.news.naver.com/article/056/0012290484?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "엔비디아 주가 장중 9% 폭락...젠슨 황 감싼 트럼프도 '시험대'",
-          "link": "https://n.news.naver.com/article/052/0002430601?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "‘1인 결정 체제’ 엔비디아 오너리스크… ‘깐부’ 韓기업 영향 촉각",
-          "link": "https://n.news.naver.com/article/020/0003761247?ntype=RANKING",
-          "press": "동아일보"
-        },
-        {
-          "title": "수상한 엔비디아…칩 공급받는 中기업, 사무실 텅 비어있었다",
-          "link": "https://n.news.naver.com/article/020/0003761050?ntype=RANKING",
-          "press": "동아일보"
-        },
-        {
-          "title": "'젠슨황 리스크' 엔비디아 시총 258조원 증발…나홀로 급락",
-          "link": "https://n.news.naver.com/article/001/0016432281?ntype=RANKING",
+          "title": "젠슨황 스캔들에 엔비디아 급락…국내 관련 ETF 주가도 영향권?",
+          "link": "https://n.news.naver.com/article/001/0016433007?ntype=RANKING",
           "press": "연합뉴스"
+        },
+        {
+          "title": "“엔비디아, 앨리스 황 억류되자 직접 미국 정부에 문의”",
+          "link": "https://n.news.naver.com/article/005/0001884140?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "\"전청조 가석방해야\"…엔비디아 흔들리자 'I am 신뢰' 재소환",
+          "link": "https://n.news.naver.com/article/015/0005352188?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "엔비디아 美주주들, 젠슨 황에 '주가급락 손배소송'",
+          "link": "https://n.news.naver.com/article/374/0000542660?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "\"엔비디아, 주가 폭락에 주주 집단소송까지\"...젠슨 황 '불륜 스캔들' 파장 확산",
+          "link": "https://n.news.naver.com/article/660/0000120982?ntype=RANKING",
+          "press": "kbc광주방송"
         }
       ],
       "related_titles": [
-        "엔비디아, 젠슨황의 중국 스파이 불륜에 장중 8% 급락",
-        "엔비디아 주가 장중 9% 폭락...젠슨 황 감싼 트럼프도 '시험대'",
-        "‘1인 결정 체제’ 엔비디아 오너리스크… ‘깐부’ 韓기업 영향 촉각",
-        "수상한 엔비디아…칩 공급받는 中기업, 사무실 텅 비어있었다",
-        "'젠슨황 리스크' 엔비디아 시총 258조원 증발…나홀로 급락"
+        "젠슨황 스캔들에 엔비디아 급락…국내 관련 ETF 주가도 영향권?",
+        "“엔비디아, 앨리스 황 억류되자 직접 미국 정부에 문의”",
+        "\"전청조 가석방해야\"…엔비디아 흔들리자 'I am 신뢰' 재소환",
+        "엔비디아 美주주들, 젠슨 황에 '주가급락 손배소송'",
+        "\"엔비디아, 주가 폭락에 주주 집단소송까지\"...젠슨 황 '불륜 스캔들' 파장 확산"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "반등",
-      "count": 6,
-      "representative_title": "삼성전자, 역사적 급락했지만...KB證 “반등 전환점”",
-      "representative_link": "https://n.news.naver.com/article/024/0000109499?ntype=RANKING",
-      "press": "매경이코노미",
-      "related_articles": [
-        {
-          "title": "\"반도체주 급등\"…지난주 패닉셀 기회였나, 美증시 2%대 반등[월스트리트in]",
-          "link": "https://n.news.naver.com/article/018/0006406960?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "뉴욕증시, AI주 저가매수에 반등…엔비디아만 4%대 급락",
-          "link": "https://n.news.naver.com/article/082/0001406382?ntype=RANKING",
-          "press": "부산일보"
-        },
-        {
-          "title": "美 증시, 국제유가 급락에 반등…나스닥 2.7%↑, 엔비디아는 4%대 하락",
-          "link": "https://n.news.naver.com/article/138/0002247842?ntype=RANKING",
-          "press": "디지털데일리"
-        },
-        {
-          "title": "“삼성전자 반토막 났지만 반등 가능성 높다”…KB증권, 과거 20년 주가 분석",
-          "link": "https://n.news.naver.com/article/138/0002247786?ntype=RANKING",
-          "press": "디지털데일리"
-        },
-        {
-          "title": "삼성전자, 역사적 급락했지만...KB證 “반등 전환점”",
-          "link": "https://n.news.naver.com/article/024/0000109499?ntype=RANKING",
-          "press": "매경이코노미"
-        }
-      ],
-      "related_titles": [
-        "\"반도체주 급등\"…지난주 패닉셀 기회였나, 美증시 2%대 반등[월스트리트in]",
-        "뉴욕증시, AI주 저가매수에 반등…엔비디아만 4%대 급락",
-        "美 증시, 국제유가 급락에 반등…나스닥 2.7%↑, 엔비디아는 4%대 하락",
-        "“삼성전자 반토막 났지만 반등 가능성 높다”…KB증권, 과거 20년 주가 분석",
-        "삼성전자, 역사적 급락했지만...KB證 “반등 전환점”"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 3,
-      "keyword": "급등",
-      "count": 5,
-      "representative_title": "뉴욕증시 3대 지수 동반 급등…엔비디아는 4%대 하락",
-      "representative_link": "https://n.news.naver.com/article/629/0000550219?ntype=RANKING",
-      "press": "더팩트",
-      "related_articles": [
-        {
-          "title": "\"8천원에 삽니다\"…270억 추매 소식에 '급등' 개미 환호",
-          "link": "https://n.news.naver.com/article/215/0001272099?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "삼전·하닉, 美반도체 급등에 프리마켓서 강세…7% 급등",
-          "link": "https://n.news.naver.com/article/029/0003058098?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "뉴욕증시 3대 지수 동반 급등…엔비디아는 4%대 하락",
-          "link": "https://n.news.naver.com/article/629/0000550219?ntype=RANKING",
-          "press": "더팩트"
-        },
-        {
-          "title": "일본·대만 이어 뉴욕증시도 급등…오늘 코스피는 다를까",
-          "link": "https://n.news.naver.com/article/665/0000008533?ntype=RANKING",
-          "press": "더스쿠프"
-        },
-        {
-          "title": "\"8천원에 삽니다\"…270억 추매 소식에 '급등' 개미 환호",
-          "link": "https://n.news.naver.com/article/215/0001272099?ntype=RANKING",
-          "press": "한국경제TV"
-        }
-      ],
-      "related_titles": [
-        "\"8천원에 삽니다\"…270억 추매 소식에 '급등' 개미 환호",
-        "삼전·하닉, 美반도체 급등에 프리마켓서 강세…7% 급등",
-        "뉴욕증시 3대 지수 동반 급등…엔비디아는 4%대 하락",
-        "일본·대만 이어 뉴욕증시도 급등…오늘 코스피는 다를까",
-        "\"8천원에 삽니다\"…270억 추매 소식에 '급등' 개미 환호"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 4,
-      "keyword": "삼성전자",
-      "count": 5,
-      "representative_title": "“개미 울린 폭락 끝나나” 삼성전자 20년 통계 보니",
-      "representative_link": "https://n.news.naver.com/article/050/0000113014?ntype=RANKING",
-      "press": "한경비즈니스",
-      "related_articles": [
-        {
-          "title": "“AI 서버용 낸드만 잘 팔린다”… 삼성전자·키옥시아·SK하이닉스 엇갈리는 셈법",
-          "link": "https://n.news.naver.com/article/366/0001203619?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "국민 6명 중 1명은 삼성전자 주주?…상장사 70%는 ‘썰렁’",
-          "link": "https://n.news.naver.com/article/666/0000131336?ntype=RANKING",
-          "press": "경기일보"
-        },
-        {
-          "title": "“개미 울린 폭락 끝나나” 삼성전자 20년 통계 보니",
-          "link": "https://n.news.naver.com/article/050/0000113014?ntype=RANKING",
-          "press": "한경비즈니스"
-        },
-        {
-          "title": "“AI 서버용 낸드만 잘 팔린다”… 삼성전자·키옥시아·SK하이닉스 엇갈리는 셈법",
-          "link": "https://n.news.naver.com/article/366/0001203619?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "국민 6명 중 1명은 삼성전자 주주?…상장사 70%는 ‘썰렁’",
-          "link": "https://n.news.naver.com/article/666/0000131336?ntype=RANKING",
-          "press": "경기일보"
-        }
-      ],
-      "related_titles": [
-        "“AI 서버용 낸드만 잘 팔린다”… 삼성전자·키옥시아·SK하이닉스 엇갈리는 셈법",
-        "국민 6명 중 1명은 삼성전자 주주?…상장사 70%는 ‘썰렁’",
-        "“개미 울린 폭락 끝나나” 삼성전자 20년 통계 보니",
-        "“AI 서버용 낸드만 잘 팔린다”… 삼성전자·키옥시아·SK하이닉스 엇갈리는 셈법",
-        "국민 6명 중 1명은 삼성전자 주주?…상장사 70%는 ‘썰렁’"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 5,
       "keyword": "급락",
       "count": 4,
       "representative_title": "국제유가, 이란 공격 일축 트럼프 발언에 급락...브렌트유 5.4%↓",
@@ -424,11 +295,160 @@
         "국제유가, 이란 공격 일축 트럼프 발언에 급락...브렌트유 5.4%↓"
       ],
       "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "주가",
+      "count": 4,
+      "representative_title": "삼전닉스 올해 200조 주주환원에…“주가, 자사주 매입 아닌 ‘이것’을 봐라”",
+      "representative_link": "https://n.news.naver.com/article/009/0005761402?ntype=RANKING",
+      "press": "매일경제",
+      "related_articles": [
+        {
+          "title": "삼전닉스 올해 200조 주주환원에…“주가, 자사주 매입 아닌 ‘이것’을 봐라”",
+          "link": "https://n.news.naver.com/article/009/0005761402?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "“삼성전자 반토막 났지만 반등 가능성 높다”…KB증권, 과거 20년 주가 분석",
+          "link": "https://n.news.naver.com/article/138/0002247786?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "삼전닉스 올해 200조 주주환원에…“주가, 자사주 매입 아닌 ‘이것’을 봐라”",
+          "link": "https://n.news.naver.com/article/009/0005761402?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "“삼성전자 반토막 났지만 반등 가능성 높다”…KB증권, 과거 20년 주가 분석",
+          "link": "https://n.news.naver.com/article/138/0002247786?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "삼전닉스 올해 200조 주주환원에…“주가, 자사주 매입 아닌 ‘이것’을 봐라”",
+          "link": "https://n.news.naver.com/article/009/0005761402?ntype=RANKING",
+          "press": "매일경제"
+        }
+      ],
+      "related_titles": [
+        "삼전닉스 올해 200조 주주환원에…“주가, 자사주 매입 아닌 ‘이것’을 봐라”",
+        "“삼성전자 반토막 났지만 반등 가능성 높다”…KB증권, 과거 20년 주가 분석",
+        "삼전닉스 올해 200조 주주환원에…“주가, 자사주 매입 아닌 ‘이것’을 봐라”",
+        "“삼성전자 반토막 났지만 반등 가능성 높다”…KB증권, 과거 20년 주가 분석",
+        "삼전닉스 올해 200조 주주환원에…“주가, 자사주 매입 아닌 ‘이것’을 봐라”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "매수",
+      "count": 4,
+      "representative_title": "코스피·코스닥 급등 출발…양 시장 매수 사이드카 발동",
+      "representative_link": "https://n.news.naver.com/article/056/0012290555?ntype=RANKING",
+      "press": "KBS",
+      "related_articles": [
+        {
+          "title": "코스피·코스닥 급등 출발…양 시장 매수 사이드카 발동",
+          "link": "https://n.news.naver.com/article/056/0012290555?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "삼성전자 5%·SK하이닉스 6%↑…코스피·코스닥 ‘매수 사이드카’",
+          "link": "https://n.news.naver.com/article/087/0001229732?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "“美 반도체 6% 급등에 삼전·하이닉스 날았다”…양대 증시 매수 사이드카",
+          "link": "https://n.news.naver.com/article/138/0002247856?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "단숨에 '5200피'로…'삼전닉스' 급등에 매수 사이드카까지",
+          "link": "https://n.news.naver.com/article/629/0000550257?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "코스피·코스닥 급등 출발…양 시장 매수 사이드카 발동",
+          "link": "https://n.news.naver.com/article/056/0012290555?ntype=RANKING",
+          "press": "KBS"
+        }
+      ],
+      "related_titles": [
+        "코스피·코스닥 급등 출발…양 시장 매수 사이드카 발동",
+        "삼성전자 5%·SK하이닉스 6%↑…코스피·코스닥 ‘매수 사이드카’",
+        "“美 반도체 6% 급등에 삼전·하이닉스 날았다”…양대 증시 매수 사이드카",
+        "단숨에 '5200피'로…'삼전닉스' 급등에 매수 사이드카까지",
+        "코스피·코스닥 급등 출발…양 시장 매수 사이드카 발동"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "코스피",
+      "count": 3,
+      "representative_title": "내년 코스피 영업익 43% 증가...\"반도체 더 간다\"",
+      "representative_link": "https://n.news.naver.com/article/648/0000052453?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "내년 코스피 영업익 43% 증가...\"반도체 더 간다\"",
+          "link": "https://n.news.naver.com/article/648/0000052453?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "내년 코스피 영업익 43% 증가...\"반도체 더 간다\"",
+          "link": "https://n.news.naver.com/article/648/0000052453?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "내년 코스피 영업익 43% 증가...\"반도체 더 간다\"",
+          "link": "https://n.news.naver.com/article/648/0000052453?ntype=RANKING",
+          "press": "비즈워치"
+        }
+      ],
+      "related_titles": [
+        "내년 코스피 영업익 43% 증가...\"반도체 더 간다\"",
+        "내년 코스피 영업익 43% 증가...\"반도체 더 간다\"",
+        "내년 코스피 영업익 43% 증가...\"반도체 더 간다\""
+      ],
+      "category": "주식/코인"
     }
   ],
   "moljak_topics": [
     {
       "rank": 1,
+      "keyword": "트럼프",
+      "series_title": "트럼프의 몰락",
+      "count": 3,
+      "representative_title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWVzNlbHZfZHk4a3gxR1g4c2ZCY3k3Qlh0d1BaOHd0NUtCSGl3RlFZQ3dkQTR1RDlwa25CMWNjOFY0ZHpJLU9tUkVrV0RHdkNvZHc3ZlI1NlliQQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02cHh4ZllhLW1NTEFGN1NsTW5PeFpPX213VEkzNmpTcHY3WlhRcjl2eHcyMmFsNGw5Q3JvUnR2WnBjYmRWeXVhZHpERTB5bldLRVpZ0gFYQVVfeXFMUDBWYjZoamhjRFlQRDZIMDVxZTV3MFJ5SnQ4UjVvbFR3eXJUZXJ1TERxbFlBT2tDelF3YzRGTVV0ejVwZVA2TmQzUHpCUlNHbktyVllubWd4Sg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVXdtaGR2Y3B3RFdqUmJyMXJldVQ1dDk3aVRxVF9tcnJFdy02dVc3VTlDQW00VXVDeXdGbEFqckpjUlItWkR6dGNXTW1DUTJOcnFPSnhiWEZjdw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
+        "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
+        "미국 중간선거와 트럼프의 몰락, 유럽이 목도한 포퓰리즘의 한계"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
       "keyword": "유럽",
       "series_title": "유럽의 몰락",
       "count": 2,
@@ -454,7 +474,7 @@
       "category": "몰락"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "충격적인",
       "series_title": "충격적인의 몰락",
       "count": 2,
@@ -480,53 +500,7 @@
       "category": "몰락"
     },
     {
-      "rank": 3,
-      "keyword": "트럼프",
-      "series_title": "트럼프의 몰락",
-      "count": 2,
-      "representative_title": "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWVzNlbHZfZHk4a3gxR1g4c2ZCY3k3Qlh0d1BaOHd0NUtCSGl3RlFZQ3dkQTR1RDlwa25CMWNjOFY0ZHpJLU9tUkVrV0RHdkNvZHc3ZlI1NlliQQ?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWVzNlbHZfZHk4a3gxR1g4c2ZCY3k3Qlh0d1BaOHd0NUtCSGl3RlFZQ3dkQTR1RDlwa25CMWNjOFY0ZHpJLU9tUkVrV0RHdkNvZHc3ZlI1NlliQQ?oc=5",
-          "press": ""
-        },
-        {
-          "title": "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02cHh4ZllhLW1NTEFGN1NsTW5PeFpPX213VEkzNmpTcHY3WlhRcjl2eHcyMmFsNGw5Q3JvUnR2WnBjYmRWeXVhZHpERTB5bldLRVpZ0gFYQVVfeXFMUDBWYjZoamhjRFlQRDZIMDVxZTV3MFJ5SnQ4UjVvbFR3eXJUZXJ1TERxbFlBT2tDelF3YzRGTVV0ejVwZVA2TmQzUHpCUlNHbktyVllubWd4Sg?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
-        "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]"
-      ],
-      "category": "몰락"
-    },
-    {
       "rank": 4,
-      "keyword": "파산으로",
-      "series_title": "파산으로의 몰락",
-      "count": 1,
-      "representative_title": "은행 파산으로 몰락한 파라과이 대통령",
-      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWbjdOMzhsclNPLWRpREV5c3U5c3hNZWpBVU1KMThpcEljSkhYX2pqVndoV0daRzBnV1VaOV9LX1VETVhVWmY4VmQ3Qk8yeWRfQVJST2lEOGNtZ1hxR29fcUo5YVRrSWtLV3EzOA?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "은행 파산으로 몰락한 파라과이 대통령",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWbjdOMzhsclNPLWRpREV5c3U5c3hNZWpBVU1KMThpcEljSkhYX2pqVndoV0daRzBnV1VaOV9LX1VETVhVWmY4VmQ3Qk8yeWRfQVJST2lEOGNtZ1hxR29fcUo5YVRrSWtLV3EzOA?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "은행 파산으로 몰락한 파라과이 대통령"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 5,
       "keyword": "대통령도",
       "series_title": "대통령도의 몰락",
       "count": 1,
@@ -544,13 +518,33 @@
         "은행 파산 사흘 만에 대통령도 몰락···페냐 파라과이 대통령 파면에 중남미 우파 ‘휘청’"
       ],
       "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "필수의료",
+      "series_title": "필수의료의 몰락",
+      "count": 1,
+      "representative_title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\""
+      ],
+      "category": "몰락"
     }
   ],
   "budongsan_topics": [
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 13,
+      "count": 12,
       "representative_title": "서울 아파트, 매물 '급증'",
       "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMU41Vld4NlZ5eXZkanNKSm1EM3FDbldaNUkwMVVjZjRrOXZ2dzI3Qkl3a2FvWVZqX2N4V0R5OTV0S3hSdUR2M2VZNm9EVFBfejBGS25oOTN0X1hDZ0l0aFpYNU5HY1FvdnRlYw?oc=5",
       "press": "",
@@ -576,8 +570,8 @@
           "press": ""
         },
         {
-          "title": "서울 집값, 91주 연속 상승하며 역대 최장 기록 갱신...부동산 어쩌나",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfMFEtWmlWUFJmTW1fUFVvQVpteTRHZllxUkUtdTczbU9sMjRLY0JJcnNrVDJqN05OS3RLUGVLTTZ6MGZIXzcwVk9KUnJEeThqcUV3TmUzZUxSM2lmMFNMZHZKeTFYUURYM2pB0gFvQVVfeXFMTWZmUFo5LWpkREcwV1MwMkx0d3VsczRadHJNdVZ0a1VPeWYtNEQ4am5CUWhkUDA5dFBnWEttMHVIQkstZFEycnlCVktGbnEyWEJ0UXNLUHRpdUwtOUw0X0ZkckxXSXFpTGZkdWllZXk4?oc=5",
+          "title": "8·3 세제개편 후 서울 아파트 매물 33% 급증...집값 안정될지 미지수",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mM2RWcVY0YWlSbHhkTFdLZWk0Y3NDUHRpUjRUMlVSQVcyRnFFLUIwRGV3ekxzX1JXMEo1ejlBVHlpbFpnc212OUlaeV9fSDRlQWN6c2RZbFpxQ2VheDV6em14TkZmSzY3dThn0gFvQVVfeXFMUGVSeTl4WFhLcF9NYjBZcHNRNlg3OTRzdFRxcUhZN1ljOTVnbHBUZzlCdDdEelA1T1JESy0wdEVsZWRTVnRiX2wtVlhOeExadkVsWUcyOGJJRVZSWDQxLW95aTVmeUlPUnNuZVNFdW53?oc=5",
           "press": ""
         }
       ],
@@ -586,18 +580,23 @@
         "서울 아파트 매물 8만건 쌓였다…강남권 매도 우위 속 집값은 엇갈려",
         "[이슈체크] 집값 안정 신호일까...서울 아파트 매물 석 달 새 33% 증가",
         "서울 아파트, 매물 '급증'",
-        "서울 집값, 91주 연속 상승하며 역대 최장 기록 갱신...부동산 어쩌나"
+        "8·3 세제개편 후 서울 아파트 매물 33% 급증...집값 안정될지 미지수"
       ],
       "category": "부동산"
     },
     {
       "rank": 2,
       "keyword": "강남",
-      "count": 4,
-      "representative_title": "‘폭락’한다는 강남 아파트, 왜 체감되지 않을까[부동산 취재로그]",
-      "representative_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWHlFdmV1SjhBNFpXb0E0amlud2ZFWnFDaEsxR3p1OUs0b3pYS3FSUTEzNHhTUmpORTlNOW41YmwyNWptYUNjckkxcXhQdks2MGJpdXRJa1R5WEpjcEo0U0FNQ0RBTG1qQzBWU2RGVEhRN1ZHMWhFWEp5Q3gxUnNxYg?oc=5",
+      "count": 5,
+      "representative_title": "강남3구 집값 흔들…중소형까지 하락 거래 확산",
+      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wemFiY1NabEpyUGpia2Y4OEQ5ZHBlbUctZm1lUk5uM2pyNXVLU245c2ljMVNrdnhQNzlSY3EyTzZoSzBYcFpQd2Z4V0JGMEVUVmlsMlRBdXVVd0ZJMHg4b0hhTEhTM3gxZm1Qbg?oc=5",
       "press": "",
       "related_articles": [
+        {
+          "title": "강남3구 집값 흔들…중소형까지 하락 거래 확산",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wemFiY1NabEpyUGpia2Y4OEQ5ZHBlbUctZm1lUk5uM2pyNXVLU245c2ljMVNrdnhQNzlSY3EyTzZoSzBYcFpQd2Z4V0JGMEVUVmlsMlRBdXVVd0ZJMHg4b0hhTEhTM3gxZm1Qbg?oc=5",
+          "press": ""
+        },
         {
           "title": "[기대위 부동산칼럼] 강남 집값, 정부는 1.38% 하락 민간은 상승 엇갈린 통계에 시장 혼란",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YOVlpczJ2QXU2ZThERjR6SDIzTnN2cTRJM2p3NkxsNWZUZEREWG9lZ1FaakxWUXlTbVZ5d1pEX1ZwNlp6MVg1MFU3MzE5Vmc?oc=5",
@@ -610,27 +609,9 @@
         }
       ],
       "related_titles": [
+        "강남3구 집값 흔들…중소형까지 하락 거래 확산",
         "[기대위 부동산칼럼] 강남 집값, 정부는 1.38% 하락 민간은 상승 엇갈린 통계에 시장 혼란",
         "‘폭락’한다는 강남 아파트, 왜 체감되지 않을까[부동산 취재로그]"
-      ],
-      "category": "부동산"
-    },
-    {
-      "rank": 3,
-      "keyword": "민간은",
-      "count": 2,
-      "representative_title": "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
-      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVWE2V2UyRUxXRkVSdFdrTjByVnNjdmJoTlRhdFNtRjM3ZlFUSXoyZFcwSjJTR005cXNYTV9kWHphUFI1NFVRaDRHZjhkcktWRzlBSk8xTlc0VTlRMWdsNdIBeEFVX3lxTE1aZkY1bm56aXNRb1hYNDZJN0dzaFh1cURZN3BNc0FyX2otU1lMdTJBbUNmN3JpYTRjQUdPV2lGNmxFSEpmMUtBSGhsRmpleDVVS3V4ejRGYUVZT0UzVmNpQkJzLVpFc3RZN1BIZXF5ZTJnWmxNU25LYw?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVWE2V2UyRUxXRkVSdFdrTjByVnNjdmJoTlRhdFNtRjM3ZlFUSXoyZFcwSjJTR005cXNYTV9kWHphUFI1NFVRaDRHZjhkcktWRzlBSk8xTlc0VTlRMWdsNdIBeEFVX3lxTE1aZkY1bm56aXNRb1hYNDZJN0dzaFh1cURZN3BNc0FyX2otU1lMdTJBbUNmN3JpYTRjQUdPV2lGNmxFSEpmMUtBSGhsRmpleDVVS3V4ejRGYUVZT0UzVmNpQkJzLVpFc3RZN1BIZXF5ZTJnWmxNU25LYw?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "공공은 하락, 민간은 상승…혼선 부추기는 집값 통계[엇갈린 집값 신호①]"
       ],
       "category": "부동산"
     }
