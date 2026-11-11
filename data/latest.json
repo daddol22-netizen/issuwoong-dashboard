@@ -1,372 +1,427 @@
 {
-  "date": "2026-11-11",
-  "hour": "16",
-  "slot": "2026-11-11_16",
-  "crawled_at": "2026-11-11 16:00:02",
-  "total_articles": 408,
+  "date": "2026-11-12",
+  "hour": "07",
+  "slot": "2026-11-12_07",
+  "crawled_at": "2026-11-12 07:00:01",
+  "total_articles": 401,
   "topics": [
     {
       "rank": 1,
       "keyword": "젠슨",
-      "count": 38,
-      "representative_title": "젠슨 황 ‘검은 재킷’…항상 아내가 골라줬다",
-      "representative_link": "https://n.news.naver.com/article/021/0002831977?ntype=RANKING",
-      "press": "문화일보",
+      "count": 30,
+      "representative_title": "“주가도 자산도 와르르” 젠슨 황 스캔들 후폭풍",
+      "representative_link": "https://n.news.naver.com/article/050/0000113100?ntype=RANKING",
+      "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "'젠슨 황 불륜' 앨리스 황의 남편은 이 사람?…\"중국 사모펀드 대표\"",
-          "link": "https://n.news.naver.com/article/057/0001977697?ntype=RANKING",
-          "press": "MBN"
+          "title": "740만원 코트, 500만원 원피스…명품 휘감은 젠슨 황 불륜녀",
+          "link": "https://n.news.naver.com/article/025/0003564531?ntype=RANKING",
+          "press": "중앙일보"
         },
         {
-          "title": "“실제론 42세 아닌 49세”…‘젠슨 황 스캔들’ 앨리스 황 의혹 눈덩이",
-          "link": "https://n.news.naver.com/article/005/0001884464?ntype=RANKING",
-          "press": "국민일보"
+          "title": "\"젠슨 데려올게\"‥10조 원 거래 성사시킨 젠슨의 여인",
+          "link": "https://n.news.naver.com/article/214/0001534974?ntype=RANKING",
+          "press": "MBC"
         },
         {
-          "title": "‘불륜 인정’ 젠슨 황 재산 200조원···이혼하면 부인에게 얼마 줘야 하나",
-          "link": "https://n.news.naver.com/article/032/0003482005?ntype=RANKING",
-          "press": "경향신문"
+          "title": "\"보기만 해도 감전된 듯 넋 잃어\"...지인이 기억하는 젠슨 황 내연녀의 '무기'",
+          "link": "https://n.news.naver.com/article/014/0005603023?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
-          "title": "“전 세계 난리인데”…젠슨 황, 불륜 인정 후 포착된 모습은",
-          "link": "https://n.news.naver.com/article/018/0006408171?ntype=RANKING",
-          "press": "이데일리"
+          "title": "\"불륜으로 끝날 줄 알았는데\"…젠슨 황 스캔들 '일파만파'",
+          "link": "https://n.news.naver.com/article/015/0005352960?ntype=RANKING",
+          "press": "한국경제"
         },
         {
-          "title": "\"젠슨 황 내연녀, 10조 엔비디아 칩 중국으로 밀반입\"",
-          "link": "https://n.news.naver.com/article/052/0002431303?ntype=RANKING",
-          "press": "YTN"
+          "title": "\"84년생이라더니?\"…'젠슨 황 연인' 앨리스 황, 1993년 입학 기록 나왔다",
+          "link": "https://n.news.naver.com/article/277/0005841342?ntype=RANKING",
+          "press": "아시아경제"
         }
       ],
       "related_titles": [
-        "'젠슨 황 불륜' 앨리스 황의 남편은 이 사람?…\"중국 사모펀드 대표\"",
-        "“실제론 42세 아닌 49세”…‘젠슨 황 스캔들’ 앨리스 황 의혹 눈덩이",
-        "‘불륜 인정’ 젠슨 황 재산 200조원···이혼하면 부인에게 얼마 줘야 하나",
-        "“전 세계 난리인데”…젠슨 황, 불륜 인정 후 포착된 모습은",
-        "\"젠슨 황 내연녀, 10조 엔비디아 칩 중국으로 밀반입\""
-      ],
-      "category": "경제/투자"
-    },
-    {
-      "rank": 2,
-      "keyword": "대통령",
-      "count": 19,
-      "representative_title": "국회의장 “현직 대통령 연임 불가”",
-      "representative_link": "https://n.news.naver.com/article/024/0000109545?ntype=RANKING",
-      "press": "매경이코노미",
-      "related_articles": [
-        {
-          "title": "“주소만 대라, 쓸어버리겠다”… 아이티 갱단까지 손본 ‘조폭 잡는 대통령’",
-          "link": "https://n.news.naver.com/article/023/0004008990?ntype=RANKING",
-          "press": "조선일보"
-        },
-        {
-          "title": "조정식 의장 \"현직 대통령 연임 불가…정쟁 대상 삼지 말아야\"",
-          "link": "https://n.news.naver.com/article/057/0001977681?ntype=RANKING",
-          "press": "MBN"
-        },
-        {
-          "title": "[영상]이 대통령 “조청파세요, 간장파세요?”…농업인의 날 가래떡 먹방",
-          "link": "https://n.news.naver.com/article/032/0003481989?ntype=RANKING",
-          "press": "경향신문"
-        },
-        {
-          "title": "김민석 “국민의힘, 대체 무슨 염치로 李대통령 탄핵 운운하나”",
-          "link": "https://n.news.naver.com/article/087/0001230092?ntype=RANKING",
-          "press": "강원일보"
-        },
-        {
-          "title": "“조청파세요? 간장파세요?” 가래떡 든 李대통령, 농업인의 날 맞아 청와대 쇼츠 등장",
-          "link": "https://n.news.naver.com/article/087/0001230097?ntype=RANKING",
-          "press": "강원일보"
-        }
-      ],
-      "related_titles": [
-        "“주소만 대라, 쓸어버리겠다”… 아이티 갱단까지 손본 ‘조폭 잡는 대통령’",
-        "조정식 의장 \"현직 대통령 연임 불가…정쟁 대상 삼지 말아야\"",
-        "[영상]이 대통령 “조청파세요, 간장파세요?”…농업인의 날 가래떡 먹방",
-        "김민석 “국민의힘, 대체 무슨 염치로 李대통령 탄핵 운운하나”",
-        "“조청파세요? 간장파세요?” 가래떡 든 李대통령, 농업인의 날 맞아 청와대 쇼츠 등장"
-      ],
-      "category": "국제"
-    },
-    {
-      "rank": 3,
-      "keyword": "여성",
-      "count": 17,
-      "representative_title": "[속보] 경찰, 10대 여성 살해한 50대 남성 긴급체포",
-      "representative_link": "https://n.news.naver.com/article/422/0000924963?ntype=RANKING",
-      "press": "연합뉴스TV",
-      "related_articles": [
-        {
-          "title": "'아들 성범죄 피해자' 10대 여성 찾아가 살해한 50대 체포(종합)",
-          "link": "https://n.news.naver.com/article/082/0001406632?ntype=RANKING",
-          "press": "부산일보"
-        },
-        {
-          "title": "아들 성범죄 고소한 10대 여성 살해…50대 남성 긴급체포",
-          "link": "https://n.news.naver.com/article/005/0001884429?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "[속보]서울 성북구서 10대 여성 살해한 50대 남성 긴급체포",
-          "link": "https://n.news.naver.com/article/032/0003481958?ntype=RANKING",
-          "press": "경향신문"
-        },
-        {
-          "title": "아들을 성범죄로 고소한 10대 여성 살해한 아버지…범행 장소는 숙박업소",
-          "link": "https://n.news.naver.com/article/008/0005439555?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "아들이 저지른 성범죄 피해 10대 여성 살해한 50대 남성 긴급체포…만취 상태로 성북구 에어비앤비서 범행",
-          "link": "https://n.news.naver.com/article/087/0001230038?ntype=RANKING",
-          "press": "강원일보"
-        }
-      ],
-      "related_titles": [
-        "'아들 성범죄 피해자' 10대 여성 찾아가 살해한 50대 체포(종합)",
-        "아들 성범죄 고소한 10대 여성 살해…50대 남성 긴급체포",
-        "[속보]서울 성북구서 10대 여성 살해한 50대 남성 긴급체포",
-        "아들을 성범죄로 고소한 10대 여성 살해한 아버지…범행 장소는 숙박업소",
-        "아들이 저지른 성범죄 피해 10대 여성 살해한 50대 남성 긴급체포…만취 상태로 성북구 에어비앤비서 범행"
+        "740만원 코트, 500만원 원피스…명품 휘감은 젠슨 황 불륜녀",
+        "\"젠슨 데려올게\"‥10조 원 거래 성사시킨 젠슨의 여인",
+        "\"보기만 해도 감전된 듯 넋 잃어\"...지인이 기억하는 젠슨 황 내연녀의 '무기'",
+        "\"불륜으로 끝날 줄 알았는데\"…젠슨 황 스캔들 '일파만파'",
+        "\"84년생이라더니?\"…'젠슨 황 연인' 앨리스 황, 1993년 입학 기록 나왔다"
       ],
       "category": "사회/일반"
     },
     {
-      "rank": 4,
-      "keyword": "앨리스",
-      "count": 16,
-      "representative_title": "“앨리스 황, 보기만 해도 감전…남자들 영혼까지 끌려갔다”",
-      "representative_link": "https://n.news.naver.com/article/081/0003698183?ntype=RANKING",
-      "press": "서울신문",
+      "rank": 2,
+      "keyword": "만원",
+      "count": 14,
+      "representative_title": "300만원 낮춘다는데…현대차·기아 난감해진 이유",
+      "representative_link": "https://n.news.naver.com/article/215/0001272461?ntype=RANKING",
+      "press": "한국경제TV",
       "related_articles": [
         {
-          "title": "앨리스 황 뒤엔 가족 간첩단?…“10조원대 엔비디아 칩, 중국 공급 관여”",
-          "link": "https://n.news.naver.com/article/023/0004008955?ntype=RANKING",
-          "press": "조선일보"
+          "title": "한국 30만원, 일본 10만원…오늘부터 ‘스시자로’ 국내 반입 열린다",
+          "link": "https://n.news.naver.com/article/009/0005762353?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "간첩논란 앨리스 황…후난성 농촌 출신, 중국 투자가와 ‘파워 커플’ 불려",
-          "link": "https://n.news.naver.com/article/021/0002832054?ntype=RANKING",
-          "press": "문화일보"
+          "title": "한국 30만원, 일본 10만원…오늘부터 ‘스시자로’ 국내 반입 열린다",
+          "link": "https://n.news.naver.com/article/009/0005762353?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "“앨리스 황, 보기만 해도 감전…남자들 영혼까지 끌려갔다”",
-          "link": "https://n.news.naver.com/article/081/0003698183?ntype=RANKING",
-          "press": "서울신문"
-        },
-        {
-          "title": "\"남자들, 그녀 미소에 영혼까지 끌려가\"…앨리스 황 지인 증언",
-          "link": "https://n.news.naver.com/article/421/0009282419?ntype=RANKING",
+          "title": "\"낡은 아파트 14채 사 임대 수입 4000만원\"…30세에 조기 은퇴한 남성",
+          "link": "https://n.news.naver.com/article/421/0009282090?ntype=RANKING",
           "press": "뉴스1"
         },
         {
-          "title": "\"앨리스 황, 엔비디아 GPU 24만개 중국 우회 수출 관여\"",
-          "link": "https://n.news.naver.com/article/092/0002444774?ntype=RANKING",
-          "press": "지디넷코리아"
+          "title": "원인 모를 어지럼증…\"8년 만에 원인 찾았다\" 병원에 1000만원 쾌척",
+          "link": "https://n.news.naver.com/article/008/0005439902?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "“국내선 35만원인데 일본선 8만원”…마운자로 사러 日 간다? 내일부터 가능 [이슈픽]",
+          "link": "https://n.news.naver.com/article/081/0003698416?ntype=RANKING",
+          "press": "서울신문"
         }
       ],
       "related_titles": [
-        "앨리스 황 뒤엔 가족 간첩단?…“10조원대 엔비디아 칩, 중국 공급 관여”",
-        "간첩논란 앨리스 황…후난성 농촌 출신, 중국 투자가와 ‘파워 커플’ 불려",
-        "“앨리스 황, 보기만 해도 감전…남자들 영혼까지 끌려갔다”",
-        "\"남자들, 그녀 미소에 영혼까지 끌려가\"…앨리스 황 지인 증언",
-        "\"앨리스 황, 엔비디아 GPU 24만개 중국 우회 수출 관여\""
+        "한국 30만원, 일본 10만원…오늘부터 ‘스시자로’ 국내 반입 열린다",
+        "한국 30만원, 일본 10만원…오늘부터 ‘스시자로’ 국내 반입 열린다",
+        "\"낡은 아파트 14채 사 임대 수입 4000만원\"…30세에 조기 은퇴한 남성",
+        "원인 모를 어지럼증…\"8년 만에 원인 찾았다\" 병원에 1000만원 쾌척",
+        "“국내선 35만원인데 일본선 8만원”…마운자로 사러 日 간다? 내일부터 가능 [이슈픽]"
       ],
-      "category": "경제/투자"
+      "category": "건강/의료"
+    },
+    {
+      "rank": 3,
+      "keyword": "장동혁",
+      "count": 12,
+      "representative_title": "한동훈 “정치숙청 확인” VS 장동혁 “법적대응 해봐라”",
+      "representative_link": "https://n.news.naver.com/article/033/0000053315?ntype=RANKING",
+      "press": "주간경향",
+      "related_articles": [
+        {
+          "title": "장동혁, 친한계 '조작징계' 주장에 \"문제 있다면 법적 대응하라\"",
+          "link": "https://n.news.naver.com/article/656/0000192099?ntype=RANKING",
+          "press": "대전일보"
+        },
+        {
+          "title": "오세훈-장동혁, 공개 충돌...'조작 징계' 논란에 한동훈도 목소리",
+          "link": "https://n.news.naver.com/article/052/0002431571?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "오세훈·한동훈 '비대위' 언급에…장동혁 \"정치적 의도\" 발끈",
+          "link": "https://n.news.naver.com/article/002/0002465448?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "오세훈 “이대론 총선 어렵다” 비대위 거론… 장동혁 “자리 바꾸자” 격앙",
+          "link": "https://n.news.naver.com/article/022/0004174400?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "“장동혁, 당원 30% 기반 보유…나머지 당권주자 합쳐도 안돼”[정치를 부탁해]",
+          "link": "https://n.news.naver.com/article/020/0003761806?ntype=RANKING",
+          "press": "동아일보"
+        }
+      ],
+      "related_titles": [
+        "장동혁, 친한계 '조작징계' 주장에 \"문제 있다면 법적 대응하라\"",
+        "오세훈-장동혁, 공개 충돌...'조작 징계' 논란에 한동훈도 목소리",
+        "오세훈·한동훈 '비대위' 언급에…장동혁 \"정치적 의도\" 발끈",
+        "오세훈 “이대론 총선 어렵다” 비대위 거론… 장동혁 “자리 바꾸자” 격앙",
+        "“장동혁, 당원 30% 기반 보유…나머지 당권주자 합쳐도 안돼”[정치를 부탁해]"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 4,
+      "keyword": "만에",
+      "count": 11,
+      "representative_title": "술 안 마시는 분위기에…하이트진로 4년 만에 희망퇴직",
+      "representative_link": "https://n.news.naver.com/article/024/0000109561?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "어제도 상한가 찍었는데 “하루 만에 24% 폭락”…개미들 비명 터진 ‘이 종목’",
+          "link": "https://n.news.naver.com/article/011/0004681179?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "올해만 5000명 넘게 걸리더니 “35년 만에 최악”…미국 덮친 ‘이 전염병’ 뭐길래",
+          "link": "https://n.news.naver.com/article/011/0004681219?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "\"사망사고 직후 차 안에 숨었다?\"…박신영, 5년 만에 첫 반박 '법적 대응' 예고",
+          "link": "https://n.news.naver.com/article/014/0005602686?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "'괜히 팔았나' 깜짝 반전…하루 만에 29% 급등한 회사 정체",
+          "link": "https://n.news.naver.com/article/015/0005352902?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "\"담뱃값 4500원→8500원으로\"…2015년 이후 11년 만에 인상 주장, 이유는?",
+          "link": "https://n.news.naver.com/article/277/0005841031?ntype=RANKING",
+          "press": "아시아경제"
+        }
+      ],
+      "related_titles": [
+        "어제도 상한가 찍었는데 “하루 만에 24% 폭락”…개미들 비명 터진 ‘이 종목’",
+        "올해만 5000명 넘게 걸리더니 “35년 만에 최악”…미국 덮친 ‘이 전염병’ 뭐길래",
+        "\"사망사고 직후 차 안에 숨었다?\"…박신영, 5년 만에 첫 반박 '법적 대응' 예고",
+        "'괜히 팔았나' 깜짝 반전…하루 만에 29% 급등한 회사 정체",
+        "\"담뱃값 4500원→8500원으로\"…2015년 이후 11년 만에 인상 주장, 이유는?"
+      ],
+      "category": "사건/사고"
     },
     {
       "rank": 5,
-      "keyword": "엔비디아",
-      "count": 16,
-      "representative_title": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국으로 밀반입\"",
-      "representative_link": "https://n.news.naver.com/article/001/0016434519?ntype=RANKING",
-      "press": "연합뉴스",
+      "keyword": "대통령",
+      "count": 11,
+      "representative_title": "대통령·與·野 한목소리 \"농업인 여러분! 감사합니다\"",
+      "representative_link": "https://n.news.naver.com/article/659/0000048638?ntype=RANKING",
+      "press": "전주MBC",
       "related_articles": [
         {
-          "title": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국으로 밀반입\"",
-          "link": "https://n.news.naver.com/article/001/0016434519?ntype=RANKING",
+          "title": "李 대통령 \"당정 한뜻으로 움직여야\"…김민석·한병도와 만찬",
+          "link": "https://n.news.naver.com/article/656/0000192178?ntype=RANKING",
+          "press": "대전일보"
+        },
+        {
+          "title": "조정식 국회의장, 개헌 3원칙 '국회 중심·현직 대통령 연임 불가·여야 합의' 제시",
+          "link": "https://n.news.naver.com/article/655/0000033533?ntype=RANKING",
+          "press": "CJB청주방송"
+        },
+        {
+          "title": "이 대통령, 김민석·한병도와 만찬서 \"당정 한마음 한뜻 움직여야\"(종합)",
+          "link": "https://n.news.naver.com/article/003/0014316904?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "李대통령 \"당정 한마음 움직여야\"…김민석 \"양극화 대책 필요\"(종합)",
+          "link": "https://n.news.naver.com/article/001/0016436999?ntype=RANKING",
           "press": "연합뉴스"
         },
         {
-          "title": "전청조 \"내가 엔비디아 해결사\"…'206조 증발'에 과거 발언 재소환",
-          "link": "https://n.news.naver.com/article/448/0000650163?ntype=RANKING",
-          "press": "TV조선"
-        },
-        {
-          "title": "서류 흔적없이…“‘中 스파이’ 앨리스황, 10조원 엔비디아 AI칩 중국 밀반입”",
-          "link": "https://n.news.naver.com/article/029/0003058356?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "靑주관 생방송서 돌발사태…野토론자 “대통령 죄 없애려 특검”",
+          "link": "https://n.news.naver.com/article/020/0003761784?ntype=RANKING",
+          "press": "동아일보"
         }
       ],
       "related_titles": [
-        "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국으로 밀반입\"",
-        "전청조 \"내가 엔비디아 해결사\"…'206조 증발'에 과거 발언 재소환",
-        "서류 흔적없이…“‘中 스파이’ 앨리스황, 10조원 엔비디아 AI칩 중국 밀반입”"
+        "李 대통령 \"당정 한뜻으로 움직여야\"…김민석·한병도와 만찬",
+        "조정식 국회의장, 개헌 3원칙 '국회 중심·현직 대통령 연임 불가·여야 합의' 제시",
+        "이 대통령, 김민석·한병도와 만찬서 \"당정 한마음 한뜻 움직여야\"(종합)",
+        "李대통령 \"당정 한마음 움직여야\"…김민석 \"양극화 대책 필요\"(종합)",
+        "靑주관 생방송서 돌발사태…野토론자 “대통령 죄 없애려 특검”"
       ],
-      "category": "산업/테크"
+      "category": "정치"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
       "keyword": "엔비디아",
-      "count": 16,
-      "representative_title": "\"젠슨 황 내연녀, 10조 엔비디아 칩 중국으로 밀반입\"",
-      "representative_link": "https://n.news.naver.com/article/052/0002431303?ntype=RANKING",
-      "press": "YTN",
+      "count": 6,
+      "representative_title": "“앨리스 황, 10조원대 엔비디아 칩 中 밀반입”",
+      "representative_link": "https://n.news.naver.com/article/022/0004174388?ntype=RANKING",
+      "press": "세계일보",
       "related_articles": [
         {
-          "title": "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국으로 밀반입\"",
-          "link": "https://n.news.naver.com/article/001/0016434519?ntype=RANKING",
-          "press": "연합뉴스"
+          "title": "전청조 “I am 신뢰에요”…엔비디아 이틀새 ‘575조 증발’, 소환된 과거 발언",
+          "link": "https://n.news.naver.com/article/016/0002722163?ntype=RANKING",
+          "press": "헤럴드경제"
         },
         {
-          "title": "\"젠슨 황 내연녀, 10조 엔비디아 칩 중국으로 밀반입\"",
-          "link": "https://n.news.naver.com/article/052/0002431303?ntype=RANKING",
-          "press": "YTN"
+          "title": "“앨리스 황, 10조원대 엔비디아 칩 中 밀반입”",
+          "link": "https://n.news.naver.com/article/022/0004174388?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "“젠슨 황 불륜女, 10조원 엔비디아 AI칩 中 밀반입”",
-          "link": "https://n.news.naver.com/article/020/0003761629?ntype=RANKING",
-          "press": "동아일보"
-        },
-        {
-          "title": "'외도' 시인한 젠슨 황, 정상 출근…엔비디아 내부는 '침울'",
-          "link": "https://n.news.naver.com/article/079/0004208600?ntype=RANKING",
+          "title": "\"젠슨 황 내연녀, 10조 규모 엔비디아 칩 中 유출에 기여\"",
+          "link": "https://n.news.naver.com/article/079/0004208877?ntype=RANKING",
           "press": "노컷뉴스"
         },
         {
-          "title": "\"젠슨 황 불륜 여성, 10조대 엔비디아 칩 中 우회 유출… 알리바바·텐센트 AI 훈련에 쓰였다\"",
-          "link": "https://n.news.naver.com/article/469/0000964936?ntype=RANKING",
-          "press": "한국일보"
+          "title": "불륜은 불륜, 출근은 출근?…엔비디아 찾은 젠슨 황, 사과했으니 일 합시다?",
+          "link": "https://n.news.naver.com/article/030/0003484735?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "[속보] 앨리스 황, 10조원 규모 엔비디아 AI칩 중국 밀반입…젠슨 황과의 관계 이용",
+          "link": "https://n.news.naver.com/article/658/0000160952?ntype=RANKING",
+          "press": "국제신문"
         }
       ],
       "related_titles": [
-        "\"젠슨황 연인 앨리스황, 10조원 엔비디아 AI칩 중국으로 밀반입\"",
-        "\"젠슨 황 내연녀, 10조 엔비디아 칩 중국으로 밀반입\"",
-        "“젠슨 황 불륜女, 10조원 엔비디아 AI칩 中 밀반입”",
-        "'외도' 시인한 젠슨 황, 정상 출근…엔비디아 내부는 '침울'",
-        "\"젠슨 황 불륜 여성, 10조대 엔비디아 칩 中 우회 유출… 알리바바·텐센트 AI 훈련에 쓰였다\""
+        "전청조 “I am 신뢰에요”…엔비디아 이틀새 ‘575조 증발’, 소환된 과거 발언",
+        "“앨리스 황, 10조원대 엔비디아 칩 中 밀반입”",
+        "\"젠슨 황 내연녀, 10조 규모 엔비디아 칩 中 유출에 기여\"",
+        "불륜은 불륜, 출근은 출근?…엔비디아 찾은 젠슨 황, 사과했으니 일 합시다?",
+        "[속보] 앨리스 황, 10조원 규모 엔비디아 AI칩 중국 밀반입…젠슨 황과의 관계 이용"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
       "keyword": "젠슨",
-      "count": 13,
-      "representative_title": "젠슨 황 스캔들에 美 내렸는데 코스닥 '사이드카'…2차전지·반도체↑",
-      "representative_link": "https://n.news.naver.com/article/629/0000550798?ntype=RANKING",
-      "press": "더팩트",
+      "count": 5,
+      "representative_title": "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인",
+      "representative_link": "https://n.news.naver.com/article/665/0000008544?ntype=RANKING",
+      "press": "더스쿠프",
       "related_articles": [
         {
-          "title": "'역사상 가장 비싼 불륜' 될까…젠슨 황 이혼하면 아내 몫만 최소 726억 달러",
-          "link": "https://n.news.naver.com/article/437/0000520167?ntype=RANKING",
-          "press": "JTBC"
+          "title": "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인",
+          "link": "https://n.news.naver.com/article/665/0000008544?ntype=RANKING",
+          "press": "더스쿠프"
         },
         {
-          "title": "젠슨 황 스캔들에 美 내렸는데 코스닥 '사이드카'…2차전지·반도체↑",
-          "link": "https://n.news.naver.com/article/629/0000550798?ntype=RANKING",
-          "press": "더팩트"
+          "title": "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인",
+          "link": "https://n.news.naver.com/article/665/0000008544?ntype=RANKING",
+          "press": "더스쿠프"
         },
         {
-          "title": "\"이틀 만에 540조 OUT\" 젠슨 황 '불륜 쇼크'에 시총 증발…한국계 변호사 선임도",
-          "link": "https://n.news.naver.com/article/243/0000105513?ntype=RANKING",
-          "press": "이코노미스트"
-        },
-        {
-          "title": "'역사상 가장 비싼 불륜' 될까…젠슨 황 이혼하면 아내 몫만 최소 726억 달러",
-          "link": "https://n.news.naver.com/article/437/0000520167?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "\"이틀 만에 540조 OUT\" 젠슨 황 '불륜 쇼크'에 시총 증발…한국계 변호사 선임도",
-          "link": "https://n.news.naver.com/article/243/0000105513?ntype=RANKING",
-          "press": "이코노미스트"
+          "title": "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인",
+          "link": "https://n.news.naver.com/article/665/0000008544?ntype=RANKING",
+          "press": "더스쿠프"
         }
       ],
       "related_titles": [
-        "'역사상 가장 비싼 불륜' 될까…젠슨 황 이혼하면 아내 몫만 최소 726억 달러",
-        "젠슨 황 스캔들에 美 내렸는데 코스닥 '사이드카'…2차전지·반도체↑",
-        "\"이틀 만에 540조 OUT\" 젠슨 황 '불륜 쇼크'에 시총 증발…한국계 변호사 선임도",
-        "'역사상 가장 비싼 불륜' 될까…젠슨 황 이혼하면 아내 몫만 최소 726억 달러",
-        "\"이틀 만에 540조 OUT\" 젠슨 황 '불륜 쇼크'에 시총 증발…한국계 변호사 선임도"
+        "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인",
+        "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인",
+        "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "조원",
-      "count": 7,
-      "representative_title": "삼성전자·SK하이닉스 급등…합산 시총 3거래일 만에 2000조원 회복",
-      "representative_link": "https://n.news.naver.com/article/654/0000210491?ntype=RANKING",
-      "press": "강원도민일보",
-      "related_articles": [
-        {
-          "title": "삼성전자·SK하이닉스 급등…합산 시총 3거래일 만에 2000조원 회복",
-          "link": "https://n.news.naver.com/article/654/0000210491?ntype=RANKING",
-          "press": "강원도민일보"
-        },
-        {
-          "title": "삼성전자·SK하이닉스 급등…합산 시총 3거래일 만에 2000조원 회복",
-          "link": "https://n.news.naver.com/article/654/0000210491?ntype=RANKING",
-          "press": "강원도민일보"
-        },
-        {
-          "title": "삼성전자·SK하이닉스 급등…합산 시총 3거래일 만에 2000조원 회복",
-          "link": "https://n.news.naver.com/article/654/0000210491?ntype=RANKING",
-          "press": "강원도민일보"
-        }
-      ],
-      "related_titles": [
-        "삼성전자·SK하이닉스 급등…합산 시총 3거래일 만에 2000조원 회복",
-        "삼성전자·SK하이닉스 급등…합산 시총 3거래일 만에 2000조원 회복",
-        "삼성전자·SK하이닉스 급등…합산 시총 3거래일 만에 2000조원 회복"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 4,
       "keyword": "주식",
-      "count": 5,
-      "representative_title": "장금상선, 또 한진 주식 샀다…왜",
-      "representative_link": "https://n.news.naver.com/article/648/0000052506?ntype=RANKING",
-      "press": "비즈워치",
+      "count": 4,
+      "representative_title": "“신생아에 주식 5000만원씩”…배재규 한투운용 대표 ‘파격 제안’",
+      "representative_link": "https://n.news.naver.com/article/018/0006408413?ntype=RANKING",
+      "press": "이데일리",
       "related_articles": [
         {
-          "title": "“주식 앱 꺼두고 버티세요… 공포심에 휩쓸린 투매 경계해야”",
-          "link": "https://n.news.naver.com/article/005/0001884366?ntype=RANKING",
-          "press": "국민일보"
+          "title": "코스피 출렁이자 “아기 태어나면 주식 5000만원씩 주자”…30세엔 2억원 된다고?",
+          "link": "https://n.news.naver.com/article/011/0004681077?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "주식 물타기 했나 ‘빚투’ 역대급 증가…은행 가계대출 첫 1천200조 돌파",
-          "link": "https://n.news.naver.com/article/666/0000131581?ntype=RANKING",
-          "press": "경기일보"
-        },
-        {
-          "title": "장금상선, 또 한진 주식 샀다…왜",
-          "link": "https://n.news.naver.com/article/648/0000052506?ntype=RANKING",
-          "press": "비즈워치"
-        },
-        {
-          "title": "주식 열풍에 '빚투' 역대급 증가…은행 가계대출, 1천200조 사상 첫 돌파",
-          "link": "https://n.news.naver.com/article/243/0000105515?ntype=RANKING",
-          "press": "이코노미스트"
+          "title": "“신생아에 주식 5000만원씩”…배재규 한투운용 대표 ‘파격 제안’",
+          "link": "https://n.news.naver.com/article/018/0006408413?ntype=RANKING",
+          "press": "이데일리"
         },
         {
           "title": "생활비 대출받아 주식·코인으로 탕진… 본래 취지 잃은 청년 정책대출",
           "link": "https://n.news.naver.com/article/037/0000039127?ntype=RANKING",
           "press": "주간동아"
+        },
+        {
+          "title": "코스피 출렁이자 “아기 태어나면 주식 5000만원씩 주자”…30세엔 2억원 된다고?",
+          "link": "https://n.news.naver.com/article/011/0004681077?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "“신생아에 주식 5000만원씩”…배재규 한투운용 대표 ‘파격 제안’",
+          "link": "https://n.news.naver.com/article/018/0006408413?ntype=RANKING",
+          "press": "이데일리"
         }
       ],
       "related_titles": [
-        "“주식 앱 꺼두고 버티세요… 공포심에 휩쓸린 투매 경계해야”",
-        "주식 물타기 했나 ‘빚투’ 역대급 증가…은행 가계대출 첫 1천200조 돌파",
-        "장금상선, 또 한진 주식 샀다…왜",
-        "주식 열풍에 '빚투' 역대급 증가…은행 가계대출, 1천200조 사상 첫 돌파",
-        "생활비 대출받아 주식·코인으로 탕진… 본래 취지 잃은 청년 정책대출"
+        "코스피 출렁이자 “아기 태어나면 주식 5000만원씩 주자”…30세엔 2억원 된다고?",
+        "“신생아에 주식 5000만원씩”…배재규 한투운용 대표 ‘파격 제안’",
+        "생활비 대출받아 주식·코인으로 탕진… 본래 취지 잃은 청년 정책대출",
+        "코스피 출렁이자 “아기 태어나면 주식 5000만원씩 주자”…30세엔 2억원 된다고?",
+        "“신생아에 주식 5000만원씩”…배재규 한투운용 대표 ‘파격 제안’"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "투자",
+      "count": 4,
+      "representative_title": "삼전 빠지고 닉스는 뛰고…달라진 투자 공식",
+      "representative_link": "https://n.news.naver.com/article/024/0000109567?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "“이젠 펀드까지 반토막” 하다못해 ‘500원대’까지 급락…주식형 펀드 휘청 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002722256?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "뉴욕증시, AI 투자 우려 완화에 혼조세…나스닥 1.3%↑",
+          "link": "https://n.news.naver.com/article/366/0001204177?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "삼전 빠지고 닉스는 뛰고…달라진 투자 공식",
+          "link": "https://n.news.naver.com/article/024/0000109567?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "203조 투자 약속했지만 美 군함 발주는 아직…K-조선, 정책 분수령",
+          "link": "https://n.news.naver.com/article/629/0000551059?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "“이젠 펀드까지 반토막” 하다못해 ‘500원대’까지 급락…주식형 펀드 휘청 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002722256?ntype=RANKING",
+          "press": "헤럴드경제"
+        }
+      ],
+      "related_titles": [
+        "“이젠 펀드까지 반토막” 하다못해 ‘500원대’까지 급락…주식형 펀드 휘청 [투자360]",
+        "뉴욕증시, AI 투자 우려 완화에 혼조세…나스닥 1.3%↑",
+        "삼전 빠지고 닉스는 뛰고…달라진 투자 공식",
+        "203조 투자 약속했지만 美 군함 발주는 아직…K-조선, 정책 분수령",
+        "“이젠 펀드까지 반토막” 하다못해 ‘500원대’까지 급락…주식형 펀드 휘청 [투자360]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "코스피",
+      "count": 3,
+      "representative_title": "신한證, “코스피 내년 말 7000”",
+      "representative_link": "https://n.news.naver.com/article/024/0000109550?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "\"美 물가 쇼크도 안 통했다\"…코스피 뒤집은 '큰손' 정체는",
+          "link": "https://n.news.naver.com/article/119/0003154067?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "신한證, “코스피 내년 말 7000”",
+          "link": "https://n.news.naver.com/article/024/0000109550?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "\"美 물가 쇼크도 안 통했다\"…코스피 뒤집은 '큰손' 정체는",
+          "link": "https://n.news.naver.com/article/119/0003154067?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "신한證, “코스피 내년 말 7000”",
+          "link": "https://n.news.naver.com/article/024/0000109550?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "\"美 물가 쇼크도 안 통했다\"…코스피 뒤집은 '큰손' 정체는",
+          "link": "https://n.news.naver.com/article/119/0003154067?ntype=RANKING",
+          "press": "데일리안"
+        }
+      ],
+      "related_titles": [
+        "\"美 물가 쇼크도 안 통했다\"…코스피 뒤집은 '큰손' 정체는",
+        "신한證, “코스피 내년 말 7000”",
+        "\"美 물가 쇼크도 안 통했다\"…코스피 뒤집은 '큰손' 정체는",
+        "신한證, “코스피 내년 말 7000”",
+        "\"美 물가 쇼크도 안 통했다\"…코스피 뒤집은 '큰손' 정체는"
       ],
       "category": "주식/코인"
     }
@@ -400,27 +455,21 @@
     },
     {
       "rank": 2,
-      "keyword": "트럼프",
-      "series_title": "트럼프의 몰락",
-      "count": 2,
-      "representative_title": "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWVzNlbHZfZHk4a3gxR1g4c2ZCY3k3Qlh0d1BaOHd0NUtCSGl3RlFZQ3dkQTR1RDlwa25CMWNjOFY0ZHpJLU9tUkVrV0RHdkNvZHc3ZlI1NlliQQ?oc=5",
+      "keyword": "유럽",
+      "series_title": "유럽의 몰락",
+      "count": 1,
+      "representative_title": "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”",
+      "representative_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2pKdXJXTi1ZRm8xekk1QUxiTmRDSGVEWmwtd0JIclotVHdFMjFiYmJhMDE2dHNpbkh5aTlpdldHUG1oR29RRWdsVnNWX2lvVzMxZEJudW5XUUdKNmJ5RmRndTlmRmF3eHlXNnF6dlBKLW52b1NtZUxLUFAzUXBzaDFrUEtfSDVXX3pqWA?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWVzNlbHZfZHk4a3gxR1g4c2ZCY3k3Qlh0d1BaOHd0NUtCSGl3RlFZQ3dkQTR1RDlwa25CMWNjOFY0ZHpJLU9tUkVrV0RHdkNvZHc3ZlI1NlliQQ?oc=5",
-          "press": ""
-        },
-        {
-          "title": "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02cHh4ZllhLW1NTEFGN1NsTW5PeFpPX213VEkzNmpTcHY3WlhRcjl2eHcyMmFsNGw5Q3JvUnR2WnBjYmRWeXVhZHpERTB5bldLRVpZ0gFYQVVfeXFMUDBWYjZoamhjRFlQRDZIMDVxZTV3MFJ5SnQ4UjVvbFR3eXJUZXJ1TERxbFlBT2tDelF3YzRGTVV0ejVwZVA2TmQzUHpCUlNHbktyVllubWd4Sg?oc=5",
+          "title": "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2pKdXJXTi1ZRm8xekk1QUxiTmRDSGVEWmwtd0JIclotVHdFMjFiYmJhMDE2dHNpbkh5aTlpdldHUG1oR29RRWdsVnNWX2lvVzMxZEJudW5XUUdKNmJ5RmRndTlmRmF3eHlXNnF6dlBKLW52b1NtZUxLUFAzUXBzaDFrUEtfSDVXX3pqWA?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "트럼프 몰락이 보낸 메시지, 유럽도 선동 정치 쫓아낼 자정력 있다",
-        "'민주당 압승'보단 트럼프 몰락의 시작…'블루쓰나미' 후폭풍은? [글로벌 뉴스픽]"
+        "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”"
       ],
       "category": "몰락"
     },
@@ -446,41 +495,41 @@
     },
     {
       "rank": 4,
-      "keyword": "유럽",
-      "series_title": "유럽의 몰락",
+      "keyword": "필수의료",
+      "series_title": "필수의료의 몰락",
       "count": 1,
-      "representative_title": "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”",
-      "representative_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2pKdXJXTi1ZRm8xekk1QUxiTmRDSGVEWmwtd0JIclotVHdFMjFiYmJhMDE2dHNpbkh5aTlpdldHUG1oR29RRWdsVnNWX2lvVzMxZEJudW5XUUdKNmJ5RmRndTlmRmF3eHlXNnF6dlBKLW52b1NtZUxLUFAzUXBzaDFrUEtfSDVXX3pqWA?oc=5",
+      "representative_title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2pKdXJXTi1ZRm8xekk1QUxiTmRDSGVEWmwtd0JIclotVHdFMjFiYmJhMDE2dHNpbkh5aTlpdldHUG1oR29RRWdsVnNWX2lvVzMxZEJudW5XUUdKNmJ5RmRndTlmRmF3eHlXNnF6dlBKLW52b1NtZUxLUFAzUXBzaDFrUEtfSDVXX3pqWA?oc=5",
+          "title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”"
+        "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\""
       ],
       "category": "몰락"
     },
     {
       "rank": 5,
-      "keyword": "대통령도",
-      "series_title": "대통령도의 몰락",
+      "keyword": "파산으로",
+      "series_title": "파산으로의 몰락",
       "count": 1,
-      "representative_title": "은행 파산 사흘 만에 대통령도 몰락···페냐 파라과이 대통령 파면에 중남미 우파 ‘휘청’",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vTVhvUGNBbWVkR3d6dlZaT09kY29TNWJuMzFyeWpCWDVpUlMxYVVRalk2S01oTldpZnQ4Q0ZQRnlNTVlVMmVSMndRaGo2MEpyWVRicWg2N3ZNUdIBX0FVX3lxTFBYOFdfdEJla2Z3SXh0clNWenM5aDNSTmQtR1FYSXhBVHQ1RE5CcFB2Um1yMmRtLXF3Z05xdk4xRkg1MGZGZEgtTkVrSHV6QUwwbTRLUFVUZmVZUWVlOEo4?oc=5",
+      "representative_title": "은행 파산으로 몰락한 파라과이 대통령",
+      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWbjdOMzhsclNPLWRpREV5c3U5c3hNZWpBVU1KMThpcEljSkhYX2pqVndoV0daRzBnV1VaOV9LX1VETVhVWmY4VmQ3Qk8yeWRfQVJST2lEOGNtZ1hxR29fcUo5YVRrSWtLV3EzOA?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "은행 파산 사흘 만에 대통령도 몰락···페냐 파라과이 대통령 파면에 중남미 우파 ‘휘청’",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vTVhvUGNBbWVkR3d6dlZaT09kY29TNWJuMzFyeWpCWDVpUlMxYVVRalk2S01oTldpZnQ4Q0ZQRnlNTVlVMmVSMndRaGo2MEpyWVRicWg2N3ZNUdIBX0FVX3lxTFBYOFdfdEJla2Z3SXh0clNWenM5aDNSTmQtR1FYSXhBVHQ1RE5CcFB2Um1yMmRtLXF3Z05xdk4xRkg1MGZGZEgtTkVrSHV6QUwwbTRLUFVUZmVZUWVlOEo4?oc=5",
+          "title": "은행 파산으로 몰락한 파라과이 대통령",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWbjdOMzhsclNPLWRpREV5c3U5c3hNZWpBVU1KMThpcEljSkhYX2pqVndoV0daRzBnV1VaOV9LX1VETVhVWmY4VmQ3Qk8yeWRfQVJST2lEOGNtZ1hxR29fcUo5YVRrSWtLV3EzOA?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "은행 파산 사흘 만에 대통령도 몰락···페냐 파라과이 대통령 파면에 중남미 우파 ‘휘청’"
+        "은행 파산으로 몰락한 파라과이 대통령"
       ],
       "category": "몰락"
     }
@@ -489,7 +538,7 @@
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 12,
+      "count": 13,
       "representative_title": "서울 아파트, 매물 '급증'",
       "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMU41Vld4NlZ5eXZkanNKSm1EM3FDbldaNUkwMVVjZjRrOXZ2dzI3Qkl3a2FvWVZqX2N4V0R5OTV0S3hSdUR2M2VZNm9EVFBfejBGS25oOTN0X1hDZ0l0aFpYNU5HY1FvdnRlYw?oc=5",
       "press": "",
@@ -500,13 +549,13 @@
           "press": ""
         },
         {
-          "title": "서울 집값 부담에 경기 남부로…소형 아파트 매수세 몰리며 신고가 속출",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HdkpFT3psWmNrV1ZGVERvUjUyVzZMOEQ5UDIwT2YzT0hMaFQzOUFCOWpuU3BNQVJrM0hiRXVwZF9YSFZEcGNSQWFSc3hwMjdocXh5SnBVYVhMcFh4SXpvb25zZlM2YU1KWXBn?oc=5",
+          "title": "서울 아파트 매물 8만건 쌓였다…강남권 매도 우위 속 집값은 엇갈려",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54eVF3N2xBbHA4a0hCbU1uVG1La1c4dkNIQlhSeUlqTkU2c21CY2otRnl1d3B4OWRfTmNnVUlyT0ZmcEJKYmEzZUF2cDhCRW13azAycmVSVnAxY0U?oc=5",
           "press": ""
         },
         {
-          "title": "서울 아파트 매물 8만건 쌓였다…강남권 매도 우위 속 집값은 엇갈려",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54eVF3N2xBbHA4a0hCbU1uVG1La1c4dkNIQlhSeUlqTkU2c21CY2otRnl1d3B4OWRfTmNnVUlyT0ZmcEJKYmEzZUF2cDhCRW13azAycmVSVnAxY0U?oc=5",
+          "title": "\"이렇게 오래 오른 적 없었다\"…서울 집값 심상찮은 기록 [시장톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BNkxTdTZESmcxa2pXTVZXMEtUdExGX3JtcjRubDhvQzh1WHlob1FZR29ha3JzVlBCUFlMTzlQY0tfdVRrUWZJNzZPUGxtYmlzUTU3N3ZzZTcxdw?oc=5",
           "press": ""
         },
         {
@@ -515,17 +564,17 @@
           "press": ""
         },
         {
-          "title": "서울 아파트, 매물 '급증'",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMU41Vld4NlZ5eXZkanNKSm1EM3FDbldaNUkwMVVjZjRrOXZ2dzI3Qkl3a2FvWVZqX2N4V0R5OTV0S3hSdUR2M2VZNm9EVFBfejBGS25oOTN0X1hDZ0l0aFpYNU5HY1FvdnRlYw?oc=5",
+          "title": "[경제진단] 서울 아파트 매물 33% 늘었는데 집값은 상승…부동산 시장에 나타난 '정책과 가격의 괴리'",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzeTgyU1pCYllaZmZCbWhRellSRkhFbDRpdDJtUVpQTUlmYVpyZ0plVUZobklvejNFMnFqWEFNdnExb1NZN0JWeGdFVGV5aW9ubmxhQkp3TWFwWG1SNkgzYlRzd08?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
         "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
-        "서울 집값 부담에 경기 남부로…소형 아파트 매수세 몰리며 신고가 속출",
         "서울 아파트 매물 8만건 쌓였다…강남권 매도 우위 속 집값은 엇갈려",
+        "\"이렇게 오래 오른 적 없었다\"…서울 집값 심상찮은 기록 [시장톡]",
         "[이슈체크] 집값 안정 신호일까...서울 아파트 매물 석 달 새 33% 증가",
-        "서울 아파트, 매물 '급증'"
+        "[경제진단] 서울 아파트 매물 33% 늘었는데 집값은 상승…부동산 시장에 나타난 '정책과 가격의 괴리'"
       ],
       "category": "부동산"
     },
@@ -539,7 +588,7 @@
       "related_articles": [
         {
           "title": "[기대위 부동산칼럼] 강남 집값, 정부는 1.38% 하락 민간은 상승 엇갈린 통계에 시장 혼란",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKNy1NM2hGVHFRNGxvOTNEZ1IzUFVTS0Nucjk3OEFtQUFfdTBYaTVNZ1RrMVd2VWxJdENudVAwZUVQMUotM3ZhQ1ZPSVk0eE9MdFNR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YOVlpczJ2QXU2ZThERjR6SDIzTnN2cTRJM2p3NkxsNWZUZEREWG9lZ1FaakxWUXlTbVZ5d1pEX1ZwNlp6MVg1MFU3MzE5Vmc?oc=5",
           "press": ""
         },
         {
@@ -562,25 +611,6 @@
     },
     {
       "rank": 3,
-      "keyword": "경기",
-      "count": 2,
-      "representative_title": "[경기 부동산 핫플②] 광명, 집값 다시 뛰는데 10만가구 공급도 눈앞",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MOXBUUk01ZE4wZXFWYzgzSEw2NElVZi0xakpuQ0g1a2hfMm5fY1lJdFhkb3pncHJrdkd2OEdqdC1YNm50dmJMVWVsd2dKQVpRUUQwb0NYWFA?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "[경기 부동산 핫플②] 광명, 집값 다시 뛰는데 10만가구 공급도 눈앞",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MOXBUUk01ZE4wZXFWYzgzSEw2NElVZi0xakpuQ0g1a2hfMm5fY1lJdFhkb3pncHJrdkd2OEdqdC1YNm50dmJMVWVsd2dKQVpRUUQwb0NYWFA?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "[경기 부동산 핫플②] 광명, 집값 다시 뛰는데 10만가구 공급도 눈앞"
-      ],
-      "category": "부동산"
-    },
-    {
-      "rank": 4,
       "keyword": "강남권",
       "count": 2,
       "representative_title": "[부동산 먼데이 시그널] 강남권 집값 지표 엇갈려...주택 공급 속도 높이고 기업은 자산 재편",
@@ -595,6 +625,25 @@
       ],
       "related_titles": [
         "[부동산 먼데이 시그널] 강남권 집값 지표 엇갈려...주택 공급 속도 높이고 기업은 자산 재편"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "경기",
+      "count": 2,
+      "representative_title": "[경기 부동산 핫플②] 광명, 집값 다시 뛰는데 10만가구 공급도 눈앞",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MOXBUUk01ZE4wZXFWYzgzSEw2NElVZi0xakpuQ0g1a2hfMm5fY1lJdFhkb3pncHJrdkd2OEdqdC1YNm50dmJMVWVsd2dKQVpRUUQwb0NYWFA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[경기 부동산 핫플②] 광명, 집값 다시 뛰는데 10만가구 공급도 눈앞",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MOXBUUk01ZE4wZXFWYzgzSEw2NElVZi0xakpuQ0g1a2hfMm5fY1lJdFhkb3pncHJrdkd2OEdqdC1YNm50dmJMVWVsd2dKQVpRUUQwb0NYWFA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[경기 부동산 핫플②] 광명, 집값 다시 뛰는데 10만가구 공급도 눈앞"
       ],
       "category": "부동산"
     }
