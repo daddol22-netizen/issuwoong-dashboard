@@ -1,0 +1,585 @@
+{
+  "date": "2026-11-12",
+  "hour": "10",
+  "slot": "2026-11-12_10",
+  "crawled_at": "2026-11-12 10:00:01",
+  "total_articles": 406,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "젠슨",
+      "count": 60,
+      "representative_title": "“젠슨 황 CEO 해임 위기”",
+      "representative_link": "https://n.news.naver.com/article/050/0000113139?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "“젠슨 황 추가 폭로 나왔다”…이번엔 여성 임원과 불륜, 호텔서 애정행각",
+          "link": "https://n.news.naver.com/article/009/0005762495?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "젠슨 황 또 터졌다, 이번엔 '사내 불륜'…엔비디아 퇴출 위기",
+          "link": "https://n.news.naver.com/article/437/0000520334?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "\"84년생이라더니?\"…'젠슨 황 연인' 앨리스 황, 1993년 입학 기록 나왔다",
+          "link": "https://n.news.naver.com/article/277/0005841342?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "[속보] \"엔비디아, 젠슨 황 해임 준비 중\"",
+          "link": "https://n.news.naver.com/article/277/0005841460?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "앨리스 황 뿐 아니었다…NYT \"젠슨 황, 엔비디아 임원과도 불륜\"",
+          "link": "https://n.news.naver.com/article/018/0006408570?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "“젠슨 황 추가 폭로 나왔다”…이번엔 여성 임원과 불륜, 호텔서 애정행각",
+        "젠슨 황 또 터졌다, 이번엔 '사내 불륜'…엔비디아 퇴출 위기",
+        "\"84년생이라더니?\"…'젠슨 황 연인' 앨리스 황, 1993년 입학 기록 나왔다",
+        "[속보] \"엔비디아, 젠슨 황 해임 준비 중\"",
+        "앨리스 황 뿐 아니었다…NYT \"젠슨 황, 엔비디아 임원과도 불륜\""
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 2,
+      "keyword": "엔비디아",
+      "count": 57,
+      "representative_title": "WSJ \"엔비디아 이사회, 젠슨황 해임 준비\"",
+      "representative_link": "https://n.news.naver.com/article/448/0000650519?ntype=RANKING",
+      "press": "TV조선",
+      "related_articles": [
+        {
+          "title": "불륜에 부하 여성과 혼외관계 의혹…엔비디아 이사회, 젠슨황 해임 준비",
+          "link": "https://n.news.naver.com/article/009/0005762491?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "[속보] 엔비디아 이사회, 젠슨황 CEO 해임 추진",
+          "link": "https://n.news.naver.com/article/018/0006408550?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "[속보] “엔비디아 이사회 젠슨황 해임 준비, 이르면 오늘 회의…여성임원과도 불륜”",
+          "link": "https://n.news.naver.com/article/016/0002722348?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "WSJ \"엔비디아 이사회, 젠슨황 해임 추진…이르면 오늘 회의\"",
+          "link": "https://n.news.naver.com/article/374/0000543169?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "[속보]“엔비디아 이사회, 젠슨황 해임 준비…이르면 오늘 회의”",
+          "link": "https://n.news.naver.com/article/021/0002832209?ntype=RANKING",
+          "press": "문화일보"
+        }
+      ],
+      "related_titles": [
+        "불륜에 부하 여성과 혼외관계 의혹…엔비디아 이사회, 젠슨황 해임 준비",
+        "[속보] 엔비디아 이사회, 젠슨황 CEO 해임 추진",
+        "[속보] “엔비디아 이사회 젠슨황 해임 준비, 이르면 오늘 회의…여성임원과도 불륜”",
+        "WSJ \"엔비디아 이사회, 젠슨황 해임 추진…이르면 오늘 회의\"",
+        "[속보]“엔비디아 이사회, 젠슨황 해임 준비…이르면 오늘 회의”"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 3,
+      "keyword": "해임",
+      "count": 43,
+      "representative_title": "직장 화장실에 몰카 설치해 불법 촬영 시도한 우체국 사무장…2심도 “해임 정당”",
+      "representative_link": "https://n.news.naver.com/article/658/0000161053?ntype=RANKING",
+      "press": "국제신문",
+      "related_articles": [
+        {
+          "title": "직장 화장실에 몰카 설치해 불법 촬영 시도한 우체국 사무장…2심도 “해임 정당”",
+          "link": "https://n.news.naver.com/article/658/0000161053?ntype=RANKING",
+          "press": "국제신문"
+        }
+      ],
+      "related_titles": [
+        "직장 화장실에 몰카 설치해 불법 촬영 시도한 우체국 사무장…2심도 “해임 정당”"
+      ],
+      "category": "노동/파업"
+    },
+    {
+      "rank": 4,
+      "keyword": "이사회",
+      "count": 31,
+      "representative_title": "4대 그룹 이사회 ‘여성 의장’ 늘어난다… LG·SK 최다, 현대차 꼴지",
+      "representative_link": "https://n.news.naver.com/article/310/0000141640?ntype=RANKING",
+      "press": "여성신문",
+      "related_articles": [
+        {
+          "title": "4대 그룹 이사회 ‘여성 의장’ 늘어난다… LG·SK 최다, 현대차 꼴지",
+          "link": "https://n.news.naver.com/article/310/0000141640?ntype=RANKING",
+          "press": "여성신문"
+        }
+      ],
+      "related_titles": [
+        "4대 그룹 이사회 ‘여성 의장’ 늘어난다… LG·SK 최다, 현대차 꼴지"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "불륜",
+      "count": 29,
+      "representative_title": "“남자들 영혼 뺏는 달콤한 미소”…‘젠슨황 불륜’ 그녀의 과거사",
+      "representative_link": "https://n.news.naver.com/article/029/0003058636?ntype=RANKING",
+      "press": "디지털타임스",
+      "related_articles": [
+        {
+          "title": "‘나락가는 젠슨황?’ 이번엔 사내 불륜 의혹…NYT, 유부녀 임원과 호텔서 애정행각 포착 보도",
+          "link": "https://n.news.naver.com/article/021/0002832216?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "“남자들 영혼 뺏는 달콤한 미소”…‘젠슨황 불륜’ 그녀의 과거사",
+          "link": "https://n.news.naver.com/article/029/0003058636?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "\"젠슨황, 직속 부사장과도 불륜&#8943;경호팀, 목격자에 비밀유지 서명 요구\"",
+          "link": "https://n.news.naver.com/article/031/0001074323?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "‘AI 황제’의 추락… 중국 스파이 의혹 여성과 불륜 파문 일파만파",
+          "link": "https://n.news.naver.com/article/037/0000039138?ntype=RANKING",
+          "press": "주간동아"
+        }
+      ],
+      "related_titles": [
+        "‘나락가는 젠슨황?’ 이번엔 사내 불륜 의혹…NYT, 유부녀 임원과 호텔서 애정행각 포착 보도",
+        "“남자들 영혼 뺏는 달콤한 미소”…‘젠슨황 불륜’ 그녀의 과거사",
+        "\"젠슨황, 직속 부사장과도 불륜&#8943;경호팀, 목격자에 비밀유지 서명 요구\"",
+        "‘AI 황제’의 추락… 중국 스파이 의혹 여성과 불륜 파문 일파만파"
+      ],
+      "category": "산업/테크"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "엔비디아",
+      "count": 57,
+      "representative_title": "[속보] \"엔비디아, 젠슨 황 해임 준비 중\"",
+      "representative_link": "https://n.news.naver.com/article/277/0005841460?ntype=RANKING",
+      "press": "아시아경제",
+      "related_articles": [
+        {
+          "title": "'젠슨 황 불륜' 추가 폭로…NYT \"엔비디아 임원과 혼외관계\"",
+          "link": "https://n.news.naver.com/article/055/0001402418?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "WSJ \"엔비디아 이사회, 젠슨 황 해임 준비…이르면 오늘 회의\"",
+          "link": "https://n.news.naver.com/article/055/0001402419?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "젠슨 황 불륜의 끝은 어디?... “엔비디아 이사회서 해임 준비”",
+          "link": "https://n.news.naver.com/article/023/0004009188?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "\"젠슨황, 엔비디아 女임원과도 혼외관계\"...사내불륜 의혹 터지자, '해임' 급선회",
+          "link": "https://n.news.naver.com/article/014/0005603085?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "[속보] \"엔비디아, 젠슨 황 해임 준비 중\"",
+          "link": "https://n.news.naver.com/article/277/0005841460?ntype=RANKING",
+          "press": "아시아경제"
+        }
+      ],
+      "related_titles": [
+        "'젠슨 황 불륜' 추가 폭로…NYT \"엔비디아 임원과 혼외관계\"",
+        "WSJ \"엔비디아 이사회, 젠슨 황 해임 준비…이르면 오늘 회의\"",
+        "젠슨 황 불륜의 끝은 어디?... “엔비디아 이사회서 해임 준비”",
+        "\"젠슨황, 엔비디아 女임원과도 혼외관계\"...사내불륜 의혹 터지자, '해임' 급선회",
+        "[속보] \"엔비디아, 젠슨 황 해임 준비 중\""
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "젠슨",
+      "count": 40,
+      "representative_title": "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인",
+      "representative_link": "https://n.news.naver.com/article/665/0000008544?ntype=RANKING",
+      "press": "더스쿠프",
+      "related_articles": [
+        {
+          "title": "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인",
+          "link": "https://n.news.naver.com/article/665/0000008544?ntype=RANKING",
+          "press": "더스쿠프"
+        },
+        {
+          "title": "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인",
+          "link": "https://n.news.naver.com/article/665/0000008544?ntype=RANKING",
+          "press": "더스쿠프"
+        },
+        {
+          "title": "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인",
+          "link": "https://n.news.naver.com/article/665/0000008544?ntype=RANKING",
+          "press": "더스쿠프"
+        }
+      ],
+      "related_titles": [
+        "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인",
+        "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인",
+        "젠슨 황 이혼하면 100조원?…아내는 이미 주식 공동 관리인"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "추진",
+      "count": 4,
+      "representative_title": "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진",
+      "representative_link": "https://n.news.naver.com/article/016/0002722357?ntype=RANKING",
+      "press": "헤럴드경제",
+      "related_articles": [
+        {
+          "title": "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진",
+          "link": "https://n.news.naver.com/article/016/0002722357?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진",
+          "link": "https://n.news.naver.com/article/016/0002722357?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진",
+          "link": "https://n.news.naver.com/article/016/0002722357?ntype=RANKING",
+          "press": "헤럴드경제"
+        }
+      ],
+      "related_titles": [
+        "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진",
+        "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진",
+        "[속보] 네이버, 3분기 영업익 4513억원·전년比 20.9%↓…매출은 역대 최대, 물류 자회사 설립 추진"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "반등",
+      "count": 4,
+      "representative_title": "나흘째 달린 ‘삼전닉스’…돌아온 외국인, 추세 반등 이끌까",
+      "representative_link": "https://n.news.naver.com/article/029/0003058648?ntype=RANKING",
+      "press": "디지털타임스",
+      "related_articles": [
+        {
+          "title": "나흘째 달린 ‘삼전닉스’…돌아온 외국인, 추세 반등 이끌까",
+          "link": "https://n.news.naver.com/article/029/0003058648?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "증시 바닥인 줄…“남은 건 반등” 지하 못 본 개미들 '빚투' 자극한 결과",
+          "link": "https://n.news.naver.com/article/030/0003484739?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "뉴욕증시, '코어위브 폭등'에 일제히 상승...엔비디아도 반등",
+          "link": "https://n.news.naver.com/article/123/0002393871?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "나흘째 달린 ‘삼전닉스’…돌아온 외국인, 추세 반등 이끌까",
+          "link": "https://n.news.naver.com/article/029/0003058648?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "증시 바닥인 줄…“남은 건 반등” 지하 못 본 개미들 '빚투' 자극한 결과",
+          "link": "https://n.news.naver.com/article/030/0003484739?ntype=RANKING",
+          "press": "전자신문"
+        }
+      ],
+      "related_titles": [
+        "나흘째 달린 ‘삼전닉스’…돌아온 외국인, 추세 반등 이끌까",
+        "증시 바닥인 줄…“남은 건 반등” 지하 못 본 개미들 '빚투' 자극한 결과",
+        "뉴욕증시, '코어위브 폭등'에 일제히 상승...엔비디아도 반등",
+        "나흘째 달린 ‘삼전닉스’…돌아온 외국인, 추세 반등 이끌까",
+        "증시 바닥인 줄…“남은 건 반등” 지하 못 본 개미들 '빚투' 자극한 결과"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "급등",
+      "count": 3,
+      "representative_title": "결국 \"빅스텝\"까지 거론됐다…금리 급등 신호탄일까",
+      "representative_link": "https://n.news.naver.com/article/665/0000008546?ntype=RANKING",
+      "press": "더스쿠프",
+      "related_articles": [
+        {
+          "title": "SK하이닉스 ADR 9.71% 급등… 뉴욕증시 일제 상승 마감",
+          "link": "https://n.news.naver.com/article/005/0001884664?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "美 AI반도체주 급등…코어위브 '깜짝 실적'이 견인",
+          "link": "https://n.news.naver.com/article/082/0001406786?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "결국 \"빅스텝\"까지 거론됐다…금리 급등 신호탄일까",
+          "link": "https://n.news.naver.com/article/665/0000008546?ntype=RANKING",
+          "press": "더스쿠프"
+        },
+        {
+          "title": "SK하이닉스 ADR 9.71% 급등… 뉴욕증시 일제 상승 마감",
+          "link": "https://n.news.naver.com/article/005/0001884664?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "美 AI반도체주 급등…코어위브 '깜짝 실적'이 견인",
+          "link": "https://n.news.naver.com/article/082/0001406786?ntype=RANKING",
+          "press": "부산일보"
+        }
+      ],
+      "related_titles": [
+        "SK하이닉스 ADR 9.71% 급등… 뉴욕증시 일제 상승 마감",
+        "美 AI반도체주 급등…코어위브 '깜짝 실적'이 견인",
+        "결국 \"빅스텝\"까지 거론됐다…금리 급등 신호탄일까",
+        "SK하이닉스 ADR 9.71% 급등… 뉴욕증시 일제 상승 마감",
+        "美 AI반도체주 급등…코어위브 '깜짝 실적'이 견인"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "충격적인",
+      "series_title": "충격적인의 몰락",
+      "count": 2,
+      "representative_title": "[A-포커스] '90승' KT의 충격적인 몰락… 5회 실책 2개에 우승 꿈 무너졌다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15dHMwU1lhaDV5akJrQXd0VTkzcjRtWjVON2d0cTVibVc0NDYweU81dXpyX21ORVlVTGw0QXRIcFo3dTNPZWhWODB0eExJRVppQlJaQkttRDh5VWQ5QkJXWll4ZGpMc2Jm?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[A-포커스] '90승' KT의 충격적인 몰락… 5회 실책 2개에 우승 꿈 무너졌다",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15dHMwU1lhaDV5akJrQXd0VTkzcjRtWjVON2d0cTVibVc0NDYweU81dXpyX21ORVlVTGw0QXRIcFo3dTNPZWhWODB0eExJRVppQlJaQkttRDh5VWQ5QkJXWll4ZGpMc2Jm?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"122년 동안 없었던 일이 벌어졌다\" 맨시티의 충격적인 몰락…개막 7연승→3연패, 마레스카의 꿈이 악몽으로",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NSzR5OHQwelQxd3JSandXTTZ2Z3VGZUFWdmN5eDlMOFhuTTlKX3B0MTF4aUZveHViUjhXR1h5N0FYNWU3WXRZTkMwSFQ4bGw3SW1FQ1B3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[A-포커스] '90승' KT의 충격적인 몰락… 5회 실책 2개에 우승 꿈 무너졌다",
+        "\"122년 동안 없었던 일이 벌어졌다\" 맨시티의 충격적인 몰락…개막 7연승→3연패, 마레스카의 꿈이 악몽으로"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "유럽",
+      "series_title": "유럽의 몰락",
+      "count": 1,
+      "representative_title": "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”",
+      "representative_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2pKdXJXTi1ZRm8xekk1QUxiTmRDSGVEWmwtd0JIclotVHdFMjFiYmJhMDE2dHNpbkh5aTlpdldHUG1oR29RRWdsVnNWX2lvVzMxZEJudW5XUUdKNmJ5RmRndTlmRmF3eHlXNnF6dlBKLW52b1NtZUxLUFAzUXBzaDFrUEtfSDVXX3pqWA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd2pKdXJXTi1ZRm8xekk1QUxiTmRDSGVEWmwtd0JIclotVHdFMjFiYmJhMDE2dHNpbkh5aTlpdldHUG1oR29RRWdsVnNWX2lvVzMxZEJudW5XUUdKNmJ5RmRndTlmRmF3eHlXNnF6dlBKLW52b1NtZUxLUFAzUXBzaDFrUEtfSDVXX3pqWA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[에디터의 Q] “유럽의 몰락은 중국에 공장 보내고, ‘개념 설계’ 역량 상실한 탓”"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "황제",
+      "series_title": "황제의 몰락",
+      "count": 1,
+      "representative_title": "\"AI 황제의 몰락\"…젠슨 황, 스파이 스캔들·사내 불륜에 축출 위기",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05enlGejQzQkdMZlhVa0hIZk5WWTRYWktidGdkZXU4d1lCR2g1OWs2dGJ6blZYWEdESWFZclRQUzk3REhrd0ZqNFJXZUhpTWZaeVdlZ1NZMTdLbmI5M21OV2dn?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"AI 황제의 몰락\"…젠슨 황, 스파이 스캔들·사내 불륜에 축출 위기",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05enlGejQzQkdMZlhVa0hIZk5WWTRYWktidGdkZXU4d1lCR2g1OWs2dGJ6blZYWEdESWFZclRQUzk3REhrd0ZqNFJXZUhpTWZaeVdlZ1NZMTdLbmI5M21OV2dn?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"AI 황제의 몰락\"…젠슨 황, 스파이 스캔들·사내 불륜에 축출 위기"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "전기차",
+      "series_title": "전기차의 몰락",
+      "count": 1,
+      "representative_title": "“이러다 국산 전기차 몰락한다”…올해가 시장붕괴 막을 마지막 ‘골든타임’",
+      "representative_link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqLTF6WXpMbk1Xek5ZQWlGQ29iUFp2bUxWZlpScDlFWXNGRW92STduY3BBVGIySHBZWklrS3kwTVNvaGEzbW1mYk1GT3NYTENa?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“이러다 국산 전기차 몰락한다”…올해가 시장붕괴 막을 마지막 ‘골든타임’",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqLTF6WXpMbk1Xek5ZQWlGQ29iUFp2bUxWZlpScDlFWXNGRW92STduY3BBVGIySHBZWklrS3kwTVNvaGEzbW1mYk1GT3NYTENa?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“이러다 국산 전기차 몰락한다”…올해가 시장붕괴 막을 마지막 ‘골든타임’"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "필수의료",
+      "series_title": "필수의료의 몰락",
+      "count": 1,
+      "representative_title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\"",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLU9iTFNHWFREb2owZ05hZGRYZmtpR24yYmZ1OF93cjVfN3JFU0k5NURrakNCZmNlcUJyTVFFXzJOQkxSY2ZLak1rOWtWWFBCdHVqWTdORQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "황규석 회장 \"정부 정책 실패로 필수의료 몰락했는데…대책은 왜 의료 자율성 축소·책임 확대?\""
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 10,
+      "representative_title": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+      "representative_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdUVmNFFGVWRMTmJna2gtS0QwTkxfc2o5YnhJeFYwUDRENUNLeTNLb1BYUUhVVFZJWkczOW5CSmstdWNVeERNSXRrWThUa0F4cm1nTGlVS1JHcE3SAWBBVV95cUxOcUxXMGY5alVCRHgyUHMzTXZvX01CemhBQWJUSXJFSlh0RkFLdDVIU3hzeDZ6NXp4T3NkTGJJRmtXSVJsUDVxYlNCRXpMTTVEaHhJRFQ2QVhnSml4RDlmbGc?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdUVmNFFGVWRMTmJna2gtS0QwTkxfc2o5YnhJeFYwUDRENUNLeTNLb1BYUUhVVFZJWkczOW5CSmstdWNVeERNSXRrWThUa0F4cm1nTGlVS1JHcE3SAWBBVV95cUxOcUxXMGY5alVCRHgyUHMzTXZvX01CemhBQWJUSXJFSlh0RkFLdDVIU3hzeDZ6NXp4T3NkTGJJRmtXSVJsUDVxYlNCRXpMTTVEaHhJRFQ2QVhnSml4RDlmbGc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 아파트 매물 8만건 쌓였다…강남권 매도 우위 속 집값은 엇갈려",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54eVF3N2xBbHA4a0hCbU1uVG1La1c4dkNIQlhSeUlqTkU2c21CY2otRnl1d3B4OWRfTmNnVUlyT0ZmcEJKYmEzZUF2cDhCRW13azAycmVSVnAxY0U?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[이슈체크] 집값 안정 신호일까...서울 아파트 매물 석 달 새 33% 증가",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hYlE4eDMtRUljU2JJYXJDYWhsSm1nUHVvMlNwX3FTcUtlU1RubjYxY09Qa3ZId09ka0VOZGdzaTBsSkI1eldVSkNiZnhmbEZLRzVVbnoxWHVMVzJRTGJmMkpISQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"이렇게 오래 오른 적 없었다\"…서울 집값 심상찮은 기록 [시장톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BNkxTdTZESmcxa2pXTVZXMEtUdExGX3JtcjRubDhvQzh1WHlob1FZR29ha3JzVlBCUFlMTzlQY0tfdVRrUWZJNzZPUGxtYmlzUTU3N3ZzZTcxdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[경제진단] 서울 아파트 매물 33% 늘었는데 집값은 상승…부동산 시장에 나타난 '정책과 가격의 괴리'",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzeTgyU1pCYllaZmZCbWhRellSRkhFbDRpdDJtUVpQTUlmYVpyZ0plVUZobklvejNFMnFqWEFNdnExb1NZN0JWeGdFVGV5aW9ubmxhQkp3TWFwWG1SNkgzYlRzd08?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+        "서울 아파트 매물 8만건 쌓였다…강남권 매도 우위 속 집값은 엇갈려",
+        "[이슈체크] 집값 안정 신호일까...서울 아파트 매물 석 달 새 33% 증가",
+        "\"이렇게 오래 오른 적 없었다\"…서울 집값 심상찮은 기록 [시장톡]",
+        "[경제진단] 서울 아파트 매물 33% 늘었는데 집값은 상승…부동산 시장에 나타난 '정책과 가격의 괴리'"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 5,
+      "representative_title": "강남3구 집값 흔들…중소형까지 하락 거래 확산",
+      "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wemFiY1NabEpyUGpia2Y4OEQ5ZHBlbUctZm1lUk5uM2pyNXVLU245c2ljMVNrdnhQNzlSY3EyTzZoSzBYcFpQd2Z4V0JGMEVUVmlsMlRBdXVVd0ZJMHg4b0hhTEhTM3gxZm1Qbg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[기대위 부동산칼럼] 강남 집값, 정부는 1.38% 하락 민간은 상승 엇갈린 통계에 시장 혼란",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YOVlpczJ2QXU2ZThERjR6SDIzTnN2cTRJM2p3NkxsNWZUZEREWG9lZ1FaakxWUXlTbVZ5d1pEX1ZwNlp6MVg1MFU3MzE5Vmc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남3구 집값 흔들…중소형까지 하락 거래 확산",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wemFiY1NabEpyUGpia2Y4OEQ5ZHBlbUctZm1lUk5uM2pyNXVLU245c2ljMVNrdnhQNzlSY3EyTzZoSzBYcFpQd2Z4V0JGMEVUVmlsMlRBdXVVd0ZJMHg4b0hhTEhTM3gxZm1Qbg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값은 ‘뚝’ 떨어지는데 수도권은 올랐다…부동산 시장에 무슨 일? (‘100분 토론’)",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GQ1FQeGU3ZzI4Ti1NV2FWaUlodDA2M1ZsblVtWko2SW1ETjFhdU1DSW1la0VIbWpmVGpQR2loYVdTa3ZfYVljbGhiUjhBbWpHckVwRUxsT1ZiV25Vb1HSAWNBVV95cUxOd1RvUm5qcVpjRThmYjVCaVZZcHFyb2lneDB5SDRsZzFEMjM0Q2x6eVhLdzJLTXZLcG5FbTJJRkhnZUdHTlR2REJLaEFlLVIwd0lkYlpWN0hpbGFlODZhLXJ4RGc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[기대위 부동산칼럼] 강남 집값, 정부는 1.38% 하락 민간은 상승 엇갈린 통계에 시장 혼란",
+        "강남3구 집값 흔들…중소형까지 하락 거래 확산",
+        "강남 집값은 ‘뚝’ 떨어지는데 수도권은 올랐다…부동산 시장에 무슨 일? (‘100분 토론’)"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "강남권",
+      "count": 2,
+      "representative_title": "[부동산 먼데이 시그널] 강남권 집값 지표 엇갈려...주택 공급 속도 높이고 기업은 자산 재편",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81eVJjWkF5YzlvZXNtb21QVHVEUkllU2x2ai1FSERkQW1OamRUc2xzbFgyLW81UTZZUkFBaWFrYUxacnZCUUtJdkJmaFFnMzdzVjI0ZmdFLXU3U0lFUjl1dnN4bF9JUmthZkE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[부동산 먼데이 시그널] 강남권 집값 지표 엇갈려...주택 공급 속도 높이고 기업은 자산 재편",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81eVJjWkF5YzlvZXNtb21QVHVEUkllU2x2ai1FSERkQW1OamRUc2xzbFgyLW81UTZZUkFBaWFrYUxacnZCUUtJdkJmaFFnMzdzVjI0ZmdFLXU3U0lFUjl1dnN4bF9JUmthZkE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[부동산 먼데이 시그널] 강남권 집값 지표 엇갈려...주택 공급 속도 높이고 기업은 자산 재편"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 4,
+      "keyword": "경기",
+      "count": 2,
+      "representative_title": "[경기 부동산 핫플②] 광명, 집값 다시 뛰는데 10만가구 공급도 눈앞",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MOXBUUk01ZE4wZXFWYzgzSEw2NElVZi0xakpuQ0g1a2hfMm5fY1lJdFhkb3pncHJrdkd2OEdqdC1YNm50dmJMVWVsd2dKQVpRUUQwb0NYWFA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[경기 부동산 핫플②] 광명, 집값 다시 뛰는데 10만가구 공급도 눈앞",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MOXBUUk01ZE4wZXFWYzgzSEw2NElVZi0xakpuQ0g1a2hfMm5fY1lJdFhkb3pncHJrdkd2OEdqdC1YNm50dmJMVWVsd2dKQVpRUUQwb0NYWFA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[경기 부동산 핫플②] 광명, 집값 다시 뛰는데 10만가구 공급도 눈앞"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
