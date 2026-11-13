@@ -1,57 +1,57 @@
 {
   "date": "2026-11-13",
-  "hour": "13",
-  "slot": "2026-11-13_13",
-  "crawled_at": "2026-11-13 13:00:03",
-  "total_articles": 407,
+  "hour": "16",
+  "slot": "2026-11-13_16",
+  "crawled_at": "2026-11-13 16:00:01",
+  "total_articles": 409,
   "topics": [
     {
       "rank": 1,
       "keyword": "젠슨",
-      "count": 62,
-      "representative_title": "머스크, 젠슨 황 영입 의사 내비쳐",
-      "representative_link": "https://n.news.naver.com/article/214/0001535340?ntype=RANKING",
-      "press": "MBC",
+      "count": 56,
+      "representative_title": "젠슨 황 퇴진…AI 붐에는 어떤 후폭풍?",
+      "representative_link": "https://n.news.naver.com/article/092/0002445185?ntype=RANKING",
+      "press": "지디넷코리아",
       "related_articles": [
+        {
+          "title": "젠슨 황 퇴진직전 엔비디아 내 여론은…재직자 74% \"사퇴 반대\"",
+          "link": "https://n.news.naver.com/article/001/0016439881?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "젠슨 황이 부러웠나…텔레그램 창업자 \"내게도 여성 스파이를\"",
+          "link": "https://n.news.naver.com/article/437/0000520580?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "눈물 흘리는 직원들·본사 앞 꽃다발…'젠슨 황 없는 엔비디아'에 트럼프 “끔찍한 일”",
+          "link": "https://n.news.naver.com/article/437/0000520576?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "젠슨 황 “난 쓰레기 같은 놈” 무너져…“그녀들이 걱정”",
+          "link": "https://n.news.naver.com/article/020/0003762307?ntype=RANKING",
+          "press": "동아일보"
+        },
         {
           "title": "\"난 쓰레기…아내가 걱정\" 젠슨 황 사임 직전 무슨 일이",
           "link": "https://n.news.naver.com/article/018/0006409388?ntype=RANKING",
           "press": "이데일리"
-        },
-        {
-          "title": "\"20대 때는 민낯, 수수한 옷차림\"…젠슨 황 불륜女, 과거 파묘돼",
-          "link": "https://n.news.naver.com/article/018/0006409384?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "머스크, 젠슨 황 영입 의사 내비쳐",
-          "link": "https://n.news.naver.com/article/214/0001535340?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "\"제발 고용해줘\"…해임 위기 '젠슨 황' 영입 요청에 머스크 \"영광일 것\"",
-          "link": "https://n.news.naver.com/article/277/0005841836?ntype=RANKING",
-          "press": "아시아경제"
-        },
-        {
-          "title": "젠슨 황, 사임 당일 세 번째 불륜 의혹… “또 다른 엔비디아 직원”",
-          "link": "https://n.news.naver.com/article/023/0004009401?ntype=RANKING",
-          "press": "조선일보"
         }
       ],
       "related_titles": [
-        "\"난 쓰레기…아내가 걱정\" 젠슨 황 사임 직전 무슨 일이",
-        "\"20대 때는 민낯, 수수한 옷차림\"…젠슨 황 불륜女, 과거 파묘돼",
-        "머스크, 젠슨 황 영입 의사 내비쳐",
-        "\"제발 고용해줘\"…해임 위기 '젠슨 황' 영입 요청에 머스크 \"영광일 것\"",
-        "젠슨 황, 사임 당일 세 번째 불륜 의혹… “또 다른 엔비디아 직원”"
+        "젠슨 황 퇴진직전 엔비디아 내 여론은…재직자 74% \"사퇴 반대\"",
+        "젠슨 황이 부러웠나…텔레그램 창업자 \"내게도 여성 스파이를\"",
+        "눈물 흘리는 직원들·본사 앞 꽃다발…'젠슨 황 없는 엔비디아'에 트럼프 “끔찍한 일”",
+        "젠슨 황 “난 쓰레기 같은 놈” 무너져…“그녀들이 걱정”",
+        "\"난 쓰레기…아내가 걱정\" 젠슨 황 사임 직전 무슨 일이"
       ],
-      "category": "건강/의료"
+      "category": "사회/일반"
     },
     {
       "rank": 2,
       "keyword": "엔비디아",
-      "count": 39,
+      "count": 26,
       "representative_title": "\"바겐세일 중\"...엔비디아 '폭풍 매수'",
       "representative_link": "https://n.news.naver.com/article/050/0000113190?ntype=RANKING",
       "press": "한경비즈니스",
@@ -62,47 +62,105 @@
           "press": "파이낸셜뉴스"
         },
         {
-          "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아",
-          "link": "https://n.news.naver.com/article/009/0005763172?ntype=RANKING",
-          "press": "매일경제"
+          "title": "엔비디아 리스크에 현대차도 긴장…'자율주행 투트랙' 시험대",
+          "link": "https://n.news.naver.com/article/648/0000052595?ntype=RANKING",
+          "press": "비즈워치"
         },
         {
-          "title": "젠슨황 엔비디아 CEO 퇴진…불륜 파문에 33년만에 쫓겨나(종합2보)",
-          "link": "https://n.news.naver.com/article/001/0016439550?ntype=RANKING",
-          "press": "연합뉴스"
+          "title": "\"바겐세일 중\"...엔비디아 '폭풍 매수'",
+          "link": "https://n.news.naver.com/article/050/0000113190?ntype=RANKING",
+          "press": "한경비즈니스"
         },
         {
-          "title": "\"우상이 떠났다\" 눈물 흘린 직원들…엔비디아 '초상집' 됐다",
-          "link": "https://n.news.naver.com/article/015/0005353440?ntype=RANKING",
-          "press": "한국경제"
+          "title": "‘불륜 스캔들’ 엔비디아 젠슨황 사퇴…국내 영향은? [뉴스in뉴스]",
+          "link": "https://n.news.naver.com/article/056/0012293359?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "엔비디아 임시 CEO에 CFO 크레스…트럼프 \"애플 팀 쿡 추천\"",
-          "link": "https://n.news.naver.com/article/057/0001977982?ntype=RANKING",
+          "title": "\"앨리스황 관련 기업들, '엔비디아 칩' 걸고 딥시크에 비밀 투자\"",
+          "link": "https://n.news.naver.com/article/057/0001978072?ntype=RANKING",
           "press": "MBN"
         }
       ],
       "related_titles": [
         "\"13% 폭락하자 30분만에 1400억 줍줍\"... 젠슨황 떠난 엔비디아, 美개미 '역대급 베팅'",
-        "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아",
-        "젠슨황 엔비디아 CEO 퇴진…불륜 파문에 33년만에 쫓겨나(종합2보)",
-        "\"우상이 떠났다\" 눈물 흘린 직원들…엔비디아 '초상집' 됐다",
-        "엔비디아 임시 CEO에 CFO 크레스…트럼프 \"애플 팀 쿡 추천\""
+        "엔비디아 리스크에 현대차도 긴장…'자율주행 투트랙' 시험대",
+        "\"바겐세일 중\"...엔비디아 '폭풍 매수'",
+        "‘불륜 스캔들’ 엔비디아 젠슨황 사퇴…국내 영향은? [뉴스in뉴스]",
+        "\"앨리스황 관련 기업들, '엔비디아 칩' 걸고 딥시크에 비밀 투자\""
       ],
-      "category": "사회/일반"
+      "category": "경제/투자"
     },
     {
       "rank": 3,
-      "keyword": "불륜",
-      "count": 27,
-      "representative_title": "젠슨황, 세 번째 불륜 의혹…“또다른 여직원과도 내연관계”",
-      "representative_link": "https://n.news.naver.com/article/005/0001884920?ntype=RANKING",
-      "press": "국민일보",
+      "keyword": "안경",
+      "count": 25,
+      "representative_title": "“안경 하나에 70만원”…삼성 AI 안경 승부수",
+      "representative_link": "https://n.news.naver.com/article/050/0000113197?ntype=RANKING",
+      "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "“남자들 영혼 뺏는 달콤한 미소”…‘젠슨황 불륜’ 그녀의 과거사",
-          "link": "https://n.news.naver.com/article/029/0003058636?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "\"안경 써본 적도 없어\" 세무사 차석 합격자, 즉석 풀이 공개",
+          "link": "https://n.news.naver.com/article/018/0006409458?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "“안경 안써” 세무사 차석 즉석문제풀이 영상 공개",
+          "link": "https://n.news.naver.com/article/021/0002832661?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "한동훈 “이 안경, AI안경 같습니까?”…교육부장관에 돌발 질문, 왜?",
+          "link": "https://n.news.naver.com/article/021/0002832558?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "한동훈 “이 안경, AI안경 같습니까?”…교육부장관에 돌발 질문, 왜?",
+          "link": "https://n.news.naver.com/article/021/0002832558?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "\"응시자 74% 과락인데 혼자 만점\"‥'AI 안경' 의혹",
+          "link": "https://n.news.naver.com/article/214/0001535410?ntype=RANKING",
+          "press": "MBC"
+        }
+      ],
+      "related_titles": [
+        "\"안경 써본 적도 없어\" 세무사 차석 합격자, 즉석 풀이 공개",
+        "“안경 안써” 세무사 차석 즉석문제풀이 영상 공개",
+        "한동훈 “이 안경, AI안경 같습니까?”…교육부장관에 돌발 질문, 왜?",
+        "한동훈 “이 안경, AI안경 같습니까?”…교육부장관에 돌발 질문, 왜?",
+        "\"응시자 74% 과락인데 혼자 만점\"‥'AI 안경' 의혹"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 4,
+      "keyword": "의혹",
+      "count": 23,
+      "representative_title": "경찰, 이혜훈 부정청약 의혹 송치…반포 원펜타스 몰수 신청",
+      "representative_link": "https://n.news.naver.com/article/001/0016440505?ntype=RANKING",
+      "press": "연합뉴스",
+      "related_articles": [
+        {
+          "title": "[단독] 내 딸엔 ‘100점’, 경쟁자엔 ‘호통’…사퇴요구엔 “각오해라”… 한우자조금 위원장의 ‘딸’ 부정채용 의혹",
+          "link": "https://n.news.naver.com/article/081/0003699148?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "경찰, 이혜훈 부정청약 의혹 송치…반포 원펜타스 몰수 신청",
+          "link": "https://n.news.naver.com/article/001/0016440505?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "이혜훈, ‘40억 로또’ 반포 아파트 몰수되나…부정청약 의혹 송치",
+          "link": "https://n.news.naver.com/article/020/0003762310?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "[속보] 경찰, '아파트 부정청약 의혹' 이혜훈 사기 혐의 송치",
+          "link": "https://n.news.naver.com/article/052/0002432358?ntype=RANKING",
+          "press": "YTN"
         },
         {
           "title": "젠슨황, 세 번째 불륜 의혹…“또다른 여직원과도 내연관계”",
@@ -111,107 +169,64 @@
         }
       ],
       "related_titles": [
-        "“남자들 영혼 뺏는 달콤한 미소”…‘젠슨황 불륜’ 그녀의 과거사",
+        "[단독] 내 딸엔 ‘100점’, 경쟁자엔 ‘호통’…사퇴요구엔 “각오해라”… 한우자조금 위원장의 ‘딸’ 부정채용 의혹",
+        "경찰, 이혜훈 부정청약 의혹 송치…반포 원펜타스 몰수 신청",
+        "이혜훈, ‘40억 로또’ 반포 아파트 몰수되나…부정청약 의혹 송치",
+        "[속보] 경찰, '아파트 부정청약 의혹' 이혜훈 사기 혐의 송치",
         "젠슨황, 세 번째 불륜 의혹…“또다른 여직원과도 내연관계”"
       ],
-      "category": "사회/일반"
-    },
-    {
-      "rank": 4,
-      "keyword": "의혹",
-      "count": 26,
-      "representative_title": "세무사시험 수석 'AI 안경 의혹' 일파만파… 왜?",
-      "representative_link": "https://n.news.naver.com/article/660/0000121221?ntype=RANKING",
-      "press": "kbc광주방송",
-      "related_articles": [
-        {
-          "title": "정부, ‘AI 안경’ 우려에 “부정행위 무관용…세무사 시험 등 의혹 제기 사례 수사의뢰”",
-          "link": "https://n.news.naver.com/article/056/0012293228?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "앨리스 황, 美 제재 화웨이와도 연결‥반도체 우회 공급 의혹",
-          "link": "https://n.news.naver.com/article/214/0001535380?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
-          "link": "https://n.news.naver.com/article/032/0003482485?ntype=RANKING",
-          "press": "경향신문"
-        },
-        {
-          "title": "'음주 뺑소니 후 술타기' 의혹 배우 이재룡 재판, 오늘 시작",
-          "link": "https://n.news.naver.com/article/003/0014319702?ntype=RANKING",
-          "press": "뉴시스"
-        },
-        {
-          "title": "세무사시험 수석 'AI 안경 의혹' 일파만파… 왜?",
-          "link": "https://n.news.naver.com/article/660/0000121221?ntype=RANKING",
-          "press": "kbc광주방송"
-        }
-      ],
-      "related_titles": [
-        "정부, ‘AI 안경’ 우려에 “부정행위 무관용…세무사 시험 등 의혹 제기 사례 수사의뢰”",
-        "앨리스 황, 美 제재 화웨이와도 연결‥반도체 우회 공급 의혹",
-        "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
-        "'음주 뺑소니 후 술타기' 의혹 배우 이재룡 재판, 오늘 시작",
-        "세무사시험 수석 'AI 안경 의혹' 일파만파… 왜?"
-      ],
-      "category": "산업/테크"
+      "category": "사건/사고"
     },
     {
       "rank": 5,
-      "keyword": "대통령",
-      "count": 25,
-      "representative_title": "부동산에 발목 잡힌 李대통령…국정 지지율 39%",
-      "representative_link": "https://n.news.naver.com/article/005/0001884947?ntype=RANKING",
-      "press": "국민일보",
+      "keyword": "불륜",
+      "count": 20,
+      "representative_title": "“남자들 영혼 뺏는 달콤한 미소”…‘젠슨황 불륜’ 그녀의 과거사",
+      "representative_link": "https://n.news.naver.com/article/029/0003058636?ntype=RANKING",
+      "press": "디지털타임스",
       "related_articles": [
         {
-          "title": "이 대통령 “대한민국 주식 저평가 불합리·비정상…‘자본시장 정상화’ 확고한 정책 방향”",
-          "link": "https://n.news.naver.com/article/056/0012293146?ntype=RANKING",
-          "press": "KBS"
+          "title": "지분은 3.6%, 방패도 없던 ‘황제’… 불륜 스캔들에 무너진 엔비디아식 1인 경영",
+          "link": "https://n.news.naver.com/article/366/0001204592?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "최민희 \"이 대통령, 일관되게 윤석열 탄핵 주장…이게 팩트\"",
-          "link": "https://n.news.naver.com/article/437/0000520548?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "李대통령 지지율 39%…與 39%·국힘 26%로 2주 연속 오차밖[한국갤럽](종합)",
-          "link": "https://n.news.naver.com/article/001/0016440368?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "[속보] 이 대통령 “중수청에 자본시장 불공정 엄정 단속 별도 지시”",
-          "link": "https://n.news.naver.com/article/032/0003482487?ntype=RANKING",
-          "press": "경향신문"
-        },
-        {
-          "title": "이 대통령 지지율 39%, 2%p 하락…한동훈 복당 찬성 29%·반대 40%[한국갤럽]",
-          "link": "https://n.news.naver.com/article/032/0003482496?ntype=RANKING",
-          "press": "경향신문"
+          "title": "“남자들 영혼 뺏는 달콤한 미소”…‘젠슨황 불륜’ 그녀의 과거사",
+          "link": "https://n.news.naver.com/article/029/0003058636?ntype=RANKING",
+          "press": "디지털타임스"
         }
       ],
       "related_titles": [
-        "이 대통령 “대한민국 주식 저평가 불합리·비정상…‘자본시장 정상화’ 확고한 정책 방향”",
-        "최민희 \"이 대통령, 일관되게 윤석열 탄핵 주장…이게 팩트\"",
-        "李대통령 지지율 39%…與 39%·국힘 26%로 2주 연속 오차밖[한국갤럽](종합)",
-        "[속보] 이 대통령 “중수청에 자본시장 불공정 엄정 단속 별도 지시”",
-        "이 대통령 지지율 39%, 2%p 하락…한동훈 복당 찬성 29%·반대 40%[한국갤럽]"
+        "지분은 3.6%, 방패도 없던 ‘황제’… 불륜 스캔들에 무너진 엔비디아식 1인 경영",
+        "“남자들 영혼 뺏는 달콤한 미소”…‘젠슨황 불륜’ 그녀의 과거사"
       ],
-      "category": "경제/투자"
+      "category": "사회/일반"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
       "keyword": "엔비디아",
-      "count": 39,
+      "count": 26,
       "representative_title": "\"바겐세일 중\"...엔비디아 '폭풍 매수'",
       "representative_link": "https://n.news.naver.com/article/050/0000113190?ntype=RANKING",
       "press": "한경비즈니스",
       "related_articles": [
+        {
+          "title": "젠슨 황 퇴진직전 엔비디아 내 여론은…재직자 74% \"사퇴 반대\"",
+          "link": "https://n.news.naver.com/article/001/0016439881?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "눈물 흘리는 직원들·본사 앞 꽃다발…'젠슨 황 없는 엔비디아'에 트럼프 “끔찍한 일”",
+          "link": "https://n.news.naver.com/article/437/0000520576?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "\"양손으로 엔비디아 주식 사들인다\"…젠슨 황 충격, 주가 바닥 쳤나",
+          "link": "https://n.news.naver.com/article/008/0005440727?ntype=RANKING",
+          "press": "머니투데이"
+        },
         {
           "title": "\"13% 폭락하자 30분만에 1400억 줍줍\"... 젠슨황 떠난 엔비디아, 美개미 '역대급 베팅'",
           "link": "https://n.news.naver.com/article/014/0005603889?ntype=RANKING",
@@ -221,201 +236,174 @@
           "title": "젠슨 황, 사임 당일 세 번째 불륜 의혹… “또 다른 엔비디아 직원”",
           "link": "https://n.news.naver.com/article/023/0004009401?ntype=RANKING",
           "press": "조선일보"
-        },
-        {
-          "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아",
-          "link": "https://n.news.naver.com/article/009/0005763172?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "“땡큐 젠슨 황, 저가매수 가즈아~”…美 개미, 엔비디아 1억1100만달러 매수",
-          "link": "https://n.news.naver.com/article/009/0005763126?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "“우리의 영웅이 떠났다”…젠슨 황 퇴진에 엔비디아 ‘눈물바다’, 슬픔의 꽃다발",
-          "link": "https://n.news.naver.com/article/029/0003058911?ntype=RANKING",
-          "press": "디지털타임스"
         }
       ],
       "related_titles": [
+        "젠슨 황 퇴진직전 엔비디아 내 여론은…재직자 74% \"사퇴 반대\"",
+        "눈물 흘리는 직원들·본사 앞 꽃다발…'젠슨 황 없는 엔비디아'에 트럼프 “끔찍한 일”",
+        "\"양손으로 엔비디아 주식 사들인다\"…젠슨 황 충격, 주가 바닥 쳤나",
         "\"13% 폭락하자 30분만에 1400억 줍줍\"... 젠슨황 떠난 엔비디아, 美개미 '역대급 베팅'",
-        "젠슨 황, 사임 당일 세 번째 불륜 의혹… “또 다른 엔비디아 직원”",
-        "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아",
-        "“땡큐 젠슨 황, 저가매수 가즈아~”…美 개미, 엔비디아 1억1100만달러 매수",
-        "“우리의 영웅이 떠났다”…젠슨 황 퇴진에 엔비디아 ‘눈물바다’, 슬픔의 꽃다발"
+        "젠슨 황, 사임 당일 세 번째 불륜 의혹… “또 다른 엔비디아 직원”"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
       "keyword": "젠슨",
-      "count": 24,
-      "representative_title": "\"믿었던 엔비디아마저\"…젠슨 황 사임에 시총 242조 증발",
-      "representative_link": "https://n.news.naver.com/article/119/0003154746?ntype=RANKING",
-      "press": "데일리안",
+      "count": 18,
+      "representative_title": "“‘젠슨 황 연인’ 앨리스 황 가족 연루 기업, 중국 딥시크에 우회 투자”",
+      "representative_link": "https://n.news.naver.com/article/032/0003482495?ntype=RANKING",
+      "press": "경향신문",
       "related_articles": [
         {
-          "title": "\"믿었던 엔비디아마저\"…젠슨 황 사임에 시총 242조 증발",
-          "link": "https://n.news.naver.com/article/119/0003154746?ntype=RANKING",
-          "press": "데일리안"
+          "title": "“‘젠슨 황 연인’ 앨리스 황 가족 연루 기업, 중국 딥시크에 우회 투자”",
+          "link": "https://n.news.naver.com/article/032/0003482495?ntype=RANKING",
+          "press": "경향신문"
         },
         {
-          "title": "\"젠슨 황 부재, 삼성전자 등에 호재\"…계산기 돌리는 업계",
-          "link": "https://n.news.naver.com/article/057/0001978048?ntype=RANKING",
-          "press": "MBN"
+          "title": "“‘젠슨 황 연인’ 앨리스 황 가족 연루 기업, 중국 딥시크에 우회 투자”",
+          "link": "https://n.news.naver.com/article/032/0003482495?ntype=RANKING",
+          "press": "경향신문"
         },
         {
-          "title": "\"믿었던 엔비디아마저\"…젠슨 황 사임에 시총 242조 증발",
-          "link": "https://n.news.naver.com/article/119/0003154746?ntype=RANKING",
-          "press": "데일리안"
-        },
-        {
-          "title": "\"젠슨 황 부재, 삼성전자 등에 호재\"…계산기 돌리는 업계",
-          "link": "https://n.news.naver.com/article/057/0001978048?ntype=RANKING",
-          "press": "MBN"
-        },
-        {
-          "title": "\"믿었던 엔비디아마저\"…젠슨 황 사임에 시총 242조 증발",
-          "link": "https://n.news.naver.com/article/119/0003154746?ntype=RANKING",
-          "press": "데일리안"
+          "title": "“‘젠슨 황 연인’ 앨리스 황 가족 연루 기업, 중국 딥시크에 우회 투자”",
+          "link": "https://n.news.naver.com/article/032/0003482495?ntype=RANKING",
+          "press": "경향신문"
         }
       ],
       "related_titles": [
-        "\"믿었던 엔비디아마저\"…젠슨 황 사임에 시총 242조 증발",
-        "\"젠슨 황 부재, 삼성전자 등에 호재\"…계산기 돌리는 업계",
-        "\"믿었던 엔비디아마저\"…젠슨 황 사임에 시총 242조 증발",
-        "\"젠슨 황 부재, 삼성전자 등에 호재\"…계산기 돌리는 업계",
-        "\"믿었던 엔비디아마저\"…젠슨 황 사임에 시총 242조 증발"
+        "“‘젠슨 황 연인’ 앨리스 황 가족 연루 기업, 중국 딥시크에 우회 투자”",
+        "“‘젠슨 황 연인’ 앨리스 황 가족 연루 기업, 중국 딥시크에 우회 투자”",
+        "“‘젠슨 황 연인’ 앨리스 황 가족 연루 기업, 중국 딥시크에 우회 투자”"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "삼성전자",
+      "keyword": "주가",
       "count": 5,
-      "representative_title": "삼성전자 제7노조 설립 추진…'광주반도체' 큰 그림",
-      "representative_link": "https://n.news.naver.com/article/374/0000543459?ntype=RANKING",
-      "press": "SBS Biz",
+      "representative_title": "오후 2시만 되면 주가 ‘뚝’? 개미들 사이 번진 ‘약속의 2시’",
+      "representative_link": "https://n.news.naver.com/article/024/0000109602?ntype=RANKING",
+      "press": "매경이코노미",
       "related_articles": [
         {
-          "title": "\"반토막 난 삼성전자, 3개월 내 반등 확률 97%\"…'역대급' 분석 나온 결정적 이유",
-          "link": "https://n.news.naver.com/article/014/0005603718?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        },
-        {
-          "title": "삼성전자 제7노조 설립 추진…'광주반도체' 큰 그림",
-          "link": "https://n.news.naver.com/article/374/0000543459?ntype=RANKING",
-          "press": "SBS Biz"
-        },
-        {
-          "title": "\"눈앞에 보이는 건 다 물어봐\"…삼성전자 'AI 스마트 안경' 출격",
-          "link": "https://n.news.naver.com/article/648/0000052593?ntype=RANKING",
+          "title": "대통령 앞에서 코스닥 상폐 논쟁…\"부실기업 퇴출\" vs \"주가 낮다고 부실 아냐\"",
+          "link": "https://n.news.naver.com/article/648/0000052607?ntype=RANKING",
           "press": "비즈워치"
         },
         {
-          "title": "\"반토막 난 삼성전자, 3개월 내 반등 확률 97%\"…'역대급' 분석 나온 결정적 이유",
-          "link": "https://n.news.naver.com/article/014/0005603718?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "주가 폭락하자 '덥석?'…삼성전자는 왜 냉각기업을 원할까 [B급기자의 B급리포트]",
+          "link": "https://n.news.naver.com/article/215/0001272642?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "삼성전자 제7노조 설립 추진…'광주반도체' 큰 그림",
-          "link": "https://n.news.naver.com/article/374/0000543459?ntype=RANKING",
-          "press": "SBS Biz"
+          "title": "JYP엔터 주가 ‘불기둥’...스키즈 효과 톡톡 [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109586?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "오후 2시만 되면 주가 ‘뚝’? 개미들 사이 번진 ‘약속의 2시’",
+          "link": "https://n.news.naver.com/article/024/0000109602?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "대통령 앞에서 코스닥 상폐 논쟁…\"부실기업 퇴출\" vs \"주가 낮다고 부실 아냐\"",
+          "link": "https://n.news.naver.com/article/648/0000052607?ntype=RANKING",
+          "press": "비즈워치"
         }
       ],
       "related_titles": [
-        "\"반토막 난 삼성전자, 3개월 내 반등 확률 97%\"…'역대급' 분석 나온 결정적 이유",
-        "삼성전자 제7노조 설립 추진…'광주반도체' 큰 그림",
-        "\"눈앞에 보이는 건 다 물어봐\"…삼성전자 'AI 스마트 안경' 출격",
-        "\"반토막 난 삼성전자, 3개월 내 반등 확률 97%\"…'역대급' 분석 나온 결정적 이유",
-        "삼성전자 제7노조 설립 추진…'광주반도체' 큰 그림"
+        "대통령 앞에서 코스닥 상폐 논쟁…\"부실기업 퇴출\" vs \"주가 낮다고 부실 아냐\"",
+        "주가 폭락하자 '덥석?'…삼성전자는 왜 냉각기업을 원할까 [B급기자의 B급리포트]",
+        "JYP엔터 주가 ‘불기둥’...스키즈 효과 톡톡 [오늘, 이 종목]",
+        "오후 2시만 되면 주가 ‘뚝’? 개미들 사이 번진 ‘약속의 2시’",
+        "대통령 앞에서 코스닥 상폐 논쟁…\"부실기업 퇴출\" vs \"주가 낮다고 부실 아냐\""
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "주가",
+      "keyword": "삼성전자",
       "count": 4,
-      "representative_title": "JYP엔터 주가 ‘불기둥’...스키즈 효과 톡톡 [오늘, 이 종목]",
-      "representative_link": "https://n.news.naver.com/article/024/0000109586?ntype=RANKING",
-      "press": "매경이코노미",
+      "representative_title": "이재용 앞에서 \"다음 주 삼성전자 면접\"…李 대통령도 웃음 터졌다",
+      "representative_link": "https://n.news.naver.com/article/088/0001040121?ntype=RANKING",
+      "press": "매일신문",
       "related_articles": [
         {
-          "title": "주가 폭락하자 '덥석?'…삼성전자는 왜 냉각기업을 원할까 [B급기자의 B급리포트]",
-          "link": "https://n.news.naver.com/article/215/0001272642?ntype=RANKING",
+          "title": "이재용 앞에서 \"다음 주 삼성전자 면접\"…李 대통령도 웃음 터졌다",
+          "link": "https://n.news.naver.com/article/088/0001040121?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "\"반토막 난 삼성전자, 3개월 내 반등 확률 97%\"…'역대급' 분석 나온 결정적 이유",
+          "link": "https://n.news.naver.com/article/014/0005603718?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "[속보] 커지는 DS·DX '온도차'…삼성전자, 이달만 두번째 신규 노조",
+          "link": "https://n.news.naver.com/article/215/0001272669?ntype=RANKING",
           "press": "한국경제TV"
         },
         {
-          "title": "JYP엔터 주가 ‘불기둥’...스키즈 효과 톡톡 [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000109586?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "\"반토막 난 삼성전자, 3개월 내 반등 확률 97%\"…'역대급' 분석 나온 결정적 이유",
+          "link": "https://n.news.naver.com/article/014/0005603718?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
-          "title": "주가 폭락하자 '덥석?'…삼성전자는 왜 냉각기업을 원할까 [B급기자의 B급리포트]",
-          "link": "https://n.news.naver.com/article/215/0001272642?ntype=RANKING",
+          "title": "[속보] 커지는 DS·DX '온도차'…삼성전자, 이달만 두번째 신규 노조",
+          "link": "https://n.news.naver.com/article/215/0001272669?ntype=RANKING",
           "press": "한국경제TV"
-        },
-        {
-          "title": "JYP엔터 주가 ‘불기둥’...스키즈 효과 톡톡 [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000109586?ntype=RANKING",
-          "press": "매경이코노미"
-        },
-        {
-          "title": "JYP엔터 주가 ‘불기둥’...스키즈 효과 톡톡 [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000109586?ntype=RANKING",
-          "press": "매경이코노미"
         }
       ],
       "related_titles": [
-        "주가 폭락하자 '덥석?'…삼성전자는 왜 냉각기업을 원할까 [B급기자의 B급리포트]",
-        "JYP엔터 주가 ‘불기둥’...스키즈 효과 톡톡 [오늘, 이 종목]",
-        "주가 폭락하자 '덥석?'…삼성전자는 왜 냉각기업을 원할까 [B급기자의 B급리포트]",
-        "JYP엔터 주가 ‘불기둥’...스키즈 효과 톡톡 [오늘, 이 종목]",
-        "JYP엔터 주가 ‘불기둥’...스키즈 효과 톡톡 [오늘, 이 종목]"
+        "이재용 앞에서 \"다음 주 삼성전자 면접\"…李 대통령도 웃음 터졌다",
+        "\"반토막 난 삼성전자, 3개월 내 반등 확률 97%\"…'역대급' 분석 나온 결정적 이유",
+        "[속보] 커지는 DS·DX '온도차'…삼성전자, 이달만 두번째 신규 노조",
+        "\"반토막 난 삼성전자, 3개월 내 반등 확률 97%\"…'역대급' 분석 나온 결정적 이유",
+        "[속보] 커지는 DS·DX '온도차'…삼성전자, 이달만 두번째 신규 노조"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "삼전닉스",
+      "keyword": "투자",
       "count": 4,
-      "representative_title": "“고점 찍고 반토막, 어떡하죠”...KB證 “삼전닉스 반등 탄력”",
-      "representative_link": "https://n.news.naver.com/article/024/0000109582?ntype=RANKING",
-      "press": "매경이코노미",
+      "representative_title": "메르세데스-벤츠, 독일 공장 폐쇄 검토…“국내 투자 중단”",
+      "representative_link": "https://n.news.naver.com/article/030/0003485366?ntype=RANKING",
+      "press": "전자신문",
       "related_articles": [
         {
-          "title": "분산투자 대명사의 변질… ETF 정체성은 '삼전닉스 전후'로 나뉜다",
-          "link": "https://n.news.naver.com/article/665/0000008556?ntype=RANKING",
-          "press": "더스쿠프"
+          "title": "\"3개월 만에 3배 수익\"…서동주, 집까지 마련해 준 '투자 수단' 정체",
+          "link": "https://n.news.naver.com/article/215/0001272643?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "“고점 찍고 반토막, 어떡하죠”...KB證 “삼전닉스 반등 탄력”",
-          "link": "https://n.news.naver.com/article/024/0000109582?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "메르세데스-벤츠, 독일 공장 폐쇄 검토…“국내 투자 중단”",
+          "link": "https://n.news.naver.com/article/030/0003485366?ntype=RANKING",
+          "press": "전자신문"
         },
         {
-          "title": "분산투자 대명사의 변질… ETF 정체성은 '삼전닉스 전후'로 나뉜다",
-          "link": "https://n.news.naver.com/article/665/0000008556?ntype=RANKING",
-          "press": "더스쿠프"
+          "title": "\"3개월 만에 3배 수익\"…서동주, 집까지 마련해 준 '투자 수단' 정체",
+          "link": "https://n.news.naver.com/article/215/0001272643?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "“고점 찍고 반토막, 어떡하죠”...KB證 “삼전닉스 반등 탄력”",
-          "link": "https://n.news.naver.com/article/024/0000109582?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "메르세데스-벤츠, 독일 공장 폐쇄 검토…“국내 투자 중단”",
+          "link": "https://n.news.naver.com/article/030/0003485366?ntype=RANKING",
+          "press": "전자신문"
         },
         {
-          "title": "“고점 찍고 반토막, 어떡하죠”...KB證 “삼전닉스 반등 탄력”",
-          "link": "https://n.news.naver.com/article/024/0000109582?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "\"3개월 만에 3배 수익\"…서동주, 집까지 마련해 준 '투자 수단' 정체",
+          "link": "https://n.news.naver.com/article/215/0001272643?ntype=RANKING",
+          "press": "한국경제TV"
         }
       ],
       "related_titles": [
-        "분산투자 대명사의 변질… ETF 정체성은 '삼전닉스 전후'로 나뉜다",
-        "“고점 찍고 반토막, 어떡하죠”...KB證 “삼전닉스 반등 탄력”",
-        "분산투자 대명사의 변질… ETF 정체성은 '삼전닉스 전후'로 나뉜다",
-        "“고점 찍고 반토막, 어떡하죠”...KB證 “삼전닉스 반등 탄력”",
-        "“고점 찍고 반토막, 어떡하죠”...KB證 “삼전닉스 반등 탄력”"
+        "\"3개월 만에 3배 수익\"…서동주, 집까지 마련해 준 '투자 수단' 정체",
+        "메르세데스-벤츠, 독일 공장 폐쇄 검토…“국내 투자 중단”",
+        "\"3개월 만에 3배 수익\"…서동주, 집까지 마련해 준 '투자 수단' 정체",
+        "메르세데스-벤츠, 독일 공장 폐쇄 검토…“국내 투자 중단”",
+        "\"3개월 만에 3배 수익\"…서동주, 집까지 마련해 준 '투자 수단' 정체"
       ],
       "category": "주식/코인"
     }
@@ -423,6 +411,44 @@
   "moljak_topics": [
     {
       "rank": 1,
+      "keyword": "황제",
+      "series_title": "황제의 몰락",
+      "count": 4,
+      "representative_title": "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aNXRRdmN2LXR4cHJ4bUp2N0dtUnU1R1Z3WnhDblF1clBrVmRDY0dNWEQ1YUtoR3VlaFpXd2EzSGJaMDB2d2dpOWdsdEhiSmVhT0VUY1l4MERHNGMwU3B6ckkzMExRS3M?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aNXRRdmN2LXR4cHJ4bUp2N0dtUnU1R1Z3WnhDblF1clBrVmRDY0dNWEQ1YUtoR3VlaFpXd2EzSGJaMDB2d2dpOWdsdEhiSmVhT0VUY1l4MERHNGMwU3B6ckkzMExRS3M?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"AI 황제의 몰락\"…엔비디아 창업자 젠슨 황 사임, 콜레트 크레스 임시 CEO 선임",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ua05PbGY0S1JPVFFVMVIteGRsOGJyZGN5TmwxRnhoMXQ2VDcxZEJkTHR3Wlh3SEtEVVNBTDRfNzFKT19TYWV4c05KNE9LQ1V4NzV4Tk0zNHNkaFRXb3FaZ1dQNlVUSkZldGVZWEln0gFyQVVfeXFMTnp5ZDBMM1dCSmR5THBRNWpmVFhUMUNUZ2dZQ1ZOUUFVMlhLVWVxZ2ZFaV9qaHJ4QVd0Y2dSN2VMYWdSS3JfbzVkRXFXazk3dDkxOEJDaGs2NzdsdjhMdHA1a0FuYkhfcXVRYXZwSDVTQjhB?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"AI 황제의 몰락\"…젠슨 황, 스파이 스캔들·사내 불륜에 축출 위기",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05enlGejQzQkdMZlhVa0hIZk5WWTRYWktidGdkZXU4d1lCR2g1OWs2dGJ6blZYWEdESWFZclRQUzk3REhrd0ZqNFJXZUhpTWZaeVdlZ1NZMTdLbmI5M21OV2dn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "AI 반도체 황제의 몰락... 젠슨 황, 혼외관계 스캔들로 사임",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vQVFHRGk3Qmw2V2lvVHpEaThIeE50Rzlyd2FnOUp4MF8yUHEzRnpIUEFwNEJXUTlqVFgwcEh3aDBfVHB6ZEZXMlQxMDQ0QQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
+        "\"AI 황제의 몰락\"…엔비디아 창업자 젠슨 황 사임, 콜레트 크레스 임시 CEO 선임",
+        "\"AI 황제의 몰락\"…젠슨 황, 스파이 스캔들·사내 불륜에 축출 위기",
+        "AI 반도체 황제의 몰락... 젠슨 황, 혼외관계 스캔들로 사임"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
       "keyword": "젠슨",
       "series_title": "젠슨의 몰락",
       "count": 3,
@@ -450,38 +476,6 @@
         "33년 일군 회사서 단 나흘만에 쫓겨나…‘AI 제국 황제’ 젠슨 황의 몰락",
         "AI ‘키맨’ 젠슨 황의 몰락…‘타도 엔비디아’ 속 AI 생태계 운명은",
         "'유퀴즈 사랑꾼' 젠슨 황의 몰락…中 스파이 이어 엔비디아 女부사장과도 이중 불륜 파문 [해외이슈]"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 2,
-      "keyword": "황제",
-      "series_title": "황제의 몰락",
-      "count": 3,
-      "representative_title": "AI 반도체 황제의 몰락... 젠슨 황, 혼외관계 스캔들로 사임",
-      "representative_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vQVFHRGk3Qmw2V2lvVHpEaThIeE50Rzlyd2FnOUp4MF8yUHEzRnpIUEFwNEJXUTlqVFgwcEh3aDBfVHB6ZEZXMlQxMDQ0QQ?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "\"AI 황제의 몰락\"…엔비디아 창업자 젠슨 황 사임, 콜레트 크레스 임시 CEO 선임",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ua05PbGY0S1JPVFFVMVIteGRsOGJyZGN5TmwxRnhoMXQ2VDcxZEJkTHR3Wlh3SEtEVVNBTDRfNzFKT19TYWV4c05KNE9LQ1V4NzV4Tk0zNHNkaFRXb3FaZ1dQNlVUSkZldGVZWEln0gFyQVVfeXFMTnp5ZDBMM1dCSmR5THBRNWpmVFhUMUNUZ2dZQ1ZOUUFVMlhLVWVxZ2ZFaV9qaHJ4QVd0Y2dSN2VMYWdSS3JfbzVkRXFXazk3dDkxOEJDaGs2NzdsdjhMdHA1a0FuYkhfcXVRYXZwSDVTQjhB?oc=5",
-          "press": ""
-        },
-        {
-          "title": "\"AI 황제의 몰락\"…젠슨 황, 스파이 스캔들·사내 불륜에 축출 위기",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05enlGejQzQkdMZlhVa0hIZk5WWTRYWktidGdkZXU4d1lCR2g1OWs2dGJ6blZYWEdESWFZclRQUzk3REhrd0ZqNFJXZUhpTWZaeVdlZ1NZMTdLbmI5M21OV2dn?oc=5",
-          "press": ""
-        },
-        {
-          "title": "AI 반도체 황제의 몰락... 젠슨 황, 혼외관계 스캔들로 사임",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vQVFHRGk3Qmw2V2lvVHpEaThIeE50Rzlyd2FnOUp4MF8yUHEzRnpIUEFwNEJXUTlqVFgwcEh3aDBfVHB6ZEZXMlQxMDQ0QQ?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "\"AI 황제의 몰락\"…엔비디아 창업자 젠슨 황 사임, 콜레트 크레스 임시 CEO 선임",
-        "\"AI 황제의 몰락\"…젠슨 황, 스파이 스캔들·사내 불륜에 축출 위기",
-        "AI 반도체 황제의 몰락... 젠슨 황, 혼외관계 스캔들로 사임"
       ],
       "category": "몰락"
     },
@@ -539,27 +533,27 @@
     },
     {
       "rank": 5,
-      "keyword": "선봉장",
-      "series_title": "선봉장의 몰락",
+      "keyword": "충격적인",
+      "series_title": "충격적인의 몰락",
       "count": 2,
-      "representative_title": "중남미 ‘블루 타이드’ 선봉장의 몰락…파라과이 대통령 탄핵",
-      "representative_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12QWRvM0ZuUmNxN0Iwcm5FR0tCbVdsOFI2Z01vOEVFenlGamJ0UzlYR0lHZThwblFocFZEbnVOZ1QzV1hkSXBUY0VTZjh1RUJBVUtLX1dZNXhPZEl6MkVHT1BB?oc=5",
+      "representative_title": "[A-포커스] '90승' KT의 충격적인 몰락… 5회 실책 2개에 우승 꿈 무너졌다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15dHMwU1lhaDV5akJrQXd0VTkzcjRtWjVON2d0cTVibVc0NDYweU81dXpyX21ORVlVTGw0QXRIcFo3dTNPZWhWODB0eExJRVppQlJaQkttRDh5VWQ5QkJXWll4ZGpMc2Jm?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "‘美 밀착’ 파라과이 페냐 탄핵…남미 ‘블루 타이드’ 선봉장 몰락",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YS0VrcXlrTDFDcFZoQVZnUHRmXzhJOFFqU1NsSUZvaWxmRV9Xc1NsZ0g5QVBELUgzSDFFQndlLTd0bVZUdU9KQUdJbkhVQjBScnBwTUl3?oc=5",
+          "title": "[A-포커스] '90승' KT의 충격적인 몰락… 5회 실책 2개에 우승 꿈 무너졌다",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15dHMwU1lhaDV5akJrQXd0VTkzcjRtWjVON2d0cTVibVc0NDYweU81dXpyX21ORVlVTGw0QXRIcFo3dTNPZWhWODB0eExJRVppQlJaQkttRDh5VWQ5QkJXWll4ZGpMc2Jm?oc=5",
           "press": ""
         },
         {
-          "title": "중남미 ‘블루 타이드’ 선봉장의 몰락…파라과이 대통령 탄핵",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12QWRvM0ZuUmNxN0Iwcm5FR0tCbVdsOFI2Z01vOEVFenlGamJ0UzlYR0lHZThwblFocFZEbnVOZ1QzV1hkSXBUY0VTZjh1RUJBVUtLX1dZNXhPZEl6MkVHT1BB?oc=5",
+          "title": "\"122년 동안 없었던 일이 벌어졌다\" 맨시티의 충격적인 몰락…개막 7연승→3연패, 마레스카의 꿈이 악몽으로",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NSzR5OHQwelQxd3JSandXTTZ2Z3VGZUFWdmN5eDlMOFhuTTlKX3B0MTF4aUZveHViUjhXR1h5N0FYNWU3WXRZTkMwSFQ4bGw3SW1FQ1B3?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "‘美 밀착’ 파라과이 페냐 탄핵…남미 ‘블루 타이드’ 선봉장 몰락",
-        "중남미 ‘블루 타이드’ 선봉장의 몰락…파라과이 대통령 탄핵"
+        "[A-포커스] '90승' KT의 충격적인 몰락… 5회 실책 2개에 우승 꿈 무너졌다",
+        "\"122년 동안 없었던 일이 벌어졌다\" 맨시티의 충격적인 몰락…개막 7연승→3연패, 마레스카의 꿈이 악몽으로"
       ],
       "category": "몰락"
     }
@@ -594,8 +588,8 @@
           "press": ""
         },
         {
-          "title": "대출 규제·집값 부담에 '소형 아파트' 전성시대…서울 전용 60㎡ 이하 상승률 1위",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXZ0o3V0NuR055QlFYQUJmZEhwdl9saktvUjFwUExlcUZWM0VVWjJQb181WV9vdUhuVGNrMFpSWUFwZHpDZ3hlWUdZRHhBZklRT3NoLVFYRHVKMWY5MUVDU3NBR0ZKN0ZMVFlxOQ?oc=5",
+          "title": "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2Zm95R1R3cldweGwtZVVnenE2M05CcDN1OWctVmhINVRvc240eklnNGtLTnV5M0tCMVZQU21lODhIbVFMWTZjYUh4X01XZ3Zoc3F5RUNmQ1BPWXU0bnBmeVY0bHJyNG9TbzNV?oc=5",
           "press": ""
         }
       ],
@@ -604,7 +598,51 @@
         "강남 집값 떨어지자 매수 신청 20% 늘었다…서울 아파트 거래 '엇갈린 신호'",
         "서울 아파트 매물 8만 건 돌파…거래 급감에 집값 조정 가능성 주목",
         "\"서울 집값이 오른 게 아니라 돈 가치가 떨어졌다\"…금값과 비교해 본 부동산",
-        "대출 규제·집값 부담에 '소형 아파트' 전성시대…서울 전용 60㎡ 이하 상승률 1위"
+        "서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "지방",
+      "count": 2,
+      "representative_title": "지방 집값 부진에도 청주 아파트 2.17% 상승…흥덕구가 주도",
+      "representative_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jUmgtTmhaOThkcDhtSVhoX2ljSW9ZZ2phZHpBUmtzdWlpT21CYUFPaEdXcFIwNVlRdmRCVEd3bXlUOFEya09ldEZUTjFYSEdnRjRoRGcyWWRlandKWGRfSGF0UEcxUFlfX2lZ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "지방 집값 부진에도 청주 아파트 2.17% 상승…흥덕구가 주도",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jUmgtTmhaOThkcDhtSVhoX2ljSW9ZZ2phZHpBUmtzdWlpT21CYUFPaEdXcFIwNVlRdmRCVEd3bXlUOFEya09ldEZUTjFYSEdnRjRoRGcyWWRlandKWGRfSGF0UEcxUFlfX2lZ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "전통 주거지에서 신흥 주거타운으로… 지방 부동산 ‘집값 지도’ 재편",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UbFdIa3VWWVY1S1VIQm1yZ2J2dHZqOWdwVkdXWkNIaVFobkhGVTlxeEFkV3FSaEJkMWFtcW1BN3BPaTJCZTZYbERUdVVYNEVnX0haWUxld2pvc19wZmgxbl83SDN3V0tVSHZQQ0Zn?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "지방 집값 부진에도 청주 아파트 2.17% 상승…흥덕구가 주도",
+        "전통 주거지에서 신흥 주거타운으로… 지방 부동산 ‘집값 지도’ 재편"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 3,
+      "keyword": "재편",
+      "count": 2,
+      "representative_title": "[부동산 먼데이 시그널] 강남권 집값 지표 엇갈려...주택 공급 속도 높이고 기업은 자산 재편",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81eVJjWkF5YzlvZXNtb21QVHVEUkllU2x2ai1FSERkQW1OamRUc2xzbFgyLW81UTZZUkFBaWFrYUxacnZCUUtJdkJmaFFnMzdzVjI0ZmdFLXU3U0lFUjl1dnN4bF9JUmthZkE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[부동산 먼데이 시그널] 강남권 집값 지표 엇갈려...주택 공급 속도 높이고 기업은 자산 재편",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81eVJjWkF5YzlvZXNtb21QVHVEUkllU2x2ai1FSERkQW1OamRUc2xzbFgyLW81UTZZUkFBaWFrYUxacnZCUUtJdkJmaFFnMzdzVjI0ZmdFLXU3U0lFUjl1dnN4bF9JUmthZkE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[부동산 먼데이 시그널] 강남권 집값 지표 엇갈려...주택 공급 속도 높이고 기업은 자산 재편"
       ],
       "category": "부동산"
     }
