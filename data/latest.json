@@ -1,22 +1,27 @@
 {
   "date": "2026-11-15",
-  "hour": "07",
-  "slot": "2026-11-15_07",
-  "crawled_at": "2026-11-15 07:00:01",
-  "total_articles": 403,
+  "hour": "10",
+  "slot": "2026-11-15_10",
+  "crawled_at": "2026-11-15 10:00:01",
+  "total_articles": 396,
   "topics": [
     {
       "rank": 1,
       "keyword": "엔비디아",
-      "count": 31,
-      "representative_title": "젠슨 황 사임 후폭풍…엔비디아 시총 4조달러 붕괴",
-      "representative_link": "https://n.news.naver.com/article/417/0001164313?ntype=RANKING",
-      "press": "동행미디어 시대",
+      "count": 23,
+      "representative_title": "엔비디아 투자자, 젠슨황 복귀 요구…온라인 청원도",
+      "representative_link": "https://n.news.naver.com/article/056/0012294068?ntype=RANKING",
+      "press": "KBS",
       "related_articles": [
         {
-          "title": "\"트럼프, 中수출 규제 완화 전 엔비디아 주식 대규모 매입\"",
-          "link": "https://n.news.naver.com/article/003/0014322394?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "엔비디아 투자자, 젠슨황 복귀 요구 서한‥온라인 청원도 11만 명 참여",
+          "link": "https://n.news.naver.com/article/214/0001535644?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "\"젠슨 황, 엔비디아 임원진에 '앨리스와 적절한 관계' 거짓말\"",
+          "link": "https://n.news.naver.com/article/057/0001978222?ntype=RANKING",
+          "press": "MBN"
         },
         {
           "title": "“젠슨 황, 지난해 엔비디아 임원에 ‘앨리스와 적절한 관계’ 거짓 해명”",
@@ -24,216 +29,216 @@
           "press": "경향신문"
         },
         {
-          "title": "젠슨 황 “앨리스 황과 적절한 관계”…엔비디아 임원들에 거짓 해명",
-          "link": "https://n.news.naver.com/article/028/0002832202?ntype=RANKING",
-          "press": "한겨레"
+          "title": "머스크 \"엔비디아, 젠슨 황 없으면 공급망 계약 무산될 수도\"",
+          "link": "https://n.news.naver.com/article/421/0009289246?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "엔비디아 임원들 두 번이나 속인 젠슨 황…\"걱정 마, 앨리스 황과 난 적절한 관계야\"",
-          "link": "https://n.news.naver.com/article/277/0005842596?ntype=RANKING",
-          "press": "아시아경제"
-        },
-        {
-          "title": "13% 폭락에 '줍줍'했더니 \"엔비디아 빠져나와라\"…'빅쇼트' 버리의 경고",
-          "link": "https://n.news.naver.com/article/014/0005604228?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "엔비디아 투자자, 젠슨 황 복귀 요구 서한 전달… 온라인 청원도 열기",
+          "link": "https://n.news.naver.com/article/366/0001204791?ntype=RANKING",
+          "press": "조선비즈"
         }
       ],
       "related_titles": [
-        "\"트럼프, 中수출 규제 완화 전 엔비디아 주식 대규모 매입\"",
+        "엔비디아 투자자, 젠슨황 복귀 요구 서한‥온라인 청원도 11만 명 참여",
+        "\"젠슨 황, 엔비디아 임원진에 '앨리스와 적절한 관계' 거짓말\"",
         "“젠슨 황, 지난해 엔비디아 임원에 ‘앨리스와 적절한 관계’ 거짓 해명”",
-        "젠슨 황 “앨리스 황과 적절한 관계”…엔비디아 임원들에 거짓 해명",
-        "엔비디아 임원들 두 번이나 속인 젠슨 황…\"걱정 마, 앨리스 황과 난 적절한 관계야\"",
-        "13% 폭락에 '줍줍'했더니 \"엔비디아 빠져나와라\"…'빅쇼트' 버리의 경고"
+        "머스크 \"엔비디아, 젠슨 황 없으면 공급망 계약 무산될 수도\"",
+        "엔비디아 투자자, 젠슨 황 복귀 요구 서한 전달… 온라인 청원도 열기"
       ],
       "category": "경제/투자"
     },
     {
       "rank": 2,
       "keyword": "젠슨",
-      "count": 23,
+      "count": 21,
       "representative_title": "[속보] \"젠슨 황, 타사 취업보다 재창업 전망\"",
       "representative_link": "https://n.news.naver.com/article/655/0000033573?ntype=RANKING",
       "press": "CJB청주방송",
       "related_articles": [
         {
-          "title": "'막판까지 거짓말' 젠슨 황‥\"감싸는 실리콘밸리 도덕적 타락\"",
-          "link": "https://n.news.naver.com/article/214/0001535621?ntype=RANKING",
-          "press": "MBC"
+          "title": "젠슨 황도 예외 없었다… 사내 불륜에 불명예 퇴진한 美 CEO들",
+          "link": "https://n.news.naver.com/article/366/0001204781?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "“통상적 사업 관계”라더니…젠슨 황, 임원들에 내연녀 거짓 해명",
-          "link": "https://n.news.naver.com/article/005/0001885079?ntype=RANKING",
-          "press": "국민일보"
+          "title": "젠슨 황 몰락이 남긴 역설…“이사회 누가 머스크·저커버그에 맞설 수 있겠나”",
+          "link": "https://n.news.naver.com/article/028/0002832197?ntype=RANKING",
+          "press": "한겨레"
         },
         {
-          "title": "“머스크는 멀쩡한데 왜 젠슨 황만 무너지나?”…中, 인종차별 주장",
-          "link": "https://n.news.naver.com/article/081/0003699382?ntype=RANKING",
-          "press": "서울신문"
-        },
-        {
-          "title": "AI 거품론·젠슨 황 충격에도…삼성전자, 여전히 ‘50만전자’ 기대감",
-          "link": "https://n.news.naver.com/article/029/0003059004?ntype=RANKING",
+          "title": "“젠슨 황 복귀 시켜라”…주주 서한부터 온라인 청원까지 ‘시끌’",
+          "link": "https://n.news.naver.com/article/029/0003059073?ntype=RANKING",
           "press": "디지털타임스"
         },
         {
-          "title": "“트럼프, 시진핑과 회담에서 ‘젠슨 황·中간첩 불륜’ 거론 안 할듯”",
-          "link": "https://n.news.naver.com/article/366/0001204755?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "깐부 젠슨 황 사임은 K반도체 둠스데이?…초대형 변수에 업계 초긴장 [반도체 투자 리포트]",
+          "link": "https://n.news.naver.com/article/022/0004175142?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "\"젠슨 황이 백인이나 흑인이었으면 당했겠냐\"…중화권 매체들 주장",
+          "link": "https://n.news.naver.com/article/448/0000651058?ntype=RANKING",
+          "press": "TV조선"
         }
       ],
       "related_titles": [
-        "'막판까지 거짓말' 젠슨 황‥\"감싸는 실리콘밸리 도덕적 타락\"",
-        "“통상적 사업 관계”라더니…젠슨 황, 임원들에 내연녀 거짓 해명",
-        "“머스크는 멀쩡한데 왜 젠슨 황만 무너지나?”…中, 인종차별 주장",
-        "AI 거품론·젠슨 황 충격에도…삼성전자, 여전히 ‘50만전자’ 기대감",
-        "“트럼프, 시진핑과 회담에서 ‘젠슨 황·中간첩 불륜’ 거론 안 할듯”"
+        "젠슨 황도 예외 없었다… 사내 불륜에 불명예 퇴진한 美 CEO들",
+        "젠슨 황 몰락이 남긴 역설…“이사회 누가 머스크·저커버그에 맞설 수 있겠나”",
+        "“젠슨 황 복귀 시켜라”…주주 서한부터 온라인 청원까지 ‘시끌’",
+        "깐부 젠슨 황 사임은 K반도체 둠스데이?…초대형 변수에 업계 초긴장 [반도체 투자 리포트]",
+        "\"젠슨 황이 백인이나 흑인이었으면 당했겠냐\"…중화권 매체들 주장"
       ],
-      "category": "산업/테크"
+      "category": "경제/투자"
     },
     {
       "rank": 3,
       "keyword": "고경표",
-      "count": 20,
-      "representative_title": "[단독] 배우 고경표 음주사고…면허취소 만취상태",
-      "representative_link": "https://n.news.naver.com/article/422/0000926068?ntype=RANKING",
-      "press": "연합뉴스TV",
+      "count": 16,
+      "representative_title": "배우 고경표 만취 사고...CCTV 속 황급한 발걸음",
+      "representative_link": "https://n.news.naver.com/article/052/0002432838?ntype=RANKING",
+      "press": "YTN",
       "related_articles": [
-        {
-          "title": "비틀거리다 청소 차에 '쾅'…만취 운전자는 배우 고경표",
-          "link": "https://n.news.naver.com/article/437/0000520753?ntype=RANKING",
-          "press": "JTBC"
-        },
         {
           "title": "\"음주운전 안돼요\" 했던 고경표 만취 사고‥청소차 들이받아",
           "link": "https://n.news.naver.com/article/214/0001535619?ntype=RANKING",
           "press": "MBC"
         },
         {
-          "title": "고경표 음주사고 직후 CCTV 공개…환경미화원 황급히 뒤쫓았다",
-          "link": "https://n.news.naver.com/article/003/0014322147?ntype=RANKING",
-          "press": "뉴시스"
-        },
-        {
-          "title": "고경표 \"음주운전 안 된다\"더니…만취 사고 '홍보대사' 무색",
-          "link": "https://n.news.naver.com/article/079/0004209801?ntype=RANKING",
-          "press": "노컷뉴스"
-        },
-        {
           "title": "배우 고경표, 만취 운전하다 청소차 충돌…면허취소 수준",
           "link": "https://n.news.naver.com/article/660/0000121355?ntype=RANKING",
           "press": "kbc광주방송"
+        },
+        {
+          "title": "비틀거리다 청소 차에 '쾅'…만취 운전자는 배우 고경표",
+          "link": "https://n.news.naver.com/article/437/0000520753?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "배우 고경표 만취 사고...CCTV 속 황급한 발걸음",
+          "link": "https://n.news.naver.com/article/052/0002432838?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "'만취' 고경표, 청소차 추돌...CCTV 속 긴박한 순간",
+          "link": "https://n.news.naver.com/article/052/0002432943?ntype=RANKING",
+          "press": "YTN"
         }
       ],
       "related_titles": [
-        "비틀거리다 청소 차에 '쾅'…만취 운전자는 배우 고경표",
         "\"음주운전 안돼요\" 했던 고경표 만취 사고‥청소차 들이받아",
-        "고경표 음주사고 직후 CCTV 공개…환경미화원 황급히 뒤쫓았다",
-        "고경표 \"음주운전 안 된다\"더니…만취 사고 '홍보대사' 무색",
-        "배우 고경표, 만취 운전하다 청소차 충돌…면허취소 수준"
+        "배우 고경표, 만취 운전하다 청소차 충돌…면허취소 수준",
+        "비틀거리다 청소 차에 '쾅'…만취 운전자는 배우 고경표",
+        "배우 고경표 만취 사고...CCTV 속 황급한 발걸음",
+        "'만취' 고경표, 청소차 추돌...CCTV 속 긴박한 순간"
       ],
       "category": "산업/테크"
     },
     {
       "rank": 4,
+      "keyword": "안경",
+      "count": 13,
+      "representative_title": "세무사 수석, 'AI 안경 의혹' 직접 반박",
+      "representative_link": "https://n.news.naver.com/article/057/0001978231?ntype=RANKING",
+      "press": "MBN",
+      "related_articles": [
+        {
+          "title": "'AI 안경 논란' 세무사 수석 합격자 \"말도 안 되는 얘기\" 변호사 선임도",
+          "link": "https://n.news.naver.com/article/469/0000965568?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "‘AI 안경 의혹’ 세무사 수석 합격자 “고득점 이유로 의심받아야 하나”",
+          "link": "https://n.news.naver.com/article/023/0004009630?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "[단독] 세무사 수석 합격자 한원석씨 \"AI 안경? 말도 안 된다\"",
+          "link": "https://n.news.naver.com/article/015/0005353792?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "세무사 수석, 'AI 안경 의혹' 직접 반박",
+          "link": "https://n.news.naver.com/article/057/0001978231?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "'수학 6~7등급' 유튜버 \"90만원짜리 AI안경 쓰고 수능문제 풀었다\"…결과는 '충격'",
+          "link": "https://n.news.naver.com/article/277/0005842586?ntype=RANKING",
+          "press": "아시아경제"
+        }
+      ],
+      "related_titles": [
+        "'AI 안경 논란' 세무사 수석 합격자 \"말도 안 되는 얘기\" 변호사 선임도",
+        "‘AI 안경 의혹’ 세무사 수석 합격자 “고득점 이유로 의심받아야 하나”",
+        "[단독] 세무사 수석 합격자 한원석씨 \"AI 안경? 말도 안 된다\"",
+        "세무사 수석, 'AI 안경 의혹' 직접 반박",
+        "'수학 6~7등급' 유튜버 \"90만원짜리 AI안경 쓰고 수능문제 풀었다\"…결과는 '충격'"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 5,
       "keyword": "대통령",
-      "count": 19,
+      "count": 12,
       "representative_title": "이 대통령 \"가장 힘든 건 등 뒤에서 날아오는 화살\"",
       "representative_link": "https://n.news.naver.com/article/214/0001535633?ntype=RANKING",
       "press": "MBC",
       "related_articles": [
+        {
+          "title": "이 대통령 \"가장 힘든 일은 등 뒤에서 날아오는 화살\"... 친청계 겨냥했나",
+          "link": "https://n.news.naver.com/article/469/0000965569?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "“평소엔 더 잘 나와요”…李대통령·이재용 밥상 차린 이곳은?[이 집! 지금, 이 맛]",
+          "link": "https://n.news.naver.com/article/018/0006409886?ntype=RANKING",
+          "press": "이데일리"
+        },
         {
           "title": "이 대통령 \"가장 힘든 건 등 뒤에서 날아오는 화살\"",
           "link": "https://n.news.naver.com/article/214/0001535633?ntype=RANKING",
           "press": "MBC"
         },
         {
+          "title": "천준호 격려한 李대통령 \"가장 힘든 건 등 뒤서 날아오는 화살\"",
+          "link": "https://n.news.naver.com/article/660/0000121367?ntype=RANKING",
+          "press": "kbc광주방송"
+        },
+        {
           "title": "이 대통령, 천준호에 “고생 많았다···등 뒤에서 날아오는 화살 가장 힘들어”",
           "link": "https://n.news.naver.com/article/032/0003482644?ntype=RANKING",
           "press": "경향신문"
-        },
-        {
-          "title": "李대통령, 천준호 격려하며 \"가장 힘든 건 등 뒤서 날아오는 화살\"",
-          "link": "https://n.news.naver.com/article/079/0004209811?ntype=RANKING",
-          "press": "노컷뉴스"
-        },
-        {
-          "title": "한동훈 “최민희, 우기면 추하다…이 대통령·윤 재판 똑같다더니”",
-          "link": "https://n.news.naver.com/article/028/0002832216?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "이재명 대통령 \"자본시장 개혁 방심했다\"…전담 TF 신속 구성 지시",
-          "link": "https://n.news.naver.com/article/648/0000052608?ntype=RANKING",
-          "press": "비즈워치"
         }
       ],
       "related_titles": [
+        "이 대통령 \"가장 힘든 일은 등 뒤에서 날아오는 화살\"... 친청계 겨냥했나",
+        "“평소엔 더 잘 나와요”…李대통령·이재용 밥상 차린 이곳은?[이 집! 지금, 이 맛]",
         "이 대통령 \"가장 힘든 건 등 뒤에서 날아오는 화살\"",
-        "이 대통령, 천준호에 “고생 많았다···등 뒤에서 날아오는 화살 가장 힘들어”",
-        "李대통령, 천준호 격려하며 \"가장 힘든 건 등 뒤서 날아오는 화살\"",
-        "한동훈 “최민희, 우기면 추하다…이 대통령·윤 재판 똑같다더니”",
-        "이재명 대통령 \"자본시장 개혁 방심했다\"…전담 TF 신속 구성 지시"
+        "천준호 격려한 李대통령 \"가장 힘든 건 등 뒤서 날아오는 화살\"",
+        "이 대통령, 천준호에 “고생 많았다···등 뒤에서 날아오는 화살 가장 힘들어”"
       ],
       "category": "정치"
-    },
-    {
-      "rank": 5,
-      "keyword": "트럼프",
-      "count": 18,
-      "representative_title": "[속보]트럼프·시진핑·푸틴 만난다",
-      "representative_link": "https://n.news.naver.com/article/050/0000113247?ntype=RANKING",
-      "press": "한경비즈니스",
-      "related_articles": [
-        {
-          "title": "'우회 수출' 저격하자 \"트럼프 뜻 따랐다\"…러트닉 '점입가경'",
-          "link": "https://n.news.naver.com/article/437/0000520745?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "트럼프, '젠슨황 스캔들' 거론 안 할듯...\"칩 규제엔 희토류 맞불\"",
-          "link": "https://n.news.naver.com/article/052/0002432907?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "미중러 '스트롱맨' 한자리에…트럼프, 핵 감축 카드로 중국 견제",
-          "link": "https://n.news.naver.com/article/057/0001978225?ntype=RANKING",
-          "press": "MBN"
-        },
-        {
-          "title": "흔들리는 트럼프,&#160;4연임 채비 나선 시진핑…한반도에 미칠 파장은",
-          "link": "https://n.news.naver.com/article/586/0000142277?ntype=RANKING",
-          "press": "시사저널"
-        },
-        {
-          "title": "미인계로 황 속이더니 韓도 첨단 칩 팔라는 中 [트럼프 스톡커]",
-          "link": "https://n.news.naver.com/article/011/0004682171?ntype=RANKING",
-          "press": "서울경제"
-        }
-      ],
-      "related_titles": [
-        "'우회 수출' 저격하자 \"트럼프 뜻 따랐다\"…러트닉 '점입가경'",
-        "트럼프, '젠슨황 스캔들' 거론 안 할듯...\"칩 규제엔 희토류 맞불\"",
-        "미중러 '스트롱맨' 한자리에…트럼프, 핵 감축 카드로 중국 견제",
-        "흔들리는 트럼프,&#160;4연임 채비 나선 시진핑…한반도에 미칠 파장은",
-        "미인계로 황 속이더니 韓도 첨단 칩 팔라는 中 [트럼프 스톡커]"
-      ],
-      "category": "국제"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
       "keyword": "엔비디아",
-      "count": 31,
-      "representative_title": "젠슨 황 사임 후폭풍…엔비디아 시총 4조달러 붕괴",
-      "representative_link": "https://n.news.naver.com/article/417/0001164313?ntype=RANKING",
-      "press": "동행미디어 시대",
+      "count": 23,
+      "representative_title": "엔비디아 투자자, 젠슨황 복귀 요구…온라인 청원도",
+      "representative_link": "https://n.news.naver.com/article/056/0012294068?ntype=RANKING",
+      "press": "KBS",
       "related_articles": [
         {
-          "title": "\"트럼프, 中수출 규제 완화 전 엔비디아 주식 대규모 매입\"",
-          "link": "https://n.news.naver.com/article/003/0014322394?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "엔비디아 투자자, 젠슨황 복귀 요구 서한‥온라인 청원도 11만 명 참여",
+          "link": "https://n.news.naver.com/article/214/0001535644?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "\"젠슨 황, 엔비디아 임원진에 '앨리스와 적절한 관계' 거짓말\"",
+          "link": "https://n.news.naver.com/article/057/0001978222?ntype=RANKING",
+          "press": "MBN"
         },
         {
           "title": "“젠슨 황, 지난해 엔비디아 임원에 ‘앨리스와 적절한 관계’ 거짓 해명”",
@@ -241,27 +246,22 @@
           "press": "경향신문"
         },
         {
-          "title": "젠슨 황 “앨리스 황과 적절한 관계”…엔비디아 임원들에 거짓 해명",
-          "link": "https://n.news.naver.com/article/028/0002832202?ntype=RANKING",
-          "press": "한겨레"
+          "title": "머스크 \"엔비디아, 젠슨 황 없으면 공급망 계약 무산될 수도\"",
+          "link": "https://n.news.naver.com/article/421/0009289246?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "엔비디아 임원들 두 번이나 속인 젠슨 황…\"걱정 마, 앨리스 황과 난 적절한 관계야\"",
-          "link": "https://n.news.naver.com/article/277/0005842596?ntype=RANKING",
-          "press": "아시아경제"
-        },
-        {
-          "title": "13% 폭락에 '줍줍'했더니 \"엔비디아 빠져나와라\"…'빅쇼트' 버리의 경고",
-          "link": "https://n.news.naver.com/article/014/0005604228?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "엔비디아 투자자, 젠슨 황 복귀 요구 서한 전달… 온라인 청원도 열기",
+          "link": "https://n.news.naver.com/article/366/0001204791?ntype=RANKING",
+          "press": "조선비즈"
         }
       ],
       "related_titles": [
-        "\"트럼프, 中수출 규제 완화 전 엔비디아 주식 대규모 매입\"",
+        "엔비디아 투자자, 젠슨황 복귀 요구 서한‥온라인 청원도 11만 명 참여",
+        "\"젠슨 황, 엔비디아 임원진에 '앨리스와 적절한 관계' 거짓말\"",
         "“젠슨 황, 지난해 엔비디아 임원에 ‘앨리스와 적절한 관계’ 거짓 해명”",
-        "젠슨 황 “앨리스 황과 적절한 관계”…엔비디아 임원들에 거짓 해명",
-        "엔비디아 임원들 두 번이나 속인 젠슨 황…\"걱정 마, 앨리스 황과 난 적절한 관계야\"",
-        "13% 폭락에 '줍줍'했더니 \"엔비디아 빠져나와라\"…'빅쇼트' 버리의 경고"
+        "머스크 \"엔비디아, 젠슨 황 없으면 공급망 계약 무산될 수도\"",
+        "엔비디아 투자자, 젠슨 황 복귀 요구 서한 전달… 온라인 청원도 열기"
       ],
       "category": "주식/코인"
     },
@@ -269,45 +269,45 @@
       "rank": 2,
       "keyword": "젠슨",
       "count": 13,
-      "representative_title": "AI 거품론·젠슨 황 충격에도…삼성전자, 여전히 ‘50만전자’ 기대감",
-      "representative_link": "https://n.news.naver.com/article/029/0003059004?ntype=RANKING",
-      "press": "디지털타임스",
+      "representative_title": "깐부 젠슨 황 사임은 K반도체 둠스데이?…초대형 변수에 업계 초긴장 [반도체 투자 리포트]",
+      "representative_link": "https://n.news.naver.com/article/022/0004175142?ntype=RANKING",
+      "press": "세계일보",
       "related_articles": [
         {
-          "title": "AI 거품론·젠슨 황 충격에도…삼성전자, 여전히 ‘50만전자’ 기대감",
-          "link": "https://n.news.naver.com/article/029/0003059004?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "깐부 젠슨 황 사임은 K반도체 둠스데이?…초대형 변수에 업계 초긴장 [반도체 투자 리포트]",
+          "link": "https://n.news.naver.com/article/022/0004175142?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "AI 거품론·젠슨 황 충격에도…삼성전자, 여전히 ‘50만전자’ 기대감",
-          "link": "https://n.news.naver.com/article/029/0003059004?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "깐부 젠슨 황 사임은 K반도체 둠스데이?…초대형 변수에 업계 초긴장 [반도체 투자 리포트]",
+          "link": "https://n.news.naver.com/article/022/0004175142?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "AI 거품론·젠슨 황 충격에도…삼성전자, 여전히 ‘50만전자’ 기대감",
-          "link": "https://n.news.naver.com/article/029/0003059004?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "깐부 젠슨 황 사임은 K반도체 둠스데이?…초대형 변수에 업계 초긴장 [반도체 투자 리포트]",
+          "link": "https://n.news.naver.com/article/022/0004175142?ntype=RANKING",
+          "press": "세계일보"
         }
       ],
       "related_titles": [
-        "AI 거품론·젠슨 황 충격에도…삼성전자, 여전히 ‘50만전자’ 기대감",
-        "AI 거품론·젠슨 황 충격에도…삼성전자, 여전히 ‘50만전자’ 기대감",
-        "AI 거품론·젠슨 황 충격에도…삼성전자, 여전히 ‘50만전자’ 기대감"
+        "깐부 젠슨 황 사임은 K반도체 둠스데이?…초대형 변수에 업계 초긴장 [반도체 투자 리포트]",
+        "깐부 젠슨 황 사임은 K반도체 둠스데이?…초대형 변수에 업계 초긴장 [반도체 투자 리포트]",
+        "깐부 젠슨 황 사임은 K반도체 둠스데이?…초대형 변수에 업계 초긴장 [반도체 투자 리포트]"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
       "keyword": "주식",
-      "count": 12,
+      "count": 5,
       "representative_title": "“국내 주식 저평가…골 깊으면 산 높아”",
       "representative_link": "https://n.news.naver.com/article/353/0000057271?ntype=RANKING",
       "press": "중앙SUNDAY",
       "related_articles": [
         {
-          "title": "\"코스피 적정가는 6,390\"...그런데 상승 어렵다는 이유 [주식R]",
-          "link": "https://n.news.naver.com/article/215/0001272767?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "\"주식 폭등 없으면, 강북 집값도 슬슬 멈춘다\"는 전문가, 내년 부동산 전망은",
+          "link": "https://n.news.naver.com/article/014/0005604256?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
           "title": "\"지금 주식 당장 팔아라\"...개미들 등골 서늘해지는 '경고'",
@@ -320,9 +320,9 @@
           "press": "중앙SUNDAY"
         },
         {
-          "title": "\"코스피 적정가는 6,390\"...그런데 상승 어렵다는 이유 [주식R]",
-          "link": "https://n.news.naver.com/article/215/0001272767?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "\"주식 폭등 없으면, 강북 집값도 슬슬 멈춘다\"는 전문가, 내년 부동산 전망은",
+          "link": "https://n.news.naver.com/article/014/0005604256?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
           "title": "\"지금 주식 당장 팔아라\"...개미들 등골 서늘해지는 '경고'",
@@ -331,85 +331,97 @@
         }
       ],
       "related_titles": [
-        "\"코스피 적정가는 6,390\"...그런데 상승 어렵다는 이유 [주식R]",
+        "\"주식 폭등 없으면, 강북 집값도 슬슬 멈춘다\"는 전문가, 내년 부동산 전망은",
         "\"지금 주식 당장 팔아라\"...개미들 등골 서늘해지는 '경고'",
         "“국내 주식 저평가…골 깊으면 산 높아”",
-        "\"코스피 적정가는 6,390\"...그런데 상승 어렵다는 이유 [주식R]",
+        "\"주식 폭등 없으면, 강북 집값도 슬슬 멈춘다\"는 전문가, 내년 부동산 전망은",
         "\"지금 주식 당장 팔아라\"...개미들 등골 서늘해지는 '경고'"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "코스피",
-      "count": 4,
-      "representative_title": "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니",
-      "representative_link": "https://n.news.naver.com/article/024/0000109633?ntype=RANKING",
-      "press": "매경이코노미",
+      "keyword": "상장",
+      "count": 3,
+      "representative_title": "[공모주달력]청약자금 19조원 몰린 4곳…상장 첫날도 웃을까",
+      "representative_link": "https://n.news.naver.com/article/648/0000052631?ntype=RANKING",
+      "press": "비즈워치",
       "related_articles": [
         {
-          "title": "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니",
-          "link": "https://n.news.naver.com/article/024/0000109633?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "심사 제대로 했나… 업비트·빗썸, 올해만 35개 코인 동일 상장",
+          "link": "https://n.news.naver.com/article/366/0001204782?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "‘반짝’ 돌아왔던 외국인, 나흘 만에 ‘팔자’ 전환… 5500 넘보던 코스피 5290선 후퇴 마감",
-          "link": "https://n.news.naver.com/article/037/0000039148?ntype=RANKING",
-          "press": "주간동아"
+          "title": "[공모주달력]청약자금 19조원 몰린 4곳…상장 첫날도 웃을까",
+          "link": "https://n.news.naver.com/article/648/0000052631?ntype=RANKING",
+          "press": "비즈워치"
         },
         {
-          "title": "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니",
-          "link": "https://n.news.naver.com/article/024/0000109633?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "'코스피 2호' 에스에프씨, 일반청약&#8943;영광YKMC·옵토닉스 등 상장 [IPO 돋보기]",
+          "link": "https://n.news.naver.com/article/031/0001075061?ntype=RANKING",
+          "press": "아이뉴스24"
         },
         {
-          "title": "‘반짝’ 돌아왔던 외국인, 나흘 만에 ‘팔자’ 전환… 5500 넘보던 코스피 5290선 후퇴 마감",
-          "link": "https://n.news.naver.com/article/037/0000039148?ntype=RANKING",
-          "press": "주간동아"
+          "title": "심사 제대로 했나… 업비트·빗썸, 올해만 35개 코인 동일 상장",
+          "link": "https://n.news.naver.com/article/366/0001204782?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니",
-          "link": "https://n.news.naver.com/article/024/0000109633?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "[공모주달력]청약자금 19조원 몰린 4곳…상장 첫날도 웃을까",
+          "link": "https://n.news.naver.com/article/648/0000052631?ntype=RANKING",
+          "press": "비즈워치"
         }
       ],
       "related_titles": [
-        "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니",
-        "‘반짝’ 돌아왔던 외국인, 나흘 만에 ‘팔자’ 전환… 5500 넘보던 코스피 5290선 후퇴 마감",
-        "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니",
-        "‘반짝’ 돌아왔던 외국인, 나흘 만에 ‘팔자’ 전환… 5500 넘보던 코스피 5290선 후퇴 마감",
-        "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니"
+        "심사 제대로 했나… 업비트·빗썸, 올해만 35개 코인 동일 상장",
+        "[공모주달력]청약자금 19조원 몰린 4곳…상장 첫날도 웃을까",
+        "'코스피 2호' 에스에프씨, 일반청약&#8943;영광YKMC·옵토닉스 등 상장 [IPO 돋보기]",
+        "심사 제대로 했나… 업비트·빗썸, 올해만 35개 코인 동일 상장",
+        "[공모주달력]청약자금 19조원 몰린 4곳…상장 첫날도 웃을까"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "매수",
+      "keyword": "코스피",
       "count": 3,
-      "representative_title": "현재 폭락장은 장기투자자에게 역사적 저점 매수 기회",
-      "representative_link": "https://n.news.naver.com/article/037/0000039143?ntype=RANKING",
-      "press": "주간동아",
+      "representative_title": "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니",
+      "representative_link": "https://n.news.naver.com/article/024/0000109633?ntype=RANKING",
+      "press": "매경이코노미",
       "related_articles": [
         {
-          "title": "현재 폭락장은 장기투자자에게 역사적 저점 매수 기회",
-          "link": "https://n.news.naver.com/article/037/0000039143?ntype=RANKING",
+          "title": "‘반짝’ 돌아왔던 외국인, 나흘 만에 ‘팔자’ 전환… 5500 넘보던 코스피 5290선 후퇴 마감",
+          "link": "https://n.news.naver.com/article/037/0000039148?ntype=RANKING",
           "press": "주간동아"
         },
         {
-          "title": "현재 폭락장은 장기투자자에게 역사적 저점 매수 기회",
-          "link": "https://n.news.naver.com/article/037/0000039143?ntype=RANKING",
+          "title": "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니",
+          "link": "https://n.news.naver.com/article/024/0000109633?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "‘반짝’ 돌아왔던 외국인, 나흘 만에 ‘팔자’ 전환… 5500 넘보던 코스피 5290선 후퇴 마감",
+          "link": "https://n.news.naver.com/article/037/0000039148?ntype=RANKING",
           "press": "주간동아"
         },
         {
-          "title": "현재 폭락장은 장기투자자에게 역사적 저점 매수 기회",
-          "link": "https://n.news.naver.com/article/037/0000039143?ntype=RANKING",
+          "title": "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니",
+          "link": "https://n.news.naver.com/article/024/0000109633?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "‘반짝’ 돌아왔던 외국인, 나흘 만에 ‘팔자’ 전환… 5500 넘보던 코스피 5290선 후퇴 마감",
+          "link": "https://n.news.naver.com/article/037/0000039148?ntype=RANKING",
           "press": "주간동아"
         }
       ],
       "related_titles": [
-        "현재 폭락장은 장기투자자에게 역사적 저점 매수 기회",
-        "현재 폭락장은 장기투자자에게 역사적 저점 매수 기회",
-        "현재 폭락장은 장기투자자에게 역사적 저점 매수 기회"
+        "‘반짝’ 돌아왔던 외국인, 나흘 만에 ‘팔자’ 전환… 5500 넘보던 코스피 5290선 후퇴 마감",
+        "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니",
+        "‘반짝’ 돌아왔던 외국인, 나흘 만에 ‘팔자’ 전환… 5500 넘보던 코스피 5290선 후퇴 마감",
+        "“도대체 언제 오를까요”...코스피 반등 3가지 조건 보니",
+        "‘반짝’ 돌아왔던 외국인, 나흘 만에 ‘팔자’ 전환… 5500 넘보던 코스피 5290선 후퇴 마감"
       ],
       "category": "주식/코인"
     }
@@ -469,13 +481,13 @@
       "press": "",
       "related_articles": [
         {
-          "title": "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjejFzMTlTbHZjRDR3eDk0UlR2QVlxZ01vWDJyOU4xc1lfXzNYcG9Ud1JDWVNXUWdqZzA1cnk1anVsa2FtMkhpeVlDNHYydFFrU2dKRmt1bFJaWlFTWEE?oc=5",
+          "title": "AI ‘키맨’ 젠슨 황의 몰락…‘타도 엔비디아’ 속 AI 생태계 운명은",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NOEd6WjBxbTFYdWstX3l1MmRuLUltbkM0Q1h3bUItRjlBTEZjbmZqczNoS3BXblBwYVRMd3NNYXNLR0JxckFKbm5UUGxUd2hkQkVzRnln?oc=5",
           "press": ""
         },
         {
-          "title": "AI ‘키맨’ 젠슨 황의 몰락…‘타도 엔비디아’ 속 AI 생태계 운명은",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1URko3T2Z0QjAzcnQ3SktTcWdURGQzQmdHbjlwRWNMbWY4bmtaUmlpYnNYejhDLUhGTlpyVXUxQUxnR09VRkkzTDdXcXdPQkFscFpMakdUNTM0N3NyVWhwOVJ3?oc=5",
+          "title": "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjejFzMTlTbHZjRDR3eDk0UlR2QVlxZ01vWDJyOU4xc1lfXzNYcG9Ud1JDWVNXUWdqZzA1cnk1anVsa2FtMkhpeVlDNHYydFFrU2dKRmt1bFJaWlFTWEE?oc=5",
           "press": ""
         },
         {
@@ -495,8 +507,8 @@
         }
       ],
       "related_titles": [
-        "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]",
         "AI ‘키맨’ 젠슨 황의 몰락…‘타도 엔비디아’ 속 AI 생태계 운명은",
+        "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]",
         "\"나는 쓰레기 같은 인간\"...젠슨 황의 몰락 [정치 ON]",
         "33년 일군 회사서 단 나흘만에 쫓겨나…‘AI 제국 황제’ 젠슨 황의 몰락",
         "'유퀴즈 사랑꾼' 젠슨 황의 몰락…中 스파이 이어 엔비디아 女부사장과도 이중 불륜 파문 [해외이슈]"
@@ -518,20 +530,20 @@
           "press": ""
         },
         {
-          "title": "33년 만에 불명예 퇴진‥\"충격적 몰락\"",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdWpTV1U1OUlZRkNyRWlHclRhNng3dVpZY085cGIySHU1QnhlNmQzSkJZejc4am9kZGtmY1NMZi1hbFBGMnF1cUFacC1pWnFNUm9COXplMkRxMlJLenJYWWI5ajBaenZBR04xMVJDcFhrVTZVR1htT9IBeEFVX3lxTE9hMHlzcWR1b1poWWgyTGR2ZXhIeFI2QzM1ZGx5SGtSOHZMRTFEMExkVVdRR3lWYmZHTjBzTHhheUNJRHlKQW1Qd0w4RWpJN2trSnl2VUxhWGduenNydEd4S094b2RVMk5ZNmZZM2swSUJMWTVMeVdNcQ?oc=5",
+          "title": "“젠슨 황, 충격적 몰락”…외신들 ‘미국 CEO 스캔들’ 재조명",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nVHUwSGFiazY3SGhTeXlHZ2ZXWkNqN0E2VHJ2bXlrcEdGU3dFUDhzd0hDcFZLTTF5RTZXd0cxZ0Z4U0JhX2I2WnhwOXlaM2pJOVpMNEVGSk8xRzQ?oc=5",
           "press": ""
         },
         {
-          "title": "“젠슨 황, 충격적 몰락”…외신들 ‘미국 CEO 스캔들’ 재조명",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nVHUwSGFiazY3SGhTeXlHZ2ZXWkNqN0E2VHJ2bXlrcEdGU3dFUDhzd0hDcFZLTTF5RTZXd0cxZ0Z4U0JhX2I2WnhwOXlaM2pJOVpMNEVGSk8xRzQ?oc=5",
+          "title": "33년 만에 불명예 퇴진‥\"충격적 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdWpTV1U1OUlZRkNyRWlHclRhNng3dVpZY085cGIySHU1QnhlNmQzSkJZejc4am9kZGtmY1NMZi1hbFBGMnF1cUFacC1pWnFNUm9COXplMkRxMlJLenJYWWI5ajBaenZBR04xMVJDcFhrVTZVR1htT9IBeEFVX3lxTE9hMHlzcWR1b1poWWgyTGR2ZXhIeFI2QzM1ZGx5SGtSOHZMRTFEMExkVVdRR3lWYmZHTjBzTHhheUNJRHlKQW1Qd0w4RWpJN2trSnl2VUxhWGduenNydEd4S094b2RVMk5ZNmZZM2swSUJMWTVMeVdNcQ?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
         "젠슨 황, 33년 만 불명예 퇴진‥\"충격적 몰락\"",
-        "33년 만에 불명예 퇴진‥\"충격적 몰락\"",
-        "“젠슨 황, 충격적 몰락”…외신들 ‘미국 CEO 스캔들’ 재조명"
+        "“젠슨 황, 충격적 몰락”…외신들 ‘미국 CEO 스캔들’ 재조명",
+        "33년 만에 불명예 퇴진‥\"충격적 몰락\""
       ],
       "category": "몰락"
     },
@@ -566,24 +578,24 @@
       "keyword": "젠슨황",
       "series_title": "젠슨황의 몰락",
       "count": 2,
-      "representative_title": "\"대체불가 AI리더\" 젠슨황의 몰락…'깐부동맹' 韓산업계도 긴장",
-      "representative_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb19ISDVlRm1JdUJlS3ZGaXhfUzZEM052QkZYYXFJUTA3S2ZRdWd6cXlxRlh1S25OT0NJNVBGSEtzbUJMcXJOLXNNNFU1S2tzcmc?oc=5",
+      "representative_title": "젠슨황 몰락에 '美 CEO 스캔들' 재조명…인텔부터 맥도날드까지",
+      "representative_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVExsV0RUX2k1M3Fud0NHelhfZzFMZFRDaHZrejhNVkJaTEo4ZFBrNDdJSkU0RWZHTkk2SDF2dk94VkhVNGpjWmhCN1FUSmZyMVEzUTJDVXlITEnSAWBBVV95cUxQNFZKNi1CZjBNUWhIanJRdnFTSDZ0amFqZHp4bzdfOWJ5akNWWndpRjR5cDRLbEFzblJWU1Zmb0FVdFNxQzdBZzV4QlNYeEVfV2pUUU9GSUlVV0RzUm9mNDg?oc=5",
       "press": "",
       "related_articles": [
-        {
-          "title": "\"대체불가 AI리더\" 젠슨황의 몰락…'깐부동맹' 韓산업계도 긴장",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb19ISDVlRm1JdUJlS3ZGaXhfUzZEM052QkZYYXFJUTA3S2ZRdWd6cXlxRlh1S25OT0NJNVBGSEtzbUJMcXJOLXNNNFU1S2tzcmc?oc=5",
-          "press": ""
-        },
         {
           "title": "젠슨황 몰락에 '美 CEO 스캔들' 재조명…인텔부터 맥도날드까지",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVExsV0RUX2k1M3Fud0NHelhfZzFMZFRDaHZrejhNVkJaTEo4ZFBrNDdJSkU0RWZHTkk2SDF2dk94VkhVNGpjWmhCN1FUSmZyMVEzUTJDVXlITEnSAWBBVV95cUxQNFZKNi1CZjBNUWhIanJRdnFTSDZ0amFqZHp4bzdfOWJ5akNWWndpRjR5cDRLbEFzblJWU1Zmb0FVdFNxQzdBZzV4QlNYeEVfV2pUUU9GSUlVV0RzUm9mNDg?oc=5",
           "press": ""
+        },
+        {
+          "title": "\"대체불가 AI리더\" 젠슨황의 몰락…'깐부동맹' 韓산업계도 긴장",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb19ISDVlRm1JdUJlS3ZGaXhfUzZEM052QkZYYXFJUTA3S2ZRdWd6cXlxRlh1S25OT0NJNVBGSEtzbUJMcXJOLXNNNFU1S2tzcmc?oc=5",
+          "press": ""
         }
       ],
       "related_titles": [
-        "\"대체불가 AI리더\" 젠슨황의 몰락…'깐부동맹' 韓산업계도 긴장",
-        "젠슨황 몰락에 '美 CEO 스캔들' 재조명…인텔부터 맥도날드까지"
+        "젠슨황 몰락에 '美 CEO 스캔들' 재조명…인텔부터 맥도날드까지",
+        "\"대체불가 AI리더\" 젠슨황의 몰락…'깐부동맹' 韓산업계도 긴장"
       ],
       "category": "몰락"
     }
@@ -592,7 +604,7 @@
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 9,
+      "count": 8,
       "representative_title": "강남 이어 한강벨트 하락…서울 집값 안정 기대 확산",
       "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ta0x1b2J1dzhhdkhFM2FmTDR0a1gycGwwVWtWeVBPOVpldlVTcnB1X2VCT0o5X2xmUUVLMEdQWHpqeFUwWWRfekNRMjRWWmJGQWZNcUJCMzZiOXhncFpXLXRPMGRORkNPWnUwQw?oc=5",
       "press": "",
