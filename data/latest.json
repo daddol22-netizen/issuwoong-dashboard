@@ -1,32 +1,27 @@
 {
   "date": "2026-11-16",
-  "hour": "13",
-  "slot": "2026-11-16_13",
-  "crawled_at": "2026-11-16 13:00:05",
-  "total_articles": 395,
+  "hour": "16",
+  "slot": "2026-11-16_16",
+  "crawled_at": "2026-11-16 16:00:02",
+  "total_articles": 399,
   "topics": [
     {
       "rank": 1,
       "keyword": "수능",
-      "count": 35,
+      "count": 47,
       "representative_title": "교육부 “수능 연기 없다”",
       "representative_link": "https://n.news.naver.com/article/366/0001205041?ntype=RANKING",
       "press": "조선비즈",
       "related_articles": [
         {
-          "title": "[속보] \"수능 부정행위 땐 3년 자격 박탈 추진\"…교육부 장관 \"스마트안경 인력 1명 배치\"",
-          "link": "https://n.news.naver.com/article/469/0000965760?ntype=RANKING",
-          "press": "한국일보"
+          "title": "교육부 \"초소형 카메라도 철저히 감독‥수능 연기는 검토 안 해\"",
+          "link": "https://n.news.naver.com/article/214/0001535847?ntype=RANKING",
+          "press": "MBC"
         },
         {
-          "title": "수능 사흘 남았는데 \"연기해야\"…국어 일타강사 작심 발언",
-          "link": "https://n.news.naver.com/article/015/0005354159?ntype=RANKING",
-          "press": "한국경제"
-        },
-        {
-          "title": "번지는 'AI 부정' 불안에…미미미누 \"수능 연기도 고려해야\" [소셜픽]",
-          "link": "https://n.news.naver.com/article/437/0000520849?ntype=RANKING",
-          "press": "JTBC"
+          "title": "“대책 없으면 수능 연기해야”…국어 일타강사 유대종도 입 열었다",
+          "link": "https://n.news.naver.com/article/018/0006410446?ntype=RANKING",
+          "press": "이데일리"
         },
         {
           "title": "수학 7등급 유튜버, AI 안경 쓰고 수능 봤더니 '충격 결과'",
@@ -34,189 +29,194 @@
           "press": "JTBC"
         },
         {
-          "title": "‘AI 안경 논란’에 장동혁 “대책 없다면 수능 연기 검토해야”",
-          "link": "https://n.news.naver.com/article/032/0003482872?ntype=RANKING",
-          "press": "경향신문"
+          "title": "[속보] 정부, 수능 스마트기기 반납·공공 와이파이 차단 추진",
+          "link": "https://n.news.naver.com/article/437/0000520906?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "[속보] 정부, 수능 시험장 스마트기기 반납·공공 와이파이 차단 추진",
+          "link": "https://n.news.naver.com/article/028/0002832405?ntype=RANKING",
+          "press": "한겨레"
         }
       ],
       "related_titles": [
-        "[속보] \"수능 부정행위 땐 3년 자격 박탈 추진\"…교육부 장관 \"스마트안경 인력 1명 배치\"",
-        "수능 사흘 남았는데 \"연기해야\"…국어 일타강사 작심 발언",
-        "번지는 'AI 부정' 불안에…미미미누 \"수능 연기도 고려해야\" [소셜픽]",
+        "교육부 \"초소형 카메라도 철저히 감독‥수능 연기는 검토 안 해\"",
+        "“대책 없으면 수능 연기해야”…국어 일타강사 유대종도 입 열었다",
         "수학 7등급 유튜버, AI 안경 쓰고 수능 봤더니 '충격 결과'",
-        "‘AI 안경 논란’에 장동혁 “대책 없다면 수능 연기 검토해야”"
+        "[속보] 정부, 수능 스마트기기 반납·공공 와이파이 차단 추진",
+        "[속보] 정부, 수능 시험장 스마트기기 반납·공공 와이파이 차단 추진"
       ],
       "category": "산업/테크"
     },
     {
       "rank": 2,
-      "keyword": "젠슨",
-      "count": 26,
-      "representative_title": "젠슨 황, 엔비디아 복귀 논의",
-      "representative_link": "https://n.news.naver.com/article/050/0000113271?ntype=RANKING",
-      "press": "한경비즈니스",
+      "keyword": "부정행위",
+      "count": 27,
+      "representative_title": "'AI 부정행위' 파장...정부, 국가자격시험 전수조사",
+      "representative_link": "https://n.news.naver.com/article/655/0000033586?ntype=RANKING",
+      "press": "CJB청주방송",
       "related_articles": [
         {
-          "title": "'전시 상황실' 꾸린 젠슨 황…사임 나흘 만에 복귀 움직임",
-          "link": "https://n.news.naver.com/article/437/0000520833?ntype=RANKING",
+          "title": "\"난 수도권 의대 진학했다\"…AI 부정행위 고백 글에 수험가 술렁",
+          "link": "https://n.news.naver.com/article/014/0005604816?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "세무사 수석합격자, 초소형 카메라 등 증거품 제출…경찰 \"부정행위 대책반 발족\"",
+          "link": "https://n.news.naver.com/article/437/0000520898?ntype=RANKING",
           "press": "JTBC"
         },
         {
-          "title": "젠슨 황, 엔비디아 CEO 복귀할까…\"측근들과 논의\"",
-          "link": "https://n.news.naver.com/article/092/0002445405?ntype=RANKING",
-          "press": "지디넷코리아"
+          "title": "AI 부정행위 '세무사 수석' 과거도 파묘… \"서울로봇고 '모바일로봇반' 활동\"",
+          "link": "https://n.news.naver.com/article/469/0000965782?ntype=RANKING",
+          "press": "한국일보"
         },
         {
-          "title": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중…백악관 설득 시도\"",
-          "link": "https://n.news.naver.com/article/001/0016442874?ntype=RANKING",
-          "press": "연합뉴스"
+          "title": "경찰, ‘AI 부정행위’ 세무사 수석 합격자 수사 착수…초소형 카메라·노트북 분석",
+          "link": "https://n.news.naver.com/article/056/0012294533?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "“젠슨 황 나흘 만에 엔비디아 복귀 시도...백악관 지지 로비 나서”",
-          "link": "https://n.news.naver.com/article/081/0003699594?ntype=RANKING",
-          "press": "서울신문"
-        },
-        {
-          "title": "“40년 사랑꾼 연기였나”…젠슨 황 전기 작가가 폭로한 두 얼굴",
-          "link": "https://n.news.naver.com/article/081/0003699690?ntype=RANKING",
-          "press": "서울신문"
+          "title": "세무사 AI커닝 파문…역대 첫 LEET 만점자도 부정행위 의혹",
+          "link": "https://n.news.naver.com/article/654/0000211520?ntype=RANKING",
+          "press": "강원도민일보"
         }
       ],
       "related_titles": [
-        "'전시 상황실' 꾸린 젠슨 황…사임 나흘 만에 복귀 움직임",
-        "젠슨 황, 엔비디아 CEO 복귀할까…\"측근들과 논의\"",
-        "\"젠슨 황, 엔비디아 CEO 복귀 논의 중…백악관 설득 시도\"",
-        "“젠슨 황 나흘 만에 엔비디아 복귀 시도...백악관 지지 로비 나서”",
-        "“40년 사랑꾼 연기였나”…젠슨 황 전기 작가가 폭로한 두 얼굴"
+        "\"난 수도권 의대 진학했다\"…AI 부정행위 고백 글에 수험가 술렁",
+        "세무사 수석합격자, 초소형 카메라 등 증거품 제출…경찰 \"부정행위 대책반 발족\"",
+        "AI 부정행위 '세무사 수석' 과거도 파묘… \"서울로봇고 '모바일로봇반' 활동\"",
+        "경찰, ‘AI 부정행위’ 세무사 수석 합격자 수사 착수…초소형 카메라·노트북 분석",
+        "세무사 AI커닝 파문…역대 첫 LEET 만점자도 부정행위 의혹"
       ],
-      "category": "사회/일반"
+      "category": "산업/테크"
     },
     {
       "rank": 3,
-      "keyword": "대통령",
-      "count": 25,
-      "representative_title": "이재명 대통령 지지율 36.4%",
-      "representative_link": "https://n.news.naver.com/article/087/0001231042?ntype=RANKING",
-      "press": "강원일보",
+      "keyword": "만원",
+      "count": 18,
+      "representative_title": "“김정은 2년내 사망 1000만원” MZ무속인 예언",
+      "representative_link": "https://n.news.naver.com/article/021/0002833010?ntype=RANKING",
+      "press": "문화일보",
       "related_articles": [
         {
-          "title": "박지원 \"최민희 징계, 피할 수 없어… 이 대통령 정체성 훼손시켰다\"",
-          "link": "https://n.news.naver.com/article/469/0000965750?ntype=RANKING",
-          "press": "한국일보"
+          "title": "\"김정은 2년 안에 사망할 것, 틀리면 1000만원\"…'MZ 무속인'의 예언",
+          "link": "https://n.news.naver.com/article/014/0005604766?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
-          "title": "[속보] 이 대통령, 17일 필리핀서 다카이치와 4번째 한·일 정상회담···셔틀외교 이어간다",
-          "link": "https://n.news.naver.com/article/032/0003482880?ntype=RANKING",
-          "press": "경향신문"
+          "title": "첫 출근도 안 했는데 \"보너스 4000만원 드려요\"…이 회사 어디?",
+          "link": "https://n.news.naver.com/article/018/0006410186?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "최민희 “이 대통령 개혁 적극 지지…제 책임 묻는 절차 성실히 임할 것”",
-          "link": "https://n.news.naver.com/article/032/0003482875?ntype=RANKING",
-          "press": "경향신문"
+          "title": "“내일 지나면 못 산다”…평생 매달 150만원 꽂히는 이 상품",
+          "link": "https://n.news.naver.com/article/025/0003565440?ntype=RANKING",
+          "press": "중앙일보"
         },
         {
-          "title": "[속보] 이 대통령 지지율 36.4%…국힘 43.0%·민주 34.6% [리얼미터]",
-          "link": "https://n.news.naver.com/article/009/0005764122?ntype=RANKING",
-          "press": "매일경제"
+          "title": "\"딸이 50만원 쓴 덕분에 당첨\"…TV 앞에서 쇼핑하던 고객들의 '공연 나들이'[르포]",
+          "link": "https://n.news.naver.com/article/277/0005842847?ntype=RANKING",
+          "press": "아시아경제"
         },
         {
-          "title": "李 대통령 “개똥밭에 뒹굴어도 이승이 낫다고 하지 않느냐”…생계·의료 지원 뜻 밝혀",
-          "link": "https://n.news.naver.com/article/009/0005764176?ntype=RANKING",
-          "press": "매일경제"
+          "title": "주가 62% 폭락 “정말 큰일이다” 했는데…280만원 간다는 ‘이 주식’, 전망 보니",
+          "link": "https://n.news.naver.com/article/011/0004682395?ntype=RANKING",
+          "press": "서울경제"
         }
       ],
       "related_titles": [
-        "박지원 \"최민희 징계, 피할 수 없어… 이 대통령 정체성 훼손시켰다\"",
-        "[속보] 이 대통령, 17일 필리핀서 다카이치와 4번째 한·일 정상회담···셔틀외교 이어간다",
-        "최민희 “이 대통령 개혁 적극 지지…제 책임 묻는 절차 성실히 임할 것”",
-        "[속보] 이 대통령 지지율 36.4%…국힘 43.0%·민주 34.6% [리얼미터]",
-        "李 대통령 “개똥밭에 뒹굴어도 이승이 낫다고 하지 않느냐”…생계·의료 지원 뜻 밝혀"
+        "\"김정은 2년 안에 사망할 것, 틀리면 1000만원\"…'MZ 무속인'의 예언",
+        "첫 출근도 안 했는데 \"보너스 4000만원 드려요\"…이 회사 어디?",
+        "“내일 지나면 못 산다”…평생 매달 150만원 꽂히는 이 상품",
+        "\"딸이 50만원 쓴 덕분에 당첨\"…TV 앞에서 쇼핑하던 고객들의 '공연 나들이'[르포]",
+        "주가 62% 폭락 “정말 큰일이다” 했는데…280만원 간다는 ‘이 주식’, 전망 보니"
       ],
-      "category": "국제"
+      "category": "경제/투자"
     },
     {
       "rank": 4,
-      "keyword": "부정행위",
-      "count": 22,
-      "representative_title": "스마트안경 부정행위 물렀거라~ ‘AI인스펙터’ 나가신다",
-      "representative_link": "https://n.news.naver.com/article/024/0000109648?ntype=RANKING",
-      "press": "매경이코노미",
+      "keyword": "세무사",
+      "count": 17,
+      "representative_title": "경찰, '세무사 시험 수석' 초소형 카메라 확보…소환 임박",
+      "representative_link": "https://n.news.naver.com/article/586/0000142358?ntype=RANKING",
+      "press": "시사저널",
       "related_articles": [
         {
-          "title": "‘부정행위’ 수석 합격자가 털어놓은 말 \"부모님의 자랑이 되고 싶었다\" [아침&매일경제]",
-          "link": "https://n.news.naver.com/article/057/0001978382?ntype=RANKING",
-          "press": "MBN"
+          "title": "경찰, '세무사 시험 수석' 초소형 카메라 확보…소환 임박",
+          "link": "https://n.news.naver.com/article/586/0000142358?ntype=RANKING",
+          "press": "시사저널"
         },
         {
-          "title": "강성태,&#160;자백 하루 전 경고 \"이미 많은 수가 부정행위 합격…이번 수능도 뚫린다\"",
-          "link": "https://n.news.naver.com/article/469/0000965768?ntype=RANKING",
-          "press": "한국일보"
+          "title": "세무사 AI커닝에…'법학적성시험' 최초 만점자에도 쏠리는 눈",
+          "link": "https://n.news.naver.com/article/001/0016443787?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "[속보] 교육장관 \"AI 스마트안경 부정행위, 형사 고발...응시자격 박탈\"",
-          "link": "https://n.news.naver.com/article/052/0002433361?ntype=RANKING",
-          "press": "YTN"
+          "title": "\"난 욕심 안 부리고 AI로 9급 합격\"…세무사 자백 영상 댓글 논란",
+          "link": "https://n.news.naver.com/article/015/0005354246?ntype=RANKING",
+          "press": "한국경제"
         },
         {
-          "title": "“왜 걸려서, 난 욕심 안부리고 9급 합격” 세무사 AI부정행위 고백 영상에 댓글",
-          "link": "https://n.news.naver.com/article/021/0002833022?ntype=RANKING",
-          "press": "문화일보"
+          "title": "경찰 \"세무사 수석합격자 초소형카메라 확보…공범 여부도 조사\"",
+          "link": "https://n.news.naver.com/article/031/0001075303?ntype=RANKING",
+          "press": "아이뉴스24"
         },
         {
-          "title": "사흘 뒤 수능인데, 'AI 부정행위'에 초비상…커닝 못 막나?",
-          "link": "https://n.news.naver.com/article/374/0000543804?ntype=RANKING",
-          "press": "SBS Biz"
+          "title": "\"김연아급 억울할 뻔\"…너덜더널 수험서 든 세무사 차석에 '진짜 수석' 응원",
+          "link": "https://n.news.naver.com/article/421/0009290183?ntype=RANKING",
+          "press": "뉴스1"
         }
       ],
       "related_titles": [
-        "‘부정행위’ 수석 합격자가 털어놓은 말 \"부모님의 자랑이 되고 싶었다\" [아침&매일경제]",
-        "강성태,&#160;자백 하루 전 경고 \"이미 많은 수가 부정행위 합격…이번 수능도 뚫린다\"",
-        "[속보] 교육장관 \"AI 스마트안경 부정행위, 형사 고발...응시자격 박탈\"",
-        "“왜 걸려서, 난 욕심 안부리고 9급 합격” 세무사 AI부정행위 고백 영상에 댓글",
-        "사흘 뒤 수능인데, 'AI 부정행위'에 초비상…커닝 못 막나?"
+        "경찰, '세무사 시험 수석' 초소형 카메라 확보…소환 임박",
+        "세무사 AI커닝에…'법학적성시험' 최초 만점자에도 쏠리는 눈",
+        "\"난 욕심 안 부리고 AI로 9급 합격\"…세무사 자백 영상 댓글 논란",
+        "경찰 \"세무사 수석합격자 초소형카메라 확보…공범 여부도 조사\"",
+        "\"김연아급 억울할 뻔\"…너덜더널 수험서 든 세무사 차석에 '진짜 수석' 응원"
       ],
       "category": "산업/테크"
     },
     {
       "rank": 5,
-      "keyword": "한덕수",
-      "count": 21,
-      "representative_title": "대법원, 한덕수 내란중요임무 19일 선고…구속만료 하루전",
-      "representative_link": "https://n.news.naver.com/article/437/0000520869?ntype=RANKING",
-      "press": "JTBC",
+      "keyword": "젠슨",
+      "count": 17,
+      "representative_title": "물러난 젠슨 황, 나흘 만에 컴백 움직임",
+      "representative_link": "https://n.news.naver.com/article/024/0000109663?ntype=RANKING",
+      "press": "매경이코노미",
       "related_articles": [
         {
-          "title": "구속만료 하루 전에…대법, 한덕수 내란중요임무 19일 선고",
-          "link": "https://n.news.naver.com/article/029/0003059294?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "젠슨 황 전기작가 “식당서 1천달러 팁 주던 그…의심스러웠다”",
+          "link": "https://n.news.naver.com/article/028/0002832403?ntype=RANKING",
+          "press": "한겨레"
         },
         {
-          "title": "대법원, 한덕수 내란중요임무 19일 선고…구속만료 하루전",
-          "link": "https://n.news.naver.com/article/437/0000520869?ntype=RANKING",
-          "press": "JTBC"
+          "title": "“젠슨 황 ‘자아도취적 쾌감’에 푹 빠져…식당서 1000달러 팁 주기도”",
+          "link": "https://n.news.naver.com/article/020/0003762730?ntype=RANKING",
+          "press": "동아일보"
         },
         {
-          "title": "[속보] 대법, 한덕수 ‘내란 혐의’ 19일 심리 아닌 선고하기로···징역 15년 확정 여부 주목",
-          "link": "https://n.news.naver.com/article/032/0003482864?ntype=RANKING",
-          "press": "경향신문"
+          "title": "\"젠슨 황 사임이 기회\"…서학개미, 엔비디아 4500억원 '줍줍'",
+          "link": "https://n.news.naver.com/article/586/0000142357?ntype=RANKING",
+          "press": "시사저널"
         },
         {
-          "title": "'내란 가담' 한덕수 오는 19일 선고...구속기간 만료 하루 전",
-          "link": "https://n.news.naver.com/article/052/0002433345?ntype=RANKING",
-          "press": "YTN"
+          "title": "젠슨 황, '빛의 속도'로 복귀?…\"겉모습은 연기\" 폭로도 [포크뉴스]",
+          "link": "https://n.news.naver.com/article/057/0001978392?ntype=RANKING",
+          "press": "MBN"
         },
         {
-          "title": "대법, 한덕수 구속 만기 하루 전 19일 선고… 구속 상태 이어질 듯",
-          "link": "https://n.news.naver.com/article/023/0004009830?ntype=RANKING",
-          "press": "조선일보"
+          "title": "“젠슨 황, 나흘 만에 엔비디아 CEO 복귀 타진”",
+          "link": "https://n.news.naver.com/article/366/0001204926?ntype=RANKING",
+          "press": "조선비즈"
         }
       ],
       "related_titles": [
-        "구속만료 하루 전에…대법, 한덕수 내란중요임무 19일 선고",
-        "대법원, 한덕수 내란중요임무 19일 선고…구속만료 하루전",
-        "[속보] 대법, 한덕수 ‘내란 혐의’ 19일 심리 아닌 선고하기로···징역 15년 확정 여부 주목",
-        "'내란 가담' 한덕수 오는 19일 선고...구속기간 만료 하루 전",
-        "대법, 한덕수 구속 만기 하루 전 19일 선고… 구속 상태 이어질 듯"
+        "젠슨 황 전기작가 “식당서 1천달러 팁 주던 그…의심스러웠다”",
+        "“젠슨 황 ‘자아도취적 쾌감’에 푹 빠져…식당서 1000달러 팁 주기도”",
+        "\"젠슨 황 사임이 기회\"…서학개미, 엔비디아 4500억원 '줍줍'",
+        "젠슨 황, '빛의 속도'로 복귀?…\"겉모습은 연기\" 폭로도 [포크뉴스]",
+        "“젠슨 황, 나흘 만에 엔비디아 CEO 복귀 타진”"
       ],
       "category": "사회/일반"
     }
@@ -225,160 +225,160 @@
     {
       "rank": 1,
       "keyword": "젠슨",
-      "count": 15,
-      "representative_title": "젠슨 황, 엔비디아 복귀 논의",
-      "representative_link": "https://n.news.naver.com/article/050/0000113271?ntype=RANKING",
-      "press": "한경비즈니스",
+      "count": 10,
+      "representative_title": "“젠슨 황, 나흘 만에 엔비디아 CEO 복귀 타진”",
+      "representative_link": "https://n.news.naver.com/article/366/0001204926?ntype=RANKING",
+      "press": "조선비즈",
       "related_articles": [
         {
-          "title": "젠슨 황, 엔비디아 CEO 복귀할까…\"측근들과 논의\"",
-          "link": "https://n.news.naver.com/article/092/0002445405?ntype=RANKING",
-          "press": "지디넷코리아"
+          "title": "“젠슨 황 ‘자아도취적 쾌감’에 푹 빠져…식당서 1000달러 팁 주기도”",
+          "link": "https://n.news.naver.com/article/020/0003762730?ntype=RANKING",
+          "press": "동아일보"
         },
         {
-          "title": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중…백악관 설득 시도\"",
-          "link": "https://n.news.naver.com/article/001/0016442874?ntype=RANKING",
-          "press": "연합뉴스"
+          "title": "“젠슨 황, 나흘 만에 엔비디아 CEO 복귀 타진”",
+          "link": "https://n.news.naver.com/article/366/0001204926?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "“젠슨 황 나흘 만에 엔비디아 복귀 시도...백악관 지지 로비 나서”",
-          "link": "https://n.news.naver.com/article/081/0003699594?ntype=RANKING",
-          "press": "서울신문"
+          "title": "젠슨 황, 엔비디아 CEO 사임 나흘 만에 복귀 추진…실리콘밸리 주요 인사 공개 지지",
+          "link": "https://n.news.naver.com/article/087/0001231043?ntype=RANKING",
+          "press": "강원일보"
         },
         {
-          "title": "‘엔비디아 탄생지’ 자랑하던 미 식당…젠슨 황 사퇴 즉시 기념판 뗐다",
-          "link": "https://n.news.naver.com/article/028/0002832291?ntype=RANKING",
-          "press": "한겨레"
+          "title": "“젠슨 황 나흘 만에 엔비디아 복귀 시도…‘전시 상황실’ 꾸려 백악관 설득”",
+          "link": "https://n.news.naver.com/article/022/0004175395?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "코스피 반등 열쇠 쥔 엔비디아…'젠슨 황 복귀론' 속 실적발표 주목",
-          "link": "https://n.news.naver.com/article/003/0014324137?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "끝나지 않은 '젠슨 황 쇼크'…코스피, 5100선 하락",
+          "link": "https://n.news.naver.com/article/648/0000052658?ntype=RANKING",
+          "press": "비즈워치"
         }
       ],
       "related_titles": [
-        "젠슨 황, 엔비디아 CEO 복귀할까…\"측근들과 논의\"",
-        "\"젠슨 황, 엔비디아 CEO 복귀 논의 중…백악관 설득 시도\"",
-        "“젠슨 황 나흘 만에 엔비디아 복귀 시도...백악관 지지 로비 나서”",
-        "‘엔비디아 탄생지’ 자랑하던 미 식당…젠슨 황 사퇴 즉시 기념판 뗐다",
-        "코스피 반등 열쇠 쥔 엔비디아…'젠슨 황 복귀론' 속 실적발표 주목"
+        "“젠슨 황 ‘자아도취적 쾌감’에 푹 빠져…식당서 1000달러 팁 주기도”",
+        "“젠슨 황, 나흘 만에 엔비디아 CEO 복귀 타진”",
+        "젠슨 황, 엔비디아 CEO 사임 나흘 만에 복귀 추진…실리콘밸리 주요 인사 공개 지지",
+        "“젠슨 황 나흘 만에 엔비디아 복귀 시도…‘전시 상황실’ 꾸려 백악관 설득”",
+        "끝나지 않은 '젠슨 황 쇼크'…코스피, 5100선 하락"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
       "keyword": "엔비디아",
-      "count": 15,
-      "representative_title": "엔비디아 실적, 앤트로픽 상장에 쏠린 눈...코스피 방향 가른다",
-      "representative_link": "https://n.news.naver.com/article/648/0000052654?ntype=RANKING",
-      "press": "비즈워치",
+      "count": 8,
+      "representative_title": "“지금 불륜이 문제가 아닙니다”…엔비디아 성장성에 4554억 베팅한 서학개미",
+      "representative_link": "https://n.news.naver.com/article/009/0005764286?ntype=RANKING",
+      "press": "매일경제",
       "related_articles": [
         {
-          "title": "엔비디아 실적, 앤트로픽 상장에 쏠린 눈...코스피 방향 가른다",
-          "link": "https://n.news.naver.com/article/648/0000052654?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "“지금 불륜이 문제가 아닙니다”…엔비디아 성장성에 4554억 베팅한 서학개미",
+          "link": "https://n.news.naver.com/article/009/0005764286?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "엔비디아 실적, 앤트로픽 상장에 쏠린 눈...코스피 방향 가른다",
-          "link": "https://n.news.naver.com/article/648/0000052654?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "“지금 불륜이 문제가 아닙니다”…엔비디아 성장성에 4554억 베팅한 서학개미",
+          "link": "https://n.news.naver.com/article/009/0005764286?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "엔비디아 실적, 앤트로픽 상장에 쏠린 눈...코스피 방향 가른다",
-          "link": "https://n.news.naver.com/article/648/0000052654?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "“지금 불륜이 문제가 아닙니다”…엔비디아 성장성에 4554억 베팅한 서학개미",
+          "link": "https://n.news.naver.com/article/009/0005764286?ntype=RANKING",
+          "press": "매일경제"
         }
       ],
       "related_titles": [
-        "엔비디아 실적, 앤트로픽 상장에 쏠린 눈...코스피 방향 가른다",
-        "엔비디아 실적, 앤트로픽 상장에 쏠린 눈...코스피 방향 가른다",
-        "엔비디아 실적, 앤트로픽 상장에 쏠린 눈...코스피 방향 가른다"
+        "“지금 불륜이 문제가 아닙니다”…엔비디아 성장성에 4554억 베팅한 서학개미",
+        "“지금 불륜이 문제가 아닙니다”…엔비디아 성장성에 4554억 베팅한 서학개미",
+        "“지금 불륜이 문제가 아닙니다”…엔비디아 성장성에 4554억 베팅한 서학개미"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
       "keyword": "코스피",
-      "count": 6,
-      "representative_title": "82% 올라야 본전인데...\"반등하면 바로 판다\" 코스피 발목",
-      "representative_link": "https://n.news.naver.com/article/008/0005441554?ntype=RANKING",
-      "press": "머니투데이",
+      "count": 4,
+      "representative_title": "코스피 5100선까지 밀려…SK하이닉스 6%대 급락",
+      "representative_link": "https://n.news.naver.com/article/018/0006410463?ntype=RANKING",
+      "press": "이데일리",
       "related_articles": [
         {
-          "title": "아파트 중도금 2억 날린 남성에…\"코스피, 지하실 있을 수도\" 경고",
-          "link": "https://n.news.naver.com/article/018/0006410345?ntype=RANKING",
+          "title": "코스피 5100선까지 밀려…SK하이닉스 6%대 급락",
+          "link": "https://n.news.naver.com/article/018/0006410463?ntype=RANKING",
           "press": "이데일리"
         },
         {
-          "title": "코스피 1만 넘는다더니…“4분기가 저점, 내년 8300 목표” [줍줍 리포트]",
-          "link": "https://n.news.naver.com/article/011/0004682495?ntype=RANKING",
+          "title": "[속보] 코스피, 3% 넘게 하락해 5000선으로…5거래일 만",
+          "link": "https://n.news.naver.com/article/011/0004682647?ntype=RANKING",
           "press": "서울경제"
         },
         {
-          "title": "82% 올라야 본전인데...\"반등하면 바로 판다\" 코스피 발목",
-          "link": "https://n.news.naver.com/article/008/0005441554?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "코스피 5100선까지 밀려…SK하이닉스 6%대 급락",
+          "link": "https://n.news.naver.com/article/018/0006410463?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "[속보] 코스피·코스닥, 2∼3% 하락으로 낙폭 확대…외국인 '팔자'",
-          "link": "https://n.news.naver.com/article/082/0001407279?ntype=RANKING",
-          "press": "부산일보"
+          "title": "[속보] 코스피, 3% 넘게 하락해 5000선으로…5거래일 만",
+          "link": "https://n.news.naver.com/article/011/0004682647?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "[속보] 코스피·코스닥, 2∼3% 하락으로 낙폭 확대…외국인 '팔자'",
-          "link": "https://n.news.naver.com/article/082/0001407279?ntype=RANKING",
-          "press": "부산일보"
+          "title": "코스피 5100선까지 밀려…SK하이닉스 6%대 급락",
+          "link": "https://n.news.naver.com/article/018/0006410463?ntype=RANKING",
+          "press": "이데일리"
         }
       ],
       "related_titles": [
-        "아파트 중도금 2억 날린 남성에…\"코스피, 지하실 있을 수도\" 경고",
-        "코스피 1만 넘는다더니…“4분기가 저점, 내년 8300 목표” [줍줍 리포트]",
-        "82% 올라야 본전인데...\"반등하면 바로 판다\" 코스피 발목",
-        "[속보] 코스피·코스닥, 2∼3% 하락으로 낙폭 확대…외국인 '팔자'",
-        "[속보] 코스피·코스닥, 2∼3% 하락으로 낙폭 확대…외국인 '팔자'"
+        "코스피 5100선까지 밀려…SK하이닉스 6%대 급락",
+        "[속보] 코스피, 3% 넘게 하락해 5000선으로…5거래일 만",
+        "코스피 5100선까지 밀려…SK하이닉스 6%대 급락",
+        "[속보] 코스피, 3% 넘게 하락해 5000선으로…5거래일 만",
+        "코스피 5100선까지 밀려…SK하이닉스 6%대 급락"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "주가",
+      "keyword": "주식",
       "count": 3,
-      "representative_title": "대법, 19일 ‘내란 혐의’ 한덕수·‘주가 조작’ 김건희 사건 선고",
-      "representative_link": "https://n.news.naver.com/article/056/0012294451?ntype=RANKING",
-      "press": "KBS",
+      "representative_title": "주식 90% 한 곳에 몰빵?…증권사에 돈 맡겼다가 '날벼락'",
+      "representative_link": "https://n.news.naver.com/article/015/0005354213?ntype=RANKING",
+      "press": "한국경제",
       "related_articles": [
+        {
+          "title": "주식 90% 한 곳에 몰빵?…증권사에 돈 맡겼다가 '날벼락'",
+          "link": "https://n.news.naver.com/article/015/0005354213?ntype=RANKING",
+          "press": "한국경제"
+        },
         {
           "title": "주가 62% 폭락 “정말 큰일이다” 했는데…280만원 간다는 ‘이 주식’, 전망 보니",
           "link": "https://n.news.naver.com/article/011/0004682395?ntype=RANKING",
           "press": "서울경제"
         },
         {
-          "title": "대법, 19일 ‘내란 혐의’ 한덕수·‘주가 조작’ 김건희 사건 선고",
-          "link": "https://n.news.naver.com/article/056/0012294451?ntype=RANKING",
-          "press": "KBS"
+          "title": "맡긴 주식 다음 날 팔리고 계좌는 거래정지…랩 투자자가 놓친 것",
+          "link": "https://n.news.naver.com/article/123/0002394114?ntype=RANKING",
+          "press": "조세일보"
         },
         {
-          "title": "[속보] 대법, 19일 ‘내란 혐의’ 한덕수‘·주가 조작’ 김건희 사건 선고",
-          "link": "https://n.news.naver.com/article/022/0004175453?ntype=RANKING",
-          "press": "세계일보"
+          "title": "주가 62% 폭락 “정말 큰일이다” 했는데…280만원 간다는 ‘이 주식’, 전망 보니",
+          "link": "https://n.news.naver.com/article/011/0004682395?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "대법, 19일 ‘내란 혐의’ 한덕수·‘주가 조작’ 김건희 사건 선고",
-          "link": "https://n.news.naver.com/article/056/0012294451?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "[속보] 대법, 19일 ‘내란 혐의’ 한덕수‘·주가 조작’ 김건희 사건 선고",
-          "link": "https://n.news.naver.com/article/022/0004175453?ntype=RANKING",
-          "press": "세계일보"
+          "title": "주식 90% 한 곳에 몰빵?…증권사에 돈 맡겼다가 '날벼락'",
+          "link": "https://n.news.naver.com/article/015/0005354213?ntype=RANKING",
+          "press": "한국경제"
         }
       ],
       "related_titles": [
+        "주식 90% 한 곳에 몰빵?…증권사에 돈 맡겼다가 '날벼락'",
         "주가 62% 폭락 “정말 큰일이다” 했는데…280만원 간다는 ‘이 주식’, 전망 보니",
-        "대법, 19일 ‘내란 혐의’ 한덕수·‘주가 조작’ 김건희 사건 선고",
-        "[속보] 대법, 19일 ‘내란 혐의’ 한덕수‘·주가 조작’ 김건희 사건 선고",
-        "대법, 19일 ‘내란 혐의’ 한덕수·‘주가 조작’ 김건희 사건 선고",
-        "[속보] 대법, 19일 ‘내란 혐의’ 한덕수‘·주가 조작’ 김건희 사건 선고"
+        "맡긴 주식 다음 날 팔리고 계좌는 거래정지…랩 투자자가 놓친 것",
+        "주가 62% 폭락 “정말 큰일이다” 했는데…280만원 간다는 ‘이 주식’, 전망 보니",
+        "주식 90% 한 곳에 몰빵?…증권사에 돈 맡겼다가 '날벼락'"
       ],
       "category": "주식/코인"
     }
@@ -500,6 +500,32 @@
     },
     {
       "rank": 4,
+      "keyword": "충격적",
+      "series_title": "충격적의 몰락",
+      "count": 2,
+      "representative_title": "33년 만에 불명예 퇴진‥\"충격적 몰락\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdWpTV1U1OUlZRkNyRWlHclRhNng3dVpZY085cGIySHU1QnhlNmQzSkJZejc4am9kZGtmY1NMZi1hbFBGMnF1cUFacC1pWnFNUm9COXplMkRxMlJLenJYWWI5ajBaenZBR04xMVJDcFhrVTZVR1htT9IBeEFVX3lxTE9hMHlzcWR1b1poWWgyTGR2ZXhIeFI2QzM1ZGx5SGtSOHZMRTFEMExkVVdRR3lWYmZHTjBzTHhheUNJRHlKQW1Qd0w4RWpJN2trSnl2VUxhWGduenNydEd4S094b2RVMk5ZNmZZM2swSUJMWTVMeVdNcQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“젠슨 황, 충격적 몰락”…외신들 ‘미국 CEO 스캔들’ 재조명",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nVHUwSGFiazY3SGhTeXlHZ2ZXWkNqN0E2VHJ2bXlrcEdGU3dFUDhzd0hDcFZLTTF5RTZXd0cxZ0Z4U0JhX2I2WnhwOXlaM2pJOVpMNEVGSk8xRzQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "33년 만에 불명예 퇴진‥\"충격적 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdWpTV1U1OUlZRkNyRWlHclRhNng3dVpZY085cGIySHU1QnhlNmQzSkJZejc4am9kZGtmY1NMZi1hbFBGMnF1cUFacC1pWnFNUm9COXplMkRxMlJLenJYWWI5ajBaenZBR04xMVJDcFhrVTZVR1htT9IBeEFVX3lxTE9hMHlzcWR1b1poWWgyTGR2ZXhIeFI2QzM1ZGx5SGtSOHZMRTFEMExkVVdRR3lWYmZHTjBzTHhheUNJRHlKQW1Qd0w4RWpJN2trSnl2VUxhWGduenNydEd4S094b2RVMk5ZNmZZM2swSUJMWTVMeVdNcQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“젠슨 황, 충격적 몰락”…외신들 ‘미국 CEO 스캔들’ 재조명",
+        "33년 만에 불명예 퇴진‥\"충격적 몰락\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
       "keyword": "젠슨황",
       "series_title": "젠슨황의 몰락",
       "count": 2,
@@ -523,39 +549,13 @@
         "\"대체불가 AI리더\" 젠슨황의 몰락…'깐부동맹' 韓산업계도 긴장"
       ],
       "category": "몰락"
-    },
-    {
-      "rank": 5,
-      "keyword": "충격적",
-      "series_title": "충격적의 몰락",
-      "count": 2,
-      "representative_title": "33년 만에 불명예 퇴진‥\"충격적 몰락\"",
-      "representative_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdWpTV1U1OUlZRkNyRWlHclRhNng3dVpZY085cGIySHU1QnhlNmQzSkJZejc4am9kZGtmY1NMZi1hbFBGMnF1cUFacC1pWnFNUm9COXplMkRxMlJLenJYWWI5ajBaenZBR04xMVJDcFhrVTZVR1htT9IBeEFVX3lxTE9hMHlzcWR1b1poWWgyTGR2ZXhIeFI2QzM1ZGx5SGtSOHZMRTFEMExkVVdRR3lWYmZHTjBzTHhheUNJRHlKQW1Qd0w4RWpJN2trSnl2VUxhWGduenNydEd4S094b2RVMk5ZNmZZM2swSUJMWTVMeVdNcQ?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "33년 만에 불명예 퇴진‥\"충격적 몰락\"",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdWpTV1U1OUlZRkNyRWlHclRhNng3dVpZY085cGIySHU1QnhlNmQzSkJZejc4am9kZGtmY1NMZi1hbFBGMnF1cUFacC1pWnFNUm9COXplMkRxMlJLenJYWWI5ajBaenZBR04xMVJDcFhrVTZVR1htT9IBeEFVX3lxTE9hMHlzcWR1b1poWWgyTGR2ZXhIeFI2QzM1ZGx5SGtSOHZMRTFEMExkVVdRR3lWYmZHTjBzTHhheUNJRHlKQW1Qd0w4RWpJN2trSnl2VUxhWGduenNydEd4S094b2RVMk5ZNmZZM2swSUJMWTVMeVdNcQ?oc=5",
-          "press": ""
-        },
-        {
-          "title": "“젠슨 황, 충격적 몰락”…외신들 ‘미국 CEO 스캔들’ 재조명",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nVHUwSGFiazY3SGhTeXlHZ2ZXWkNqN0E2VHJ2bXlrcEdGU3dFUDhzd0hDcFZLTTF5RTZXd0cxZ0Z4U0JhX2I2WnhwOXlaM2pJOVpMNEVGSk8xRzQ?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "33년 만에 불명예 퇴진‥\"충격적 몰락\"",
-        "“젠슨 황, 충격적 몰락”…외신들 ‘미국 CEO 스캔들’ 재조명"
-      ],
-      "category": "몰락"
     }
   ],
   "budongsan_topics": [
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 7,
+      "count": 5,
       "representative_title": "강남 이어 한강벨트 하락…서울 집값 안정 기대 확산",
       "representative_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ta0x1b2J1dzhhdkhFM2FmTDR0a1gycGwwVWtWeVBPOVpldlVTcnB1X2VCT0o5X2xmUUVLMEdQWHpqeFUwWWRfekNRMjRWWmJGQWZNcUJCMzZiOXhncFpXLXRPMGRORkNPWnUwQw?oc=5",
       "press": "",
@@ -581,8 +581,8 @@
           "press": ""
         },
         {
-          "title": "\"서울 집값이 오른 게 아니라 돈 가치가 떨어졌다\"…금값과 비교해 본 부동산",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHVlVaZ29aZzBKYWRvR3lnbmo5cVdTV3JoOWc0ZlNkc3ZqQUY2RzBPUTFPSVp5dzA1WDlaTEZkcGNySzlSMUZjYkZQc2c1M0lnMm41Nm5YaWQwN0dVTUhCdNIBeEFVX3lxTE1uMU1pLWIySEJCTzJlLVdlTjlNb2s5RjZnUlRHOGR2WWRONmk1Vi1nS2s5Z0FtZG5mb2hldE1lbEVGQ1lOcVAtekU0clBsb0tGY3JvX0dSc2MxQXNJZ0hVcmViSXlXUE1zWUJub19fSlB3TkRpeG1uSQ?oc=5",
+          "title": "강남 이어 한강벨트 하락…서울 집값 안정 기대 확산",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ta0x1b2J1dzhhdkhFM2FmTDR0a1gycGwwVWtWeVBPOVpldlVTcnB1X2VCT0o5X2xmUUVLMEdQWHpqeFUwWWRfekNRMjRWWmJGQWZNcUJCMzZiOXhncFpXLXRPMGRORkNPWnUwQw?oc=5",
           "press": ""
         }
       ],
@@ -591,7 +591,7 @@
         "서울 아파트 매물 8만건 돌파…거래 급감에 집값 조정 우려",
         "서울 아파트 매물 8만 건 돌파…거래 급감에 집값 조정 가능성 주목",
         "강남 집값 떨어지자 매수 신청 20% 늘었다…서울 아파트 거래 '엇갈린 신호'",
-        "\"서울 집값이 오른 게 아니라 돈 가치가 떨어졌다\"…금값과 비교해 본 부동산"
+        "강남 이어 한강벨트 하락…서울 집값 안정 기대 확산"
       ],
       "category": "부동산"
     },
