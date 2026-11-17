@@ -1,0 +1,585 @@
+{
+  "date": "2026-11-18",
+  "hour": "07",
+  "slot": "2026-11-18_07",
+  "crawled_at": "2026-11-18 07:00:01",
+  "total_articles": 410,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "수능",
+      "count": 39,
+      "representative_title": "AI 안경 단속한다는데···수능, 이대로 괜찮나?",
+      "representative_link": "https://n.news.naver.com/article/657/0000057566?ntype=RANKING",
+      "press": "대구MBC",
+      "related_articles": [
+        {
+          "title": "[단독] 리트 만점자 “AI 안 썼다…수능 날 모두 밝혀질 것”",
+          "link": "https://n.news.naver.com/article/025/0003565919?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "\"AI 부정행위 우려\" 수험생, 헌재에 19일 수능 효력정지 신청",
+          "link": "https://n.news.naver.com/article/001/0016447425?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "수능 감독수당 교사는 17만원, 교육청 고위직은 수백만원",
+          "link": "https://n.news.naver.com/article/001/0016446671?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "이 대통령 “재난문자 수능 시험 중 수시 발신 검토...부정 신고시 1억원 포상”",
+          "link": "https://n.news.naver.com/article/009/0005765217?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "문신 조폭도 수능 만점 받고 서울대 입학했다고?…'AI 부정행위' 우려에 각종 밈 등장",
+          "link": "https://n.news.naver.com/article/277/0005843845?ntype=RANKING",
+          "press": "아시아경제"
+        }
+      ],
+      "related_titles": [
+        "[단독] 리트 만점자 “AI 안 썼다…수능 날 모두 밝혀질 것”",
+        "\"AI 부정행위 우려\" 수험생, 헌재에 19일 수능 효력정지 신청",
+        "수능 감독수당 교사는 17만원, 교육청 고위직은 수백만원",
+        "이 대통령 “재난문자 수능 시험 중 수시 발신 검토...부정 신고시 1억원 포상”",
+        "문신 조폭도 수능 만점 받고 서울대 입학했다고?…'AI 부정행위' 우려에 각종 밈 등장"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 2,
+      "keyword": "부정행위",
+      "count": 21,
+      "representative_title": "\"AI로 의대 진학\" 자백에 '부정행위' 예고까지",
+      "representative_link": "https://n.news.naver.com/article/055/0001403720?ntype=RANKING",
+      "press": "SBS",
+      "related_articles": [
+        {
+          "title": "부정행위 잡았더니 \"인생 망가뜨려줄게\" 쫓아다닌 아빠",
+          "link": "https://n.news.naver.com/article/437/0000521166?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "\"DNA 구조도 모르는데 서울대 치의학과 합격‥리트 만점자, 수능도 부정행위 의혹\"",
+          "link": "https://n.news.naver.com/article/214/0001536197?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "'AI부정행위' 세무사 수석합격자 13시간 경찰조사 후 귀가(종합2보)",
+          "link": "https://n.news.naver.com/article/001/0016447557?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "\"AI로 의대 진학\" 자백에 '부정행위' 예고까지",
+          "link": "https://n.news.naver.com/article/055/0001403720?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "세무사시험 90점 이상 2명→66명 ‘벼락 인플레’…“AI 부정행위 의심”",
+          "link": "https://n.news.naver.com/article/005/0001885719?ntype=RANKING",
+          "press": "국민일보"
+        }
+      ],
+      "related_titles": [
+        "부정행위 잡았더니 \"인생 망가뜨려줄게\" 쫓아다닌 아빠",
+        "\"DNA 구조도 모르는데 서울대 치의학과 합격‥리트 만점자, 수능도 부정행위 의혹\"",
+        "'AI부정행위' 세무사 수석합격자 13시간 경찰조사 후 귀가(종합2보)",
+        "\"AI로 의대 진학\" 자백에 '부정행위' 예고까지",
+        "세무사시험 90점 이상 2명→66명 ‘벼락 인플레’…“AI 부정행위 의심”"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 3,
+      "keyword": "대통령",
+      "count": 19,
+      "representative_title": "李대통령 “부정행위는 중대범죄…공정성 흔들려선 안돼”",
+      "representative_link": "https://n.news.naver.com/article/658/0000161572?ntype=RANKING",
+      "press": "국제신문",
+      "related_articles": [
+        {
+          "title": "이 대통령·트럼프, 40초간 대화…트럼프 \"한국 투자 덕에 알래스카 LNG 사업 승인\"",
+          "link": "https://n.news.naver.com/article/437/0000521206?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "李대통령 “부정 신고하면 1억씩 포상…요행 노리다 인생 망치지 말라”",
+          "link": "https://n.news.naver.com/article/029/0003059715?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "'수능시험 중 재난문자' 수험생 피해 우려에…李대통령 \"시간 연장 검토\"",
+          "link": "https://n.news.naver.com/article/421/0009294801?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "'공소 취소 모임'에 국정조사 이어 대통령 회견까지...결국 특검으로",
+          "link": "https://n.news.naver.com/article/052/0002434245?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "李 대통령 “입시부정 신고하면 1억원 포상… 시험 중 재난문자 수시 발신”",
+          "link": "https://n.news.naver.com/article/366/0001205483?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "이 대통령·트럼프, 40초간 대화…트럼프 \"한국 투자 덕에 알래스카 LNG 사업 승인\"",
+        "李대통령 “부정 신고하면 1억씩 포상…요행 노리다 인생 망치지 말라”",
+        "'수능시험 중 재난문자' 수험생 피해 우려에…李대통령 \"시간 연장 검토\"",
+        "'공소 취소 모임'에 국정조사 이어 대통령 회견까지...결국 특검으로",
+        "李 대통령 “입시부정 신고하면 1억원 포상… 시험 중 재난문자 수시 발신”"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 4,
+      "keyword": "젠슨",
+      "count": 19,
+      "representative_title": "젠슨 황, 침묵 깨고 \"이사회 원하면 CEO 복귀\"",
+      "representative_link": "https://n.news.naver.com/article/014/0005605826?ntype=RANKING",
+      "press": "파이낸셜뉴스",
+      "related_articles": [
+        {
+          "title": "젠슨 황 “이사회 요청 시 복귀”…내달 1일 美 하원 ‘스파이 스캔들’ 청문회 출석",
+          "link": "https://n.news.naver.com/article/029/0003059725?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "젠슨 황 \"이사회 요청 시 엔비디아 복귀\"‥사임 후 첫 공개 발언",
+          "link": "https://n.news.naver.com/article/214/0001536247?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "아내가 젠슨 황과 연인 관계 있는 동안…앨리스 황의 남편이 중국서 한 일",
+          "link": "https://n.news.naver.com/article/009/0005765023?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "젠슨 황, 침묵 깨고 \"이사회 원하면 CEO 복귀\"",
+          "link": "https://n.news.naver.com/article/014/0005605826?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "젠슨 황 \"이사회 요청하면 엔비디아 복귀\"…사임 후 첫 입장 표명",
+          "link": "https://n.news.naver.com/article/469/0000966170?ntype=RANKING",
+          "press": "한국일보"
+        }
+      ],
+      "related_titles": [
+        "젠슨 황 “이사회 요청 시 복귀”…내달 1일 美 하원 ‘스파이 스캔들’ 청문회 출석",
+        "젠슨 황 \"이사회 요청 시 엔비디아 복귀\"‥사임 후 첫 공개 발언",
+        "아내가 젠슨 황과 연인 관계 있는 동안…앨리스 황의 남편이 중국서 한 일",
+        "젠슨 황, 침묵 깨고 \"이사회 원하면 CEO 복귀\"",
+        "젠슨 황 \"이사회 요청하면 엔비디아 복귀\"…사임 후 첫 입장 표명"
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 5,
+      "keyword": "시험",
+      "count": 18,
+      "representative_title": "리트 시험 중 불빛 '번쩍'…딱 걸린 20대女 해명이",
+      "representative_link": "https://n.news.naver.com/article/215/0001273057?ntype=RANKING",
+      "press": "한국경제TV",
+      "related_articles": [
+        {
+          "title": "[단독] \"스마트안경 금지 몰랐다\" LEET 시험 중 '불빛 번쩍'",
+          "link": "https://n.news.naver.com/article/437/0000521158?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "옷 싹 벗겼다…‘속옷 차림’ 잔디밭서 시험 치른 이 나라, 충격 장면",
+          "link": "https://n.news.naver.com/article/025/0003565985?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "세무사 시험 90점 이상, 작년 2명→올해 66명… \"조직범죄 의심\"",
+          "link": "https://n.news.naver.com/article/469/0000966146?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "리트 시험 중 불빛 '번쩍'…\"스마트안경 썼지만 문제는 안 풀어\" 20대 입건",
+          "link": "https://n.news.naver.com/article/008/0005442570?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "“재난문자 소리에 시험 망칠 것”... 수험생들, 李 대책에 부글",
+          "link": "https://n.news.naver.com/article/023/0004010154?ntype=RANKING",
+          "press": "조선일보"
+        }
+      ],
+      "related_titles": [
+        "[단독] \"스마트안경 금지 몰랐다\" LEET 시험 중 '불빛 번쩍'",
+        "옷 싹 벗겼다…‘속옷 차림’ 잔디밭서 시험 치른 이 나라, 충격 장면",
+        "세무사 시험 90점 이상, 작년 2명→올해 66명… \"조직범죄 의심\"",
+        "리트 시험 중 불빛 '번쩍'…\"스마트안경 썼지만 문제는 안 풀어\" 20대 입건",
+        "“재난문자 소리에 시험 망칠 것”... 수험생들, 李 대책에 부글"
+      ],
+      "category": "사회/일반"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "엔비디아",
+      "count": 11,
+      "representative_title": "“엔비디아 실적 분수령” 삼전닉스 개미들 비명",
+      "representative_link": "https://n.news.naver.com/article/050/0000113423?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "젠슨 황 \"이사회 요청 시 엔비디아 복귀\"‥사임 후 첫 공개 발언",
+          "link": "https://n.news.naver.com/article/214/0001536247?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "젠슨 황 \"이사회 요청하면 엔비디아 복귀\"…사임 후 첫 입장 표명",
+          "link": "https://n.news.naver.com/article/469/0000966170?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "‘불륜’ 젠슨 황 “엔비디아 복귀 의사 있다”…사임 후 첫 공개 발언",
+          "link": "https://n.news.naver.com/article/081/0003700464?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "젠슨 황 “이사회 원하면 엔비디아 CEO 복귀 의사 있다”",
+          "link": "https://n.news.naver.com/article/366/0001205491?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "엔비디아, 젠슨황 사퇴 후 첫 실적…경영 불확실성 해소하나",
+          "link": "https://n.news.naver.com/article/018/0006411433?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "젠슨 황 \"이사회 요청 시 엔비디아 복귀\"‥사임 후 첫 공개 발언",
+        "젠슨 황 \"이사회 요청하면 엔비디아 복귀\"…사임 후 첫 입장 표명",
+        "‘불륜’ 젠슨 황 “엔비디아 복귀 의사 있다”…사임 후 첫 공개 발언",
+        "젠슨 황 “이사회 원하면 엔비디아 CEO 복귀 의사 있다”",
+        "엔비디아, 젠슨황 사퇴 후 첫 실적…경영 불확실성 해소하나"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "투자",
+      "count": 6,
+      "representative_title": "LG전자 “ESG는 비용 아닌 투자”…재무성과로 잇는다",
+      "representative_link": "https://n.news.naver.com/article/262/0000019860?ntype=RANKING",
+      "press": "신동아",
+      "related_articles": [
+        {
+          "title": "이 대통령·트럼프, 40초간 대화…트럼프 \"한국 투자 덕에 알래스카 LNG 사업 승인\"",
+          "link": "https://n.news.naver.com/article/437/0000521206?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "트럼프 \"韓 역사적 투자 덕에 알래스카 LNG 사업 승인\"",
+          "link": "https://n.news.naver.com/article/421/0009294800?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "트럼프 대통령 “한국 역사적 투자 덕에 알래스카 LNG 사업 승인”",
+          "link": "https://n.news.naver.com/article/366/0001205486?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "“삼성전자·하이닉스 상승·하락에 투자”…한국투자증권, ELW 258종목 상장",
+          "link": "https://n.news.naver.com/article/138/0002248887?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "\"삼전 1억원 넣고 1원도 안 잃어\"…곽범 '투자 원칙' 살펴보니",
+          "link": "https://n.news.naver.com/article/243/0000105801?ntype=RANKING",
+          "press": "이코노미스트"
+        }
+      ],
+      "related_titles": [
+        "이 대통령·트럼프, 40초간 대화…트럼프 \"한국 투자 덕에 알래스카 LNG 사업 승인\"",
+        "트럼프 \"韓 역사적 투자 덕에 알래스카 LNG 사업 승인\"",
+        "트럼프 대통령 “한국 역사적 투자 덕에 알래스카 LNG 사업 승인”",
+        "“삼성전자·하이닉스 상승·하락에 투자”…한국투자증권, ELW 258종목 상장",
+        "\"삼전 1억원 넣고 1원도 안 잃어\"…곽범 '투자 원칙' 살펴보니"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "삼성전자",
+      "count": 6,
+      "representative_title": "\"삼성전자 20만원까지 올랐는데\"…1억원 투자한 곽범 반응",
+      "representative_link": "https://n.news.naver.com/article/014/0005605548?ntype=RANKING",
+      "press": "파이낸셜뉴스",
+      "related_articles": [
+        {
+          "title": "역대급 실적에도 삼성전자·SK하이닉스 목표가 최대 17% 깎인 이유 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004176013?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "\"삼성전자 20만원까지 올랐는데\"…1억원 투자한 곽범 반응",
+          "link": "https://n.news.naver.com/article/014/0005605548?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "6600만원 테슬라車 물거품 되더니…갤폴드에 노트북까지 1억 경품, 삼성전자 노조에 무슨 일이?",
+          "link": "https://n.news.naver.com/article/277/0005844010?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향",
+          "link": "https://n.news.naver.com/article/138/0002248893?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "500대 기업 영업이익 235% 급증… 삼성전자·SK하이닉스 빼면 1.7%",
+          "link": "https://n.news.naver.com/article/310/0000141779?ntype=RANKING",
+          "press": "여성신문"
+        }
+      ],
+      "related_titles": [
+        "역대급 실적에도 삼성전자·SK하이닉스 목표가 최대 17% 깎인 이유 [숫자 뒤의 진실]",
+        "\"삼성전자 20만원까지 올랐는데\"…1억원 투자한 곽범 반응",
+        "6600만원 테슬라車 물거품 되더니…갤폴드에 노트북까지 1억 경품, 삼성전자 노조에 무슨 일이?",
+        "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향",
+        "500대 기업 영업이익 235% 급증… 삼성전자·SK하이닉스 빼면 1.7%"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "코스피",
+      "count": 5,
+      "representative_title": "5천선 무너진 코스피...9개월 만에 최저수준",
+      "representative_link": "https://n.news.naver.com/article/052/0002434226?ntype=RANKING",
+      "press": "YTN",
+      "related_articles": [
+        {
+          "title": "5천선 무너진 코스피...9개월 만에 최저수준",
+          "link": "https://n.news.naver.com/article/052/0002434226?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "“내년 코스피 9200 간다”…NH투자증권, 상반기 강세·하반기 변동성 경고",
+          "link": "https://n.news.naver.com/article/138/0002248838?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "\"코스피 3900까지 밀릴 수도\"…의무공개매수법에 경고음",
+          "link": "https://n.news.naver.com/article/586/0000142471?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "\"천장 뚫던 코스피 어디로\" 5000선마저 붕괴… 9개월여 만에 최저 수준",
+          "link": "https://n.news.naver.com/article/656/0000192698?ntype=RANKING",
+          "press": "대전일보"
+        },
+        {
+          "title": "코스피 9개월만에 5000 붕괴…외국인 1.4조 던졌다",
+          "link": "https://n.news.naver.com/article/417/0001164642?ntype=RANKING",
+          "press": "동행미디어 시대"
+        }
+      ],
+      "related_titles": [
+        "5천선 무너진 코스피...9개월 만에 최저수준",
+        "“내년 코스피 9200 간다”…NH투자증권, 상반기 강세·하반기 변동성 경고",
+        "\"코스피 3900까지 밀릴 수도\"…의무공개매수법에 경고음",
+        "\"천장 뚫던 코스피 어디로\" 5000선마저 붕괴… 9개월여 만에 최저 수준",
+        "코스피 9개월만에 5000 붕괴…외국인 1.4조 던졌다"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "젠슨",
+      "series_title": "젠슨의 몰락",
+      "count": 7,
+      "representative_title": "\"나는 쓰레기 같은 인간\"...젠슨 황의 몰락 [정치 ON]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OVVRNTVpscUJKeG5COEpNTlJXXzBZMHhVOFduS190aVBZTW5NWTdwRlNFNHhUV1lIZUN0YlFFU0R6SEpDOTJRdWdrbUJvelR5T0YwQTJtUFFGRW1SQmc?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "젠슨 황의 몰락 불댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUh4TjN3aHF2ZTJsVkR2YmRUaG1ERk5sZllFaUVYSWdGMEt3RkhJMUtGMWxCRG1COUpGS0JHWnB2UGs2dTE5OTZTaldVZ2V1VHh6NWIwRkxtVzdUcFZ4UzVhTVFVSThpZXA3WnNsZUgxeERRY3o2MElBYWVxM0lkaTdn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjejFzMTlTbHZjRDR3eDk0UlR2QVlxZ01vWDJyOU4xc1lfXzNYcG9Ud1JDWVNXUWdqZzA1cnk1anVsa2FtMkhpeVlDNHYydFFrU2dKRmt1bFJaWlFTWEE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "AI ‘키맨’ 젠슨 황의 몰락…‘타도 엔비디아’ 속 AI 생태계 운명은",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NOEd6WjBxbTFYdWstX3l1MmRuLUltbkM0Q1h3bUItRjlBTEZjbmZqczNoS3BXblBwYVRMd3NNYXNLR0JxckFKbm5UUGxUd2hkQkVzRnln?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“나는 쓰레기 같은 인간”…트럼프도 못 막은 젠슨 황의 몰락 [이슈+]",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tSWJXVkNiNnVRckJCR3dXMzh6QnR5bVNkb3YyeEVIODZ6RUF5dlprU3FQSGh5LVBuVVdMOWtISVVxRHRWNU5OOGY5WFZFaHZSNldlVE05YU5fN3M?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MV2swMUlBUDZuR3A5TTFHZDlaRUJURUw4dnRsTTZ6TmFrd2owaDhwa3BDVUNPb2V5dVo1T0lZOGJmU19ubFE2dS1wWEx1cFJrang0U3kwTkltSVNWMHd5QUp1S1VnR2swTHNN?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "젠슨 황의 몰락 불댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+        "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]",
+        "AI ‘키맨’ 젠슨 황의 몰락…‘타도 엔비디아’ 속 AI 생태계 운명은",
+        "“나는 쓰레기 같은 인간”…트럼프도 못 막은 젠슨 황의 몰락 [이슈+]",
+        "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "황제",
+      "series_title": "황제의 몰락",
+      "count": 5,
+      "representative_title": "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aNXRRdmN2LXR4cHJ4bUp2N0dtUnU1R1Z3WnhDblF1clBrVmRDY0dNWEQ1YUtoR3VlaFpXd2EzSGJaMDB2d2dpOWdsdEhiSmVhT0VUY1l4MERHNGMwU3B6ckkzMExRS3M?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'AI 황제' 몰락에 워싱턴도 발칵···美 반도체 패권전쟁 새 국면",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YW9peG9KY2JxYkFWUF9kZ2xhVFZxazFqa1ZrVjZXTnZGLUxWY3I5M2JXNWQ0bFJjMVFReDhqdFpYQUM0d1F1NXpGZHF0c00zeC12M2E5SXh5amFNeG5henNzVTNId01WYWc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aNXRRdmN2LXR4cHJ4bUp2N0dtUnU1R1Z3WnhDblF1clBrVmRDY0dNWEQ1YUtoR3VlaFpXd2EzSGJaMDB2d2dpOWdsdEhiSmVhT0VUY1l4MERHNGMwU3B6ckkzMExRS3M?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'AI 황제' 몰락에 추락하는 엔비디아...한때 시총 4조 달러 붕괴",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CSGo1QTRuR0t2VHdGWVliaHNfb0tvOTdiaEdKZGFIYmpNRE9SSmZYLUdGUUExVkJSdFJwcnBteHpLM0lMYkxRMnJLVjNBUnY5d2JTVEVFRl9ZcEJ5YkE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"AI 황제의 몰락\"…엔비디아 창업자 젠슨 황 사임, 콜레트 크레스 임시 CEO 선임",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ua05PbGY0S1JPVFFVMVIteGRsOGJyZGN5TmwxRnhoMXQ2VDcxZEJkTHR3Wlh3SEtEVVNBTDRfNzFKT19TYWV4c05KNE9LQ1V4NzV4Tk0zNHNkaFRXb3FaZ1dQNlVUSkZldGVZWEln0gFyQVVfeXFMTnp5ZDBMM1dCSmR5THBRNWpmVFhUMUNUZ2dZQ1ZOUUFVMlhLVWVxZ2ZFaV9qaHJ4QVd0Y2dSN2VMYWdSS3JfbzVkRXFXazk3dDkxOEJDaGs2NzdsdjhMdHA1a0FuYkhfcXVRYXZwSDVTQjhB?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"AI 황제의 몰락\"…젠슨 황, 스파이 스캔들·사내 불륜에 축출 위기",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05enlGejQzQkdMZlhVa0hIZk5WWTRYWktidGdkZXU4d1lCR2g1OWs2dGJ6blZYWEdESWFZclRQUzk3REhrd0ZqNFJXZUhpTWZaeVdlZ1NZMTdLbmI5M21OV2dn?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'AI 황제' 몰락에 워싱턴도 발칵···美 반도체 패권전쟁 새 국면",
+        "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
+        "'AI 황제' 몰락에 추락하는 엔비디아...한때 시총 4조 달러 붕괴",
+        "\"AI 황제의 몰락\"…엔비디아 창업자 젠슨 황 사임, 콜레트 크레스 임시 CEO 선임",
+        "\"AI 황제의 몰락\"…젠슨 황, 스파이 스캔들·사내 불륜에 축출 위기"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 4,
+      "representative_title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lYVJ5dHJEWnlKaHlKbnByRU9fOUFMMDRNTlptUE0tUldxeTVJcVRVVHdnWDN0dVA2UnM4Q2RvOTRoUXlMU2FDQ1F6WGlZSWJYRmRtbXZEdHDSAVRBVV95cUxQQ2pZcXlFc1Bhbm5QSUhiTW1za3BpYURrc1hEa2VqVVdSMVhQdEc4US04a013ckRzdVlVWXJxSURRaGZ5dW5ld0xkbXRPWXhQUTcwVGw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTVM3NDYtY2pRMFc5c1NHTmo0dExvSC0za2Q0aUs4R2VZQVdkbG9fM09IUUlYa0VHTkFiM1pkMUVITlpfd3ZSZTBBamZIb1IySkF1bmVGcmM0czFiN1NnT3FUOWJkMnl4ZUpFVWtZNNIBc0FVX3lxTE5FQ000Nzk4WDIwVW5TaVNjUkV4VHpRU2hpTmxuM01LczIwM0E0WlhFclNZSmMycDhlNnFVR0xTMG5XcGpPLTZjS005SnNkb2FBLXdTQnNmRXkwVF9jWUFUNFVYelV5RklIaGg0R1N6TENOZFU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'조작기소 특검법' 국무회의 상정…국힘 “국민 심판 못 피해, 정권 몰락할 것”",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jUG90TE5YYm9RN1lNc2dGU1R5UEdkaXltSFZqak9GYmVnOHV4dDdsLVo1alNtZkRDQXktRnBZd01aSEZ5SjlLWTg0Tk1lZFZFNmp5Sw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+        "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+        "'조작기소 특검법' 국무회의 상정…국힘 “국민 심판 못 피해, 정권 몰락할 것”"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "젠슨황",
+      "series_title": "젠슨황의 몰락",
+      "count": 3,
+      "representative_title": "젠슨황의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOeXM3YjNGYVNVVmFKZWRBRDUwWThBOUcxcXdvamV2cFJZbXpzWlJzUUtTNWh0ZG52QlRqS3d0MGlDVHotVEFUMEJ1b2JTLUdDdDk1VVlsYmVZUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "젠슨황 몰락에 '美 CEO 스캔들' 재조명…인텔부터 맥도날드까지",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVExsV0RUX2k1M3Fud0NHelhfZzFMZFRDaHZrejhNVkJaTEo4ZFBrNDdJSkU0RWZHTkk2SDF2dk94VkhVNGpjWmhCN1FUSmZyMVEzUTJDVXlITEnSAWBBVV95cUxQNFZKNi1CZjBNUWhIanJRdnFTSDZ0amFqZHp4bzdfOWJ5akNWWndpRjR5cDRLbEFzblJWU1Zmb0FVdFNxQzdBZzV4QlNYeEVfV2pUUU9GSUlVV0RzUm9mNDg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "젠슨황의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOeXM3YjNGYVNVVmFKZWRBRDUwWThBOUcxcXdvamV2cFJZbXpzWlJzUUtTNWh0ZG52QlRqS3d0MGlDVHotVEFUMEJ1b2JTLUdDdDk1VVlsYmVZUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"대체불가 AI리더\" 젠슨황의 몰락…'깐부동맹' 韓산업계도 긴장",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb19ISDVlRm1JdUJlS3ZGaXhfUzZEM052QkZYYXFJUTA3S2ZRdWd6cXlxRlh1S25OT0NJNVBGSEtzbUJMcXJOLXNNNFU1S2tzcmc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "젠슨황 몰락에 '美 CEO 스캔들' 재조명…인텔부터 맥도날드까지",
+        "젠슨황의 몰락",
+        "\"대체불가 AI리더\" 젠슨황의 몰락…'깐부동맹' 韓산업계도 긴장"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "록스타",
+      "series_title": "록스타의 몰락",
+      "count": 2,
+      "representative_title": "AI 록스타 몰락하다",
+      "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3REFtNkFQZ2VNVzBzNkRxblRFWGpUREM4eW9FREVxUzVqMUhYT1Vuams2YTI4OTRNY1NDal9KeGxwaTllRTNCdzNOMTBKMmxfeWkzOVc3eExUYzNFbG5ZS3REUURmRGhTSTkxOFFCQWdLUDTSAWZBVV95cUxOaW00NnFxcVhnWm00d2JaLWxLcGVIVmNDV1JvTVJmXzNEd2F5NkxZb0dtTGZ4RjFJUUEzWE8tOUNUSnZOWDRKRHBhMV9xcHZJSFJyMVFTMDlxbnEtYTRGSXgtRXk0Ync?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "AI 록스타 몰락하다",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3REFtNkFQZ2VNVzBzNkRxblRFWGpUREM4eW9FREVxUzVqMUhYT1Vuams2YTI4OTRNY1NDal9KeGxwaTllRTNCdzNOMTBKMmxfeWkzOVc3eExUYzNFbG5ZS3REUURmRGhTSTkxOFFCQWdLUDTSAWZBVV95cUxOaW00NnFxcVhnWm00d2JaLWxLcGVIVmNDV1JvTVJmXzNEd2F5NkxZb0dtTGZ4RjFJUUEzWE8tOUNUSnZOWDRKRHBhMV9xcHZJSFJyMVFTMDlxbnEtYTRGSXgtRXk0Ync?oc=5",
+          "press": ""
+        },
+        {
+          "title": "신문 1면 장식한 젠슨 황…“AI 록스타 몰락하다”",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEakNEbGFPd2paZ19leVpQc2d5Vld6SVJvMUhzSmFxMENURk1jZ0RoWE5FcVBRSGtFcldnTl9OWk1XWXpyamN3YWRBbnFyd0JQR1NBQVZ0UDVGcDQ5UmgtMlpRejktUEQ5UURRZHZiMXo?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "AI 록스타 몰락하다",
+        "신문 1면 장식한 젠슨 황…“AI 록스타 몰락하다”"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": []
+}
