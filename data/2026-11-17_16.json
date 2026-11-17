@@ -1,0 +1,469 @@
+{
+  "date": "2026-11-17",
+  "hour": "16",
+  "slot": "2026-11-17_16",
+  "crawled_at": "2026-11-17 16:00:02",
+  "total_articles": 400,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "수능",
+      "count": 48,
+      "representative_title": "유승민 \"안 걸리면 의대, 걸리면 군대… 수능 연기해야\"",
+      "representative_link": "https://n.news.naver.com/article/656/0000192636?ntype=RANKING",
+      "press": "대전일보",
+      "related_articles": [
+        {
+          "title": "[속보]與 김문수 “수능 커닝 대책 막막…수험생끼리 감수해야”",
+          "link": "https://n.news.naver.com/article/021/0002833418?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "10년 전 인도 '속옷 시험' 재조명…\"수능 복장 참고해야 하나\"",
+          "link": "https://n.news.naver.com/article/422/0000926980?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "[단독] “AI 눈 속이는 특수 시험지 만들자”… 국민신문고 달군 ‘수능 AI 차단’ 아이디어",
+          "link": "https://n.news.naver.com/article/022/0004175793?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "[단독] \"내일 사전 연습하자\"…수능 노리는 中 '커닝 조직' 판친다",
+          "link": "https://n.news.naver.com/article/015/0005354679?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "LEET 만점자 AI 커닝 의혹에…서울대 수능 만점자 \"같이 풀자\"",
+          "link": "https://n.news.naver.com/article/015/0005354697?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "[속보]與 김문수 “수능 커닝 대책 막막…수험생끼리 감수해야”",
+        "10년 전 인도 '속옷 시험' 재조명…\"수능 복장 참고해야 하나\"",
+        "[단독] “AI 눈 속이는 특수 시험지 만들자”… 국민신문고 달군 ‘수능 AI 차단’ 아이디어",
+        "[단독] \"내일 사전 연습하자\"…수능 노리는 中 '커닝 조직' 판친다",
+        "LEET 만점자 AI 커닝 의혹에…서울대 수능 만점자 \"같이 풀자\""
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 2,
+      "keyword": "커닝",
+      "count": 33,
+      "representative_title": "與, AI 커닝 두고 “옆자리 수험생 감독해야”",
+      "representative_link": "https://n.news.naver.com/article/023/0004010089?ntype=RANKING",
+      "press": "조선일보",
+      "related_articles": [
+        {
+          "title": "김민석, 'AI커닝 난 못잡을 것 같다' 최교진에 \"답변 정정했어야\"(종합)",
+          "link": "https://n.news.naver.com/article/001/0016445813?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "AI 안경 쓴 '충주냥이' 김선태…9급 국어 풀며 커닝 논란 풍자",
+          "link": "https://n.news.naver.com/article/422/0000926894?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "\"08년생 버렸냐\"·\"뉴스 보고 울어\"…AI 커닝 논란에 수험생 '분통'",
+          "link": "https://n.news.naver.com/article/422/0000926893?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "김민석, ‘AI커닝 난 못잡을 것 같다’ 최교진에 “답변 정정했어야”",
+          "link": "https://n.news.naver.com/article/022/0004175861?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "\"AI 커닝, 다 찾아내니 하지 마라\"…카이스트 출신 허성범 경고",
+          "link": "https://n.news.naver.com/article/015/0005354758?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "김민석, 'AI커닝 난 못잡을 것 같다' 최교진에 \"답변 정정했어야\"(종합)",
+        "AI 안경 쓴 '충주냥이' 김선태…9급 국어 풀며 커닝 논란 풍자",
+        "\"08년생 버렸냐\"·\"뉴스 보고 울어\"…AI 커닝 논란에 수험생 '분통'",
+        "김민석, ‘AI커닝 난 못잡을 것 같다’ 최교진에 “답변 정정했어야”",
+        "\"AI 커닝, 다 찾아내니 하지 마라\"…카이스트 출신 허성범 경고"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 3,
+      "keyword": "부정행위",
+      "count": 32,
+      "representative_title": "세무사 시험 부정행위 '세무냥이', \"개조 계산기 사용\"",
+      "representative_link": "https://n.news.naver.com/article/214/0001536099?ntype=RANKING",
+      "press": "MBC",
+      "related_articles": [
+        {
+          "title": "[속보] 민주당 “‘AI 부정행위 강력제재 특별법’ 즉시 제정 착수”",
+          "link": "https://n.news.naver.com/article/022/0004175850?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "“징역 30년, 법의 무서움 보여줘야”…‘전 충주맨’ 김선태, 시험 AI 부정행위 시연",
+          "link": "https://n.news.naver.com/article/029/0003059519?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "[단독] 서강대 편입생 ‘AI 부정행위 의혹’...학교 측 “공식 조사 착수, 사실이면 입학 취소”",
+          "link": "https://n.news.naver.com/article/023/0004010084?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "“1500만원만 있으면 의대·SKY 합격”…대치맘 AI 부정행위 브로커 고용설 확산",
+          "link": "https://n.news.naver.com/article/009/0005764817?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "與 김문수, AI 부정행위 두고 “대책 막막…옆자리 수험생 신고하게 해야”",
+          "link": "https://n.news.naver.com/article/366/0001205377?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "[속보] 민주당 “‘AI 부정행위 강력제재 특별법’ 즉시 제정 착수”",
+        "“징역 30년, 법의 무서움 보여줘야”…‘전 충주맨’ 김선태, 시험 AI 부정행위 시연",
+        "[단독] 서강대 편입생 ‘AI 부정행위 의혹’...학교 측 “공식 조사 착수, 사실이면 입학 취소”",
+        "“1500만원만 있으면 의대·SKY 합격”…대치맘 AI 부정행위 브로커 고용설 확산",
+        "與 김문수, AI 부정행위 두고 “대책 막막…옆자리 수험생 신고하게 해야”"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 4,
+      "keyword": "안경",
+      "count": 19,
+      "representative_title": "\"수능서 안경·시계 전수 점검…미반납 스마트기기 적발\"",
+      "representative_link": "https://n.news.naver.com/article/417/0001164583?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "韓총리 \"수능서 스마트기기 원천 차단…안경·시계 전수검사\"",
+          "link": "https://n.news.naver.com/article/001/0016445857?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "'안경 뉴스' 임현주 아나운서, MBC 퇴사…\"13년 8개월간 재직\"",
+          "link": "https://n.news.naver.com/article/018/0006411081?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "“안경 뉴스, 노브라 생방”…13년 근무 MBC 떠나는 아나운서",
+          "link": "https://n.news.naver.com/article/009/0005764678?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "“절대 티 안나요” “전공시험 때 성공”…AI안경 대여 문의해보니",
+          "link": "https://n.news.naver.com/article/028/0002832431?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "'노브라 생방'에 '안경 뉴스'…임현주 아나운서, 13년 만에 MBC 떠난다",
+          "link": "https://n.news.naver.com/article/448/0000651545?ntype=RANKING",
+          "press": "TV조선"
+        }
+      ],
+      "related_titles": [
+        "韓총리 \"수능서 스마트기기 원천 차단…안경·시계 전수검사\"",
+        "'안경 뉴스' 임현주 아나운서, MBC 퇴사…\"13년 8개월간 재직\"",
+        "“안경 뉴스, 노브라 생방”…13년 근무 MBC 떠나는 아나운서",
+        "“절대 티 안나요” “전공시험 때 성공”…AI안경 대여 문의해보니",
+        "'노브라 생방'에 '안경 뉴스'…임현주 아나운서, 13년 만에 MBC 떠난다"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 5,
+      "keyword": "세무사",
+      "count": 16,
+      "representative_title": "세무사 수석, 경찰 출석해 '90도 사과'…“책임지겠다”",
+      "representative_link": "https://n.news.naver.com/article/005/0001885590?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "세무사 수석, 경찰 출석해 '90도 사과'…“책임지겠다”",
+          "link": "https://n.news.naver.com/article/005/0001885590?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "세무사 수석 ‘세무냥이’ 경찰 출석 “잘못에 대한 책임질 것&#8943;시험 준비해 오신 수험생과 관계자분들께 진심으로 죄송”",
+          "link": "https://n.news.naver.com/article/087/0001231318?ntype=RANKING",
+          "press": "강원일보"
+        }
+      ],
+      "related_titles": [
+        "세무사 수석, 경찰 출석해 '90도 사과'…“책임지겠다”",
+        "세무사 수석 ‘세무냥이’ 경찰 출석 “잘못에 대한 책임질 것&#8943;시험 준비해 오신 수험생과 관계자분들께 진심으로 죄송”"
+      ],
+      "category": "사건/사고"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "엔비디아",
+      "count": 9,
+      "representative_title": "“복귀 청원에도” 엔비디아 선긋기",
+      "representative_link": "https://n.news.naver.com/article/050/0000113355?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "젠슨 황 두둔한 트럼프…'불륜 의혹' 보고에도 엔비디아 주식 거래 계속",
+          "link": "https://n.news.naver.com/article/008/0005442172?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "“젠슨 황 딸 매디슨, 엔비디아 ‘비선 실세’ 군림… 아버지 등에 업고 임원진 호통\"",
+          "link": "https://n.news.naver.com/article/366/0001205371?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "엔비디아 이사회, “젠슨 황 CEO로 복귀시키기 위한 어떤 논의도 진행하지 않고 있어…안보문제 조사 집중”",
+          "link": "https://n.news.naver.com/article/087/0001231311?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "“내 딸을 두려워하라”…경영진도 꼼짝 못 한 젠슨 황 딸, 엔비디아 실세",
+          "link": "https://n.news.naver.com/article/018/0006411065?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "엔비디아 이사회 “젠슨 황 복귀 논의 안 하고 조사에 집중”...\"온라인 복귀 청원 18만 명\"",
+          "link": "https://n.news.naver.com/article/657/0000057535?ntype=RANKING",
+          "press": "대구MBC"
+        }
+      ],
+      "related_titles": [
+        "젠슨 황 두둔한 트럼프…'불륜 의혹' 보고에도 엔비디아 주식 거래 계속",
+        "“젠슨 황 딸 매디슨, 엔비디아 ‘비선 실세’ 군림… 아버지 등에 업고 임원진 호통\"",
+        "엔비디아 이사회, “젠슨 황 CEO로 복귀시키기 위한 어떤 논의도 진행하지 않고 있어…안보문제 조사 집중”",
+        "“내 딸을 두려워하라”…경영진도 꼼짝 못 한 젠슨 황 딸, 엔비디아 실세",
+        "엔비디아 이사회 “젠슨 황 복귀 논의 안 하고 조사에 집중”...\"온라인 복귀 청원 18만 명\""
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "코스피",
+      "count": 3,
+      "representative_title": "모건스탠리 \"코스피 1만 선 가능‥한국 르네상스 온다\"",
+      "representative_link": "https://n.news.naver.com/article/214/0001536013?ntype=RANKING",
+      "press": "MBC",
+      "related_articles": [
+        {
+          "title": "[속보]코스피 장중 5000선 재붕괴..외인 1.1조 매도",
+          "link": "https://n.news.naver.com/article/014/0005605498?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "‘9000피’ 꿈 같은데 “코스피 1만 갈 것, 한국 르네상스 온다” 모건스탠리 전망",
+          "link": "https://n.news.naver.com/article/011/0004682857?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "모건스탠리 \"코스피 1만 선 가능‥한국 르네상스 온다\"",
+          "link": "https://n.news.naver.com/article/214/0001536013?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "[속보]코스피 장중 5000선 재붕괴..외인 1.1조 매도",
+          "link": "https://n.news.naver.com/article/014/0005605498?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "모건스탠리 \"코스피 1만 선 가능‥한국 르네상스 온다\"",
+          "link": "https://n.news.naver.com/article/214/0001536013?ntype=RANKING",
+          "press": "MBC"
+        }
+      ],
+      "related_titles": [
+        "[속보]코스피 장중 5000선 재붕괴..외인 1.1조 매도",
+        "‘9000피’ 꿈 같은데 “코스피 1만 갈 것, 한국 르네상스 온다” 모건스탠리 전망",
+        "모건스탠리 \"코스피 1만 선 가능‥한국 르네상스 온다\"",
+        "[속보]코스피 장중 5000선 재붕괴..외인 1.1조 매도",
+        "모건스탠리 \"코스피 1만 선 가능‥한국 르네상스 온다\""
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "젠슨",
+      "series_title": "젠슨의 몰락",
+      "count": 7,
+      "representative_title": "\"나는 쓰레기 같은 인간\"...젠슨 황의 몰락 [정치 ON]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OVVRNTVpscUJKeG5COEpNTlJXXzBZMHhVOFduS190aVBZTW5NWTdwRlNFNHhUV1lIZUN0YlFFU0R6SEpDOTJRdWdrbUJvelR5T0YwQTJtUFFGRW1SQmc?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“나는 쓰레기 같은 인간”…트럼프도 못 막은 젠슨 황의 몰락 [이슈+]",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tSWJXVkNiNnVRckJCR3dXMzh6QnR5bVNkb3YyeEVIODZ6RUF5dlprU3FQSGh5LVBuVVdMOWtISVVxRHRWNU5OOGY5WFZFaHZSNldlVE05YU5fN3M?oc=5",
+          "press": ""
+        },
+        {
+          "title": "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjejFzMTlTbHZjRDR3eDk0UlR2QVlxZ01vWDJyOU4xc1lfXzNYcG9Ud1JDWVNXUWdqZzA1cnk1anVsa2FtMkhpeVlDNHYydFFrU2dKRmt1bFJaWlFTWEE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MV2swMUlBUDZuR3A5TTFHZDlaRUJURUw4dnRsTTZ6TmFrd2owaDhwa3BDVUNPb2V5dVo1T0lZOGJmU19ubFE2dS1wWEx1cFJrang0U3kwTkltSVNWMHd5QUp1S1VnR2swTHNN?oc=5",
+          "press": ""
+        },
+        {
+          "title": "AI ‘키맨’ 젠슨 황의 몰락…‘타도 엔비디아’ 속 AI 생태계 운명은",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1URko3T2Z0QjAzcnQ3SktTcWdURGQzQmdHbjlwRWNMbWY4bmtaUmlpYnNYejhDLUhGTlpyVXUxQUxnR09VRkkzTDdXcXdPQkFscFpMakdUNTM0N3NyVWhwOVJ3?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"나는 쓰레기 같은 인간\"...젠슨 황의 몰락 [정치 ON]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OVVRNTVpscUJKeG5COEpNTlJXXzBZMHhVOFduS190aVBZTW5NWTdwRlNFNHhUV1lIZUN0YlFFU0R6SEpDOTJRdWdrbUJvelR5T0YwQTJtUFFGRW1SQmc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“나는 쓰레기 같은 인간”…트럼프도 못 막은 젠슨 황의 몰락 [이슈+]",
+        "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]",
+        "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다",
+        "AI ‘키맨’ 젠슨 황의 몰락…‘타도 엔비디아’ 속 AI 생태계 운명은",
+        "\"나는 쓰레기 같은 인간\"...젠슨 황의 몰락 [정치 ON]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "황제",
+      "series_title": "황제의 몰락",
+      "count": 6,
+      "representative_title": "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aNXRRdmN2LXR4cHJ4bUp2N0dtUnU1R1Z3WnhDblF1clBrVmRDY0dNWEQ1YUtoR3VlaFpXd2EzSGJaMDB2d2dpOWdsdEhiSmVhT0VUY1l4MERHNGMwU3B6ckkzMExRS3M?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'AI 황제' 몰락에 워싱턴도 발칵···美 반도체 패권전쟁 새 국면",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YW9peG9KY2JxYkFWUF9kZ2xhVFZxazFqa1ZrVjZXTnZGLUxWY3I5M2JXNWQ0bFJjMVFReDhqdFpYQUM0d1F1NXpGZHF0c00zeC12M2E5SXh5amFNeG5henNzVTNId01WYWc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aNXRRdmN2LXR4cHJ4bUp2N0dtUnU1R1Z3WnhDblF1clBrVmRDY0dNWEQ1YUtoR3VlaFpXd2EzSGJaMDB2d2dpOWdsdEhiSmVhT0VUY1l4MERHNGMwU3B6ckkzMExRS3M?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"AI 황제의 몰락\"…젠슨 황, 스파이 스캔들·사내 불륜에 축출 위기",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05enlGejQzQkdMZlhVa0hIZk5WWTRYWktidGdkZXU4d1lCR2g1OWs2dGJ6blZYWEdESWFZclRQUzk3REhrd0ZqNFJXZUhpTWZaeVdlZ1NZMTdLbmI5M21OV2dn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'AI 황제' 몰락에 추락하는 엔비디아...한때 시총 4조 달러 붕괴",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CSGo1QTRuR0t2VHdGWVliaHNfb0tvOTdiaEdKZGFIYmpNRE9SSmZYLUdGUUExVkJSdFJwcnBteHpLM0lMYkxRMnJLVjNBUnY5d2JTVEVFRl9ZcEJ5YkE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"AI 황제의 몰락\"…엔비디아 창업자 젠슨 황 사임, 콜레트 크레스 임시 CEO 선임",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ua05PbGY0S1JPVFFVMVIteGRsOGJyZGN5TmwxRnhoMXQ2VDcxZEJkTHR3Wlh3SEtEVVNBTDRfNzFKT19TYWV4c05KNE9LQ1V4NzV4Tk0zNHNkaFRXb3FaZ1dQNlVUSkZldGVZWEln0gFyQVVfeXFMTnp5ZDBMM1dCSmR5THBRNWpmVFhUMUNUZ2dZQ1ZOUUFVMlhLVWVxZ2ZFaV9qaHJ4QVd0Y2dSN2VMYWdSS3JfbzVkRXFXazk3dDkxOEJDaGs2NzdsdjhMdHA1a0FuYkhfcXVRYXZwSDVTQjhB?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'AI 황제' 몰락에 워싱턴도 발칵···美 반도체 패권전쟁 새 국면",
+        "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
+        "\"AI 황제의 몰락\"…젠슨 황, 스파이 스캔들·사내 불륜에 축출 위기",
+        "'AI 황제' 몰락에 추락하는 엔비디아...한때 시총 4조 달러 붕괴",
+        "\"AI 황제의 몰락\"…엔비디아 창업자 젠슨 황 사임, 콜레트 크레스 임시 CEO 선임"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "젠슨황",
+      "series_title": "젠슨황의 몰락",
+      "count": 3,
+      "representative_title": "젠슨황의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOeXM3YjNGYVNVVmFKZWRBRDUwWThBOUcxcXdvamV2cFJZbXpzWlJzUUtTNWh0ZG52QlRqS3d0MGlDVHotVEFUMEJ1b2JTLUdDdDk1VVlsYmVZUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "젠슨황의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOeXM3YjNGYVNVVmFKZWRBRDUwWThBOUcxcXdvamV2cFJZbXpzWlJzUUtTNWh0ZG52QlRqS3d0MGlDVHotVEFUMEJ1b2JTLUdDdDk1VVlsYmVZUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "젠슨황 몰락에 '美 CEO 스캔들' 재조명…인텔부터 맥도날드까지",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVExsV0RUX2k1M3Fud0NHelhfZzFMZFRDaHZrejhNVkJaTEo4ZFBrNDdJSkU0RWZHTkk2SDF2dk94VkhVNGpjWmhCN1FUSmZyMVEzUTJDVXlITEnSAWBBVV95cUxQNFZKNi1CZjBNUWhIanJRdnFTSDZ0amFqZHp4bzdfOWJ5akNWWndpRjR5cDRLbEFzblJWU1Zmb0FVdFNxQzdBZzV4QlNYeEVfV2pUUU9GSUlVV0RzUm9mNDg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "\"대체불가 AI리더\" 젠슨황의 몰락…'깐부동맹' 韓산업계도 긴장",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Bb19ISDVlRm1JdUJlS3ZGaXhfUzZEM052QkZYYXFJUTA3S2ZRdWd6cXlxRlh1S25OT0NJNVBGSEtzbUJMcXJOLXNNNFU1S2tzcmc?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "젠슨황의 몰락",
+        "젠슨황 몰락에 '美 CEO 스캔들' 재조명…인텔부터 맥도날드까지",
+        "\"대체불가 AI리더\" 젠슨황의 몰락…'깐부동맹' 韓산업계도 긴장"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 2,
+      "representative_title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'조작기소 특검법' 국무회의 상정…국힘 “국민 심판 못 피해, 정권 몰락할 것”",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jUG90TE5YYm9RN1lNc2dGU1R5UEdkaXltSFZqak9GYmVnOHV4dDdsLVo1alNtZkRDQXktRnBZd01aSEZ5SjlLWTg0Tk1lZFZFNmp5Sw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+        "'조작기소 특검법' 국무회의 상정…국힘 “국민 심판 못 피해, 정권 몰락할 것”"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "록스타",
+      "series_title": "록스타의 몰락",
+      "count": 2,
+      "representative_title": "AI 록스타 몰락하다",
+      "representative_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3REFtNkFQZ2VNVzBzNkRxblRFWGpUREM4eW9FREVxUzVqMUhYT1Vuams2YTI4OTRNY1NDal9KeGxwaTllRTNCdzNOMTBKMmxfeWkzOVc3eExUYzNFbG5ZS3REUURmRGhTSTkxOFFCQWdLUDTSAWZBVV95cUxOaW00NnFxcVhnWm00d2JaLWxLcGVIVmNDV1JvTVJmXzNEd2F5NkxZb0dtTGZ4RjFJUUEzWE8tOUNUSnZOWDRKRHBhMV9xcHZJSFJyMVFTMDlxbnEtYTRGSXgtRXk0Ync?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "AI 록스타 몰락하다",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3REFtNkFQZ2VNVzBzNkRxblRFWGpUREM4eW9FREVxUzVqMUhYT1Vuams2YTI4OTRNY1NDal9KeGxwaTllRTNCdzNOMTBKMmxfeWkzOVc3eExUYzNFbG5ZS3REUURmRGhTSTkxOFFCQWdLUDTSAWZBVV95cUxOaW00NnFxcVhnWm00d2JaLWxLcGVIVmNDV1JvTVJmXzNEd2F5NkxZb0dtTGZ4RjFJUUEzWE8tOUNUSnZOWDRKRHBhMV9xcHZJSFJyMVFTMDlxbnEtYTRGSXgtRXk0Ync?oc=5",
+          "press": ""
+        },
+        {
+          "title": "신문 1면 장식한 젠슨 황…“AI 록스타 몰락하다”",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEakNEbGFPd2paZ19leVpQc2d5Vld6SVJvMUhzSmFxMENURk1jZ0RoWE5FcVBRSGtFcldnTl9OWk1XWXpyamN3YWRBbnFyd0JQR1NBQVZ0UDVGcDQ5UmgtMlpRejktUEQ5UURRZHZiMXo?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "AI 록스타 몰락하다",
+        "신문 1면 장식한 젠슨 황…“AI 록스타 몰락하다”"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": []
+}
