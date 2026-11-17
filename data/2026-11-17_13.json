@@ -1,0 +1,359 @@
+{
+  "date": "2026-11-17",
+  "hour": "13",
+  "slot": "2026-11-17_13",
+  "crawled_at": "2026-11-17 13:00:04",
+  "total_articles": 399,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "수능",
+      "count": 39,
+      "representative_title": "수능 스마트기기 원천 차단한다…가방은 복도에 따로 보관",
+      "representative_link": "https://n.news.naver.com/article/374/0000544163?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "[속보] 한 총리 “수능 스마트기기 전원 종료 후 수거…안경·시계 전수점검”",
+          "link": "https://n.news.naver.com/article/016/0002724402?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "[속보] 韓총리 ‘수능 관리’ 오후 브리핑…“안경·시계 전수점검, 감독관 추가배치”",
+          "link": "https://n.news.naver.com/article/029/0003059533?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "“수능 미루세요…대통령 결단 필요” 현우진, AI 부정행위에 일갈",
+          "link": "https://n.news.naver.com/article/009/0005764792?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "韓총리 “수능 중 스마트기기 원천 차단…안경·시계 전수 점검\"",
+          "link": "https://n.news.naver.com/article/366/0001205314?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "[단독] \"내일 사전 연습하자\"…수능 노리는 中 '커닝 조직' 판친다",
+          "link": "https://n.news.naver.com/article/015/0005354679?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "[속보] 한 총리 “수능 스마트기기 전원 종료 후 수거…안경·시계 전수점검”",
+        "[속보] 韓총리 ‘수능 관리’ 오후 브리핑…“안경·시계 전수점검, 감독관 추가배치”",
+        "“수능 미루세요…대통령 결단 필요” 현우진, AI 부정행위에 일갈",
+        "韓총리 “수능 중 스마트기기 원천 차단…안경·시계 전수 점검\"",
+        "[단독] \"내일 사전 연습하자\"…수능 노리는 中 '커닝 조직' 판친다"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 2,
+      "keyword": "부정행위",
+      "count": 33,
+      "representative_title": "스마트안경 부정행위 12건 적발…국가자격시험 전수조사",
+      "representative_link": "https://n.news.naver.com/article/050/0000113315?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "“징역 30년, 법의 무서움 보여줘야”…‘전 충주맨’ 김선태, 시험 AI 부정행위 시연",
+          "link": "https://n.news.naver.com/article/029/0003059519?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "[속보] 공소청 “AI 부정행위, ‘징역형’ 구형 등 정식재판 회부 원칙”",
+          "link": "https://n.news.naver.com/article/029/0003059562?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "[단독] 'AI 부정행위' 세무사 수석, 7장 경위서에 \"'개조 계산기' 사용\"",
+          "link": "https://n.news.naver.com/article/055/0001403551?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "AI부정행위 우려 속 70년째 양심 지킨 '무감독 시험'",
+          "link": "https://n.news.naver.com/article/001/0016445949?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "세무사 가짜 수석, 경찰에 '계산기' 증거 자료 제출…“부정행위 사용” 실토",
+          "link": "https://n.news.naver.com/article/437/0000521068?ntype=RANKING",
+          "press": "JTBC"
+        }
+      ],
+      "related_titles": [
+        "“징역 30년, 법의 무서움 보여줘야”…‘전 충주맨’ 김선태, 시험 AI 부정행위 시연",
+        "[속보] 공소청 “AI 부정행위, ‘징역형’ 구형 등 정식재판 회부 원칙”",
+        "[단독] 'AI 부정행위' 세무사 수석, 7장 경위서에 \"'개조 계산기' 사용\"",
+        "AI부정행위 우려 속 70년째 양심 지킨 '무감독 시험'",
+        "세무사 가짜 수석, 경찰에 '계산기' 증거 자료 제출…“부정행위 사용” 실토"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 3,
+      "keyword": "안경",
+      "count": 24,
+      "representative_title": "AI 안경 경쟁 달아오른다…애플도 내년 6월 공개 추진",
+      "representative_link": "https://n.news.naver.com/article/662/0000108638?ntype=RANKING",
+      "press": "농민신문",
+      "related_articles": [
+        {
+          "title": "AI 안경 쓴 '충주냥이' 김선태…9급 국어 풀며 커닝 논란 풍자",
+          "link": "https://n.news.naver.com/article/422/0000926894?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "“안경 뉴스, 노브라 생방”…13년 근무 MBC 떠나는 아나운서",
+          "link": "https://n.news.naver.com/article/009/0005764678?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "AI 안경 쓰고 공무원 시험 본 '충주맨', 25점 받은 이유가",
+          "link": "https://n.news.naver.com/article/015/0005354615?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "韓총리 \"수능서 스마트기기 원천 차단…안경·시계 전수검사\"",
+          "link": "https://n.news.naver.com/article/001/0016445857?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "한 총리 “감독관 추가 배치·사전 모의 무관용 엄단…수험생 착용 안경 등 전수점검”",
+          "link": "https://n.news.naver.com/article/056/0012295329?ntype=RANKING",
+          "press": "KBS"
+        }
+      ],
+      "related_titles": [
+        "AI 안경 쓴 '충주냥이' 김선태…9급 국어 풀며 커닝 논란 풍자",
+        "“안경 뉴스, 노브라 생방”…13년 근무 MBC 떠나는 아나운서",
+        "AI 안경 쓰고 공무원 시험 본 '충주맨', 25점 받은 이유가",
+        "韓총리 \"수능서 스마트기기 원천 차단…안경·시계 전수검사\"",
+        "한 총리 “감독관 추가 배치·사전 모의 무관용 엄단…수험생 착용 안경 등 전수점검”"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 4,
+      "keyword": "커닝",
+      "count": 24,
+      "representative_title": "“AI 커닝, 이미 2년 전부터”…해외 처벌 수위는",
+      "representative_link": "https://n.news.naver.com/article/050/0000113308?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "\"08년생 버렸냐\"·\"뉴스 보고 울어\"…AI 커닝 논란에 수험생 '분통'",
+          "link": "https://n.news.naver.com/article/422/0000926893?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "[단독] “韓세무사시험 1등 우리 덕”…中업체 한국어로 ‘커닝 홍보’",
+          "link": "https://n.news.naver.com/article/025/0003565703?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "[속보] 'AI 커닝' 세무사 수석, 경찰 출석… \"수험생분들께 진심으로 죄송\"",
+          "link": "https://n.news.naver.com/article/469/0000965981?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "“나이가 있어서 AI커닝 100% 못 잡아” 최교진, 직무유기 피고발",
+          "link": "https://n.news.naver.com/article/081/0003700168?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "[속보] 'AI 커닝' 세무사 수석 경찰 출석…\"수험생에 죄송\"",
+          "link": "https://n.news.naver.com/article/586/0000142408?ntype=RANKING",
+          "press": "시사저널"
+        }
+      ],
+      "related_titles": [
+        "\"08년생 버렸냐\"·\"뉴스 보고 울어\"…AI 커닝 논란에 수험생 '분통'",
+        "[단독] “韓세무사시험 1등 우리 덕”…中업체 한국어로 ‘커닝 홍보’",
+        "[속보] 'AI 커닝' 세무사 수석, 경찰 출석… \"수험생분들께 진심으로 죄송\"",
+        "“나이가 있어서 AI커닝 100% 못 잡아” 최교진, 직무유기 피고발",
+        "[속보] 'AI 커닝' 세무사 수석 경찰 출석…\"수험생에 죄송\""
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 5,
+      "keyword": "총리",
+      "count": 19,
+      "representative_title": "정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결",
+      "representative_link": "https://n.news.naver.com/article/214/0001536080?ntype=RANKING",
+      "press": "MBC",
+      "related_articles": [
+        {
+          "title": "韓총리 “수험생 가방 복도에 보관하고 기기 작동여부 점검”",
+          "link": "https://n.news.naver.com/article/020/0003763011?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결",
+          "link": "https://n.news.naver.com/article/214/0001536080?ntype=RANKING",
+          "press": "MBC"
+        }
+      ],
+      "related_titles": [
+        "韓총리 “수험생 가방 복도에 보관하고 기기 작동여부 점검”",
+        "정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결"
+      ],
+      "category": "정치"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "엔비디아",
+      "count": 8,
+      "representative_title": "“복귀 청원에도” 엔비디아 선긋기",
+      "representative_link": "https://n.news.naver.com/article/050/0000113355?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "젠슨 황 떠나도 ‘비서실장’ 노릇 딸은 남아...엔비디아, 가족 경영 시험대",
+          "link": "https://n.news.naver.com/article/023/0004010053?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "“젠슨 황 감싸던 이유 있었나”…트럼프, 엔비디아 주식 최대 830억원 보유[1일1트]",
+          "link": "https://n.news.naver.com/article/016/0002724357?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "엔비디아 이사회, “젠슨 황 CEO로 복귀시키기 위한 어떤 논의도 진행하지 않고 있어…안보문제 조사 집중”",
+          "link": "https://n.news.naver.com/article/087/0001231311?ntype=RANKING",
+          "press": "강원일보"
+        },
+        {
+          "title": "트럼프 \"中에서 온 아름다운 여성, 스파이로 몰려\" 젠슨 황 감쌌지만…엔비디아 '복귀 불가'",
+          "link": "https://n.news.naver.com/article/002/0002466179?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "젠슨 황 사임 여파 계속…뉴욕증시, 엔비디아 약세 속 일제히 하락",
+          "link": "https://n.news.naver.com/article/629/0000552526?ntype=RANKING",
+          "press": "더팩트"
+        }
+      ],
+      "related_titles": [
+        "젠슨 황 떠나도 ‘비서실장’ 노릇 딸은 남아...엔비디아, 가족 경영 시험대",
+        "“젠슨 황 감싸던 이유 있었나”…트럼프, 엔비디아 주식 최대 830억원 보유[1일1트]",
+        "엔비디아 이사회, “젠슨 황 CEO로 복귀시키기 위한 어떤 논의도 진행하지 않고 있어…안보문제 조사 집중”",
+        "트럼프 \"中에서 온 아름다운 여성, 스파이로 몰려\" 젠슨 황 감쌌지만…엔비디아 '복귀 불가'",
+        "젠슨 황 사임 여파 계속…뉴욕증시, 엔비디아 약세 속 일제히 하락"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "코스피",
+      "count": 3,
+      "representative_title": "모건스탠리 \"코스피 1만 선 가능‥한국 르네상스 온다\"",
+      "representative_link": "https://n.news.naver.com/article/214/0001536013?ntype=RANKING",
+      "press": "MBC",
+      "related_articles": [
+        {
+          "title": "모건스탠리 \"코스피 1만 선 가능‥한국 르네상스 온다\"",
+          "link": "https://n.news.naver.com/article/214/0001536013?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "‘9000피’ 꿈 같은데 “코스피 1만 갈 것, 한국 르네상스 온다” 모건스탠리 전망",
+          "link": "https://n.news.naver.com/article/011/0004682857?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "“코스피 5000선마저 붕괴”…美 반도체 쇼크에 외국인 매도",
+          "link": "https://n.news.naver.com/article/138/0002248808?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "모건스탠리 \"코스피 1만 선 가능‥한국 르네상스 온다\"",
+          "link": "https://n.news.naver.com/article/214/0001536013?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "‘9000피’ 꿈 같은데 “코스피 1만 갈 것, 한국 르네상스 온다” 모건스탠리 전망",
+          "link": "https://n.news.naver.com/article/011/0004682857?ntype=RANKING",
+          "press": "서울경제"
+        }
+      ],
+      "related_titles": [
+        "모건스탠리 \"코스피 1만 선 가능‥한국 르네상스 온다\"",
+        "‘9000피’ 꿈 같은데 “코스피 1만 갈 것, 한국 르네상스 온다” 모건스탠리 전망",
+        "“코스피 5000선마저 붕괴”…美 반도체 쇼크에 외국인 매도",
+        "모건스탠리 \"코스피 1만 선 가능‥한국 르네상스 온다\"",
+        "‘9000피’ 꿈 같은데 “코스피 1만 갈 것, 한국 르네상스 온다” 모건스탠리 전망"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 6,
+      "representative_title": "경기 집값 상승률, 올해 처음 서울 추월…수도권 시장 판도 변화",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XWXYyMEt1dmN0Z0ZteXFLUUxYWDVMaHVyYWJnODFVTW9TVDNUcUtsMVl6MXV1LXB6aDl4RTRTSzRLcjBHMHpBQ21XS29RZE43dTdXeUw2SzVIMGZ4a2RHMFpiLWF0VEZidVE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "서울 집값 오름폭 석 달째 둔화…경기 상승률 역전, 평균 전셋값 5억↑ [부동산 짚어보기]",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpZ213VkNWT3h1aGxJdk1Ga2dOdWFHekRIY3I2WEZBMzdmZ05IT3NYbUliM1AyNTdDeWVqandDUjZPMVQ4dURiZE5LVlBZdGEza1NvdkFRcE1EYS1rZ0s5WlNBYXhzejJPT0NrQg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OOV9yRjBuUjNOV1RuTUZielN4Y1RBdWJ2LW1fZ0xiQ0ctbkZiLVQ3YWFJLXk1a21ZVDV0ekF4NGlndWpYSGlibmkySEItT0NSdnJQRWltbGtzM3k0Q25vUFFZM05ESWRFZklxbUc5QVo?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OOV9yRjBuUjNOV1RuTUZielN4Y1RBdWJ2LW1fZ0xiQ0ctbkZiLVQ3YWFJLXk1a21ZVDV0ekF4NGlndWpYSGlibmkySEItT0NSdnJQRWltbGtzM3k0Q25vUFFZM05ESWRFZklxbUc5QVo?oc=5",
+          "press": ""
+        },
+        {
+          "title": "경기 집값 상승률, 올해 처음 서울 추월…수도권 시장 판도 변화",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XWXYyMEt1dmN0Z0ZteXFLUUxYWDVMaHVyYWJnODFVTW9TVDNUcUtsMVl6MXV1LXB6aDl4RTRTSzRLcjBHMHpBQ21XS29RZE43dTdXeUw2SzVIMGZ4a2RHMFpiLWF0VEZidVE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 집값 하락에 ‘매수’ 노리는 수요 등장… 더 복잡해진 서울 부동산 [주말 Q&amp;A]",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aU2xyZmphSEVhRTJTdDR6elJ1eDFTVWVJbGhmYWhabVVWYWc2aEdQV2FJUmNsVE9ibXB4UEhIVXBTd2l2V1Q5U0NHNjRWNFBpWWVYZ1ZRUTlyaFVJY1lXTmwxVk95NmVpSnNLUlN3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "서울 집값 오름폭 석 달째 둔화…경기 상승률 역전, 평균 전셋값 5억↑ [부동산 짚어보기]",
+        "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월",
+        "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월",
+        "경기 집값 상승률, 올해 처음 서울 추월…수도권 시장 판도 변화",
+        "강남 집값 하락에 ‘매수’ 노리는 수요 등장… 더 복잡해진 서울 부동산 [주말 Q&amp;A]"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "경기",
+      "count": 5,
+      "representative_title": "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률",
+      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnVUUkFvNjFKUlhvZGpYdlZrMUZCQ0dIYUlsQ0syYmlISjJsX1Bsb0dfdVVpeTk2blVmUmw4Y2NIUHpGM0RncjJ5UW91eW1LdEdPc3hEYmZ6OXFhV0kxTEFUa2NOSDhKQlllakF2b2VISUVTWERjQnlwajlobzVlZFJQdHdfMEpT?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnVUUkFvNjFKUlhvZGpYdlZrMUZCQ0dIYUlsQ0syYmlISjJsX1Bsb0dfdVVpeTk2blVmUmw4Y2NIUHpGM0RncjJ5UW91eW1LdEdPc3hEYmZ6OXFhV0kxTEFUa2NOSDhKQlllakF2b2VISUVTWERjQnlwajlobzVlZFJQdHdfMEpT?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
