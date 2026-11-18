@@ -1,175 +1,89 @@
 {
   "date": "2026-11-18",
-  "hour": "10",
-  "slot": "2026-11-18_10",
-  "crawled_at": "2026-11-18 10:00:04",
-  "total_articles": 409,
+  "hour": "13",
+  "slot": "2026-11-18_13",
+  "crawled_at": "2026-11-18 13:00:02",
+  "total_articles": 408,
   "topics": [
     {
       "rank": 1,
       "keyword": "수능",
-      "count": 39,
-      "representative_title": "오늘 수능 예비소집...N수생 23년 만에 최대",
-      "representative_link": "https://n.news.naver.com/article/310/0000141806?ntype=RANKING",
-      "press": "여성신문",
+      "count": 79,
+      "representative_title": "與, '수능 부정행위 포상금 1억' 적극 검토\"",
+      "representative_link": "https://n.news.naver.com/article/374/0000544421?ntype=RANKING",
+      "press": "SBS Biz",
       "related_articles": [
+        {
+          "title": "'수능 부정행위 적발' 위급재난문자 불시에 추가 발송한다(종합)",
+          "link": "https://n.news.naver.com/article/001/0016448452?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "수능 하루 앞두고 필기구 반입 기준 변경…'흑색 연필'만 허용",
+          "link": "https://n.news.naver.com/article/001/0016448239?ntype=RANKING",
+          "press": "연합뉴스"
+        },
         {
           "title": "李대통령 \"수능中 재난문자로 시험방해시 그만큼 시간연장 검토\"",
           "link": "https://n.news.naver.com/article/001/0016447910?ntype=RANKING",
           "press": "연합뉴스"
         },
         {
-          "title": "[수능 D-1] 전자기기 미제출 땐 시험 무효…단추 달린 옷도 피해야",
-          "link": "https://n.news.naver.com/article/001/0016447741?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "'수능 날 입으면 연행되는 옷'부터 인도 '속옷 시험'까지...수능 대책에 '풍자 밈' 등장 [앵커리포트]",
-          "link": "https://n.news.naver.com/article/052/0002434349?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "'수능 날 입으면 연행되는 옷'부터 인도 '속옷 시험'까지...수능 대책에 '풍자 밈' 등장 [앵커리포트]",
-          "link": "https://n.news.naver.com/article/052/0002434349?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "\"AI 부정행위 우려\" 수험생, 헌재에 내일 수능 효력정지 신청",
-          "link": "https://n.news.naver.com/article/422/0000927194?ntype=RANKING",
-          "press": "연합뉴스TV"
-        }
-      ],
-      "related_titles": [
-        "李대통령 \"수능中 재난문자로 시험방해시 그만큼 시간연장 검토\"",
-        "[수능 D-1] 전자기기 미제출 땐 시험 무효…단추 달린 옷도 피해야",
-        "'수능 날 입으면 연행되는 옷'부터 인도 '속옷 시험'까지...수능 대책에 '풍자 밈' 등장 [앵커리포트]",
-        "'수능 날 입으면 연행되는 옷'부터 인도 '속옷 시험'까지...수능 대책에 '풍자 밈' 등장 [앵커리포트]",
-        "\"AI 부정행위 우려\" 수험생, 헌재에 내일 수능 효력정지 신청"
-      ],
-      "category": "산업/테크"
-    },
-    {
-      "rank": 2,
-      "keyword": "엔비디아",
-      "count": 37,
-      "representative_title": "엔비디아 “삼성전기와 기판 신규 계약 체결”",
-      "representative_link": "https://n.news.naver.com/article/011/0004683368?ntype=RANKING",
-      "press": "서울경제",
-      "related_articles": [
-        {
-          "title": "엔비디아 “삼성전기와 기판 신규 계약 체결”",
-          "link": "https://n.news.naver.com/article/011/0004683368?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "“엔비디아 은행이 닫힌다면”…폭락장 경고음 나왔다 [잇슈 머니]",
-          "link": "https://n.news.naver.com/article/056/0012296035?ntype=RANKING",
+          "title": "수능 하루 앞두고 필기구 반입 기준 변경…‘흑색 연필’만 허용",
+          "link": "https://n.news.naver.com/article/056/0012296253?ntype=RANKING",
           "press": "KBS"
         },
         {
-          "title": "엔비디아, 예상 훌쩍 뛰어넘은 분기 실적 발표...젠슨 황 복귀 의사",
-          "link": "https://n.news.naver.com/article/052/0002434330?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "[속보]엔비디아 3Q 매출 103% 폭증…中 빼고도 4Q 1300억달러 전망",
-          "link": "https://n.news.naver.com/article/018/0006411484?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "[오늘의 증시]엔비디아, 호실적에 시간외 2% 반등…코스피 5000선 회복할까",
-          "link": "https://n.news.naver.com/article/003/0014328705?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "“몰카 천국 만드느라 애썼다”…국회가 10년간 키운 ‘수능 재앙’",
+          "link": "https://n.news.naver.com/article/025/0003566012?ntype=RANKING",
+          "press": "중앙일보"
         }
       ],
       "related_titles": [
-        "엔비디아 “삼성전기와 기판 신규 계약 체결”",
-        "“엔비디아 은행이 닫힌다면”…폭락장 경고음 나왔다 [잇슈 머니]",
-        "엔비디아, 예상 훌쩍 뛰어넘은 분기 실적 발표...젠슨 황 복귀 의사",
-        "[속보]엔비디아 3Q 매출 103% 폭증…中 빼고도 4Q 1300억달러 전망",
-        "[오늘의 증시]엔비디아, 호실적에 시간외 2% 반등…코스피 5000선 회복할까"
+        "'수능 부정행위 적발' 위급재난문자 불시에 추가 발송한다(종합)",
+        "수능 하루 앞두고 필기구 반입 기준 변경…'흑색 연필'만 허용",
+        "李대통령 \"수능中 재난문자로 시험방해시 그만큼 시간연장 검토\"",
+        "수능 하루 앞두고 필기구 반입 기준 변경…‘흑색 연필’만 허용",
+        "“몰카 천국 만드느라 애썼다”…국회가 10년간 키운 ‘수능 재앙’"
       ],
-      "category": "경제/투자"
+      "category": "정치"
+    },
+    {
+      "rank": 2,
+      "keyword": "흑색",
+      "count": 28,
+      "representative_title": "수능장에 '흑색 연필'만 반입 허용…나머지 필기구 불가",
+      "representative_link": "https://n.news.naver.com/article/055/0001403854?ntype=RANKING",
+      "press": "SBS",
+      "related_articles": [
+        {
+          "title": "수능장에 '흑색 연필'만 반입 허용…나머지 필기구 불가",
+          "link": "https://n.news.naver.com/article/055/0001403854?ntype=RANKING",
+          "press": "SBS"
+        }
+      ],
+      "related_titles": [
+        "수능장에 '흑색 연필'만 반입 허용…나머지 필기구 불가"
+      ],
+      "category": "사회/일반"
     },
     {
       "rank": 3,
-      "keyword": "젠슨",
-      "count": 37,
-      "representative_title": "젠슨 황 퇴진에…현대차 자율주행 동맹에도 불똥?",
-      "representative_link": "https://n.news.naver.com/article/079/0004210891?ntype=RANKING",
-      "press": "노컷뉴스",
-      "related_articles": [
-        {
-          "title": "샘 올트먼 오픈AI CEO “젠슨 황 없는 AI 혁명 상상하기 어려워”",
-          "link": "https://n.news.naver.com/article/030/0003486744?ntype=RANKING",
-          "press": "전자신문"
-        },
-        {
-          "title": "젠슨 황 퇴진에…현대차 자율주행 동맹에도 불똥?",
-          "link": "https://n.news.naver.com/article/079/0004210891?ntype=RANKING",
-          "press": "노컷뉴스"
-        },
-        {
-          "title": "젠슨 황의 몰락 불당긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
-          "link": "https://n.news.naver.com/article/028/0002832716?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "아내가 젠슨 황과 연인 관계 있는 동안…앨리스 황의 남편이 중국서 한 일",
-          "link": "https://n.news.naver.com/article/009/0005765023?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "“딸은 홍보 개입, 사위는 사업 총괄”…젠슨 황 가족 권력 확대 논란",
-          "link": "https://n.news.naver.com/article/029/0003059744?ntype=RANKING",
-          "press": "디지털타임스"
-        }
-      ],
-      "related_titles": [
-        "샘 올트먼 오픈AI CEO “젠슨 황 없는 AI 혁명 상상하기 어려워”",
-        "젠슨 황 퇴진에…현대차 자율주행 동맹에도 불똥?",
-        "젠슨 황의 몰락 불당긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
-        "아내가 젠슨 황과 연인 관계 있는 동안…앨리스 황의 남편이 중국서 한 일",
-        "“딸은 홍보 개입, 사위는 사업 총괄”…젠슨 황 가족 권력 확대 논란"
-      ],
-      "category": "산업/테크"
-    },
-    {
-      "rank": 4,
-      "keyword": "이사회",
-      "count": 18,
-      "representative_title": "'불륜스캔들' 젠슨황 복귀의사 공식화…\"이사회 요청시 응할것\"(종합)",
-      "representative_link": "https://n.news.naver.com/article/001/0016447678?ntype=RANKING",
-      "press": "연합뉴스",
-      "related_articles": [
-        {
-          "title": "'불륜스캔들' 젠슨황 복귀의사 공식화…\"이사회 요청시 응할것\"(종합)",
-          "link": "https://n.news.naver.com/article/001/0016447678?ntype=RANKING",
-          "press": "연합뉴스"
-        }
-      ],
-      "related_titles": [
-        "'불륜스캔들' 젠슨황 복귀의사 공식화…\"이사회 요청시 응할것\"(종합)"
-      ],
-      "category": "건강/의료"
-    },
-    {
-      "rank": 5,
       "keyword": "부정행위",
-      "count": 17,
-      "representative_title": "\"부정행위 방지\"…서울대, 면접용 의류 지급 검토",
-      "representative_link": "https://n.news.naver.com/article/422/0000927249?ntype=RANKING",
-      "press": "연합뉴스TV",
+      "count": 22,
+      "representative_title": "\"수능날 입었다간 연행\"…정부 AI 부정행위 대책에 풍자 봇물",
+      "representative_link": "https://n.news.naver.com/article/437/0000521250?ntype=RANKING",
+      "press": "JTBC",
       "related_articles": [
         {
-          "title": "\"부정행위 방지\"…서울대, 면접용 의류 지급 검토",
-          "link": "https://n.news.naver.com/article/422/0000927249?ntype=RANKING",
-          "press": "연합뉴스TV"
+          "title": "법학적성시험 만점자, 변호사가 고발키로…\"AI 부정행위 규명해야\"",
+          "link": "https://n.news.naver.com/article/001/0016448433?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "이준석 “내가 AI 부정행위 방지앱 개발했다…교육부장관 답변 보니 한숨만”",
-          "link": "https://n.news.naver.com/article/009/0005764930?ntype=RANKING",
-          "press": "매일경제"
+          "title": "[단독] '세무사 시험 AI 부정행위' 한 씨, 수정테이프에 초소형 카메라 부착해 사용",
+          "link": "https://n.news.naver.com/article/214/0001536366?ntype=RANKING",
+          "press": "MBC"
         },
         {
           "title": "\"DNA 구조도 모르는데 서울대 치의학과 합격‥리트 만점자, 수능도 부정행위 의혹\"",
@@ -177,22 +91,108 @@
           "press": "MBC"
         },
         {
-          "title": "'AI 부정행위' 세무사 수석 30대, 13시간 경찰 조사 (종합)",
-          "link": "https://n.news.naver.com/article/629/0000552945?ntype=RANKING",
-          "press": "더팩트"
+          "title": "“스마트안경 썼지만 부정행위 안 했다” 적발된 20대女 주장… 경찰, 시험문제 촬영·전송 확인 못 해",
+          "link": "https://n.news.naver.com/article/081/0003700610?ntype=RANKING",
+          "press": "서울신문"
         },
         {
-          "title": "온라인에 '냥이 리스트'까지…AI 부정행위 의혹 잇따라",
-          "link": "https://n.news.naver.com/article/629/0000552955?ntype=RANKING",
-          "press": "더팩트"
+          "title": "\"수능날 입었다간 연행\"…정부 AI 부정행위 대책에 풍자 봇물",
+          "link": "https://n.news.naver.com/article/437/0000521250?ntype=RANKING",
+          "press": "JTBC"
         }
       ],
       "related_titles": [
-        "\"부정행위 방지\"…서울대, 면접용 의류 지급 검토",
-        "이준석 “내가 AI 부정행위 방지앱 개발했다…교육부장관 답변 보니 한숨만”",
+        "법학적성시험 만점자, 변호사가 고발키로…\"AI 부정행위 규명해야\"",
+        "[단독] '세무사 시험 AI 부정행위' 한 씨, 수정테이프에 초소형 카메라 부착해 사용",
         "\"DNA 구조도 모르는데 서울대 치의학과 합격‥리트 만점자, 수능도 부정행위 의혹\"",
-        "'AI 부정행위' 세무사 수석 30대, 13시간 경찰 조사 (종합)",
-        "온라인에 '냥이 리스트'까지…AI 부정행위 의혹 잇따라"
+        "“스마트안경 썼지만 부정행위 안 했다” 적발된 20대女 주장… 경찰, 시험문제 촬영·전송 확인 못 해",
+        "\"수능날 입었다간 연행\"…정부 AI 부정행위 대책에 풍자 봇물"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 4,
+      "keyword": "시험",
+      "count": 17,
+      "representative_title": "시험 전 옷 싹 벗겼다…잔디밭서 속옷만 입고 시험 본 이 나라",
+      "representative_link": "https://n.news.naver.com/article/025/0003565985?ntype=RANKING",
+      "press": "중앙일보",
+      "related_articles": [
+        {
+          "title": "[단독] 세무사 등 국가전문자격 37개, 수석·차석 시험 결과 공개 추진",
+          "link": "https://n.news.naver.com/article/011/0004683276?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "시험 전 옷 싹 벗겼다…잔디밭서 속옷만 입고 시험 본 이 나라",
+          "link": "https://n.news.naver.com/article/025/0003565985?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "시험 전 옷 싹 벗겼다…잔디밭서 속옷만 입고 시험 본 이 나라",
+          "link": "https://n.news.naver.com/article/025/0003565985?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "\"이번 수능서 커닝하겠다\" 공개 예고한 서울대 재학생…\"불안해 시험 못 보겠다\" 수험생 혼란",
+          "link": "https://n.news.naver.com/article/277/0005844096?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "李 대통령 \"시험 중 '재난문자' 경보음 울리면 시험시간 연장해야\"",
+          "link": "https://n.news.naver.com/article/018/0006411721?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "[단독] 세무사 등 국가전문자격 37개, 수석·차석 시험 결과 공개 추진",
+        "시험 전 옷 싹 벗겼다…잔디밭서 속옷만 입고 시험 본 이 나라",
+        "시험 전 옷 싹 벗겼다…잔디밭서 속옷만 입고 시험 본 이 나라",
+        "\"이번 수능서 커닝하겠다\" 공개 예고한 서울대 재학생…\"불안해 시험 못 보겠다\" 수험생 혼란",
+        "李 대통령 \"시험 중 '재난문자' 경보음 울리면 시험시간 연장해야\""
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 5,
+      "keyword": "리트",
+      "count": 17,
+      "representative_title": "[단독] 리트 만점자 \"AI 안 썼지만 확률 희박은 인정\"",
+      "representative_link": "https://n.news.naver.com/article/214/0001536245?ntype=RANKING",
+      "press": "MBC",
+      "related_articles": [
+        {
+          "title": "[단독] 리트 만점자 \"AI 안 썼지만 확률 희박은 인정\"",
+          "link": "https://n.news.naver.com/article/214/0001536245?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "“제발 환불해 주세요”…2만2000원짜리 ‘리트 만점자’ 베스트셀러 후기 봤더니",
+          "link": "https://n.news.naver.com/article/011/0004683270?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "시대인재, 'AI 부정 의혹' 리트 만점 이진우 계약해지 결정",
+          "link": "https://n.news.naver.com/article/047/0002536281?ntype=RANKING",
+          "press": "오마이뉴스"
+        },
+        {
+          "title": "[단독] '리트 만점자' 이진우 결국 '공무집행방해' 혐의 형사고발 수순",
+          "link": "https://n.news.naver.com/article/437/0000521254?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "“처음 체크한 답이 앞문제 정답, 밀려썼나”… 리트 만점자 ‘양파 의혹’",
+          "link": "https://n.news.naver.com/article/023/0004010212?ntype=RANKING",
+          "press": "조선일보"
+        }
+      ],
+      "related_titles": [
+        "[단독] 리트 만점자 \"AI 안 썼지만 확률 희박은 인정\"",
+        "“제발 환불해 주세요”…2만2000원짜리 ‘리트 만점자’ 베스트셀러 후기 봤더니",
+        "시대인재, 'AI 부정 의혹' 리트 만점 이진우 계약해지 결정",
+        "[단독] '리트 만점자' 이진우 결국 '공무집행방해' 혐의 형사고발 수순",
+        "“처음 체크한 답이 앞문제 정답, 밀려썼나”… 리트 만점자 ‘양파 의혹’"
       ],
       "category": "산업/테크"
     }
@@ -201,25 +201,15 @@
     {
       "rank": 1,
       "keyword": "엔비디아",
-      "count": 37,
-      "representative_title": "엔비디아 “삼성전기와 기판 신규 계약 체결”",
-      "representative_link": "https://n.news.naver.com/article/011/0004683368?ntype=RANKING",
-      "press": "서울경제",
+      "count": 13,
+      "representative_title": "“주가 빠졌는데” 엔비디아 실적 역대급",
+      "representative_link": "https://n.news.naver.com/article/050/0000113433?ntype=RANKING",
+      "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "[속보]엔비디아 3Q 매출 103% 폭증…中 빼고도 4Q 1300억달러 전망",
-          "link": "https://n.news.naver.com/article/018/0006411484?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "퇴진 닷새 만에 입 연 젠슨 황 “이사회 요청 있으면 엔비디아 CEO 복귀할 것”",
-          "link": "https://n.news.naver.com/article/032/0003483354?ntype=RANKING",
-          "press": "경향신문"
-        },
-        {
-          "title": "엔비디아, 젠슨 황 사임 후 첫 실적서 ‘어닝 서프라이즈’… 시장 예상 상회",
-          "link": "https://n.news.naver.com/article/366/0001205512?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "젠슨 황 ‘CEO 복귀 뜻 공식화’에 엔비디아 “재선임 안 해” 즉각 거부",
+          "link": "https://n.news.naver.com/article/028/0002832722?ntype=RANKING",
+          "press": "한겨레"
         },
         {
           "title": "엔비디아 이사회 “젠슨 황 복귀 검토 안 해”… 차기 CEO 인선 착수",
@@ -227,58 +217,80 @@
           "press": "조선비즈"
         },
         {
-          "title": "엔비디아 이사회 의장 “젠슨 황 재선임 의사 없어”",
-          "link": "https://n.news.naver.com/article/005/0001885848?ntype=RANKING",
-          "press": "국민일보"
+          "title": "“엔비디아 은행이 닫힌다면”…폭락장 경고음 나왔다 [잇슈 머니]",
+          "link": "https://n.news.naver.com/article/056/0012296035?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "엔비디아 또 깜짝실적… 이사회 \"젠슨 황 복귀는 없다\"",
+          "link": "https://n.news.naver.com/article/648/0000052729?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "엔비디아 호실적에 투심 반등…삼전닉스 상승 출발",
+          "link": "https://n.news.naver.com/article/417/0001164743?ntype=RANKING",
+          "press": "동행미디어 시대"
         }
       ],
       "related_titles": [
-        "[속보]엔비디아 3Q 매출 103% 폭증…中 빼고도 4Q 1300억달러 전망",
-        "퇴진 닷새 만에 입 연 젠슨 황 “이사회 요청 있으면 엔비디아 CEO 복귀할 것”",
-        "엔비디아, 젠슨 황 사임 후 첫 실적서 ‘어닝 서프라이즈’… 시장 예상 상회",
+        "젠슨 황 ‘CEO 복귀 뜻 공식화’에 엔비디아 “재선임 안 해” 즉각 거부",
         "엔비디아 이사회 “젠슨 황 복귀 검토 안 해”… 차기 CEO 인선 착수",
-        "엔비디아 이사회 의장 “젠슨 황 재선임 의사 없어”"
+        "“엔비디아 은행이 닫힌다면”…폭락장 경고음 나왔다 [잇슈 머니]",
+        "엔비디아 또 깜짝실적… 이사회 \"젠슨 황 복귀는 없다\"",
+        "엔비디아 호실적에 투심 반등…삼전닉스 상승 출발"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "분기",
-      "count": 8,
-      "representative_title": "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향",
-      "representative_link": "https://n.news.naver.com/article/138/0002248893?ntype=RANKING",
-      "press": "디지털데일리",
+      "keyword": "투자",
+      "count": 4,
+      "representative_title": "LG전자 “ESG는 비용 아닌 투자”…재무성과로 잇는다",
+      "representative_link": "https://n.news.naver.com/article/262/0000019860?ntype=RANKING",
+      "press": "신동아",
       "related_articles": [
         {
-          "title": "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향",
-          "link": "https://n.news.naver.com/article/138/0002248893?ntype=RANKING",
+          "title": "\"삼전 1억원 넣고 1원도 안 잃어\"…곽범 '투자 원칙' 살펴보니",
+          "link": "https://n.news.naver.com/article/243/0000105801?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "트럼프, 李 앞에서 또 일방 주장…“韓투자 덕에 알래스카 LNG 착수”",
+          "link": "https://n.news.naver.com/article/020/0003763290?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "“삼성전자·하이닉스 상승·하락에 투자”…한국투자증권, ELW 258종목 상장",
+          "link": "https://n.news.naver.com/article/138/0002248887?ntype=RANKING",
           "press": "디지털데일리"
         },
         {
-          "title": "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향",
-          "link": "https://n.news.naver.com/article/138/0002248893?ntype=RANKING",
-          "press": "디지털데일리"
+          "title": "LG전자 “ESG는 비용 아닌 투자”…재무성과로 잇는다",
+          "link": "https://n.news.naver.com/article/262/0000019860?ntype=RANKING",
+          "press": "신동아"
         },
         {
-          "title": "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향",
-          "link": "https://n.news.naver.com/article/138/0002248893?ntype=RANKING",
-          "press": "디지털데일리"
+          "title": "\"삼전 1억원 넣고 1원도 안 잃어\"…곽범 '투자 원칙' 살펴보니",
+          "link": "https://n.news.naver.com/article/243/0000105801?ntype=RANKING",
+          "press": "이코노미스트"
         }
       ],
       "related_titles": [
-        "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향",
-        "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향",
-        "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향"
+        "\"삼전 1억원 넣고 1원도 안 잃어\"…곽범 '투자 원칙' 살펴보니",
+        "트럼프, 李 앞에서 또 일방 주장…“韓투자 덕에 알래스카 LNG 착수”",
+        "“삼성전자·하이닉스 상승·하락에 투자”…한국투자증권, ELW 258종목 상장",
+        "LG전자 “ESG는 비용 아닌 투자”…재무성과로 잇는다",
+        "\"삼전 1억원 넣고 1원도 안 잃어\"…곽범 '투자 원칙' 살펴보니"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
       "keyword": "삼성전자",
-      "count": 5,
-      "representative_title": "\"삼성전자 20만원까지 올랐는데\"…1억원 투자한 곽범 반응",
-      "representative_link": "https://n.news.naver.com/article/014/0005605548?ntype=RANKING",
-      "press": "파이낸셜뉴스",
+      "count": 4,
+      "representative_title": "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향",
+      "representative_link": "https://n.news.naver.com/article/138/0002248893?ntype=RANKING",
+      "press": "디지털데일리",
       "related_articles": [
         {
           "title": "6600만원 테슬라車 물거품 되더니…갤폴드에 노트북까지 1억 경품, 삼성전자 노조에 무슨 일이?",
@@ -291,9 +303,9 @@
           "press": "세계일보"
         },
         {
-          "title": "\"삼성전자 20만원까지 올랐는데\"…1억원 투자한 곽범 반응",
-          "link": "https://n.news.naver.com/article/014/0005605548?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향",
+          "link": "https://n.news.naver.com/article/138/0002248893?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
           "title": "6600만원 테슬라車 물거품 되더니…갤폴드에 노트북까지 1억 경품, 삼성전자 노조에 무슨 일이?",
@@ -309,83 +321,9 @@
       "related_titles": [
         "6600만원 테슬라車 물거품 되더니…갤폴드에 노트북까지 1억 경품, 삼성전자 노조에 무슨 일이?",
         "역대급 실적에도 삼성전자·SK하이닉스 목표가 최대 17% 깎인 이유 [숫자 뒤의 진실]",
-        "\"삼성전자 20만원까지 올랐는데\"…1억원 투자한 곽범 반응",
+        "“내년 2분기 영업익 정점 찍고 꺾인다”…키움, 삼성전자·하이닉스 목표가 하향",
         "6600만원 테슬라車 물거품 되더니…갤폴드에 노트북까지 1억 경품, 삼성전자 노조에 무슨 일이?",
         "역대급 실적에도 삼성전자·SK하이닉스 목표가 최대 17% 깎인 이유 [숫자 뒤의 진실]"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 4,
-      "keyword": "코스피",
-      "count": 5,
-      "representative_title": "\"코스피 3900까지 밀릴 수도\"…의무공개매수법에 경고음",
-      "representative_link": "https://n.news.naver.com/article/586/0000142471?ntype=RANKING",
-      "press": "시사저널",
-      "related_articles": [
-        {
-          "title": "코스피 5000 깨졌는데…'고점서 반토막' 삼전닉스, 번지는 '팔자' 공포",
-          "link": "https://n.news.naver.com/article/014/0005605873?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        },
-        {
-          "title": "장동혁, 코스피 5000선 붕괴에 \"어물쩍 넘길 일 아냐…李 책임져야\"",
-          "link": "https://n.news.naver.com/article/656/0000192721?ntype=RANKING",
-          "press": "대전일보"
-        },
-        {
-          "title": "\"코스피 3900까지 밀릴 수도\"…의무공개매수법에 경고음",
-          "link": "https://n.news.naver.com/article/586/0000142471?ntype=RANKING",
-          "press": "시사저널"
-        },
-        {
-          "title": "“내년 코스피 9200 간다”…NH투자증권, 상반기 강세·하반기 변동성 경고",
-          "link": "https://n.news.naver.com/article/138/0002248838?ntype=RANKING",
-          "press": "디지털데일리"
-        },
-        {
-          "title": "코스피 5000 깨졌는데…'고점서 반토막' 삼전닉스, 번지는 '팔자' 공포",
-          "link": "https://n.news.naver.com/article/014/0005605873?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        }
-      ],
-      "related_titles": [
-        "코스피 5000 깨졌는데…'고점서 반토막' 삼전닉스, 번지는 '팔자' 공포",
-        "장동혁, 코스피 5000선 붕괴에 \"어물쩍 넘길 일 아냐…李 책임져야\"",
-        "\"코스피 3900까지 밀릴 수도\"…의무공개매수법에 경고음",
-        "“내년 코스피 9200 간다”…NH투자증권, 상반기 강세·하반기 변동성 경고",
-        "코스피 5000 깨졌는데…'고점서 반토막' 삼전닉스, 번지는 '팔자' 공포"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 5,
-      "keyword": "하이닉스",
-      "count": 4,
-      "representative_title": "[한국의 CISO-권력지도] SK, 정례보고 SKT뿐…하이닉스·이노 '보안위 공백'",
-      "representative_link": "https://n.news.naver.com/article/293/0000093420?ntype=RANKING",
-      "press": "블로터",
-      "related_articles": [
-        {
-          "title": "[한국의 CISO-권력지도] SK, 정례보고 SKT뿐…하이닉스·이노 '보안위 공백'",
-          "link": "https://n.news.naver.com/article/293/0000093420?ntype=RANKING",
-          "press": "블로터"
-        },
-        {
-          "title": "[한국의 CISO-권력지도] SK, 정례보고 SKT뿐…하이닉스·이노 '보안위 공백'",
-          "link": "https://n.news.naver.com/article/293/0000093420?ntype=RANKING",
-          "press": "블로터"
-        },
-        {
-          "title": "[한국의 CISO-권력지도] SK, 정례보고 SKT뿐…하이닉스·이노 '보안위 공백'",
-          "link": "https://n.news.naver.com/article/293/0000093420?ntype=RANKING",
-          "press": "블로터"
-        }
-      ],
-      "related_titles": [
-        "[한국의 CISO-권력지도] SK, 정례보고 SKT뿐…하이닉스·이노 '보안위 공백'",
-        "[한국의 CISO-권력지도] SK, 정례보고 SKT뿐…하이닉스·이노 '보안위 공백'",
-        "[한국의 CISO-권력지도] SK, 정례보고 SKT뿐…하이닉스·이노 '보안위 공백'"
       ],
       "category": "주식/코인"
     }
@@ -395,24 +333,19 @@
       "rank": 1,
       "keyword": "젠슨",
       "series_title": "젠슨의 몰락",
-      "count": 6,
+      "count": 5,
       "representative_title": "\"나는 쓰레기 같은 인간\"...젠슨 황의 몰락 [정치 ON]",
       "representative_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OVVRNTVpscUJKeG5COEpNTlJXXzBZMHhVOFduS190aVBZTW5NWTdwRlNFNHhUV1lIZUN0YlFFU0R6SEpDOTJRdWdrbUJvelR5T0YwQTJtUFFGRW1SQmc?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "젠슨 황의 몰락 불당긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+          "title": "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUh4TjN3aHF2ZTJsVkR2YmRUaG1ERk5sZllFaUVYSWdGMEt3RkhJMUtGMWxCRG1COUpGS0JHWnB2UGs2dTE5OTZTaldVZ2V1VHh6NWIwRkxtVzdUcFZ4UzVhTVFVSThpZXA3WnNsZUgxeERRY3o2MElBYWVxM0lkaTdn?oc=5",
           "press": ""
         },
         {
           "title": "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjejFzMTlTbHZjRDR3eDk0UlR2QVlxZ01vWDJyOU4xc1lfXzNYcG9Ud1JDWVNXUWdqZzA1cnk1anVsa2FtMkhpeVlDNHYydFFrU2dKRmt1bFJaWlFTWEE?oc=5",
-          "press": ""
-        },
-        {
-          "title": "AI ‘키맨’ 젠슨 황의 몰락…‘타도 엔비디아’ 속 AI 생태계 운명은",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NOEd6WjBxbTFYdWstX3l1MmRuLUltbkM0Q1h3bUItRjlBTEZjbmZqczNoS3BXblBwYVRMd3NNYXNLR0JxckFKbm5UUGxUd2hkQkVzRnln?oc=5",
           "press": ""
         },
         {
@@ -424,14 +357,19 @@
           "title": "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MV2swMUlBUDZuR3A5TTFHZDlaRUJURUw4dnRsTTZ6TmFrd2owaDhwa3BDVUNPb2V5dVo1T0lZOGJmU19ubFE2dS1wWEx1cFJrang0U3kwTkltSVNWMHd5QUp1S1VnR2swTHNN?oc=5",
           "press": ""
+        },
+        {
+          "title": "\"나는 쓰레기 같은 인간\"...젠슨 황의 몰락 [정치 ON]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OVVRNTVpscUJKeG5COEpNTlJXXzBZMHhVOFduS190aVBZTW5NWTdwRlNFNHhUV1lIZUN0YlFFU0R6SEpDOTJRdWdrbUJvelR5T0YwQTJtUFFGRW1SQmc?oc=5",
+          "press": ""
         }
       ],
       "related_titles": [
-        "젠슨 황의 몰락 불당긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+        "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
         "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]",
-        "AI ‘키맨’ 젠슨 황의 몰락…‘타도 엔비디아’ 속 AI 생태계 운명은",
         "“나는 쓰레기 같은 인간”…트럼프도 못 막은 젠슨 황의 몰락 [이슈+]",
-        "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다"
+        "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다",
+        "\"나는 쓰레기 같은 인간\"...젠슨 황의 몰락 [정치 ON]"
       ],
       "category": "몰락"
     },
