@@ -1,0 +1,520 @@
+{
+  "date": "2026-11-19",
+  "hour": "13",
+  "slot": "2026-11-19_13",
+  "crawled_at": "2026-11-19 13:00:04",
+  "total_articles": 409,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "리트",
+      "count": 82,
+      "representative_title": "경찰, 리트 만점자 수능 시험지 증거보전 요청",
+      "representative_link": "https://n.news.naver.com/article/366/0001205890?ntype=RANKING",
+      "press": "조선비즈",
+      "related_articles": [
+        {
+          "title": "[속보] '리트 만점자' 광진 일대 수색 종료…송파서 추적중",
+          "link": "https://n.news.naver.com/article/001/0016451632?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "'실종 신고' 된 리트 만점자... 경찰, 수색중",
+          "link": "https://n.news.naver.com/article/047/0002536423?ntype=RANKING",
+          "press": "오마이뉴스"
+        },
+        {
+          "title": "실종 신고된 '리트 만점자'…경찰, 광진→송파→강동 추적 중",
+          "link": "https://n.news.naver.com/article/437/0000521443?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "“3주만에 ‘머리 리셋’이 된다고요?” 백지연, ‘리트 만점’ 이진우에 ‘돌직구’",
+          "link": "https://n.news.naver.com/article/081/0003701039?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "실력 증명 외치던 ‘리트 만점자’, 행방 묘연…경찰, 광진구 수색",
+          "link": "https://n.news.naver.com/article/081/0003701014?ntype=RANKING",
+          "press": "서울신문"
+        }
+      ],
+      "related_titles": [
+        "[속보] '리트 만점자' 광진 일대 수색 종료…송파서 추적중",
+        "'실종 신고' 된 리트 만점자... 경찰, 수색중",
+        "실종 신고된 '리트 만점자'…경찰, 광진→송파→강동 추적 중",
+        "“3주만에 ‘머리 리셋’이 된다고요?” 백지연, ‘리트 만점’ 이진우에 ‘돌직구’",
+        "실력 증명 외치던 ‘리트 만점자’, 행방 묘연…경찰, 광진구 수색"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 2,
+      "keyword": "만점자",
+      "count": 66,
+      "representative_title": "'노쇼' LEET 만점자, 논란 커질 듯",
+      "representative_link": "https://n.news.naver.com/article/374/0000544643?ntype=RANKING",
+      "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "LEET 만점자 추정인물 '고의 교통사고'로 실형…경찰 폭행도",
+          "link": "https://n.news.naver.com/article/001/0016451597?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "‘LEET 만점자’ 잠적에 과거 범죄 이력까지… 강제수사 수순",
+          "link": "https://n.news.naver.com/article/082/0001407949?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "경찰, LEET 만점자 이진우 '신변 우려'…광진→송파→강동서 추적중",
+          "link": "https://n.news.naver.com/article/215/0001273232?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "'4만→20만→40만명' 호언장담 지켜봤는데…안 나타난 만점자",
+          "link": "https://n.news.naver.com/article/215/0001273229?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "공개검증 약속했던 LEET 만점자 어디에…경찰, 광진구 일대 수색",
+          "link": "https://n.news.naver.com/article/654/0000212212?ntype=RANKING",
+          "press": "강원도민일보"
+        }
+      ],
+      "related_titles": [
+        "LEET 만점자 추정인물 '고의 교통사고'로 실형…경찰 폭행도",
+        "‘LEET 만점자’ 잠적에 과거 범죄 이력까지… 강제수사 수순",
+        "경찰, LEET 만점자 이진우 '신변 우려'…광진→송파→강동서 추적중",
+        "'4만→20만→40만명' 호언장담 지켜봤는데…안 나타난 만점자",
+        "공개검증 약속했던 LEET 만점자 어디에…경찰, 광진구 일대 수색"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 3,
+      "keyword": "수능",
+      "count": 64,
+      "representative_title": "'AI 커닝' 초비상 속 27학년도 수능 살풍경",
+      "representative_link": "https://n.news.naver.com/article/648/0000052779?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "[수능] 수험생 아들에 도시락주려다 교통사고 난 엄마 순찰차 이송",
+          "link": "https://n.news.naver.com/article/001/0016451177?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[수능] 교육부 \"위급재난문자 발송으로 부정행위 22명 적발\"",
+          "link": "https://n.news.naver.com/article/001/0016451619?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "교육부 \"수능 위급 재난문자 발송으로 22개 스마트폰 적발\"",
+          "link": "https://n.news.naver.com/article/437/0000521454?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "[단독] '영훈고 보관' 이진우 수능 시험지…고발인 '보전' 요청",
+          "link": "https://n.news.naver.com/article/015/0005355721?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "올해 수능 샤프는 ‘무궁화보라색’…연필 빼고 필기구 모두 지급",
+          "link": "https://n.news.naver.com/article/028/0002832952?ntype=RANKING",
+          "press": "한겨레"
+        }
+      ],
+      "related_titles": [
+        "[수능] 수험생 아들에 도시락주려다 교통사고 난 엄마 순찰차 이송",
+        "[수능] 교육부 \"위급재난문자 발송으로 부정행위 22명 적발\"",
+        "교육부 \"수능 위급 재난문자 발송으로 22개 스마트폰 적발\"",
+        "[단독] '영훈고 보관' 이진우 수능 시험지…고발인 '보전' 요청",
+        "올해 수능 샤프는 ‘무궁화보라색’…연필 빼고 필기구 모두 지급"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 4,
+      "keyword": "이진우",
+      "count": 45,
+      "representative_title": "‘리트냥이’ 이진우 ‘고의 교통사고’ 실형, 경찰 폭행도",
+      "representative_link": "https://n.news.naver.com/article/033/0000053481?ntype=RANKING",
+      "press": "주간경향",
+      "related_articles": [
+        {
+          "title": "백지연, ‘검증 불참’ 이진우 인터뷰 공개…“10번 보면 외워져?” 갸우뚱",
+          "link": "https://n.news.naver.com/article/009/0005766019?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "고의 사고로 돈 뜯어...'AI커닝 의혹' 이진우, 이번엔 공갈 전과·수감 의혹",
+          "link": "https://n.news.naver.com/article/008/0005443434?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "‘리트냥이’ 이진우 소재 미스터리…경찰 광진구 일대 수색 [세상&]",
+          "link": "https://n.news.naver.com/article/016/0002725610?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "[속보]경찰, 이진우 서울대 치대 수능시험지 증거보전 요청",
+          "link": "https://n.news.naver.com/article/021/0002833927?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "\"4만원짜리 팬티도 사놨는데\"...'리트냥이' 이진우 노쇼에 눈물",
+          "link": "https://n.news.naver.com/article/018/0006412356?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "백지연, ‘검증 불참’ 이진우 인터뷰 공개…“10번 보면 외워져?” 갸우뚱",
+        "고의 사고로 돈 뜯어...'AI커닝 의혹' 이진우, 이번엔 공갈 전과·수감 의혹",
+        "‘리트냥이’ 이진우 소재 미스터리…경찰 광진구 일대 수색 [세상&]",
+        "[속보]경찰, 이진우 서울대 치대 수능시험지 증거보전 요청",
+        "\"4만원짜리 팬티도 사놨는데\"...'리트냥이' 이진우 노쇼에 눈물"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 5,
+      "keyword": "적발",
+      "count": 44,
+      "representative_title": "[속보] 교육부 \"재난문자로 스마트폰 22개 적발\"",
+      "representative_link": "https://n.news.naver.com/article/629/0000553531?ntype=RANKING",
+      "press": "더팩트",
+      "related_articles": [
+        {
+          "title": "[속보] 교육차관 \"위급재난문자 발송으로 부정행위 22명 적발\"",
+          "link": "https://n.news.naver.com/article/001/0016451538?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "교육부 “재난문자로 전국 9개 시도에서 22개 스마트폰 적발”",
+          "link": "https://n.news.naver.com/article/011/0004683907?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "[속보] 재난문자로 스마트폰 22명 적발…시험 지연 없어",
+          "link": "https://n.news.naver.com/article/028/0002832955?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "교육부 “시험장에서 스마트폰 22개 적발…그 외 기기 적발 없어”",
+          "link": "https://n.news.naver.com/article/056/0012297117?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "교육부 “시험장에서 스마트폰 22개 적발…그 외 기기 적발 없어”",
+          "link": "https://n.news.naver.com/article/056/0012297117?ntype=RANKING",
+          "press": "KBS"
+        }
+      ],
+      "related_titles": [
+        "[속보] 교육차관 \"위급재난문자 발송으로 부정행위 22명 적발\"",
+        "교육부 “재난문자로 전국 9개 시도에서 22개 스마트폰 적발”",
+        "[속보] 재난문자로 스마트폰 22명 적발…시험 지연 없어",
+        "교육부 “시험장에서 스마트폰 22개 적발…그 외 기기 적발 없어”",
+        "교육부 “시험장에서 스마트폰 22개 적발…그 외 기기 적발 없어”"
+      ],
+      "category": "산업/테크"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "엔비디아",
+      "count": 5,
+      "representative_title": "엔비디아 “우린 할 수 있다” 전사회의…전직원 임금 인상 보상도",
+      "representative_link": "https://n.news.naver.com/article/029/0003059972?ntype=RANKING",
+      "press": "디지털타임스",
+      "related_articles": [
+        {
+          "title": "엔비디아 “우린 할 수 있다” 전사회의…전직원 임금 인상 보상도",
+          "link": "https://n.news.naver.com/article/029/0003059972?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "엔비디아 직원 56% “젠슨황 복귀했으면”…‘능력 대체’ 인물이 없다?",
+          "link": "https://n.news.naver.com/article/016/0002725533?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "엔비디아 직원 56% \"젠슨황 돌아와 달라\"…후계자로 부사장 선두",
+          "link": "https://n.news.naver.com/article/057/0001978884?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "젠슨 황 사임 후 흔들리던 엔비디아 안정화한 콜레트 크레스&#160;",
+          "link": "https://n.news.naver.com/article/037/0000039173?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "\"용돈 1300만원밖에 안줘\" 김보연, 자식 푸념에…子 일하는 '엔비디아 연봉' 재조명",
+          "link": "https://n.news.naver.com/article/243/0000105897?ntype=RANKING",
+          "press": "이코노미스트"
+        }
+      ],
+      "related_titles": [
+        "엔비디아 “우린 할 수 있다” 전사회의…전직원 임금 인상 보상도",
+        "엔비디아 직원 56% “젠슨황 복귀했으면”…‘능력 대체’ 인물이 없다?",
+        "엔비디아 직원 56% \"젠슨황 돌아와 달라\"…후계자로 부사장 선두",
+        "젠슨 황 사임 후 흔들리던 엔비디아 안정화한 콜레트 크레스&#160;",
+        "\"용돈 1300만원밖에 안줘\" 김보연, 자식 푸념에…子 일하는 '엔비디아 연봉' 재조명"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "급등",
+      "count": 3,
+      "representative_title": "“혈당 급등 막아준다” 고소영이 마트서 산 ‘다이어트 빵’",
+      "representative_link": "https://n.news.naver.com/article/346/0000119122?ntype=RANKING",
+      "press": "헬스조선",
+      "related_articles": [
+        {
+          "title": "코스피 하루 만에 5000선 붕괴…‘한한령 완화’ 기대에 콘텐츠주는 급등",
+          "link": "https://n.news.naver.com/article/138/0002249172?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "“혈당 급등 막아준다” 고소영이 마트서 산 ‘다이어트 빵’",
+          "link": "https://n.news.naver.com/article/346/0000119122?ntype=RANKING",
+          "press": "헬스조선"
+        },
+        {
+          "title": "대한항공, 유가·환율 안정 힘입어 내년 영업이익 130% 급등 전망",
+          "link": "https://n.news.naver.com/article/037/0000039170?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "코스피 하루 만에 5000선 붕괴…‘한한령 완화’ 기대에 콘텐츠주는 급등",
+          "link": "https://n.news.naver.com/article/138/0002249172?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "“혈당 급등 막아준다” 고소영이 마트서 산 ‘다이어트 빵’",
+          "link": "https://n.news.naver.com/article/346/0000119122?ntype=RANKING",
+          "press": "헬스조선"
+        }
+      ],
+      "related_titles": [
+        "코스피 하루 만에 5000선 붕괴…‘한한령 완화’ 기대에 콘텐츠주는 급등",
+        "“혈당 급등 막아준다” 고소영이 마트서 산 ‘다이어트 빵’",
+        "대한항공, 유가·환율 안정 힘입어 내년 영업이익 130% 급등 전망",
+        "코스피 하루 만에 5000선 붕괴…‘한한령 완화’ 기대에 콘텐츠주는 급등",
+        "“혈당 급등 막아준다” 고소영이 마트서 산 ‘다이어트 빵’"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 6,
+      "representative_title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HX3VvZUJfVWp2S2IxUzdPN0VPb3VGcHZjQWtEUVo5czNWWVpGNjBvMVl1ZEVGRjlhTVFQZ2MtdHU3akY3OW1rTG1jS3QwSG1Idjctdi1jZ2hMZDh3NmF1bk1ROU94OTBkcnfSAW5BVV95cUxNUm9pdEk5TVROTV9mcHhNNmx1YlNpRDNKQzNzQVZmbE9QXzd4OGE3QndHc01nUzd1d2VFdzZpejgydkZjbF9OT1p1V1hpMnNseENaQVppQTZGVlhFcklHMDRnM0tXU2ZtT0c5OFhxUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lYVJ5dHJEWnlKaHlKbnByRU9fOUFMMDRNTlptUE0tUldxeTVJcVRVVHdnWDN0dVA2UnM4Q2RvOTRoUXlMU2FDQ1F6WGlZSWJYRmRtbXZEdHDSAVRBVV95cUxQQ2pZcXlFc1Bhbm5QSUhiTW1za3BpYURrc1hEa2VqVVdSMVhQdEc4US04a013ckRzdVlVWXJxSURRaGZ5dW5ld0xkbXRPWXhQUTcwVGw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTVM3NDYtY2pRMFc5c1NHTmo0dExvSC0za2Q0aUs4R2VZQVdkbG9fM09IUUlYa0VHTkFiM1pkMUVITlpfd3ZSZTBBamZIb1IySkF1bmVGcmM0czFiN1NnT3FUOWJkMnl4ZUpFVWtZNNIBc0FVX3lxTE5FQ000Nzk4WDIwVW5TaVNjUkV4VHpRU2hpTmxuM01LczIwM0E0WlhFclNZSmMycDhlNnFVR0xTMG5XcGpPLTZjS005SnNkb2FBLXdTQnNmRXkwVF9jWUFUNFVYelV5RklIaGg0R1N6TENOZFU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZYWJVZnNQYUlYX3dWbGRybTNQVkVCRDJpLTlEYkJNWjJFT3J1SVQzc3pnN2xybk5CeDJiak5kN3JkLURidmFCTjB5cFFPN21qcEVfNlV2T2NPZzFEREtmQmRWZEFDQ2IxNGVmTg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
+        "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+        "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+        "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고",
+        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "젠슨",
+      "series_title": "젠슨의 몰락",
+      "count": 3,
+      "representative_title": "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUh4TjN3aHF2ZTJsVkR2YmRUaG1ERk5sZllFaUVYSWdGMEt3RkhJMUtGMWxCRG1COUpGS0JHWnB2UGs2dTE5OTZTaldVZ2V1VHh6NWIwRkxtVzdUcFZ4UzVhTVFVSThpZXA3WnNsZUgxeERRY3o2MElBYWVxM0lkaTdn?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUh4TjN3aHF2ZTJsVkR2YmRUaG1ERk5sZllFaUVYSWdGMEt3RkhJMUtGMWxCRG1COUpGS0JHWnB2UGs2dTE5OTZTaldVZ2V1VHh6NWIwRkxtVzdUcFZ4UzVhTVFVSThpZXA3WnNsZUgxeERRY3o2MElBYWVxM0lkaTdn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MV2swMUlBUDZuR3A5TTFHZDlaRUJURUw4dnRsTTZ6TmFrd2owaDhwa3BDVUNPb2V5dVo1T0lZOGJmU19ubFE2dS1wWEx1cFJrang0U3kwTkltSVNWMHd5QUp1S1VnR2swTHNN?oc=5",
+          "press": ""
+        },
+        {
+          "title": "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjejFzMTlTbHZjRDR3eDk0UlR2QVlxZ01vWDJyOU4xc1lfXzNYcG9Ud1JDWVNXUWdqZzA1cnk1anVsa2FtMkhpeVlDNHYydFFrU2dKRmt1bFJaWlFTWEE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+        "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다",
+        "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "젠슨황",
+      "series_title": "젠슨황의 몰락",
+      "count": 2,
+      "representative_title": "젠슨황의 몰락",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOeXM3YjNGYVNVVmFKZWRBRDUwWThBOUcxcXdvamV2cFJZbXpzWlJzUUtTNWh0ZG52QlRqS3d0MGlDVHotVEFUMEJ1b2JTLUdDdDk1VVlsYmVZUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "젠슨황의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOeXM3YjNGYVNVVmFKZWRBRDUwWThBOUcxcXdvamV2cFJZbXpzWlJzUUtTNWh0ZG52QlRqS3d0MGlDVHotVEFUMEJ1b2JTLUdDdDk1VVlsYmVZUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "젠슨황 몰락에 '美 CEO 스캔들' 재조명…인텔부터 맥도날드까지",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVExsV0RUX2k1M3Fud0NHelhfZzFMZFRDaHZrejhNVkJaTEo4ZFBrNDdJSkU0RWZHTkk2SDF2dk94VkhVNGpjWmhCN1FUSmZyMVEzUTJDVXlITEnSAWBBVV95cUxQNFZKNi1CZjBNUWhIanJRdnFTSDZ0amFqZHp4bzdfOWJ5akNWWndpRjR5cDRLbEFzblJWU1Zmb0FVdFNxQzdBZzV4QlNYeEVfV2pUUU9GSUlVV0RzUm9mNDg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "젠슨황의 몰락",
+        "젠슨황 몰락에 '美 CEO 스캔들' 재조명…인텔부터 맥도날드까지"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "네타냐후",
+      "series_title": "네타냐후의 몰락",
+      "count": 1,
+      "representative_title": "[영상] 네타냐후 몰락 초읽기?…이란·가자전쟁 영향은(ft.성일광 교수)",
+      "representative_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lbnlia0FXZHlGc2NNWlY4VlhJRlJIUU94RGR3aTVSNHhEUE9RRF9jNHlrc2szS2g4THJONk9LUDJXdi0wa3M5UGI2MXp1VkZMczMzUE1LNEFJUlXSAWBBVV95cUxQX0JUY0hyV0dmNG96YVI2allLY0RJX2Q2VXF5YXFUSC1Wem05MlRpQUF6SFBhSzJPbkxadlJfRExDdDhRR012Vk5NNlFiVG5BNjFEbEM3ZXpEbXFLYndPVXM?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[영상] 네타냐후 몰락 초읽기?…이란·가자전쟁 영향은(ft.성일광 교수)",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lbnlia0FXZHlGc2NNWlY4VlhJRlJIUU94RGR3aTVSNHhEUE9RRF9jNHlrc2szS2g4THJONk9LUDJXdi0wa3M5UGI2MXp1VkZMczMzUE1LNEFJUlXSAWBBVV95cUxQX0JUY0hyV0dmNG96YVI2allLY0RJX2Q2VXF5YXFUSC1Wem05MlRpQUF6SFBhSzJPbkxadlJfRExDdDhRR012Vk5NNlFiVG5BNjFEbEM3ZXpEbXFLYndPVXM?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[영상] 네타냐후 몰락 초읽기?…이란·가자전쟁 영향은(ft.성일광 교수)"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "덮으려다",
+      "series_title": "덮으려다의 몰락",
+      "count": 1,
+      "representative_title": "해외선 '죄 덮으려다' 몰락했는데 … 李 대통령의 '정치적 미래'는",
+      "representative_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kYXFwaTVoNzNEeHZheThCNzl2eWdjUDg2RUNNVVNTMDM2VUFzTVF1RVFMbG1COHVIc2xHSlZ2Mkh0Qkp6ak5faVdQU1pZaDdLbHRiQjBhMGg1ZHpfYTROUm1XQmttZjNVVjJoeHNmTTZzOW8xMHRTQWJsNNIBgAFBVV95cUxQVXA1UG1KY3k5ZlBvWHZIZGQ4REpvUmlDblBIQ3hwVVRCZjhYbFF3SkhMRlYtM1drMnFoQkRfSVpIYUZmNEY2Q3FST2RHR2VjSXRnb3QyOXpJUzR3c0NGT1ZKdjZiLWpTSFRudU1pLUhrR2lrMVhiREZrVHVoNnBxZA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "해외선 '죄 덮으려다' 몰락했는데 … 李 대통령의 '정치적 미래'는",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kYXFwaTVoNzNEeHZheThCNzl2eWdjUDg2RUNNVVNTMDM2VUFzTVF1RVFMbG1COHVIc2xHSlZ2Mkh0Qkp6ak5faVdQU1pZaDdLbHRiQjBhMGg1ZHpfYTROUm1XQmttZjNVVjJoeHNmTTZzOW8xMHRTQWJsNNIBgAFBVV95cUxQVXA1UG1KY3k5ZlBvWHZIZGQ4REpvUmlDblBIQ3hwVVRCZjhYbFF3SkhMRlYtM1drMnFoQkRfSVpIYUZmNEY2Q3FST2RHR2VjSXRnb3QyOXpJUzR3c0NGT1ZKdjZiLWpTSFRudU1pLUhrR2lrMVhiREZrVHVoNnBxZA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "해외선 '죄 덮으려다' 몰락했는데 … 李 대통령의 '정치적 미래'는"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 5,
+      "representative_title": "매매는 '빌라', 전세는 '아파트'…엇갈린 서울 주택 지표",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZTmMzb21SQ1REU0FBX2NxXzB5azFjZXdmV2VnQ2NjTDk0c3RCYmJFakNnSGRURGpLRDZNTE5BaE91dFRUV0V5U3N0bHY5SEpXWk83MzlOWGpzR2JlSk92TExFc1FBVE51Rmc?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "서울 집값 오름폭 석 달째 둔화…경기 상승률 역전, 평균 전셋값 5억↑ [부동산 짚어보기]",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpZ213VkNWT3h1aGxJdk1Ga2dOdWFHekRIY3I2WEZBMzdmZ05IT3NYbUliM1AyNTdDeWVqandDUjZPMVQ4dURiZE5LVlBZdGEza1NvdkFRcE1EYS1rZ0s5WlNBYXhzejJPT0NrQg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OOV9yRjBuUjNOV1RuTUZielN4Y1RBdWJ2LW1fZ0xiQ0ctbkZiLVQ3YWFJLXk1a21ZVDV0ekF4NGlndWpYSGlibmkySEItT0NSdnJQRWltbGtzM3k0Q25vUFFZM05ESWRFZklxbUc5QVo?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OOV9yRjBuUjNOV1RuTUZielN4Y1RBdWJ2LW1fZ0xiQ0ctbkZiLVQ3YWFJLXk1a21ZVDV0ekF4NGlndWpYSGlibmkySEItT0NSdnJQRWltbGtzM3k0Q25vUFFZM05ESWRFZklxbUc5QVo?oc=5",
+          "press": ""
+        },
+        {
+          "title": "매매는 '빌라', 전세는 '아파트'…엇갈린 서울 주택 지표",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZTmMzb21SQ1REU0FBX2NxXzB5azFjZXdmV2VnQ2NjTDk0c3RCYmJFakNnSGRURGpLRDZNTE5BaE91dFRUV0V5U3N0bHY5SEpXWk83MzlOWGpzR2JlSk92TExFc1FBVE51Rmc?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 106주 연속 오른 적도 있었다…민간 통계 살펴보니",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUVpaX0ozNHpoTHI3RjBYc1JXdV9vdjlaMHFsdEI4VTUxNVVyeHRkT3FJdm12Y283Y1Z5aDV5R0lNbHI3ZzA2Q295WmpmaFJibkY0ckZoamJpT283V1U2NWV6VnI4anNjWjNISEg1S1cySWllNnNkRERVQy1lMnFadg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "서울 집값 오름폭 석 달째 둔화…경기 상승률 역전, 평균 전셋값 5억↑ [부동산 짚어보기]",
+        "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월",
+        "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월",
+        "매매는 '빌라', 전세는 '아파트'…엇갈린 서울 주택 지표",
+        "서울 집값 106주 연속 오른 적도 있었다…민간 통계 살펴보니"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "경기",
+      "count": 4,
+      "representative_title": "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률",
+      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnVUUkFvNjFKUlhvZGpYdlZrMUZCQ0dIYUlsQ0syYmlISjJsX1Bsb0dfdVVpeTk2blVmUmw4Y2NIUHpGM0RncjJ5UW91eW1LdEdPc3hEYmZ6OXFhV0kxTEFUa2NOSDhKQlllakF2b2VISUVTWERjQnlwajlobzVlZFJQdHdfMEpT?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnVUUkFvNjFKUlhvZGpYdlZrMUZCQ0dIYUlsQ0syYmlISjJsX1Bsb0dfdVVpeTk2blVmUmw4Y2NIUHpGM0RncjJ5UW91eW1LdEdPc3hEYmZ6OXFhV0kxTEFUa2NOSDhKQlllakF2b2VISUVTWERjQnlwajlobzVlZFJQdHdfMEpT?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
