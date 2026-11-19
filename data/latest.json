@@ -1,75 +1,70 @@
 {
   "date": "2026-11-19",
-  "hour": "07",
-  "slot": "2026-11-19_07",
-  "crawled_at": "2026-11-19 07:00:01",
-  "total_articles": 409,
+  "hour": "10",
+  "slot": "2026-11-19_10",
+  "crawled_at": "2026-11-19 10:00:01",
+  "total_articles": 408,
   "topics": [
     {
       "rank": 1,
-      "keyword": "수능",
-      "count": 31,
-      "representative_title": "충청권 수능 한파… 새벽 눈·비, 도로 살얼음",
-      "representative_link": "https://n.news.naver.com/article/656/0000192855?ntype=RANKING",
-      "press": "대전일보",
+      "keyword": "리트",
+      "count": 60,
+      "representative_title": "고발 당한 '리트 만점자'‥\"오늘 수능풀이 '생방'\"",
+      "representative_link": "https://n.news.naver.com/article/214/0001536535?ntype=RANKING",
+      "press": "MBC",
       "related_articles": [
         {
-          "title": "수능 하루 전 또 바뀐 지침…시험장에선 흑색 연필만 지참 허용",
-          "link": "https://n.news.naver.com/article/057/0001978849?ntype=RANKING",
-          "press": "MBN"
+          "title": "‘리트 만점자’ 공개 검증장에 안 왔다... 주최측 “잘 있는지 확인해달라”",
+          "link": "https://n.news.naver.com/article/023/0004010504?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "수능 도중 경보 울리면 3분 더? “뭐하자는 거냐”…정부 대책에 수험생·교사들 ‘분통’",
-          "link": "https://n.news.naver.com/article/011/0004683728?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "정부, 수능 ‘부정행위 제보시 1억 포상금’ 즉시 지급 추진",
-          "link": "https://n.news.naver.com/article/029/0003059952?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "요즘 대기업들, '수능날 출근시간 조정' 사라졌다…\"유연근무로 자율\" [2027 수능]",
-          "link": "https://n.news.naver.com/article/003/0014331167?ntype=RANKING",
-          "press": "뉴시스"
-        },
-        {
-          "title": "“수능 하루 전 이게 무슨 일?”…다이소까지 뜻밖의 ‘품절 대란’",
-          "link": "https://n.news.naver.com/article/018/0006412090?ntype=RANKING",
+          "title": "\"폰 꺼져있어\"…'리트 만점' 이진우, 현장검증 안 나타나",
+          "link": "https://n.news.naver.com/article/018/0006412227?ntype=RANKING",
           "press": "이데일리"
+        },
+        {
+          "title": "'리트 만점자' 이진우, 오늘 검증 방송…'수능 국어' 문제푼다",
+          "link": "https://n.news.naver.com/article/018/0006412185?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "[속보] '리트 만점자' 이진우, '수능 문제풀이' 공개검증 불참 가능성",
+          "link": "https://n.news.naver.com/article/052/0002434944?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "[속보] ‘리트 만점자’ 이진우, 수능 생중계 현장 안왔다…“폰 꺼져있어”",
+          "link": "https://n.news.naver.com/article/025/0003566347?ntype=RANKING",
+          "press": "중앙일보"
         }
       ],
       "related_titles": [
-        "수능 하루 전 또 바뀐 지침…시험장에선 흑색 연필만 지참 허용",
-        "수능 도중 경보 울리면 3분 더? “뭐하자는 거냐”…정부 대책에 수험생·교사들 ‘분통’",
-        "정부, 수능 ‘부정행위 제보시 1억 포상금’ 즉시 지급 추진",
-        "요즘 대기업들, '수능날 출근시간 조정' 사라졌다…\"유연근무로 자율\" [2027 수능]",
-        "“수능 하루 전 이게 무슨 일?”…다이소까지 뜻밖의 ‘품절 대란’"
+        "‘리트 만점자’ 공개 검증장에 안 왔다... 주최측 “잘 있는지 확인해달라”",
+        "\"폰 꺼져있어\"…'리트 만점' 이진우, 현장검증 안 나타나",
+        "'리트 만점자' 이진우, 오늘 검증 방송…'수능 국어' 문제푼다",
+        "[속보] '리트 만점자' 이진우, '수능 문제풀이' 공개검증 불참 가능성",
+        "[속보] ‘리트 만점자’ 이진우, 수능 생중계 현장 안왔다…“폰 꺼져있어”"
       ],
-      "category": "정치"
+      "category": "사회/일반"
     },
     {
       "rank": 2,
       "keyword": "만점자",
-      "count": 20,
-      "representative_title": "'AI 부정행위 의혹' 리트 만점자 경찰 줄고발",
-      "representative_link": "https://n.news.naver.com/article/629/0000553207?ntype=RANKING",
-      "press": "더팩트",
+      "count": 51,
+      "representative_title": "고발당한 최초 만점자…오늘 수능 풀이 생중계할까",
+      "representative_link": "https://n.news.naver.com/article/055/0001404090?ntype=RANKING",
+      "press": "SBS",
       "related_articles": [
         {
-          "title": "\"천재라며 모셔왔는데 8일 만에 손절\"…'리트 만점자' AI 부정행위 의혹에 등 돌린 시대인재",
-          "link": "https://n.news.naver.com/article/277/0005844473?ntype=RANKING",
-          "press": "아시아경제"
+          "title": "고발당한 최초 만점자…오늘 수능 풀이 생중계할까",
+          "link": "https://n.news.naver.com/article/055/0001404090?ntype=RANKING",
+          "press": "SBS"
         },
         {
-          "title": "뿔난 변호사들, '리트 만점자' 연달아 고발…시대인재는 계약 해지",
-          "link": "https://n.news.naver.com/article/057/0001978764?ntype=RANKING",
-          "press": "MBN"
-        },
-        {
-          "title": "'커닝 의혹' 리트 만점자, 경찰 정식 수사 착수…입시학원도 계약 해지",
-          "link": "https://n.news.naver.com/article/057/0001978827?ntype=RANKING",
-          "press": "MBN"
+          "title": "법학적성시험 만점자, 공개검증 불참…주최 측도 연락 안돼",
+          "link": "https://n.news.naver.com/article/001/0016450737?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
           "title": "LEET시험 만점자 이진우 결국 줄고발…“부정행위 규명해야”",
@@ -77,134 +72,121 @@
           "press": "KBS"
         },
         {
-          "title": "\"얼마든지 조사 응하겠다\"던 리트 만점자, 진짜 경찰에 고발됐다",
-          "link": "https://n.news.naver.com/article/469/0000966314?ntype=RANKING",
-          "press": "한국일보"
+          "title": "LEET 만점자, 작년 수능도 부정행위 의혹… 경찰, 수사착수",
+          "link": "https://n.news.naver.com/article/020/0003763549?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "LEET 만점자 의혹, 서울청 광역수사단이 ‘직접 수사’",
+          "link": "https://n.news.naver.com/article/024/0000109725?ntype=RANKING",
+          "press": "매경이코노미"
         }
       ],
       "related_titles": [
-        "\"천재라며 모셔왔는데 8일 만에 손절\"…'리트 만점자' AI 부정행위 의혹에 등 돌린 시대인재",
-        "뿔난 변호사들, '리트 만점자' 연달아 고발…시대인재는 계약 해지",
-        "'커닝 의혹' 리트 만점자, 경찰 정식 수사 착수…입시학원도 계약 해지",
+        "고발당한 최초 만점자…오늘 수능 풀이 생중계할까",
+        "법학적성시험 만점자, 공개검증 불참…주최 측도 연락 안돼",
         "LEET시험 만점자 이진우 결국 줄고발…“부정행위 규명해야”",
-        "\"얼마든지 조사 응하겠다\"던 리트 만점자, 진짜 경찰에 고발됐다"
+        "LEET 만점자, 작년 수능도 부정행위 의혹… 경찰, 수사착수",
+        "LEET 만점자 의혹, 서울청 광역수사단이 ‘직접 수사’"
       ],
-      "category": "산업/테크"
+      "category": "사건/사고"
     },
     {
       "rank": 3,
-      "keyword": "리트",
-      "count": 18,
-      "representative_title": "“리트 만점자로 속여 책 판매”···이진우 책 구매자 17명 집단소송",
-      "representative_link": "https://n.news.naver.com/article/033/0000053466?ntype=RANKING",
-      "press": "주간경향",
+      "keyword": "수능",
+      "count": 47,
+      "representative_title": "오늘 2027학년도 수능…이 시각 수험장",
+      "representative_link": "https://n.news.naver.com/article/056/0012296910?ntype=RANKING",
+      "press": "KBS",
       "related_articles": [
         {
-          "title": "[단독] “리트 만점자라고 속여 책 판매”… 이진우 책 구매자 17명 집단소송 제기",
-          "link": "https://n.news.naver.com/article/366/0001205771?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "“통신 차단” “1억 포상” “연필만”... 李정부가 초래한 수능 대혼란",
+          "link": "https://n.news.naver.com/article/023/0004010480?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "시대인재, ‘리트 만점’ 이진우와 계약 8일 만에 해지 결정…“의혹 검증 우선”",
-          "link": "https://n.news.naver.com/article/022/0004176194?ntype=RANKING",
-          "press": "세계일보"
+          "title": "“수능 하루 전 이게 무슨 일?”…다이소까지 뜻밖의 ‘품절 대란’",
+          "link": "https://n.news.naver.com/article/018/0006412090?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "“리트 만점자로 속여 책 판매”···이진우 책 구매자 17명 집단소송",
-          "link": "https://n.news.naver.com/article/033/0000053466?ntype=RANKING",
+          "title": "꼬리에 꼬리 무는 의혹들...이진우 \"수능 공개 풀이 뒤 모두 해명하겠다\" [앵커리포트]",
+          "link": "https://n.news.naver.com/article/052/0002434940?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "'수능 부정행위 적발' 위급재난문자 불시에 추가 발송한다(종합)",
+          "link": "https://n.news.naver.com/article/001/0016448452?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "8시30분 전국민 휴대폰 삐~…사상 첫 전체 '위급재난문자'[2027 수능]",
+          "link": "https://n.news.naver.com/article/003/0014331654?ntype=RANKING",
+          "press": "뉴시스"
+        }
+      ],
+      "related_titles": [
+        "“통신 차단” “1억 포상” “연필만”... 李정부가 초래한 수능 대혼란",
+        "“수능 하루 전 이게 무슨 일?”…다이소까지 뜻밖의 ‘품절 대란’",
+        "꼬리에 꼬리 무는 의혹들...이진우 \"수능 공개 풀이 뒤 모두 해명하겠다\" [앵커리포트]",
+        "'수능 부정행위 적발' 위급재난문자 불시에 추가 발송한다(종합)",
+        "8시30분 전국민 휴대폰 삐~…사상 첫 전체 '위급재난문자'[2027 수능]"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 4,
+      "keyword": "이진우",
+      "count": 29,
+      "representative_title": "'리트만점자' 이진우 끝내 불참, 검증 중단…\"경찰 신변 확인 요청\"",
+      "representative_link": "https://n.news.naver.com/article/437/0000521412?ntype=RANKING",
+      "press": "JTBC",
+      "related_articles": [
+        {
+          "title": "'리트만점자' 이진우 끝내 불참, 검증 중단…\"경찰 신변 확인 요청\"",
+          "link": "https://n.news.naver.com/article/437/0000521412?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "‘LEET 만점’ 이진우, 현장검증 안 나타나 무산…“어제부터 연락 안돼. 잘 있는지 확인 부탁”",
+          "link": "https://n.news.naver.com/article/016/0002725485?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "[속보] ‘리트만점자’ 이진우, 약속 시간에 안 나타나…“어제부터 연락 안 돼”",
+          "link": "https://n.news.naver.com/article/024/0000109732?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "‘리트냥이’ 이진우 끝내 ‘노쇼’···“짐 싸서 집 나갔다 말 들어”",
+          "link": "https://n.news.naver.com/article/033/0000053479?ntype=RANKING",
           "press": "주간경향"
         }
       ],
       "related_titles": [
-        "[단독] “리트 만점자라고 속여 책 판매”… 이진우 책 구매자 17명 집단소송 제기",
-        "시대인재, ‘리트 만점’ 이진우와 계약 8일 만에 해지 결정…“의혹 검증 우선”",
-        "“리트 만점자로 속여 책 판매”···이진우 책 구매자 17명 집단소송"
+        "'리트만점자' 이진우 끝내 불참, 검증 중단…\"경찰 신변 확인 요청\"",
+        "‘LEET 만점’ 이진우, 현장검증 안 나타나 무산…“어제부터 연락 안돼. 잘 있는지 확인 부탁”",
+        "[속보] ‘리트만점자’ 이진우, 약속 시간에 안 나타나…“어제부터 연락 안 돼”",
+        "‘리트냥이’ 이진우 끝내 ‘노쇼’···“짐 싸서 집 나갔다 말 들어”"
       ],
-      "category": "사회/일반"
-    },
-    {
-      "rank": 4,
-      "keyword": "부정행위",
-      "count": 14,
-      "representative_title": "내일 수능부터 부정행위 제보 시 포상금 1억 원",
-      "representative_link": "https://n.news.naver.com/article/656/0000192860?ntype=RANKING",
-      "press": "대전일보",
-      "related_articles": [
-        {
-          "title": "서울대 \"수시 면접 때 일회용 가운 입어야\"‥스마트안경 소지만 해도 부정행위",
-          "link": "https://n.news.naver.com/article/214/0001536462?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "정부, 내일 수능부터 '부정행위 제보시 1억 포상금' 지급 추진(종합)",
-          "link": "https://n.news.naver.com/article/001/0016450359?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "직업계고 30년 교장이 본 'AI 부정행위' 청년의 진짜 동기",
-          "link": "https://n.news.naver.com/article/047/0002536357?ntype=RANKING",
-          "press": "오마이뉴스"
-        },
-        {
-          "title": "내일 수능부터 부정행위 제보 시 포상금 1억 원",
-          "link": "https://n.news.naver.com/article/656/0000192860?ntype=RANKING",
-          "press": "대전일보"
-        },
-        {
-          "title": "[속보] 'AI 부정행위 논란'에 서울대, 수시면접서 ‘일회용 가운’ 입힌다",
-          "link": "https://n.news.naver.com/article/658/0000161624?ntype=RANKING",
-          "press": "국제신문"
-        }
-      ],
-      "related_titles": [
-        "서울대 \"수시 면접 때 일회용 가운 입어야\"‥스마트안경 소지만 해도 부정행위",
-        "정부, 내일 수능부터 '부정행위 제보시 1억 포상금' 지급 추진(종합)",
-        "직업계고 30년 교장이 본 'AI 부정행위' 청년의 진짜 동기",
-        "내일 수능부터 부정행위 제보 시 포상금 1억 원",
-        "[속보] 'AI 부정행위 논란'에 서울대, 수시면접서 ‘일회용 가운’ 입힌다"
-      ],
-      "category": "산업/테크"
+      "category": "사건/사고"
     },
     {
       "rank": 5,
-      "keyword": "강남",
-      "count": 14,
-      "representative_title": "강남 학원장이 초등생에게 술 먹이고 성폭행…긴급체포",
-      "representative_link": "https://n.news.naver.com/article/031/0001076380?ntype=RANKING",
-      "press": "아이뉴스24",
+      "keyword": "검증",
+      "count": 24,
+      "representative_title": "\"실력 보여준다더니 어디 갔나\"…LEET 만점 서울대생, 공개 검증 '불참'",
+      "representative_link": "https://n.news.naver.com/article/088/0001041164?ntype=RANKING",
+      "press": "매일신문",
       "related_articles": [
         {
-          "title": "숙소로 초등생 유인한 강남 학원장…성범죄 정황에 긴급 체포",
-          "link": "https://n.news.naver.com/article/057/0001978848?ntype=RANKING",
-          "press": "MBN"
-        },
-        {
-          "title": "최고가에서 5~9억 ‘뚝’…강남 이어 ‘마용성’도 호가 낮춘다",
-          "link": "https://n.news.naver.com/article/028/0002832781?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "강남 학원장, 채팅앱서 만난 초등생 숙박업소로 유인 성폭행…긴급체포",
-          "link": "https://n.news.naver.com/article/029/0003059957?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "“채팅앱서 만난 초등생 성폭행”…강남 유명 학원장 긴급체포",
-          "link": "https://n.news.naver.com/article/081/0003700860?ntype=RANKING",
-          "press": "서울신문"
-        },
-        {
-          "title": "채팅앱으로 초등생 유인해 성폭행…강남 학원장 긴급 체포",
-          "link": "https://n.news.naver.com/article/469/0000966421?ntype=RANKING",
-          "press": "한국일보"
+          "title": "\"실력 보여준다더니 어디 갔나\"…LEET 만점 서울대생, 공개 검증 '불참'",
+          "link": "https://n.news.naver.com/article/088/0001041164?ntype=RANKING",
+          "press": "매일신문"
         }
       ],
       "related_titles": [
-        "숙소로 초등생 유인한 강남 학원장…성범죄 정황에 긴급 체포",
-        "최고가에서 5~9억 ‘뚝’…강남 이어 ‘마용성’도 호가 낮춘다",
-        "강남 학원장, 채팅앱서 만난 초등생 숙박업소로 유인 성폭행…긴급체포",
-        "“채팅앱서 만난 초등생 성폭행”…강남 유명 학원장 긴급체포",
-        "채팅앱으로 초등생 유인해 성폭행…강남 학원장 긴급 체포"
+        "\"실력 보여준다더니 어디 갔나\"…LEET 만점 서울대생, 공개 검증 '불참'"
       ],
       "category": "사회/일반"
     }
@@ -213,129 +195,160 @@
     {
       "rank": 1,
       "keyword": "엔비디아",
-      "count": 11,
-      "representative_title": "엔비디아 생태계 파고드는 한국산 AI 칩",
-      "representative_link": "https://n.news.naver.com/article/417/0001164837?ntype=RANKING",
-      "press": "동행미디어 시대",
+      "count": 10,
+      "representative_title": "삼성전기 증설에 또 지갑 여는 엔비디아…MLCC도 '눈독'",
+      "representative_link": "https://n.news.naver.com/article/293/0000093435?ntype=RANKING",
+      "press": "블로터",
       "related_articles": [
         {
-          "title": "뉴욕증시, 앤트로픽 공모가 발표 앞두고 혼조 출발… 엔비디아 호실적에 기술주 강세",
-          "link": "https://n.news.naver.com/article/366/0001205796?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "\"임금 인상 앞당길것\"…엔비디아, 젠슨황 사태 후 직원 달래기",
+          "link": "https://n.news.naver.com/article/018/0006412174?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "무뇨스 현대차 사장 \"젠슨 황 사임, 업계에 큰 영향…엔비디아 협력은 계속\"",
-          "link": "https://n.news.naver.com/article/138/0002249101?ntype=RANKING",
+          "title": "엔비디아 직원 56% \"젠슨황 복귀 원해\"…후임 후보 이언 벅 선두",
+          "link": "https://n.news.naver.com/article/001/0016450496?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "엔비디아 “우린 할 수 있다” 전사회의…전직원 임금 인상 보상도",
+          "link": "https://n.news.naver.com/article/029/0003059972?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "엔비디아 직원 절반 이상 “젠슨 황 돌아와야”…후계 후보로는 ‘이언 벅’ 1위",
+          "link": "https://n.news.naver.com/article/666/0000132774?ntype=RANKING",
+          "press": "경기일보"
+        },
+        {
+          "title": "美 증시, 엔비디아 호실적에도 혼조…나스닥 0.4%↑·다우 1.1%↓",
+          "link": "https://n.news.naver.com/article/138/0002249134?ntype=RANKING",
           "press": "디지털데일리"
-        },
-        {
-          "title": "젠슨 황 없어도 잘 나갈까… 깜짝 실적 엔비디아 \"복귀 계획 없다\"",
-          "link": "https://n.news.naver.com/article/665/0000008594?ntype=RANKING",
-          "press": "더스쿠프"
-        },
-        {
-          "title": "젠슨 황 없는 엔비디아, 매출 155조 '괴력'…K반도체엔 양날의 검?",
-          "link": "https://n.news.naver.com/article/648/0000052753?ntype=RANKING",
-          "press": "비즈워치"
-        },
-        {
-          "title": "엔비디아 실적콜에 등장한 이 남자…젠슨 황 후계자 될까",
-          "link": "https://n.news.naver.com/article/092/0002445874?ntype=RANKING",
-          "press": "지디넷코리아"
         }
       ],
       "related_titles": [
-        "뉴욕증시, 앤트로픽 공모가 발표 앞두고 혼조 출발… 엔비디아 호실적에 기술주 강세",
-        "무뇨스 현대차 사장 \"젠슨 황 사임, 업계에 큰 영향…엔비디아 협력은 계속\"",
-        "젠슨 황 없어도 잘 나갈까… 깜짝 실적 엔비디아 \"복귀 계획 없다\"",
-        "젠슨 황 없는 엔비디아, 매출 155조 '괴력'…K반도체엔 양날의 검?",
-        "엔비디아 실적콜에 등장한 이 남자…젠슨 황 후계자 될까"
+        "\"임금 인상 앞당길것\"…엔비디아, 젠슨황 사태 후 직원 달래기",
+        "엔비디아 직원 56% \"젠슨황 복귀 원해\"…후임 후보 이언 벅 선두",
+        "엔비디아 “우린 할 수 있다” 전사회의…전직원 임금 인상 보상도",
+        "엔비디아 직원 절반 이상 “젠슨 황 돌아와야”…후계 후보로는 ‘이언 벅’ 1위",
+        "美 증시, 엔비디아 호실적에도 혼조…나스닥 0.4%↑·다우 1.1%↓"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "앤트로픽",
-      "count": 3,
-      "representative_title": "코스피 5000선 회복, 앤트로픽 IPO에 쏠리는 시선",
-      "representative_link": "https://n.news.naver.com/article/648/0000052759?ntype=RANKING",
-      "press": "비즈워치",
+      "keyword": "달러",
+      "count": 7,
+      "representative_title": "국제금값, 3천800달러 밑으로…14개월 만에 최저",
+      "representative_link": "https://n.news.naver.com/article/374/0000544591?ntype=RANKING",
+      "press": "SBS Biz",
       "related_articles": [
         {
-          "title": "코스피 5000선 회복, 앤트로픽 IPO에 쏠리는 시선",
-          "link": "https://n.news.naver.com/article/648/0000052759?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "앤트로픽 공모가, 예상 넘긴 83달러…기업가치 1.5조달러 전망",
+          "link": "https://n.news.naver.com/article/028/0002832924?ntype=RANKING",
+          "press": "한겨레"
         },
         {
-          "title": "앤트로픽 상장 초읽기…투자 결실 앞둔 SKT, AI 포트폴리오 재편하나",
-          "link": "https://n.news.naver.com/article/293/0000093483?ntype=RANKING",
-          "press": "블로터"
+          "title": "국제금값, 3천800달러 밑으로…14개월 만에 최저",
+          "link": "https://n.news.naver.com/article/374/0000544591?ntype=RANKING",
+          "press": "SBS Biz"
         },
         {
-          "title": "코스피 5000선 회복, 앤트로픽 IPO에 쏠리는 시선",
-          "link": "https://n.news.naver.com/article/648/0000052759?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "\"앤트로픽 IPO에 5천억달러 몰려…공모가 80달러 넘을수도\"",
+          "link": "https://n.news.naver.com/article/374/0000544580?ntype=RANKING",
+          "press": "SBS Biz"
         },
         {
-          "title": "앤트로픽 상장 초읽기…투자 결실 앞둔 SKT, AI 포트폴리오 재편하나",
-          "link": "https://n.news.naver.com/article/293/0000093483?ntype=RANKING",
-          "press": "블로터"
+          "title": "앤트로픽, IPO 공모가 83달러 확정…91조원 조달 전망",
+          "link": "https://n.news.naver.com/article/629/0000553416?ntype=RANKING",
+          "press": "더팩트"
         },
         {
-          "title": "코스피 5000선 회복, 앤트로픽 IPO에 쏠리는 시선",
-          "link": "https://n.news.naver.com/article/648/0000052759?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "[인사이드 도이체방크]도이체방크 엡스타인 '의심 거래' 6억 달러…알려진 액수의 두 배 넘어",
+          "link": "https://n.news.naver.com/article/607/0000003604?ntype=RANKING",
+          "press": "뉴스타파"
         }
       ],
       "related_titles": [
-        "코스피 5000선 회복, 앤트로픽 IPO에 쏠리는 시선",
-        "앤트로픽 상장 초읽기…투자 결실 앞둔 SKT, AI 포트폴리오 재편하나",
-        "코스피 5000선 회복, 앤트로픽 IPO에 쏠리는 시선",
-        "앤트로픽 상장 초읽기…투자 결실 앞둔 SKT, AI 포트폴리오 재편하나",
-        "코스피 5000선 회복, 앤트로픽 IPO에 쏠리는 시선"
+        "앤트로픽 공모가, 예상 넘긴 83달러…기업가치 1.5조달러 전망",
+        "국제금값, 3천800달러 밑으로…14개월 만에 최저",
+        "\"앤트로픽 IPO에 5천억달러 몰려…공모가 80달러 넘을수도\"",
+        "앤트로픽, IPO 공모가 83달러 확정…91조원 조달 전망",
+        "[인사이드 도이체방크]도이체방크 엡스타인 '의심 거래' 6억 달러…알려진 액수의 두 배 넘어"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "주식",
+      "keyword": "삼성전자",
       "count": 3,
-      "representative_title": "수능·집값·주식 '3대 망함'...세대 대통합 이룬 사진 한 장",
-      "representative_link": "https://n.news.naver.com/article/018/0006412079?ntype=RANKING",
-      "press": "이데일리",
+      "representative_title": "삼성전자 손절할까? 주식이 급락할 때 부자들은 이렇게 합니다",
+      "representative_link": "https://n.news.naver.com/article/023/0004010489?ntype=RANKING",
+      "press": "조선일보",
       "related_articles": [
         {
-          "title": "수능·집값·주식 '3대 망함'...세대 대통합 이룬 사진 한 장",
-          "link": "https://n.news.naver.com/article/018/0006412079?ntype=RANKING",
-          "press": "이데일리"
+          "title": "삼성전자 손절할까? 주식이 급락할 때 부자들은 이렇게 합니다",
+          "link": "https://n.news.naver.com/article/023/0004010489?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "삼성·LG가 작정했다…하루 만에 20% 급등한 '이 주식' 정체",
-          "link": "https://n.news.naver.com/article/015/0005355514?ntype=RANKING",
-          "press": "한국경제"
+          "title": "삼성전자 30만원에 샀다면…35% 잃었는데 54% 올라야 본전 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004176358?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "6개월 새 반토막 났는데…\"왕이 되려는 자\" 평가 된 종목 [주식R]",
-          "link": "https://n.news.naver.com/article/215/0001273194?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "삼성전자 “네오클라우드 시장 비중 8%…AI 거품 우려 과도”",
+          "link": "https://n.news.naver.com/article/029/0003059976?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "수능·집값·주식 '3대 망함'...세대 대통합 이룬 사진 한 장",
-          "link": "https://n.news.naver.com/article/018/0006412079?ntype=RANKING",
-          "press": "이데일리"
+          "title": "삼성전자 30만원에 샀다면…35% 잃었는데 54% 올라야 본전 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004176358?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "삼성·LG가 작정했다…하루 만에 20% 급등한 '이 주식' 정체",
-          "link": "https://n.news.naver.com/article/015/0005355514?ntype=RANKING",
-          "press": "한국경제"
+          "title": "삼성전자 손절할까? 주식이 급락할 때 부자들은 이렇게 합니다",
+          "link": "https://n.news.naver.com/article/023/0004010489?ntype=RANKING",
+          "press": "조선일보"
         }
       ],
       "related_titles": [
-        "수능·집값·주식 '3대 망함'...세대 대통합 이룬 사진 한 장",
-        "삼성·LG가 작정했다…하루 만에 20% 급등한 '이 주식' 정체",
-        "6개월 새 반토막 났는데…\"왕이 되려는 자\" 평가 된 종목 [주식R]",
-        "수능·집값·주식 '3대 망함'...세대 대통합 이룬 사진 한 장",
-        "삼성·LG가 작정했다…하루 만에 20% 급등한 '이 주식' 정체"
+        "삼성전자 손절할까? 주식이 급락할 때 부자들은 이렇게 합니다",
+        "삼성전자 30만원에 샀다면…35% 잃었는데 54% 올라야 본전 [숫자 뒤의 진실]",
+        "삼성전자 “네오클라우드 시장 비중 8%…AI 거품 우려 과도”",
+        "삼성전자 30만원에 샀다면…35% 잃었는데 54% 올라야 본전 [숫자 뒤의 진실]",
+        "삼성전자 손절할까? 주식이 급락할 때 부자들은 이렇게 합니다"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "인상",
+      "count": 3,
+      "representative_title": "전기료·유가·관세 꺾인다…줄어드는 Fed의 금리 인상 부담",
+      "representative_link": "https://n.news.naver.com/article/050/0000113490?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "전기료·유가·관세 꺾인다…줄어드는 Fed의 금리 인상 부담",
+          "link": "https://n.news.naver.com/article/050/0000113490?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "전기료·유가·관세 꺾인다…줄어드는 Fed의 금리 인상 부담",
+          "link": "https://n.news.naver.com/article/050/0000113490?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "전기료·유가·관세 꺾인다…줄어드는 Fed의 금리 인상 부담",
+          "link": "https://n.news.naver.com/article/050/0000113490?ntype=RANKING",
+          "press": "한경비즈니스"
+        }
+      ],
+      "related_titles": [
+        "전기료·유가·관세 꺾인다…줄어드는 Fed의 금리 인상 부담",
+        "전기료·유가·관세 꺾인다…줄어드는 Fed의 금리 인상 부담",
+        "전기료·유가·관세 꺾인다…줄어드는 Fed의 금리 인상 부담"
       ],
       "category": "주식/코인"
     }
@@ -343,9 +356,53 @@
   "moljak_topics": [
     {
       "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 6,
+      "representative_title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HX3VvZUJfVWp2S2IxUzdPN0VPb3VGcHZjQWtEUVo5czNWWVpGNjBvMVl1ZEVGRjlhTVFQZ2MtdHU3akY3OW1rTG1jS3QwSG1Idjctdi1jZ2hMZDh3NmF1bk1ROU94OTBkcnfSAW5BVV95cUxNUm9pdEk5TVROTV9mcHhNNmx1YlNpRDNKQzNzQVZmbE9QXzd4OGE3QndHc01nUzd1d2VFdzZpejgydkZjbF9OT1p1V1hpMnNseENaQVppQTZGVlhFcklHMDRnM0tXU2ZtT0c5OFhxUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lYVJ5dHJEWnlKaHlKbnByRU9fOUFMMDRNTlptUE0tUldxeTVJcVRVVHdnWDN0dVA2UnM4Q2RvOTRoUXlMU2FDQ1F6WGlZSWJYRmRtbXZEdHDSAVRBVV95cUxQQ2pZcXlFc1Bhbm5QSUhiTW1za3BpYURrc1hEa2VqVVdSMVhQdEc4US04a013ckRzdVlVWXJxSURRaGZ5dW5ld0xkbXRPWXhQUTcwVGw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTVM3NDYtY2pRMFc5c1NHTmo0dExvSC0za2Q0aUs4R2VZQVdkbG9fM09IUUlYa0VHTkFiM1pkMUVITlpfd3ZSZTBBamZIb1IySkF1bmVGcmM0czFiN1NnT3FUOWJkMnl4ZUpFVWtZNNIBc0FVX3lxTE5FQ000Nzk4WDIwVW5TaVNjUkV4VHpRU2hpTmxuM01LczIwM0E0WlhFclNZSmMycDhlNnFVR0xTMG5XcGpPLTZjS005SnNkb2FBLXdTQnNmRXkwVF9jWUFUNFVYelV5RklIaGg0R1N6TENOZFU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZYWJVZnNQYUlYX3dWbGRybTNQVkVCRDJpLTlEYkJNWjJFT3J1SVQzc3pnN2xybk5CeDJiak5kN3JkLURidmFCTjB5cFFPN21qcEVfNlV2T2NPZzFEREtmQmRWZEFDQ2IxNGVmTg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
+        "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+        "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+        "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고",
+        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
       "keyword": "젠슨",
       "series_title": "젠슨의 몰락",
-      "count": 6,
+      "count": 5,
       "representative_title": "\"나는 쓰레기 같은 인간\"...젠슨 황의 몰락 [정치 ON]",
       "representative_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OVVRNTVpscUJKeG5COEpNTlJXXzBZMHhVOFduS190aVBZTW5NWTdwRlNFNHhUV1lIZUN0YlFFU0R6SEpDOTJRdWdrbUJvelR5T0YwQTJtUFFGRW1SQmc?oc=5",
       "press": "",
@@ -371,8 +428,8 @@
           "press": ""
         },
         {
-          "title": "AI ‘키맨’ 젠슨 황의 몰락…‘타도 엔비디아’ 속 AI 생태계 운명은",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NOEd6WjBxbTFYdWstX3l1MmRuLUltbkM0Q1h3bUItRjlBTEZjbmZqczNoS3BXblBwYVRMd3NNYXNLR0JxckFKbm5UUGxUd2hkQkVzRnln?oc=5",
+          "title": "\"나는 쓰레기 같은 인간\"...젠슨 황의 몰락 [정치 ON]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OVVRNTVpscUJKeG5COEpNTlJXXzBZMHhVOFduS190aVBZTW5NWTdwRlNFNHhUV1lIZUN0YlFFU0R6SEpDOTJRdWdrbUJvelR5T0YwQTJtUFFGRW1SQmc?oc=5",
           "press": ""
         }
       ],
@@ -381,51 +438,7 @@
         "몰락한 젠슨 황 \"난 쓰레기\"...앨리스 황, '칩 팀' 정보 요원? [이슈플러스]",
         "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다",
         "“나는 쓰레기 같은 인간”…트럼프도 못 막은 젠슨 황의 몰락 [이슈+]",
-        "AI ‘키맨’ 젠슨 황의 몰락…‘타도 엔비디아’ 속 AI 생태계 운명은"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 2,
-      "keyword": "정권",
-      "series_title": "정권의 몰락",
-      "count": 6,
-      "representative_title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
-      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HX3VvZUJfVWp2S2IxUzdPN0VPb3VGcHZjQWtEUVo5czNWWVpGNjBvMVl1ZEVGRjlhTVFQZ2MtdHU3akY3OW1rTG1jS3QwSG1Idjctdi1jZ2hMZDh3NmF1bk1ROU94OTBkcnfSAW5BVV95cUxNUm9pdEk5TVROTV9mcHhNNmx1YlNpRDNKQzNzQVZmbE9QXzd4OGE3QndHc01nUzd1d2VFdzZpejgydkZjbF9OT1p1V1hpMnNseENaQVppQTZGVlhFcklHMDRnM0tXU2ZtT0c5OFhxUQ?oc=5",
-          "press": ""
-        },
-        {
-          "title": "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lYVJ5dHJEWnlKaHlKbnByRU9fOUFMMDRNTlptUE0tUldxeTVJcVRVVHdnWDN0dVA2UnM4Q2RvOTRoUXlMU2FDQ1F6WGlZSWJYRmRtbXZEdHDSAVRBVV95cUxQQ2pZcXlFc1Bhbm5QSUhiTW1za3BpYURrc1hEa2VqVVdSMVhQdEc4US04a013ckRzdVlVWXJxSURRaGZ5dW5ld0xkbXRPWXhQUTcwVGw?oc=5",
-          "press": ""
-        },
-        {
-          "title": "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZYWJVZnNQYUlYX3dWbGRybTNQVkVCRDJpLTlEYkJNWjJFT3J1SVQzc3pnN2xybk5CeDJiak5kN3JkLURidmFCTjB5cFFPN21qcEVfNlV2T2NPZzFEREtmQmRWZEFDQ2IxNGVmTg?oc=5",
-          "press": ""
-        },
-        {
-          "title": "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTVM3NDYtY2pRMFc5c1NHTmo0dExvSC0za2Q0aUs4R2VZQVdkbG9fM09IUUlYa0VHTkFiM1pkMUVITlpfd3ZSZTBBamZIb1IySkF1bmVGcmM0czFiN1NnT3FUOWJkMnl4ZUpFVWtZNNIBc0FVX3lxTE5FQ000Nzk4WDIwVW5TaVNjUkV4VHpRU2hpTmxuM01LczIwM0E0WlhFclNZSmMycDhlNnFVR0xTMG5XcGpPLTZjS005SnNkb2FBLXdTQnNmRXkwVF9jWUFUNFVYelV5RklIaGg0R1N6TENOZFU?oc=5",
-          "press": ""
-        },
-        {
-          "title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
-        "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
-        "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고",
-        "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
-        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\""
+        "\"나는 쓰레기 같은 인간\"...젠슨 황의 몰락 [정치 ON]"
       ],
       "category": "몰락"
     },
@@ -439,13 +452,13 @@
       "press": "",
       "related_articles": [
         {
-          "title": "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aNXRRdmN2LXR4cHJ4bUp2N0dtUnU1R1Z3WnhDblF1clBrVmRDY0dNWEQ1YUtoR3VlaFpXd2EzSGJaMDB2d2dpOWdsdEhiSmVhT0VUY1l4MERHNGMwU3B6ckkzMExRS3M?oc=5",
+          "title": "'AI 황제' 몰락에 워싱턴도 발칵···美 반도체 패권전쟁 새 국면",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YW9peG9KY2JxYkFWUF9kZ2xhVFZxazFqa1ZrVjZXTnZGLUxWY3I5M2JXNWQ0bFJjMVFReDhqdFpYQUM0d1F1NXpGZHF0c00zeC12M2E5SXh5amFNeG5henNzVTNId01WYWc?oc=5",
           "press": ""
         },
         {
-          "title": "'AI 황제' 몰락에 워싱턴도 발칵···美 반도체 패권전쟁 새 국면",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53YW9peG9KY2JxYkFWUF9kZ2xhVFZxazFqa1ZrVjZXTnZGLUxWY3I5M2JXNWQ0bFJjMVFReDhqdFpYQUM0d1F1NXpGZHF0c00zeC12M2E5SXh5amFNeG5henNzVTNId01WYWc?oc=5",
+          "title": "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aNXRRdmN2LXR4cHJ4bUp2N0dtUnU1R1Z3WnhDblF1clBrVmRDY0dNWEQ1YUtoR3VlaFpXd2EzSGJaMDB2d2dpOWdsdEhiSmVhT0VUY1l4MERHNGMwU3B6ckkzMExRS3M?oc=5",
           "press": ""
         },
         {
@@ -455,8 +468,8 @@
         }
       ],
       "related_titles": [
-        "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
         "'AI 황제' 몰락에 워싱턴도 발칵···美 반도체 패권전쟁 새 국면",
+        "AI 황제의 몰락…33년 업적 모래성 처럼 무너져",
         "'AI 황제' 몰락에 추락하는 엔비디아...한때 시총 4조 달러 붕괴"
       ],
       "category": "몰락"
@@ -524,7 +537,7 @@
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 7,
+      "count": 6,
       "representative_title": "매매는 '빌라', 전세는 '아파트'…엇갈린 서울 주택 지표",
       "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZTmMzb21SQ1REU0FBX2NxXzB5azFjZXdmV2VnQ2NjTDk0c3RCYmJFakNnSGRURGpLRDZNTE5BaE91dFRUV0V5U3N0bHY5SEpXWk83MzlOWGpzR2JlSk92TExFc1FBVE51Rmc?oc=5",
       "press": "",
@@ -567,7 +580,7 @@
     {
       "rank": 2,
       "keyword": "경기",
-      "count": 5,
+      "count": 4,
       "representative_title": "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률",
       "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnVUUkFvNjFKUlhvZGpYdlZrMUZCQ0dIYUlsQ0syYmlISjJsX1Bsb0dfdVVpeTk2blVmUmw4Y2NIUHpGM0RncjJ5UW91eW1LdEdPc3hEYmZ6OXFhV0kxTEFUa2NOSDhKQlllakF2b2VISUVTWERjQnlwajlobzVlZFJQdHdfMEpT?oc=5",
       "press": "",
