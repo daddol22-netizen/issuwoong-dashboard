@@ -1,60 +1,146 @@
 {
   "date": "2026-11-19",
-  "hour": "13",
-  "slot": "2026-11-19_13",
-  "crawled_at": "2026-11-19 13:00:04",
-  "total_articles": 409,
+  "hour": "16",
+  "slot": "2026-11-19_16",
+  "crawled_at": "2026-11-19 16:00:01",
+  "total_articles": 407,
   "topics": [
     {
       "rank": 1,
       "keyword": "리트",
-      "count": 82,
-      "representative_title": "경찰, 리트 만점자 수능 시험지 증거보전 요청",
-      "representative_link": "https://n.news.naver.com/article/366/0001205890?ntype=RANKING",
-      "press": "조선비즈",
+      "count": 92,
+      "representative_title": "리트 만점자 천호동 모텔에서 발견",
+      "representative_link": "https://n.news.naver.com/article/005/0001886126?ntype=RANKING",
+      "press": "국민일보",
       "related_articles": [
         {
-          "title": "[속보] '리트 만점자' 광진 일대 수색 종료…송파서 추적중",
-          "link": "https://n.news.naver.com/article/001/0016451632?ntype=RANKING",
-          "press": "연합뉴스"
+          "title": "경찰, ‘리트 만점’ 이진우 심정지 상태로 발견",
+          "link": "https://n.news.naver.com/article/366/0001205955?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "'실종 신고' 된 리트 만점자... 경찰, 수색중",
-          "link": "https://n.news.naver.com/article/047/0002536423?ntype=RANKING",
-          "press": "오마이뉴스"
+          "title": "‘리트 만점자’ 심정지에… 미미미누·백지연, 인터뷰 영상 비공개",
+          "link": "https://n.news.naver.com/article/366/0001205974?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "실종 신고된 '리트 만점자'…경찰, 광진→송파→강동 추적 중",
-          "link": "https://n.news.naver.com/article/437/0000521443?ntype=RANKING",
-          "press": "JTBC"
+          "title": "‘리트 만점자’ 공개 검증 주관사 “라이브 방송 수익 전액 기부”",
+          "link": "https://n.news.naver.com/article/366/0001205963?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "“3주만에 ‘머리 리셋’이 된다고요?” 백지연, ‘리트 만점’ 이진우에 ‘돌직구’",
-          "link": "https://n.news.naver.com/article/081/0003701039?ntype=RANKING",
-          "press": "서울신문"
+          "title": "'리트 만점' 이진우, 심정지 상태... 서울 강동구 모텔서 발견",
+          "link": "https://n.news.naver.com/article/469/0000966538?ntype=RANKING",
+          "press": "한국일보"
         },
         {
-          "title": "실력 증명 외치던 ‘리트 만점자’, 행방 묘연…경찰, 광진구 수색",
-          "link": "https://n.news.naver.com/article/081/0003701014?ntype=RANKING",
-          "press": "서울신문"
+          "title": "'리트 만점' 이진우, 경찰 폭행하고 고의 교통사고로 수차례 돈 뜯어",
+          "link": "https://n.news.naver.com/article/469/0000966535?ntype=RANKING",
+          "press": "한국일보"
         }
       ],
       "related_titles": [
-        "[속보] '리트 만점자' 광진 일대 수색 종료…송파서 추적중",
-        "'실종 신고' 된 리트 만점자... 경찰, 수색중",
-        "실종 신고된 '리트 만점자'…경찰, 광진→송파→강동 추적 중",
-        "“3주만에 ‘머리 리셋’이 된다고요?” 백지연, ‘리트 만점’ 이진우에 ‘돌직구’",
-        "실력 증명 외치던 ‘리트 만점자’, 행방 묘연…경찰, 광진구 수색"
+        "경찰, ‘리트 만점’ 이진우 심정지 상태로 발견",
+        "‘리트 만점자’ 심정지에… 미미미누·백지연, 인터뷰 영상 비공개",
+        "‘리트 만점자’ 공개 검증 주관사 “라이브 방송 수익 전액 기부”",
+        "'리트 만점' 이진우, 심정지 상태... 서울 강동구 모텔서 발견",
+        "'리트 만점' 이진우, 경찰 폭행하고 고의 교통사고로 수차례 돈 뜯어"
       ],
       "category": "사건/사고"
     },
     {
       "rank": 2,
-      "keyword": "만점자",
-      "count": 66,
-      "representative_title": "'노쇼' LEET 만점자, 논란 커질 듯",
-      "representative_link": "https://n.news.naver.com/article/374/0000544643?ntype=RANKING",
+      "keyword": "발견",
+      "count": 91,
+      "representative_title": "[속보]용인 수능 고사장서 초소형카메라·이어폰 발견",
+      "representative_link": "https://n.news.naver.com/article/020/0003763683?ntype=RANKING",
+      "press": "동아일보",
+      "related_articles": [
+        {
+          "title": "단추 스티커에 재난문자 발송에도... 용인 시험장에서 초소형 카메라·이어폰 발견",
+          "link": "https://n.news.naver.com/article/366/0001205984?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "\"용인 모 고교 수능 고사장서 초소형카메라·이어폰 발견\"",
+          "link": "https://n.news.naver.com/article/055/0001404256?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "[속보] 용인 고등학교 수능 고사장서 초소형카메라·이어폰 발견",
+          "link": "https://n.news.naver.com/article/421/0009299221?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "[속보] 용인 고교 수능 고사장서 초소형카메라·이어폰 발견",
+          "link": "https://n.news.naver.com/article/015/0005355833?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "[속보] 경기도 용인 수능 시험장에서 초소형카메라 발견",
+          "link": "https://n.news.naver.com/article/052/0002435143?ntype=RANKING",
+          "press": "YTN"
+        }
+      ],
+      "related_titles": [
+        "단추 스티커에 재난문자 발송에도... 용인 시험장에서 초소형 카메라·이어폰 발견",
+        "\"용인 모 고교 수능 고사장서 초소형카메라·이어폰 발견\"",
+        "[속보] 용인 고등학교 수능 고사장서 초소형카메라·이어폰 발견",
+        "[속보] 용인 고교 수능 고사장서 초소형카메라·이어폰 발견",
+        "[속보] 경기도 용인 수능 시험장에서 초소형카메라 발견"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 3,
+      "keyword": "수능",
+      "count": 91,
+      "representative_title": "호텔 뷔페가 반값… 수능 끝, 할인 시작",
+      "representative_link": "https://n.news.naver.com/article/374/0000544677?ntype=RANKING",
       "press": "SBS Biz",
+      "related_articles": [
+        {
+          "title": "[속보] 수능 수학 \"작년 수능과 난이도 비슷\"... 21번 문제에서 갈린다",
+          "link": "https://n.news.naver.com/article/469/0000966551?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "\"이게 오늘 수능 국어야, 풀어봐\" 시켰더니…AI, 2분 만에 100점",
+          "link": "https://n.news.naver.com/article/437/0000521475?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "아들 수능 도시락 주러 가다 교통사고…엄마 태운 순찰차 달렸다",
+          "link": "https://n.news.naver.com/article/437/0000521457?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "한 총리, '폐기시한 도래' 지난해 수능 시험지 보관 긴급 지시",
+          "link": "https://n.news.naver.com/article/055/0001404239?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "수능 시험장에서 스마트폰 22개 적발…필기구 지급 등 운영 차질 없어",
+          "link": "https://n.news.naver.com/article/662/0000108832?ntype=RANKING",
+          "press": "농민신문"
+        }
+      ],
+      "related_titles": [
+        "[속보] 수능 수학 \"작년 수능과 난이도 비슷\"... 21번 문제에서 갈린다",
+        "\"이게 오늘 수능 국어야, 풀어봐\" 시켰더니…AI, 2분 만에 100점",
+        "아들 수능 도시락 주러 가다 교통사고…엄마 태운 순찰차 달렸다",
+        "한 총리, '폐기시한 도래' 지난해 수능 시험지 보관 긴급 지시",
+        "수능 시험장에서 스마트폰 22개 적발…필기구 지급 등 운영 차질 없어"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 4,
+      "keyword": "만점자",
+      "count": 73,
+      "representative_title": "LEET 만점자 사망에 수사 종결 수순…진상조사단 출범할까",
+      "representative_link": "https://n.news.naver.com/article/001/0016452320?ntype=RANKING",
+      "press": "연합뉴스",
       "related_articles": [
         {
           "title": "LEET 만점자 추정인물 '고의 교통사고'로 실형…경찰 폭행도",
@@ -62,100 +148,39 @@
           "press": "연합뉴스"
         },
         {
-          "title": "‘LEET 만점자’ 잠적에 과거 범죄 이력까지… 강제수사 수순",
-          "link": "https://n.news.naver.com/article/082/0001407949?ntype=RANKING",
-          "press": "부산일보"
-        },
-        {
-          "title": "경찰, LEET 만점자 이진우 '신변 우려'…광진→송파→강동서 추적중",
-          "link": "https://n.news.naver.com/article/215/0001273232?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "'4만→20만→40만명' 호언장담 지켜봤는데…안 나타난 만점자",
-          "link": "https://n.news.naver.com/article/215/0001273229?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "공개검증 약속했던 LEET 만점자 어디에…경찰, 광진구 일대 수색",
-          "link": "https://n.news.naver.com/article/654/0000212212?ntype=RANKING",
-          "press": "강원도민일보"
+          "title": "LEET 만점자 사망에 수사 종결 수순…진상조사단 출범할까",
+          "link": "https://n.news.naver.com/article/001/0016452320?ntype=RANKING",
+          "press": "연합뉴스"
         }
       ],
       "related_titles": [
         "LEET 만점자 추정인물 '고의 교통사고'로 실형…경찰 폭행도",
-        "‘LEET 만점자’ 잠적에 과거 범죄 이력까지… 강제수사 수순",
-        "경찰, LEET 만점자 이진우 '신변 우려'…광진→송파→강동서 추적중",
-        "'4만→20만→40만명' 호언장담 지켜봤는데…안 나타난 만점자",
-        "공개검증 약속했던 LEET 만점자 어디에…경찰, 광진구 일대 수색"
+        "LEET 만점자 사망에 수사 종결 수순…진상조사단 출범할까"
       ],
       "category": "사건/사고"
     },
     {
-      "rank": 3,
-      "keyword": "수능",
-      "count": 64,
-      "representative_title": "'AI 커닝' 초비상 속 27학년도 수능 살풍경",
-      "representative_link": "https://n.news.naver.com/article/648/0000052779?ntype=RANKING",
-      "press": "비즈워치",
-      "related_articles": [
-        {
-          "title": "[수능] 수험생 아들에 도시락주려다 교통사고 난 엄마 순찰차 이송",
-          "link": "https://n.news.naver.com/article/001/0016451177?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "[수능] 교육부 \"위급재난문자 발송으로 부정행위 22명 적발\"",
-          "link": "https://n.news.naver.com/article/001/0016451619?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "교육부 \"수능 위급 재난문자 발송으로 22개 스마트폰 적발\"",
-          "link": "https://n.news.naver.com/article/437/0000521454?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "[단독] '영훈고 보관' 이진우 수능 시험지…고발인 '보전' 요청",
-          "link": "https://n.news.naver.com/article/015/0005355721?ntype=RANKING",
-          "press": "한국경제"
-        },
-        {
-          "title": "올해 수능 샤프는 ‘무궁화보라색’…연필 빼고 필기구 모두 지급",
-          "link": "https://n.news.naver.com/article/028/0002832952?ntype=RANKING",
-          "press": "한겨레"
-        }
-      ],
-      "related_titles": [
-        "[수능] 수험생 아들에 도시락주려다 교통사고 난 엄마 순찰차 이송",
-        "[수능] 교육부 \"위급재난문자 발송으로 부정행위 22명 적발\"",
-        "교육부 \"수능 위급 재난문자 발송으로 22개 스마트폰 적발\"",
-        "[단독] '영훈고 보관' 이진우 수능 시험지…고발인 '보전' 요청",
-        "올해 수능 샤프는 ‘무궁화보라색’…연필 빼고 필기구 모두 지급"
-      ],
-      "category": "산업/테크"
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "keyword": "이진우",
-      "count": 45,
+      "count": 60,
       "representative_title": "‘리트냥이’ 이진우 ‘고의 교통사고’ 실형, 경찰 폭행도",
       "representative_link": "https://n.news.naver.com/article/033/0000053481?ntype=RANKING",
       "press": "주간경향",
       "related_articles": [
         {
-          "title": "백지연, ‘검증 불참’ 이진우 인터뷰 공개…“10번 보면 외워져?” 갸우뚱",
-          "link": "https://n.news.naver.com/article/009/0005766019?ntype=RANKING",
-          "press": "매일경제"
+          "title": "\"이진우 주려고 4만원 속옷도 사왔는데\"…강사가 울먹인 이유",
+          "link": "https://n.news.naver.com/article/015/0005355754?ntype=RANKING",
+          "press": "한국경제"
         },
         {
-          "title": "고의 사고로 돈 뜯어...'AI커닝 의혹' 이진우, 이번엔 공갈 전과·수감 의혹",
-          "link": "https://n.news.naver.com/article/008/0005443434?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "알고 보니 전과자였다...이진우 질타했던 재판부 [자막뉴스]",
+          "link": "https://n.news.naver.com/article/052/0002435031?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "‘리트냥이’ 이진우 소재 미스터리…경찰 광진구 일대 수색 [세상&]",
-          "link": "https://n.news.naver.com/article/016/0002725610?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "\"4만원짜리 팬티도 사놨는데\"...'리트냥이' 이진우 노쇼에 눈물",
+          "link": "https://n.news.naver.com/article/018/0006412356?ntype=RANKING",
+          "press": "이데일리"
         },
         {
           "title": "[속보]경찰, 이진우 서울대 치대 수능시험지 증거보전 요청",
@@ -163,87 +188,44 @@
           "press": "문화일보"
         },
         {
-          "title": "\"4만원짜리 팬티도 사놨는데\"...'리트냥이' 이진우 노쇼에 눈물",
-          "link": "https://n.news.naver.com/article/018/0006412356?ntype=RANKING",
-          "press": "이데일리"
+          "title": "‘리트냥이’ 이진우 ‘고의 교통사고’ 실형, 경찰 폭행도",
+          "link": "https://n.news.naver.com/article/033/0000053481?ntype=RANKING",
+          "press": "주간경향"
         }
       ],
       "related_titles": [
-        "백지연, ‘검증 불참’ 이진우 인터뷰 공개…“10번 보면 외워져?” 갸우뚱",
-        "고의 사고로 돈 뜯어...'AI커닝 의혹' 이진우, 이번엔 공갈 전과·수감 의혹",
-        "‘리트냥이’ 이진우 소재 미스터리…경찰 광진구 일대 수색 [세상&]",
+        "\"이진우 주려고 4만원 속옷도 사왔는데\"…강사가 울먹인 이유",
+        "알고 보니 전과자였다...이진우 질타했던 재판부 [자막뉴스]",
+        "\"4만원짜리 팬티도 사놨는데\"...'리트냥이' 이진우 노쇼에 눈물",
         "[속보]경찰, 이진우 서울대 치대 수능시험지 증거보전 요청",
-        "\"4만원짜리 팬티도 사놨는데\"...'리트냥이' 이진우 노쇼에 눈물"
+        "‘리트냥이’ 이진우 ‘고의 교통사고’ 실형, 경찰 폭행도"
       ],
-      "category": "산업/테크"
-    },
-    {
-      "rank": 5,
-      "keyword": "적발",
-      "count": 44,
-      "representative_title": "[속보] 교육부 \"재난문자로 스마트폰 22개 적발\"",
-      "representative_link": "https://n.news.naver.com/article/629/0000553531?ntype=RANKING",
-      "press": "더팩트",
-      "related_articles": [
-        {
-          "title": "[속보] 교육차관 \"위급재난문자 발송으로 부정행위 22명 적발\"",
-          "link": "https://n.news.naver.com/article/001/0016451538?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "교육부 “재난문자로 전국 9개 시도에서 22개 스마트폰 적발”",
-          "link": "https://n.news.naver.com/article/011/0004683907?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "[속보] 재난문자로 스마트폰 22명 적발…시험 지연 없어",
-          "link": "https://n.news.naver.com/article/028/0002832955?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "교육부 “시험장에서 스마트폰 22개 적발…그 외 기기 적발 없어”",
-          "link": "https://n.news.naver.com/article/056/0012297117?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "교육부 “시험장에서 스마트폰 22개 적발…그 외 기기 적발 없어”",
-          "link": "https://n.news.naver.com/article/056/0012297117?ntype=RANKING",
-          "press": "KBS"
-        }
-      ],
-      "related_titles": [
-        "[속보] 교육차관 \"위급재난문자 발송으로 부정행위 22명 적발\"",
-        "교육부 “재난문자로 전국 9개 시도에서 22개 스마트폰 적발”",
-        "[속보] 재난문자로 스마트폰 22명 적발…시험 지연 없어",
-        "교육부 “시험장에서 스마트폰 22개 적발…그 외 기기 적발 없어”",
-        "교육부 “시험장에서 스마트폰 22개 적발…그 외 기기 적발 없어”"
-      ],
-      "category": "산업/테크"
+      "category": "사건/사고"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
       "keyword": "엔비디아",
-      "count": 5,
-      "representative_title": "엔비디아 “우린 할 수 있다” 전사회의…전직원 임금 인상 보상도",
-      "representative_link": "https://n.news.naver.com/article/029/0003059972?ntype=RANKING",
-      "press": "디지털타임스",
+      "count": 4,
+      "representative_title": "“돌아와요 젠슨황” 엔비디아 직원 56% CEO 복귀 지지",
+      "representative_link": "https://n.news.naver.com/article/024/0000109736?ntype=RANKING",
+      "press": "매경이코노미",
       "related_articles": [
         {
-          "title": "엔비디아 “우린 할 수 있다” 전사회의…전직원 임금 인상 보상도",
-          "link": "https://n.news.naver.com/article/029/0003059972?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "무뇨스 현대차 사장 \"젠슨 황 사임, 업계에 큰 영향…엔비디아 협력은 계속\"",
+          "link": "https://n.news.naver.com/article/138/0002249101?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "엔비디아 직원 56% “젠슨황 복귀했으면”…‘능력 대체’ 인물이 없다?",
-          "link": "https://n.news.naver.com/article/016/0002725533?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "\"용돈 1300만원밖에 안줘\" 김보연, 자식 푸념에…子 일하는 '엔비디아 연봉' 재조명",
+          "link": "https://n.news.naver.com/article/243/0000105897?ntype=RANKING",
+          "press": "이코노미스트"
         },
         {
-          "title": "엔비디아 직원 56% \"젠슨황 돌아와 달라\"…후계자로 부사장 선두",
-          "link": "https://n.news.naver.com/article/057/0001978884?ntype=RANKING",
-          "press": "MBN"
+          "title": "“돌아와요 젠슨황” 엔비디아 직원 56% CEO 복귀 지지",
+          "link": "https://n.news.naver.com/article/024/0000109736?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
           "title": "젠슨 황 사임 후 흔들리던 엔비디아 안정화한 콜레트 크레스&#160;",
@@ -251,17 +233,17 @@
           "press": "주간동아"
         },
         {
-          "title": "\"용돈 1300만원밖에 안줘\" 김보연, 자식 푸념에…子 일하는 '엔비디아 연봉' 재조명",
-          "link": "https://n.news.naver.com/article/243/0000105897?ntype=RANKING",
-          "press": "이코노미스트"
+          "title": "무뇨스 현대차 사장 \"젠슨 황 사임, 업계에 큰 영향…엔비디아 협력은 계속\"",
+          "link": "https://n.news.naver.com/article/138/0002249101?ntype=RANKING",
+          "press": "디지털데일리"
         }
       ],
       "related_titles": [
-        "엔비디아 “우린 할 수 있다” 전사회의…전직원 임금 인상 보상도",
-        "엔비디아 직원 56% “젠슨황 복귀했으면”…‘능력 대체’ 인물이 없다?",
-        "엔비디아 직원 56% \"젠슨황 돌아와 달라\"…후계자로 부사장 선두",
+        "무뇨스 현대차 사장 \"젠슨 황 사임, 업계에 큰 영향…엔비디아 협력은 계속\"",
+        "\"용돈 1300만원밖에 안줘\" 김보연, 자식 푸념에…子 일하는 '엔비디아 연봉' 재조명",
+        "“돌아와요 젠슨황” 엔비디아 직원 56% CEO 복귀 지지",
         "젠슨 황 사임 후 흔들리던 엔비디아 안정화한 콜레트 크레스&#160;",
-        "\"용돈 1300만원밖에 안줘\" 김보연, 자식 푸념에…子 일하는 '엔비디아 연봉' 재조명"
+        "무뇨스 현대차 사장 \"젠슨 황 사임, 업계에 큰 영향…엔비디아 협력은 계속\""
       ],
       "category": "주식/코인"
     },
@@ -274,14 +256,14 @@
       "press": "헬스조선",
       "related_articles": [
         {
-          "title": "코스피 하루 만에 5000선 붕괴…‘한한령 완화’ 기대에 콘텐츠주는 급등",
-          "link": "https://n.news.naver.com/article/138/0002249172?ntype=RANKING",
-          "press": "디지털데일리"
-        },
-        {
           "title": "“혈당 급등 막아준다” 고소영이 마트서 산 ‘다이어트 빵’",
           "link": "https://n.news.naver.com/article/346/0000119122?ntype=RANKING",
           "press": "헬스조선"
+        },
+        {
+          "title": "코스피 하루 만에 5000선 붕괴…‘한한령 완화’ 기대에 콘텐츠주는 급등",
+          "link": "https://n.news.naver.com/article/138/0002249172?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
           "title": "대한항공, 유가·환율 안정 힘입어 내년 영업이익 130% 급등 전망",
@@ -289,22 +271,22 @@
           "press": "주간동아"
         },
         {
-          "title": "코스피 하루 만에 5000선 붕괴…‘한한령 완화’ 기대에 콘텐츠주는 급등",
-          "link": "https://n.news.naver.com/article/138/0002249172?ntype=RANKING",
-          "press": "디지털데일리"
-        },
-        {
           "title": "“혈당 급등 막아준다” 고소영이 마트서 산 ‘다이어트 빵’",
           "link": "https://n.news.naver.com/article/346/0000119122?ntype=RANKING",
           "press": "헬스조선"
+        },
+        {
+          "title": "코스피 하루 만에 5000선 붕괴…‘한한령 완화’ 기대에 콘텐츠주는 급등",
+          "link": "https://n.news.naver.com/article/138/0002249172?ntype=RANKING",
+          "press": "디지털데일리"
         }
       ],
       "related_titles": [
-        "코스피 하루 만에 5000선 붕괴…‘한한령 완화’ 기대에 콘텐츠주는 급등",
         "“혈당 급등 막아준다” 고소영이 마트서 산 ‘다이어트 빵’",
-        "대한항공, 유가·환율 안정 힘입어 내년 영업이익 130% 급등 전망",
         "코스피 하루 만에 5000선 붕괴…‘한한령 완화’ 기대에 콘텐츠주는 급등",
-        "“혈당 급등 막아준다” 고소영이 마트서 산 ‘다이어트 빵’"
+        "대한항공, 유가·환율 안정 힘입어 내년 영업이익 130% 급등 전망",
+        "“혈당 급등 막아준다” 고소영이 마트서 산 ‘다이어트 빵’",
+        "코스피 하루 만에 5000선 붕괴…‘한한령 완화’ 기대에 콘텐츠주는 급등"
       ],
       "category": "주식/코인"
     }
@@ -335,13 +317,13 @@
           "press": ""
         },
         {
-          "title": "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZYWJVZnNQYUlYX3dWbGRybTNQVkVCRDJpLTlEYkJNWjJFT3J1SVQzc3pnN2xybk5CeDJiak5kN3JkLURidmFCTjB5cFFPN21qcEVfNlV2T2NPZzFEREtmQmRWZEFDQ2IxNGVmTg?oc=5",
+          "title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
           "press": ""
         },
         {
-          "title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+          "title": "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZYWJVZnNQYUlYX3dWbGRybTNQVkVCRDJpLTlEYkJNWjJFT3J1SVQzc3pnN2xybk5CeDJiak5kN3JkLURidmFCTjB5cFFPN21qcEVfNlV2T2NPZzFEREtmQmRWZEFDQ2IxNGVmTg?oc=5",
           "press": ""
         }
       ],
@@ -349,8 +331,8 @@
         "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
         "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
         "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
-        "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고",
-        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\""
+        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+        "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고"
       ],
       "category": "몰락"
     },
@@ -458,10 +440,15 @@
       "rank": 1,
       "keyword": "서울",
       "count": 5,
-      "representative_title": "매매는 '빌라', 전세는 '아파트'…엇갈린 서울 주택 지표",
-      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZTmMzb21SQ1REU0FBX2NxXzB5azFjZXdmV2VnQ2NjTDk0c3RCYmJFakNnSGRURGpLRDZNTE5BaE91dFRUV0V5U3N0bHY5SEpXWk83MzlOWGpzR2JlSk92TExFc1FBVE51Rmc?oc=5",
+      "representative_title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
       "press": "",
       "related_articles": [
+        {
+          "title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
+          "press": ""
+        },
         {
           "title": "서울 집값 오름폭 석 달째 둔화…경기 상승률 역전, 평균 전셋값 5억↑ [부동산 짚어보기]",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpZ213VkNWT3h1aGxJdk1Ga2dOdWFHekRIY3I2WEZBMzdmZ05IT3NYbUliM1AyNTdDeWVqandDUjZPMVQ4dURiZE5LVlBZdGEza1NvdkFRcE1EYS1rZ0s5WlNBYXhzejJPT0NrQg?oc=5",
@@ -478,22 +465,17 @@
           "press": ""
         },
         {
-          "title": "매매는 '빌라', 전세는 '아파트'…엇갈린 서울 주택 지표",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZTmMzb21SQ1REU0FBX2NxXzB5azFjZXdmV2VnQ2NjTDk0c3RCYmJFakNnSGRURGpLRDZNTE5BaE91dFRUV0V5U3N0bHY5SEpXWk83MzlOWGpzR2JlSk92TExFc1FBVE51Rmc?oc=5",
-          "press": ""
-        },
-        {
-          "title": "서울 집값 106주 연속 오른 적도 있었다…민간 통계 살펴보니",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUVpaX0ozNHpoTHI3RjBYc1JXdV9vdjlaMHFsdEI4VTUxNVVyeHRkT3FJdm12Y283Y1Z5aDV5R0lNbHI3ZzA2Q295WmpmaFJibkY0ckZoamJpT283V1U2NWV6VnI4anNjWjNISEg1S1cySWllNnNkRERVQy1lMnFadg?oc=5",
+          "title": "경기 집값 상승률, 올해 처음 서울 추월…수도권 시장 판도 변화",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XWXYyMEt1dmN0Z0ZteXFLUUxYWDVMaHVyYWJnODFVTW9TVDNUcUtsMVl6MXV1LXB6aDl4RTRTSzRLcjBHMHpBQ21XS29RZE43dTdXeUw2SzVIMGZ4a2RHMFpiLWF0VEZidVE?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
+        "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
         "서울 집값 오름폭 석 달째 둔화…경기 상승률 역전, 평균 전셋값 5억↑ [부동산 짚어보기]",
         "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월",
         "서울 집값 상승세 3개월 연속 둔화…경기 아파트값 상승률 서울 추월",
-        "매매는 '빌라', 전세는 '아파트'…엇갈린 서울 주택 지표",
-        "서울 집값 106주 연속 오른 적도 있었다…민간 통계 살펴보니"
+        "경기 집값 상승률, 올해 처음 서울 추월…수도권 시장 판도 변화"
       ],
       "category": "부동산"
     },
