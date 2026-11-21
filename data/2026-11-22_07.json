@@ -1,0 +1,643 @@
+{
+  "date": "2026-11-22",
+  "hour": "07",
+  "slot": "2026-11-22_07",
+  "crawled_at": "2026-11-22 07:00:03",
+  "total_articles": 402,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "만점자",
+      "count": 26,
+      "representative_title": "'리트 만점자' 발인…사망 이틀 전 \"탈출 도와달라\"",
+      "representative_link": "https://n.news.naver.com/article/448/0000652545?ntype=RANKING",
+      "press": "TV조선",
+      "related_articles": [
+        {
+          "title": "\"이 글도 조롱당하겠지\"…리트 만점자 '5줄 유서' 공개",
+          "link": "https://n.news.naver.com/article/437/0000521829?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "“이 글도 조롱하겠지”… ‘리트 만점자’ 이진우의 마지막 메모",
+          "link": "https://n.news.naver.com/article/005/0001886567?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "[단독]숨진 LEET 만점자 1, 2교시 시험지 보관 안돼… 3교시 논술형은 안 치러",
+          "link": "https://n.news.naver.com/article/020/0003764080?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "'LEET 만점자' 故 이진우, 사망당일 새벽 자취방으로...신변정리 정황",
+          "link": "https://n.news.naver.com/article/014/0005607608?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "\"만점자 부럽지않은 금수저\"…수능 끝난 딸 두 팔 벌려 안아 준 아빠에 '뭉클' [따뜻했슈]",
+          "link": "https://n.news.naver.com/article/014/0005607652?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        }
+      ],
+      "related_titles": [
+        "\"이 글도 조롱당하겠지\"…리트 만점자 '5줄 유서' 공개",
+        "“이 글도 조롱하겠지”… ‘리트 만점자’ 이진우의 마지막 메모",
+        "[단독]숨진 LEET 만점자 1, 2교시 시험지 보관 안돼… 3교시 논술형은 안 치러",
+        "'LEET 만점자' 故 이진우, 사망당일 새벽 자취방으로...신변정리 정황",
+        "\"만점자 부럽지않은 금수저\"…수능 끝난 딸 두 팔 벌려 안아 준 아빠에 '뭉클' [따뜻했슈]"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 2,
+      "keyword": "수능",
+      "count": 23,
+      "representative_title": "수능 창시자의 탄식…“이런 시험이면 없애는 게 낫다”",
+      "representative_link": "https://n.news.naver.com/article/028/0002833317?ntype=RANKING",
+      "press": "한겨레",
+      "related_articles": [
+        {
+          "title": "수능 뒤 더 커진 '부실' 논란...\"역사상 최악의 장관\"",
+          "link": "https://n.news.naver.com/article/052/0002436227?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "이 대통령 \"수능 부정행위 신고 포상, 1건당 최소 1억\"",
+          "link": "https://n.news.naver.com/article/052/0002436201?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "수능 창시자의 탄식…“이런 시험이면 없애는 게 낫다”",
+          "link": "https://n.news.naver.com/article/028/0002833317?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "李 “수능 신고포상금 건당 1억…자수하며 공범 신고시 처벌감경 및 포상금 지급”",
+          "link": "https://n.news.naver.com/article/005/0001886569?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "李대통령 \"수능 부정행위 신고포상금 건당 최소 1억…행위자수만큼 가산\"",
+          "link": "https://n.news.naver.com/article/001/0016455821?ntype=RANKING",
+          "press": "연합뉴스"
+        }
+      ],
+      "related_titles": [
+        "수능 뒤 더 커진 '부실' 논란...\"역사상 최악의 장관\"",
+        "이 대통령 \"수능 부정행위 신고 포상, 1건당 최소 1억\"",
+        "수능 창시자의 탄식…“이런 시험이면 없애는 게 낫다”",
+        "李 “수능 신고포상금 건당 1억…자수하며 공범 신고시 처벌감경 및 포상금 지급”",
+        "李대통령 \"수능 부정행위 신고포상금 건당 최소 1억…행위자수만큼 가산\""
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 3,
+      "keyword": "리트",
+      "count": 23,
+      "representative_title": "리트 만점자가 남긴 마지막 메모엔…“이 글도 조롱하겠지”",
+      "representative_link": "https://n.news.naver.com/article/022/0004176999?ntype=RANKING",
+      "press": "세계일보",
+      "related_articles": [
+        {
+          "title": "\"이 글도 조롱하겠지\" 리트 만점 故이진우, 5줄 유서 보니",
+          "link": "https://n.news.naver.com/article/018/0006413533?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "[속보] '리트 만점' 사망 이진우, 그가 남긴 마지막 메모 \"이 글도 조롱하겠지\"",
+          "link": "https://n.news.naver.com/article/002/0002466982?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "리트 만점자가 남긴 마지막 메모엔…“이 글도 조롱하겠지”",
+          "link": "https://n.news.naver.com/article/022/0004176999?ntype=RANKING",
+          "press": "세계일보"
+        }
+      ],
+      "related_titles": [
+        "\"이 글도 조롱하겠지\" 리트 만점 故이진우, 5줄 유서 보니",
+        "[속보] '리트 만점' 사망 이진우, 그가 남긴 마지막 메모 \"이 글도 조롱하겠지\"",
+        "리트 만점자가 남긴 마지막 메모엔…“이 글도 조롱하겠지”"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 4,
+      "keyword": "부정행위",
+      "count": 20,
+      "representative_title": "대입 논술 시험 중 “진동 느꼈다” 부정행위 의심 신고",
+      "representative_link": "https://n.news.naver.com/article/449/0000368267?ntype=RANKING",
+      "press": "채널A",
+      "related_articles": [
+        {
+          "title": "AI 부정행위 논란 후 첫 국가자격시험‥부정행위 5명 적발·1명 무효",
+          "link": "https://n.news.naver.com/article/214/0001537146?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "AI 부정행위 논란 후 첫 국가자격시험‥부정행위 5명 적발·1명 무효",
+          "link": "https://n.news.naver.com/article/214/0001537146?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "'앞치마 입고 논술 시험'‥AI 부정행위 논란에 대학가도 비상",
+          "link": "https://n.news.naver.com/article/214/0001537149?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "무작위 전화 걸었더니 ‘따르릉’…국가자격시험서 부정행위 6건 적발",
+          "link": "https://n.news.naver.com/article/666/0000133150?ntype=RANKING",
+          "press": "경기일보"
+        },
+        {
+          "title": "무작위로 전화 걸었더니 ‘띠링'… 경비지도사 시험서 부정행위 6건 적발",
+          "link": "https://n.news.naver.com/article/366/0001206399?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "AI 부정행위 논란 후 첫 국가자격시험‥부정행위 5명 적발·1명 무효",
+        "AI 부정행위 논란 후 첫 국가자격시험‥부정행위 5명 적발·1명 무효",
+        "'앞치마 입고 논술 시험'‥AI 부정행위 논란에 대학가도 비상",
+        "무작위 전화 걸었더니 ‘따르릉’…국가자격시험서 부정행위 6건 적발",
+        "무작위로 전화 걸었더니 ‘띠링'… 경비지도사 시험서 부정행위 6건 적발"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 5,
+      "keyword": "사망",
+      "count": 16,
+      "representative_title": "비닐하우스 옆 지나던 60대, 공기총에 맞아 사망",
+      "representative_link": "https://n.news.naver.com/article/081/0003701777?ntype=RANKING",
+      "press": "서울신문",
+      "related_articles": [
+        {
+          "title": "“빨리 죽여줘” 결박된 사형수 비명…1시간 사형집행 끝에 사망 [월드픽]",
+          "link": "https://n.news.naver.com/article/081/0003701785?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "비닐하우스 옆 지나던 60대, 공기총에 맞아 사망",
+          "link": "https://n.news.naver.com/article/081/0003701777?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "평창서 공기총 사격 연습 중 행인 피격 사망…60대 입건",
+          "link": "https://n.news.naver.com/article/003/0014337531?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "러시아, 젤렌스키 고향 미사일 공격…2명 사망 60명 부상",
+          "link": "https://n.news.naver.com/article/003/0014337573?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "[속보] 60대 공기총 사격 연습하다 지나가던 행인 맞혀…60대 1명 사망",
+          "link": "https://n.news.naver.com/article/082/0001408283?ntype=RANKING",
+          "press": "부산일보"
+        }
+      ],
+      "related_titles": [
+        "“빨리 죽여줘” 결박된 사형수 비명…1시간 사형집행 끝에 사망 [월드픽]",
+        "비닐하우스 옆 지나던 60대, 공기총에 맞아 사망",
+        "평창서 공기총 사격 연습 중 행인 피격 사망…60대 입건",
+        "러시아, 젤렌스키 고향 미사일 공격…2명 사망 60명 부상",
+        "[속보] 60대 공기총 사격 연습하다 지나가던 행인 맞혀…60대 1명 사망"
+      ],
+      "category": "사건/사고"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "엔비디아",
+      "count": 7,
+      "representative_title": "엔비디아 쓸어담더니...결국 '피눈물'",
+      "representative_link": "https://n.news.naver.com/article/050/0000113575?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "서학개미 어떡하나… 엔비디아 8천억 폭풍매수, 6조 평가손",
+          "link": "https://n.news.naver.com/article/029/0003060308?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "240만원 찍고 66% 폭락했는데 목표가 280만원?…삼성전기, ‘엔비디아 효과’에 다시 날까 [투자360]",
+          "link": "https://n.news.naver.com/article/016/0002726556?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "AI 잔치에 찬물 끼얹은 뉴욕증시…앤트로픽·엔비디아 동반 급락",
+          "link": "https://n.news.naver.com/article/374/0000545057?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "美, 엔비디아 칩 중국 원격접속도 차단…베선트 \"수출 통제 강화\"",
+          "link": "https://n.news.naver.com/article/374/0000545059?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "'불륜 스캔들' 젠슨 황 복귀 의사 공식화…엔비디아 이사회는 '불가'",
+          "link": "https://n.news.naver.com/article/586/0000142787?ntype=RANKING",
+          "press": "시사저널"
+        }
+      ],
+      "related_titles": [
+        "서학개미 어떡하나… 엔비디아 8천억 폭풍매수, 6조 평가손",
+        "240만원 찍고 66% 폭락했는데 목표가 280만원?…삼성전기, ‘엔비디아 효과’에 다시 날까 [투자360]",
+        "AI 잔치에 찬물 끼얹은 뉴욕증시…앤트로픽·엔비디아 동반 급락",
+        "美, 엔비디아 칩 중국 원격접속도 차단…베선트 \"수출 통제 강화\"",
+        "'불륜 스캔들' 젠슨 황 복귀 의사 공식화…엔비디아 이사회는 '불가'"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "나스닥",
+      "count": 4,
+      "representative_title": "나스닥 올해 상승분 반납…미 연준 \"금리 더 올려야\"",
+      "representative_link": "https://n.news.naver.com/article/665/0000008618?ntype=RANKING",
+      "press": "더스쿠프",
+      "related_articles": [
+        {
+          "title": "나스닥 5.3% 폭락 '검은 금요일'‥올해 상승분 모두 반납",
+          "link": "https://n.news.naver.com/article/214/0001537151?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500 조정 진입",
+          "link": "https://n.news.naver.com/article/374/0000545035?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "나스닥 올해 상승분 반납…미 연준 \"금리 더 올려야\"",
+          "link": "https://n.news.naver.com/article/665/0000008618?ntype=RANKING",
+          "press": "더스쿠프"
+        },
+        {
+          "title": "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들",
+          "link": "https://n.news.naver.com/article/053/0000063249?ntype=RANKING",
+          "press": "주간조선"
+        },
+        {
+          "title": "나스닥 5.3% 폭락 '검은 금요일'‥올해 상승분 모두 반납",
+          "link": "https://n.news.naver.com/article/214/0001537151?ntype=RANKING",
+          "press": "MBC"
+        }
+      ],
+      "related_titles": [
+        "나스닥 5.3% 폭락 '검은 금요일'‥올해 상승분 모두 반납",
+        "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500 조정 진입",
+        "나스닥 올해 상승분 반납…미 연준 \"금리 더 올려야\"",
+        "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들",
+        "나스닥 5.3% 폭락 '검은 금요일'‥올해 상승분 모두 반납"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "급락",
+      "count": 3,
+      "representative_title": "뉴욕증시 또 급락…“돌파구가 보이지 않아”",
+      "representative_link": "https://n.news.naver.com/article/056/0012298651?ntype=RANKING",
+      "press": "KBS",
+      "related_articles": [
+        {
+          "title": "대만, 증시 급락 대응 “직전 거래일 종가 미만 공매도 금지”",
+          "link": "https://n.news.naver.com/article/029/0003060341?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "뉴욕증시 또 급락…“돌파구가 보이지 않아”",
+          "link": "https://n.news.naver.com/article/056/0012298651?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "대만, 증시 급락 대응 “직전 거래일 종가 미만 공매도 금지”",
+          "link": "https://n.news.naver.com/article/029/0003060341?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "뉴욕증시 또 급락…“돌파구가 보이지 않아”",
+          "link": "https://n.news.naver.com/article/056/0012298651?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "대만, 증시 급락 대응 “직전 거래일 종가 미만 공매도 금지”",
+          "link": "https://n.news.naver.com/article/029/0003060341?ntype=RANKING",
+          "press": "디지털타임스"
+        }
+      ],
+      "related_titles": [
+        "대만, 증시 급락 대응 “직전 거래일 종가 미만 공매도 금지”",
+        "뉴욕증시 또 급락…“돌파구가 보이지 않아”",
+        "대만, 증시 급락 대응 “직전 거래일 종가 미만 공매도 금지”",
+        "뉴욕증시 또 급락…“돌파구가 보이지 않아”",
+        "대만, 증시 급락 대응 “직전 거래일 종가 미만 공매도 금지”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "코스피",
+      "count": 3,
+      "representative_title": "9000→4900 추락, 다음은…코스피, 바닥은 있나? 반전은 있나?",
+      "representative_link": "https://n.news.naver.com/article/030/0003488109?ntype=RANKING",
+      "press": "전자신문",
+      "related_articles": [
+        {
+          "title": "\"이러다 진짜 코스피 1만 찍나\"…파격 전망 겹치자 높아지는 기대감[주末머니]",
+          "link": "https://n.news.naver.com/article/277/0005845894?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "9000→4900 추락, 다음은…코스피, 바닥은 있나? 반전은 있나?",
+          "link": "https://n.news.naver.com/article/030/0003488109?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "“5000선 붕괴가 끝 아니다?”…반도체 꺾이자 코스피 4000선도 위태 [증시레이더]",
+          "link": "https://n.news.naver.com/article/138/0002249451?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "\"이러다 진짜 코스피 1만 찍나\"…파격 전망 겹치자 높아지는 기대감[주末머니]",
+          "link": "https://n.news.naver.com/article/277/0005845894?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "9000→4900 추락, 다음은…코스피, 바닥은 있나? 반전은 있나?",
+          "link": "https://n.news.naver.com/article/030/0003488109?ntype=RANKING",
+          "press": "전자신문"
+        }
+      ],
+      "related_titles": [
+        "\"이러다 진짜 코스피 1만 찍나\"…파격 전망 겹치자 높아지는 기대감[주末머니]",
+        "9000→4900 추락, 다음은…코스피, 바닥은 있나? 반전은 있나?",
+        "“5000선 붕괴가 끝 아니다?”…반도체 꺾이자 코스피 4000선도 위태 [증시레이더]",
+        "\"이러다 진짜 코스피 1만 찍나\"…파격 전망 겹치자 높아지는 기대감[주末머니]",
+        "9000→4900 추락, 다음은…코스피, 바닥은 있나? 반전은 있나?"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼성전자",
+      "count": 3,
+      "representative_title": "삼성전자·SK하이닉스, 안전·환경경영 강화…대규모 증설 속 고도화 집중",
+      "representative_link": "https://n.news.naver.com/article/293/0000093621?ntype=RANKING",
+      "press": "블로터",
+      "related_articles": [
+        {
+          "title": "삼성전자 7% 폭락에 개미 1.5조 쓸어담았다…목표가도 줄하향 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004176893?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "\"삼성전자 700조 저평가, 손절 말고 버티세요\"…재무제표 뜯어보니[부꾸미]",
+          "link": "https://n.news.naver.com/article/008/0005444428?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "삼성전자·SK하이닉스, 안전·환경경영 강화…대규모 증설 속 고도화 집중",
+          "link": "https://n.news.naver.com/article/293/0000093621?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "삼성전자 7% 폭락에 개미 1.5조 쓸어담았다…목표가도 줄하향 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004176893?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "\"삼성전자 700조 저평가, 손절 말고 버티세요\"…재무제표 뜯어보니[부꾸미]",
+          "link": "https://n.news.naver.com/article/008/0005444428?ntype=RANKING",
+          "press": "머니투데이"
+        }
+      ],
+      "related_titles": [
+        "삼성전자 7% 폭락에 개미 1.5조 쓸어담았다…목표가도 줄하향 [숫자 뒤의 진실]",
+        "\"삼성전자 700조 저평가, 손절 말고 버티세요\"…재무제표 뜯어보니[부꾸미]",
+        "삼성전자·SK하이닉스, 안전·환경경영 강화…대규모 증설 속 고도화 집중",
+        "삼성전자 7% 폭락에 개미 1.5조 쓸어담았다…목표가도 줄하향 [숫자 뒤의 진실]",
+        "\"삼성전자 700조 저평가, 손절 말고 버티세요\"…재무제표 뜯어보니[부꾸미]"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 6,
+      "representative_title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HX3VvZUJfVWp2S2IxUzdPN0VPb3VGcHZjQWtEUVo5czNWWVpGNjBvMVl1ZEVGRjlhTVFQZ2MtdHU3akY3OW1rTG1jS3QwSG1Idjctdi1jZ2hMZDh3NmF1bk1ROU94OTBkcnfSAW5BVV95cUxNUm9pdEk5TVROTV9mcHhNNmx1YlNpRDNKQzNzQVZmbE9QXzd4OGE3QndHc01nUzd1d2VFdzZpejgydkZjbF9OT1p1V1hpMnNseENaQVppQTZGVlhFcklHMDRnM0tXU2ZtT0c5OFhxUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lYVJ5dHJEWnlKaHlKbnByRU9fOUFMMDRNTlptUE0tUldxeTVJcVRVVHdnWDN0dVA2UnM4Q2RvOTRoUXlMU2FDQ1F6WGlZSWJYRmRtbXZEdHDSAVRBVV95cUxQQ2pZcXlFc1Bhbm5QSUhiTW1za3BpYURrc1hEa2VqVVdSMVhQdEc4US04a013ckRzdVlVWXJxSURRaGZ5dW5ld0xkbXRPWXhQUTcwVGw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTVM3NDYtY2pRMFc5c1NHTmo0dExvSC0za2Q0aUs4R2VZQVdkbG9fM09IUUlYa0VHTkFiM1pkMUVITlpfd3ZSZTBBamZIb1IySkF1bmVGcmM0czFiN1NnT3FUOWJkMnl4ZUpFVWtZNNIBc0FVX3lxTE5FQ000Nzk4WDIwVW5TaVNjUkV4VHpRU2hpTmxuM01LczIwM0E0WlhFclNZSmMycDhlNnFVR0xTMG5XcGpPLTZjS005SnNkb2FBLXdTQnNmRXkwVF9jWUFUNFVYelV5RklIaGg0R1N6TENOZFU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+          "press": ""
+        },
+        {
+          "title": "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZYWJVZnNQYUlYX3dWbGRybTNQVkVCRDJpLTlEYkJNWjJFT3J1SVQzc3pnN2xybk5CeDJiak5kN3JkLURidmFCTjB5cFFPN21qcEVfNlV2T2NPZzFEREtmQmRWZEFDQ2IxNGVmTg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
+        "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+        "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+        "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "젠슨",
+      "series_title": "젠슨의 몰락",
+      "count": 5,
+      "representative_title": "젠슨 황의 몰락, 미·중 '거래의 시대'를 끝내다",
+      "representative_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wOFE3aE5RZFM4NzVVSkZ5Z284Y242VWJJSGJSblhJMHhGU0FXbUJOLXpUZ3NVRkM4ZTZ2YXlDa2RhcS1YRWdrZTdrSmFKRGNTLU5pcjUtbnloM1gxSlFPZktKejE1bldkX1FEZTJ3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUh4TjN3aHF2ZTJsVkR2YmRUaG1ERk5sZllFaUVYSWdGMEt3RkhJMUtGMWxCRG1COUpGS0JHWnB2UGs2dTE5OTZTaldVZ2V1VHh6NWIwRkxtVzdUcFZ4UzVhTVFVSThpZXA3WnNsZUgxeERRY3o2MElBYWVxM0lkaTdn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[NVIDIA ‘젠슨 황’ 미스터리 1] 가죽 재킷 젠슨 황의 몰락 이유는? ‘그녀는 스파이 인가, 기업 사냥꾼인가’",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZTBSYzlkQzdNdjRBTzdvbHdIYktDZF91SXowMFZDQkxETnN3eTVuTVdscTZpeHNHZi1DUzhycThqd0RZelM1dHpJXzBhbHBqcWhtVWd5djh4REUxelVqR3VuMmtmTTM3Mi1qMmNnX3VTZENIUzFaMXlaSVlCOE1RN3E1bDBad0gwQXhfVmo4SlN4VWtBWG04dmRDdU9zYTlOVzlIbmt3SXhrR1I2bnlDVlZSRmdUaEhFMUNGcXhaTEJJVnc5MV9FX1lzTFJIbUdiNV92emhueDF3MVY4ZEtDZDdPZ1RoWmJEcWs5UzliTkc0bWk1UlJLX25OczY4RWtwQjI4NkJ5cHBUVGlQN3ZLSmRLLS1wQndPZjFMTzFwaHVxaHlPaGR5RlhvVG1IbldBWHFDVVpXREFoSjhYREptYnBR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "젠슨 황의 몰락, 미·중 '거래의 시대'를 끝내다",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wOFE3aE5RZFM4NzVVSkZ5Z284Y242VWJJSGJSblhJMHhGU0FXbUJOLXpUZ3NVRkM4ZTZ2YXlDa2RhcS1YRWdrZTdrSmFKRGNTLU5pcjUtbnloM1gxSlFPZktKejE1bldkX1FEZTJ3?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'30일 후면 망한다'는 위기감으로 회사를 이끌던 젠슨 황의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YOVk5ZGdfZmUzSXVFblJseTBCS0xacVNfeklQb0ZSQUwyYjFRYThYUWdwNU9hR1dqSHg4YUJ1ZTIwbkt5SFZhOFhZQUxKaXhHTklNS1N1ZUpTT3RjVGVOQ283YWE5enNWMTFtd0paM3g?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MV2swMUlBUDZuR3A5TTFHZDlaRUJURUw4dnRsTTZ6TmFrd2owaDhwa3BDVUNPb2V5dVo1T0lZOGJmU19ubFE2dS1wWEx1cFJrang0U3kwTkltSVNWMHd5QUp1S1VnR2swTHNN?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+        "[NVIDIA ‘젠슨 황’ 미스터리 1] 가죽 재킷 젠슨 황의 몰락 이유는? ‘그녀는 스파이 인가, 기업 사냥꾼인가’",
+        "젠슨 황의 몰락, 미·중 '거래의 시대'를 끝내다",
+        "'30일 후면 망한다'는 위기감으로 회사를 이끌던 젠슨 황의 몰락",
+        "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "슈퍼카",
+      "series_title": "슈퍼카의 몰락",
+      "count": 1,
+      "representative_title": "中 '홍치 슈퍼카' 몰락… 부채·자금세탁 의혹 얼룩진 '실크-FAW' 스캔들 전말",
+      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWZ4SlVjSHQ4NUlFYjluQ1hGZ0IzNE5SY2NfbnBUUzdNRHBhZF9fN2FDVjc1NnlfSnR4Wk8yNlhuWTExWVhkTl9xYTlQV3RmOVFCTnFPYThUdUtnS0VIdXM0QTQ1WXlyNFo5eFg4MExSU0daZkZZYlJhcHJVU0RWMjRfMnlleXN1?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "中 '홍치 슈퍼카' 몰락… 부채·자금세탁 의혹 얼룩진 '실크-FAW' 스캔들 전말",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWZ4SlVjSHQ4NUlFYjluQ1hGZ0IzNE5SY2NfbnBUUzdNRHBhZF9fN2FDVjc1NnlfSnR4Wk8yNlhuWTExWVhkTl9xYTlQV3RmOVFCTnFPYThUdUtnS0VIdXM0QTQ1WXlyNFo5eFg4MExSU0daZkZZYlJhcHJVU0RWMjRfMnlleXN1?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "中 '홍치 슈퍼카' 몰락… 부채·자금세탁 의혹 얼룩진 '실크-FAW' 스캔들 전말"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "작가",
+      "series_title": "작가의 몰락",
+      "count": 1,
+      "representative_title": "국민배우·베스트셀러 작가 몰락하나…영화 촬영 도중 집단 성폭력 혐의 수사",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTjM5TW1mVFc1MXc0NzZZR2VsaFZKRkVWRU51RUY5NFVBR2pCWXhZamNHc0ViS2E4cjRmbmsyNzlUM1pzTU9ZUUhqS1NNZVFPdG9RcEdNT3ZmSXlPSHFxOA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "국민배우·베스트셀러 작가 몰락하나…영화 촬영 도중 집단 성폭력 혐의 수사",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RTjM5TW1mVFc1MXc0NzZZR2VsaFZKRkVWRU51RUY5NFVBR2pCWXhZamNHc0ViS2E4cjRmbmsyNzlUM1pzTU9ZUUhqS1NNZVFPdG9RcEdNT3ZmSXlPSHFxOA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "국민배우·베스트셀러 작가 몰락하나…영화 촬영 도중 집단 성폭력 혐의 수사"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "괴물",
+      "series_title": "괴물의 몰락",
+      "count": 1,
+      "representative_title": "\"괴물의 몰락\"…프랑스 국민배우 드파르디외, `집단 성폭행 혐의`로 경찰 수사",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U2JIWC1IOTZ6TlRINDVSSW1DZ2RSb3E3dkRPUGRwTE45ZGJwVjJTcEtybzFaWm9UTUE2Uk5kdXVybXZhSTdDV3dkYlZUSTE0ODYzdmZkd09XUXNUdDFkXw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "\"괴물의 몰락\"…프랑스 국민배우 드파르디외, `집단 성폭행 혐의`로 경찰 수사",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U2JIWC1IOTZ6TlRINDVSSW1DZ2RSb3E3dkRPUGRwTE45ZGJwVjJTcEtybzFaWm9UTUE2Uk5kdXVybXZhSTdDV3dkYlZUSTE0ODYzdmZkd09XUXNUdDFkXw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "\"괴물의 몰락\"…프랑스 국민배우 드파르디외, `집단 성폭행 혐의`로 경찰 수사"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 6,
+      "representative_title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuTEhCak1yMVpCT1hyOHZZVUx5a2N1NnB5WTBzcVQ0WXdyUDVNTlgxaDBkUG1lQ0VoaEdwcllKSXNZZzduUlFSZU03S1BLWG5xb19jWQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcEg2OWFwOXk5aWRCU0dtWklDdzFsQ2NYWmgwT0tMX3JwNmxiVjFFV19TenZwVVQxVk5SclpVOUQ1UXVZU1FvU0ZVSkl0Z243R0FzUW04VlUyUdIBWEFVX3lxTE5uRmhZV1hkdV9WcUpaazZqM1dqMkN2elNtS1RoSnZrUXNoQXdxZncwa1d6SzJzcGVRSG9QeFhrM3BmR1l5cmc2ak96SU1NSjBkUFJ5UC1BcGU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHpabUF2aDlQdFRZUXh2eWF5S3I3X1dScjlLMVdnbnRyRWo0WGZlcG9EMDNZSHM1QVg0MkRPRXotX0MxSGRiREs2eVZEYzFaMHdROTU0MllCU0hTVE1rZ25OVWNCZGlqX3RGeFRKZF9JZ1p4Ukt6UmVMLWZmS0lTVQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 제친 경기 집값, 비밀은 '삼세권'[아기곰의 부동산 산책]",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uTG95cWJHc2tiQWtMSW5nNkNtNTV4OWxVd0pFeDdGb01BSzJPcGxGWmVvUTNkUnlsdmVJN2dCNklPNWFUckZWSmVSazU2czRNdWNHQlFGNE14WENhOHVLSDBfS2FCVUhaQ0F3QQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
+        "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
+        "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
+        "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
+        "서울 제친 경기 집값, 비밀은 '삼세권'[아기곰의 부동산 산책]"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 3,
+      "representative_title": "[윤준의 부동산수첩] 강남 집값 내려도 세입자는 더 낸다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBET1UxTHRNNUoxWk9leWdMTHB6SkVaUnh5SW0yM0NQYk1FczlUck5NWWJJdUJqTXZzSDRyZ0RDUTNtNU5BdnZIbW1CbmFiZEx0R1NfYkFrLUZuOWZadXpiRjZDRUh0Z9IBakFVX3lxTFBxc212WEFPQ3lKc0t6UUlqZUNuTmR2NkNnZzBzWlBxUjh3dXdsdHBSVmEzWVAtZjhOblQzSkxyWmlkdkk5ZUFuY25LN1RqNUpqSGhZLTQ4M3RPRS1wZ2ktVWxiUUdpZk9XTUE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[윤준의 부동산수첩] 강남 집값 내려도 세입자는 더 낸다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBET1UxTHRNNUoxWk9leWdMTHB6SkVaUnh5SW0yM0NQYk1FczlUck5NWWJJdUJqTXZzSDRyZ0RDUTNtNU5BdnZIbW1CbmFiZEx0R1NfYkFrLUZuOWZadXpiRjZDRUh0Z9IBakFVX3lxTFBxc212WEFPQ3lKc0t6UUlqZUNuTmR2NkNnZzBzWlBxUjh3dXdsdHBSVmEzWVAtZjhOblQzSkxyWmlkdkk5ZUFuY25LN1RqNUpqSGhZLTQ4M3RPRS1wZ2ktVWxiUUdpZk9XTUE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[윤준의 부동산수첩] 강남 집값 내려도 세입자는 더 낸다"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
