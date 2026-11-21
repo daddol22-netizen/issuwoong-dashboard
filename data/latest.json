@@ -1,193 +1,75 @@
 {
   "date": "2026-11-21",
-  "hour": "07",
-  "slot": "2026-11-21_07",
-  "crawled_at": "2026-11-21 07:00:02",
-  "total_articles": 407,
+  "hour": "10",
+  "slot": "2026-11-21_10",
+  "crawled_at": "2026-11-21 10:00:05",
+  "total_articles": 406,
   "topics": [
     {
       "rank": 1,
       "keyword": "수능",
-      "count": 32,
-      "representative_title": "수능 당일 돌연 은퇴 선언 ‘일타 강사’의 이유",
-      "representative_link": "https://n.news.naver.com/article/021/0002834396?ntype=RANKING",
-      "press": "문화일보",
+      "count": 27,
+      "representative_title": "수능 끝, 할인 시작…스테이크도 호텔 뷔페도 '반값'",
+      "representative_link": "https://n.news.naver.com/article/031/0001077169?ntype=RANKING",
+      "press": "아이뉴스24",
       "related_articles": [
         {
-          "title": "\"지우개 없어? 반으로 잘라!\" 감독관이 전한 '초유의 수능'",
-          "link": "https://n.news.naver.com/article/437/0000521733?ntype=RANKING",
-          "press": "JTBC"
+          "title": "\"얘들아 정말 큰일 났는데\"…수능 문제 9분 만에 푼 일타강사의 한마디",
+          "link": "https://n.news.naver.com/article/277/0005845811?ntype=RANKING",
+          "press": "아시아경제"
         },
         {
-          "title": "천안 수능 '스마트안경' 수험생, 후드 주머니에 숨기고 일반 안경 건네",
-          "link": "https://n.news.naver.com/article/047/0002536681?ntype=RANKING",
-          "press": "오마이뉴스"
+          "title": "'리트 만점자' 故이진우, 유품은 찢어진 2018학년도 수능 수험표",
+          "link": "https://n.news.naver.com/article/277/0005845810?ntype=RANKING",
+          "press": "아시아경제"
         },
         {
-          "title": "이부진 아들이 입증한 ‘수능 대박’ 비결, 하버드도 검증했다…“가방에 넣고 잠가라”",
-          "link": "https://n.news.naver.com/article/081/0003701590?ntype=RANKING",
-          "press": "서울신문"
+          "title": "\"딸 수능 도시락에 수저 깜빡\" 어쩌나 했는데…학부모들 배려에 '감동'",
+          "link": "https://n.news.naver.com/article/277/0005845761?ntype=RANKING",
+          "press": "아시아경제"
         },
         {
-          "title": "수능 '생윤' 9분 만에 풀고 \"큰일 났네\"…이지영 강사가 내놓은 충격의 1등급컷",
-          "link": "https://n.news.naver.com/article/014/0005607489?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "수능 전후 사라진 교육부 장관...\"사퇴하라면 해야죠\"",
+          "link": "https://n.news.naver.com/article/052/0002435979?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "\"나 쫓겨났어\" 수능 한창때 울린 카톡에 '발칵'...알고 보니",
-          "link": "https://n.news.naver.com/article/018/0006413360?ntype=RANKING",
-          "press": "이데일리"
+          "title": "수능 시험장에 지우개 안 왔다…감독관 '식겁', 교장이 내린 결단은",
+          "link": "https://n.news.naver.com/article/422/0000928216?ntype=RANKING",
+          "press": "연합뉴스TV"
         }
       ],
       "related_titles": [
-        "\"지우개 없어? 반으로 잘라!\" 감독관이 전한 '초유의 수능'",
-        "천안 수능 '스마트안경' 수험생, 후드 주머니에 숨기고 일반 안경 건네",
-        "이부진 아들이 입증한 ‘수능 대박’ 비결, 하버드도 검증했다…“가방에 넣고 잠가라”",
-        "수능 '생윤' 9분 만에 풀고 \"큰일 났네\"…이지영 강사가 내놓은 충격의 1등급컷",
-        "\"나 쫓겨났어\" 수능 한창때 울린 카톡에 '발칵'...알고 보니"
+        "\"얘들아 정말 큰일 났는데\"…수능 문제 9분 만에 푼 일타강사의 한마디",
+        "'리트 만점자' 故이진우, 유품은 찢어진 2018학년도 수능 수험표",
+        "\"딸 수능 도시락에 수저 깜빡\" 어쩌나 했는데…학부모들 배려에 '감동'",
+        "수능 전후 사라진 교육부 장관...\"사퇴하라면 해야죠\"",
+        "수능 시험장에 지우개 안 왔다…감독관 '식겁', 교장이 내린 결단은"
       ],
-      "category": "사회/일반"
+      "category": "정치"
     },
     {
       "rank": 2,
-      "keyword": "부정행위",
-      "count": 21,
-      "representative_title": "부정행위 13건 추가 적발…“고발 등 엄정 조치”",
-      "representative_link": "https://n.news.naver.com/article/056/0012298331?ntype=RANKING",
-      "press": "KBS",
+      "keyword": "리트",
+      "count": 20,
+      "representative_title": "\"탈출하게 도와달라\"…숨진 '리트 만점자' 마지막 행적",
+      "representative_link": "https://n.news.naver.com/article/015/0005356558?ntype=RANKING",
+      "press": "한국경제",
       "related_articles": [
         {
-          "title": "부정행위 13건 추가 적발…“고발 등 엄정 조치”",
-          "link": "https://n.news.naver.com/article/056/0012298331?ntype=RANKING",
-          "press": "KBS"
+          "title": "리트 만점자 고발인 \"남은 흔적 어떻게든 찾아달라\" 거듭 촉구",
+          "link": "https://n.news.naver.com/article/422/0000928335?ntype=RANKING",
+          "press": "연합뉴스TV"
         },
         {
-          "title": "[단독] 공사 생도 부정행위 퇴교…시험지 스마트폰 촬영",
-          "link": "https://n.news.naver.com/article/055/0001404636?ntype=RANKING",
-          "press": "SBS"
+          "title": "집주인에 \"탈출 도와달라\"…리트 만점자, 공개검증 당일 짐 정리",
+          "link": "https://n.news.naver.com/article/215/0001273455?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "‘미트 수석 합격자’ AI 부정행위 의혹 부인…“1년 아닌 6년 준비, 법적 대응” [전문]",
-          "link": "https://n.news.naver.com/article/009/0005766765?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "\"막노동하며 서울대 전체 수석\"…AI 부정행위 논란에 다시 주목받은 인물",
-          "link": "https://n.news.naver.com/article/014/0005607441?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        },
-        {
-          "title": "감독관 없는 공군사관학교 명예시험서 부정행위…생도 퇴교",
-          "link": "https://n.news.naver.com/article/656/0000193097?ntype=RANKING",
-          "press": "대전일보"
-        }
-      ],
-      "related_titles": [
-        "부정행위 13건 추가 적발…“고발 등 엄정 조치”",
-        "[단독] 공사 생도 부정행위 퇴교…시험지 스마트폰 촬영",
-        "‘미트 수석 합격자’ AI 부정행위 의혹 부인…“1년 아닌 6년 준비, 법적 대응” [전문]",
-        "\"막노동하며 서울대 전체 수석\"…AI 부정행위 논란에 다시 주목받은 인물",
-        "감독관 없는 공군사관학교 명예시험서 부정행위…생도 퇴교"
-      ],
-      "category": "산업/테크"
-    },
-    {
-      "rank": 3,
-      "keyword": "조희대",
-      "count": 16,
-      "representative_title": "민주, 조희대 탄핵 당론…\"기각 땐 자기 발목\"",
-      "representative_link": "https://n.news.naver.com/article/417/0001165114?ntype=RANKING",
-      "press": "동행미디어 시대",
-      "related_articles": [
-        {
-          "title": "한동훈, 조희대 탄핵 추진에 \"민주당, 미쳐도 곱게 미쳐라\"",
-          "link": "https://n.news.naver.com/article/047/0002536658?ntype=RANKING",
-          "press": "오마이뉴스"
-        },
-        {
-          "title": "추미애 \"내란범 사법세탁 공장장 조희대 일찍 탄핵했어야\"",
-          "link": "https://n.news.naver.com/article/656/0000193096?ntype=RANKING",
-          "press": "대전일보"
-        },
-        {
-          "title": "조희대 탄핵 추진에…판사들 \"결과 맘에 안들 때마다 비판, 어떻게 일 하나\"",
-          "link": "https://n.news.naver.com/article/008/0005444251?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "[단독] 이석연 \"조희대 탄핵? 대통령의 재제청 요구가 오히려 '국헌문란'\"",
-          "link": "https://n.news.naver.com/article/586/0000142759?ntype=RANKING",
-          "press": "시사저널"
-        },
-        {
-          "title": "與, '조희대 탄핵' 당론 채택…사유에 '한덕수 파기환송' 포함 놓고 '오락가락'",
-          "link": "https://n.news.naver.com/article/448/0000652427?ntype=RANKING",
-          "press": "TV조선"
-        }
-      ],
-      "related_titles": [
-        "한동훈, 조희대 탄핵 추진에 \"민주당, 미쳐도 곱게 미쳐라\"",
-        "추미애 \"내란범 사법세탁 공장장 조희대 일찍 탄핵했어야\"",
-        "조희대 탄핵 추진에…판사들 \"결과 맘에 안들 때마다 비판, 어떻게 일 하나\"",
-        "[단독] 이석연 \"조희대 탄핵? 대통령의 재제청 요구가 오히려 '국헌문란'\"",
-        "與, '조희대 탄핵' 당론 채택…사유에 '한덕수 파기환송' 포함 놓고 '오락가락'"
-      ],
-      "category": "국제"
-    },
-    {
-      "rank": 4,
-      "keyword": "탄핵",
-      "count": 16,
-      "representative_title": "특검도 수긍한 판결…민주당선 탄핵 당론",
-      "representative_link": "https://n.news.naver.com/article/353/0000057355?ntype=RANKING",
-      "press": "중앙SUNDAY",
-      "related_articles": [
-        {
-          "title": "판결 하루 만에 탄핵 추진‥법원 내부서도 엇갈린 시선",
-          "link": "https://n.news.naver.com/article/214/0001537034?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "안철수 \"민주당 머릿속은 '탄핵, 신천지, 최민희'...국민은 없는 듯\"",
-          "link": "https://n.news.naver.com/article/655/0000033645?ntype=RANKING",
-          "press": "CJB청주방송"
-        },
-        {
-          "title": "“내란 인정한 대법원장 탄핵?”… 한동훈, 민주당·장동혁 동시에 겨눴다",
-          "link": "https://n.news.naver.com/article/661/0000086850?ntype=RANKING",
-          "press": "JIBS"
-        },
-        {
-          "title": "특검도 수긍한 판결…민주당선 탄핵 당론",
-          "link": "https://n.news.naver.com/article/353/0000057355?ntype=RANKING",
-          "press": "중앙SUNDAY"
-        }
-      ],
-      "related_titles": [
-        "판결 하루 만에 탄핵 추진‥법원 내부서도 엇갈린 시선",
-        "안철수 \"민주당 머릿속은 '탄핵, 신천지, 최민희'...국민은 없는 듯\"",
-        "“내란 인정한 대법원장 탄핵?”… 한동훈, 민주당·장동혁 동시에 겨눴다",
-        "특검도 수긍한 판결…민주당선 탄핵 당론"
-      ],
-      "category": "국제"
-    },
-    {
-      "rank": 5,
-      "keyword": "이진우",
-      "count": 16,
-      "representative_title": "‘리트 만점’ 이진우 유품은 7등급 수험표... 무슨 의미?",
-      "representative_link": "https://n.news.naver.com/article/023/0004010791?ntype=RANKING",
-      "press": "조선일보",
-      "related_articles": [
-        {
-          "title": "경찰, 이진우 사망에 \"변사 사건이라 설명 어려워\"... 수사는 계속",
-          "link": "https://n.news.naver.com/article/047/0002536423?ntype=RANKING",
-          "press": "오마이뉴스"
-        },
-        {
-          "title": "\"이진우, 진짜 다 뚫었나\" 수사의 열쇠는?‥'전망' 물어보니",
-          "link": "https://n.news.naver.com/article/214/0001537046?ntype=RANKING",
-          "press": "MBC"
+          "title": "‘리트 만점자’ 고발 변호사 “AI 부정행위 단서 찾아달라” 수사 촉구",
+          "link": "https://n.news.naver.com/article/023/0004010841?ntype=RANKING",
+          "press": "조선일보"
         },
         {
           "title": "‘리트 만점’ 이진우 유품은 7등급 수험표... 무슨 의미?",
@@ -195,92 +77,231 @@
           "press": "조선일보"
         },
         {
-          "title": "\"이진우 사망 안타까워...대중의 손가락질 지나쳐\"...서울대 교수 일침",
-          "link": "https://n.news.naver.com/article/655/0000033642?ntype=RANKING",
-          "press": "CJB청주방송"
-        },
-        {
-          "title": "[단독] 리트 보기도 전에 성적 자신…이진우, 두 달 전 초고득점 가정하고 출판 준비",
-          "link": "https://n.news.naver.com/article/057/0001979173?ntype=RANKING",
-          "press": "MBN"
+          "title": "‘리트 만점자’, 숨진 당일 새벽 자택서 짐 정리…이틀 전엔 “탈출 도와달라” 요청도",
+          "link": "https://n.news.naver.com/article/366/0001206375?ntype=RANKING",
+          "press": "조선비즈"
         }
       ],
       "related_titles": [
-        "경찰, 이진우 사망에 \"변사 사건이라 설명 어려워\"... 수사는 계속",
-        "\"이진우, 진짜 다 뚫었나\" 수사의 열쇠는?‥'전망' 물어보니",
+        "리트 만점자 고발인 \"남은 흔적 어떻게든 찾아달라\" 거듭 촉구",
+        "집주인에 \"탈출 도와달라\"…리트 만점자, 공개검증 당일 짐 정리",
+        "‘리트 만점자’ 고발 변호사 “AI 부정행위 단서 찾아달라” 수사 촉구",
         "‘리트 만점’ 이진우 유품은 7등급 수험표... 무슨 의미?",
-        "\"이진우 사망 안타까워...대중의 손가락질 지나쳐\"...서울대 교수 일침",
-        "[단독] 리트 보기도 전에 성적 자신…이진우, 두 달 전 초고득점 가정하고 출판 준비"
+        "‘리트 만점자’, 숨진 당일 새벽 자택서 짐 정리…이틀 전엔 “탈출 도와달라” 요청도"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 3,
+      "keyword": "만점자",
+      "count": 20,
+      "representative_title": "[속보]LEET 만점자 이진우, 사망당일 새벽 자취방 짐 정리…신변정리 정황",
+      "representative_link": "https://n.news.naver.com/article/021/0002834428?ntype=RANKING",
+      "press": "문화일보",
+      "related_articles": [
+        {
+          "title": "[속보]LEET 만점자 이진우, 사망당일 새벽 자취방 짐 정리…신변정리 정황",
+          "link": "https://n.news.naver.com/article/021/0002834428?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "[단독]숨진 LEET 만점자 1, 2교시 시험지 보관 안돼… 3교시 논술형은 안 치러",
+          "link": "https://n.news.naver.com/article/020/0003764080?ntype=RANKING",
+          "press": "동아일보"
+        }
+      ],
+      "related_titles": [
+        "[속보]LEET 만점자 이진우, 사망당일 새벽 자취방 짐 정리…신변정리 정황",
+        "[단독]숨진 LEET 만점자 1, 2교시 시험지 보관 안돼… 3교시 논술형은 안 치러"
       ],
       "category": "사건/사고"
+    },
+    {
+      "rank": 4,
+      "keyword": "부정행위",
+      "count": 15,
+      "representative_title": "미트 수석 합격자도 혹시?…\"6년 준비\" AI 부정행위 의혹 일축",
+      "representative_link": "https://n.news.naver.com/article/008/0005444342?ntype=RANKING",
+      "press": "머니투데이",
+      "related_articles": [
+        {
+          "title": "엄중 경고 비웃듯 신발 깔창·옷 속에…서울 수능장 부정행위 의혹 2건",
+          "link": "https://n.news.naver.com/article/586/0000142764?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "감독 강화하고 재난문자까지 보냈는데‥스마트기기 부정행위 111건 적발",
+          "link": "https://n.news.naver.com/article/214/0001537040?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "[단독] 부정행위 아닌데 수험생 퇴실 시키고 번복…\"학생에게 미안\"",
+          "link": "https://n.news.naver.com/article/057/0001979171?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
+          "link": "https://n.news.naver.com/article/666/0000133082?ntype=RANKING",
+          "press": "경기일보"
+        },
+        {
+          "title": "미트 수석 합격자도 혹시?…\"6년 준비\" AI 부정행위 의혹 일축",
+          "link": "https://n.news.naver.com/article/008/0005444342?ntype=RANKING",
+          "press": "머니투데이"
+        }
+      ],
+      "related_titles": [
+        "엄중 경고 비웃듯 신발 깔창·옷 속에…서울 수능장 부정행위 의혹 2건",
+        "감독 강화하고 재난문자까지 보냈는데‥스마트기기 부정행위 111건 적발",
+        "[단독] 부정행위 아닌데 수험생 퇴실 시키고 번복…\"학생에게 미안\"",
+        "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
+        "미트 수석 합격자도 혹시?…\"6년 준비\" AI 부정행위 의혹 일축"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 5,
+      "keyword": "만에",
+      "count": 13,
+      "representative_title": "한미 비만약 돌풍…2주 만에 100억",
+      "representative_link": "https://n.news.naver.com/article/417/0001165000?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "‘스태프 성폭행’ 강지환, 뜨개질로 복귀 시동…하루 만에 퇴출됐다",
+          "link": "https://n.news.naver.com/article/025/0003566805?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "나흘 만에 나온 교육장관…\"사퇴하라면 해야죠\"",
+          "link": "https://n.news.naver.com/article/055/0001404633?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "판결 하루 만에 탄핵 추진‥법원 내부서도 엇갈린 시선",
+          "link": "https://n.news.naver.com/article/214/0001537034?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "‘성폭행 유죄’ 강지환, 틱톡 복귀 시동 걸었지만…‘하루 만에’ 퇴출",
+          "link": "https://n.news.naver.com/article/020/0003764053?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "면허 취득 9개월 만에 음주운전…18세 운전자 가로등 들이받고 전복",
+          "link": "https://n.news.naver.com/article/087/0001232306?ntype=RANKING",
+          "press": "강원일보"
+        }
+      ],
+      "related_titles": [
+        "‘스태프 성폭행’ 강지환, 뜨개질로 복귀 시동…하루 만에 퇴출됐다",
+        "나흘 만에 나온 교육장관…\"사퇴하라면 해야죠\"",
+        "판결 하루 만에 탄핵 추진‥법원 내부서도 엇갈린 시선",
+        "‘성폭행 유죄’ 강지환, 틱톡 복귀 시동 걸었지만…‘하루 만에’ 퇴출",
+        "면허 취득 9개월 만에 음주운전…18세 운전자 가로등 들이받고 전복"
+      ],
+      "category": "산업/테크"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "코스피",
-      "count": 14,
-      "representative_title": "‘검은 금요일’ 코스피 5%대 급락에 4800선 후퇴",
-      "representative_link": "https://n.news.naver.com/article/658/0000161833?ntype=RANKING",
-      "press": "국제신문",
+      "keyword": "나스닥",
+      "count": 12,
+      "representative_title": "나스닥 5.3% 폭락…AMD·마이크론 13% 급락",
+      "representative_link": "https://n.news.naver.com/article/138/0002249434?ntype=RANKING",
+      "press": "디지털데일리",
       "related_articles": [
         {
-          "title": "삼성전자·SK하이닉스 6.7% 곤두박질…코스피, 매도 사이드카 발동",
-          "link": "https://n.news.naver.com/article/087/0001232271?ntype=RANKING",
-          "press": "강원일보"
+          "title": "나스닥, 기술주 매도에 5.3% 폭락…“S&P500도 6년 사이 최장 하락”",
+          "link": "https://n.news.naver.com/article/056/0012298559?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "개미 속타는데 전망은 극과 극…코스피 7500 vs 1만",
-          "link": "https://n.news.naver.com/article/024/0000109767?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "나스닥 5.3% 폭락…AMD·마이크론 13% 급락",
+          "link": "https://n.news.naver.com/article/138/0002249434?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "증권가도 \"팔기엔 늦었고 사기엔 무섭다\"…5000 깨진 코스피 고민",
-          "link": "https://n.news.naver.com/article/421/0009302014?ntype=RANKING",
+          "title": "뉴욕증시, 기술주 투매에 일제히 흔들…나스닥 5.3% 급락",
+          "link": "https://n.news.naver.com/article/366/0001206366?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "나스닥, 기술주 매도에 5.3% 폭락‥다우·S&P500도 조정 진입",
+          "link": "https://n.news.naver.com/article/214/0001537102?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "\"월가 AI 투자 무너진다\"…나스닥 5.3% 급락 '검은 금요일'(종합)",
+          "link": "https://n.news.naver.com/article/421/0009302361?ntype=RANKING",
           "press": "뉴스1"
-        },
-        {
-          "title": "\"대체 바닥이 어디야\"…코스피 4900선 붕괴, 반등 열쇠는?",
-          "link": "https://n.news.naver.com/article/008/0005444256?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "'4869' 1월로 되돌아간 코스피…시총 4천조원 붕괴(종합)",
-          "link": "https://n.news.naver.com/article/079/0004212267?ntype=RANKING",
-          "press": "노컷뉴스"
         }
       ],
       "related_titles": [
-        "삼성전자·SK하이닉스 6.7% 곤두박질…코스피, 매도 사이드카 발동",
-        "개미 속타는데 전망은 극과 극…코스피 7500 vs 1만",
-        "증권가도 \"팔기엔 늦었고 사기엔 무섭다\"…5000 깨진 코스피 고민",
-        "\"대체 바닥이 어디야\"…코스피 4900선 붕괴, 반등 열쇠는?",
-        "'4869' 1월로 되돌아간 코스피…시총 4천조원 붕괴(종합)"
+        "나스닥, 기술주 매도에 5.3% 폭락…“S&P500도 6년 사이 최장 하락”",
+        "나스닥 5.3% 폭락…AMD·마이크론 13% 급락",
+        "뉴욕증시, 기술주 투매에 일제히 흔들…나스닥 5.3% 급락",
+        "나스닥, 기술주 매도에 5.3% 폭락‥다우·S&P500도 조정 진입",
+        "\"월가 AI 투자 무너진다\"…나스닥 5.3% 급락 '검은 금요일'(종합)"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "급락",
-      "count": 6,
-      "representative_title": "금값 10개월 새 37% 급락…지금 사도 될까",
-      "representative_link": "https://n.news.naver.com/article/024/0000109775?ntype=RANKING",
-      "press": "매경이코노미",
+      "keyword": "폭락",
+      "count": 10,
+      "representative_title": "어떻게 ‘수출 1조 달러’인데 ‘주가 폭락’이 오나",
+      "representative_link": "https://n.news.naver.com/article/056/0012298560?ntype=RANKING",
+      "press": "KBS",
       "related_articles": [
         {
-          "title": "앤스로픽 11% 급락, 공모가마저 위협…IPO 열기 왜 식었나",
-          "link": "https://n.news.naver.com/article/018/0006413378?ntype=RANKING",
-          "press": "이데일리"
+          "title": "어떻게 ‘수출 1조 달러’인데 ‘주가 폭락’이 오나",
+          "link": "https://n.news.naver.com/article/056/0012298560?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "금값 10개월 새 37% 급락…지금 사도 될까",
-          "link": "https://n.news.naver.com/article/024/0000109775?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "반도체주·앤트로픽 '급락' 직격탄 맞았다…미 증시 '폭락'",
+          "link": "https://n.news.naver.com/article/055/0001404693?ntype=RANKING",
+          "press": "SBS"
         },
         {
-          "title": "뉴욕증시, AI 기술주 매도세에 혼조 출발… 앤트로픽 상장 이틀째 10% 급락",
-          "link": "https://n.news.naver.com/article/366/0001206346?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "어떻게 ‘수출 1조 달러’인데 ‘주가 폭락’이 오나",
+          "link": "https://n.news.naver.com/article/056/0012298560?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "반도체주·앤트로픽 '급락' 직격탄 맞았다…미 증시 '폭락'",
+          "link": "https://n.news.naver.com/article/055/0001404693?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "어떻게 ‘수출 1조 달러’인데 ‘주가 폭락’이 오나",
+          "link": "https://n.news.naver.com/article/056/0012298560?ntype=RANKING",
+          "press": "KBS"
+        }
+      ],
+      "related_titles": [
+        "어떻게 ‘수출 1조 달러’인데 ‘주가 폭락’이 오나",
+        "반도체주·앤트로픽 '급락' 직격탄 맞았다…미 증시 '폭락'",
+        "어떻게 ‘수출 1조 달러’인데 ‘주가 폭락’이 오나",
+        "반도체주·앤트로픽 '급락' 직격탄 맞았다…미 증시 '폭락'",
+        "어떻게 ‘수출 1조 달러’인데 ‘주가 폭락’이 오나"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "기술주",
+      "count": 8,
+      "representative_title": "뉴욕증시, 엔트로픽 9%·마이크론 6% 급락 출발… 기술주 투심 위축 속 혼조",
+      "representative_link": "https://n.news.naver.com/article/029/0003060288?ntype=RANKING",
+      "press": "디지털타임스",
+      "related_articles": [
+        {
+          "title": "뉴욕증시, 엔트로픽 9%·마이크론 6% 급락 출발… 기술주 투심 위축 속 혼조",
+          "link": "https://n.news.naver.com/article/029/0003060288?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
           "title": "뉴욕증시, 엔트로픽 9%·마이크론 6% 급락 출발… 기술주 투심 위축 속 혼조",
@@ -288,134 +309,101 @@
           "press": "디지털타임스"
         },
         {
-          "title": "앤스로픽 11% 급락, 공모가마저 위협…IPO 열기 왜 식었나",
-          "link": "https://n.news.naver.com/article/018/0006413378?ntype=RANKING",
-          "press": "이데일리"
+          "title": "뉴욕증시, 엔트로픽 9%·마이크론 6% 급락 출발… 기술주 투심 위축 속 혼조",
+          "link": "https://n.news.naver.com/article/029/0003060288?ntype=RANKING",
+          "press": "디지털타임스"
         }
       ],
       "related_titles": [
-        "앤스로픽 11% 급락, 공모가마저 위협…IPO 열기 왜 식었나",
-        "금값 10개월 새 37% 급락…지금 사도 될까",
-        "뉴욕증시, AI 기술주 매도세에 혼조 출발… 앤트로픽 상장 이틀째 10% 급락",
         "뉴욕증시, 엔트로픽 9%·마이크론 6% 급락 출발… 기술주 투심 위축 속 혼조",
-        "앤스로픽 11% 급락, 공모가마저 위협…IPO 열기 왜 식었나"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 3,
-      "keyword": "엔비디아",
-      "count": 3,
-      "representative_title": "젠슨 황 없는 엔비디아, AI 제국의 진짜 리스크는 ‘그’였다",
-      "representative_link": "https://n.news.naver.com/article/050/0000113530?ntype=RANKING",
-      "press": "한경비즈니스",
-      "related_articles": [
-        {
-          "title": "\"젠슨 황, 복귀해도 좋다\"던 트럼프…알고보니 엔비디아 주식 '사팔사팔'",
-          "link": "https://n.news.naver.com/article/277/0005845768?ntype=RANKING",
-          "press": "아시아경제"
-        },
-        {
-          "title": "젠슨 황 없는 엔비디아, AI 제국의 진짜 리스크는 ‘그’였다",
-          "link": "https://n.news.naver.com/article/050/0000113530?ntype=RANKING",
-          "press": "한경비즈니스"
-        },
-        {
-          "title": "‘대중 봉쇄’ 외치던 美...엔비디아·AMD AI칩 88만개 수출 허가",
-          "link": "https://n.news.naver.com/article/123/0002394527?ntype=RANKING",
-          "press": "조세일보"
-        },
-        {
-          "title": "\"젠슨 황, 복귀해도 좋다\"던 트럼프…알고보니 엔비디아 주식 '사팔사팔'",
-          "link": "https://n.news.naver.com/article/277/0005845768?ntype=RANKING",
-          "press": "아시아경제"
-        },
-        {
-          "title": "젠슨 황 없는 엔비디아, AI 제국의 진짜 리스크는 ‘그’였다",
-          "link": "https://n.news.naver.com/article/050/0000113530?ntype=RANKING",
-          "press": "한경비즈니스"
-        }
-      ],
-      "related_titles": [
-        "\"젠슨 황, 복귀해도 좋다\"던 트럼프…알고보니 엔비디아 주식 '사팔사팔'",
-        "젠슨 황 없는 엔비디아, AI 제국의 진짜 리스크는 ‘그’였다",
-        "‘대중 봉쇄’ 외치던 美...엔비디아·AMD AI칩 88만개 수출 허가",
-        "\"젠슨 황, 복귀해도 좋다\"던 트럼프…알고보니 엔비디아 주식 '사팔사팔'",
-        "젠슨 황 없는 엔비디아, AI 제국의 진짜 리스크는 ‘그’였다"
+        "뉴욕증시, 엔트로픽 9%·마이크론 6% 급락 출발… 기술주 투심 위축 속 혼조",
+        "뉴욕증시, 엔트로픽 9%·마이크론 6% 급락 출발… 기술주 투심 위축 속 혼조"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "삼성전자",
-      "count": 3,
-      "representative_title": "삼성전자 '투톱' 그대로…메모리·갤럭시는 새 얼굴로",
-      "representative_link": "https://n.news.naver.com/article/648/0000052822?ntype=RANKING",
-      "press": "비즈워치",
+      "keyword": "급락",
+      "count": 7,
+      "representative_title": "금값 10개월 새 37% 급락…지금 사도 될까",
+      "representative_link": "https://n.news.naver.com/article/024/0000109775?ntype=RANKING",
+      "press": "매경이코노미",
       "related_articles": [
         {
-          "title": "삼성전자 '투톱' 그대로…메모리·갤럭시는 새 얼굴로",
-          "link": "https://n.news.naver.com/article/648/0000052822?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "앤트로픽 흥행에도 급락…속절없는 삼전·닉스 한숨만",
+          "link": "https://n.news.naver.com/article/374/0000545023?ntype=RANKING",
+          "press": "SBS Biz"
         },
         {
-          "title": "“삼성전자·SK하이닉스 과도하게 빠졌다”…KB증권 “내년 D램 가격 40% 상승”",
-          "link": "https://n.news.naver.com/article/138/0002249331?ntype=RANKING",
-          "press": "디지털데일리"
+          "title": "금값 10개월 새 37% 급락…지금 사도 될까",
+          "link": "https://n.news.naver.com/article/024/0000109775?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
-          "title": "삼성전자 '투톱' 그대로…메모리·갤럭시는 새 얼굴로",
-          "link": "https://n.news.naver.com/article/648/0000052822?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "앤트로픽 흥행에도 급락…속절없는 삼전·닉스 한숨만",
+          "link": "https://n.news.naver.com/article/374/0000545023?ntype=RANKING",
+          "press": "SBS Biz"
         },
         {
-          "title": "“삼성전자·SK하이닉스 과도하게 빠졌다”…KB증권 “내년 D램 가격 40% 상승”",
-          "link": "https://n.news.naver.com/article/138/0002249331?ntype=RANKING",
-          "press": "디지털데일리"
+          "title": "금값 10개월 새 37% 급락…지금 사도 될까",
+          "link": "https://n.news.naver.com/article/024/0000109775?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
-          "title": "삼성전자 '투톱' 그대로…메모리·갤럭시는 새 얼굴로",
-          "link": "https://n.news.naver.com/article/648/0000052822?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "앤트로픽 흥행에도 급락…속절없는 삼전·닉스 한숨만",
+          "link": "https://n.news.naver.com/article/374/0000545023?ntype=RANKING",
+          "press": "SBS Biz"
         }
       ],
       "related_titles": [
-        "삼성전자 '투톱' 그대로…메모리·갤럭시는 새 얼굴로",
-        "“삼성전자·SK하이닉스 과도하게 빠졌다”…KB증권 “내년 D램 가격 40% 상승”",
-        "삼성전자 '투톱' 그대로…메모리·갤럭시는 새 얼굴로",
-        "“삼성전자·SK하이닉스 과도하게 빠졌다”…KB증권 “내년 D램 가격 40% 상승”",
-        "삼성전자 '투톱' 그대로…메모리·갤럭시는 새 얼굴로"
+        "앤트로픽 흥행에도 급락…속절없는 삼전·닉스 한숨만",
+        "금값 10개월 새 37% 급락…지금 사도 될까",
+        "앤트로픽 흥행에도 급락…속절없는 삼전·닉스 한숨만",
+        "금값 10개월 새 37% 급락…지금 사도 될까",
+        "앤트로픽 흥행에도 급락…속절없는 삼전·닉스 한숨만"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "앤트로픽",
-      "count": 3,
-      "representative_title": "'143조' 전미가 울었다…앤트로픽, 첫날부터 \"나스닥 상장, 성공적\"",
-      "representative_link": "https://n.news.naver.com/article/243/0000105954?ntype=RANKING",
-      "press": "이코노미스트",
+      "keyword": "코스피",
+      "count": 7,
+      "representative_title": "실적 좋아도 못 오르는 코스피…산타랠리 열쇠는 '금리·외국인'",
+      "representative_link": "https://n.news.naver.com/article/648/0000052821?ntype=RANKING",
+      "press": "비즈워치",
       "related_articles": [
         {
-          "title": "'143조' 전미가 울었다…앤트로픽, 첫날부터 \"나스닥 상장, 성공적\"",
-          "link": "https://n.news.naver.com/article/243/0000105954?ntype=RANKING",
-          "press": "이코노미스트"
+          "title": "장동혁 \"코스피 4900붕괴? 李 정권 증시 대응 속수무책…주가조작 특검해야\"",
+          "link": "https://n.news.naver.com/article/656/0000193094?ntype=RANKING",
+          "press": "대전일보"
         },
         {
-          "title": "'143조' 전미가 울었다…앤트로픽, 첫날부터 \"나스닥 상장, 성공적\"",
-          "link": "https://n.news.naver.com/article/243/0000105954?ntype=RANKING",
-          "press": "이코노미스트"
+          "title": "삼성전자·SK하이닉스 6.7% 곤두박질…코스피, 매도 사이드카 발동",
+          "link": "https://n.news.naver.com/article/087/0001232271?ntype=RANKING",
+          "press": "강원일보"
         },
         {
-          "title": "'143조' 전미가 울었다…앤트로픽, 첫날부터 \"나스닥 상장, 성공적\"",
-          "link": "https://n.news.naver.com/article/243/0000105954?ntype=RANKING",
-          "press": "이코노미스트"
+          "title": "실적 좋아도 못 오르는 코스피…산타랠리 열쇠는 '금리·외국인'",
+          "link": "https://n.news.naver.com/article/648/0000052821?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "실적도 안먹히는 시장...'검은 금요일' 코스피 4900선도 붕괴",
+          "link": "https://n.news.naver.com/article/648/0000052838?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "앤트로픽 흥행보다 강했던 AMD 쇼크...코스피 다시 5000선 밑으로",
+          "link": "https://n.news.naver.com/article/648/0000052819?ntype=RANKING",
+          "press": "비즈워치"
         }
       ],
       "related_titles": [
-        "'143조' 전미가 울었다…앤트로픽, 첫날부터 \"나스닥 상장, 성공적\"",
-        "'143조' 전미가 울었다…앤트로픽, 첫날부터 \"나스닥 상장, 성공적\"",
-        "'143조' 전미가 울었다…앤트로픽, 첫날부터 \"나스닥 상장, 성공적\""
+        "장동혁 \"코스피 4900붕괴? 李 정권 증시 대응 속수무책…주가조작 특검해야\"",
+        "삼성전자·SK하이닉스 6.7% 곤두박질…코스피, 매도 사이드카 발동",
+        "실적 좋아도 못 오르는 코스피…산타랠리 열쇠는 '금리·외국인'",
+        "실적도 안먹히는 시장...'검은 금요일' 코스피 4900선도 붕괴",
+        "앤트로픽 흥행보다 강했던 AMD 쇼크...코스피 다시 5000선 밑으로"
       ],
       "category": "주식/코인"
     }
@@ -505,6 +493,32 @@
     },
     {
       "rank": 3,
+      "keyword": "골프",
+      "series_title": "골프의 몰락",
+      "count": 2,
+      "representative_title": "'LIV 골프의 몰락' 디섐보, DP월드투어 합류 확정",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRc2FiU0RYZzdES0VYamhFTFNFc3dENHJXNmlWOXJBNzJ3bF9sQmZFcjdvTktDaGZEVUhkcTNTLW1hOHVnSEtRWTFKTndOVFl5ZVVrUlluUzkyRWNHTGpMTA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'LIV 골프의 몰락' 디섐보, DP월드투어 합류 확정",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRc2FiU0RYZzdES0VYamhFTFNFc3dENHJXNmlWOXJBNzJ3bF9sQmZFcjdvTktDaGZEVUhkcTNTLW1hOHVnSEtRWTFKTndOVFl5ZVVrUlluUzkyRWNHTGpMTA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "욘 람, LIV 골프 몰락 뒤 PGA 투어 복귀를 기다리는 마스터스 챔피언",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZ2M2NkN1VVNwRUdXbUhEN3J0MEhyOTN1U0llV21GeHZaMjhQQmRvN0cySkJPdzZzNU5zMmFDVUJhRzROMjI0VE1XYUFDMkVfWVF4YV9ac1R1Sk90ZThWTWJSNjR3eXduS0V3UExEWFRHR2wtSFdCcjQzUXJJenBwcjZKeVdrQlpwaDN4cVpZaTlRSEhaeURmY2FTVE41c2tKVGdnaW0xSDNTYlJTOXRFQURwd293U0pieExwNWRib1RRT3VrM0dKVXRaYVVKTFlxRFJUSFZmVlQ5NnVBN2RyX08xYjE0Q01KeTNMTXpyZm5wc2xublRxcUVhMWdqWjdJeTRrNGMzOGpKVW9KekgzMTY5TjlEWGQ1VXJjSQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'LIV 골프의 몰락' 디섐보, DP월드투어 합류 확정",
+        "욘 람, LIV 골프 몰락 뒤 PGA 투어 복귀를 기다리는 마스터스 챔피언"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
       "keyword": "중저가",
       "series_title": "중저가의 몰락",
       "count": 1,
@@ -524,7 +538,7 @@
       "category": "몰락"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "네타냐후",
       "series_title": "네타냐후의 몰락",
       "count": 1,
@@ -542,37 +556,22 @@
         "[영상] 네타냐후 몰락 초읽기?…이란·가자전쟁 영향은(ft.성일광 교수)"
       ],
       "category": "몰락"
-    },
-    {
-      "rank": 5,
-      "keyword": "엔비디아",
-      "series_title": "엔비디아의 몰락",
-      "count": 1,
-      "representative_title": "“젠슨 황 없는 엔비디아 몰락? 애플·아마존이 이미 증명했다”",
-      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PUjA3cmtveDJ6dS0wRHBSY292YTVpVUhPc0FCZlkzb1ZVRFZzellSQTlOdkpIZTRfbUZUdFduQW5CYVZWekpxWE1nTGMyNF9nTWtaNHlR?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "“젠슨 황 없는 엔비디아 몰락? 애플·아마존이 이미 증명했다”",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PUjA3cmtveDJ6dS0wRHBSY292YTVpVUhPc0FCZlkzb1ZVRFZzellSQTlOdkpIZTRfbUZUdFduQW5CYVZWekpxWE1nTGMyNF9nTWtaNHlR?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "“젠슨 황 없는 엔비디아 몰락? 애플·아마존이 이미 증명했다”"
-      ],
-      "category": "몰락"
     }
   ],
   "budongsan_topics": [
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 5,
+      "count": 6,
       "representative_title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
       "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
       "press": "",
       "related_articles": [
+        {
+          "title": "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHpabUF2aDlQdFRZUXh2eWF5S3I3X1dScjlLMVdnbnRyRWo0WGZlcG9EMDNZSHM1QVg0MkRPRXotX0MxSGRiREs2eVZEYzFaMHdROTU0MllCU0hTVE1rZ25OVWNCZGlqX3RGeFRKZF9JZ1p4Ukt6UmVMLWZmS0lTVQ?oc=5",
+          "press": ""
+        },
         {
           "title": "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcEg2OWFwOXk5aWRCU0dtWklDdzFsQ2NYWmgwT0tMX3JwNmxiVjFFV19TenZwVVQxVk5SclpVOUQ1UXVZU1FvU0ZVSkl0Z243R0FzUW04VlUyUdIBWEFVX3lxTE5uRmhZV1hkdV9WcUpaazZqM1dqMkN2elNtS1RoSnZrUXNoQXdxZncwa1d6SzJzcGVRSG9QeFhrM3BmR1l5cmc2ak96SU1NSjBkUFJ5UC1BcGU?oc=5",
@@ -581,11 +580,6 @@
         {
           "title": "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuTEhCak1yMVpCT1hyOHZZVUx5a2N1NnB5WTBzcVQ0WXdyUDVNTlgxaDBkUG1lQ0VoaEdwcllKSXNZZzduUlFSZU03S1BLWG5xb19jWQ?oc=5",
-          "press": ""
-        },
-        {
-          "title": "강남 넘어 한강벨트까지…‘서울 집값 정말 잡히나요’[부동산 취재로그]",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPXy02dkp4eTE0Zm1rNkZMWGkxelhkY2plXzdYelBUMEZKXy1SWEs3empmYVNPZ29pU2xXb0hvY0ZwWHR5dHNiVXliT2x1Q2UyTHA4ZHNraUxYdVltUGFFaGFvY1MtdDliX3JXUzE1RFozQ1J5bERKREFVbkpNaFFNSQ?oc=5",
           "press": ""
         },
         {
@@ -600,9 +594,9 @@
         }
       ],
       "related_titles": [
+        "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
         "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
         "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
-        "강남 넘어 한강벨트까지…‘서울 집값 정말 잡히나요’[부동산 취재로그]",
         "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
         "서울 제친 경기 집값, 비밀은 '삼세권'[아기곰의 부동산 산책]"
       ],
