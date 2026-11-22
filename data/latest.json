@@ -1,143 +1,174 @@
 {
   "date": "2026-11-22",
-  "hour": "10",
-  "slot": "2026-11-22_10",
-  "crawled_at": "2026-11-22 10:00:04",
-  "total_articles": 401,
+  "hour": "13",
+  "slot": "2026-11-22_13",
+  "crawled_at": "2026-11-22 13:00:01",
+  "total_articles": 398,
   "topics": [
     {
       "rank": 1,
       "keyword": "수능",
-      "count": 17,
-      "representative_title": "수능 창시자의 탄식…“이런 시험이면 없애는 게 낫다”",
-      "representative_link": "https://n.news.naver.com/article/028/0002833317?ntype=RANKING",
-      "press": "한겨레",
+      "count": 19,
+      "representative_title": "최교진 교육장관 사의…“수능 책임 통감”",
+      "representative_link": "https://n.news.naver.com/article/056/0012298762?ntype=RANKING",
+      "press": "KBS",
       "related_articles": [
-        {
-          "title": "LEET 만점자, 3년전 수능 고득점…수감 중 ‘열공’했나",
-          "link": "https://n.news.naver.com/article/016/0002726526?ntype=RANKING",
-          "press": "헤럴드경제"
-        },
-        {
-          "title": "수능 뒤 더 커진 '부실' 논란...\"역사상 최악의 장관\"",
-          "link": "https://n.news.naver.com/article/052/0002436227?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "수능 창시자의 탄식…“이런 시험이면 없애는 게 낫다”",
-          "link": "https://n.news.naver.com/article/028/0002833317?ntype=RANKING",
-          "press": "한겨레"
-        },
         {
           "title": "수능 6수 끝 세상 떠난 의대 지망생…“부정행위가 꿈 짓밟아”",
           "link": "https://n.news.naver.com/article/025/0003566866?ntype=RANKING",
           "press": "중앙일보"
         },
         {
-          "title": "이제 객관식 말고 서·논술형으로?…'수능 개편론' 급부상",
-          "link": "https://n.news.naver.com/article/055/0001404817?ntype=RANKING",
+          "title": "수능 수학 1등급 86% ‘미적분·기하’… 문과 교차지원 늘어날 듯",
+          "link": "https://n.news.naver.com/article/366/0001206453?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "[1보] 최교진 교육장관, 사의 표명…\"수능 책임 통감\"",
+          "link": "https://n.news.naver.com/article/001/0016456336?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "종로학원 \"수능 수학 1등급 85.7% '미적분·기하' 선택\"…문과 교차 지원 이어질 듯",
+          "link": "https://n.news.naver.com/article/055/0001404848?ntype=RANKING",
           "press": "SBS"
+        },
+        {
+          "title": "문제 유출, 수능 직전 예능行… 일타강사인가, ‘일탈’강사인가",
+          "link": "https://n.news.naver.com/article/023/0004010858?ntype=RANKING",
+          "press": "조선일보"
         }
       ],
       "related_titles": [
-        "LEET 만점자, 3년전 수능 고득점…수감 중 ‘열공’했나",
-        "수능 뒤 더 커진 '부실' 논란...\"역사상 최악의 장관\"",
-        "수능 창시자의 탄식…“이런 시험이면 없애는 게 낫다”",
         "수능 6수 끝 세상 떠난 의대 지망생…“부정행위가 꿈 짓밟아”",
-        "이제 객관식 말고 서·논술형으로?…'수능 개편론' 급부상"
+        "수능 수학 1등급 86% ‘미적분·기하’… 문과 교차지원 늘어날 듯",
+        "[1보] 최교진 교육장관, 사의 표명…\"수능 책임 통감\"",
+        "종로학원 \"수능 수학 1등급 85.7% '미적분·기하' 선택\"…문과 교차 지원 이어질 듯",
+        "문제 유출, 수능 직전 예능行… 일타강사인가, ‘일탈’강사인가"
       ],
       "category": "정치"
     },
     {
       "rank": 2,
-      "keyword": "로또",
-      "count": 16,
-      "representative_title": "당첨되면 무려 24억 차익…잠실 ‘로또 청약’ 떴다",
-      "representative_link": "https://n.news.naver.com/article/024/0000109791?ntype=RANKING",
-      "press": "매경이코노미",
+      "keyword": "조희대",
+      "count": 17,
+      "representative_title": "[속보]민주당 “12월 前 조희대 탄핵소추안 의결할 것”",
+      "representative_link": "https://n.news.naver.com/article/005/0001886610?ntype=RANKING",
+      "press": "국민일보",
       "related_articles": [
         {
-          "title": "로또 2등, 판매점 한곳서 ‘10장’ 쏟아졌다…동일인이면 5억 받는다",
-          "link": "https://n.news.naver.com/article/009/0005767064?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "당첨되면 무려 24억 차익…잠실 ‘로또 청약’ 떴다",
-          "link": "https://n.news.naver.com/article/024/0000109791?ntype=RANKING",
-          "press": "매경이코노미"
-        },
-        {
-          "title": "로또 2등 10장, 서울 중구 한곳서 쏟아졌다…동일인이면 5억 대박",
-          "link": "https://n.news.naver.com/article/421/0009303025?ntype=RANKING",
-          "press": "뉴스1"
-        },
-        {
-          "title": "\"로또 안 줘?\" 식당 주인 부부 흉기로…무기징역→45년 감형",
-          "link": "https://n.news.naver.com/article/055/0001404823?ntype=RANKING",
-          "press": "SBS"
-        },
-        {
-          "title": "'서비스용 로또 안 준다고 식당 칼부림'…무기징역→45년 감형",
-          "link": "https://n.news.naver.com/article/001/0016456047?ntype=RANKING",
-          "press": "연합뉴스"
-        }
-      ],
-      "related_titles": [
-        "로또 2등, 판매점 한곳서 ‘10장’ 쏟아졌다…동일인이면 5억 받는다",
-        "당첨되면 무려 24억 차익…잠실 ‘로또 청약’ 떴다",
-        "로또 2등 10장, 서울 중구 한곳서 쏟아졌다…동일인이면 5억 대박",
-        "\"로또 안 줘?\" 식당 주인 부부 흉기로…무기징역→45년 감형",
-        "'서비스용 로또 안 준다고 식당 칼부림'…무기징역→45년 감형"
-      ],
-      "category": "사회/일반"
-    },
-    {
-      "rank": 3,
-      "keyword": "만점자",
-      "count": 16,
-      "representative_title": "'리트 만점자' 발인…사망 이틀 전 \"탈출 도와달라\"",
-      "representative_link": "https://n.news.naver.com/article/448/0000652545?ntype=RANKING",
-      "press": "TV조선",
-      "related_articles": [
-        {
-          "title": "리트 만점자 유서 공개 \"죽어도 가려 했지만…이 글도 조롱당하겠지\"",
-          "link": "https://n.news.naver.com/article/277/0005845939?ntype=RANKING",
-          "press": "아시아경제"
-        },
-        {
-          "title": "리트 만점자, 사망 이틀 전 집주인에게 \"탈출 도와달라\" 요청",
-          "link": "https://n.news.naver.com/article/586/0000142785?ntype=RANKING",
-          "press": "시사저널"
-        },
-        {
-          "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
-          "link": "https://n.news.naver.com/article/021/0002834464?ntype=RANKING",
-          "press": "문화일보"
-        },
-        {
-          "title": "[단독] 리트 만점자, 유서에 “죽어도 가려 했지만…조롱 당하겠지”",
-          "link": "https://n.news.naver.com/article/025/0003566859?ntype=RANKING",
+          "title": "민주 “조희대 대법원장 탄핵 소추안, 12월 내 국회서 의결”",
+          "link": "https://n.news.naver.com/article/025/0003566918?ntype=RANKING",
           "press": "중앙일보"
         },
         {
-          "title": "\"이 글도 조롱당하겠지\"…리트 만점자 '5줄 유서' 공개",
-          "link": "https://n.news.naver.com/article/437/0000521829?ntype=RANKING",
-          "press": "JTBC"
+          "title": "오세훈 “조희대 탄핵, 대통령 재판 없애려는 사법부 장악 시도”",
+          "link": "https://n.news.naver.com/article/366/0001206456?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "與 “12월 가기 전 조희대 탄핵소추안 국회서 의결할 것”",
+          "link": "https://n.news.naver.com/article/023/0004010993?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "[속보]민주당 \"12월 가기 전 국회서 조희대 탄핵소추안 의결\"",
+          "link": "https://n.news.naver.com/article/003/0014337801?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "[속보]민주당 “12월 前 조희대 탄핵소추안 의결할 것”",
+          "link": "https://n.news.naver.com/article/005/0001886610?ntype=RANKING",
+          "press": "국민일보"
         }
       ],
       "related_titles": [
-        "리트 만점자 유서 공개 \"죽어도 가려 했지만…이 글도 조롱당하겠지\"",
-        "리트 만점자, 사망 이틀 전 집주인에게 \"탈출 도와달라\" 요청",
-        "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
-        "[단독] 리트 만점자, 유서에 “죽어도 가려 했지만…조롱 당하겠지”",
-        "\"이 글도 조롱당하겠지\"…리트 만점자 '5줄 유서' 공개"
+        "민주 “조희대 대법원장 탄핵 소추안, 12월 내 국회서 의결”",
+        "오세훈 “조희대 탄핵, 대통령 재판 없애려는 사법부 장악 시도”",
+        "與 “12월 가기 전 조희대 탄핵소추안 국회서 의결할 것”",
+        "[속보]민주당 \"12월 가기 전 국회서 조희대 탄핵소추안 의결\"",
+        "[속보]민주당 “12월 前 조희대 탄핵소추안 의결할 것”"
       ],
-      "category": "산업/테크"
+      "category": "국제"
+    },
+    {
+      "rank": 3,
+      "keyword": "대통령",
+      "count": 14,
+      "representative_title": "李 대통령 긍정평가 40%..부정평가 49% [갤럽]",
+      "representative_link": "https://n.news.naver.com/article/659/0000048892?ntype=RANKING",
+      "press": "전주MBC",
+      "related_articles": [
+        {
+          "title": "청와대, ‘대통령 잦은 순방’ 지적한 야당에 “눈 들어 해외 정상 보라”",
+          "link": "https://n.news.naver.com/article/056/0012298752?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "\"보수 대통령 지지하다 장애인 되어버린 엄마\"…정유라가 전한 최순실 근황",
+          "link": "https://n.news.naver.com/article/088/0001041551?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "李 대통령 긍정평가 40%..부정평가 49% [갤럽]",
+          "link": "https://n.news.naver.com/article/659/0000048892?ntype=RANKING",
+          "press": "전주MBC"
+        },
+        {
+          "title": "野 '대통령 해외 순방 잦아'…靑 \"해외 정상들 숨가쁜 순방 외교 보라\"",
+          "link": "https://n.news.naver.com/article/656/0000193148?ntype=RANKING",
+          "press": "대전일보"
+        },
+        {
+          "title": "오세훈 “대법원장 탄핵소추안 처리 날, 이 대통령 심판열차 출발”",
+          "link": "https://n.news.naver.com/article/449/0000368297?ntype=RANKING",
+          "press": "채널A"
+        }
+      ],
+      "related_titles": [
+        "청와대, ‘대통령 잦은 순방’ 지적한 야당에 “눈 들어 해외 정상 보라”",
+        "\"보수 대통령 지지하다 장애인 되어버린 엄마\"…정유라가 전한 최순실 근황",
+        "李 대통령 긍정평가 40%..부정평가 49% [갤럽]",
+        "野 '대통령 해외 순방 잦아'…靑 \"해외 정상들 숨가쁜 순방 외교 보라\"",
+        "오세훈 “대법원장 탄핵소추안 처리 날, 이 대통령 심판열차 출발”"
+      ],
+      "category": "국제"
     },
     {
       "rank": 4,
+      "keyword": "탄핵",
+      "count": 13,
+      "representative_title": "특검도 수긍한 판결…민주당선 탄핵 당론",
+      "representative_link": "https://n.news.naver.com/article/353/0000057355?ntype=RANKING",
+      "press": "중앙SUNDAY",
+      "related_articles": [
+        {
+          "title": "정점식 \"블랙먼데이 가능성…탄핵 아니라 주식시장 신경 써야\"",
+          "link": "https://n.news.naver.com/article/055/0001404841?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "“판결 불만에 대법원장 탄핵?”… 변호사단체, 민주당에 ‘권한 남용’  경고",
+          "link": "https://n.news.naver.com/article/661/0000086888?ntype=RANKING",
+          "press": "JIBS"
+        },
+        {
+          "title": "특검도 수긍한 판결…민주당선 탄핵 당론",
+          "link": "https://n.news.naver.com/article/353/0000057355?ntype=RANKING",
+          "press": "중앙SUNDAY"
+        }
+      ],
+      "related_titles": [
+        "정점식 \"블랙먼데이 가능성…탄핵 아니라 주식시장 신경 써야\"",
+        "“판결 불만에 대법원장 탄핵?”… 변호사단체, 민주당에 ‘권한 남용’  경고",
+        "특검도 수긍한 판결…민주당선 탄핵 당론"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 5,
       "keyword": "만원",
-      "count": 15,
+      "count": 13,
       "representative_title": "월 소득 519만원 초과 땐 국민연금 개시 미루세요",
       "representative_link": "https://n.news.naver.com/article/353/0000057337?ntype=RANKING",
       "press": "중앙SUNDAY",
@@ -148,75 +179,32 @@
           "press": "서울경제"
         },
         {
-          "title": "5만원 받고 \"촉감 이상해\"…딱 걸린 남성이 찢어버린 돈 정체",
-          "link": "https://n.news.naver.com/article/008/0005444476?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "\"월급 34만원인데 숙식비로 65만원 내라?\"…법원도 혀 내둘렀다",
+          "link": "https://n.news.naver.com/article/079/0004212378?ntype=RANKING",
+          "press": "노컷뉴스"
         },
         {
-          "title": "\"남는 장사 아냐?\" 치킨 3만원, 사장님이 왜 울어?...배달 치킨값의 비밀",
-          "link": "https://n.news.naver.com/article/008/0005444482?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "\"일본 가서 샀으면 큰일 날 뻔\"…명품 30만원 싸게 산 비결 [박수림의 요즘 여기]",
+          "link": "https://n.news.naver.com/article/015/0005356639?ntype=RANKING",
+          "press": "한국경제"
         },
         {
-          "title": "배달앱 없이 장사 안 되는데...\"30만원 팔면 17만원 남는다\" 한숨",
-          "link": "https://n.news.naver.com/article/008/0005444490?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "112만원에 산 금, 지금 팔면 58만원…본전 찾으려면 얼마나 올라야 할까 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004177027?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "배달앱 없이 장사 안 되는데...\"30만원 팔면 17만원 남는다\" 한숨",
-          "link": "https://n.news.naver.com/article/008/0005444490?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "골프공 하나 주웠을 뿐인데 월 500만원?…잠수부·AI까지 뛰어든 ‘이 시장’ [권준영의 머니볼]",
+          "link": "https://n.news.naver.com/article/022/0004177028?ntype=RANKING",
+          "press": "세계일보"
         }
       ],
       "related_titles": [
         "한 돈 100만원 넘게 주고 샀는데 “나 어떡해”…올해 무려 37% 폭락한 금값, 대체 왜?",
-        "5만원 받고 \"촉감 이상해\"…딱 걸린 남성이 찢어버린 돈 정체",
-        "\"남는 장사 아냐?\" 치킨 3만원, 사장님이 왜 울어?...배달 치킨값의 비밀",
-        "배달앱 없이 장사 안 되는데...\"30만원 팔면 17만원 남는다\" 한숨",
-        "배달앱 없이 장사 안 되는데...\"30만원 팔면 17만원 남는다\" 한숨"
-      ],
-      "category": "사회/일반"
-    },
-    {
-      "rank": 5,
-      "keyword": "부정행위",
-      "count": 15,
-      "representative_title": "시험 도중 벨소리…국가자격시험서 부정행위 6건 적발",
-      "representative_link": "https://n.news.naver.com/article/422/0000928570?ntype=RANKING",
-      "press": "연합뉴스TV",
-      "related_articles": [
-        {
-          "title": "AI 커닝 논란 후 첫 국가자격시험서 부정행위 6건 적발",
-          "link": "https://n.news.naver.com/article/056/0012298710?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "“앞치마 나눠주고, 줄 서서 들어가고”…AI 부정행위 파문 속 진행된 논술 시험",
-          "link": "https://n.news.naver.com/article/056/0012298731?ntype=RANKING",
-          "press": "KBS"
-        },
-        {
-          "title": "시험 도중 벨소리…국가자격시험서 부정행위 6건 적발",
-          "link": "https://n.news.naver.com/article/422/0000928570?ntype=RANKING",
-          "press": "연합뉴스TV"
-        },
-        {
-          "title": "대입 논술 시험 중 “진동 느꼈다” 부정행위 의심 신고",
-          "link": "https://n.news.naver.com/article/449/0000368267?ntype=RANKING",
-          "press": "채널A"
-        },
-        {
-          "title": "[뉴스추적] \"수능장에서 울린 재난 문자 소리…부정행위 못 잡아\"",
-          "link": "https://n.news.naver.com/article/057/0001979273?ntype=RANKING",
-          "press": "MBN"
-        }
-      ],
-      "related_titles": [
-        "AI 커닝 논란 후 첫 국가자격시험서 부정행위 6건 적발",
-        "“앞치마 나눠주고, 줄 서서 들어가고”…AI 부정행위 파문 속 진행된 논술 시험",
-        "시험 도중 벨소리…국가자격시험서 부정행위 6건 적발",
-        "대입 논술 시험 중 “진동 느꼈다” 부정행위 의심 신고",
-        "[뉴스추적] \"수능장에서 울린 재난 문자 소리…부정행위 못 잡아\""
+        "\"월급 34만원인데 숙식비로 65만원 내라?\"…법원도 혀 내둘렀다",
+        "\"일본 가서 샀으면 큰일 날 뻔\"…명품 30만원 싸게 산 비결 [박수림의 요즘 여기]",
+        "112만원에 산 금, 지금 팔면 58만원…본전 찾으려면 얼마나 올라야 할까 [숫자 뒤의 진실]",
+        "골프공 하나 주웠을 뿐인데 월 500만원?…잠수부·AI까지 뛰어든 ‘이 시장’ [권준영의 머니볼]"
       ],
       "category": "산업/테크"
     }
@@ -225,136 +213,50 @@
     {
       "rank": 1,
       "keyword": "코스피",
-      "count": 7,
-      "representative_title": "\"또 '검은 월요일' 오나\"…美 증시 폭락에 코스피 '초긴장'",
-      "representative_link": "https://n.news.naver.com/article/215/0001273492?ntype=RANKING",
-      "press": "한국경제TV",
+      "count": 12,
+      "representative_title": "\"내일 코스피 폭락 대비해야\"...국힘, 정부 향해 경고",
+      "representative_link": "https://n.news.naver.com/article/243/0000106019?ntype=RANKING",
+      "press": "이코노미스트",
       "related_articles": [
-        {
-          "title": "‘추가 폭락’ 美 증시에 월요일이 두려운 개미들…코스피 바닥은 어디 [선데이 머니카페]",
-          "link": "https://n.news.naver.com/article/011/0004684705?ntype=RANKING",
-          "press": "서울경제"
-        },
         {
           "title": "\"이러다 진짜 코스피 1만 찍나\"…파격 전망 겹치자 높아지는 기대감[주末머니]",
           "link": "https://n.news.naver.com/article/277/0005845894?ntype=RANKING",
           "press": "아시아경제"
         },
         {
-          "title": "\"또 '검은 월요일' 오나\"…美 증시 폭락에 코스피 '초긴장'",
-          "link": "https://n.news.naver.com/article/215/0001273492?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "엔비디아 14% 폭락에 코스피 5000피 붕괴까지···무서운 월요일 증시, 어디까지 내려갈래",
+          "link": "https://n.news.naver.com/article/032/0003484166?ntype=RANKING",
+          "press": "경향신문"
         },
         {
-          "title": "9000→4900 추락, 다음은…코스피, 바닥은 있나? 반전은 있나?",
-          "link": "https://n.news.naver.com/article/030/0003488109?ntype=RANKING",
-          "press": "전자신문"
+          "title": "'투매 장세'에 무너진 뉴욕증시…월요일 코스피 덮칠 충격은",
+          "link": "https://n.news.naver.com/article/437/0000521836?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "\"1만피는 어디가고\"…증권가, 코스피 '4500선 바닥론' 확산",
-          "link": "https://n.news.naver.com/article/003/0014337603?ntype=RANKING",
+          "title": "‘추가 폭락’ 美 증시에 월요일이 두려운 개미들…코스피 바닥은 어디 [선데이 머니카페]",
+          "link": "https://n.news.naver.com/article/011/0004684705?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "\"월요일이 두렵다\"…美증시·코스피 폭락에 개미들 '패닉', 바닥은 어디",
+          "link": "https://n.news.naver.com/article/003/0014337775?ntype=RANKING",
           "press": "뉴시스"
         }
       ],
       "related_titles": [
-        "‘추가 폭락’ 美 증시에 월요일이 두려운 개미들…코스피 바닥은 어디 [선데이 머니카페]",
         "\"이러다 진짜 코스피 1만 찍나\"…파격 전망 겹치자 높아지는 기대감[주末머니]",
-        "\"또 '검은 월요일' 오나\"…美 증시 폭락에 코스피 '초긴장'",
-        "9000→4900 추락, 다음은…코스피, 바닥은 있나? 반전은 있나?",
-        "\"1만피는 어디가고\"…증권가, 코스피 '4500선 바닥론' 확산"
+        "엔비디아 14% 폭락에 코스피 5000피 붕괴까지···무서운 월요일 증시, 어디까지 내려갈래",
+        "'투매 장세'에 무너진 뉴욕증시…월요일 코스피 덮칠 충격은",
+        "‘추가 폭락’ 美 증시에 월요일이 두려운 개미들…코스피 바닥은 어디 [선데이 머니카페]",
+        "\"월요일이 두렵다\"…美증시·코스피 폭락에 개미들 '패닉', 바닥은 어디"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "엔비디아",
-      "count": 6,
-      "representative_title": "엔비디아 쓸어담더니...결국 '피눈물'",
-      "representative_link": "https://n.news.naver.com/article/050/0000113575?ntype=RANKING",
-      "press": "한경비즈니스",
-      "related_articles": [
-        {
-          "title": "'불륜 스캔들' 젠슨 황 복귀 의사 공식화…엔비디아 이사회는 '불가'",
-          "link": "https://n.news.naver.com/article/586/0000142787?ntype=RANKING",
-          "press": "시사저널"
-        },
-        {
-          "title": "AI 잔치에 찬물 끼얹은 뉴욕증시…앤트로픽·엔비디아 동반 급락",
-          "link": "https://n.news.naver.com/article/374/0000545057?ntype=RANKING",
-          "press": "SBS Biz"
-        },
-        {
-          "title": "美, 엔비디아 칩 중국 원격접속도 차단…베선트 \"수출 통제 강화\"",
-          "link": "https://n.news.naver.com/article/374/0000545059?ntype=RANKING",
-          "press": "SBS Biz"
-        },
-        {
-          "title": "서학개미 어떡하나… 엔비디아 8천억 폭풍매수, 6조 평가손",
-          "link": "https://n.news.naver.com/article/029/0003060308?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "젠슨 황 해임 결정타 \"불륜보다 거짓말\"...엔비디아 이사회 \"신뢰 무너져\"",
-          "link": "https://n.news.naver.com/article/655/0000033654?ntype=RANKING",
-          "press": "CJB청주방송"
-        }
-      ],
-      "related_titles": [
-        "'불륜 스캔들' 젠슨 황 복귀 의사 공식화…엔비디아 이사회는 '불가'",
-        "AI 잔치에 찬물 끼얹은 뉴욕증시…앤트로픽·엔비디아 동반 급락",
-        "美, 엔비디아 칩 중국 원격접속도 차단…베선트 \"수출 통제 강화\"",
-        "서학개미 어떡하나… 엔비디아 8천억 폭풍매수, 6조 평가손",
-        "젠슨 황 해임 결정타 \"불륜보다 거짓말\"...엔비디아 이사회 \"신뢰 무너져\""
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 3,
-      "keyword": "주가",
-      "count": 6,
-      "representative_title": "무너진 주가, 무너진 일상…2040 덮친 '금융 우울증'",
-      "representative_link": "https://n.news.naver.com/article/243/0000106007?ntype=RANKING",
-      "press": "이코노미스트",
-      "related_articles": [
-        {
-          "title": "‘주가 계속 떨어지는데, 믿어도 될까?’…무디스, 삼전닉스 내년 전망 들어보니",
-          "link": "https://n.news.naver.com/article/021/0002834491?ntype=RANKING",
-          "press": "문화일보"
-        },
-        {
-          "title": "“호황 끝” 공포에 주가 반토막…삼전닉스 3대 불안의 진실",
-          "link": "https://n.news.naver.com/article/025/0003566893?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
-          "title": "삼전 100주면 '39만원' 27일 30조 배당…주가 반토막에 '저가매수세' 기대",
-          "link": "https://n.news.naver.com/article/421/0009302964?ntype=RANKING",
-          "press": "뉴스1"
-        },
-        {
-          "title": "이 대통령 \"공익환수가 배임인가\" 나경원 \"주가 바닥을 치고 있어\"",
-          "link": "https://n.news.naver.com/article/006/0000138878?ntype=RANKING",
-          "press": "미디어오늘"
-        },
-        {
-          "title": "나경원 \"주가 폭락인데...李 정권은 '대장동 사건' 변호\"",
-          "link": "https://n.news.naver.com/article/655/0000033656?ntype=RANKING",
-          "press": "CJB청주방송"
-        }
-      ],
-      "related_titles": [
-        "‘주가 계속 떨어지는데, 믿어도 될까?’…무디스, 삼전닉스 내년 전망 들어보니",
-        "“호황 끝” 공포에 주가 반토막…삼전닉스 3대 불안의 진실",
-        "삼전 100주면 '39만원' 27일 30조 배당…주가 반토막에 '저가매수세' 기대",
-        "이 대통령 \"공익환수가 배임인가\" 나경원 \"주가 바닥을 치고 있어\"",
-        "나경원 \"주가 폭락인데...李 정권은 '대장동 사건' 변호\""
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 4,
       "keyword": "증시",
-      "count": 4,
+      "count": 5,
       "representative_title": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나",
       "representative_link": "https://n.news.naver.com/article/001/0016455999?ntype=RANKING",
       "press": "연합뉴스",
@@ -395,33 +297,119 @@
       "category": "주식/코인"
     },
     {
-      "rank": 5,
-      "keyword": "추가",
-      "count": 3,
-      "representative_title": "'부자아빠, 가난한아빠' 저자 \"비트코인 급락, 추가 매수할 기회\"",
-      "representative_link": "https://n.news.naver.com/article/018/0006413419?ntype=RANKING",
-      "press": "이데일리",
+      "rank": 3,
+      "keyword": "엔비디아",
+      "count": 4,
+      "representative_title": "젠슨 황, 엔비디아 복귀 위한 5가지 승부수 가능하다",
+      "representative_link": "https://n.news.naver.com/article/029/0003060375?ntype=RANKING",
+      "press": "디지털타임스",
       "related_articles": [
         {
-          "title": "'부자아빠, 가난한아빠' 저자 \"비트코인 급락, 추가 매수할 기회\"",
-          "link": "https://n.news.naver.com/article/018/0006413419?ntype=RANKING",
-          "press": "이데일리"
+          "title": "젠슨 황, 엔비디아 복귀 위한 5가지 승부수 가능하다",
+          "link": "https://n.news.naver.com/article/029/0003060375?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "'부자아빠, 가난한아빠' 저자 \"비트코인 급락, 추가 매수할 기회\"",
-          "link": "https://n.news.naver.com/article/018/0006413419?ntype=RANKING",
-          "press": "이데일리"
+          "title": "'불륜 스캔들' 젠슨 황 복귀 의사 공식화…엔비디아 이사회는 '불가'",
+          "link": "https://n.news.naver.com/article/586/0000142787?ntype=RANKING",
+          "press": "시사저널"
         },
         {
-          "title": "'부자아빠, 가난한아빠' 저자 \"비트코인 급락, 추가 매수할 기회\"",
-          "link": "https://n.news.naver.com/article/018/0006413419?ntype=RANKING",
-          "press": "이데일리"
+          "title": "젠슨 황 해임 결정타 \"불륜보다 거짓말\"...엔비디아 이사회 \"신뢰 무너져\"",
+          "link": "https://n.news.naver.com/article/655/0000033654?ntype=RANKING",
+          "press": "CJB청주방송"
+        },
+        {
+          "title": "젠슨 황, 엔비디아 복귀 위한 5가지 승부수 가능하다",
+          "link": "https://n.news.naver.com/article/029/0003060375?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "'불륜 스캔들' 젠슨 황 복귀 의사 공식화…엔비디아 이사회는 '불가'",
+          "link": "https://n.news.naver.com/article/586/0000142787?ntype=RANKING",
+          "press": "시사저널"
         }
       ],
       "related_titles": [
-        "'부자아빠, 가난한아빠' 저자 \"비트코인 급락, 추가 매수할 기회\"",
-        "'부자아빠, 가난한아빠' 저자 \"비트코인 급락, 추가 매수할 기회\"",
-        "'부자아빠, 가난한아빠' 저자 \"비트코인 급락, 추가 매수할 기회\""
+        "젠슨 황, 엔비디아 복귀 위한 5가지 승부수 가능하다",
+        "'불륜 스캔들' 젠슨 황 복귀 의사 공식화…엔비디아 이사회는 '불가'",
+        "젠슨 황 해임 결정타 \"불륜보다 거짓말\"...엔비디아 이사회 \"신뢰 무너져\"",
+        "젠슨 황, 엔비디아 복귀 위한 5가지 승부수 가능하다",
+        "'불륜 스캔들' 젠슨 황 복귀 의사 공식화…엔비디아 이사회는 '불가'"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "개미들",
+      "count": 4,
+      "representative_title": "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들",
+      "representative_link": "https://n.news.naver.com/article/053/0000063249?ntype=RANKING",
+      "press": "주간조선",
+      "related_articles": [
+        {
+          "title": "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들",
+          "link": "https://n.news.naver.com/article/053/0000063249?ntype=RANKING",
+          "press": "주간조선"
+        },
+        {
+          "title": "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들",
+          "link": "https://n.news.naver.com/article/053/0000063249?ntype=RANKING",
+          "press": "주간조선"
+        },
+        {
+          "title": "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들",
+          "link": "https://n.news.naver.com/article/053/0000063249?ntype=RANKING",
+          "press": "주간조선"
+        }
+      ],
+      "related_titles": [
+        "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들",
+        "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들",
+        "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "테슬라",
+      "count": 3,
+      "representative_title": "[크랩] 테슬라 따라잡으려다 역대급 위기 맞았다는 볼보 근황",
+      "representative_link": "https://n.news.naver.com/article/056/0012298758?ntype=RANKING",
+      "press": "KBS",
+      "related_articles": [
+        {
+          "title": "“테슬라, 왜 이렇게 많이 보이냐” 했더니…결국 씁쓸한 최고 기록 찍었다",
+          "link": "https://n.news.naver.com/article/016/0002726682?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "[크랩] 테슬라 따라잡으려다 역대급 위기 맞았다는 볼보 근황",
+          "link": "https://n.news.naver.com/article/056/0012298758?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "[FSD 온로드] '14.2 라이트' 배포 확대...테슬라 안내 보니",
+          "link": "https://n.news.naver.com/article/293/0000093619?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "“테슬라, 왜 이렇게 많이 보이냐” 했더니…결국 씁쓸한 최고 기록 찍었다",
+          "link": "https://n.news.naver.com/article/016/0002726682?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "[크랩] 테슬라 따라잡으려다 역대급 위기 맞았다는 볼보 근황",
+          "link": "https://n.news.naver.com/article/056/0012298758?ntype=RANKING",
+          "press": "KBS"
+        }
+      ],
+      "related_titles": [
+        "“테슬라, 왜 이렇게 많이 보이냐” 했더니…결국 씁쓸한 최고 기록 찍었다",
+        "[크랩] 테슬라 따라잡으려다 역대급 위기 맞았다는 볼보 근황",
+        "[FSD 온로드] '14.2 라이트' 배포 확대...테슬라 안내 보니",
+        "“테슬라, 왜 이렇게 많이 보이냐” 했더니…결국 씁쓸한 최고 기록 찍었다",
+        "[크랩] 테슬라 따라잡으려다 역대급 위기 맞았다는 볼보 근황"
       ],
       "category": "주식/코인"
     }
@@ -537,6 +525,26 @@
     },
     {
       "rank": 4,
+      "keyword": "중저가",
+      "series_title": "중저가의 몰락",
+      "count": 1,
+      "representative_title": "얼어붙은 유럽 스마트폰 시장…중저가 몰락, 프리미엄 선방 By EBN",
+      "representative_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GS3N0RVM2MFNJTkZPSk5lLW9yR3FrWFFaR1FLN3VLZklaTjFUMVRzcnN0UHluN2R2bVgyMlhtbzNtZnhxZVlZSGRPTGZVN0o1aF9aV051REZENnNnU3lyX2lrN0RSdnlabTIxejYxSlg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "얼어붙은 유럽 스마트폰 시장…중저가 몰락, 프리미엄 선방 By EBN",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GS3N0RVM2MFNJTkZPSk5lLW9yR3FrWFFaR1FLN3VLZklaTjFUMVRzcnN0UHluN2R2bVgyMlhtbzNtZnhxZVlZSGRPTGZVN0o1aF9aV051REZENnNnU3lyX2lrN0RSdnlabTIxejYxSlg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "얼어붙은 유럽 스마트폰 시장…중저가 몰락, 프리미엄 선방 By EBN"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
       "keyword": "작가",
       "series_title": "작가의 몰락",
       "count": 1,
@@ -554,33 +562,13 @@
         "국민배우·베스트셀러 작가 몰락하나…영화 촬영 도중 집단 성폭력 혐의 수사"
       ],
       "category": "몰락"
-    },
-    {
-      "rank": 5,
-      "keyword": "괴물",
-      "series_title": "괴물의 몰락",
-      "count": 1,
-      "representative_title": "\"괴물의 몰락\"…프랑스 국민배우 드파르디외, `집단 성폭행 혐의`로 경찰 수사",
-      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U2JIWC1IOTZ6TlRINDVSSW1DZ2RSb3E3dkRPUGRwTE45ZGJwVjJTcEtybzFaWm9UTUE2Uk5kdXVybXZhSTdDV3dkYlZUSTE0ODYzdmZkd09XUXNUdDFkXw?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "\"괴물의 몰락\"…프랑스 국민배우 드파르디외, `집단 성폭행 혐의`로 경찰 수사",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U2JIWC1IOTZ6TlRINDVSSW1DZ2RSb3E3dkRPUGRwTE45ZGJwVjJTcEtybzFaWm9UTUE2Uk5kdXVybXZhSTdDV3dkYlZUSTE0ODYzdmZkd09XUXNUdDFkXw?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "\"괴물의 몰락\"…프랑스 국민배우 드파르디외, `집단 성폭행 혐의`로 경찰 수사"
-      ],
-      "category": "몰락"
     }
   ],
   "budongsan_topics": [
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 7,
+      "count": 6,
       "representative_title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
       "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
       "press": "",
@@ -606,8 +594,8 @@
           "press": ""
         },
         {
-          "title": "강남 집값 하락에 ‘매수’ 노리는 수요 등장… 더 복잡해진 서울 부동산 [주말 Q&amp;A]",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aU2xyZmphSEVhRTJTdDR6elJ1eDFTVWVJbGhmYWhabVVWYWc2aEdQV2FJUmNsVE9ibXB4UEhIVXBTd2l2V1Q5U0NHNjRWNFBpWWVYZ1ZRUTlyaFVJY1lXTmwxVk95NmVpSnNLUlN3?oc=5",
+          "title": "서울 제친 경기 집값, 비밀은 '삼세권'[아기곰의 부동산 산책]",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uTG95cWJHc2tiQWtMSW5nNkNtNTV4OWxVd0pFeDdGb01BSzJPcGxGWmVvUTNkUnlsdmVJN2dCNklPNWFUckZWSmVSazU2czRNdWNHQlFGNE14WENhOHVLSDBfS2FCVUhaQ0F3QQ?oc=5",
           "press": ""
         }
       ],
@@ -616,14 +604,14 @@
         "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
         "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
         "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
-        "강남 집값 하락에 ‘매수’ 노리는 수요 등장… 더 복잡해진 서울 부동산 [주말 Q&amp;A]"
+        "서울 제친 경기 집값, 비밀은 '삼세권'[아기곰의 부동산 산책]"
       ],
       "category": "부동산"
     },
     {
       "rank": 2,
       "keyword": "강남",
-      "count": 4,
+      "count": 3,
       "representative_title": "[윤준의 부동산수첩] 강남 집값 내려도 세입자는 더 낸다",
       "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBET1UxTHRNNUoxWk9leWdMTHB6SkVaUnh5SW0yM0NQYk1FczlUck5NWWJJdUJqTXZzSDRyZ0RDUTNtNU5BdnZIbW1CbmFiZEx0R1NfYkFrLUZuOWZadXpiRjZDRUh0Z9IBakFVX3lxTFBxc212WEFPQ3lKc0t6UUlqZUNuTmR2NkNnZzBzWlBxUjh3dXdsdHBSVmEzWVAtZjhOblQzSkxyWmlkdkk5ZUFuY25LN1RqNUpqSGhZLTQ4M3RPRS1wZ2ktVWxiUUdpZk9XTUE?oc=5",
       "press": "",
@@ -636,25 +624,6 @@
       ],
       "related_titles": [
         "[윤준의 부동산수첩] 강남 집값 내려도 세입자는 더 낸다"
-      ],
-      "category": "부동산"
-    },
-    {
-      "rank": 3,
-      "keyword": "경기",
-      "count": 3,
-      "representative_title": "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률",
-      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnVUUkFvNjFKUlhvZGpYdlZrMUZCQ0dIYUlsQ0syYmlISjJsX1Bsb0dfdVVpeTk2blVmUmw4Y2NIUHpGM0RncjJ5UW91eW1LdEdPc3hEYmZ6OXFhV0kxTEFUa2NOSDhKQlllakF2b2VISUVTWERjQnlwajlobzVlZFJQdHdfMEpT?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnVUUkFvNjFKUlhvZGpYdlZrMUZCQ0dIYUlsQ0syYmlISjJsX1Bsb0dfdVVpeTk2blVmUmw4Y2NIUHpGM0RncjJ5UW91eW1LdEdPc3hEYmZ6OXFhV0kxTEFUa2NOSDhKQlllakF2b2VISUVTWERjQnlwajlobzVlZFJQdHdfMEpT?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률"
       ],
       "category": "부동산"
     }
