@@ -1,0 +1,643 @@
+{
+  "date": "2026-11-23",
+  "hour": "07",
+  "slot": "2026-11-23_07",
+  "crawled_at": "2026-11-23 07:00:01",
+  "total_articles": 392,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "월요일",
+      "count": 18,
+      "representative_title": "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
+      "representative_link": "https://n.news.naver.com/article/014/0005607892?ntype=RANKING",
+      "press": "파이낸셜뉴스",
+      "related_articles": [
+        {
+          "title": "'검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비",
+          "link": "https://n.news.naver.com/article/214/0001537267?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "\"검은 월요일 막아라\" 정부도 긴급 대응…18년 잠든 증안펀드 가동 준비",
+          "link": "https://n.news.naver.com/article/008/0005444651?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론'",
+          "link": "https://n.news.naver.com/article/008/0005444681?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "'검은 월요일' 우려에 정부 긴급 대응…증안펀드 가동 준비",
+          "link": "https://n.news.naver.com/article/648/0000052862?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
+          "link": "https://n.news.naver.com/article/648/0000052858?ntype=RANKING",
+          "press": "비즈워치"
+        }
+      ],
+      "related_titles": [
+        "'검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비",
+        "\"검은 월요일 막아라\" 정부도 긴급 대응…18년 잠든 증안펀드 가동 준비",
+        "나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론'",
+        "'검은 월요일' 우려에 정부 긴급 대응…증안펀드 가동 준비",
+        "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\""
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 2,
+      "keyword": "정부",
+      "count": 17,
+      "representative_title": "커지는 블랙먼데이 공포...\"정부, 대책 마련해야\"",
+      "representative_link": "https://n.news.naver.com/article/050/0000113590?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "[속보]‘블랙먼데이’ 막아라···정부, 증시안정펀드 가동 준비 착수",
+          "link": "https://n.news.naver.com/article/032/0003484246?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "정부, 10조 증안펀드 카드 꺼냈지만… 외국인 매도세 막을 수 있을까",
+          "link": "https://n.news.naver.com/article/469/0000967084?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "정부, 증시 급락 우려에 ‘증안펀드’ 가동 준비… 불법 공매도 3개월간 집중 감시",
+          "link": "https://n.news.naver.com/article/366/0001206504?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "정부, 증시 급락에 18년 만에 '증시안정 펀드' 준비",
+          "link": "https://n.news.naver.com/article/437/0000521897?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "“내일 블랙 먼데이 막자”…정부, 증안펀드 18년만에 투입 준비",
+          "link": "https://n.news.naver.com/article/020/0003764227?ntype=RANKING",
+          "press": "동아일보"
+        }
+      ],
+      "related_titles": [
+        "[속보]‘블랙먼데이’ 막아라···정부, 증시안정펀드 가동 준비 착수",
+        "정부, 10조 증안펀드 카드 꺼냈지만… 외국인 매도세 막을 수 있을까",
+        "정부, 증시 급락 우려에 ‘증안펀드’ 가동 준비… 불법 공매도 3개월간 집중 감시",
+        "정부, 증시 급락에 18년 만에 '증시안정 펀드' 준비",
+        "“내일 블랙 먼데이 막자”…정부, 증안펀드 18년만에 투입 준비"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 3,
+      "keyword": "준비",
+      "count": 17,
+      "representative_title": "F4 긴급 소집…증안펀드 준비·자사주 풀고 공매도 조인다",
+      "representative_link": "https://n.news.naver.com/article/123/0002394565?ntype=RANKING",
+      "press": "조세일보",
+      "related_articles": [
+        {
+          "title": "이번엔 엠디트 수석 ‘AI 커닝’?…합격자 “6년 준비” 반박",
+          "link": "https://n.news.naver.com/article/028/0002833371?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 \"준비 착수\"(종합)",
+          "link": "https://n.news.naver.com/article/001/0016457004?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "증시 급락 우려에 ‘증안펀드’ 준비…시행되면 6년만에 발동",
+          "link": "https://n.news.naver.com/article/082/0001408408?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "코스피 5000선 붕괴에 'F4' 긴급 소집…증안펀드 가동 준비",
+          "link": "https://n.news.naver.com/article/654/0000212666?ntype=RANKING",
+          "press": "강원도민일보"
+        },
+        {
+          "title": "F4 긴급 소집…증안펀드 준비·자사주 풀고 공매도 조인다",
+          "link": "https://n.news.naver.com/article/123/0002394565?ntype=RANKING",
+          "press": "조세일보"
+        }
+      ],
+      "related_titles": [
+        "이번엔 엠디트 수석 ‘AI 커닝’?…합격자 “6년 준비” 반박",
+        "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 \"준비 착수\"(종합)",
+        "증시 급락 우려에 ‘증안펀드’ 준비…시행되면 6년만에 발동",
+        "코스피 5000선 붕괴에 'F4' 긴급 소집…증안펀드 가동 준비",
+        "F4 긴급 소집…증안펀드 준비·자사주 풀고 공매도 조인다"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 4,
+      "keyword": "증안펀드",
+      "count": 17,
+      "representative_title": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
+      "representative_link": "https://n.news.naver.com/article/648/0000052863?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
+          "link": "https://n.news.naver.com/article/648/0000052863?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "'블랙 먼데이' 막을 수 있을까…금융 당국 \"증안펀드 대기,  불법 공매도 단속\"",
+          "link": "https://n.news.naver.com/article/138/0002249492?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
+        "'블랙 먼데이' 막을 수 있을까…금융 당국 \"증안펀드 대기,  불법 공매도 단속\""
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 5,
+      "keyword": "개월",
+      "count": 16,
+      "representative_title": "아기 살았지만 엄마는…아파트서 5개월 딸 안고 추락사",
+      "representative_link": "https://n.news.naver.com/article/055/0001404919?ntype=RANKING",
+      "press": "SBS",
+      "related_articles": [
+        {
+          "title": "아파트서 5개월 딸 안고 추락한 엄마, 아기는 살았다···40대 여성 사망",
+          "link": "https://n.news.naver.com/article/032/0003484242?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "창원 아파트서 5개월 딸 안고 추락…엄마 숨지고 아기는 살았다",
+          "link": "https://n.news.naver.com/article/008/0005444658?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "“6개월 지나도 안 썩는다”…지하철역 ‘중국산 1000원빵’ 논란",
+          "link": "https://n.news.naver.com/article/025/0003566944?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "생후 5개월 딸 안고 아파트서 추락한 엄마… 아이는 살았다",
+          "link": "https://n.news.naver.com/article/469/0000967082?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "아파트서 생후 5개월 아기와 함께 떨어진 40대 여성 사망…아기는 목숨 건져",
+          "link": "https://n.news.naver.com/article/087/0001232485?ntype=RANKING",
+          "press": "강원일보"
+        }
+      ],
+      "related_titles": [
+        "아파트서 5개월 딸 안고 추락한 엄마, 아기는 살았다···40대 여성 사망",
+        "창원 아파트서 5개월 딸 안고 추락…엄마 숨지고 아기는 살았다",
+        "“6개월 지나도 안 썩는다”…지하철역 ‘중국산 1000원빵’ 논란",
+        "생후 5개월 딸 안고 아파트서 추락한 엄마… 아이는 살았다",
+        "아파트서 생후 5개월 아기와 함께 떨어진 40대 여성 사망…아기는 목숨 건져"
+      ],
+      "category": "사건/사고"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "증시",
+      "count": 7,
+      "representative_title": "정부, 증시 급락에 18년 만에 '증시안정 펀드' 준비",
+      "representative_link": "https://n.news.naver.com/article/437/0000521897?ntype=RANKING",
+      "press": "JTBC",
+      "related_articles": [
+        {
+          "title": "정부, 증시 급락 우려에 ‘증안펀드’ 가동 준비… 불법 공매도 3개월간 집중 감시",
+          "link": "https://n.news.naver.com/article/366/0001206504?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
+          "link": "https://n.news.naver.com/article/648/0000052858?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "정부, 증시 급락에 18년 만에 '증시안정 펀드' 준비",
+          "link": "https://n.news.naver.com/article/437/0000521897?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "증시 급락 우려에 ‘증안펀드’ 준비…시행되면 6년만에 발동",
+          "link": "https://n.news.naver.com/article/082/0001408408?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "\"실적은 오르는데 주가는 뚝\"…외인 매도세가 관건, 코스피 5000~6100 [주간 증시 전망]",
+          "link": "https://n.news.naver.com/article/119/0003157948?ntype=RANKING",
+          "press": "데일리안"
+        }
+      ],
+      "related_titles": [
+        "정부, 증시 급락 우려에 ‘증안펀드’ 가동 준비… 불법 공매도 3개월간 집중 감시",
+        "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
+        "정부, 증시 급락에 18년 만에 '증시안정 펀드' 준비",
+        "증시 급락 우려에 ‘증안펀드’ 준비…시행되면 6년만에 발동",
+        "\"실적은 오르는데 주가는 뚝\"…외인 매도세가 관건, 코스피 5000~6100 [주간 증시 전망]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "코스피",
+      "count": 7,
+      "representative_title": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
+      "representative_link": "https://n.news.naver.com/article/648/0000052863?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
+          "link": "https://n.news.naver.com/article/648/0000052863?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "삼전닉스 반토막에도…“반도체 정점론 과해, 내년 코스피 8000 가능” [잘살아보세]",
+          "link": "https://n.news.naver.com/article/022/0004177114?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "美 반도체주 10% 폭락에 '검은 월요일' 우려…코스피 4700까지 밀리나",
+          "link": "https://n.news.naver.com/article/014/0005607817?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "코스피 5000선 붕괴에 'F4' 긴급 소집…증안펀드 가동 준비",
+          "link": "https://n.news.naver.com/article/654/0000212666?ntype=RANKING",
+          "press": "강원도민일보"
+        },
+        {
+          "title": "‘삼전닉스’ 빼면 죄다 비명…4800선 밀린 코스피, 시총 1조 클럽 26개 감소",
+          "link": "https://n.news.naver.com/article/029/0003060465?ntype=RANKING",
+          "press": "디지털타임스"
+        }
+      ],
+      "related_titles": [
+        "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
+        "삼전닉스 반토막에도…“반도체 정점론 과해, 내년 코스피 8000 가능” [잘살아보세]",
+        "美 반도체주 10% 폭락에 '검은 월요일' 우려…코스피 4700까지 밀리나",
+        "코스피 5000선 붕괴에 'F4' 긴급 소집…증안펀드 가동 준비",
+        "‘삼전닉스’ 빼면 죄다 비명…4800선 밀린 코스피, 시총 1조 클럽 26개 감소"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "엔비디아",
+      "count": 6,
+      "representative_title": "\"엔비디아 칩 밀수에 앨리스 황·캄보디아 범죄조직 얽혀\"",
+      "representative_link": "https://n.news.naver.com/article/422/0000928781?ntype=RANKING",
+      "press": "연합뉴스TV",
+      "related_articles": [
+        {
+          "title": "'젠슨 황' 사로잡은 '앨리스 황' 그 뒤에는…엔비디아 칩 中밀수망 실세 따로 있었나",
+          "link": "https://n.news.naver.com/article/277/0005846040?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "\"엔비디아 칩 밀수에 앨리스 황·캄보디아 범죄조직 얽혀\"",
+          "link": "https://n.news.naver.com/article/422/0000928781?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "'앨리스 황은 얼굴마담?'…엔비디아 칩 밀수 배후에 52세 중국인",
+          "link": "https://n.news.naver.com/article/374/0000545139?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "\"어머니가 너를 낙태했어야\" 젠슨 황, 엔비디아 직원 추가 폭로 나왔다",
+          "link": "https://n.news.naver.com/article/119/0003158034?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "미국 규제당국 조사에 엔비디아 휘청... 주가 2주새 32% 하락",
+          "link": "https://n.news.naver.com/article/092/0002446344?ntype=RANKING",
+          "press": "지디넷코리아"
+        }
+      ],
+      "related_titles": [
+        "'젠슨 황' 사로잡은 '앨리스 황' 그 뒤에는…엔비디아 칩 中밀수망 실세 따로 있었나",
+        "\"엔비디아 칩 밀수에 앨리스 황·캄보디아 범죄조직 얽혀\"",
+        "'앨리스 황은 얼굴마담?'…엔비디아 칩 밀수 배후에 52세 중국인",
+        "\"어머니가 너를 낙태했어야\" 젠슨 황, 엔비디아 직원 추가 폭로 나왔다",
+        "미국 규제당국 조사에 엔비디아 휘청... 주가 2주새 32% 하락"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼전닉스",
+      "count": 4,
+      "representative_title": "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
+      "representative_link": "https://n.news.naver.com/article/015/0005356800?ntype=RANKING",
+      "press": "한국경제",
+      "related_articles": [
+        {
+          "title": "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
+          "link": "https://n.news.naver.com/article/015/0005356800?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "삼전닉스 무너지자 오천피 붕괴… '금리 변수'까지 만난 국장 반등할까 [주간 증시해설서]",
+          "link": "https://n.news.naver.com/article/665/0000008613?ntype=RANKING",
+          "press": "더스쿠프"
+        },
+        {
+          "title": "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
+          "link": "https://n.news.naver.com/article/015/0005356800?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "삼전닉스 무너지자 오천피 붕괴… '금리 변수'까지 만난 국장 반등할까 [주간 증시해설서]",
+          "link": "https://n.news.naver.com/article/665/0000008613?ntype=RANKING",
+          "press": "더스쿠프"
+        },
+        {
+          "title": "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
+          "link": "https://n.news.naver.com/article/015/0005356800?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
+        "삼전닉스 무너지자 오천피 붕괴… '금리 변수'까지 만난 국장 반등할까 [주간 증시해설서]",
+        "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
+        "삼전닉스 무너지자 오천피 붕괴… '금리 변수'까지 만난 국장 반등할까 [주간 증시해설서]",
+        "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "반등",
+      "count": 4,
+      "representative_title": "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
+      "representative_link": "https://n.news.naver.com/article/014/0005607892?ntype=RANKING",
+      "press": "파이낸셜뉴스",
+      "related_articles": [
+        {
+          "title": "개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까?",
+          "link": "https://n.news.naver.com/article/008/0005444613?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
+          "link": "https://n.news.naver.com/article/014/0005607892?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까?",
+          "link": "https://n.news.naver.com/article/008/0005444613?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
+          "link": "https://n.news.naver.com/article/014/0005607892?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까?",
+          "link": "https://n.news.naver.com/article/008/0005444613?ntype=RANKING",
+          "press": "머니투데이"
+        }
+      ],
+      "related_titles": [
+        "개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까?",
+        "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
+        "개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까?",
+        "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
+        "개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까?"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 6,
+      "representative_title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HX3VvZUJfVWp2S2IxUzdPN0VPb3VGcHZjQWtEUVo5czNWWVpGNjBvMVl1ZEVGRjlhTVFQZ2MtdHU3akY3OW1rTG1jS3QwSG1Idjctdi1jZ2hMZDh3NmF1bk1ROU94OTBkcnfSAW5BVV95cUxNUm9pdEk5TVROTV9mcHhNNmx1YlNpRDNKQzNzQVZmbE9QXzd4OGE3QndHc01nUzd1d2VFdzZpejgydkZjbF9OT1p1V1hpMnNseENaQVppQTZGVlhFcklHMDRnM0tXU2ZtT0c5OFhxUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[TV자유일보] 李 정권 몰락 ‘신호탄’ 李, 판도라 상자 열었",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6b0VnVENDU0dYWDYtbGRaMkRtRjBfZHJCam5PTE9VWS1NWmNaZFRzdjBMR3EzbE41cXVqTnFVcnhxV1lkNlZZT3ZHQzhLb2tBd0Z5d1BWWmxoNVp3dk9sMlh6SXNkR2RKcWlR0gFvQVVfeXFMTVcxZjZEaHFFSnFRMFIyRmpDUnMyb1FlN1hJYUVQeS1sTDR2RFJYelNONDVVeEY3VUJBLXJwU1JhUVEyRXdaalZhYkVQbjlOb1RUYXlsTFRiLWJ1aXZ1YVRYUFRPcXVJWjlNM19NN1A0?oc=5",
+          "press": ""
+        },
+        {
+          "title": "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lYVJ5dHJEWnlKaHlKbnByRU9fOUFMMDRNTlptUE0tUldxeTVJcVRVVHdnWDN0dVA2UnM4Q2RvOTRoUXlMU2FDQ1F6WGlZSWJYRmRtbXZEdHDSAVRBVV95cUxQQ2pZcXlFc1Bhbm5QSUhiTW1za3BpYURrc1hEa2VqVVdSMVhQdEc4US04a013ckRzdVlVWXJxSURRaGZ5dW5ld0xkbXRPWXhQUTcwVGw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTVM3NDYtY2pRMFc5c1NHTmo0dExvSC0za2Q0aUs4R2VZQVdkbG9fM09IUUlYa0VHTkFiM1pkMUVITlpfd3ZSZTBBamZIb1IySkF1bmVGcmM0czFiN1NnT3FUOWJkMnl4ZUpFVWtZNNIBc0FVX3lxTE5FQ000Nzk4WDIwVW5TaVNjUkV4VHpRU2hpTmxuM01LczIwM0E0WlhFclNZSmMycDhlNnFVR0xTMG5XcGpPLTZjS005SnNkb2FBLXdTQnNmRXkwVF9jWUFUNFVYelV5RklIaGg0R1N6TENOZFU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
+        "[TV자유일보] 李 정권 몰락 ‘신호탄’ 李, 판도라 상자 열었",
+        "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+        "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "젠슨",
+      "series_title": "젠슨의 몰락",
+      "count": 5,
+      "representative_title": "[태평로] 젠슨 황의 몰락이 던지는 질문",
+      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1FTjFHLWVtbXNDNzJMMy1YTWx4QTJTLWJRbS1ScWlQOXpuVE5wc0Q0LUFnZEd1OGt6QzEzbWlTRVVSZkpDN0VPVHJIU0p5c2V3Nm9FdGd1LUJMT0dFM1ZrMGhLSmJQMDBUYlpkM1JjQWRmaTk5Q3RzUVd4OHJLcUdqeDE3dHRr?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[태평로] 젠슨 황의 몰락이 던지는 질문",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1FTjFHLWVtbXNDNzJMMy1YTWx4QTJTLWJRbS1ScWlQOXpuVE5wc0Q0LUFnZEd1OGt6QzEzbWlTRVVSZkpDN0VPVHJIU0p5c2V3Nm9FdGd1LUJMT0dFM1ZrMGhLSmJQMDBUYlpkM1JjQWRmaTk5Q3RzUVd4OHJLcUdqeDE3dHRr?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[NVIDIA ‘젠슨 황’ 미스터리 1] 가죽 재킷 젠슨 황의 몰락 이유는? ‘그녀는 스파이 인가, 기업 사냥꾼인가’",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZTBSYzlkQzdNdjRBTzdvbHdIYktDZF91SXowMFZDQkxETnN3eTVuTVdscTZpeHNHZi1DUzhycThqd0RZelM1dHpJXzBhbHBqcWhtVWd5djh4REUxelVqR3VuMmtmTTM3Mi1qMmNnX3VTZENIUzFaMXlaSVlCOE1RN3E1bDBad0gwQXhfVmo4SlN4VWtBWG04dmRDdU9zYTlOVzlIbmt3SXhrR1I2bnlDVlZSRmdUaEhFMUNGcXhaTEJJVnc5MV9FX1lzTFJIbUdiNV92emhueDF3MVY4ZEtDZDdPZ1RoWmJEcWs5UzliTkc0bWk1UlJLX25OczY4RWtwQjI4NkJ5cHBUVGlQN3ZLSmRLLS1wQndPZjFMTzFwaHVxaHlPaGR5RlhvVG1IbldBWHFDVVpXREFoSjhYREptYnBR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUh4TjN3aHF2ZTJsVkR2YmRUaG1ERk5sZllFaUVYSWdGMEt3RkhJMUtGMWxCRG1COUpGS0JHWnB2UGs2dTE5OTZTaldVZ2V1VHh6NWIwRkxtVzdUcFZ4UzVhTVFVSThpZXA3WnNsZUgxeERRY3o2MElBYWVxM0lkaTdn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "젠슨 황의 몰락, 미·중 '거래의 시대'를 끝내다",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wOFE3aE5RZFM4NzVVSkZ5Z284Y242VWJJSGJSblhJMHhGU0FXbUJOLXpUZ3NVRkM4ZTZ2YXlDa2RhcS1YRWdrZTdrSmFKRGNTLU5pcjUtbnloM1gxSlFPZktKejE1bldkX1FEZTJ3?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'30일 후면 망한다'는 위기감으로 회사를 이끌던 젠슨 황의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YOVk5ZGdfZmUzSXVFblJseTBCS0xacVNfeklQb0ZSQUwyYjFRYThYUWdwNU9hR1dqSHg4YUJ1ZTIwbkt5SFZhOFhZQUxKaXhHTklNS1N1ZUpTT3RjVGVOQ283YWE5enNWMTFtd0paM3g?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[태평로] 젠슨 황의 몰락이 던지는 질문",
+        "[NVIDIA ‘젠슨 황’ 미스터리 1] 가죽 재킷 젠슨 황의 몰락 이유는? ‘그녀는 스파이 인가, 기업 사냥꾼인가’",
+        "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+        "젠슨 황의 몰락, 미·중 '거래의 시대'를 끝내다",
+        "'30일 후면 망한다'는 위기감으로 회사를 이끌던 젠슨 황의 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "골프",
+      "series_title": "골프의 몰락",
+      "count": 2,
+      "representative_title": "'LIV 골프의 몰락' 디섐보, DP월드투어 합류 확정",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRc2FiU0RYZzdES0VYamhFTFNFc3dENHJXNmlWOXJBNzJ3bF9sQmZFcjdvTktDaGZEVUhkcTNTLW1hOHVnSEtRWTFKTndOVFl5ZVVrUlluUzkyRWNHTGpMTA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'LIV 골프의 몰락' 디섐보, DP월드투어 합류 확정",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRc2FiU0RYZzdES0VYamhFTFNFc3dENHJXNmlWOXJBNzJ3bF9sQmZFcjdvTktDaGZEVUhkcTNTLW1hOHVnSEtRWTFKTndOVFl5ZVVrUlluUzkyRWNHTGpMTA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "욘 람, LIV 골프 몰락 뒤 PGA 투어 복귀를 기다리는 마스터스 챔피언",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZ2M2NkN1VVNwRUdXbUhEN3J0MEhyOTN1U0llV21GeHZaMjhQQmRvN0cySkJPdzZzNU5zMmFDVUJhRzROMjI0VE1XYUFDMkVfWVF4YV9ac1R1Sk90ZThWTWJSNjR3eXduS0V3UExEWFRHR2wtSFdCcjQzUXJJenBwcjZKeVdrQlpwaDN4cVpZaTlRSEhaeURmY2FTVE41c2tKVGdnaW0xSDNTYlJTOXRFQURwd293U0pieExwNWRib1RRT3VrM0dKVXRaYVVKTFlxRFJUSFZmVlQ5NnVBN2RyX08xYjE0Q01KeTNMTXpyZm5wc2xublRxcUVhMWdqWjdJeTRrNGMzOGpKVW9KekgzMTY5TjlEWGQ1VXJjSQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'LIV 골프의 몰락' 디섐보, DP월드투어 합류 확정",
+        "욘 람, LIV 골프 몰락 뒤 PGA 투어 복귀를 기다리는 마스터스 챔피언"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "만점자",
+      "series_title": "만점자의 몰락",
+      "count": 1,
+      "representative_title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "만점자의 몰락이라는 희비극 [한겨레 프리즘]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "슈퍼카",
+      "series_title": "슈퍼카의 몰락",
+      "count": 1,
+      "representative_title": "中 '홍치 슈퍼카' 몰락… 부채·자금세탁 의혹 얼룩진 '실크-FAW' 스캔들 전말",
+      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWZ4SlVjSHQ4NUlFYjluQ1hGZ0IzNE5SY2NfbnBUUzdNRHBhZF9fN2FDVjc1NnlfSnR4Wk8yNlhuWTExWVhkTl9xYTlQV3RmOVFCTnFPYThUdUtnS0VIdXM0QTQ1WXlyNFo5eFg4MExSU0daZkZZYlJhcHJVU0RWMjRfMnlleXN1?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "中 '홍치 슈퍼카' 몰락… 부채·자금세탁 의혹 얼룩진 '실크-FAW' 스캔들 전말",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWZ4SlVjSHQ4NUlFYjluQ1hGZ0IzNE5SY2NfbnBUUzdNRHBhZF9fN2FDVjc1NnlfSnR4Wk8yNlhuWTExWVhkTl9xYTlQV3RmOVFCTnFPYThUdUtnS0VIdXM0QTQ1WXlyNFo5eFg4MExSU0daZkZZYlJhcHJVU0RWMjRfMnlleXN1?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "中 '홍치 슈퍼카' 몰락… 부채·자금세탁 의혹 얼룩진 '실크-FAW' 스캔들 전말"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 6,
+      "representative_title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "집값 격차 줄었다?…서울 '저가 아파트' 더 비싸졌다 [시장톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuTEhCak1yMVpCT1hyOHZZVUx5a2N1NnB5WTBzcVQ0WXdyUDVNTlgxaDBkUG1lQ0VoaEdwcllKSXNZZzduUlFSZU03S1BLWG5xb19jWQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcEg2OWFwOXk5aWRCU0dtWklDdzFsQ2NYWmgwT0tMX3JwNmxiVjFFV19TenZwVVQxVk5SclpVOUQ1UXVZU1FvU0ZVSkl0Z243R0FzUW04VlUyUdIBWEFVX3lxTE5uRmhZV1hkdV9WcUpaazZqM1dqMkN2elNtS1RoSnZrUXNoQXdxZncwa1d6SzJzcGVRSG9QeFhrM3BmR1l5cmc2ak96SU1NSjBkUFJ5UC1BcGU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHpabUF2aDlQdFRZUXh2eWF5S3I3X1dScjlLMVdnbnRyRWo0WGZlcG9EMDNZSHM1QVg0MkRPRXotX0MxSGRiREs2eVZEYzFaMHdROTU0MllCU0hTVE1rZ25OVWNCZGlqX3RGeFRKZF9JZ1p4Ukt6UmVMLWZmS0lTVQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "집값 격차 줄었다?…서울 '저가 아파트' 더 비싸졌다 [시장톡]",
+        "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
+        "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
+        "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
+        "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 3,
+      "representative_title": "강남3구·마용성 식는데 성북·중랑은 상승… 엇갈린 아파트값이 말하는 것 [주말 Q&amp;A]",
+      "representative_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kakVYemJzaGxGeFVKNDdhc0VNekQ2SV9wWEF4ZS1qU29KNzdUSzNCeXNiem1jMDM3X2ZIVEFYeWdVZFE2TWNDNUZuTTZnRW40alNDcjNhTnp4N2tqU0dtd0g2SC1iQ2ZaUnYtWEtn?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남3구·마용성 식는데 성북·중랑은 상승… 엇갈린 아파트값이 말하는 것 [주말 Q&amp;A]",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kakVYemJzaGxGeFVKNDdhc0VNekQ2SV9wWEF4ZS1qU29KNzdUSzNCeXNiem1jMDM3X2ZIVEFYeWdVZFE2TWNDNUZuTTZnRW40alNDcjNhTnp4N2tqU0dtd0g2SC1iQ2ZaUnYtWEtn?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남3구·마용성 식는데 성북·중랑은 상승… 엇갈린 아파트값이 말하는 것 [주말 Q&amp;A]"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
