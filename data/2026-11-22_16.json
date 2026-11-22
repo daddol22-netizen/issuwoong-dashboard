@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-22",
+  "hour": "16",
+  "slot": "2026-11-22_16",
+  "crawled_at": "2026-11-22 16:00:03",
+  "total_articles": 397,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "대통령",
+      "count": 44,
+      "representative_title": "李대통령, 최교진 교육부 장관 사의 수락",
+      "representative_link": "https://n.news.naver.com/article/660/0000121932?ntype=RANKING",
+      "press": "kbc광주방송",
+      "related_articles": [
+        {
+          "title": "이 대통령 “치아 흔들리고 코피 터지지만…임기 초 순방은 국정과제”",
+          "link": "https://n.news.naver.com/article/028/0002833349?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "이 대통령, 최교진 교육장관 '사의' 1시간 만에 수락...靑 \"신임 장관 인선\"",
+          "link": "https://n.news.naver.com/article/469/0000967004?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "‘수능 혼란’ 교육장관 사의 1시간 만에... 李대통령, 수락",
+          "link": "https://n.news.naver.com/article/023/0004011013?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "정유라 \"보수 대통령 지지하다 장애인 된 우리 엄마\"…병원비 지원 호소",
+          "link": "https://n.news.naver.com/article/018/0006413700?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "이 대통령, 최교진 사의 수락…청와대 \"인선 절차대로\"",
+          "link": "https://n.news.naver.com/article/055/0001404889?ntype=RANKING",
+          "press": "SBS"
+        }
+      ],
+      "related_titles": [
+        "이 대통령 “치아 흔들리고 코피 터지지만…임기 초 순방은 국정과제”",
+        "이 대통령, 최교진 교육장관 '사의' 1시간 만에 수락...靑 \"신임 장관 인선\"",
+        "‘수능 혼란’ 교육장관 사의 1시간 만에... 李대통령, 수락",
+        "정유라 \"보수 대통령 지지하다 장애인 된 우리 엄마\"…병원비 지원 호소",
+        "이 대통령, 최교진 사의 수락…청와대 \"인선 절차대로\""
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 2,
+      "keyword": "최교진",
+      "count": 30,
+      "representative_title": "최교진 교육부 장관 사의 표명 \"수능 책임 통감\"",
+      "representative_link": "https://n.news.naver.com/article/657/0000057712?ntype=RANKING",
+      "press": "대구MBC",
+      "related_articles": [
+        {
+          "title": "\"전 못할 것 같습니다...나이가 있어서\" 최교진 교육장관 논란 발언은?",
+          "link": "https://n.news.naver.com/article/052/0002436362?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "최교진, '수능 대혼란'에 사의 표명...\"책임 통감\"",
+          "link": "https://n.news.naver.com/article/052/0002436378?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "최교진 ‘수능 대혼란’에 사의 표명…李, 약 1시간 만에 수락",
+          "link": "https://n.news.naver.com/article/020/0003764162?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "[속보] 최교진, '수능 대혼란' 책임지고 사의…\"준비 미흡 비판 통감\"",
+          "link": "https://n.news.naver.com/article/079/0004212431?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "최교진 교육부 장관 사의 표명 \"수능 책임 통감\"",
+          "link": "https://n.news.naver.com/article/657/0000057712?ntype=RANKING",
+          "press": "대구MBC"
+        }
+      ],
+      "related_titles": [
+        "\"전 못할 것 같습니다...나이가 있어서\" 최교진 교육장관 논란 발언은?",
+        "최교진, '수능 대혼란'에 사의 표명...\"책임 통감\"",
+        "최교진 ‘수능 대혼란’에 사의 표명…李, 약 1시간 만에 수락",
+        "[속보] 최교진, '수능 대혼란' 책임지고 사의…\"준비 미흡 비판 통감\"",
+        "최교진 교육부 장관 사의 표명 \"수능 책임 통감\""
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 3,
+      "keyword": "수능",
+      "count": 19,
+      "representative_title": "수능 6수 끝 세상 떠난 의대 지망생…“부정행위가 꿈 짓밟아”",
+      "representative_link": "https://n.news.naver.com/article/025/0003566866?ntype=RANKING",
+      "press": "중앙일보",
+      "related_articles": [
+        {
+          "title": "“올해 수능 수학 1등급 86% 이과생 예상”…‘문과 침공’ 이어질 듯",
+          "link": "https://n.news.naver.com/article/018/0006413567?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "수능 6수 끝 세상 떠난 의대 지망생…“부정행위가 꿈 짓밟아”",
+          "link": "https://n.news.naver.com/article/025/0003566866?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "객관식 수능 손질하나...AI 커닝에 '서·논술형·자격고사' 거론",
+          "link": "https://n.news.naver.com/article/123/0002394552?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "‘AI 혼란’ 수능 끝 쉬어가는 연말... “OTT 뭐부터 볼까?”",
+          "link": "https://n.news.naver.com/article/310/0000141933?ntype=RANKING",
+          "press": "여성신문"
+        },
+        {
+          "title": "\"AI 커닝 못 잡겠다\"던 교육부장관...수능 사흘 만에 결국 사퇴",
+          "link": "https://n.news.naver.com/article/661/0000086905?ntype=RANKING",
+          "press": "JIBS"
+        }
+      ],
+      "related_titles": [
+        "“올해 수능 수학 1등급 86% 이과생 예상”…‘문과 침공’ 이어질 듯",
+        "수능 6수 끝 세상 떠난 의대 지망생…“부정행위가 꿈 짓밟아”",
+        "객관식 수능 손질하나...AI 커닝에 '서·논술형·자격고사' 거론",
+        "‘AI 혼란’ 수능 끝 쉬어가는 연말... “OTT 뭐부터 볼까?”",
+        "\"AI 커닝 못 잡겠다\"던 교육부장관...수능 사흘 만에 결국 사퇴"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 4,
+      "keyword": "장관",
+      "count": 16,
+      "representative_title": "[속보]'홍역 유행 조작, 백신 위험' 주장 美 케네디 장관, 이젠 \"접종하라\" 권고",
+      "representative_link": "https://n.news.naver.com/article/658/0000161881?ntype=RANKING",
+      "press": "국제신문",
+      "related_articles": [
+        {
+          "title": "[속보]'홍역 유행 조작, 백신 위험' 주장 美 케네디 장관, 이젠 \"접종하라\" 권고",
+          "link": "https://n.news.naver.com/article/658/0000161881?ntype=RANKING",
+          "press": "국제신문"
+        }
+      ],
+      "related_titles": [
+        "[속보]'홍역 유행 조작, 백신 위험' 주장 美 케네디 장관, 이젠 \"접종하라\" 권고"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 5,
+      "keyword": "만에",
+      "count": 13,
+      "representative_title": "13년 기다린 GTA6, 출시 하루 만에 매출 5조원 ‘대박’",
+      "representative_link": "https://n.news.naver.com/article/024/0000109808?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "\"물탈 돈이 없다, 일주일 만에 10조 증발\"…개미들 떠나는 증시, 월요일이 너무 무서운 이유 [머니 시그널]",
+          "link": "https://n.news.naver.com/article/014/0005607728?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "중국 전기차, 한국시장 점유율 급등… 4년 만에 1.1%서 33.9%",
+          "link": "https://n.news.naver.com/article/417/0001165161?ntype=RANKING",
+          "press": "동행미디어 시대"
+        },
+        {
+          "title": "\"중국차 누가 타겠냐\" 비웃었는데…4년 만에 벌어진 '대반전' [이슈+]",
+          "link": "https://n.news.naver.com/article/015/0005356679?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "홍콩 상징 ‘야경쇼’ 22년 만에 작별…“한 시대의 종말” [자막뉴스]",
+          "link": "https://n.news.naver.com/article/449/0000368298?ntype=RANKING",
+          "press": "채널A"
+        },
+        {
+          "title": "'GTA6' 하루 만에 5조원대 팔렸다... 게임 넘어 엔터테인먼트 흥행史 새로 써",
+          "link": "https://n.news.naver.com/article/030/0003488255?ntype=RANKING",
+          "press": "전자신문"
+        }
+      ],
+      "related_titles": [
+        "\"물탈 돈이 없다, 일주일 만에 10조 증발\"…개미들 떠나는 증시, 월요일이 너무 무서운 이유 [머니 시그널]",
+        "중국 전기차, 한국시장 점유율 급등… 4년 만에 1.1%서 33.9%",
+        "\"중국차 누가 타겠냐\" 비웃었는데…4년 만에 벌어진 '대반전' [이슈+]",
+        "홍콩 상징 ‘야경쇼’ 22년 만에 작별…“한 시대의 종말” [자막뉴스]",
+        "'GTA6' 하루 만에 5조원대 팔렸다... 게임 넘어 엔터테인먼트 흥행史 새로 써"
+      ],
+      "category": "경제/투자"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 10,
+      "representative_title": "연초로 회귀한 코스피 4800선…종목 78%는 '뒷걸음'",
+      "representative_link": "https://n.news.naver.com/article/586/0000142796?ntype=RANKING",
+      "press": "시사저널",
+      "related_articles": [
+        {
+          "title": "엔비디아 14% 폭락에 코스피 5000피 붕괴까지···무서운 월요일 증시, 어디까지 내려갈래",
+          "link": "https://n.news.naver.com/article/032/0003484166?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "\"코스피 바닥은 4300\"…'닉스 시총 역전' 경고했던 전문가 분석 보니",
+          "link": "https://n.news.naver.com/article/215/0001273511?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "코스피 5000선 붕괴&#8943;美 반도체주 폭락에 '검은 월요일' 오나",
+          "link": "https://n.news.naver.com/article/031/0001077246?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "코스피 야간선물 폭락에…나경원 \"李, 주식시장 망가지는건 정부 탓이라더니\"",
+          "link": "https://n.news.naver.com/article/119/0003157989?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "“5000선 붕괴가 끝 아니다?”…반도체 꺾이자 코스피 4000선도 위태 [증시레이더]",
+          "link": "https://n.news.naver.com/article/138/0002249451?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "엔비디아 14% 폭락에 코스피 5000피 붕괴까지···무서운 월요일 증시, 어디까지 내려갈래",
+        "\"코스피 바닥은 4300\"…'닉스 시총 역전' 경고했던 전문가 분석 보니",
+        "코스피 5000선 붕괴&#8943;美 반도체주 폭락에 '검은 월요일' 오나",
+        "코스피 야간선물 폭락에…나경원 \"李, 주식시장 망가지는건 정부 탓이라더니\"",
+        "“5000선 붕괴가 끝 아니다?”…반도체 꺾이자 코스피 4000선도 위태 [증시레이더]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "엔비디아",
+      "count": 8,
+      "representative_title": "젠슨 황, 엔비디아 복귀 위한 5가지 승부수 가능하다",
+      "representative_link": "https://n.news.naver.com/article/029/0003060375?ntype=RANKING",
+      "press": "디지털타임스",
+      "related_articles": [
+        {
+          "title": "[속보] 앨리스 황은 ‘얼굴마담’…엔비디아 칩 중국 밀수 배후는 따로 있었다",
+          "link": "https://n.news.naver.com/article/029/0003060444?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "젠슨 황, 엔비디아 복귀 위한 5가지 승부수 가능하다",
+          "link": "https://n.news.naver.com/article/029/0003060375?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "앨리스 황은 '얼굴'일뿐?…WSJ \"엔비디아 칩 中밀수망 핵심은 동업자\"",
+          "link": "https://n.news.naver.com/article/088/0001041614?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "앨리스 황은 ‘얼굴마담’?… “엔비디아 칩 中 밀수 주도자는 50대 중국인”",
+          "link": "https://n.news.naver.com/article/366/0001206481?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "'불륜 스캔들' 젠슨 황 복귀 의사 공식화…엔비디아 이사회는 '불가'",
+          "link": "https://n.news.naver.com/article/586/0000142787?ntype=RANKING",
+          "press": "시사저널"
+        }
+      ],
+      "related_titles": [
+        "[속보] 앨리스 황은 ‘얼굴마담’…엔비디아 칩 중국 밀수 배후는 따로 있었다",
+        "젠슨 황, 엔비디아 복귀 위한 5가지 승부수 가능하다",
+        "앨리스 황은 '얼굴'일뿐?…WSJ \"엔비디아 칩 中밀수망 핵심은 동업자\"",
+        "앨리스 황은 ‘얼굴마담’?… “엔비디아 칩 中 밀수 주도자는 50대 중국인”",
+        "'불륜 스캔들' 젠슨 황 복귀 의사 공식화…엔비디아 이사회는 '불가'"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "반도체",
+      "count": 4,
+      "representative_title": "'수출 1조 달러' 한국 세계 4위 전망…반도체 빼면 8위",
+      "representative_link": "https://n.news.naver.com/article/422/0000928644?ntype=RANKING",
+      "press": "연합뉴스TV",
+      "related_articles": [
+        {
+          "title": "폭락장에서도 고수들 반도체 사랑…SK하이닉스 645억원 매수[1% 고수의 선택]",
+          "link": "https://n.news.naver.com/article/014/0005607763?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "'수출 1조 달러' 한국 세계 4위 전망…반도체 빼면 8위",
+          "link": "https://n.news.naver.com/article/422/0000928644?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "반도체 전망 좋은데, 삼전닉스는 급락…'45조 증발' 한국 주식 버리는 외국인, 왜?",
+          "link": "https://n.news.naver.com/article/030/0003488212?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "폭락장에서도 고수들 반도체 사랑…SK하이닉스 645억원 매수[1% 고수의 선택]",
+          "link": "https://n.news.naver.com/article/014/0005607763?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "'수출 1조 달러' 한국 세계 4위 전망…반도체 빼면 8위",
+          "link": "https://n.news.naver.com/article/422/0000928644?ntype=RANKING",
+          "press": "연합뉴스TV"
+        }
+      ],
+      "related_titles": [
+        "폭락장에서도 고수들 반도체 사랑…SK하이닉스 645억원 매수[1% 고수의 선택]",
+        "'수출 1조 달러' 한국 세계 4위 전망…반도체 빼면 8위",
+        "반도체 전망 좋은데, 삼전닉스는 급락…'45조 증발' 한국 주식 버리는 외국인, 왜?",
+        "폭락장에서도 고수들 반도체 사랑…SK하이닉스 645억원 매수[1% 고수의 선택]",
+        "'수출 1조 달러' 한국 세계 4위 전망…반도체 빼면 8위"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "테슬라",
+      "count": 4,
+      "representative_title": "'중국산 테슬라' 돌풍불더니…대중국 자동차 무역적자 6조",
+      "representative_link": "https://n.news.naver.com/article/437/0000521871?ntype=RANKING",
+      "press": "JTBC",
+      "related_articles": [
+        {
+          "title": "'중국산 테슬라' 돌풍불더니…대중국 자동차 무역적자 6조",
+          "link": "https://n.news.naver.com/article/437/0000521871?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "[크랩] 테슬라 따라잡으려다 역대급 위기 맞았다는 볼보 근황",
+          "link": "https://n.news.naver.com/article/056/0012298758?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "“테슬라, 왜 이렇게 많이 보이냐” 했더니…결국 씁쓸한 최고 기록 찍었다",
+          "link": "https://n.news.naver.com/article/016/0002726682?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "[FSD 온로드] '14.2 라이트' 배포 확대...테슬라 안내 보니",
+          "link": "https://n.news.naver.com/article/293/0000093619?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "'중국산 테슬라' 돌풍불더니…대중국 자동차 무역적자 6조",
+          "link": "https://n.news.naver.com/article/437/0000521871?ntype=RANKING",
+          "press": "JTBC"
+        }
+      ],
+      "related_titles": [
+        "'중국산 테슬라' 돌풍불더니…대중국 자동차 무역적자 6조",
+        "[크랩] 테슬라 따라잡으려다 역대급 위기 맞았다는 볼보 근황",
+        "“테슬라, 왜 이렇게 많이 보이냐” 했더니…결국 씁쓸한 최고 기록 찍었다",
+        "[FSD 온로드] '14.2 라이트' 배포 확대...테슬라 안내 보니",
+        "'중국산 테슬라' 돌풍불더니…대중국 자동차 무역적자 6조"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "폭락에",
+      "count": 4,
+      "representative_title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
+      "representative_link": "https://n.news.naver.com/article/648/0000052858?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
+          "link": "https://n.news.naver.com/article/648/0000052858?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
+          "link": "https://n.news.naver.com/article/648/0000052858?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
+          "link": "https://n.news.naver.com/article/648/0000052858?ntype=RANKING",
+          "press": "비즈워치"
+        }
+      ],
+      "related_titles": [
+        "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
+        "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
+        "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\""
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 7,
+      "representative_title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HX3VvZUJfVWp2S2IxUzdPN0VPb3VGcHZjQWtEUVo5czNWWVpGNjBvMVl1ZEVGRjlhTVFQZ2MtdHU3akY3OW1rTG1jS3QwSG1Idjctdi1jZ2hMZDh3NmF1bk1ROU94OTBkcnfSAW5BVV95cUxNUm9pdEk5TVROTV9mcHhNNmx1YlNpRDNKQzNzQVZmbE9QXzd4OGE3QndHc01nUzd1d2VFdzZpejgydkZjbF9OT1p1V1hpMnNseENaQVppQTZGVlhFcklHMDRnM0tXU2ZtT0c5OFhxUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lYVJ5dHJEWnlKaHlKbnByRU9fOUFMMDRNTlptUE0tUldxeTVJcVRVVHdnWDN0dVA2UnM4Q2RvOTRoUXlMU2FDQ1F6WGlZSWJYRmRtbXZEdHDSAVRBVV95cUxQQ2pZcXlFc1Bhbm5QSUhiTW1za3BpYURrc1hEa2VqVVdSMVhQdEc4US04a013ckRzdVlVWXJxSURRaGZ5dW5ld0xkbXRPWXhQUTcwVGw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTVM3NDYtY2pRMFc5c1NHTmo0dExvSC0za2Q0aUs4R2VZQVdkbG9fM09IUUlYa0VHTkFiM1pkMUVITlpfd3ZSZTBBamZIb1IySkF1bmVGcmM0czFiN1NnT3FUOWJkMnl4ZUpFVWtZNNIBc0FVX3lxTE5FQ000Nzk4WDIwVW5TaVNjUkV4VHpRU2hpTmxuM01LczIwM0E0WlhFclNZSmMycDhlNnFVR0xTMG5XcGpPLTZjS005SnNkb2FBLXdTQnNmRXkwVF9jWUFUNFVYelV5RklIaGg0R1N6TENOZFU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[TV자유일보] 李 정권 몰락 ‘신호탄’ 李, 판도라 상자 열었",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6b0VnVENDU0dYWDYtbGRaMkRtRjBfZHJCam5PTE9VWS1NWmNaZFRzdjBMR3EzbE41cXVqTnFVcnhxV1lkNlZZT3ZHQzhLb2tBd0Z5d1BWWmxoNVp3dk9sMlh6SXNkR2RKcWlR0gFvQVVfeXFMTVcxZjZEaHFFSnFRMFIyRmpDUnMyb1FlN1hJYUVQeS1sTDR2RFJYelNONDVVeEY3VUJBLXJwU1JhUVEyRXdaalZhYkVQbjlOb1RUYXlsTFRiLWJ1aXZ1YVRYUFRPcXVJWjlNM19NN1A0?oc=5",
+          "press": ""
+        },
+        {
+          "title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
+        "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+        "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+        "[TV자유일보] 李 정권 몰락 ‘신호탄’ 李, 판도라 상자 열었",
+        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "젠슨",
+      "series_title": "젠슨의 몰락",
+      "count": 5,
+      "representative_title": "젠슨 황의 몰락, 미·중 '거래의 시대'를 끝내다",
+      "representative_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wOFE3aE5RZFM4NzVVSkZ5Z284Y242VWJJSGJSblhJMHhGU0FXbUJOLXpUZ3NVRkM4ZTZ2YXlDa2RhcS1YRWdrZTdrSmFKRGNTLU5pcjUtbnloM1gxSlFPZktKejE1bldkX1FEZTJ3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUh4TjN3aHF2ZTJsVkR2YmRUaG1ERk5sZllFaUVYSWdGMEt3RkhJMUtGMWxCRG1COUpGS0JHWnB2UGs2dTE5OTZTaldVZ2V1VHh6NWIwRkxtVzdUcFZ4UzVhTVFVSThpZXA3WnNsZUgxeERRY3o2MElBYWVxM0lkaTdn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[NVIDIA ‘젠슨 황’ 미스터리 1] 가죽 재킷 젠슨 황의 몰락 이유는? ‘그녀는 스파이 인가, 기업 사냥꾼인가’",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZTBSYzlkQzdNdjRBTzdvbHdIYktDZF91SXowMFZDQkxETnN3eTVuTVdscTZpeHNHZi1DUzhycThqd0RZelM1dHpJXzBhbHBqcWhtVWd5djh4REUxelVqR3VuMmtmTTM3Mi1qMmNnX3VTZENIUzFaMXlaSVlCOE1RN3E1bDBad0gwQXhfVmo4SlN4VWtBWG04dmRDdU9zYTlOVzlIbmt3SXhrR1I2bnlDVlZSRmdUaEhFMUNGcXhaTEJJVnc5MV9FX1lzTFJIbUdiNV92emhueDF3MVY4ZEtDZDdPZ1RoWmJEcWs5UzliTkc0bWk1UlJLX25OczY4RWtwQjI4NkJ5cHBUVGlQN3ZLSmRLLS1wQndPZjFMTzFwaHVxaHlPaGR5RlhvVG1IbldBWHFDVVpXREFoSjhYREptYnBR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "젠슨 황의 몰락, 미·중 '거래의 시대'를 끝내다",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wOFE3aE5RZFM4NzVVSkZ5Z284Y242VWJJSGJSblhJMHhGU0FXbUJOLXpUZ3NVRkM4ZTZ2YXlDa2RhcS1YRWdrZTdrSmFKRGNTLU5pcjUtbnloM1gxSlFPZktKejE1bldkX1FEZTJ3?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'30일 후면 망한다'는 위기감으로 회사를 이끌던 젠슨 황의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YOVk5ZGdfZmUzSXVFblJseTBCS0xacVNfeklQb0ZSQUwyYjFRYThYUWdwNU9hR1dqSHg4YUJ1ZTIwbkt5SFZhOFhZQUxKaXhHTklNS1N1ZUpTT3RjVGVOQ283YWE5enNWMTFtd0paM3g?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MV2swMUlBUDZuR3A5TTFHZDlaRUJURUw4dnRsTTZ6TmFrd2owaDhwa3BDVUNPb2V5dVo1T0lZOGJmU19ubFE2dS1wWEx1cFJrang0U3kwTkltSVNWMHd5QUp1S1VnR2swTHNN?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+        "[NVIDIA ‘젠슨 황’ 미스터리 1] 가죽 재킷 젠슨 황의 몰락 이유는? ‘그녀는 스파이 인가, 기업 사냥꾼인가’",
+        "젠슨 황의 몰락, 미·중 '거래의 시대'를 끝내다",
+        "'30일 후면 망한다'는 위기감으로 회사를 이끌던 젠슨 황의 몰락",
+        "[데스크 칼럼] ‘AI 황제’ 젠슨 황의 몰락… ‘깐부·삼겹살 동맹’ 낭만은 끝났다"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "슈퍼카",
+      "series_title": "슈퍼카의 몰락",
+      "count": 1,
+      "representative_title": "中 '홍치 슈퍼카' 몰락… 부채·자금세탁 의혹 얼룩진 '실크-FAW' 스캔들 전말",
+      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWZ4SlVjSHQ4NUlFYjluQ1hGZ0IzNE5SY2NfbnBUUzdNRHBhZF9fN2FDVjc1NnlfSnR4Wk8yNlhuWTExWVhkTl9xYTlQV3RmOVFCTnFPYThUdUtnS0VIdXM0QTQ1WXlyNFo5eFg4MExSU0daZkZZYlJhcHJVU0RWMjRfMnlleXN1?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "中 '홍치 슈퍼카' 몰락… 부채·자금세탁 의혹 얼룩진 '실크-FAW' 스캔들 전말",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRWZ4SlVjSHQ4NUlFYjluQ1hGZ0IzNE5SY2NfbnBUUzdNRHBhZF9fN2FDVjc1NnlfSnR4Wk8yNlhuWTExWVhkTl9xYTlQV3RmOVFCTnFPYThUdUtnS0VIdXM0QTQ1WXlyNFo5eFg4MExSU0daZkZZYlJhcHJVU0RWMjRfMnlleXN1?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "中 '홍치 슈퍼카' 몰락… 부채·자금세탁 의혹 얼룩진 '실크-FAW' 스캔들 전말"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "록스타",
+      "series_title": "록스타의 몰락",
+      "count": 1,
+      "representative_title": "반도체 록스타의 몰락 [비즈앤피플]",
+      "representative_link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmekhFSEJONFY2Sy1nTFdwVEdRVjhSQUZfMThtTlVzRy1aZ2lVNnBadERXX0hnV3BOa0hCUjVBbHNzVGlxWWtwampGQ1JVQWZLMkdPRFhhSlNlcEw1VllmU0JvVlVCRk1WWWhDeF9XVm1UMEpz?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "반도체 록스타의 몰락 [비즈앤피플]",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmekhFSEJONFY2Sy1nTFdwVEdRVjhSQUZfMThtTlVzRy1aZ2lVNnBadERXX0hnV3BOa0hCUjVBbHNzVGlxWWtwampGQ1JVQWZLMkdPRFhhSlNlcEw1VllmU0JvVlVCRk1WWWhDeF9XVm1UMEpz?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "반도체 록스타의 몰락 [비즈앤피플]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "중저가",
+      "series_title": "중저가의 몰락",
+      "count": 1,
+      "representative_title": "얼어붙은 유럽 스마트폰 시장…중저가 몰락, 프리미엄 선방 By EBN",
+      "representative_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GS3N0RVM2MFNJTkZPSk5lLW9yR3FrWFFaR1FLN3VLZklaTjFUMVRzcnN0UHluN2R2bVgyMlhtbzNtZnhxZVlZSGRPTGZVN0o1aF9aV051REZENnNnU3lyX2lrN0RSdnlabTIxejYxSlg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "얼어붙은 유럽 스마트폰 시장…중저가 몰락, 프리미엄 선방 By EBN",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GS3N0RVM2MFNJTkZPSk5lLW9yR3FrWFFaR1FLN3VLZklaTjFUMVRzcnN0UHluN2R2bVgyMlhtbzNtZnhxZVlZSGRPTGZVN0o1aF9aV051REZENnNnU3lyX2lrN0RSdnlabTIxejYxSlg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "얼어붙은 유럽 스마트폰 시장…중저가 몰락, 프리미엄 선방 By EBN"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 5,
+      "representative_title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuTEhCak1yMVpCT1hyOHZZVUx5a2N1NnB5WTBzcVQ0WXdyUDVNTlgxaDBkUG1lQ0VoaEdwcllKSXNZZzduUlFSZU03S1BLWG5xb19jWQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcEg2OWFwOXk5aWRCU0dtWklDdzFsQ2NYWmgwT0tMX3JwNmxiVjFFV19TenZwVVQxVk5SclpVOUQ1UXVZU1FvU0ZVSkl0Z243R0FzUW04VlUyUdIBWEFVX3lxTE5uRmhZV1hkdV9WcUpaazZqM1dqMkN2elNtS1RoSnZrUXNoQXdxZncwa1d6SzJzcGVRSG9QeFhrM3BmR1l5cmc2ak96SU1NSjBkUFJ5UC1BcGU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHpabUF2aDlQdFRZUXh2eWF5S3I3X1dScjlLMVdnbnRyRWo0WGZlcG9EMDNZSHM1QVg0MkRPRXotX0MxSGRiREs2eVZEYzFaMHdROTU0MllCU0hTVE1rZ25OVWNCZGlqX3RGeFRKZF9JZ1p4Ukt6UmVMLWZmS0lTVQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 넘어 한강벨트까지…‘서울 집값 정말 잡히나요’[부동산 취재로그]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPXy02dkp4eTE0Zm1rNkZMWGkxelhkY2plXzdYelBUMEZKXy1SWEs3empmYVNPZ29pU2xXb0hvY0ZwWHR5dHNiVXliT2x1Q2UyTHA4ZHNraUxYdVltUGFFaGFvY1MtdDliX3JXUzE1RFozQ1J5bERKREFVbkpNaFFNSQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
+        "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
+        "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
+        "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
+        "강남 넘어 한강벨트까지…‘서울 집값 정말 잡히나요’[부동산 취재로그]"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
