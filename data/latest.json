@@ -1,274 +1,287 @@
 {
   "date": "2026-11-23",
-  "hour": "07",
-  "slot": "2026-11-23_07",
-  "crawled_at": "2026-11-23 07:00:01",
-  "total_articles": 392,
+  "hour": "10",
+  "slot": "2026-11-23_10",
+  "crawled_at": "2026-11-23 10:00:01",
+  "total_articles": 395,
   "topics": [
     {
       "rank": 1,
-      "keyword": "월요일",
-      "count": 18,
-      "representative_title": "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
-      "representative_link": "https://n.news.naver.com/article/014/0005607892?ntype=RANKING",
-      "press": "파이낸셜뉴스",
+      "keyword": "대통령",
+      "count": 20,
+      "representative_title": "李대통령 \"치아 흔들리고 코피까지 터지는 일이지만…\"",
+      "representative_link": "https://n.news.naver.com/article/006/0000138889?ntype=RANKING",
+      "press": "미디어오늘",
       "related_articles": [
         {
-          "title": "'검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비",
-          "link": "https://n.news.naver.com/article/214/0001537267?ntype=RANKING",
-          "press": "MBC"
+          "title": "[속보] 이 대통령 지지율 37.3%…민주 35.6%·국힘 42.5% [리얼미터]",
+          "link": "https://n.news.naver.com/article/009/0005767381?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "\"검은 월요일 막아라\" 정부도 긴급 대응…18년 잠든 증안펀드 가동 준비",
-          "link": "https://n.news.naver.com/article/008/0005444651?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론'",
-          "link": "https://n.news.naver.com/article/008/0005444681?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "'검은 월요일' 우려에 정부 긴급 대응…증안펀드 가동 준비",
-          "link": "https://n.news.naver.com/article/648/0000052862?ntype=RANKING",
-          "press": "비즈워치"
-        },
-        {
-          "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
-          "link": "https://n.news.naver.com/article/648/0000052858?ntype=RANKING",
-          "press": "비즈워치"
-        }
-      ],
-      "related_titles": [
-        "'검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비",
-        "\"검은 월요일 막아라\" 정부도 긴급 대응…18년 잠든 증안펀드 가동 준비",
-        "나스닥 5.3% ↓… '검은 월요일' 공포, 고개 드는 'AI 회의론'",
-        "'검은 월요일' 우려에 정부 긴급 대응…증안펀드 가동 준비",
-        "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\""
-      ],
-      "category": "경제/투자"
-    },
-    {
-      "rank": 2,
-      "keyword": "정부",
-      "count": 17,
-      "representative_title": "커지는 블랙먼데이 공포...\"정부, 대책 마련해야\"",
-      "representative_link": "https://n.news.naver.com/article/050/0000113590?ntype=RANKING",
-      "press": "한경비즈니스",
-      "related_articles": [
-        {
-          "title": "[속보]‘블랙먼데이’ 막아라···정부, 증시안정펀드 가동 준비 착수",
-          "link": "https://n.news.naver.com/article/032/0003484246?ntype=RANKING",
-          "press": "경향신문"
-        },
-        {
-          "title": "정부, 10조 증안펀드 카드 꺼냈지만… 외국인 매도세 막을 수 있을까",
-          "link": "https://n.news.naver.com/article/469/0000967084?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "정부, 증시 급락 우려에 ‘증안펀드’ 가동 준비… 불법 공매도 3개월간 집중 감시",
-          "link": "https://n.news.naver.com/article/366/0001206504?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "정부, 증시 급락에 18년 만에 '증시안정 펀드' 준비",
-          "link": "https://n.news.naver.com/article/437/0000521897?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "“내일 블랙 먼데이 막자”…정부, 증안펀드 18년만에 투입 준비",
-          "link": "https://n.news.naver.com/article/020/0003764227?ntype=RANKING",
-          "press": "동아일보"
-        }
-      ],
-      "related_titles": [
-        "[속보]‘블랙먼데이’ 막아라···정부, 증시안정펀드 가동 준비 착수",
-        "정부, 10조 증안펀드 카드 꺼냈지만… 외국인 매도세 막을 수 있을까",
-        "정부, 증시 급락 우려에 ‘증안펀드’ 가동 준비… 불법 공매도 3개월간 집중 감시",
-        "정부, 증시 급락에 18년 만에 '증시안정 펀드' 준비",
-        "“내일 블랙 먼데이 막자”…정부, 증안펀드 18년만에 투입 준비"
-      ],
-      "category": "경제/투자"
-    },
-    {
-      "rank": 3,
-      "keyword": "준비",
-      "count": 17,
-      "representative_title": "F4 긴급 소집…증안펀드 준비·자사주 풀고 공매도 조인다",
-      "representative_link": "https://n.news.naver.com/article/123/0002394565?ntype=RANKING",
-      "press": "조세일보",
-      "related_articles": [
-        {
-          "title": "이번엔 엠디트 수석 ‘AI 커닝’?…합격자 “6년 준비” 반박",
-          "link": "https://n.news.naver.com/article/028/0002833371?ntype=RANKING",
+          "title": "이 대통령 “치아 흔들리고 코피 터지지만…임기 초 순방은 국정과제”",
+          "link": "https://n.news.naver.com/article/028/0002833349?ntype=RANKING",
           "press": "한겨레"
         },
         {
-          "title": "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 \"준비 착수\"(종합)",
-          "link": "https://n.news.naver.com/article/001/0016457004?ntype=RANKING",
+          "title": "“업자와 결탁했다면…” 李대통령, ‘대장동 의혹’ 또 반박",
+          "link": "https://n.news.naver.com/article/005/0001886780?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "李대통령 지지율 ‘37.3%’…부정평가 격차 22.6%p [리얼미터]",
+          "link": "https://n.news.naver.com/article/029/0003060527?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "李대통령 지지율 37.3%…與 35.6%·국힘 42.5% 2주연속 오차 밖[리얼미터]",
+          "link": "https://n.news.naver.com/article/001/0016457152?ntype=RANKING",
           "press": "연합뉴스"
-        },
-        {
-          "title": "증시 급락 우려에 ‘증안펀드’ 준비…시행되면 6년만에 발동",
-          "link": "https://n.news.naver.com/article/082/0001408408?ntype=RANKING",
-          "press": "부산일보"
-        },
-        {
-          "title": "코스피 5000선 붕괴에 'F4' 긴급 소집…증안펀드 가동 준비",
-          "link": "https://n.news.naver.com/article/654/0000212666?ntype=RANKING",
-          "press": "강원도민일보"
-        },
-        {
-          "title": "F4 긴급 소집…증안펀드 준비·자사주 풀고 공매도 조인다",
-          "link": "https://n.news.naver.com/article/123/0002394565?ntype=RANKING",
-          "press": "조세일보"
         }
       ],
       "related_titles": [
-        "이번엔 엠디트 수석 ‘AI 커닝’?…합격자 “6년 준비” 반박",
-        "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 \"준비 착수\"(종합)",
-        "증시 급락 우려에 ‘증안펀드’ 준비…시행되면 6년만에 발동",
-        "코스피 5000선 붕괴에 'F4' 긴급 소집…증안펀드 가동 준비",
-        "F4 긴급 소집…증안펀드 준비·자사주 풀고 공매도 조인다"
+        "[속보] 이 대통령 지지율 37.3%…민주 35.6%·국힘 42.5% [리얼미터]",
+        "이 대통령 “치아 흔들리고 코피 터지지만…임기 초 순방은 국정과제”",
+        "“업자와 결탁했다면…” 李대통령, ‘대장동 의혹’ 또 반박",
+        "李대통령 지지율 ‘37.3%’…부정평가 격차 22.6%p [리얼미터]",
+        "李대통령 지지율 37.3%…與 35.6%·국힘 42.5% 2주연속 오차 밖[리얼미터]"
       ],
-      "category": "경제/투자"
+      "category": "정치"
     },
     {
-      "rank": 4,
-      "keyword": "증안펀드",
-      "count": 17,
-      "representative_title": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
-      "representative_link": "https://n.news.naver.com/article/648/0000052863?ntype=RANKING",
-      "press": "비즈워치",
-      "related_articles": [
-        {
-          "title": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
-          "link": "https://n.news.naver.com/article/648/0000052863?ntype=RANKING",
-          "press": "비즈워치"
-        },
-        {
-          "title": "'블랙 먼데이' 막을 수 있을까…금융 당국 \"증안펀드 대기,  불법 공매도 단속\"",
-          "link": "https://n.news.naver.com/article/138/0002249492?ntype=RANKING",
-          "press": "디지털데일리"
-        }
-      ],
-      "related_titles": [
-        "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
-        "'블랙 먼데이' 막을 수 있을까…금융 당국 \"증안펀드 대기,  불법 공매도 단속\""
-      ],
-      "category": "경제/투자"
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "keyword": "개월",
-      "count": 16,
-      "representative_title": "아기 살았지만 엄마는…아파트서 5개월 딸 안고 추락사",
-      "representative_link": "https://n.news.naver.com/article/055/0001404919?ntype=RANKING",
-      "press": "SBS",
+      "count": 13,
+      "representative_title": "5개월 된 아이 안고 추락… 엄마는 숨지고 딸은 살았다",
+      "representative_link": "https://n.news.naver.com/article/023/0004011042?ntype=RANKING",
+      "press": "조선일보",
       "related_articles": [
+        {
+          "title": "5개월 된 아이 안고 추락… 엄마는 숨지고 딸은 살았다",
+          "link": "https://n.news.naver.com/article/023/0004011042?ntype=RANKING",
+          "press": "조선일보"
+        },
         {
           "title": "아파트서 5개월 딸 안고 추락한 엄마, 아기는 살았다···40대 여성 사망",
           "link": "https://n.news.naver.com/article/032/0003484242?ntype=RANKING",
           "press": "경향신문"
         },
         {
-          "title": "창원 아파트서 5개월 딸 안고 추락…엄마 숨지고 아기는 살았다",
-          "link": "https://n.news.naver.com/article/008/0005444658?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "창원 아파트서 5개월 아기 안고 추락한 40대女 사망…아기는 생존",
+          "link": "https://n.news.naver.com/article/020/0003764214?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "“넌 내 딸 아니잖아” 16개월 아기 ‘미스 박’이라 부른 계부…숨진 아이의 몸엔 멍투성이 [오늘의 그날]",
+          "link": "https://n.news.naver.com/article/011/0004684896?ntype=RANKING",
+          "press": "서울경제"
         },
         {
           "title": "“6개월 지나도 안 썩는다”…지하철역 ‘중국산 1000원빵’ 논란",
           "link": "https://n.news.naver.com/article/025/0003566944?ntype=RANKING",
           "press": "중앙일보"
-        },
-        {
-          "title": "생후 5개월 딸 안고 아파트서 추락한 엄마… 아이는 살았다",
-          "link": "https://n.news.naver.com/article/469/0000967082?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "아파트서 생후 5개월 아기와 함께 떨어진 40대 여성 사망…아기는 목숨 건져",
-          "link": "https://n.news.naver.com/article/087/0001232485?ntype=RANKING",
-          "press": "강원일보"
         }
       ],
       "related_titles": [
+        "5개월 된 아이 안고 추락… 엄마는 숨지고 딸은 살았다",
         "아파트서 5개월 딸 안고 추락한 엄마, 아기는 살았다···40대 여성 사망",
-        "창원 아파트서 5개월 딸 안고 추락…엄마 숨지고 아기는 살았다",
-        "“6개월 지나도 안 썩는다”…지하철역 ‘중국산 1000원빵’ 논란",
-        "생후 5개월 딸 안고 아파트서 추락한 엄마… 아이는 살았다",
-        "아파트서 생후 5개월 아기와 함께 떨어진 40대 여성 사망…아기는 목숨 건져"
+        "창원 아파트서 5개월 아기 안고 추락한 40대女 사망…아기는 생존",
+        "“넌 내 딸 아니잖아” 16개월 아기 ‘미스 박’이라 부른 계부…숨진 아이의 몸엔 멍투성이 [오늘의 그날]",
+        "“6개월 지나도 안 썩는다”…지하철역 ‘중국산 1000원빵’ 논란"
       ],
       "category": "사건/사고"
+    },
+    {
+      "rank": 3,
+      "keyword": "여성",
+      "count": 13,
+      "representative_title": "정상급 여성 트레일러너 잇따라 사망",
+      "representative_link": "https://n.news.naver.com/article/094/0000013964?ntype=RANKING",
+      "press": "월간 산",
+      "related_articles": [
+        {
+          "title": "하루 최대 15번 뿌렸다…'코 스프레이 10년'에 코 더 막힌 여성",
+          "link": "https://n.news.naver.com/article/422/0000928788?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "난방 기구 사용했다가… 영월서 차박 하던 70대 여성 숨져",
+          "link": "https://n.news.naver.com/article/005/0001886781?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "영월서 차박 하던 70대 여성 숨져…함께 있던 60대 남성은 경상",
+          "link": "https://n.news.naver.com/article/029/0003060492?ntype=RANKING",
+          "press": "디지털타임스"
+        },
+        {
+          "title": "창원 아파트서 40대 여성, 아기 안고 추락…엄마 숨지고 아이 무사",
+          "link": "https://n.news.naver.com/article/057/0001979334?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "영월서 차박하던 여성 숨져...동승자는 '전신 쇠약' 증상",
+          "link": "https://n.news.naver.com/article/660/0000121946?ntype=RANKING",
+          "press": "kbc광주방송"
+        }
+      ],
+      "related_titles": [
+        "하루 최대 15번 뿌렸다…'코 스프레이 10년'에 코 더 막힌 여성",
+        "난방 기구 사용했다가… 영월서 차박 하던 70대 여성 숨져",
+        "영월서 차박 하던 70대 여성 숨져…함께 있던 60대 남성은 경상",
+        "창원 아파트서 40대 여성, 아기 안고 추락…엄마 숨지고 아이 무사",
+        "영월서 차박하던 여성 숨져...동승자는 '전신 쇠약' 증상"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 4,
+      "keyword": "수능",
+      "count": 12,
+      "representative_title": "수능 전후 사라진 최교진…1시간 만에 사표 수리",
+      "representative_link": "https://n.news.naver.com/article/449/0000368326?ntype=RANKING",
+      "press": "채널A",
+      "related_articles": [
+        {
+          "title": "10분 만에 푼 국영수 '만점'…\"지금의 수능, 더는 안돼\"",
+          "link": "https://n.news.naver.com/article/055/0001404936?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "[단독] 수능 직전 ‘부정시험 장비’ 거래 정황…돈만 가로채는 2차 사기 우려도",
+          "link": "https://n.news.naver.com/article/028/0002833427?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "3년 만에 수능 17→100점… 진화한 AI ‘커닝 비즈니스’ 탄생시켜",
+          "link": "https://n.news.naver.com/article/005/0001886710?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "“‘AI시대 준비됐느냐’ 어른들도 함께 친 수능… 결과는 0점이었다”",
+          "link": "https://n.news.naver.com/article/005/0001886628?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "수능 창시자의 '탄식'... \"AI가 단번에 푸는 시험을 인간이 볼 이유 있나\"",
+          "link": "https://n.news.naver.com/article/469/0000967101?ntype=RANKING",
+          "press": "한국일보"
+        }
+      ],
+      "related_titles": [
+        "10분 만에 푼 국영수 '만점'…\"지금의 수능, 더는 안돼\"",
+        "[단독] 수능 직전 ‘부정시험 장비’ 거래 정황…돈만 가로채는 2차 사기 우려도",
+        "3년 만에 수능 17→100점… 진화한 AI ‘커닝 비즈니스’ 탄생시켜",
+        "“‘AI시대 준비됐느냐’ 어른들도 함께 친 수능… 결과는 0점이었다”",
+        "수능 창시자의 '탄식'... \"AI가 단번에 푸는 시험을 인간이 볼 이유 있나\""
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 5,
+      "keyword": "숨져",
+      "count": 12,
+      "representative_title": "김대중마라톤대회서 19세男, 완주 직후 쓰러져 숨져",
+      "representative_link": "https://n.news.naver.com/article/021/0002834604?ntype=RANKING",
+      "press": "문화일보",
+      "related_articles": [
+        {
+          "title": "목포 마라톤 대회서 19세男 숨져… 10㎞ 결승선 통과 후 경련 증세",
+          "link": "https://n.news.naver.com/article/469/0000967124?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "100세까지 장수했는데 집 근처서 차에 치여 숨져… “열흘간 조기 게양” 어르신 기린 美마을 [월드픽]",
+          "link": "https://n.news.naver.com/article/081/0003701996?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "마라톤대회 10㎞ 완주 직후 19세 대학생, 쓰러져 숨져",
+          "link": "https://n.news.naver.com/article/014/0005607963?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "김대중마라톤대회서 19세男, 완주 직후 쓰러져 숨져",
+          "link": "https://n.news.naver.com/article/021/0002834604?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "송아지에게 우유 주던 농장주, 어미 소에 들이받혀 숨져",
+          "link": "https://n.news.naver.com/article/657/0000057715?ntype=RANKING",
+          "press": "대구MBC"
+        }
+      ],
+      "related_titles": [
+        "목포 마라톤 대회서 19세男 숨져… 10㎞ 결승선 통과 후 경련 증세",
+        "100세까지 장수했는데 집 근처서 차에 치여 숨져… “열흘간 조기 게양” 어르신 기린 美마을 [월드픽]",
+        "마라톤대회 10㎞ 완주 직후 19세 대학생, 쓰러져 숨져",
+        "김대중마라톤대회서 19세男, 완주 직후 쓰러져 숨져",
+        "송아지에게 우유 주던 농장주, 어미 소에 들이받혀 숨져"
+      ],
+      "category": "사회/일반"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "증시",
-      "count": 7,
-      "representative_title": "정부, 증시 급락에 18년 만에 '증시안정 펀드' 준비",
-      "representative_link": "https://n.news.naver.com/article/437/0000521897?ntype=RANKING",
-      "press": "JTBC",
+      "keyword": "엔비디아",
+      "count": 8,
+      "representative_title": "美가 막은 엔비디아 AI칩, 어떻게 中으로 흘러갔나",
+      "representative_link": "https://n.news.naver.com/article/031/0001077311?ntype=RANKING",
+      "press": "아이뉴스24",
       "related_articles": [
         {
-          "title": "정부, 증시 급락 우려에 ‘증안펀드’ 가동 준비… 불법 공매도 3개월간 집중 감시",
-          "link": "https://n.news.naver.com/article/366/0001206504?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "\"엔비디아 칩 밀수에 앨리스 황·캄보디아 범죄조직 얽혀\"",
+          "link": "https://n.news.naver.com/article/422/0000928781?ntype=RANKING",
+          "press": "연합뉴스TV"
         },
         {
-          "title": "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
-          "link": "https://n.news.naver.com/article/648/0000052858?ntype=RANKING",
-          "press": "비즈워치"
+          "title": "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
+          "link": "https://n.news.naver.com/article/011/0004684912?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "정부, 증시 급락에 18년 만에 '증시안정 펀드' 준비",
-          "link": "https://n.news.naver.com/article/437/0000521897?ntype=RANKING",
-          "press": "JTBC"
+          "title": "“엔비디아 칩 중국 밀수망에 엘리스 황과 캄보디아 범죄기업 포함”",
+          "link": "https://n.news.naver.com/article/449/0000368350?ntype=RANKING",
+          "press": "채널A"
         },
         {
-          "title": "증시 급락 우려에 ‘증안펀드’ 준비…시행되면 6년만에 발동",
-          "link": "https://n.news.naver.com/article/082/0001408408?ntype=RANKING",
-          "press": "부산일보"
+          "title": "美가 막은 엔비디아 AI칩, 어떻게 中으로 흘러갔나",
+          "link": "https://n.news.naver.com/article/031/0001077311?ntype=RANKING",
+          "press": "아이뉴스24"
         },
         {
-          "title": "\"실적은 오르는데 주가는 뚝\"…외인 매도세가 관건, 코스피 5000~6100 [주간 증시 전망]",
-          "link": "https://n.news.naver.com/article/119/0003157948?ntype=RANKING",
+          "title": "\"엔비디아 반도체 中밀수 의혹에 새 배후 등장…52세 중국인 사업가\"",
+          "link": "https://n.news.naver.com/article/119/0003158093?ntype=RANKING",
           "press": "데일리안"
         }
       ],
       "related_titles": [
-        "정부, 증시 급락 우려에 ‘증안펀드’ 가동 준비… 불법 공매도 3개월간 집중 감시",
-        "나스닥 폭락에 또 검은 월요일?…\"증시 공포 이미 금융위기 수준\"",
-        "정부, 증시 급락에 18년 만에 '증시안정 펀드' 준비",
-        "증시 급락 우려에 ‘증안펀드’ 준비…시행되면 6년만에 발동",
-        "\"실적은 오르는데 주가는 뚝\"…외인 매도세가 관건, 코스피 5000~6100 [주간 증시 전망]"
+        "\"엔비디아 칩 밀수에 앨리스 황·캄보디아 범죄조직 얽혀\"",
+        "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
+        "“엔비디아 칩 중국 밀수망에 엘리스 황과 캄보디아 범죄기업 포함”",
+        "美가 막은 엔비디아 AI칩, 어떻게 中으로 흘러갔나",
+        "\"엔비디아 반도체 中밀수 의혹에 새 배후 등장…52세 중국인 사업가\""
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
       "keyword": "코스피",
-      "count": 7,
+      "count": 6,
       "representative_title": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
       "representative_link": "https://n.news.naver.com/article/648/0000052863?ntype=RANKING",
       "press": "비즈워치",
       "related_articles": [
         {
+          "title": "“코스피 최악엔 4000까지”…유안타證, 내년 전망 상단 1만→7300 대폭 하향",
+          "link": "https://n.news.naver.com/article/366/0001206550?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
           "title": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
           "link": "https://n.news.naver.com/article/648/0000052863?ntype=RANKING",
           "press": "비즈워치"
-        },
-        {
-          "title": "삼전닉스 반토막에도…“반도체 정점론 과해, 내년 코스피 8000 가능” [잘살아보세]",
-          "link": "https://n.news.naver.com/article/022/0004177114?ntype=RANKING",
-          "press": "세계일보"
-        },
-        {
-          "title": "美 반도체주 10% 폭락에 '검은 월요일' 우려…코스피 4700까지 밀리나",
-          "link": "https://n.news.naver.com/article/014/0005607817?ntype=RANKING",
-          "press": "파이낸셜뉴스"
         },
         {
           "title": "코스피 5000선 붕괴에 'F4' 긴급 소집…증안펀드 가동 준비",
@@ -276,146 +289,139 @@
           "press": "강원도민일보"
         },
         {
-          "title": "‘삼전닉스’ 빼면 죄다 비명…4800선 밀린 코스피, 시총 1조 클럽 26개 감소",
-          "link": "https://n.news.naver.com/article/029/0003060465?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "수출 1조달러인데 코스피 또 급락…장 열리자마자 파란불 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004177218?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "[증시전략] \"또 검은 월요일 오나\"…뉴욕증시 폭락에 코스피 초긴장",
+          "link": "https://n.news.naver.com/article/374/0000545170?ntype=RANKING",
+          "press": "SBS Biz"
         }
       ],
       "related_titles": [
+        "“코스피 최악엔 4000까지”…유안타證, 내년 전망 상단 1만→7300 대폭 하향",
         "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
-        "삼전닉스 반토막에도…“반도체 정점론 과해, 내년 코스피 8000 가능” [잘살아보세]",
-        "美 반도체주 10% 폭락에 '검은 월요일' 우려…코스피 4700까지 밀리나",
         "코스피 5000선 붕괴에 'F4' 긴급 소집…증안펀드 가동 준비",
-        "‘삼전닉스’ 빼면 죄다 비명…4800선 밀린 코스피, 시총 1조 클럽 26개 감소"
+        "수출 1조달러인데 코스피 또 급락…장 열리자마자 파란불 [숫자 뒤의 진실]",
+        "[증시전략] \"또 검은 월요일 오나\"…뉴욕증시 폭락에 코스피 초긴장"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "엔비디아",
-      "count": 6,
-      "representative_title": "\"엔비디아 칩 밀수에 앨리스 황·캄보디아 범죄조직 얽혀\"",
-      "representative_link": "https://n.news.naver.com/article/422/0000928781?ntype=RANKING",
-      "press": "연합뉴스TV",
+      "keyword": "급락",
+      "count": 4,
+      "representative_title": "블랙 먼데이 현실화?…삼전·하닉, 프리마켓 5~6%대 급락",
+      "representative_link": "https://n.news.naver.com/article/029/0003060529?ntype=RANKING",
+      "press": "디지털타임스",
       "related_articles": [
         {
-          "title": "'젠슨 황' 사로잡은 '앨리스 황' 그 뒤에는…엔비디아 칩 中밀수망 실세 따로 있었나",
-          "link": "https://n.news.naver.com/article/277/0005846040?ntype=RANKING",
-          "press": "아시아경제"
+          "title": "블랙 먼데이 현실화?…삼전·하닉, 프리마켓 5~6%대 급락",
+          "link": "https://n.news.naver.com/article/029/0003060529?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "\"엔비디아 칩 밀수에 앨리스 황·캄보디아 범죄조직 얽혀\"",
-          "link": "https://n.news.naver.com/article/422/0000928781?ntype=RANKING",
-          "press": "연합뉴스TV"
+          "title": "\"美반도체 폭락에…\" 프리마켓서 삼성전자·SK하닉 6% 동반 급락",
+          "link": "https://n.news.naver.com/article/003/0014338581?ntype=RANKING",
+          "press": "뉴시스"
         },
         {
-          "title": "'앨리스 황은 얼굴마담?'…엔비디아 칩 밀수 배후에 52세 중국인",
-          "link": "https://n.news.naver.com/article/374/0000545139?ntype=RANKING",
+          "title": "삼전·하이닉스 프리마켓서 약 6% 급락…美 반도체 폭락 여파",
+          "link": "https://n.news.naver.com/article/374/0000545191?ntype=RANKING",
           "press": "SBS Biz"
         },
         {
-          "title": "\"어머니가 너를 낙태했어야\" 젠슨 황, 엔비디아 직원 추가 폭로 나왔다",
-          "link": "https://n.news.naver.com/article/119/0003158034?ntype=RANKING",
-          "press": "데일리안"
+          "title": "블랙 먼데이 현실화?…삼전·하닉, 프리마켓 5~6%대 급락",
+          "link": "https://n.news.naver.com/article/029/0003060529?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "미국 규제당국 조사에 엔비디아 휘청... 주가 2주새 32% 하락",
-          "link": "https://n.news.naver.com/article/092/0002446344?ntype=RANKING",
-          "press": "지디넷코리아"
+          "title": "\"美반도체 폭락에…\" 프리마켓서 삼성전자·SK하닉 6% 동반 급락",
+          "link": "https://n.news.naver.com/article/003/0014338581?ntype=RANKING",
+          "press": "뉴시스"
         }
       ],
       "related_titles": [
-        "'젠슨 황' 사로잡은 '앨리스 황' 그 뒤에는…엔비디아 칩 中밀수망 실세 따로 있었나",
-        "\"엔비디아 칩 밀수에 앨리스 황·캄보디아 범죄조직 얽혀\"",
-        "'앨리스 황은 얼굴마담?'…엔비디아 칩 밀수 배후에 52세 중국인",
-        "\"어머니가 너를 낙태했어야\" 젠슨 황, 엔비디아 직원 추가 폭로 나왔다",
-        "미국 규제당국 조사에 엔비디아 휘청... 주가 2주새 32% 하락"
+        "블랙 먼데이 현실화?…삼전·하닉, 프리마켓 5~6%대 급락",
+        "\"美반도체 폭락에…\" 프리마켓서 삼성전자·SK하닉 6% 동반 급락",
+        "삼전·하이닉스 프리마켓서 약 6% 급락…美 반도체 폭락 여파",
+        "블랙 먼데이 현실화?…삼전·하닉, 프리마켓 5~6%대 급락",
+        "\"美반도체 폭락에…\" 프리마켓서 삼성전자·SK하닉 6% 동반 급락"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "삼전닉스",
-      "count": 4,
-      "representative_title": "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
-      "representative_link": "https://n.news.naver.com/article/015/0005356800?ntype=RANKING",
-      "press": "한국경제",
+      "keyword": "테슬라",
+      "count": 3,
+      "representative_title": "테슬라 FSD 14.2 라이트, 버스전용차로 진입 시도 0번[카미경]",
+      "representative_link": "https://n.news.naver.com/article/293/0000093644?ntype=RANKING",
+      "press": "블로터",
       "related_articles": [
         {
-          "title": "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
-          "link": "https://n.news.naver.com/article/015/0005356800?ntype=RANKING",
-          "press": "한국경제"
+          "title": "“테슬라, 왜 이렇게 많이 보이냐” 했더니…결국 씁쓸한 최고 기록 찍었다",
+          "link": "https://n.news.naver.com/article/016/0002726682?ntype=RANKING",
+          "press": "헤럴드경제"
         },
         {
-          "title": "삼전닉스 무너지자 오천피 붕괴… '금리 변수'까지 만난 국장 반등할까 [주간 증시해설서]",
-          "link": "https://n.news.naver.com/article/665/0000008613?ntype=RANKING",
-          "press": "더스쿠프"
+          "title": "한국서 테슬라 불티나게 팔리자 웃는 중국…대중 車 무역적자 '역대 최대'",
+          "link": "https://n.news.naver.com/article/138/0002249485?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
-          "link": "https://n.news.naver.com/article/015/0005356800?ntype=RANKING",
-          "press": "한국경제"
+          "title": "테슬라 FSD 14.2 라이트, 버스전용차로 진입 시도 0번[카미경]",
+          "link": "https://n.news.naver.com/article/293/0000093644?ntype=RANKING",
+          "press": "블로터"
         },
         {
-          "title": "삼전닉스 무너지자 오천피 붕괴… '금리 변수'까지 만난 국장 반등할까 [주간 증시해설서]",
-          "link": "https://n.news.naver.com/article/665/0000008613?ntype=RANKING",
-          "press": "더스쿠프"
+          "title": "“테슬라, 왜 이렇게 많이 보이냐” 했더니…결국 씁쓸한 최고 기록 찍었다",
+          "link": "https://n.news.naver.com/article/016/0002726682?ntype=RANKING",
+          "press": "헤럴드경제"
         },
         {
-          "title": "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
-          "link": "https://n.news.naver.com/article/015/0005356800?ntype=RANKING",
-          "press": "한국경제"
+          "title": "한국서 테슬라 불티나게 팔리자 웃는 중국…대중 車 무역적자 '역대 최대'",
+          "link": "https://n.news.naver.com/article/138/0002249485?ntype=RANKING",
+          "press": "디지털데일리"
         }
       ],
       "related_titles": [
-        "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
-        "삼전닉스 무너지자 오천피 붕괴… '금리 변수'까지 만난 국장 반등할까 [주간 증시해설서]",
-        "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]",
-        "삼전닉스 무너지자 오천피 붕괴… '금리 변수'까지 만난 국장 반등할까 [주간 증시해설서]",
-        "'삼전닉스 폭락은 양반'…대박 터지고도 개미들 울린 종목 [한경우의 돈 되는 데이터]"
+        "“테슬라, 왜 이렇게 많이 보이냐” 했더니…결국 씁쓸한 최고 기록 찍었다",
+        "한국서 테슬라 불티나게 팔리자 웃는 중국…대중 車 무역적자 '역대 최대'",
+        "테슬라 FSD 14.2 라이트, 버스전용차로 진입 시도 0번[카미경]",
+        "“테슬라, 왜 이렇게 많이 보이냐” 했더니…결국 씁쓸한 최고 기록 찍었다",
+        "한국서 테슬라 불티나게 팔리자 웃는 중국…대중 車 무역적자 '역대 최대'"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "반등",
-      "count": 4,
-      "representative_title": "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
-      "representative_link": "https://n.news.naver.com/article/014/0005607892?ntype=RANKING",
-      "press": "파이낸셜뉴스",
+      "keyword": "하이닉스",
+      "count": 3,
+      "representative_title": "“손정의, 하이닉스 1조달러에 인수 검토”… SK측 “아는바 없다”",
+      "representative_link": "https://n.news.naver.com/article/020/0003764257?ntype=RANKING",
+      "press": "동아일보",
       "related_articles": [
         {
-          "title": "개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까?",
-          "link": "https://n.news.naver.com/article/008/0005444613?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "“손정의, 하이닉스 1조달러에 인수 검토”… SK측 “아는바 없다”",
+          "link": "https://n.news.naver.com/article/020/0003764257?ntype=RANKING",
+          "press": "동아일보"
         },
         {
-          "title": "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
-          "link": "https://n.news.naver.com/article/014/0005607892?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "“손정의, 하이닉스 1조달러에 인수 검토”… SK측 “아는바 없다”",
+          "link": "https://n.news.naver.com/article/020/0003764257?ntype=RANKING",
+          "press": "동아일보"
         },
         {
-          "title": "개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까?",
-          "link": "https://n.news.naver.com/article/008/0005444613?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
-          "link": "https://n.news.naver.com/article/014/0005607892?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        },
-        {
-          "title": "개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까?",
-          "link": "https://n.news.naver.com/article/008/0005444613?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "“손정의, 하이닉스 1조달러에 인수 검토”… SK측 “아는바 없다”",
+          "link": "https://n.news.naver.com/article/020/0003764257?ntype=RANKING",
+          "press": "동아일보"
         }
       ],
       "related_titles": [
-        "개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까?",
-        "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
-        "개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까?",
-        "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
-        "개미들 계좌 파랗게 질렸는데…증권가 \"낙폭 과도\" 반등 기대해도 될까?"
+        "“손정의, 하이닉스 1조달러에 인수 검토”… SK측 “아는바 없다”",
+        "“손정의, 하이닉스 1조달러에 인수 검토”… SK측 “아는바 없다”",
+        "“손정의, 하이닉스 1조달러에 인수 검토”… SK측 “아는바 없다”"
       ],
       "category": "주식/코인"
     }
@@ -425,7 +431,7 @@
       "rank": 1,
       "keyword": "정권",
       "series_title": "정권의 몰락",
-      "count": 6,
+      "count": 7,
       "representative_title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
       "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
       "press": "",
@@ -580,14 +586,19 @@
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 6,
+      "count": 8,
       "representative_title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
       "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "집값 격차 줄었다?…서울 '저가 아파트' 더 비싸졌다 [시장톡]",
+          "title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NEpOTFBfdjh3b1hYZEkwUTE2RXRnNlVkbnpRa21yNlN3MnRxOEVvRG01N2RhTkZRTWg0YjBvS3dLZTAtTWpQUkxUVVpjMkp3Tm9FdmdBZzdwSVVxUmFSV1NnbEZuelB1UFE?oc=5",
           "press": ""
         },
         {
@@ -604,38 +615,33 @@
           "title": "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHpabUF2aDlQdFRZUXh2eWF5S3I3X1dScjlLMVdnbnRyRWo0WGZlcG9EMDNZSHM1QVg0MkRPRXotX0MxSGRiREs2eVZEYzFaMHdROTU0MllCU0hTVE1rZ25OVWNCZGlqX3RGeFRKZF9JZ1p4Ukt6UmVMLWZmS0lTVQ?oc=5",
           "press": ""
-        },
-        {
-          "title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
-          "press": ""
         }
       ],
       "related_titles": [
-        "집값 격차 줄었다?…서울 '저가 아파트' 더 비싸졌다 [시장톡]",
+        "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+        "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
         "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
         "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
-        "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
-        "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’"
+        "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]"
       ],
       "category": "부동산"
     },
     {
       "rank": 2,
-      "keyword": "강남",
+      "keyword": "경기",
       "count": 3,
-      "representative_title": "강남3구·마용성 식는데 성북·중랑은 상승… 엇갈린 아파트값이 말하는 것 [주말 Q&amp;A]",
-      "representative_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kakVYemJzaGxGeFVKNDdhc0VNekQ2SV9wWEF4ZS1qU29KNzdUSzNCeXNiem1jMDM3X2ZIVEFYeWdVZFE2TWNDNUZuTTZnRW40alNDcjNhTnp4N2tqU0dtd0g2SC1iQ2ZaUnYtWEtn?oc=5",
+      "representative_title": "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률",
+      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnVUUkFvNjFKUlhvZGpYdlZrMUZCQ0dIYUlsQ0syYmlISjJsX1Bsb0dfdVVpeTk2blVmUmw4Y2NIUHpGM0RncjJ5UW91eW1LdEdPc3hEYmZ6OXFhV0kxTEFUa2NOSDhKQlllakF2b2VISUVTWERjQnlwajlobzVlZFJQdHdfMEpT?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "강남3구·마용성 식는데 성북·중랑은 상승… 엇갈린 아파트값이 말하는 것 [주말 Q&amp;A]",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kakVYemJzaGxGeFVKNDdhc0VNekQ2SV9wWEF4ZS1qU29KNzdUSzNCeXNiem1jMDM3X2ZIVEFYeWdVZFE2TWNDNUZuTTZnRW40alNDcjNhTnp4N2tqU0dtd0g2SC1iQ2ZaUnYtWEtn?oc=5",
+          "title": "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnVUUkFvNjFKUlhvZGpYdlZrMUZCQ0dIYUlsQ0syYmlISjJsX1Bsb0dfdVVpeTk2blVmUmw4Y2NIUHpGM0RncjJ5UW91eW1LdEdPc3hEYmZ6OXFhV0kxTEFUa2NOSDhKQlllakF2b2VISUVTWERjQnlwajlobzVlZFJQdHdfMEpT?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "강남3구·마용성 식는데 성북·중랑은 상승… 엇갈린 아파트값이 말하는 것 [주말 Q&amp;A]"
+        "10월 경기 집값, 서울보다 많이 올라... 2021년 이후 최고 상승률"
       ],
       "category": "부동산"
     }
