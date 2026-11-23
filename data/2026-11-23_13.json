@@ -1,0 +1,642 @@
+{
+  "date": "2026-11-23",
+  "hour": "13",
+  "slot": "2026-11-23_13",
+  "crawled_at": "2026-11-23 13:00:02",
+  "total_articles": 395,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "아들",
+      "count": 29,
+      "representative_title": "성인 된 이부진 아들, 어머니 姓으로 바꿨다",
+      "representative_link": "https://n.news.naver.com/article/023/0004011154?ntype=RANKING",
+      "press": "조선일보",
+      "related_articles": [
+        {
+          "title": "이부진 아들, 성인 되자 어머니 성 택했다…‘임’씨서 ‘이’씨로",
+          "link": "https://n.news.naver.com/article/016/0002727042?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "이부진 아들, 성인 되고 어머니 성으로 바꿨다",
+          "link": "https://n.news.naver.com/article/366/0001206584?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "이부진 사장 아들, 어머니 姓 따라 ‘임씨→이씨’로 변경",
+          "link": "https://n.news.naver.com/article/666/0000133305?ntype=RANKING",
+          "press": "경기일보"
+        },
+        {
+          "title": "서울대 간 이부진 아들, 李씨 됐다…어머니 성으로 변경",
+          "link": "https://n.news.naver.com/article/025/0003567147?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "이부진 아들, 어머니 성 따라 '임씨→이씨'로 바꿨다",
+          "link": "https://n.news.naver.com/article/014/0005608116?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        }
+      ],
+      "related_titles": [
+        "이부진 아들, 성인 되자 어머니 성 택했다…‘임’씨서 ‘이’씨로",
+        "이부진 아들, 성인 되고 어머니 성으로 바꿨다",
+        "이부진 사장 아들, 어머니 姓 따라 ‘임씨→이씨’로 변경",
+        "서울대 간 이부진 아들, 李씨 됐다…어머니 성으로 변경",
+        "이부진 아들, 어머니 성 따라 '임씨→이씨'로 바꿨다"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 2,
+      "keyword": "코스피",
+      "count": 23,
+      "representative_title": "코스피 또 급락…4715선 무너졌다",
+      "representative_link": "https://n.news.naver.com/article/050/0000113602?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "코스피 날개 없는 추락…정부, 18년 만에 증안펀드 꺼내나",
+          "link": "https://n.news.naver.com/article/586/0000142822?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "수출 1조달러인데 코스피 또 급락…장 열리자마자 파란불 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004177218?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "한미 증시 도미노 급락속 또 출렁…코스피, 연초 수준으로 '뚝'",
+          "link": "https://n.news.naver.com/article/001/0016457697?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[속보] 코스피 5%대 급락…매도 사이드카 발동",
+          "link": "https://n.news.naver.com/article/001/0016457925?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "코스피 장중 4%대 하락해 4700선 깨져…코스닥은 연저점 갱신",
+          "link": "https://n.news.naver.com/article/374/0000545221?ntype=RANKING",
+          "press": "SBS Biz"
+        }
+      ],
+      "related_titles": [
+        "코스피 날개 없는 추락…정부, 18년 만에 증안펀드 꺼내나",
+        "수출 1조달러인데 코스피 또 급락…장 열리자마자 파란불 [숫자 뒤의 진실]",
+        "한미 증시 도미노 급락속 또 출렁…코스피, 연초 수준으로 '뚝'",
+        "[속보] 코스피 5%대 급락…매도 사이드카 발동",
+        "코스피 장중 4%대 하락해 4700선 깨져…코스닥은 연저점 갱신"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 3,
+      "keyword": "조희대",
+      "count": 17,
+      "representative_title": "조희대 탄핵 결정한 민주당, 최선의 시나리오는?",
+      "representative_link": "https://n.news.naver.com/article/047/0002536809?ntype=RANKING",
+      "press": "오마이뉴스",
+      "related_articles": [
+        {
+          "title": "전국법관대표회의 의장 “조희대 탄핵 도 넘어…법관들도 행동 나서야”",
+          "link": "https://n.news.naver.com/article/056/0012298994?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "[단독] 전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야”",
+          "link": "https://n.news.naver.com/article/028/0002833425?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "\"조희대 탄핵 후퇴 없다\"...\"정권 자폭 탄핵\"",
+          "link": "https://n.news.naver.com/article/052/0002436660?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "전직 변협·지방변회장 33명 \"조희대 탄핵 추진 우려…사법부 독립 존중해야\"",
+          "link": "https://n.news.naver.com/article/586/0000142832?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "조희대 탄핵하면, 그다음엔?... 전합 선고 지연, 내란 재판 차질, 법관들 집단반발까지",
+          "link": "https://n.news.naver.com/article/469/0000967153?ntype=RANKING",
+          "press": "한국일보"
+        }
+      ],
+      "related_titles": [
+        "전국법관대표회의 의장 “조희대 탄핵 도 넘어…법관들도 행동 나서야”",
+        "[단독] 전국법관대표회의 의장 “조희대 탄핵소추 땐 법관들 행동 나서야”",
+        "\"조희대 탄핵 후퇴 없다\"...\"정권 자폭 탄핵\"",
+        "전직 변협·지방변회장 33명 \"조희대 탄핵 추진 우려…사법부 독립 존중해야\"",
+        "조희대 탄핵하면, 그다음엔?... 전합 선고 지연, 내란 재판 차질, 법관들 집단반발까지"
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 4,
+      "keyword": "탄핵",
+      "count": 17,
+      "representative_title": "법관회의 의장 \"曺탄핵 도 넘어…의결한다면 우리도 행동 나서야\"",
+      "representative_link": "https://n.news.naver.com/article/448/0000652697?ntype=RANKING",
+      "press": "TV조선",
+      "related_articles": [
+        {
+          "title": "전국법관대표회의 의장 \"대법원장 탄핵 도 넘어‥침묵으로 방관 안 돼\"",
+          "link": "https://n.news.naver.com/article/214/0001537326?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "박형수 “이 대통령 탄핵감 맞지만 우리가 탄핵 언급하는 것 자제해야” [정치시그널]",
+          "link": "https://n.news.naver.com/article/449/0000368356?ntype=RANKING",
+          "press": "채널A"
+        },
+        {
+          "title": "법관회의 의장 \"曺탄핵 도 넘어…의결한다면 우리도 행동 나서야\"",
+          "link": "https://n.news.naver.com/article/448/0000652697?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "장동혁 \"조 대법원장 탄핵은 정권 자폭\", 민주당 \"12월 안으로 탄핵 의결\"",
+          "link": "https://n.news.naver.com/article/657/0000057737?ntype=RANKING",
+          "press": "대구MBC"
+        }
+      ],
+      "related_titles": [
+        "전국법관대표회의 의장 \"대법원장 탄핵 도 넘어‥침묵으로 방관 안 돼\"",
+        "박형수 “이 대통령 탄핵감 맞지만 우리가 탄핵 언급하는 것 자제해야” [정치시그널]",
+        "법관회의 의장 \"曺탄핵 도 넘어…의결한다면 우리도 행동 나서야\"",
+        "장동혁 \"조 대법원장 탄핵은 정권 자폭\", 민주당 \"12월 안으로 탄핵 의결\""
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 5,
+      "keyword": "수능",
+      "count": 13,
+      "representative_title": "아빠가 입혀준 발열 조끼에 수능 퇴실…선생님들도 '울먹'",
+      "representative_link": "https://n.news.naver.com/article/015/0005356906?ntype=RANKING",
+      "press": "한국경제",
+      "related_articles": [
+        {
+          "title": "[단독] “110만원이요”…AI 안경도 구식, 수능 전 이미 새 장비 거래됐나",
+          "link": "https://n.news.naver.com/article/028/0002833427?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "[단독] 교육청, 이진우 '수능 시험지' 반출 법리검토 경찰에 요청",
+          "link": "https://n.news.naver.com/article/052/0002436689?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "아빠가 입혀준 발열 조끼에 수능 퇴실…선생님들도 '울먹'",
+          "link": "https://n.news.naver.com/article/015/0005356906?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "“AI 부정행위 잡겠다더니”…작년 수능 시험지 60~70% 이미 폐기",
+          "link": "https://n.news.naver.com/article/666/0000133289?ntype=RANKING",
+          "press": "경기일보"
+        },
+        {
+          "title": "출소 반년 만 ‘1등급’ 이진우…“2023년 수능, 외부 공범 가능성”",
+          "link": "https://n.news.naver.com/article/025/0003566984?ntype=RANKING",
+          "press": "중앙일보"
+        }
+      ],
+      "related_titles": [
+        "[단독] “110만원이요”…AI 안경도 구식, 수능 전 이미 새 장비 거래됐나",
+        "[단독] 교육청, 이진우 '수능 시험지' 반출 법리검토 경찰에 요청",
+        "아빠가 입혀준 발열 조끼에 수능 퇴실…선생님들도 '울먹'",
+        "“AI 부정행위 잡겠다더니”…작년 수능 시험지 60~70% 이미 폐기",
+        "출소 반년 만 ‘1등급’ 이진우…“2023년 수능, 외부 공범 가능성”"
+      ],
+      "category": "산업/테크"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "코스피",
+      "count": 23,
+      "representative_title": "코스피 또 급락…4715선 무너졌다",
+      "representative_link": "https://n.news.naver.com/article/050/0000113602?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "코스피 날개 없는 추락…정부, 18년 만에 증안펀드 꺼내나",
+          "link": "https://n.news.naver.com/article/586/0000142822?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "수출 1조달러인데 코스피 또 급락…장 열리자마자 파란불 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004177218?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "한미 증시 도미노 급락속 또 출렁…코스피, 연초 수준으로 '뚝'",
+          "link": "https://n.news.naver.com/article/001/0016457697?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[속보] 코스피 5%대 급락…매도 사이드카 발동",
+          "link": "https://n.news.naver.com/article/001/0016457925?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "코스피 장중 4%대 하락해 4700선 깨져…코스닥은 연저점 갱신",
+          "link": "https://n.news.naver.com/article/374/0000545221?ntype=RANKING",
+          "press": "SBS Biz"
+        }
+      ],
+      "related_titles": [
+        "코스피 날개 없는 추락…정부, 18년 만에 증안펀드 꺼내나",
+        "수출 1조달러인데 코스피 또 급락…장 열리자마자 파란불 [숫자 뒤의 진실]",
+        "한미 증시 도미노 급락속 또 출렁…코스피, 연초 수준으로 '뚝'",
+        "[속보] 코스피 5%대 급락…매도 사이드카 발동",
+        "코스피 장중 4%대 하락해 4700선 깨져…코스닥은 연저점 갱신"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "급락",
+      "count": 10,
+      "representative_title": "골드만삭스, 미국증시 주간 10% 급락 \"매력적 매수 기회\"",
+      "representative_link": "https://n.news.naver.com/article/243/0000106050?ntype=RANKING",
+      "press": "이코노미스트",
+      "related_articles": [
+        {
+          "title": "골드만삭스, 미국증시 주간 10% 급락 \"매력적 매수 기회\"",
+          "link": "https://n.news.naver.com/article/243/0000106050?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "'증시 급락'에도 '삼전닉스' 산다...반도체 ETF 매수 지속세",
+          "link": "https://n.news.naver.com/article/123/0002394595?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "삼전하닉 급락…美 반도체 11% 폭락, 무슨 악재 겹쳤나 [칩칩폭폭]",
+          "link": "https://n.news.naver.com/article/123/0002394600?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "'증시 급락'에도 '삼전닉스' 산다...반도체 ETF 매수 지속세",
+          "link": "https://n.news.naver.com/article/123/0002394595?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "삼전하닉 급락…美 반도체 11% 폭락, 무슨 악재 겹쳤나 [칩칩폭폭]",
+          "link": "https://n.news.naver.com/article/123/0002394600?ntype=RANKING",
+          "press": "조세일보"
+        }
+      ],
+      "related_titles": [
+        "골드만삭스, 미국증시 주간 10% 급락 \"매력적 매수 기회\"",
+        "'증시 급락'에도 '삼전닉스' 산다...반도체 ETF 매수 지속세",
+        "삼전하닉 급락…美 반도체 11% 폭락, 무슨 악재 겹쳤나 [칩칩폭폭]",
+        "'증시 급락'에도 '삼전닉스' 산다...반도체 ETF 매수 지속세",
+        "삼전하닉 급락…美 반도체 11% 폭락, 무슨 악재 겹쳤나 [칩칩폭폭]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "폭락",
+      "count": 4,
+      "representative_title": "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
+      "representative_link": "https://n.news.naver.com/article/011/0004684912?ntype=RANKING",
+      "press": "서울경제",
+      "related_articles": [
+        {
+          "title": "“코인·금 동반 폭락”…수익률 꼴찌인데, 지금이 가장 싸다? [잇슈 머니]",
+          "link": "https://n.news.naver.com/article/056/0012298941?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
+          "link": "https://n.news.naver.com/article/011/0004684912?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "\"민주당 때문에 시총 8,000조 증발\"…또 증시 폭락 책임 돌린 트럼프",
+          "link": "https://n.news.naver.com/article/057/0001979406?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
+          "link": "https://n.news.naver.com/article/011/0004684912?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "\"민주당 때문에 시총 8,000조 증발\"…또 증시 폭락 책임 돌린 트럼프",
+          "link": "https://n.news.naver.com/article/057/0001979406?ntype=RANKING",
+          "press": "MBN"
+        }
+      ],
+      "related_titles": [
+        "“코인·금 동반 폭락”…수익률 꼴찌인데, 지금이 가장 싸다? [잇슈 머니]",
+        "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
+        "\"민주당 때문에 시총 8,000조 증발\"…또 증시 폭락 책임 돌린 트럼프",
+        "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
+        "\"민주당 때문에 시총 8,000조 증발\"…또 증시 폭락 책임 돌린 트럼프"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "매수",
+      "count": 4,
+      "representative_title": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점",
+      "representative_link": "https://n.news.naver.com/article/648/0000052879?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "한 돈 100만원 넘게 주고 샀는데…금값 폭락에 개미 ‘저가 매수’ 중",
+          "link": "https://n.news.naver.com/article/009/0005767501?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점",
+          "link": "https://n.news.naver.com/article/648/0000052879?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "한 돈 100만원 넘게 주고 샀는데…금값 폭락에 개미 ‘저가 매수’ 중",
+          "link": "https://n.news.naver.com/article/009/0005767501?ntype=RANKING",
+          "press": "매일경제"
+        },
+        {
+          "title": "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점",
+          "link": "https://n.news.naver.com/article/648/0000052879?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "한 돈 100만원 넘게 주고 샀는데…금값 폭락에 개미 ‘저가 매수’ 중",
+          "link": "https://n.news.naver.com/article/009/0005767501?ntype=RANKING",
+          "press": "매일경제"
+        }
+      ],
+      "related_titles": [
+        "한 돈 100만원 넘게 주고 샀는데…금값 폭락에 개미 ‘저가 매수’ 중",
+        "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점",
+        "한 돈 100만원 넘게 주고 샀는데…금값 폭락에 개미 ‘저가 매수’ 중",
+        "폭락한 나스닥, 지금 사도 될까?…AI가 본 매수 시점",
+        "한 돈 100만원 넘게 주고 샀는데…금값 폭락에 개미 ‘저가 매수’ 중"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "엔비디아",
+      "count": 3,
+      "representative_title": "\"앨리스 황, 캄보디아 범죄조직과 연루\"…엔비디아 칩 중국 밀반입 의혹",
+      "representative_link": "https://n.news.naver.com/article/417/0001165221?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "\"앨리스 황, 캄보디아 범죄조직과 연루\"…엔비디아 칩 중국 밀반입 의혹",
+          "link": "https://n.news.naver.com/article/417/0001165221?ntype=RANKING",
+          "press": "동행미디어 시대"
+        },
+        {
+          "title": "젠슨 황 해임 결정타 \"불륜보다 거짓말\"...엔비디아 이사회 \"신뢰 무너져\"",
+          "link": "https://n.news.naver.com/article/655/0000033654?ntype=RANKING",
+          "press": "CJB청주방송"
+        },
+        {
+          "title": "젠슨 황 해임 결정타 \"불륜보다 거짓말\"...엔비디아 이사회 \"신뢰 무너져\"",
+          "link": "https://n.news.naver.com/article/655/0000033654?ntype=RANKING",
+          "press": "CJB청주방송"
+        },
+        {
+          "title": "\"앨리스 황, 캄보디아 범죄조직과 연루\"…엔비디아 칩 중국 밀반입 의혹",
+          "link": "https://n.news.naver.com/article/417/0001165221?ntype=RANKING",
+          "press": "동행미디어 시대"
+        },
+        {
+          "title": "\"앨리스 황, 캄보디아 범죄조직과 연루\"…엔비디아 칩 중국 밀반입 의혹",
+          "link": "https://n.news.naver.com/article/417/0001165221?ntype=RANKING",
+          "press": "동행미디어 시대"
+        }
+      ],
+      "related_titles": [
+        "\"앨리스 황, 캄보디아 범죄조직과 연루\"…엔비디아 칩 중국 밀반입 의혹",
+        "젠슨 황 해임 결정타 \"불륜보다 거짓말\"...엔비디아 이사회 \"신뢰 무너져\"",
+        "젠슨 황 해임 결정타 \"불륜보다 거짓말\"...엔비디아 이사회 \"신뢰 무너져\"",
+        "\"앨리스 황, 캄보디아 범죄조직과 연루\"…엔비디아 칩 중국 밀반입 의혹",
+        "\"앨리스 황, 캄보디아 범죄조직과 연루\"…엔비디아 칩 중국 밀반입 의혹"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 7,
+      "representative_title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HX3VvZUJfVWp2S2IxUzdPN0VPb3VGcHZjQWtEUVo5czNWWVpGNjBvMVl1ZEVGRjlhTVFQZ2MtdHU3akY3OW1rTG1jS3QwSG1Idjctdi1jZ2hMZDh3NmF1bk1ROU94OTBkcnfSAW5BVV95cUxNUm9pdEk5TVROTV9mcHhNNmx1YlNpRDNKQzNzQVZmbE9QXzd4OGE3QndHc01nUzd1d2VFdzZpejgydkZjbF9OT1p1V1hpMnNseENaQVppQTZGVlhFcklHMDRnM0tXU2ZtT0c5OFhxUQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[TV자유일보] 李 정권 몰락 ‘신호탄’ 李, 판도라 상자 열었",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6b0VnVENDU0dYWDYtbGRaMkRtRjBfZHJCam5PTE9VWS1NWmNaZFRzdjBMR3EzbE41cXVqTnFVcnhxV1lkNlZZT3ZHQzhLb2tBd0Z5d1BWWmxoNVp3dk9sMlh6SXNkR2RKcWlR0gFvQVVfeXFMTVcxZjZEaHFFSnFRMFIyRmpDUnMyb1FlN1hJYUVQeS1sTDR2RFJYelNONDVVeEY3VUJBLXJwU1JhUVEyRXdaalZhYkVQbjlOb1RUYXlsTFRiLWJ1aXZ1YVRYUFRPcXVJWjlNM19NN1A0?oc=5",
+          "press": ""
+        },
+        {
+          "title": "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lYVJ5dHJEWnlKaHlKbnByRU9fOUFMMDRNTlptUE0tUldxeTVJcVRVVHdnWDN0dVA2UnM4Q2RvOTRoUXlMU2FDQ1F6WGlZSWJYRmRtbXZEdHDSAVRBVV95cUxQQ2pZcXlFc1Bhbm5QSUhiTW1za3BpYURrc1hEa2VqVVdSMVhQdEc4US04a013ckRzdVlVWXJxSURRaGZ5dW5ld0xkbXRPWXhQUTcwVGw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MTVM3NDYtY2pRMFc5c1NHTmo0dExvSC0za2Q0aUs4R2VZQVdkbG9fM09IUUlYa0VHTkFiM1pkMUVITlpfd3ZSZTBBamZIb1IySkF1bmVGcmM0czFiN1NnT3FUOWJkMnl4ZUpFVWtZNNIBc0FVX3lxTE5FQ000Nzk4WDIwVW5TaVNjUkV4VHpRU2hpTmxuM01LczIwM0E0WlhFclNZSmMycDhlNnFVR0xTMG5XcGpPLTZjS005SnNkb2FBLXdTQnNmRXkwVF9jWUFUNFVYelV5RklIaGg0R1N6TENOZFU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
+        "[TV자유일보] 李 정권 몰락 ‘신호탄’ 李, 판도라 상자 열었",
+        "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
+        "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
+        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\""
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "젠슨",
+      "series_title": "젠슨의 몰락",
+      "count": 5,
+      "representative_title": "[태평로] 젠슨 황의 몰락이 던지는 질문",
+      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1FTjFHLWVtbXNDNzJMMy1YTWx4QTJTLWJRbS1ScWlQOXpuVE5wc0Q0LUFnZEd1OGt6QzEzbWlTRVVSZkpDN0VPVHJIU0p5c2V3Nm9FdGd1LUJMT0dFM1ZrMGhLSmJQMDBUYlpkM1JjQWRmaTk5Q3RzUVd4OHJLcUdqeDE3dHRr?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[태평로] 젠슨 황의 몰락이 던지는 질문",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1FTjFHLWVtbXNDNzJMMy1YTWx4QTJTLWJRbS1ScWlQOXpuVE5wc0Q0LUFnZEd1OGt6QzEzbWlTRVVSZkpDN0VPVHJIU0p5c2V3Nm9FdGd1LUJMT0dFM1ZrMGhLSmJQMDBUYlpkM1JjQWRmaTk5Q3RzUVd4OHJLcUdqeDE3dHRr?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[NVIDIA ‘젠슨 황’ 미스터리 1] 가죽 재킷 젠슨 황의 몰락 이유는? ‘그녀는 스파이 인가, 기업 사냥꾼인가’",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZTBSYzlkQzdNdjRBTzdvbHdIYktDZF91SXowMFZDQkxETnN3eTVuTVdscTZpeHNHZi1DUzhycThqd0RZelM1dHpJXzBhbHBqcWhtVWd5djh4REUxelVqR3VuMmtmTTM3Mi1qMmNnX3VTZENIUzFaMXlaSVlCOE1RN3E1bDBad0gwQXhfVmo4SlN4VWtBWG04dmRDdU9zYTlOVzlIbmt3SXhrR1I2bnlDVlZSRmdUaEhFMUNGcXhaTEJJVnc5MV9FX1lzTFJIbUdiNV92emhueDF3MVY4ZEtDZDdPZ1RoWmJEcWs5UzliTkc0bWk1UlJLX25OczY4RWtwQjI4NkJ5cHBUVGlQN3ZLSmRLLS1wQndPZjFMTzFwaHVxaHlPaGR5RlhvVG1IbldBWHFDVVpXREFoSjhYREptYnBR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUh4TjN3aHF2ZTJsVkR2YmRUaG1ERk5sZllFaUVYSWdGMEt3RkhJMUtGMWxCRG1COUpGS0JHWnB2UGs2dTE5OTZTaldVZ2V1VHh6NWIwRkxtVzdUcFZ4UzVhTVFVSThpZXA3WnNsZUgxeERRY3o2MElBYWVxM0lkaTdn?oc=5",
+          "press": ""
+        },
+        {
+          "title": "젠슨 황의 몰락, 미·중 '거래의 시대'를 끝내다",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wOFE3aE5RZFM4NzVVSkZ5Z284Y242VWJJSGJSblhJMHhGU0FXbUJOLXpUZ3NVRkM4ZTZ2YXlDa2RhcS1YRWdrZTdrSmFKRGNTLU5pcjUtbnloM1gxSlFPZktKejE1bldkX1FEZTJ3?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'30일 후면 망한다'는 위기감으로 회사를 이끌던 젠슨 황의 몰락",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YOVk5ZGdfZmUzSXVFblJseTBCS0xacVNfeklQb0ZSQUwyYjFRYThYUWdwNU9hR1dqSHg4YUJ1ZTIwbkt5SFZhOFhZQUxKaXhHTklNS1N1ZUpTT3RjVGVOQ283YWE5enNWMTFtd0paM3g?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[태평로] 젠슨 황의 몰락이 던지는 질문",
+        "[NVIDIA ‘젠슨 황’ 미스터리 1] 가죽 재킷 젠슨 황의 몰락 이유는? ‘그녀는 스파이 인가, 기업 사냥꾼인가’",
+        "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+        "젠슨 황의 몰락, 미·중 '거래의 시대'를 끝내다",
+        "'30일 후면 망한다'는 위기감으로 회사를 이끌던 젠슨 황의 몰락"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "영웅",
+      "series_title": "영웅의 몰락",
+      "count": 2,
+      "representative_title": "[구정우칼럼] 영웅의 몰락, 최고 득점 신화 깨야 한다",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiU1I1S3drQXU4T3FjbF9MTzNTUXNzUThwTGYxVUdBdlV4a0dZN01RdDBjWDdubTNXQVV5Qm1vRjRkR1gxWm41TzdOcTZlbEdnYW9FNXlKMC3SAVRBVV95cUxOVVNxYmF0MHB3UUUtbTNrN2RLZXcwclhweG9UanczNFVXNXpUU2lZWGU0Z0VBVktPNnhPbnFaemdHMEsyVWk3b3dCek9VQXNwem0xWFA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[구정우칼럼] 영웅의 몰락, 최고 득점 신화 깨야 한다",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiU1I1S3drQXU4T3FjbF9MTzNTUXNzUThwTGYxVUdBdlV4a0dZN01RdDBjWDdubTNXQVV5Qm1vRjRkR1gxWm41TzdOcTZlbEdnYW9FNXlKMC3SAVRBVV95cUxOVVNxYmF0MHB3UUUtbTNrN2RLZXcwclhweG9UanczNFVXNXpUU2lZWGU0Z0VBVktPNnhPbnFaemdHMEsyVWk3b3dCek9VQXNwem0xWFA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "'미녀새' 이산바예바 망했다! 러시아서 배신자 낙인→11곳 계좌 동결…국민 영웅의 몰락, 대체 왜?",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zelhhaVdTMnFOeXdjXzZwRHdoYW1aUndSQVhuS2ZDMHNVQVRDdzlqdEtkeWZLRXpRZ2FkYnJreEhWOU9sVE4wczhiMV8wZ3VhTVp5Sg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[구정우칼럼] 영웅의 몰락, 최고 득점 신화 깨야 한다",
+        "'미녀새' 이산바예바 망했다! 러시아서 배신자 낙인→11곳 계좌 동결…국민 영웅의 몰락, 대체 왜?"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "골프",
+      "series_title": "골프의 몰락",
+      "count": 2,
+      "representative_title": "'LIV 골프의 몰락' 디섐보, DP월드투어 합류 확정",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRc2FiU0RYZzdES0VYamhFTFNFc3dENHJXNmlWOXJBNzJ3bF9sQmZFcjdvTktDaGZEVUhkcTNTLW1hOHVnSEtRWTFKTndOVFl5ZVVrUlluUzkyRWNHTGpMTA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'LIV 골프의 몰락' 디섐보, DP월드투어 합류 확정",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRc2FiU0RYZzdES0VYamhFTFNFc3dENHJXNmlWOXJBNzJ3bF9sQmZFcjdvTktDaGZEVUhkcTNTLW1hOHVnSEtRWTFKTndOVFl5ZVVrUlluUzkyRWNHTGpMTA?oc=5",
+          "press": ""
+        },
+        {
+          "title": "욘 람, LIV 골프 몰락 뒤 PGA 투어 복귀를 기다리는 마스터스 챔피언",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZ2M2NkN1VVNwRUdXbUhEN3J0MEhyOTN1U0llV21GeHZaMjhQQmRvN0cySkJPdzZzNU5zMmFDVUJhRzROMjI0VE1XYUFDMkVfWVF4YV9ac1R1Sk90ZThWTWJSNjR3eXduS0V3UExEWFRHR2wtSFdCcjQzUXJJenBwcjZKeVdrQlpwaDN4cVpZaTlRSEhaeURmY2FTVE41c2tKVGdnaW0xSDNTYlJTOXRFQURwd293U0pieExwNWRib1RRT3VrM0dKVXRaYVVKTFlxRFJUSFZmVlQ5NnVBN2RyX08xYjE0Q01KeTNMTXpyZm5wc2xublRxcUVhMWdqWjdJeTRrNGMzOGpKVW9KekgzMTY5TjlEWGQ1VXJjSQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'LIV 골프의 몰락' 디섐보, DP월드투어 합류 확정",
+        "욘 람, LIV 골프 몰락 뒤 PGA 투어 복귀를 기다리는 마스터스 챔피언"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "만점자",
+      "series_title": "만점자의 몰락",
+      "count": 1,
+      "representative_title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "만점자의 몰락이라는 희비극 [한겨레 프리즘]"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 6,
+      "representative_title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NEpOTFBfdjh3b1hYZEkwUTE2RXRnNlVkbnpRa21yNlN3MnRxOEVvRG01N2RhTkZRTWg0YjBvS3dLZTAtTWpQUkxUVVpjMkp3Tm9FdmdBZzdwSVVxUmFSV1NnbEZuelB1UFE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuTEhCak1yMVpCT1hyOHZZVUx5a2N1NnB5WTBzcVQ0WXdyUDVNTlgxaDBkUG1lQ0VoaEdwcllKSXNZZzduUlFSZU03S1BLWG5xb19jWQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcEg2OWFwOXk5aWRCU0dtWklDdzFsQ2NYWmgwT0tMX3JwNmxiVjFFV19TenZwVVQxVk5SclpVOUQ1UXVZU1FvU0ZVSkl0Z243R0FzUW04VlUyUdIBWEFVX3lxTE5uRmhZV1hkdV9WcUpaazZqM1dqMkN2elNtS1RoSnZrUXNoQXdxZncwa1d6SzJzcGVRSG9QeFhrM3BmR1l5cmc2ak96SU1NSjBkUFJ5UC1BcGU?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHpabUF2aDlQdFRZUXh2eWF5S3I3X1dScjlLMVdnbnRyRWo0WGZlcG9EMDNZSHM1QVg0MkRPRXotX0MxSGRiREs2eVZEYzFaMHdROTU0MllCU0hTVE1rZ25OVWNCZGlqX3RGeFRKZF9JZ1p4Ukt6UmVMLWZmS0lTVQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+        "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
+        "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
+        "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
+        "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
