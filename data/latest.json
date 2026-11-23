@@ -1,409 +1,391 @@
 {
-  "date": "2026-11-23",
-  "hour": "16",
-  "slot": "2026-11-23_16",
-  "crawled_at": "2026-11-23 16:00:02",
-  "total_articles": 401,
+  "date": "2026-11-24",
+  "hour": "07",
+  "slot": "2026-11-24_07",
+  "crawled_at": "2026-11-24 07:00:01",
+  "total_articles": 400,
   "topics": [
     {
       "rank": 1,
-      "keyword": "아들",
-      "count": 30,
-      "representative_title": "성인 된 이부진 아들, 어머니 姓으로 바꿨다",
-      "representative_link": "https://n.news.naver.com/article/023/0004011154?ntype=RANKING",
-      "press": "조선일보",
+      "keyword": "젠슨",
+      "count": 69,
+      "representative_title": "젠슨 황 엔비디아 CEO가 돌아왔다",
+      "representative_link": "https://n.news.naver.com/article/030/0003488805?ntype=RANKING",
+      "press": "전자신문",
       "related_articles": [
         {
-          "title": "서울대 간 이부진 아들, 엄마 성으로 변경...'임씨'에서 '이씨'로",
-          "link": "https://n.news.naver.com/article/437/0000521969?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "신라호텔 이부진 아들, ‘임씨→이씨’로 성본 변경",
-          "link": "https://n.news.naver.com/article/005/0001886800?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "이부진 호텔신라 사장 아들, 어머니 姓따라 임→이씨로 변경",
-          "link": "https://n.news.naver.com/article/001/0016457694?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "이부진 아들, 어머니 성으로 바꿨다…'임씨' 버리고 '이씨'로",
-          "link": "https://n.news.naver.com/article/421/0009304393?ntype=RANKING",
+          "title": "'스캔들' 젠슨 황, 11일 만에 전격 복귀…엔비디아 30% 폭등(종합2보)",
+          "link": "https://n.news.naver.com/article/421/0009305911?ntype=RANKING",
           "press": "뉴스1"
         },
         {
-          "title": "성인 된 이부진 아들, 어머니 姓으로 바꿨다",
-          "link": "https://n.news.naver.com/article/023/0004011154?ntype=RANKING",
-          "press": "조선일보"
+          "title": "\"젠슨 황 돌아왔다\"…엔비디아 주가 장 초반 30% 폭등(상보)",
+          "link": "https://n.news.naver.com/article/421/0009305908?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "뉴욕증시, 젠슨 황 CEO 복귀에 상승 출발…엔비디아 30% 가까이 폭등",
+          "link": "https://n.news.naver.com/article/003/0014340791?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "젠슨 황, 엔비디아 CEO 즉시 복귀…사임 11일 만(종합)",
+          "link": "https://n.news.naver.com/article/003/0014340820?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "젠슨 황, 남색 자켓 입고 엔비디아 첫 출근…\"이번엔 더 나은 CEO 되겠다\"",
+          "link": "https://n.news.naver.com/article/003/0014340837?ntype=RANKING",
+          "press": "뉴시스"
         }
       ],
       "related_titles": [
-        "서울대 간 이부진 아들, 엄마 성으로 변경...'임씨'에서 '이씨'로",
-        "신라호텔 이부진 아들, ‘임씨→이씨’로 성본 변경",
-        "이부진 호텔신라 사장 아들, 어머니 姓따라 임→이씨로 변경",
-        "이부진 아들, 어머니 성으로 바꿨다…'임씨' 버리고 '이씨'로",
-        "성인 된 이부진 아들, 어머니 姓으로 바꿨다"
+        "'스캔들' 젠슨 황, 11일 만에 전격 복귀…엔비디아 30% 폭등(종합2보)",
+        "\"젠슨 황 돌아왔다\"…엔비디아 주가 장 초반 30% 폭등(상보)",
+        "뉴욕증시, 젠슨 황 CEO 복귀에 상승 출발…엔비디아 30% 가까이 폭등",
+        "젠슨 황, 엔비디아 CEO 즉시 복귀…사임 11일 만(종합)",
+        "젠슨 황, 남색 자켓 입고 엔비디아 첫 출근…\"이번엔 더 나은 CEO 되겠다\""
       ],
-      "category": "사회/일반"
+      "category": "경제/투자"
     },
     {
       "rank": 2,
-      "keyword": "이부진",
-      "count": 28,
-      "representative_title": "\"성 바꿀래요\"...이부진 子, 성인 되자 '임씨→이씨' 변경",
-      "representative_link": "https://n.news.naver.com/article/119/0003158278?ntype=RANKING",
-      "press": "데일리안",
+      "keyword": "엔비디아",
+      "count": 59,
+      "representative_title": "[속보]젠슨황, 엔비디아 CEO 복귀…“빨리 일하고파”",
+      "representative_link": "https://n.news.naver.com/article/021/0002834925?ntype=RANKING",
+      "press": "문화일보",
       "related_articles": [
         {
-          "title": "\"성 바꿀래요\"...이부진 子, 성인 되자 '임씨→이씨' 변경",
-          "link": "https://n.news.naver.com/article/119/0003158278?ntype=RANKING",
-          "press": "데일리안"
+          "title": "젠슨황 돌아오자 엔비디아 30% 넘게 폭등…나스닥 6% '대반등'",
+          "link": "https://n.news.naver.com/article/018/0006414411?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "[속보]젠슨황, 엔비디아 CEO 복귀…“빨리 일하고파”",
+          "link": "https://n.news.naver.com/article/021/0002834925?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "젠슨황, 11일만에 엔비디아 CEO 전격복귀…이사회 \"안보위험 없다\"(종합2보)",
+          "link": "https://n.news.naver.com/article/001/0016459317?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "엔비디아 칩 밀수에 앨리스 황 앞세우고 캄보디아 프린스 조직 관여",
+          "link": "https://n.news.naver.com/article/057/0001979535?ntype=RANKING",
+          "press": "MBN"
         }
       ],
       "related_titles": [
-        "\"성 바꿀래요\"...이부진 子, 성인 되자 '임씨→이씨' 변경"
+        "젠슨황 돌아오자 엔비디아 30% 넘게 폭등…나스닥 6% '대반등'",
+        "[속보]젠슨황, 엔비디아 CEO 복귀…“빨리 일하고파”",
+        "젠슨황, 11일만에 엔비디아 CEO 전격복귀…이사회 \"안보위험 없다\"(종합2보)",
+        "엔비디아 칩 밀수에 앨리스 황 앞세우고 캄보디아 프린스 조직 관여"
       ],
       "category": "사회/일반"
     },
     {
       "rank": 3,
-      "keyword": "리트",
-      "count": 18,
-      "representative_title": "리트 만점자 故이진우 씨 유족 경찰 출석…수사 본격화",
-      "representative_link": "https://n.news.naver.com/article/658/0000161982?ntype=RANKING",
-      "press": "국제신문",
+      "keyword": "주가",
+      "count": 17,
+      "representative_title": "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
+      "representative_link": "https://n.news.naver.com/article/665/0000008632?ntype=RANKING",
+      "press": "더스쿠프",
       "related_articles": [
         {
-          "title": "환불 요구 쏟아지던 리트 만점자 책…중고가 20만원까지 등장",
-          "link": "https://n.news.naver.com/article/015/0005356869?ntype=RANKING",
-          "press": "한국경제"
+          "title": "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109840?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
-          "title": "'리트 만점자' 유족 경찰 출석…노트북 등 전자기기 확보되나",
-          "link": "https://n.news.naver.com/article/437/0000521983?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "리트 만점자 故이진우씨 유족 경찰 출석…증거물 제출 의사 확인",
-          "link": "https://n.news.naver.com/article/005/0001886832?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "리트 만점자 故이진우 유족 경찰 출석…의혹 수사 본격화",
-          "link": "https://n.news.naver.com/article/001/0016458114?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "'리트 만점자' 이진우 유족 경찰 출석… 과외 교사도 이번주 조사",
-          "link": "https://n.news.naver.com/article/421/0009304820?ntype=RANKING",
-          "press": "뉴스1"
+          "title": "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
+          "link": "https://n.news.naver.com/article/665/0000008632?ntype=RANKING",
+          "press": "더스쿠프"
         }
       ],
       "related_titles": [
-        "환불 요구 쏟아지던 리트 만점자 책…중고가 20만원까지 등장",
-        "'리트 만점자' 유족 경찰 출석…노트북 등 전자기기 확보되나",
-        "리트 만점자 故이진우씨 유족 경찰 출석…증거물 제출 의사 확인",
-        "리트 만점자 故이진우 유족 경찰 출석…의혹 수사 본격화",
-        "'리트 만점자' 이진우 유족 경찰 출석… 과외 교사도 이번주 조사"
+        "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
+        "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문"
       ],
       "category": "산업/테크"
     },
     {
       "rank": 4,
-      "keyword": "경찰",
-      "count": 18,
-      "representative_title": "'LEET 만점자' 故 이진우 유족 경찰 출석...수사 본격화",
-      "representative_link": "https://n.news.naver.com/article/660/0000121993?ntype=RANKING",
-      "press": "kbc광주방송",
+      "keyword": "만에",
+      "count": 16,
+      "representative_title": "위기 때도 지킨 금호미술관, 38년 만에 매물로",
+      "representative_link": "https://n.news.naver.com/article/293/0000093692?ntype=RANKING",
+      "press": "블로터",
       "related_articles": [
         {
-          "title": "스토킹 접근금지 풀리자 전 연인 둔기로 살해한 60대에 경찰, 보복살인죄 적용 검토",
-          "link": "https://n.news.naver.com/article/087/0001232677?ntype=RANKING",
+          "title": "[속보]음주운전 사고 고경표 “술 많이 마신 걸로 기억”···사고 9일 만에 경찰 출석",
+          "link": "https://n.news.naver.com/article/032/0003484493?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "롯데, 2년 만에 롯데월드타워 담보 해지…회사채 8000억 상환",
+          "link": "https://n.news.naver.com/article/123/0002394645?ntype=RANKING",
+          "press": "조세일보"
+        },
+        {
+          "title": "출생 10여일 만에 아들 주거지에 남겨두고 피시방·여행 등 다닌 20대 부부 중형 구형&#8943;특정 신체 부위 짓물러 구더기까지 발견돼",
+          "link": "https://n.news.naver.com/article/087/0001232763?ntype=RANKING",
           "press": "강원일보"
         },
         {
-          "title": "'LEET 만점자' 故 이진우 유족 경찰 출석...수사 본격화",
-          "link": "https://n.news.naver.com/article/660/0000121993?ntype=RANKING",
-          "press": "kbc광주방송"
+          "title": "‘위기설 방어막’ 롯데월드타워, 2년 만에 담보 풀렸다…롯데 재무개선 속도",
+          "link": "https://n.news.naver.com/article/138/0002249623?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "건물 지하 보일러실서 '미라화 시신' 발견...경찰 \"범죄 혐의점 낮아\"",
-          "link": "https://n.news.naver.com/article/655/0000033662?ntype=RANKING",
-          "press": "CJB청주방송"
-        },
-        {
-          "title": "경찰 ‘리얼돌 폐기’ 장윤기 부친 중징계…친족간 특례로 형사처벌은 피해",
-          "link": "https://n.news.naver.com/article/658/0000161976?ntype=RANKING",
-          "press": "국제신문"
+          "title": "위기 때도 지킨 금호미술관, 38년 만에 매물로",
+          "link": "https://n.news.naver.com/article/293/0000093692?ntype=RANKING",
+          "press": "블로터"
         }
       ],
       "related_titles": [
-        "스토킹 접근금지 풀리자 전 연인 둔기로 살해한 60대에 경찰, 보복살인죄 적용 검토",
-        "'LEET 만점자' 故 이진우 유족 경찰 출석...수사 본격화",
-        "건물 지하 보일러실서 '미라화 시신' 발견...경찰 \"범죄 혐의점 낮아\"",
-        "경찰 ‘리얼돌 폐기’ 장윤기 부친 중징계…친족간 특례로 형사처벌은 피해"
+        "[속보]음주운전 사고 고경표 “술 많이 마신 걸로 기억”···사고 9일 만에 경찰 출석",
+        "롯데, 2년 만에 롯데월드타워 담보 해지…회사채 8000억 상환",
+        "출생 10여일 만에 아들 주거지에 남겨두고 피시방·여행 등 다닌 20대 부부 중형 구형&#8943;특정 신체 부위 짓물러 구더기까지 발견돼",
+        "‘위기설 방어막’ 롯데월드타워, 2년 만에 담보 풀렸다…롯데 재무개선 속도",
+        "위기 때도 지킨 금호미술관, 38년 만에 매물로"
       ],
       "category": "사건/사고"
     },
     {
       "rank": 5,
-      "keyword": "조희대",
+      "keyword": "전격",
       "count": 14,
-      "representative_title": "민주당, 왜 지금일까…'조희대 탄핵'의 정치 셈법",
-      "representative_link": "https://n.news.naver.com/article/629/0000554580?ntype=RANKING",
-      "press": "더팩트",
+      "representative_title": "청와대 내부도 놀란 '전격 인사'‥전면 교체 배경은",
+      "representative_link": "https://n.news.naver.com/article/214/0001537473?ntype=RANKING",
+      "press": "MBC",
       "related_articles": [
         {
-          "title": "섬뜩했던 12월 4일 조선일보 기사... 조희대 탄핵의 이유 담겼다",
-          "link": "https://n.news.naver.com/article/047/0002536897?ntype=RANKING",
-          "press": "오마이뉴스"
-        },
-        {
-          "title": "법관 '단체행동' 주장에…박지원 \"공갈 치는 것, 조희대 닥치고 탄핵해야\"",
-          "link": "https://n.news.naver.com/article/586/0000142843?ntype=RANKING",
-          "press": "시사저널"
-        },
-        {
-          "title": "'조희대 탄핵 직진'에 법조계 반발 확산…여론조사꽃도 뒤집혔다",
-          "link": "https://n.news.naver.com/article/586/0000142854?ntype=RANKING",
-          "press": "시사저널"
-        },
-        {
-          "title": "김어준의 ‘꽃’, 조희대 탄핵 6번째 설문…전화면접 반대 50% 첫 돌파",
-          "link": "https://n.news.naver.com/article/029/0003060597?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "[속보] 박지원 “조희대, 닥치고 탄핵해야…공갈 치는 것은 또 사법부 잘못”",
-          "link": "https://n.news.naver.com/article/024/0000109833?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "청와대 내부도 놀란 '전격 인사'‥전면 교체 배경은",
+          "link": "https://n.news.naver.com/article/214/0001537473?ntype=RANKING",
+          "press": "MBC"
         }
       ],
       "related_titles": [
-        "섬뜩했던 12월 4일 조선일보 기사... 조희대 탄핵의 이유 담겼다",
-        "법관 '단체행동' 주장에…박지원 \"공갈 치는 것, 조희대 닥치고 탄핵해야\"",
-        "'조희대 탄핵 직진'에 법조계 반발 확산…여론조사꽃도 뒤집혔다",
-        "김어준의 ‘꽃’, 조희대 탄핵 6번째 설문…전화면접 반대 50% 첫 돌파",
-        "[속보] 박지원 “조희대, 닥치고 탄핵해야…공갈 치는 것은 또 사법부 잘못”"
+        "청와대 내부도 놀란 '전격 인사'‥전면 교체 배경은"
       ],
-      "category": "국제"
+      "category": "사회/일반"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "코스피",
-      "count": 10,
-      "representative_title": "코스피 3~4%대 낙폭…4,700선 깨지기도",
-      "representative_link": "https://n.news.naver.com/article/056/0012299169?ntype=RANKING",
-      "press": "KBS",
+      "keyword": "엔비디아",
+      "count": 59,
+      "representative_title": "젠슨 황 엔비디아 CEO가 돌아왔다",
+      "representative_link": "https://n.news.naver.com/article/030/0003488805?ntype=RANKING",
+      "press": "전자신문",
       "related_articles": [
         {
-          "title": "코스피 3~4%대 낙폭…4,700선 깨지기도",
-          "link": "https://n.news.naver.com/article/056/0012299169?ntype=RANKING",
-          "press": "KBS"
+          "title": "'스캔들' 젠슨 황, 11일 만에 전격 복귀…엔비디아 30% 폭등(종합2보)",
+          "link": "https://n.news.naver.com/article/421/0009305911?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "코스피, 3% 떨어진 4700선 ‘턱걸이 마감’",
-          "link": "https://n.news.naver.com/article/005/0001886828?ntype=RANKING",
-          "press": "국민일보"
+          "title": "\"젠슨 황 돌아왔다\"…엔비디아 주가 장 초반 30% 폭등(상보)",
+          "link": "https://n.news.naver.com/article/421/0009305908?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "국민 노후자산 240조 증발…리밸런싱 재개에도 코스피 따라갔다",
-          "link": "https://n.news.naver.com/article/008/0005444963?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "뉴욕증시, 젠슨 황 CEO 복귀에 상승 출발…엔비디아 30% 가까이 폭등",
+          "link": "https://n.news.naver.com/article/003/0014340791?ntype=RANKING",
+          "press": "뉴시스"
         },
         {
-          "title": "\"외인도 팔자\" 매도 사이드카 터졌다…4600선 밀린 코스피, 반등 조건은",
-          "link": "https://n.news.naver.com/article/008/0005444927?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "젠슨 황, 엔비디아 CEO 즉시 복귀…사임 11일 만(종합)",
+          "link": "https://n.news.naver.com/article/003/0014340820?ntype=RANKING",
+          "press": "뉴시스"
         },
         {
-          "title": "코스피 4600대로 추락, 책임은 누가?…유상범 \"정은경·이억원·이찬진 결단하라\"",
-          "link": "https://n.news.naver.com/article/119/0003158223?ntype=RANKING",
-          "press": "데일리안"
+          "title": "젠슨 황, 남색 자켓 입고 엔비디아 첫 출근…\"이번엔 더 나은 CEO 되겠다\"",
+          "link": "https://n.news.naver.com/article/003/0014340837?ntype=RANKING",
+          "press": "뉴시스"
         }
       ],
       "related_titles": [
-        "코스피 3~4%대 낙폭…4,700선 깨지기도",
-        "코스피, 3% 떨어진 4700선 ‘턱걸이 마감’",
-        "국민 노후자산 240조 증발…리밸런싱 재개에도 코스피 따라갔다",
-        "\"외인도 팔자\" 매도 사이드카 터졌다…4600선 밀린 코스피, 반등 조건은",
-        "코스피 4600대로 추락, 책임은 누가?…유상범 \"정은경·이억원·이찬진 결단하라\""
+        "'스캔들' 젠슨 황, 11일 만에 전격 복귀…엔비디아 30% 폭등(종합2보)",
+        "\"젠슨 황 돌아왔다\"…엔비디아 주가 장 초반 30% 폭등(상보)",
+        "뉴욕증시, 젠슨 황 CEO 복귀에 상승 출발…엔비디아 30% 가까이 폭등",
+        "젠슨 황, 엔비디아 CEO 즉시 복귀…사임 11일 만(종합)",
+        "젠슨 황, 남색 자켓 입고 엔비디아 첫 출근…\"이번엔 더 나은 CEO 되겠다\""
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "선물",
-      "count": 4,
-      "representative_title": "“길 알려줬을 뿐인데 순금을”…중국인 학생들 건넨 뜻밖의 선물",
-      "representative_link": "https://n.news.naver.com/article/025/0003567179?ntype=RANKING",
-      "press": "중앙일보",
+      "keyword": "젠슨",
+      "count": 57,
+      "representative_title": "젠슨 황, 사임 11일만 경영 일선 복귀…주가 33% 급등",
+      "representative_link": "https://n.news.naver.com/article/022/0004177538?ntype=RANKING",
+      "press": "세계일보",
       "related_articles": [
         {
-          "title": "길 알려줬더니 \"선물 주고 싶어요\"…中 학생들이 건넨 '순금'에 '뭉클' [따뜻했슈]",
-          "link": "https://n.news.naver.com/article/014/0005608252?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "젠슨 황이 바닥 만들었나…월가 \"AI 랠리 재개\" vs \"반짝 반등\"",
+          "link": "https://n.news.naver.com/article/018/0006414434?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "\"잘 놀고 가세요\" 길 알려줬을 뿐인데…중국 학생들이 건넨 '순금' 선물",
-          "link": "https://n.news.naver.com/article/437/0000521948?ntype=RANKING",
-          "press": "JTBC"
+          "title": "젠슨 황, 사임 11일만 경영 일선 복귀…주가 33% 급등",
+          "link": "https://n.news.naver.com/article/022/0004177538?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "“길 알려줬을 뿐인데 순금을”…중국인 학생들 건넨 뜻밖의 선물",
-          "link": "https://n.news.naver.com/article/025/0003567179?ntype=RANKING",
-          "press": "중앙일보"
+          "title": "젠슨 황이 바닥 만들었나…월가 \"AI 랠리 재개\" vs \"반짝 반등\"",
+          "link": "https://n.news.naver.com/article/018/0006414434?ntype=RANKING",
+          "press": "이데일리"
         },
         {
-          "title": "길 안내 한 번에 ‘한정판 순금 키링’ 선물…인천공항서 무슨일?",
-          "link": "https://n.news.naver.com/article/029/0003060620?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "젠슨 황, 사임 11일만 경영 일선 복귀…주가 33% 급등",
+          "link": "https://n.news.naver.com/article/022/0004177538?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "길 알려줬더니 \"선물 주고 싶어요\"…中 학생들이 건넨 '순금'에 '뭉클' [따뜻했슈]",
-          "link": "https://n.news.naver.com/article/014/0005608252?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "젠슨 황이 바닥 만들었나…월가 \"AI 랠리 재개\" vs \"반짝 반등\"",
+          "link": "https://n.news.naver.com/article/018/0006414434?ntype=RANKING",
+          "press": "이데일리"
         }
       ],
       "related_titles": [
-        "길 알려줬더니 \"선물 주고 싶어요\"…中 학생들이 건넨 '순금'에 '뭉클' [따뜻했슈]",
-        "\"잘 놀고 가세요\" 길 알려줬을 뿐인데…중국 학생들이 건넨 '순금' 선물",
-        "“길 알려줬을 뿐인데 순금을”…중국인 학생들 건넨 뜻밖의 선물",
-        "길 안내 한 번에 ‘한정판 순금 키링’ 선물…인천공항서 무슨일?",
-        "길 알려줬더니 \"선물 주고 싶어요\"…中 학생들이 건넨 '순금'에 '뭉클' [따뜻했슈]"
+        "젠슨 황이 바닥 만들었나…월가 \"AI 랠리 재개\" vs \"반짝 반등\"",
+        "젠슨 황, 사임 11일만 경영 일선 복귀…주가 33% 급등",
+        "젠슨 황이 바닥 만들었나…월가 \"AI 랠리 재개\" vs \"반짝 반등\"",
+        "젠슨 황, 사임 11일만 경영 일선 복귀…주가 33% 급등",
+        "젠슨 황이 바닥 만들었나…월가 \"AI 랠리 재개\" vs \"반짝 반등\""
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "급락",
-      "count": 4,
-      "representative_title": "골드만삭스, 미국증시 주간 10% 급락 \"매력적 매수 기회\"",
-      "representative_link": "https://n.news.naver.com/article/243/0000106050?ntype=RANKING",
-      "press": "이코노미스트",
+      "keyword": "주가",
+      "count": 17,
+      "representative_title": "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
+      "representative_link": "https://n.news.naver.com/article/665/0000008632?ntype=RANKING",
+      "press": "더스쿠프",
       "related_articles": [
         {
-          "title": "골드만삭스, 미국증시 주간 10% 급락 \"매력적 매수 기회\"",
-          "link": "https://n.news.naver.com/article/243/0000106050?ntype=RANKING",
-          "press": "이코노미스트"
+          "title": "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109840?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
-          "title": "삼전하닉 급락…美 반도체 11% 폭락, 무슨 악재 겹쳤나 [칩칩폭폭]",
-          "link": "https://n.news.naver.com/article/123/0002394600?ntype=RANKING",
-          "press": "조세일보"
+          "title": "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
+          "link": "https://n.news.naver.com/article/665/0000008632?ntype=RANKING",
+          "press": "더스쿠프"
         },
         {
-          "title": "'증시 급락'에도 '삼전닉스' 산다...반도체 ETF 매수 지속세",
-          "link": "https://n.news.naver.com/article/123/0002394595?ntype=RANKING",
-          "press": "조세일보"
+          "title": "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109840?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
-          "title": "골드만삭스, 미국증시 주간 10% 급락 \"매력적 매수 기회\"",
-          "link": "https://n.news.naver.com/article/243/0000106050?ntype=RANKING",
-          "press": "이코노미스트"
+          "title": "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
+          "link": "https://n.news.naver.com/article/665/0000008632?ntype=RANKING",
+          "press": "더스쿠프"
         },
         {
-          "title": "삼전하닉 급락…美 반도체 11% 폭락, 무슨 악재 겹쳤나 [칩칩폭폭]",
-          "link": "https://n.news.naver.com/article/123/0002394600?ntype=RANKING",
-          "press": "조세일보"
+          "title": "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109840?ntype=RANKING",
+          "press": "매경이코노미"
         }
       ],
       "related_titles": [
-        "골드만삭스, 미국증시 주간 10% 급락 \"매력적 매수 기회\"",
-        "삼전하닉 급락…美 반도체 11% 폭락, 무슨 악재 겹쳤나 [칩칩폭폭]",
-        "'증시 급락'에도 '삼전닉스' 산다...반도체 ETF 매수 지속세",
-        "골드만삭스, 미국증시 주간 10% 급락 \"매력적 매수 기회\"",
-        "삼전하닉 급락…美 반도체 11% 폭락, 무슨 악재 겹쳤나 [칩칩폭폭]"
+        "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
+        "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
+        "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
+        "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
+        "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "주식",
-      "count": 3,
-      "representative_title": "[단독] 삼성에 번지는 주식 성과급…물산 합류",
-      "representative_link": "https://n.news.naver.com/article/374/0000545274?ntype=RANKING",
-      "press": "SBS Biz",
+      "keyword": "종목",
+      "count": 5,
+      "representative_title": "다 떨어지는데 혼자 '선방'…폭락장 비껴간 '이 종목'",
+      "representative_link": "https://n.news.naver.com/article/215/0001273679?ntype=RANKING",
+      "press": "한국경제TV",
       "related_articles": [
         {
-          "title": "\"원금만 회복하면 주식 안 하겠다\"…전문가가 \"최악의 방법\"이라는 이유",
-          "link": "https://n.news.naver.com/article/014/0005608137?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "4만원대서 3000원대로 '처참'…90% 폭락에도 1600억 또 질렀다 [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005357307?ntype=RANKING",
+          "press": "한국경제"
         },
         {
-          "title": "“주식 반토막 났으면 커트 반값”… 증시 급락에 ‘위로’ 이벤트도",
-          "link": "https://n.news.naver.com/article/366/0001206670?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "다 떨어지는데 혼자 '선방'…폭락장 비껴간 '이 종목'",
+          "link": "https://n.news.naver.com/article/215/0001273679?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "[단독] 삼성에 번지는 주식 성과급…물산 합류",
-          "link": "https://n.news.naver.com/article/374/0000545274?ntype=RANKING",
-          "press": "SBS Biz"
+          "title": "“지금이라도 팔까요”...LG 목표가 ‘뚝’ [오늘, 이 종목]",
+          "link": "https://n.news.naver.com/article/024/0000109834?ntype=RANKING",
+          "press": "매경이코노미"
         },
         {
-          "title": "\"원금만 회복하면 주식 안 하겠다\"…전문가가 \"최악의 방법\"이라는 이유",
-          "link": "https://n.news.naver.com/article/014/0005608137?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "'AI 부정행위'에 113% 급등한 '이 종목'…씁쓸한 '新테마주' 등장 [무비코노미]",
+          "link": "https://n.news.naver.com/article/243/0000106091?ntype=RANKING",
+          "press": "이코노미스트"
         },
         {
-          "title": "“주식 반토막 났으면 커트 반값”… 증시 급락에 ‘위로’ 이벤트도",
-          "link": "https://n.news.naver.com/article/366/0001206670?ntype=RANKING",
-          "press": "조선비즈"
+          "title": "4만원대서 3000원대로 '처참'…90% 폭락에도 1600억 또 질렀다 [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005357307?ntype=RANKING",
+          "press": "한국경제"
         }
       ],
       "related_titles": [
-        "\"원금만 회복하면 주식 안 하겠다\"…전문가가 \"최악의 방법\"이라는 이유",
-        "“주식 반토막 났으면 커트 반값”… 증시 급락에 ‘위로’ 이벤트도",
-        "[단독] 삼성에 번지는 주식 성과급…물산 합류",
-        "\"원금만 회복하면 주식 안 하겠다\"…전문가가 \"최악의 방법\"이라는 이유",
-        "“주식 반토막 났으면 커트 반값”… 증시 급락에 ‘위로’ 이벤트도"
+        "4만원대서 3000원대로 '처참'…90% 폭락에도 1600억 또 질렀다 [종목+]",
+        "다 떨어지는데 혼자 '선방'…폭락장 비껴간 '이 종목'",
+        "“지금이라도 팔까요”...LG 목표가 ‘뚝’ [오늘, 이 종목]",
+        "'AI 부정행위'에 113% 급등한 '이 종목'…씁쓸한 '新테마주' 등장 [무비코노미]",
+        "4만원대서 3000원대로 '처참'…90% 폭락에도 1600억 또 질렀다 [종목+]"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "폭락",
-      "count": 3,
-      "representative_title": "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
-      "representative_link": "https://n.news.naver.com/article/011/0004684912?ntype=RANKING",
-      "press": "서울경제",
+      "keyword": "코스피",
+      "count": 5,
+      "representative_title": "코스피 3천선 후반 전망까지…증안펀드 구원투수 되나?",
+      "representative_link": "https://n.news.naver.com/article/056/0012299535?ntype=RANKING",
+      "press": "KBS",
       "related_articles": [
         {
-          "title": "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
-          "link": "https://n.news.naver.com/article/011/0004684912?ntype=RANKING",
-          "press": "서울경제"
+          "title": "“개미들, 코스피 6000선에서 저가매수…물타기 할 여윳돈 없어”",
+          "link": "https://n.news.naver.com/article/020/0003764459?ntype=RANKING",
+          "press": "동아일보"
         },
         {
-          "title": "\"민주당 때문에 시총 8,000조 증발\"…또 증시 폭락 책임 돌린 트럼프",
-          "link": "https://n.news.naver.com/article/057/0001979406?ntype=RANKING",
-          "press": "MBN"
+          "title": "코스피 3천선 후반 전망까지…증안펀드 구원투수 되나?",
+          "link": "https://n.news.naver.com/article/056/0012299535?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
-          "link": "https://n.news.naver.com/article/011/0004684912?ntype=RANKING",
-          "press": "서울경제"
+          "title": "[속보]‘코스피 이대론 안되겠네’…내일부터 자사주 취득한도 제한 한시적 완화",
+          "link": "https://n.news.naver.com/article/021/0002834838?ntype=RANKING",
+          "press": "문화일보"
         },
         {
-          "title": "\"민주당 때문에 시총 8,000조 증발\"…또 증시 폭락 책임 돌린 트럼프",
-          "link": "https://n.news.naver.com/article/057/0001979406?ntype=RANKING",
-          "press": "MBN"
+          "title": "“코스피 1만 간다더니 급선회”…유안타증권, 내년 4000~7300 전망",
+          "link": "https://n.news.naver.com/article/138/0002249501?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
-          "link": "https://n.news.naver.com/article/011/0004684912?ntype=RANKING",
-          "press": "서울경제"
+          "title": "코스피 ‘역대급 조정’…“삼성전자 자사주 매입에 기대”",
+          "link": "https://n.news.naver.com/article/024/0000109826?ntype=RANKING",
+          "press": "매경이코노미"
         }
       ],
       "related_titles": [
-        "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
-        "\"민주당 때문에 시총 8,000조 증발\"…또 증시 폭락 책임 돌린 트럼프",
-        "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다",
-        "\"민주당 때문에 시총 8,000조 증발\"…또 증시 폭락 책임 돌린 트럼프",
-        "엔비디아 폭락 전…젠슨 부부, 14조 자녀 신탁으로 옮겼다"
+        "“개미들, 코스피 6000선에서 저가매수…물타기 할 여윳돈 없어”",
+        "코스피 3천선 후반 전망까지…증안펀드 구원투수 되나?",
+        "[속보]‘코스피 이대론 안되겠네’…내일부터 자사주 취득한도 제한 한시적 완화",
+        "“코스피 1만 간다더니 급선회”…유안타증권, 내년 4000~7300 전망",
+        "코스피 ‘역대급 조정’…“삼성전자 자사주 매입에 기대”"
       ],
       "category": "주식/코인"
     }
@@ -413,19 +395,14 @@
       "rank": 1,
       "keyword": "정권",
       "series_title": "정권의 몰락",
-      "count": 7,
+      "count": 6,
       "representative_title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
       "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
       "press": "",
       "related_articles": [
         {
           "title": "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HX3VvZUJfVWp2S2IxUzdPN0VPb3VGcHZjQWtEUVo5czNWWVpGNjBvMVl1ZEVGRjlhTVFQZ2MtdHU3akY3OW1rTG1jS3QwSG1Idjctdi1jZ2hMZDh3NmF1bk1ROU94OTBkcnfSAW5BVV95cUxNUm9pdEk5TVROTV9mcHhNNmx1YlNpRDNKQzNzQVZmbE9QXzd4OGE3QndHc01nUzd1d2VFdzZpejgydkZjbF9OT1p1V1hpMnNseENaQVppQTZGVlhFcklHMDRnM0tXU2ZtT0c5OFhxUQ?oc=5",
-          "press": ""
-        },
-        {
-          "title": "[TV자유일보] 李 정권 몰락 ‘신호탄’ 李, 판도라 상자 열었",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6b0VnVENDU0dYWDYtbGRaMkRtRjBfZHJCam5PTE9VWS1NWmNaZFRzdjBMR3EzbE41cXVqTnFVcnhxV1lkNlZZT3ZHQzhLb2tBd0Z5d1BWWmxoNVp3dk9sMlh6SXNkR2RKcWlR0gFvQVVfeXFMTVcxZjZEaHFFSnFRMFIyRmpDUnMyb1FlN1hJYUVQeS1sTDR2RFJYelNONDVVeEY3VUJBLXJwU1JhUVEyRXdaalZhYkVQbjlOb1RUYXlsTFRiLWJ1aXZ1YVRYUFRPcXVJWjlNM19NN1A0?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XYzgzdnhTdXBNZkNrQUdpWnpTVWtHSGl2andUd2lEV0s0TG9DWG9LdGhlYkhMUkcwS1pEcnVDUjNicUNCTlNKRDZXUm90VmFYemFpak9tbEhSMUxwVG1kS3hmMldPNnhUNHEw?oc=5",
           "press": ""
         },
         {
@@ -442,14 +419,19 @@
           "title": "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Pb2J2VkJnaVAtZFphdlJpb01nb2tRVXd3N1RVeTZpV0x3V2dzVW5YUksxcW5vN3RwenMyTWJ0NTQxUXBIRUNZVTlQSjhOLVIxcGpkOWVNNHNyQ3YwLTR1Sg?oc=5",
           "press": ""
+        },
+        {
+          "title": "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZYWJVZnNQYUlYX3dWbGRybTNQVkVCRDJpLTlEYkJNWjJFT3J1SVQzc3pnN2xybk5CeDJiak5kN3JkLURidmFCTjB5cFFPN21qcEVfNlV2T2NPZzFEREtmQmRWZEFDQ2IxNGVmTg?oc=5",
+          "press": ""
         }
       ],
       "related_titles": [
         "장동혁 “이재명 탈옥법 통과되면 정권 몰락…총리도 법정 설 것”",
-        "[TV자유일보] 李 정권 몰락 ‘신호탄’ 李, 판도라 상자 열었",
         "與 “수사권 남용 진실 밝힐 출발점”…野 “국민 심판대서 정권 몰락”",
         "“李대통령 탈옥법, 정권 몰락 부를 것”…‘조작기소 특검’ 국무회의 통과에 여야 격돌",
-        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\""
+        "장동혁 \"李 탈옥법, 국민 심판 못 넘는다…결국 정권 몰락\"",
+        "수능 시험 중 불시 경보음?…격앙된 수험생·학부모, 일각선 '정권 몰락 서막' 경고"
       ],
       "category": "몰락"
     },
@@ -525,6 +507,26 @@
     },
     {
       "rank": 4,
+      "keyword": "국민",
+      "series_title": "국민의 몰락",
+      "count": 1,
+      "representative_title": "“이렇게 무너질 줄이야” 점유율 고작 ‘3%’ 몰락한 국민 포털…결국, 특단의 조치",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VYkhZQUtSa3lFSVFmX0ZDeV85Y2lHeHhyeHh1QWJNd1lYcVV4bEdJRTc3ZkJoOVNPVE15Y2VnZDcxLXFlcW9DN1h6UEkwSTAydV9HTEd3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“이렇게 무너질 줄이야” 점유율 고작 ‘3%’ 몰락한 국민 포털…결국, 특단의 조치",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VYkhZQUtSa3lFSVFmX0ZDeV85Y2lHeHhyeHh1QWJNd1lYcVV4bEdJRTc3ZkJoOVNPVE15Y2VnZDcxLXFlcW9DN1h6UEkwSTAydV9HTEd3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“이렇게 무너질 줄이야” 점유율 고작 ‘3%’ 몰락한 국민 포털…결국, 특단의 조치"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
       "keyword": "만점자",
       "series_title": "만점자의 몰락",
       "count": 1,
@@ -542,40 +544,25 @@
         "만점자의 몰락이라는 희비극 [한겨레 프리즘]"
       ],
       "category": "몰락"
-    },
-    {
-      "rank": 5,
-      "keyword": "영웅",
-      "series_title": "영웅의 몰락",
-      "count": 1,
-      "representative_title": "[구정우칼럼] 영웅의 몰락, 최고 득점 신화 깨야 한다",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiU1I1S3drQXU4T3FjbF9MTzNTUXNzUThwTGYxVUdBdlV4a0dZN01RdDBjWDdubTNXQVV5Qm1vRjRkR1gxWm41TzdOcTZlbEdnYW9FNXlKMC3SAVRBVV95cUxOVVNxYmF0MHB3UUUtbTNrN2RLZXcwclhweG9UanczNFVXNXpUU2lZWGU0Z0VBVktPNnhPbnFaemdHMEsyVWk3b3dCek9VQXNwem0xWFA?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "[구정우칼럼] 영웅의 몰락, 최고 득점 신화 깨야 한다",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiU1I1S3drQXU4T3FjbF9MTzNTUXNzUThwTGYxVUdBdlV4a0dZN01RdDBjWDdubTNXQVV5Qm1vRjRkR1gxWm41TzdOcTZlbEdnYW9FNXlKMC3SAVRBVV95cUxOVVNxYmF0MHB3UUUtbTNrN2RLZXcwclhweG9UanczNFVXNXpUU2lZWGU0Z0VBVktPNnhPbnFaemdHMEsyVWk3b3dCek9VQXNwem0xWFA?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "[구정우칼럼] 영웅의 몰락, 최고 득점 신화 깨야 한다"
-      ],
-      "category": "몰락"
     }
   ],
   "budongsan_topics": [
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 6,
-      "representative_title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
-      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+      "count": 8,
+      "representative_title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
       "press": "",
       "related_articles": [
         {
           "title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남發 집값 하락, 한강벨트 확산…서울 부동산 변곡점 오나",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DWlVIYlpaUWZzRzZWSWo0WFB4Y0RhSnE2T21heVlGZFM5T2wtVm1SR3AtRi1nWjB5RkRtWnVDTW92cUZIVzloNksxOFdkSDJlQmx3YVBYUV9qODVkbHVJbHJ4aUtfbHJNdzZCSw?oc=5",
           "press": ""
         },
         {
@@ -592,19 +579,14 @@
           "title": "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcEg2OWFwOXk5aWRCU0dtWklDdzFsQ2NYWmgwT0tMX3JwNmxiVjFFV19TenZwVVQxVk5SclpVOUQ1UXVZU1FvU0ZVSkl0Z243R0FzUW04VlUyUdIBWEFVX3lxTE5uRmhZV1hkdV9WcUpaazZqM1dqMkN2elNtS1RoSnZrUXNoQXdxZncwa1d6SzJzcGVRSG9QeFhrM3BmR1l5cmc2ak96SU1NSjBkUFJ5UC1BcGU?oc=5",
           "press": ""
-        },
-        {
-          "title": "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHpabUF2aDlQdFRZUXh2eWF5S3I3X1dScjlLMVdnbnRyRWo0WGZlcG9EMDNZSHM1QVg0MkRPRXotX0MxSGRiREs2eVZEYzFaMHdROTU0MllCU0hTVE1rZ25OVWNCZGlqX3RGeFRKZF9JZ1p4Ukt6UmVMLWZmS0lTVQ?oc=5",
-          "press": ""
         }
       ],
       "related_titles": [
         "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+        "강남發 집값 하락, 한강벨트 확산…서울 부동산 변곡점 오나",
         "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
         "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
-        "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세",
-        "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]"
+        "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세"
       ],
       "category": "부동산"
     }
