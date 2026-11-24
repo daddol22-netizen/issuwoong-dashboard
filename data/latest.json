@@ -1,70 +1,70 @@
 {
   "date": "2026-11-24",
-  "hour": "07",
-  "slot": "2026-11-24_07",
-  "crawled_at": "2026-11-24 07:00:01",
-  "total_articles": 400,
+  "hour": "10",
+  "slot": "2026-11-24_10",
+  "crawled_at": "2026-11-24 10:00:02",
+  "total_articles": 401,
   "topics": [
     {
       "rank": 1,
       "keyword": "젠슨",
-      "count": 69,
-      "representative_title": "젠슨 황 엔비디아 CEO가 돌아왔다",
-      "representative_link": "https://n.news.naver.com/article/030/0003488805?ntype=RANKING",
-      "press": "전자신문",
+      "count": 71,
+      "representative_title": "젠슨 황이 돌아왔다…모건스탠리 \"절호의 매수 기회\"",
+      "representative_link": "https://n.news.naver.com/article/215/0001273705?ntype=RANKING",
+      "press": "한국경제TV",
       "related_articles": [
         {
-          "title": "'스캔들' 젠슨 황, 11일 만에 전격 복귀…엔비디아 30% 폭등(종합2보)",
-          "link": "https://n.news.naver.com/article/421/0009305911?ntype=RANKING",
-          "press": "뉴스1"
+          "title": "트럼프, 주가 폭락 막기 위해 손 썼나...‘대마불사’ 돼 돌아온 젠슨 황[이태규의 워싱턴 플레이북]",
+          "link": "https://n.news.naver.com/article/011/0004685369?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "\"젠슨 황 돌아왔다\"…엔비디아 주가 장 초반 30% 폭등(상보)",
-          "link": "https://n.news.naver.com/article/421/0009305908?ntype=RANKING",
-          "press": "뉴스1"
+          "title": "트럼프 “젠슨 황 복귀, 내가 직접 개입”…여야 “안보 팔아넘겨” 반발",
+          "link": "https://n.news.naver.com/article/028/0002833622?ntype=RANKING",
+          "press": "한겨레"
         },
         {
-          "title": "뉴욕증시, 젠슨 황 CEO 복귀에 상승 출발…엔비디아 30% 가까이 폭등",
-          "link": "https://n.news.naver.com/article/003/0014340791?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "‘트럼프 지휘’ 젠슨 황 구하기 막전막후…실리콘밸리 출신 밴스에 비밀 특명",
+          "link": "https://n.news.naver.com/article/028/0002833633?ntype=RANKING",
+          "press": "한겨레"
         },
         {
-          "title": "젠슨 황, 엔비디아 CEO 즉시 복귀…사임 11일 만(종합)",
-          "link": "https://n.news.naver.com/article/003/0014340820?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "남색 자켓 입고 돌아온 젠슨 황 “오늘이 첫 출근”…직원들 환호",
+          "link": "https://n.news.naver.com/article/025/0003567438?ntype=RANKING",
+          "press": "중앙일보"
         },
         {
-          "title": "젠슨 황, 남색 자켓 입고 엔비디아 첫 출근…\"이번엔 더 나은 CEO 되겠다\"",
-          "link": "https://n.news.naver.com/article/003/0014340837?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "젠슨 황 복귀에 한국 반도체주 청신호...'미 의회·수출 통제' 변수",
+          "link": "https://n.news.naver.com/article/052/0002437105?ntype=RANKING",
+          "press": "YTN"
         }
       ],
       "related_titles": [
-        "'스캔들' 젠슨 황, 11일 만에 전격 복귀…엔비디아 30% 폭등(종합2보)",
-        "\"젠슨 황 돌아왔다\"…엔비디아 주가 장 초반 30% 폭등(상보)",
-        "뉴욕증시, 젠슨 황 CEO 복귀에 상승 출발…엔비디아 30% 가까이 폭등",
-        "젠슨 황, 엔비디아 CEO 즉시 복귀…사임 11일 만(종합)",
-        "젠슨 황, 남색 자켓 입고 엔비디아 첫 출근…\"이번엔 더 나은 CEO 되겠다\""
+        "트럼프, 주가 폭락 막기 위해 손 썼나...‘대마불사’ 돼 돌아온 젠슨 황[이태규의 워싱턴 플레이북]",
+        "트럼프 “젠슨 황 복귀, 내가 직접 개입”…여야 “안보 팔아넘겨” 반발",
+        "‘트럼프 지휘’ 젠슨 황 구하기 막전막후…실리콘밸리 출신 밴스에 비밀 특명",
+        "남색 자켓 입고 돌아온 젠슨 황 “오늘이 첫 출근”…직원들 환호",
+        "젠슨 황 복귀에 한국 반도체주 청신호...'미 의회·수출 통제' 변수"
       ],
-      "category": "경제/투자"
+      "category": "산업/테크"
     },
     {
       "rank": 2,
       "keyword": "엔비디아",
-      "count": 59,
-      "representative_title": "[속보]젠슨황, 엔비디아 CEO 복귀…“빨리 일하고파”",
-      "representative_link": "https://n.news.naver.com/article/021/0002834925?ntype=RANKING",
-      "press": "문화일보",
+      "count": 38,
+      "representative_title": "대통령·엔비디아·투자자 '젠슨황 귀환'에 모두가 환호했다",
+      "representative_link": "https://n.news.naver.com/article/243/0000106094?ntype=RANKING",
+      "press": "이코노미스트",
       "related_articles": [
         {
-          "title": "젠슨황 돌아오자 엔비디아 30% 넘게 폭등…나스닥 6% '대반등'",
-          "link": "https://n.news.naver.com/article/018/0006414411?ntype=RANKING",
-          "press": "이데일리"
+          "title": "‘젠슨황 복귀’에 나스닥 6.5% 폭등…엔비디아 시총 1조 달러 ↑",
+          "link": "https://n.news.naver.com/article/449/0000368476?ntype=RANKING",
+          "press": "채널A"
         },
         {
-          "title": "[속보]젠슨황, 엔비디아 CEO 복귀…“빨리 일하고파”",
-          "link": "https://n.news.naver.com/article/021/0002834925?ntype=RANKING",
-          "press": "문화일보"
+          "title": "엔비디아 ‘숏’ 쳤다가 날벼락···공매도 세력 하루 만에 16조원 평가손실",
+          "link": "https://n.news.naver.com/article/032/0003484593?ntype=RANKING",
+          "press": "경향신문"
         },
         {
           "title": "젠슨황, 11일만에 엔비디아 CEO 전격복귀…이사회 \"안보위험 없다\"(종합2보)",
@@ -72,320 +72,320 @@
           "press": "연합뉴스"
         },
         {
-          "title": "엔비디아 칩 밀수에 앨리스 황 앞세우고 캄보디아 프린스 조직 관여",
-          "link": "https://n.news.naver.com/article/057/0001979535?ntype=RANKING",
-          "press": "MBN"
+          "title": "\"다 잃었다\"…엔비디아 31% 폭등에 공매도 15조원 날려",
+          "link": "https://n.news.naver.com/article/018/0006414467?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "젠슨황, 11일 만에 엔비디아 CEO 복귀… \"안보위험 없다\"",
+          "link": "https://n.news.naver.com/article/656/0000193362?ntype=RANKING",
+          "press": "대전일보"
         }
       ],
       "related_titles": [
-        "젠슨황 돌아오자 엔비디아 30% 넘게 폭등…나스닥 6% '대반등'",
-        "[속보]젠슨황, 엔비디아 CEO 복귀…“빨리 일하고파”",
+        "‘젠슨황 복귀’에 나스닥 6.5% 폭등…엔비디아 시총 1조 달러 ↑",
+        "엔비디아 ‘숏’ 쳤다가 날벼락···공매도 세력 하루 만에 16조원 평가손실",
         "젠슨황, 11일만에 엔비디아 CEO 전격복귀…이사회 \"안보위험 없다\"(종합2보)",
-        "엔비디아 칩 밀수에 앨리스 황 앞세우고 캄보디아 프린스 조직 관여"
+        "\"다 잃었다\"…엔비디아 31% 폭등에 공매도 15조원 날려",
+        "젠슨황, 11일 만에 엔비디아 CEO 복귀… \"안보위험 없다\""
       ],
       "category": "사회/일반"
     },
     {
       "rank": 3,
-      "keyword": "주가",
-      "count": 17,
-      "representative_title": "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
-      "representative_link": "https://n.news.naver.com/article/665/0000008632?ntype=RANKING",
-      "press": "더스쿠프",
+      "keyword": "복귀",
+      "count": 30,
+      "representative_title": "\"컴퓨터 없으니 새 PC 달라\" 젠슨황, 복귀 첫날 '농담'…직원은 3개 층서 '환호'",
+      "representative_link": "https://n.news.naver.com/article/088/0001041890?ntype=RANKING",
+      "press": "매일신문",
       "related_articles": [
         {
-          "title": "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000109840?ntype=RANKING",
-          "press": "매경이코노미"
-        },
-        {
-          "title": "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
-          "link": "https://n.news.naver.com/article/665/0000008632?ntype=RANKING",
-          "press": "더스쿠프"
+          "title": "\"컴퓨터 없으니 새 PC 달라\" 젠슨황, 복귀 첫날 '농담'…직원은 3개 층서 '환호'",
+          "link": "https://n.news.naver.com/article/088/0001041890?ntype=RANKING",
+          "press": "매일신문"
         }
       ],
       "related_titles": [
-        "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
-        "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문"
+        "\"컴퓨터 없으니 새 PC 달라\" 젠슨황, 복귀 첫날 '농담'…직원은 3개 층서 '환호'"
       ],
-      "category": "산업/테크"
+      "category": "사회/일반"
     },
     {
       "rank": 4,
-      "keyword": "만에",
-      "count": 16,
-      "representative_title": "위기 때도 지킨 금호미술관, 38년 만에 매물로",
-      "representative_link": "https://n.news.naver.com/article/293/0000093692?ntype=RANKING",
-      "press": "블로터",
+      "keyword": "군용기",
+      "count": 20,
+      "representative_title": "[속보] 합참 \"러시아 군용기 동해 KADIZ 진입\"",
+      "representative_link": "https://n.news.naver.com/article/422/0000929264?ntype=RANKING",
+      "press": "연합뉴스TV",
       "related_articles": [
         {
-          "title": "[속보]음주운전 사고 고경표 “술 많이 마신 걸로 기억”···사고 9일 만에 경찰 출석",
-          "link": "https://n.news.naver.com/article/032/0003484493?ntype=RANKING",
+          "title": "러시아 군용기 수 대 동해 KADIZ 진입…울릉도 경계경보 3분 만에 해제",
+          "link": "https://n.news.naver.com/article/011/0004685389?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "[속보] 러시아 군용기 여러대 울릉도 근접…공군, 전투기 투입",
+          "link": "https://n.news.naver.com/article/028/0002833637?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "러 군용기 여러 대 KADIZ 진입…울릉군 한때 위급문자",
+          "link": "https://n.news.naver.com/article/025/0003567444?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "[속보] 군 \"러시아 군용기 여러 대, 동해 카디즈 진입...영공침범 없어\"",
+          "link": "https://n.news.naver.com/article/052/0002437120?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "[속보] 합참 \"러시아 군용기 동해 KADIZ 진입\"",
+          "link": "https://n.news.naver.com/article/422/0000929264?ntype=RANKING",
+          "press": "연합뉴스TV"
+        }
+      ],
+      "related_titles": [
+        "러시아 군용기 수 대 동해 KADIZ 진입…울릉도 경계경보 3분 만에 해제",
+        "[속보] 러시아 군용기 여러대 울릉도 근접…공군, 전투기 투입",
+        "러 군용기 여러 대 KADIZ 진입…울릉군 한때 위급문자",
+        "[속보] 군 \"러시아 군용기 여러 대, 동해 카디즈 진입...영공침범 없어\"",
+        "[속보] 합참 \"러시아 군용기 동해 KADIZ 진입\""
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 5,
+      "keyword": "만에",
+      "count": 19,
+      "representative_title": "[김종석의 왜]23년 만에 강금실 재등판, 왜?",
+      "representative_link": "https://n.news.naver.com/article/449/0000368471?ntype=RANKING",
+      "press": "채널A",
+      "related_articles": [
+        {
+          "title": "전자발찌 끊고 달아난 성범죄자 정영모, 이틀 만에 세종서 체포",
+          "link": "https://n.news.naver.com/article/666/0000133472?ntype=RANKING",
+          "press": "경기일보"
+        },
+        {
+          "title": "[김종석의 왜]23년 만에 강금실 재등판, 왜?",
+          "link": "https://n.news.naver.com/article/449/0000368471?ntype=RANKING",
+          "press": "채널A"
+        },
+        {
+          "title": "[속보]‘오늘은 매수사이드카’···나스닥 6.5% 폭등 마감, 1년 7개월 만에 상승 폭 최고",
+          "link": "https://n.news.naver.com/article/032/0003484585?ntype=RANKING",
           "press": "경향신문"
         },
         {
-          "title": "롯데, 2년 만에 롯데월드타워 담보 해지…회사채 8000억 상환",
-          "link": "https://n.news.naver.com/article/123/0002394645?ntype=RANKING",
-          "press": "조세일보"
-        },
-        {
-          "title": "출생 10여일 만에 아들 주거지에 남겨두고 피시방·여행 등 다닌 20대 부부 중형 구형&#8943;특정 신체 부위 짓물러 구더기까지 발견돼",
-          "link": "https://n.news.naver.com/article/087/0001232763?ntype=RANKING",
+          "title": "[속보]전자발찌 끊고 달아난 60대 정영모, 이틀 만에 세종서 검거",
+          "link": "https://n.news.naver.com/article/087/0001232930?ntype=RANKING",
           "press": "강원일보"
         },
         {
           "title": "‘위기설 방어막’ 롯데월드타워, 2년 만에 담보 풀렸다…롯데 재무개선 속도",
           "link": "https://n.news.naver.com/article/138/0002249623?ntype=RANKING",
           "press": "디지털데일리"
-        },
-        {
-          "title": "위기 때도 지킨 금호미술관, 38년 만에 매물로",
-          "link": "https://n.news.naver.com/article/293/0000093692?ntype=RANKING",
-          "press": "블로터"
         }
       ],
       "related_titles": [
-        "[속보]음주운전 사고 고경표 “술 많이 마신 걸로 기억”···사고 9일 만에 경찰 출석",
-        "롯데, 2년 만에 롯데월드타워 담보 해지…회사채 8000억 상환",
-        "출생 10여일 만에 아들 주거지에 남겨두고 피시방·여행 등 다닌 20대 부부 중형 구형&#8943;특정 신체 부위 짓물러 구더기까지 발견돼",
-        "‘위기설 방어막’ 롯데월드타워, 2년 만에 담보 풀렸다…롯데 재무개선 속도",
-        "위기 때도 지킨 금호미술관, 38년 만에 매물로"
+        "전자발찌 끊고 달아난 성범죄자 정영모, 이틀 만에 세종서 체포",
+        "[김종석의 왜]23년 만에 강금실 재등판, 왜?",
+        "[속보]‘오늘은 매수사이드카’···나스닥 6.5% 폭등 마감, 1년 7개월 만에 상승 폭 최고",
+        "[속보]전자발찌 끊고 달아난 60대 정영모, 이틀 만에 세종서 검거",
+        "‘위기설 방어막’ 롯데월드타워, 2년 만에 담보 풀렸다…롯데 재무개선 속도"
       ],
-      "category": "사건/사고"
-    },
-    {
-      "rank": 5,
-      "keyword": "전격",
-      "count": 14,
-      "representative_title": "청와대 내부도 놀란 '전격 인사'‥전면 교체 배경은",
-      "representative_link": "https://n.news.naver.com/article/214/0001537473?ntype=RANKING",
-      "press": "MBC",
-      "related_articles": [
-        {
-          "title": "청와대 내부도 놀란 '전격 인사'‥전면 교체 배경은",
-          "link": "https://n.news.naver.com/article/214/0001537473?ntype=RANKING",
-          "press": "MBC"
-        }
-      ],
-      "related_titles": [
-        "청와대 내부도 놀란 '전격 인사'‥전면 교체 배경은"
-      ],
-      "category": "사회/일반"
+      "category": "산업/테크"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "엔비디아",
-      "count": 59,
-      "representative_title": "젠슨 황 엔비디아 CEO가 돌아왔다",
-      "representative_link": "https://n.news.naver.com/article/030/0003488805?ntype=RANKING",
-      "press": "전자신문",
+      "keyword": "젠슨",
+      "count": 38,
+      "representative_title": "젠슨 황이 돌아왔다…모건스탠리 \"절호의 매수 기회\"",
+      "representative_link": "https://n.news.naver.com/article/215/0001273705?ntype=RANKING",
+      "press": "한국경제TV",
       "related_articles": [
         {
-          "title": "'스캔들' 젠슨 황, 11일 만에 전격 복귀…엔비디아 30% 폭등(종합2보)",
-          "link": "https://n.news.naver.com/article/421/0009305911?ntype=RANKING",
-          "press": "뉴스1"
+          "title": "트럼프, 주가 폭락 막기 위해 손 썼나...‘대마불사’ 돼 돌아온 젠슨 황[이태규의 워싱턴 플레이북]",
+          "link": "https://n.news.naver.com/article/011/0004685369?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "\"젠슨 황 돌아왔다\"…엔비디아 주가 장 초반 30% 폭등(상보)",
-          "link": "https://n.news.naver.com/article/421/0009305908?ntype=RANKING",
-          "press": "뉴스1"
+          "title": "젠슨 황 복귀, 엔비디아 주가 급등…트럼프가 직접 나서",
+          "link": "https://n.news.naver.com/article/056/0012299738?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "뉴욕증시, 젠슨 황 CEO 복귀에 상승 출발…엔비디아 30% 가까이 폭등",
-          "link": "https://n.news.naver.com/article/003/0014340791?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "\"'젠슨 황 효과' 이 정도라니\"...32% 폭등에 시총 1300조원↑",
+          "link": "https://n.news.naver.com/article/215/0001273714?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "젠슨 황, 엔비디아 CEO 즉시 복귀…사임 11일 만(종합)",
-          "link": "https://n.news.naver.com/article/003/0014340820?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "젠슨 황이 돌아왔다…모건스탠리 \"절호의 매수 기회\"",
+          "link": "https://n.news.naver.com/article/215/0001273705?ntype=RANKING",
+          "press": "한국경제TV"
         },
         {
-          "title": "젠슨 황, 남색 자켓 입고 엔비디아 첫 출근…\"이번엔 더 나은 CEO 되겠다\"",
-          "link": "https://n.news.naver.com/article/003/0014340837?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "엔비디아, 젠슨 황 CEO 복귀 만장일치 결정…즉시 업무 재개",
+          "link": "https://n.news.naver.com/article/666/0000133463?ntype=RANKING",
+          "press": "경기일보"
         }
       ],
       "related_titles": [
-        "'스캔들' 젠슨 황, 11일 만에 전격 복귀…엔비디아 30% 폭등(종합2보)",
-        "\"젠슨 황 돌아왔다\"…엔비디아 주가 장 초반 30% 폭등(상보)",
-        "뉴욕증시, 젠슨 황 CEO 복귀에 상승 출발…엔비디아 30% 가까이 폭등",
-        "젠슨 황, 엔비디아 CEO 즉시 복귀…사임 11일 만(종합)",
-        "젠슨 황, 남색 자켓 입고 엔비디아 첫 출근…\"이번엔 더 나은 CEO 되겠다\""
+        "트럼프, 주가 폭락 막기 위해 손 썼나...‘대마불사’ 돼 돌아온 젠슨 황[이태규의 워싱턴 플레이북]",
+        "젠슨 황 복귀, 엔비디아 주가 급등…트럼프가 직접 나서",
+        "\"'젠슨 황 효과' 이 정도라니\"...32% 폭등에 시총 1300조원↑",
+        "젠슨 황이 돌아왔다…모건스탠리 \"절호의 매수 기회\"",
+        "엔비디아, 젠슨 황 CEO 복귀 만장일치 결정…즉시 업무 재개"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "젠슨",
-      "count": 57,
-      "representative_title": "젠슨 황, 사임 11일만 경영 일선 복귀…주가 33% 급등",
-      "representative_link": "https://n.news.naver.com/article/022/0004177538?ntype=RANKING",
-      "press": "세계일보",
+      "keyword": "엔비디아",
+      "count": 38,
+      "representative_title": "대통령·엔비디아·투자자 '젠슨황 귀환'에 모두가 환호했다",
+      "representative_link": "https://n.news.naver.com/article/243/0000106094?ntype=RANKING",
+      "press": "이코노미스트",
       "related_articles": [
         {
-          "title": "젠슨 황이 바닥 만들었나…월가 \"AI 랠리 재개\" vs \"반짝 반등\"",
-          "link": "https://n.news.naver.com/article/018/0006414434?ntype=RANKING",
+          "title": "‘젠슨황 복귀’에 나스닥 6.5% 폭등…엔비디아 시총 1조 달러 ↑",
+          "link": "https://n.news.naver.com/article/449/0000368476?ntype=RANKING",
+          "press": "채널A"
+        },
+        {
+          "title": "엔비디아 ‘숏’ 쳤다가 날벼락···공매도 세력 하루 만에 16조원 평가손실",
+          "link": "https://n.news.naver.com/article/032/0003484593?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "젠슨황, 11일만에 엔비디아 CEO 전격복귀…이사회 \"안보위험 없다\"(종합2보)",
+          "link": "https://n.news.naver.com/article/001/0016459317?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "\"다 잃었다\"…엔비디아 31% 폭등에 공매도 15조원 날려",
+          "link": "https://n.news.naver.com/article/018/0006414467?ntype=RANKING",
           "press": "이데일리"
         },
         {
-          "title": "젠슨 황, 사임 11일만 경영 일선 복귀…주가 33% 급등",
-          "link": "https://n.news.naver.com/article/022/0004177538?ntype=RANKING",
-          "press": "세계일보"
-        },
-        {
-          "title": "젠슨 황이 바닥 만들었나…월가 \"AI 랠리 재개\" vs \"반짝 반등\"",
-          "link": "https://n.news.naver.com/article/018/0006414434?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "젠슨 황, 사임 11일만 경영 일선 복귀…주가 33% 급등",
-          "link": "https://n.news.naver.com/article/022/0004177538?ntype=RANKING",
-          "press": "세계일보"
-        },
-        {
-          "title": "젠슨 황이 바닥 만들었나…월가 \"AI 랠리 재개\" vs \"반짝 반등\"",
-          "link": "https://n.news.naver.com/article/018/0006414434?ntype=RANKING",
-          "press": "이데일리"
+          "title": "젠슨황, 11일 만에 엔비디아 CEO 복귀… \"안보위험 없다\"",
+          "link": "https://n.news.naver.com/article/656/0000193362?ntype=RANKING",
+          "press": "대전일보"
         }
       ],
       "related_titles": [
-        "젠슨 황이 바닥 만들었나…월가 \"AI 랠리 재개\" vs \"반짝 반등\"",
-        "젠슨 황, 사임 11일만 경영 일선 복귀…주가 33% 급등",
-        "젠슨 황이 바닥 만들었나…월가 \"AI 랠리 재개\" vs \"반짝 반등\"",
-        "젠슨 황, 사임 11일만 경영 일선 복귀…주가 33% 급등",
-        "젠슨 황이 바닥 만들었나…월가 \"AI 랠리 재개\" vs \"반짝 반등\""
+        "‘젠슨황 복귀’에 나스닥 6.5% 폭등…엔비디아 시총 1조 달러 ↑",
+        "엔비디아 ‘숏’ 쳤다가 날벼락···공매도 세력 하루 만에 16조원 평가손실",
+        "젠슨황, 11일만에 엔비디아 CEO 전격복귀…이사회 \"안보위험 없다\"(종합2보)",
+        "\"다 잃었다\"…엔비디아 31% 폭등에 공매도 15조원 날려",
+        "젠슨황, 11일 만에 엔비디아 CEO 복귀… \"안보위험 없다\""
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "주가",
-      "count": 17,
-      "representative_title": "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
-      "representative_link": "https://n.news.naver.com/article/665/0000008632?ntype=RANKING",
-      "press": "더스쿠프",
+      "keyword": "급등",
+      "count": 11,
+      "representative_title": "젠슨황 전격 복귀에 삼성전자·SK하이닉스 프리마켓서 10~13% 급등",
+      "representative_link": "https://n.news.naver.com/article/421/0009306085?ntype=RANKING",
+      "press": "뉴스1",
       "related_articles": [
         {
-          "title": "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000109840?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "[속보] 젠슨황 복귀에 프리마켓서 삼성전자 10%·SK하이닉스 13% 급등",
+          "link": "https://n.news.naver.com/article/421/0009306079?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
-          "link": "https://n.news.naver.com/article/665/0000008632?ntype=RANKING",
-          "press": "더스쿠프"
+          "title": "젠슨황 전격 복귀에 삼성전자·SK하이닉스 프리마켓서 10~13% 급등",
+          "link": "https://n.news.naver.com/article/421/0009306085?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000109840?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "[속보] 젠슨황 복귀에 프리마켓서 삼성전자 10%·SK하이닉스 13% 급등",
+          "link": "https://n.news.naver.com/article/421/0009306079?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
-          "link": "https://n.news.naver.com/article/665/0000008632?ntype=RANKING",
-          "press": "더스쿠프"
+          "title": "젠슨황 전격 복귀에 삼성전자·SK하이닉스 프리마켓서 10~13% 급등",
+          "link": "https://n.news.naver.com/article/421/0009306085?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000109840?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "[속보] 젠슨황 복귀에 프리마켓서 삼성전자 10%·SK하이닉스 13% 급등",
+          "link": "https://n.news.naver.com/article/421/0009306079?ntype=RANKING",
+          "press": "뉴스1"
         }
       ],
       "related_titles": [
-        "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
-        "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
-        "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]",
-        "'초지능 AI' 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문",
-        "휴림로봇 주가 ‘불기둥’...한화로보틱스와 로봇 공급 계약 [오늘, 이 종목]"
+        "[속보] 젠슨황 복귀에 프리마켓서 삼성전자 10%·SK하이닉스 13% 급등",
+        "젠슨황 전격 복귀에 삼성전자·SK하이닉스 프리마켓서 10~13% 급등",
+        "[속보] 젠슨황 복귀에 프리마켓서 삼성전자 10%·SK하이닉스 13% 급등",
+        "젠슨황 전격 복귀에 삼성전자·SK하이닉스 프리마켓서 10~13% 급등",
+        "[속보] 젠슨황 복귀에 프리마켓서 삼성전자 10%·SK하이닉스 13% 급등"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "종목",
-      "count": 5,
-      "representative_title": "다 떨어지는데 혼자 '선방'…폭락장 비껴간 '이 종목'",
-      "representative_link": "https://n.news.naver.com/article/215/0001273679?ntype=RANKING",
-      "press": "한국경제TV",
+      "keyword": "만에",
+      "count": 9,
+      "representative_title": "[속보]‘오늘은 매수사이드카’···나스닥 6.5% 폭등 마감, 1년 7개월 만에 상승 폭 최고",
+      "representative_link": "https://n.news.naver.com/article/032/0003484585?ntype=RANKING",
+      "press": "경향신문",
       "related_articles": [
         {
-          "title": "4만원대서 3000원대로 '처참'…90% 폭락에도 1600억 또 질렀다 [종목+]",
-          "link": "https://n.news.naver.com/article/015/0005357307?ntype=RANKING",
-          "press": "한국경제"
+          "title": "[속보]‘오늘은 매수사이드카’···나스닥 6.5% 폭등 마감, 1년 7개월 만에 상승 폭 최고",
+          "link": "https://n.news.naver.com/article/032/0003484585?ntype=RANKING",
+          "press": "경향신문"
         },
         {
-          "title": "다 떨어지는데 혼자 '선방'…폭락장 비껴간 '이 종목'",
-          "link": "https://n.news.naver.com/article/215/0001273679?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "[속보]‘오늘은 매수사이드카’···나스닥 6.5% 폭등 마감, 1년 7개월 만에 상승 폭 최고",
+          "link": "https://n.news.naver.com/article/032/0003484585?ntype=RANKING",
+          "press": "경향신문"
         },
         {
-          "title": "“지금이라도 팔까요”...LG 목표가 ‘뚝’ [오늘, 이 종목]",
-          "link": "https://n.news.naver.com/article/024/0000109834?ntype=RANKING",
-          "press": "매경이코노미"
-        },
-        {
-          "title": "'AI 부정행위'에 113% 급등한 '이 종목'…씁쓸한 '新테마주' 등장 [무비코노미]",
-          "link": "https://n.news.naver.com/article/243/0000106091?ntype=RANKING",
-          "press": "이코노미스트"
-        },
-        {
-          "title": "4만원대서 3000원대로 '처참'…90% 폭락에도 1600억 또 질렀다 [종목+]",
-          "link": "https://n.news.naver.com/article/015/0005357307?ntype=RANKING",
-          "press": "한국경제"
+          "title": "[속보]‘오늘은 매수사이드카’···나스닥 6.5% 폭등 마감, 1년 7개월 만에 상승 폭 최고",
+          "link": "https://n.news.naver.com/article/032/0003484585?ntype=RANKING",
+          "press": "경향신문"
         }
       ],
       "related_titles": [
-        "4만원대서 3000원대로 '처참'…90% 폭락에도 1600억 또 질렀다 [종목+]",
-        "다 떨어지는데 혼자 '선방'…폭락장 비껴간 '이 종목'",
-        "“지금이라도 팔까요”...LG 목표가 ‘뚝’ [오늘, 이 종목]",
-        "'AI 부정행위'에 113% 급등한 '이 종목'…씁쓸한 '新테마주' 등장 [무비코노미]",
-        "4만원대서 3000원대로 '처참'…90% 폭락에도 1600억 또 질렀다 [종목+]"
+        "[속보]‘오늘은 매수사이드카’···나스닥 6.5% 폭등 마감, 1년 7개월 만에 상승 폭 최고",
+        "[속보]‘오늘은 매수사이드카’···나스닥 6.5% 폭등 마감, 1년 7개월 만에 상승 폭 최고",
+        "[속보]‘오늘은 매수사이드카’···나스닥 6.5% 폭등 마감, 1년 7개월 만에 상승 폭 최고"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "코스피",
-      "count": 5,
-      "representative_title": "코스피 3천선 후반 전망까지…증안펀드 구원투수 되나?",
-      "representative_link": "https://n.news.naver.com/article/056/0012299535?ntype=RANKING",
-      "press": "KBS",
+      "keyword": "젠슨황",
+      "count": 8,
+      "representative_title": "'젠슨황 귀환'에 나스닥 6.5%↑…19개월만에 최대 상승(종합2보)",
+      "representative_link": "https://n.news.naver.com/article/001/0016459439?ntype=RANKING",
+      "press": "연합뉴스",
       "related_articles": [
         {
-          "title": "“개미들, 코스피 6000선에서 저가매수…물타기 할 여윳돈 없어”",
-          "link": "https://n.news.naver.com/article/020/0003764459?ntype=RANKING",
-          "press": "동아일보"
+          "title": "'젠슨황 귀환'에 나스닥 6.5%↑…19개월만에 최대 상승(종합2보)",
+          "link": "https://n.news.naver.com/article/001/0016459439?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "코스피 3천선 후반 전망까지…증안펀드 구원투수 되나?",
-          "link": "https://n.news.naver.com/article/056/0012299535?ntype=RANKING",
-          "press": "KBS"
+          "title": "'젠슨황 귀환'에 나스닥 6.5%↑…19개월만에 최대 상승(종합2보)",
+          "link": "https://n.news.naver.com/article/001/0016459439?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "[속보]‘코스피 이대론 안되겠네’…내일부터 자사주 취득한도 제한 한시적 완화",
-          "link": "https://n.news.naver.com/article/021/0002834838?ntype=RANKING",
-          "press": "문화일보"
-        },
-        {
-          "title": "“코스피 1만 간다더니 급선회”…유안타증권, 내년 4000~7300 전망",
-          "link": "https://n.news.naver.com/article/138/0002249501?ntype=RANKING",
-          "press": "디지털데일리"
-        },
-        {
-          "title": "코스피 ‘역대급 조정’…“삼성전자 자사주 매입에 기대”",
-          "link": "https://n.news.naver.com/article/024/0000109826?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "'젠슨황 귀환'에 나스닥 6.5%↑…19개월만에 최대 상승(종합2보)",
+          "link": "https://n.news.naver.com/article/001/0016459439?ntype=RANKING",
+          "press": "연합뉴스"
         }
       ],
       "related_titles": [
-        "“개미들, 코스피 6000선에서 저가매수…물타기 할 여윳돈 없어”",
-        "코스피 3천선 후반 전망까지…증안펀드 구원투수 되나?",
-        "[속보]‘코스피 이대론 안되겠네’…내일부터 자사주 취득한도 제한 한시적 완화",
-        "“코스피 1만 간다더니 급선회”…유안타증권, 내년 4000~7300 전망",
-        "코스피 ‘역대급 조정’…“삼성전자 자사주 매입에 기대”"
+        "'젠슨황 귀환'에 나스닥 6.5%↑…19개월만에 최대 상승(종합2보)",
+        "'젠슨황 귀환'에 나스닥 6.5%↑…19개월만에 최대 상승(종합2보)",
+        "'젠슨황 귀환'에 나스닥 6.5%↑…19개월만에 최대 상승(종합2보)"
       ],
       "category": "주식/코인"
     }
@@ -507,26 +507,6 @@
     },
     {
       "rank": 4,
-      "keyword": "국민",
-      "series_title": "국민의 몰락",
-      "count": 1,
-      "representative_title": "“이렇게 무너질 줄이야” 점유율 고작 ‘3%’ 몰락한 국민 포털…결국, 특단의 조치",
-      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VYkhZQUtSa3lFSVFmX0ZDeV85Y2lHeHhyeHh1QWJNd1lYcVV4bEdJRTc3ZkJoOVNPVE15Y2VnZDcxLXFlcW9DN1h6UEkwSTAydV9HTEd3?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "“이렇게 무너질 줄이야” 점유율 고작 ‘3%’ 몰락한 국민 포털…결국, 특단의 조치",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VYkhZQUtSa3lFSVFmX0ZDeV85Y2lHeHhyeHh1QWJNd1lYcVV4bEdJRTc3ZkJoOVNPVE15Y2VnZDcxLXFlcW9DN1h6UEkwSTAydV9HTEd3?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "“이렇게 무너질 줄이야” 점유율 고작 ‘3%’ 몰락한 국민 포털…결국, 특단의 조치"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 5,
       "keyword": "만점자",
       "series_title": "만점자의 몰락",
       "count": 1,
@@ -542,6 +522,26 @@
       ],
       "related_titles": [
         "만점자의 몰락이라는 희비극 [한겨레 프리즘]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "국민",
+      "series_title": "국민의 몰락",
+      "count": 1,
+      "representative_title": "“이렇게 무너질 줄이야” 점유율 고작 ‘3%’ 몰락한 국민 포털…결국, 특단의 조치",
+      "representative_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VYkhZQUtSa3lFSVFmX0ZDeV85Y2lHeHhyeHh1QWJNd1lYcVV4bEdJRTc3ZkJoOVNPVE15Y2VnZDcxLXFlcW9DN1h6UEkwSTAydV9HTEd3?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "“이렇게 무너질 줄이야” 점유율 고작 ‘3%’ 몰락한 국민 포털…결국, 특단의 조치",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VYkhZQUtSa3lFSVFmX0ZDeV85Y2lHeHhyeHh1QWJNd1lYcVV4bEdJRTc3ZkJoOVNPVE15Y2VnZDcxLXFlcW9DN1h6UEkwSTAydV9HTEd3?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "“이렇게 무너질 줄이야” 점유율 고작 ‘3%’ 몰락한 국민 포털…결국, 특단의 조치"
       ],
       "category": "몰락"
     }
@@ -566,13 +566,13 @@
           "press": ""
         },
         {
-          "title": "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NEpOTFBfdjh3b1hYZEkwUTE2RXRnNlVkbnpRa21yNlN3MnRxOEVvRG01N2RhTkZRTWg0YjBvS3dLZTAtTWpQUkxUVVpjMkp3Tm9FdmdBZzdwSVVxUmFSV1NnbEZuelB1UFE?oc=5",
+          "title": "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuTEhCak1yMVpCT1hyOHZZVUx5a2N1NnB5WTBzcVQ0WXdyUDVNTlgxaDBkUG1lQ0VoaEdwcllKSXNZZzduUlFSZU03S1BLWG5xb19jWQ?oc=5",
           "press": ""
         },
         {
-          "title": "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuTEhCak1yMVpCT1hyOHZZVUx5a2N1NnB5WTBzcVQ0WXdyUDVNTlgxaDBkUG1lQ0VoaEdwcllKSXNZZzduUlFSZU03S1BLWG5xb19jWQ?oc=5",
+          "title": "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NEpOTFBfdjh3b1hYZEkwUTE2RXRnNlVkbnpRa21yNlN3MnRxOEVvRG01N2RhTkZRTWg0YjBvS3dLZTAtTWpQUkxUVVpjMkp3Tm9FdmdBZzdwSVVxUmFSV1NnbEZuelB1UFE?oc=5",
           "press": ""
         },
         {
@@ -584,9 +584,28 @@
       "related_titles": [
         "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
         "강남發 집값 하락, 한강벨트 확산…서울 부동산 변곡점 오나",
-        "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
         "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
+        "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
         "[통계로 보는 부동산] 서울 0.03% 오를 때 경기 0.21%…남부권 집값 강세"
+      ],
+      "category": "부동산"
+    },
+    {
+      "rank": 2,
+      "keyword": "강남",
+      "count": 5,
+      "representative_title": "강남3구 집값 하락세 심화…압구정 초고가 아파트도 36억 하락",
+      "representative_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81d2hIYkJRRWdwRUNhVFZpTHdlVmxKOE9uTHFxUVZKVDhWNGNSVGdkLVBvR0tqSzlVRmFkeU9mUGJ3TXU5bmZobWF3dlRORUFnQ08wbzdtaGc0aDUxLUFjM3N0aWJzQjhBa0tr?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남3구 집값 하락세 심화…압구정 초고가 아파트도 36억 하락",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81d2hIYkJRRWdwRUNhVFZpTHdlVmxKOE9uTHFxUVZKVDhWNGNSVGdkLVBvR0tqSzlVRmFkeU9mUGJ3TXU5bmZobWF3dlRORUFnQ08wbzdtaGc0aDUxLUFjM3N0aWJzQjhBa0tr?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남3구 집값 하락세 심화…압구정 초고가 아파트도 36억 하락"
       ],
       "category": "부동산"
     }
