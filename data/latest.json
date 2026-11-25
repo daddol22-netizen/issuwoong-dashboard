@@ -1,143 +1,27 @@
 {
   "date": "2026-11-25",
-  "hour": "13",
-  "slot": "2026-11-25_13",
-  "crawled_at": "2026-11-25 13:00:01",
-  "total_articles": 409,
+  "hour": "16",
+  "slot": "2026-11-25_16",
+  "crawled_at": "2026-11-25 16:00:04",
+  "total_articles": 405,
   "topics": [
     {
       "rank": 1,
-      "keyword": "조희대",
-      "count": 26,
-      "representative_title": "김민석 “조희대 탄핵 신속 추진 5당 연대 공식 제안”",
-      "representative_link": "https://n.news.naver.com/article/020/0003765004?ntype=RANKING",
-      "press": "동아일보",
-      "related_articles": [
-        {
-          "title": "[속보] ‘조희대 탄핵’ 추진에 법조계 맞불…창원지법 “이젠 나설 때” 전체 판사회의 연다",
-          "link": "https://n.news.naver.com/article/029/0003061029?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "김민석 “조희대 탄핵 신속 추진 5당 연대 공식 제안”",
-          "link": "https://n.news.naver.com/article/020/0003765004?ntype=RANKING",
-          "press": "동아일보"
-        },
-        {
-          "title": "[속보]‘드디어 조국에 손내민 김민석’…민주당, 진보4당에 ‘조희대 탄핵’ 공동 행동 제안",
-          "link": "https://n.news.naver.com/article/021/0002835358?ntype=RANKING",
-          "press": "문화일보"
-        },
-        {
-          "title": "한동훈 “조희대 탄핵 인용 땐 의원직 사퇴…서영교·박선원도 직 걸라”",
-          "link": "https://n.news.naver.com/article/011/0004685911?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "한동훈 “조희대 탄핵, 인용되면 의원직 사퇴...與 서영교·박선원도 직 걸어라\"",
-          "link": "https://n.news.naver.com/article/023/0004011607?ntype=RANKING",
-          "press": "조선일보"
-        }
-      ],
-      "related_titles": [
-        "[속보] ‘조희대 탄핵’ 추진에 법조계 맞불…창원지법 “이젠 나설 때” 전체 판사회의 연다",
-        "김민석 “조희대 탄핵 신속 추진 5당 연대 공식 제안”",
-        "[속보]‘드디어 조국에 손내민 김민석’…민주당, 진보4당에 ‘조희대 탄핵’ 공동 행동 제안",
-        "한동훈 “조희대 탄핵 인용 땐 의원직 사퇴…서영교·박선원도 직 걸라”",
-        "한동훈 “조희대 탄핵, 인용되면 의원직 사퇴...與 서영교·박선원도 직 걸어라\""
-      ],
-      "category": "국제"
-    },
-    {
-      "rank": 2,
-      "keyword": "탄핵",
-      "count": 26,
-      "representative_title": "한동훈 \"대법원장 탄핵 인용되면 사퇴…서영교·박선원도 의원직 걸라\"",
-      "representative_link": "https://n.news.naver.com/article/586/0000142989?ntype=RANKING",
-      "press": "시사저널",
-      "related_articles": [
-        {
-          "title": "한동훈 \"대법원장 탄핵 인용되면 사퇴…서영교·박선원도 의원직 걸라\"",
-          "link": "https://n.news.naver.com/article/586/0000142989?ntype=RANKING",
-          "press": "시사저널"
-        },
-        {
-          "title": "'대법원장 탄핵 연대' 진보야당들에 제안한 김민석…\"완전한 내란 청산\"",
-          "link": "https://n.news.naver.com/article/586/0000142990?ntype=RANKING",
-          "press": "시사저널"
-        }
-      ],
-      "related_titles": [
-        "한동훈 \"대법원장 탄핵 인용되면 사퇴…서영교·박선원도 의원직 걸라\"",
-        "'대법원장 탄핵 연대' 진보야당들에 제안한 김민석…\"완전한 내란 청산\""
-      ],
-      "category": "국제"
-    },
-    {
-      "rank": 3,
-      "keyword": "최태원",
-      "count": 24,
-      "representative_title": "노소영 \"최태원 화해권고 요청에 부동의…상고취하 하라\"",
-      "representative_link": "https://n.news.naver.com/article/660/0000122150?ntype=RANKING",
-      "press": "kbc광주방송",
-      "related_articles": [
-        {
-          "title": "노소영 \"최태원 화해권고 요청에 부동의…상고 취하 하라\"",
-          "link": "https://n.news.naver.com/article/055/0001405673?ntype=RANKING",
-          "press": "SBS"
-        },
-        {
-          "title": "[속보] 노소영 “최태원 화해권고 요청 거부…진심이면 상고 취하 하라”",
-          "link": "https://n.news.naver.com/article/009/0005768632?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "[속보] 노소영 “최태원 화해권고 요청에 동의 안 해…상고취하 하라”",
-          "link": "https://n.news.naver.com/article/011/0004685970?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "[속보] 노소영 측 \"최태원 재산분할 화해 권고 동의 안해\"",
-          "link": "https://n.news.naver.com/article/052/0002437757?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "노소영 측, 최태원 ‘9440억원 화해권고’ 요청에 “동의 안해”",
-          "link": "https://n.news.naver.com/article/023/0004011627?ntype=RANKING",
-          "press": "조선일보"
-        }
-      ],
-      "related_titles": [
-        "노소영 \"최태원 화해권고 요청에 부동의…상고 취하 하라\"",
-        "[속보] 노소영 “최태원 화해권고 요청 거부…진심이면 상고 취하 하라”",
-        "[속보] 노소영 “최태원 화해권고 요청에 동의 안 해…상고취하 하라”",
-        "[속보] 노소영 측 \"최태원 재산분할 화해 권고 동의 안해\"",
-        "노소영 측, 최태원 ‘9440억원 화해권고’ 요청에 “동의 안해”"
-      ],
-      "category": "사회/일반"
-    },
-    {
-      "rank": 4,
       "keyword": "만에",
-      "count": 24,
-      "representative_title": "2㎏ 켈트족 은화 더미, 2000년 만에 세상 밖으로",
-      "representative_link": "https://n.news.naver.com/article/092/0002446833?ntype=RANKING",
-      "press": "지디넷코리아",
+      "count": 22,
+      "representative_title": "영끌·빚투족 어쩌나…주담대 금리 15년여 만에 최고",
+      "representative_link": "https://n.news.naver.com/article/082/0001408875?ntype=RANKING",
+      "press": "부산일보",
       "related_articles": [
         {
-          "title": "[속보]31.5% 폭등했던 엔비디아, 하루 만에 급락…뉴욕증시 다시 ‘불안’",
-          "link": "https://n.news.naver.com/article/021/0002835254?ntype=RANKING",
-          "press": "문화일보"
+          "title": "박선원과 충돌했던 최민희, 이틀 만에 \"매우 안심했다\"…무슨 말?",
+          "link": "https://n.news.naver.com/article/079/0004213734?ntype=RANKING",
+          "press": "노컷뉴스"
         },
         {
-          "title": "결혼식 5일 만에 터진 '모텔행'…래퍼 양홍원 결국 파경",
-          "link": "https://n.news.naver.com/article/215/0001273821?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "[속보] 'AI 대어' 기대 무색…상장 나흘 만에 주가 '와르르'",
-          "link": "https://n.news.naver.com/article/215/0001273884?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
+          "link": "https://n.news.naver.com/article/056/0012300845?ntype=RANKING",
+          "press": "KBS"
         },
         {
           "title": "美 사막에서 실종된 아기…7시간 만에 자원봉사자가 찾아",
@@ -145,222 +29,344 @@
           "press": "아시아경제"
         },
         {
-          "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
-          "link": "https://n.news.naver.com/article/056/0012300731?ntype=RANKING",
-          "press": "KBS"
+          "title": "결혼식 5일 만에 터진 '모텔행'…래퍼 양홍원 결국 파경",
+          "link": "https://n.news.naver.com/article/215/0001273821?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "하루 만에 무너진 '5천피'...코스피 개장 8분 만에 매도 사이드카",
+          "link": "https://n.news.naver.com/article/648/0000052955?ntype=RANKING",
+          "press": "비즈워치"
         }
       ],
       "related_titles": [
-        "[속보]31.5% 폭등했던 엔비디아, 하루 만에 급락…뉴욕증시 다시 ‘불안’",
-        "결혼식 5일 만에 터진 '모텔행'…래퍼 양홍원 결국 파경",
-        "[속보] 'AI 대어' 기대 무색…상장 나흘 만에 주가 '와르르'",
+        "박선원과 충돌했던 최민희, 이틀 만에 \"매우 안심했다\"…무슨 말?",
+        "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
         "美 사막에서 실종된 아기…7시간 만에 자원봉사자가 찾아",
-        "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락"
+        "결혼식 5일 만에 터진 '모텔행'…래퍼 양홍원 결국 파경",
+        "하루 만에 무너진 '5천피'...코스피 개장 8분 만에 매도 사이드카"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 2,
+      "keyword": "노소영",
+      "count": 21,
+      "representative_title": "노소영 측 \"최태원 재산분할 화해권고 동의 안 해\"",
+      "representative_link": "https://n.news.naver.com/article/052/0002437811?ntype=RANKING",
+      "press": "YTN",
+      "related_articles": [
+        {
+          "title": "노소영 측 \"최태원 재산분할 화해권고 동의 안 해\"",
+          "link": "https://n.news.naver.com/article/052/0002437811?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "9440억 전액 지급 의사에도…노소영 \"진정성 있다면 즉시 상고 취하하길\"",
+          "link": "https://n.news.naver.com/article/437/0000522354?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "[속보] 노소영 측 \"최태원 화해권고 요청 동의 안 해…즉시 상고 취하하라\"",
+          "link": "https://n.news.naver.com/article/079/0004213691?ntype=RANKING",
+          "press": "노컷뉴스"
+        },
+        {
+          "title": "노소영 “최태원 화해권고 요청 동의 못 해…즉시 상고 취하해야”",
+          "link": "https://n.news.naver.com/article/056/0012300786?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "노소영, 최태원 화해권고 요청 거부…\"진정성 있다면 상고 취하\"(종합2보)",
+          "link": "https://n.news.naver.com/article/001/0016462582?ntype=RANKING",
+          "press": "연합뉴스"
+        }
+      ],
+      "related_titles": [
+        "노소영 측 \"최태원 재산분할 화해권고 동의 안 해\"",
+        "9440억 전액 지급 의사에도…노소영 \"진정성 있다면 즉시 상고 취하하길\"",
+        "[속보] 노소영 측 \"최태원 화해권고 요청 동의 안 해…즉시 상고 취하하라\"",
+        "노소영 “최태원 화해권고 요청 동의 못 해…즉시 상고 취하해야”",
+        "노소영, 최태원 화해권고 요청 거부…\"진정성 있다면 상고 취하\"(종합2보)"
+      ],
+      "category": "건강/의료"
+    },
+    {
+      "rank": 3,
+      "keyword": "최태원",
+      "count": 20,
+      "representative_title": "최태원 분쟁 대신 실리 택했다…노소영에 9440억 지급",
+      "representative_link": "https://n.news.naver.com/article/024/0000109859?ntype=RANKING",
+      "press": "매경이코노미",
+      "related_articles": [
+        {
+          "title": "최태원 분쟁 대신 실리 택했다…노소영에 9440억 지급",
+          "link": "https://n.news.naver.com/article/024/0000109859?ntype=RANKING",
+          "press": "매경이코노미"
+        }
+      ],
+      "related_titles": [
+        "최태원 분쟁 대신 실리 택했다…노소영에 9440억 지급"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "젠슨",
+      "count": 19,
+      "representative_title": "하루짜리 '젠슨 황' 효과… 코스피 장 초반 4%대 급락",
+      "representative_link": "https://n.news.naver.com/article/655/0000033691?ntype=RANKING",
+      "press": "CJB청주방송",
+      "related_articles": [
+        {
+          "title": "젠슨 황 복귀가 신호탄?…中 반도체 ETF에 5조 뭉칫돈 몰린 이유",
+          "link": "https://n.news.naver.com/article/018/0006415302?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "돌아온 젠슨 황, 직원들에 샌드위치…\"두 번째 기회 감사\"",
+          "link": "https://n.news.naver.com/article/008/0005446190?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "\"아내와 대화 가장 힘들었다\" 고백한 젠슨 황 \"매일 심리 치료 중\"",
+          "link": "https://n.news.naver.com/article/469/0000967590?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "60여 명 임원 위 젠슨 황 한 사람, '1인 지배' 고수… \"후계 육성은 위험\"",
+          "link": "https://n.news.naver.com/article/469/0000967665?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "“믿어요 젠슨 황” 상위 1% 투자자들, 반도체주 급락에 삼전·하닉 담았다 [주식 초고수는 지금]",
+          "link": "https://n.news.naver.com/article/011/0004685975?ntype=RANKING",
+          "press": "서울경제"
+        }
+      ],
+      "related_titles": [
+        "젠슨 황 복귀가 신호탄?…中 반도체 ETF에 5조 뭉칫돈 몰린 이유",
+        "돌아온 젠슨 황, 직원들에 샌드위치…\"두 번째 기회 감사\"",
+        "\"아내와 대화 가장 힘들었다\" 고백한 젠슨 황 \"매일 심리 치료 중\"",
+        "60여 명 임원 위 젠슨 황 한 사람, '1인 지배' 고수… \"후계 육성은 위험\"",
+        "“믿어요 젠슨 황” 상위 1% 투자자들, 반도체주 급락에 삼전·하닉 담았다 [주식 초고수는 지금]"
       ],
       "category": "경제/투자"
     },
     {
       "rank": 5,
-      "keyword": "한동훈",
-      "count": 19,
-      "representative_title": "한동훈 \"정치적 해결 단계 지났다\"... 장동혁에 '법적 대응' 열어둬",
-      "representative_link": "https://n.news.naver.com/article/047/0002537138?ntype=RANKING",
-      "press": "오마이뉴스",
+      "keyword": "경찰",
+      "count": 16,
+      "representative_title": "경찰, 김병기 송치... 뉴스타파 보도 1년 2개월 만",
+      "representative_link": "https://n.news.naver.com/article/607/0000003616?ntype=RANKING",
+      "press": "뉴스타파",
       "related_articles": [
         {
-          "title": "[속보] “김민석 잘함” 민주·친명층도 3분의1 안돼…“한동훈 복당” 국힘·반명서 우세",
-          "link": "https://n.news.naver.com/article/029/0003061048?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "[단독] 경찰 '세무사 수석' 시험 감독관 6명 참고인 조사",
+          "link": "https://n.news.naver.com/article/052/0002437778?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "\"한동훈 제명은 조작징계\" \"의혹 제기자 10억 요구\"…장동혁호 野 '아수라장'",
-          "link": "https://n.news.naver.com/article/586/0000142979?ntype=RANKING",
-          "press": "시사저널"
+          "title": "라이즈 출국길 '과잉경호' 논란, 결국 경찰 수사로…여성 팬 밀친 남성 고발",
+          "link": "https://n.news.naver.com/article/119/0003159016?ntype=RANKING",
+          "press": "데일리안"
         },
         {
-          "title": "차기 대통령감? 오세훈18.9%·장동혁14.4%·한동훈12.8%·김민석10.7%",
-          "link": "https://n.news.naver.com/article/448/0000653225?ntype=RANKING",
-          "press": "TV조선"
+          "title": "경찰, '리트 만점' 故 이진우 출연 유튜브 영상 확보… 수사 계속",
+          "link": "https://n.news.naver.com/article/469/0000967523?ntype=RANKING",
+          "press": "한국일보"
         },
         {
-          "title": "한동훈 \"정치적 해결 단계 지났다\"... 장동혁에 '법적 대응' 열어둬",
-          "link": "https://n.news.naver.com/article/047/0002537138?ntype=RANKING",
-          "press": "오마이뉴스"
+          "title": "[속보]‘리트 만점자’ 생명과학 과외선생 “죽음이 범죄 도주처 되면 안돼···그래서 경찰 출석”",
+          "link": "https://n.news.naver.com/article/032/0003484949?ntype=RANKING",
+          "press": "경향신문"
         },
         {
-          "title": "김현정 “장동혁 물러나도 한동훈 복당 어려워, 창당해야” [김은지의 뉴스IN]",
-          "link": "https://n.news.naver.com/article/308/0000039019?ntype=RANKING",
-          "press": "시사IN"
+          "title": "현직 경찰, 술집서 합석 거절당하자 강제추행 의혹… 내사 중",
+          "link": "https://n.news.naver.com/article/082/0001408874?ntype=RANKING",
+          "press": "부산일보"
         }
       ],
       "related_titles": [
-        "[속보] “김민석 잘함” 민주·친명층도 3분의1 안돼…“한동훈 복당” 국힘·반명서 우세",
-        "\"한동훈 제명은 조작징계\" \"의혹 제기자 10억 요구\"…장동혁호 野 '아수라장'",
-        "차기 대통령감? 오세훈18.9%·장동혁14.4%·한동훈12.8%·김민석10.7%",
-        "한동훈 \"정치적 해결 단계 지났다\"... 장동혁에 '법적 대응' 열어둬",
-        "김현정 “장동혁 물러나도 한동훈 복당 어려워, 창당해야” [김은지의 뉴스IN]"
+        "[단독] 경찰 '세무사 수석' 시험 감독관 6명 참고인 조사",
+        "라이즈 출국길 '과잉경호' 논란, 결국 경찰 수사로…여성 팬 밀친 남성 고발",
+        "경찰, '리트 만점' 故 이진우 출연 유튜브 영상 확보… 수사 계속",
+        "[속보]‘리트 만점자’ 생명과학 과외선생 “죽음이 범죄 도주처 되면 안돼···그래서 경찰 출석”",
+        "현직 경찰, 술집서 합석 거절당하자 강제추행 의혹… 내사 중"
       ],
-      "category": "정치"
+      "category": "사건/사고"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "코스피",
-      "count": 14,
-      "representative_title": "'젠슨 황 컴백 효과' 끝…코스피 매도 사이드카 발동",
-      "representative_link": "https://n.news.naver.com/article/417/0001165562?ntype=RANKING",
-      "press": "동행미디어 시대",
+      "keyword": "만에",
+      "count": 12,
+      "representative_title": "영끌·빚투족 어쩌나…주담대 금리 15년여 만에 최고",
+      "representative_link": "https://n.news.naver.com/article/082/0001408875?ntype=RANKING",
+      "press": "부산일보",
       "related_articles": [
         {
-          "title": "“어제 팔걸 후회막급”…코스피 5000선 또 붕괴, 삼전닉스 7% 안팎↓[투자360]",
-          "link": "https://n.news.naver.com/article/016/0002728102?ntype=RANKING",
-          "press": "헤럴드경제"
-        },
-        {
           "title": "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
-          "link": "https://n.news.naver.com/article/056/0012300731?ntype=RANKING",
+          "link": "https://n.news.naver.com/article/056/0012300845?ntype=RANKING",
           "press": "KBS"
         },
+        {
+          "title": "하루 만에 무너진 '5천피'...코스피 개장 8분 만에 매도 사이드카",
+          "link": "https://n.news.naver.com/article/648/0000052955?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "하루 만에 무너진 '5천피'...코스피 개장 8분 만에 매도 사이드카",
+          "link": "https://n.news.naver.com/article/648/0000052955?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "영끌·빚투족 어쩌나…주담대 금리 15년여 만에 최고",
+          "link": "https://n.news.naver.com/article/082/0001408875?ntype=RANKING",
+          "press": "부산일보"
+        },
+        {
+          "title": "[단독] 삼성전자 HBM4E, 핀당 17Gbps 구현…6개월 만에 최고속도 경신",
+          "link": "https://n.news.naver.com/article/031/0001078150?ntype=RANKING",
+          "press": "아이뉴스24"
+        }
+      ],
+      "related_titles": [
+        "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
+        "하루 만에 무너진 '5천피'...코스피 개장 8분 만에 매도 사이드카",
+        "하루 만에 무너진 '5천피'...코스피 개장 8분 만에 매도 사이드카",
+        "영끌·빚투족 어쩌나…주담대 금리 15년여 만에 최고",
+        "[단독] 삼성전자 HBM4E, 핀당 17Gbps 구현…6개월 만에 최고속도 경신"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "급락",
+      "count": 11,
+      "representative_title": "[속보] 삼성전자 10%대 급락…시총 1000조 깨져",
+      "representative_link": "https://n.news.naver.com/article/011/0004686038?ntype=RANKING",
+      "press": "서울경제",
+      "related_articles": [
+        {
+          "title": "코스피, 반도체 투매 속 5%대 급락…매도→매수→매도 사이드카",
+          "link": "https://n.news.naver.com/article/018/0006415338?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "[속보] 삼성전자 10%대 급락…시총 1000조 깨져",
+          "link": "https://n.news.naver.com/article/011/0004686038?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "'젠슨 황 랠리' 하루 천하…亞 증시, AI 거품 공포에 다시 급락",
+          "link": "https://n.news.naver.com/article/003/0014344419?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "하루짜리 '젠슨 황' 효과… 코스피 장 초반 4%대 급락",
+          "link": "https://n.news.naver.com/article/655/0000033691?ntype=RANKING",
+          "press": "CJB청주방송"
+        },
+        {
+          "title": "코스피, 반도체 투매 속 5%대 급락…매도→매수→매도 사이드카",
+          "link": "https://n.news.naver.com/article/018/0006415338?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "코스피, 반도체 투매 속 5%대 급락…매도→매수→매도 사이드카",
+        "[속보] 삼성전자 10%대 급락…시총 1000조 깨져",
+        "'젠슨 황 랠리' 하루 천하…亞 증시, AI 거품 공포에 다시 급락",
+        "하루짜리 '젠슨 황' 효과… 코스피 장 초반 4%대 급락",
+        "코스피, 반도체 투매 속 5%대 급락…매도→매수→매도 사이드카"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "코스피",
+      "count": 10,
+      "representative_title": "“코스피 바닥은 지났다…삼성전자·SK하이닉스 주주환원도 저평가”",
+      "representative_link": "https://n.news.naver.com/article/366/0001207122?ntype=RANKING",
+      "press": "조선비즈",
+      "related_articles": [
         {
           "title": "“어제 삼전닉스 안 파신 분” 하루만에 -7% ‘폭싹’…젠슨황도 못 살린 코스피 [내가샀다]",
           "link": "https://n.news.naver.com/article/081/0003702981?ntype=RANKING",
           "press": "서울신문"
         },
         {
-          "title": "어제는 매수, 오늘은 매도…코스피, 매도 사이드카 발동",
-          "link": "https://n.news.naver.com/article/366/0001207133?ntype=RANKING",
+          "title": "\"겁먹고 주식 팔았는데\"…코스피 16번 중 14번 오른 '바닥 신호' [한경우의 돈 되는 데이터]",
+          "link": "https://n.news.naver.com/article/015/0005357972?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "“코스피 바닥은 지났다…삼성전자·SK하이닉스 주주환원도 저평가”",
+          "link": "https://n.news.naver.com/article/366/0001207122?ntype=RANKING",
           "press": "조선비즈"
         },
         {
-          "title": "코스피 5% 급락에 ‘매도 사이드카’...하루만에 5000선 반납",
-          "link": "https://n.news.naver.com/article/023/0004011601?ntype=RANKING",
-          "press": "조선일보"
+          "title": "“어제 팔걸 후회막급”…코스피 5000선 또 붕괴, 삼전닉스 7% 안팎↓[투자360]",
+          "link": "https://n.news.naver.com/article/016/0002728102?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "“어제 삼전닉스 안 파신 분” 하루만에 -7% ‘폭싹’…젠슨황도 못 살린 코스피 [내가샀다]",
+          "link": "https://n.news.naver.com/article/081/0003702981?ntype=RANKING",
+          "press": "서울신문"
         }
       ],
       "related_titles": [
-        "“어제 팔걸 후회막급”…코스피 5000선 또 붕괴, 삼전닉스 7% 안팎↓[투자360]",
-        "코스피 5천 선 회복 하루 만에 급락…매도 사이드카 발동·4,700선 추락",
         "“어제 삼전닉스 안 파신 분” 하루만에 -7% ‘폭싹’…젠슨황도 못 살린 코스피 [내가샀다]",
-        "어제는 매수, 오늘은 매도…코스피, 매도 사이드카 발동",
-        "코스피 5% 급락에 ‘매도 사이드카’...하루만에 5000선 반납"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 2,
-      "keyword": "만에",
-      "count": 13,
-      "representative_title": "하루 만에 무너진 '5천피'…삼성전자·SK하이닉스 7% 급락",
-      "representative_link": "https://n.news.naver.com/article/053/0000063332?ntype=RANKING",
-      "press": "주간조선",
-      "related_articles": [
-        {
-          "title": "[속보]31.5% 폭등했던 엔비디아, 하루 만에 급락…뉴욕증시 다시 ‘불안’",
-          "link": "https://n.news.naver.com/article/021/0002835254?ntype=RANKING",
-          "press": "문화일보"
-        },
-        {
-          "title": "[속보] 31.5% 폭등했던 엔비디아, 하루 만에 급락…뉴욕증시 혼조 마감",
-          "link": "https://n.news.naver.com/article/654/0000213303?ntype=RANKING",
-          "press": "강원도민일보"
-        },
-        {
-          "title": "[속보] 'AI 대어' 기대 무색…상장 나흘 만에 주가 '와르르'",
-          "link": "https://n.news.naver.com/article/215/0001273884?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "하루 만에 무너진 '5천피'…삼성전자·SK하이닉스 7% 급락",
-          "link": "https://n.news.naver.com/article/053/0000063332?ntype=RANKING",
-          "press": "주간조선"
-        },
-        {
-          "title": "젠슨 황 따라 사표 던진 엔비디아 직원…11일 만에 \"나도 다시 돌아갈까\"",
-          "link": "https://n.news.naver.com/article/053/0000063329?ntype=RANKING",
-          "press": "주간조선"
-        }
-      ],
-      "related_titles": [
-        "[속보]31.5% 폭등했던 엔비디아, 하루 만에 급락…뉴욕증시 다시 ‘불안’",
-        "[속보] 31.5% 폭등했던 엔비디아, 하루 만에 급락…뉴욕증시 혼조 마감",
-        "[속보] 'AI 대어' 기대 무색…상장 나흘 만에 주가 '와르르'",
-        "하루 만에 무너진 '5천피'…삼성전자·SK하이닉스 7% 급락",
-        "젠슨 황 따라 사표 던진 엔비디아 직원…11일 만에 \"나도 다시 돌아갈까\""
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 3,
-      "keyword": "젠슨",
-      "count": 11,
-      "representative_title": "젠슨 황, 엔비디아 전사회의 열고 사과…“매우 심각한 실수 저질렀다”",
-      "representative_link": "https://n.news.naver.com/article/658/0000162190?ntype=RANKING",
-      "press": "국제신문",
-      "related_articles": [
-        {
-          "title": "젠슨 황 따라 사표 던진 엔비디아 직원…“내가 성급했다, 나도 다시 돌아가고 싶다”",
-          "link": "https://n.news.naver.com/article/030/0003489305?ntype=RANKING",
-          "press": "전자신문"
-        },
-        {
-          "title": "'1,700→775달러' 반토막…\"젠슨 황 효과 무색하네\" 개미들 부글부글",
-          "link": "https://n.news.naver.com/article/215/0001273873?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "젠슨 황, 엔비디아 전사회의 열고 사과…“매우 심각한 실수 저질렀다”",
-          "link": "https://n.news.naver.com/article/658/0000162190?ntype=RANKING",
-          "press": "국제신문"
-        },
-        {
-          "title": "'1,700→775달러' 반토막…\"젠슨 황 효과 무색하네\" 개미들 부글부글",
-          "link": "https://n.news.naver.com/article/215/0001273873?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "젠슨 황 따라 사표 던진 엔비디아 직원…“내가 성급했다, 나도 다시 돌아가고 싶다”",
-          "link": "https://n.news.naver.com/article/030/0003489305?ntype=RANKING",
-          "press": "전자신문"
-        }
-      ],
-      "related_titles": [
-        "젠슨 황 따라 사표 던진 엔비디아 직원…“내가 성급했다, 나도 다시 돌아가고 싶다”",
-        "'1,700→775달러' 반토막…\"젠슨 황 효과 무색하네\" 개미들 부글부글",
-        "젠슨 황, 엔비디아 전사회의 열고 사과…“매우 심각한 실수 저질렀다”",
-        "'1,700→775달러' 반토막…\"젠슨 황 효과 무색하네\" 개미들 부글부글",
-        "젠슨 황 따라 사표 던진 엔비디아 직원…“내가 성급했다, 나도 다시 돌아가고 싶다”"
+        "\"겁먹고 주식 팔았는데\"…코스피 16번 중 14번 오른 '바닥 신호' [한경우의 돈 되는 데이터]",
+        "“코스피 바닥은 지났다…삼성전자·SK하이닉스 주주환원도 저평가”",
+        "“어제 팔걸 후회막급”…코스피 5000선 또 붕괴, 삼전닉스 7% 안팎↓[투자360]",
+        "“어제 삼전닉스 안 파신 분” 하루만에 -7% ‘폭싹’…젠슨황도 못 살린 코스피 [내가샀다]"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 4,
-      "keyword": "급락",
-      "count": 9,
-      "representative_title": "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다",
-      "representative_link": "https://n.news.naver.com/article/008/0005446016?ntype=RANKING",
-      "press": "머니투데이",
+      "keyword": "젠슨",
+      "count": 8,
+      "representative_title": "젠슨 황 따라 사표 던진 엔비디아 직원…“내가 성급했다, 나도 다시 돌아가고 싶다”",
+      "representative_link": "https://n.news.naver.com/article/030/0003489305?ntype=RANKING",
+      "press": "전자신문",
       "related_articles": [
         {
-          "title": "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다",
-          "link": "https://n.news.naver.com/article/008/0005446016?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "“믿어요 젠슨 황” 상위 1% 투자자들, 반도체주 급락에 삼전·하닉 담았다 [주식 초고수는 지금]",
+          "link": "https://n.news.naver.com/article/011/0004685975?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다",
-          "link": "https://n.news.naver.com/article/008/0005446016?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "젠슨 황 따라 사표 던진 엔비디아 직원…“내가 성급했다, 나도 다시 돌아가고 싶다”",
+          "link": "https://n.news.naver.com/article/030/0003489305?ntype=RANKING",
+          "press": "전자신문"
         },
         {
-          "title": "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다",
-          "link": "https://n.news.naver.com/article/008/0005446016?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "“믿어요 젠슨 황” 상위 1% 투자자들, 반도체주 급락에 삼전·하닉 담았다 [주식 초고수는 지금]",
+          "link": "https://n.news.naver.com/article/011/0004685975?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "젠슨 황 따라 사표 던진 엔비디아 직원…“내가 성급했다, 나도 다시 돌아가고 싶다”",
+          "link": "https://n.news.naver.com/article/030/0003489305?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "“믿어요 젠슨 황” 상위 1% 투자자들, 반도체주 급락에 삼전·하닉 담았다 [주식 초고수는 지금]",
+          "link": "https://n.news.naver.com/article/011/0004685975?ntype=RANKING",
+          "press": "서울경제"
         }
       ],
       "related_titles": [
-        "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다",
-        "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다",
-        "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다"
+        "“믿어요 젠슨 황” 상위 1% 투자자들, 반도체주 급락에 삼전·하닉 담았다 [주식 초고수는 지금]",
+        "젠슨 황 따라 사표 던진 엔비디아 직원…“내가 성급했다, 나도 다시 돌아가고 싶다”",
+        "“믿어요 젠슨 황” 상위 1% 투자자들, 반도체주 급락에 삼전·하닉 담았다 [주식 초고수는 지금]",
+        "젠슨 황 따라 사표 던진 엔비디아 직원…“내가 성급했다, 나도 다시 돌아가고 싶다”",
+        "“믿어요 젠슨 황” 상위 1% 투자자들, 반도체주 급락에 삼전·하닉 담았다 [주식 초고수는 지금]"
       ],
       "category": "주식/코인"
     },
@@ -368,14 +374,14 @@
       "rank": 5,
       "keyword": "엔비디아",
       "count": 7,
-      "representative_title": "뉴욕증시, 여전한 엔비디아 우려 등에 혼조...엔트로픽 공모가 붕괴",
-      "representative_link": "https://n.news.naver.com/article/310/0000142026?ntype=RANKING",
-      "press": "여성신문",
+      "representative_title": "트럼프의 본심?, 젠슨황 '사면'·엔비디아 '지분 정부 양도' 언급",
+      "representative_link": "https://n.news.naver.com/article/374/0000545764?ntype=RANKING",
+      "press": "SBS Biz",
       "related_articles": [
         {
-          "title": "뉴욕증시, 여전한 엔비디아 우려 등에 혼조...엔트로픽 공모가 붕괴",
-          "link": "https://n.news.naver.com/article/310/0000142026?ntype=RANKING",
-          "press": "여성신문"
+          "title": "트럼프의 본심?, 젠슨황 '사면'·엔비디아 '지분 정부 양도' 언급",
+          "link": "https://n.news.naver.com/article/374/0000545764?ntype=RANKING",
+          "press": "SBS Biz"
         },
         {
           "title": "뉴욕증시, 여전한 엔비디아 우려 등에 혼조...엔트로픽 공모가 붕괴",
@@ -383,15 +389,27 @@
           "press": "여성신문"
         },
         {
+          "title": "트럼프의 본심?, 젠슨황 '사면'·엔비디아 '지분 정부 양도' 언급",
+          "link": "https://n.news.naver.com/article/374/0000545764?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
           "title": "뉴욕증시, 여전한 엔비디아 우려 등에 혼조...엔트로픽 공모가 붕괴",
           "link": "https://n.news.naver.com/article/310/0000142026?ntype=RANKING",
           "press": "여성신문"
+        },
+        {
+          "title": "트럼프의 본심?, 젠슨황 '사면'·엔비디아 '지분 정부 양도' 언급",
+          "link": "https://n.news.naver.com/article/374/0000545764?ntype=RANKING",
+          "press": "SBS Biz"
         }
       ],
       "related_titles": [
+        "트럼프의 본심?, 젠슨황 '사면'·엔비디아 '지분 정부 양도' 언급",
         "뉴욕증시, 여전한 엔비디아 우려 등에 혼조...엔트로픽 공모가 붕괴",
+        "트럼프의 본심?, 젠슨황 '사면'·엔비디아 '지분 정부 양도' 언급",
         "뉴욕증시, 여전한 엔비디아 우려 등에 혼조...엔트로픽 공모가 붕괴",
-        "뉴욕증시, 여전한 엔비디아 우려 등에 혼조...엔트로픽 공모가 붕괴"
+        "트럼프의 본심?, 젠슨황 '사면'·엔비디아 '지분 정부 양도' 언급"
       ],
       "category": "주식/코인"
     }
@@ -425,26 +443,6 @@
     },
     {
       "rank": 2,
-      "keyword": "만점자",
-      "series_title": "만점자의 몰락",
-      "count": 1,
-      "representative_title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
-      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "만점자의 몰락이라는 희비극 [한겨레 프리즘]"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 3,
       "keyword": "라인",
       "series_title": "라인의 몰락",
       "count": 1,
@@ -464,27 +462,27 @@
       "category": "몰락"
     },
     {
-      "rank": 4,
-      "keyword": "기성종교",
-      "series_title": "기성종교의 몰락",
+      "rank": 3,
+      "keyword": "만점자",
+      "series_title": "만점자의 몰락",
       "count": 1,
-      "representative_title": "[종교포커스] 2500만→1700만명 되는데 불과 20년…‘기성종교의 몰락’ 시작됐나",
-      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aTRGVDJSb1J5OF90VlNEb3FhUGNodkg1djNVMENHMFYtS0E0MDFfa3k1MTNrZHdfdG80OEJXSHB3WHJyMzZWNklGa2drQVBJY2pScXBXMmh4ZkRzUkRWdVh6UG92c0NrclE?oc=5",
+      "representative_title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "[종교포커스] 2500만→1700만명 되는데 불과 20년…‘기성종교의 몰락’ 시작됐나",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aTRGVDJSb1J5OF90VlNEb3FhUGNodkg1djNVMENHMFYtS0E0MDFfa3k1MTNrZHdfdG80OEJXSHB3WHJyMzZWNklGa2drQVBJY2pScXBXMmh4ZkRzUkRWdVh6UG92c0NrclE?oc=5",
+          "title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "[종교포커스] 2500만→1700만명 되는데 불과 20년…‘기성종교의 몰락’ 시작됐나"
+        "만점자의 몰락이라는 희비극 [한겨레 프리즘]"
       ],
       "category": "몰락"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "keyword": "록스타",
       "series_title": "록스타의 몰락",
       "count": 1,
@@ -502,13 +500,33 @@
         "반도체 록스타의 몰락 [비즈앤피플]"
       ],
       "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "기성종교",
+      "series_title": "기성종교의 몰락",
+      "count": 1,
+      "representative_title": "[종교포커스] 2500만→1700만명 되는데 불과 20년…‘기성종교의 몰락’ 시작됐나",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aTRGVDJSb1J5OF90VlNEb3FhUGNodkg1djNVMENHMFYtS0E0MDFfa3k1MTNrZHdfdG80OEJXSHB3WHJyMzZWNklGa2drQVBJY2pScXBXMmh4ZkRzUkRWdVh6UG92c0NrclE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[종교포커스] 2500만→1700만명 되는데 불과 20년…‘기성종교의 몰락’ 시작됐나",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aTRGVDJSb1J5OF90VlNEb3FhUGNodkg1djNVMENHMFYtS0E0MDFfa3k1MTNrZHdfdG80OEJXSHB3WHJyMzZWNklGa2drQVBJY2pScXBXMmh4ZkRzUkRWdVh6UG92c0NrclE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[종교포커스] 2500만→1700만명 되는데 불과 20년…‘기성종교의 몰락’ 시작됐나"
+      ],
+      "category": "몰락"
     }
   ],
   "budongsan_topics": [
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 4,
+      "count": 3,
       "representative_title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
       "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
       "press": "",
@@ -524,11 +542,6 @@
           "press": ""
         },
         {
-          "title": "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHpabUF2aDlQdFRZUXh2eWF5S3I3X1dScjlLMVdnbnRyRWo0WGZlcG9EMDNZSHM1QVg0MkRPRXotX0MxSGRiREs2eVZEYzFaMHdROTU0MllCU0hTVE1rZ25OVWNCZGlqX3RGeFRKZF9JZ1p4Ukt6UmVMLWZmS0lTVQ?oc=5",
-          "press": ""
-        },
-        {
           "title": "강남 넘어 한강벨트까지…‘서울 집값 정말 잡히나요’[부동산 취재로그]",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPXy02dkp4eTE0Zm1rNkZMWGkxelhkY2plXzdYelBUMEZKXy1SWEs3empmYVNPZ29pU2xXb0hvY0ZwWHR5dHNiVXliT2x1Q2UyTHA4ZHNraUxYdVltUGFFaGFvY1MtdDliX3JXUzE1RFozQ1J5bERKREFVbkpNaFFNSQ?oc=5",
           "press": ""
@@ -537,7 +550,6 @@
       "related_titles": [
         "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
         "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
-        "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
         "강남 넘어 한강벨트까지…‘서울 집값 정말 잡히나요’[부동산 취재로그]"
       ],
       "category": "부동산"
