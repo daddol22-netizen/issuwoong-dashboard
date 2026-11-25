@@ -1,0 +1,552 @@
+{
+  "date": "2026-11-25",
+  "hour": "10",
+  "slot": "2026-11-25_10",
+  "crawled_at": "2026-11-25 10:00:04",
+  "total_articles": 405,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "젠슨",
+      "count": 24,
+      "representative_title": "젠슨 황 복귀에 공화당도 반발…엔비디아 다시 하락",
+      "representative_link": "https://n.news.naver.com/article/055/0001405583?ntype=RANKING",
+      "press": "SBS",
+      "related_articles": [
+        {
+          "title": "하루 만에 끝나버린 ‘젠슨 황 복귀 효과’···반도체주 급락, 상승분 60% 반납",
+          "link": "https://n.news.naver.com/article/032/0003484872?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "\"땡큐 젠슨! 2500만원이 5억 됐다\"…돈벼락 맞은 美개미",
+          "link": "https://n.news.naver.com/article/018/0006415102?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "젠슨 황 복귀 전날 16억 매입…하이닉스 사장, 하루만에 2억 벌어",
+          "link": "https://n.news.naver.com/article/025/0003567655?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "젠슨 황 복귀에 공화당도 반발…엔비디아 다시 하락",
+          "link": "https://n.news.naver.com/article/055/0001405583?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "'젠슨 황 돌아왔는데 이게 뭐냐'…삼전닉스 개미들 부글부글 [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005357835?ntype=RANKING",
+          "press": "한국경제"
+        }
+      ],
+      "related_titles": [
+        "하루 만에 끝나버린 ‘젠슨 황 복귀 효과’···반도체주 급락, 상승분 60% 반납",
+        "\"땡큐 젠슨! 2500만원이 5억 됐다\"…돈벼락 맞은 美개미",
+        "젠슨 황 복귀 전날 16억 매입…하이닉스 사장, 하루만에 2억 벌어",
+        "젠슨 황 복귀에 공화당도 반발…엔비디아 다시 하락",
+        "'젠슨 황 돌아왔는데 이게 뭐냐'…삼전닉스 개미들 부글부글 [종목+]"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 2,
+      "keyword": "만에",
+      "count": 23,
+      "representative_title": "결혼식 5일 만에 터진 '모텔행'…래퍼 양홍원 결국 파경",
+      "representative_link": "https://n.news.naver.com/article/215/0001273821?ntype=RANKING",
+      "press": "한국경제TV",
+      "related_articles": [
+        {
+          "title": "한강벨트까지 꺾이더니 결국…\"집값 오른다\" 8개월 만에 최대폭 하락",
+          "link": "https://n.news.naver.com/article/057/0001979709?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "\"진짜 인형 같다\"…수능 영어 해설 영상 닷새 만에 22만회 넘겨",
+          "link": "https://n.news.naver.com/article/014/0005609246?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "삼성전자 '별 달기' 10년 만에 최소…여성 임원 승진 역대 최다",
+          "link": "https://n.news.naver.com/article/421/0009308220?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "[속보]31.5% 폭등했던 엔비디아, 하루 만에 급락…뉴욕증시 다시 ‘불안’",
+          "link": "https://n.news.naver.com/article/021/0002835254?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "냉온탕 오가는 美 증시…코스피 하루 만에 다시 5000선 시험대",
+          "link": "https://n.news.naver.com/article/648/0000052954?ntype=RANKING",
+          "press": "비즈워치"
+        }
+      ],
+      "related_titles": [
+        "한강벨트까지 꺾이더니 결국…\"집값 오른다\" 8개월 만에 최대폭 하락",
+        "\"진짜 인형 같다\"…수능 영어 해설 영상 닷새 만에 22만회 넘겨",
+        "삼성전자 '별 달기' 10년 만에 최소…여성 임원 승진 역대 최다",
+        "[속보]31.5% 폭등했던 엔비디아, 하루 만에 급락…뉴욕증시 다시 ‘불안’",
+        "냉온탕 오가는 美 증시…코스피 하루 만에 다시 5000선 시험대"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 3,
+      "keyword": "하루",
+      "count": 16,
+      "representative_title": "‘하루 천하’ 젠슨황 효과…\"5000피 내줄 것\" 전망, 왜",
+      "representative_link": "https://n.news.naver.com/article/018/0006415095?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "‘하루 천하’ 젠슨황 효과…\"5000피 내줄 것\" 전망, 왜",
+          "link": "https://n.news.naver.com/article/018/0006415095?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "“6300억의 사나이”…'하루 2억' 공 1개 던질때 3000만원씩 받는다",
+          "link": "https://n.news.naver.com/article/030/0003489306?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "하루 종일 몸 써도…‘스트레스’ 줄이는 신체활동은 따로 있다",
+          "link": "https://n.news.naver.com/article/662/0000109257?ntype=RANKING",
+          "press": "농민신문"
+        }
+      ],
+      "related_titles": [
+        "‘하루 천하’ 젠슨황 효과…\"5000피 내줄 것\" 전망, 왜",
+        "“6300억의 사나이”…'하루 2억' 공 1개 던질때 3000만원씩 받는다",
+        "하루 종일 몸 써도…‘스트레스’ 줄이는 신체활동은 따로 있다"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "복귀",
+      "count": 15,
+      "representative_title": "젠슨황, 복귀 직후 전사회의서 사과…\"심리치료 받는 중\"",
+      "representative_link": "https://n.news.naver.com/article/422/0000929629?ntype=RANKING",
+      "press": "연합뉴스TV",
+      "related_articles": [
+        {
+          "title": "엔비디아 직원들 속마음?…\"젠슨황 복귀 찬성하는 직원, 절반 안 돼\"",
+          "link": "https://n.news.naver.com/article/057/0001979730?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "‘젠슨황 복귀’ 트럼프 개입에 비판 고조…엔비디아 주가는 하락",
+          "link": "https://n.news.naver.com/article/056/0012300529?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "젠슨황, 복귀 직후 전사회의서 사과…\"심리치료 받는 중\"",
+          "link": "https://n.news.naver.com/article/422/0000929629?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "소년범 조진웅 복귀? 무편집 방영 강행한 시그널2 \"돈 때문이야\"",
+          "link": "https://n.news.naver.com/article/243/0000106220?ntype=RANKING",
+          "press": "이코노미스트"
+        }
+      ],
+      "related_titles": [
+        "엔비디아 직원들 속마음?…\"젠슨황 복귀 찬성하는 직원, 절반 안 돼\"",
+        "‘젠슨황 복귀’ 트럼프 개입에 비판 고조…엔비디아 주가는 하락",
+        "젠슨황, 복귀 직후 전사회의서 사과…\"심리치료 받는 중\"",
+        "소년범 조진웅 복귀? 무편집 방영 강행한 시그널2 \"돈 때문이야\""
+      ],
+      "category": "건강/의료"
+    },
+    {
+      "rank": 5,
+      "keyword": "엔비디아",
+      "count": 14,
+      "representative_title": "뉴욕증시, 차익실현 매물 쏟아지며 혼조 마감… 엔비디아 6%↓",
+      "representative_link": "https://n.news.naver.com/article/366/0001207110?ntype=RANKING",
+      "press": "조선비즈",
+      "related_articles": [
+        {
+          "title": "젠슨황 해고에 사표 던졌던 엔비디아 직원 “너무 성급했던 것 같다”",
+          "link": "https://n.news.naver.com/article/016/0002727735?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "뉴욕증시, 차익실현 매물 쏟아지며 혼조 마감… 엔비디아 6%↓",
+          "link": "https://n.news.naver.com/article/366/0001207110?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "뉴욕증시, 여전한 엔비디아 우려 등에 혼조...엔트로픽 공모가 붕괴",
+          "link": "https://n.news.naver.com/article/310/0000142026?ntype=RANKING",
+          "press": "여성신문"
+        }
+      ],
+      "related_titles": [
+        "젠슨황 해고에 사표 던졌던 엔비디아 직원 “너무 성급했던 것 같다”",
+        "뉴욕증시, 차익실현 매물 쏟아지며 혼조 마감… 엔비디아 6%↓",
+        "뉴욕증시, 여전한 엔비디아 우려 등에 혼조...엔트로픽 공모가 붕괴"
+      ],
+      "category": "경제/투자"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "만에",
+      "count": 14,
+      "representative_title": "'젠슨 황' 약발 하루 만에 끝?...반도체주 일제히 급락",
+      "representative_link": "https://n.news.naver.com/article/660/0000122130?ntype=RANKING",
+      "press": "kbc광주방송",
+      "related_articles": [
+        {
+          "title": "하루 만에 끝나버린 ‘젠슨 황 복귀 효과’···반도체주 급락, 상승분 60% 반납",
+          "link": "https://n.news.naver.com/article/032/0003484872?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "삼성전자 '별 달기' 10년 만에 최소…여성 임원 승진 역대 최다",
+          "link": "https://n.news.naver.com/article/421/0009308220?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "‘젠슨 황 복귀’ 랠리 하루 만에 꺾여…엔비디아 5.86% 하락",
+          "link": "https://n.news.naver.com/article/028/0002833821?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "[속보]31.5% 폭등했던 엔비디아, 하루 만에 급락…뉴욕증시 다시 ‘불안’",
+          "link": "https://n.news.naver.com/article/021/0002835254?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "냉온탕 오가는 美 증시…코스피 하루 만에 다시 5000선 시험대",
+          "link": "https://n.news.naver.com/article/648/0000052954?ntype=RANKING",
+          "press": "비즈워치"
+        }
+      ],
+      "related_titles": [
+        "하루 만에 끝나버린 ‘젠슨 황 복귀 효과’···반도체주 급락, 상승분 60% 반납",
+        "삼성전자 '별 달기' 10년 만에 최소…여성 임원 승진 역대 최다",
+        "‘젠슨 황 복귀’ 랠리 하루 만에 꺾여…엔비디아 5.86% 하락",
+        "[속보]31.5% 폭등했던 엔비디아, 하루 만에 급락…뉴욕증시 다시 ‘불안’",
+        "냉온탕 오가는 美 증시…코스피 하루 만에 다시 5000선 시험대"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "엔비디아",
+      "count": 14,
+      "representative_title": "젠슨 황 복귀에 공화당도 반발…엔비디아 다시 하락",
+      "representative_link": "https://n.news.naver.com/article/055/0001405583?ntype=RANKING",
+      "press": "SBS",
+      "related_articles": [
+        {
+          "title": "엔비디아 직원들 속마음?…\"젠슨황 복귀 찬성하는 직원, 절반 안 돼\"",
+          "link": "https://n.news.naver.com/article/057/0001979730?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "‘젠슨황 복귀’ 트럼프 개입에 비판 고조…엔비디아 주가는 하락",
+          "link": "https://n.news.naver.com/article/056/0012300529?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "젠슨황 해고에 사표 던졌던 엔비디아 직원 “너무 성급했던 것 같다”",
+          "link": "https://n.news.naver.com/article/016/0002727735?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "젠슨 황 복귀에 공화당도 반발…엔비디아 다시 하락",
+          "link": "https://n.news.naver.com/article/055/0001405583?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "뉴욕증시, 차익실현 매물 쏟아지며 혼조 마감… 엔비디아 6%↓",
+          "link": "https://n.news.naver.com/article/366/0001207110?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "엔비디아 직원들 속마음?…\"젠슨황 복귀 찬성하는 직원, 절반 안 돼\"",
+        "‘젠슨황 복귀’ 트럼프 개입에 비판 고조…엔비디아 주가는 하락",
+        "젠슨황 해고에 사표 던졌던 엔비디아 직원 “너무 성급했던 것 같다”",
+        "젠슨 황 복귀에 공화당도 반발…엔비디아 다시 하락",
+        "뉴욕증시, 차익실현 매물 쏟아지며 혼조 마감… 엔비디아 6%↓"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "젠슨",
+      "count": 11,
+      "representative_title": "젠슨 황 복귀 전날 16억 매입…하이닉스 사장, 하루만에 2억 벌어",
+      "representative_link": "https://n.news.naver.com/article/025/0003567655?ntype=RANKING",
+      "press": "중앙일보",
+      "related_articles": [
+        {
+          "title": "젠슨 황 복귀 전날 16억 매입…하이닉스 사장, 하루만에 2억 벌어",
+          "link": "https://n.news.naver.com/article/025/0003567655?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "'젠슨 황 돌아왔는데 이게 뭐냐'…삼전닉스 개미들 부글부글 [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005357835?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "젠슨 황 복귀 전날 16억 매입…하이닉스 사장, 하루만에 2억 벌어",
+          "link": "https://n.news.naver.com/article/025/0003567655?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "'젠슨 황 돌아왔는데 이게 뭐냐'…삼전닉스 개미들 부글부글 [종목+]",
+          "link": "https://n.news.naver.com/article/015/0005357835?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "젠슨 황 복귀 전날 16억 매입…하이닉스 사장, 하루만에 2억 벌어",
+          "link": "https://n.news.naver.com/article/025/0003567655?ntype=RANKING",
+          "press": "중앙일보"
+        }
+      ],
+      "related_titles": [
+        "젠슨 황 복귀 전날 16억 매입…하이닉스 사장, 하루만에 2억 벌어",
+        "'젠슨 황 돌아왔는데 이게 뭐냐'…삼전닉스 개미들 부글부글 [종목+]",
+        "젠슨 황 복귀 전날 16억 매입…하이닉스 사장, 하루만에 2억 벌어",
+        "'젠슨 황 돌아왔는데 이게 뭐냐'…삼전닉스 개미들 부글부글 [종목+]",
+        "젠슨 황 복귀 전날 16억 매입…하이닉스 사장, 하루만에 2억 벌어"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "하이닉스",
+      "count": 5,
+      "representative_title": "\"5년 후 하이닉스 300만원 될 수도\"…증시 급락에 전문가 조언은",
+      "representative_link": "https://n.news.naver.com/article/014/0005609252?ntype=RANKING",
+      "press": "파이낸셜뉴스",
+      "related_articles": [
+        {
+          "title": "\"5년 후 하이닉스 300만원 될 수도\"…증시 급락에 전문가 조언은",
+          "link": "https://n.news.naver.com/article/014/0005609252?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "‘연 40%’ 삼전닉스 ELS의 배신… 원금 받으려면 하이닉스 74% 뛰어야",
+          "link": "https://n.news.naver.com/article/366/0001207096?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "[단독] '하이닉스 인수설' 손정의, 극비리 대구 방문…\"내년 공식 방문 예고\"",
+          "link": "https://n.news.naver.com/article/088/0001042125?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "“2028년 반도체 호황 꺾인다”…골드만삭스·모건스탠리, 삼성전자·SK하이닉스 목표가 줄하향",
+          "link": "https://n.news.naver.com/article/138/0002249713?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "\"5년 후 하이닉스 300만원 될 수도\"…증시 급락에 전문가 조언은",
+          "link": "https://n.news.naver.com/article/014/0005609252?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        }
+      ],
+      "related_titles": [
+        "\"5년 후 하이닉스 300만원 될 수도\"…증시 급락에 전문가 조언은",
+        "‘연 40%’ 삼전닉스 ELS의 배신… 원금 받으려면 하이닉스 74% 뛰어야",
+        "[단독] '하이닉스 인수설' 손정의, 극비리 대구 방문…\"내년 공식 방문 예고\"",
+        "“2028년 반도체 호황 꺾인다”…골드만삭스·모건스탠리, 삼성전자·SK하이닉스 목표가 줄하향",
+        "\"5년 후 하이닉스 300만원 될 수도\"…증시 급락에 전문가 조언은"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼성전자",
+      "count": 4,
+      "representative_title": "삼성전자 1억 넣으면 3700만원 vs 1억5300만원…‘7만원·29만원 전망’ 뜯어보니 [숫자 뒤의 진실]",
+      "representative_link": "https://n.news.naver.com/article/022/0004177854?ntype=RANKING",
+      "press": "세계일보",
+      "related_articles": [
+        {
+          "title": "삼성전자 1억 넣으면 3700만원 vs 1억5300만원…‘7만원·29만원 전망’ 뜯어보니 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004177854?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "삼성전자 1억 넣으면 3700만원 vs 1억5300만원…‘7만원·29만원 전망’ 뜯어보니 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004177854?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "삼성전자 1억 넣으면 3700만원 vs 1억5300만원…‘7만원·29만원 전망’ 뜯어보니 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004177854?ntype=RANKING",
+          "press": "세계일보"
+        }
+      ],
+      "related_titles": [
+        "삼성전자 1억 넣으면 3700만원 vs 1억5300만원…‘7만원·29만원 전망’ 뜯어보니 [숫자 뒤의 진실]",
+        "삼성전자 1억 넣으면 3700만원 vs 1억5300만원…‘7만원·29만원 전망’ 뜯어보니 [숫자 뒤의 진실]",
+        "삼성전자 1억 넣으면 3700만원 vs 1억5300만원…‘7만원·29만원 전망’ 뜯어보니 [숫자 뒤의 진실]"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "젠슨",
+      "series_title": "젠슨의 몰락",
+      "count": 3,
+      "representative_title": "[태평로] 젠슨 황의 몰락이 던지는 질문",
+      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1FTjFHLWVtbXNDNzJMMy1YTWx4QTJTLWJRbS1ScWlQOXpuVE5wc0Q0LUFnZEd1OGt6QzEzbWlTRVVSZkpDN0VPVHJIU0p5c2V3Nm9FdGd1LUJMT0dFM1ZrMGhLSmJQMDBUYlpkM1JjQWRmaTk5Q3RzUVd4OHJLcUdqeDE3dHRr?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[태평로] 젠슨 황의 몰락이 던지는 질문",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1FTjFHLWVtbXNDNzJMMy1YTWx4QTJTLWJRbS1ScWlQOXpuVE5wc0Q0LUFnZEd1OGt6QzEzbWlTRVVSZkpDN0VPVHJIU0p5c2V3Nm9FdGd1LUJMT0dFM1ZrMGhLSmJQMDBUYlpkM1JjQWRmaTk5Q3RzUVd4OHJLcUdqeDE3dHRr?oc=5",
+          "press": ""
+        },
+        {
+          "title": "[NVIDIA ‘젠슨 황’ 미스터리 1] 가죽 재킷 젠슨 황의 몰락 이유는? ‘그녀는 스파이 인가, 기업 사냥꾼인가’",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZTBSYzlkQzdNdjRBTzdvbHdIYktDZF91SXowMFZDQkxETnN3eTVuTVdscTZpeHNHZi1DUzhycThqd0RZelM1dHpJXzBhbHBqcWhtVWd5djh4REUxelVqR3VuMmtmTTM3Mi1qMmNnX3VTZENIUzFaMXlaSVlCOE1RN3E1bDBad0gwQXhfVmo4SlN4VWtBWG04dmRDdU9zYTlOVzlIbmt3SXhrR1I2bnlDVlZSRmdUaEhFMUNGcXhaTEJJVnc5MV9FX1lzTFJIbUdiNV92emhueDF3MVY4ZEtDZDdPZ1RoWmJEcWs5UzliTkc0bWk1UlJLX25OczY4RWtwQjI4NkJ5cHBUVGlQN3ZLSmRLLS1wQndPZjFMTzFwaHVxaHlPaGR5RlhvVG1IbldBWHFDVVpXREFoSjhYREptYnBR?oc=5",
+          "press": ""
+        },
+        {
+          "title": "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObUh4TjN3aHF2ZTJsVkR2YmRUaG1ERk5sZllFaUVYSWdGMEt3RkhJMUtGMWxCRG1COUpGS0JHWnB2UGs2dTE5OTZTaldVZ2V1VHh6NWIwRkxtVzdUcFZ4UzVhTVFVSThpZXA3WnNsZUgxeERRY3o2MElBYWVxM0lkaTdn?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[태평로] 젠슨 황의 몰락이 던지는 질문",
+        "[NVIDIA ‘젠슨 황’ 미스터리 1] 가죽 재킷 젠슨 황의 몰락 이유는? ‘그녀는 스파이 인가, 기업 사냥꾼인가’",
+        "젠슨 황의 몰락 불 댕긴 ‘루비오 메모’…그 뒤엔 거대한 암투 있었다"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "만점자",
+      "series_title": "만점자의 몰락",
+      "count": 1,
+      "representative_title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "만점자의 몰락이라는 희비극 [한겨레 프리즘]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "기성종교",
+      "series_title": "기성종교의 몰락",
+      "count": 1,
+      "representative_title": "[종교포커스] 2500만→1700만명 되는데 불과 20년…‘기성종교의 몰락’ 시작됐나",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aTRGVDJSb1J5OF90VlNEb3FhUGNodkg1djNVMENHMFYtS0E0MDFfa3k1MTNrZHdfdG80OEJXSHB3WHJyMzZWNklGa2drQVBJY2pScXBXMmh4ZkRzUkRWdVh6UG92c0NrclE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[종교포커스] 2500만→1700만명 되는데 불과 20년…‘기성종교의 몰락’ 시작됐나",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12aTRGVDJSb1J5OF90VlNEb3FhUGNodkg1djNVMENHMFYtS0E0MDFfa3k1MTNrZHdfdG80OEJXSHB3WHJyMzZWNklGa2drQVBJY2pScXBXMmh4ZkRzUkRWdVh6UG92c0NrclE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[종교포커스] 2500만→1700만명 되는데 불과 20년…‘기성종교의 몰락’ 시작됐나"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "라인",
+      "series_title": "라인의 몰락",
+      "count": 1,
+      "representative_title": "유력 차기 후보 천지닝 낙마…칭화대 라인 몰락하나",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xVWFKUnU3dHYzZ1J4ZGg5MnpndXNRd2hmMVNaTWVxNmtiNnhwUnFmNk9tZzl1RFlBeDVzR0o1VlVqM3JPVXdZOUxYUFMyM0cxQ2JTaXBwN3JWd9IBWEFVX3lxTFBybXVfS1J0RDdvRy1vYjJHYXV3VFBTZE1EdFF3bWF3S0Q5YkN6UWxzNVIwcnE1LVczN2lHenI5T0puZHl1OHVZMnVzODJZRDBvLXhGX2pzUFk?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "유력 차기 후보 천지닝 낙마…칭화대 라인 몰락하나",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xVWFKUnU3dHYzZ1J4ZGg5MnpndXNRd2hmMVNaTWVxNmtiNnhwUnFmNk9tZzl1RFlBeDVzR0o1VlVqM3JPVXdZOUxYUFMyM0cxQ2JTaXBwN3JWd9IBWEFVX3lxTFBybXVfS1J0RDdvRy1vYjJHYXV3VFBTZE1EdFF3bWF3S0Q5YkN6UWxzNVIwcnE1LVczN2lHenI5T0puZHl1OHVZMnVzODJZRDBvLXhGX2pzUFk?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "유력 차기 후보 천지닝 낙마…칭화대 라인 몰락하나"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "록스타",
+      "series_title": "록스타의 몰락",
+      "count": 1,
+      "representative_title": "반도체 록스타의 몰락 [비즈앤피플]",
+      "representative_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96bFZOa1pMN0dLV014QVpHSjhENDBUTGJtLUxBZ2d2eXJHMkxVdGc3Y2pacTJyUnFkd1dfWlJkWFFnbFI5Z1g3X3ROb3JudUxHdXhseDQ0OHRtSVRKLVVDRS1UQlVlYU1JaHkxMnU4cFZLOEhFSkJyaw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "반도체 록스타의 몰락 [비즈앤피플]",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96bFZOa1pMN0dLV014QVpHSjhENDBUTGJtLUxBZ2d2eXJHMkxVdGc3Y2pacTJyUnFkd1dfWlJkWFFnbFI5Z1g3X3ROb3JudUxHdXhseDQ0OHRtSVRKLVVDRS1UQlVlYU1JaHkxMnU4cFZLOEhFSkJyaw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "반도체 록스타의 몰락 [비즈앤피플]"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 4,
+      "representative_title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NEpOTFBfdjh3b1hYZEkwUTE2RXRnNlVkbnpRa21yNlN3MnRxOEVvRG01N2RhTkZRTWg0YjBvS3dLZTAtTWpQUkxUVVpjMkp3Tm9FdmdBZzdwSVVxUmFSV1NnbEZuelB1UFE?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZHpabUF2aDlQdFRZUXh2eWF5S3I3X1dScjlLMVdnbnRyRWo0WGZlcG9EMDNZSHM1QVg0MkRPRXotX0MxSGRiREs2eVZEYzFaMHdROTU0MllCU0hTVE1rZ25OVWNCZGlqX3RGeFRKZF9JZ1p4Ukt6UmVMLWZmS0lTVQ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 넘어 한강벨트까지…‘서울 집값 정말 잡히나요’[부동산 취재로그]",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPXy02dkp4eTE0Zm1rNkZMWGkxelhkY2plXzdYelBUMEZKXy1SWEs3empmYVNPZ29pU2xXb0hvY0ZwWHR5dHNiVXliT2x1Q2UyTHA4ZHNraUxYdVltUGFFaGFvY1MtdDliX3JXUzE1RFozQ1J5bERKREFVbkpNaFFNSQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+        "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
+        "서울 집값 너무 올랐고 매수자는 지쳐…가격 조정 시작될까[손바닥부동산]",
+        "강남 넘어 한강벨트까지…‘서울 집값 정말 잡히나요’[부동산 취재로그]"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
