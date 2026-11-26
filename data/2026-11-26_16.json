@@ -1,0 +1,420 @@
+{
+  "date": "2026-11-26",
+  "hour": "16",
+  "slot": "2026-11-26_16",
+  "crawled_at": "2026-11-26 16:00:00",
+  "total_articles": 406,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "만점자",
+      "count": 23,
+      "representative_title": "[속보]의사 국시 만점자 7배 늘었다",
+      "representative_link": "https://n.news.naver.com/article/050/0000113819?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "'수능 만점자 최소 3명' 꽁꽁 숨었다...'은둔 이유' 알아보니",
+          "link": "https://n.news.naver.com/article/422/0000930057?ntype=RANKING",
+          "press": "연합뉴스TV"
+        },
+        {
+          "title": "'간호냥이·의사냥이'도 있나…국시 만점자 최대 27배 늘었다",
+          "link": "https://n.news.naver.com/article/057/0001979968?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "[속보]의사 국시 만점자 7배 늘었다",
+          "link": "https://n.news.naver.com/article/050/0000113819?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "수능 만점자 최소 3명 나왔는데… 올해는 모두 ‘신원 비공개’",
+          "link": "https://n.news.naver.com/article/005/0001887554?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "“생명 다루는데…” ‘전수조사 밖’ 의사 국시 만점자 5배 폭증",
+          "link": "https://n.news.naver.com/article/005/0001887607?ntype=RANKING",
+          "press": "국민일보"
+        }
+      ],
+      "related_titles": [
+        "'수능 만점자 최소 3명' 꽁꽁 숨었다...'은둔 이유' 알아보니",
+        "'간호냥이·의사냥이'도 있나…국시 만점자 최대 27배 늘었다",
+        "[속보]의사 국시 만점자 7배 늘었다",
+        "수능 만점자 최소 3명 나왔는데… 올해는 모두 ‘신원 비공개’",
+        "“생명 다루는데…” ‘전수조사 밖’ 의사 국시 만점자 5배 폭증"
+      ],
+      "category": "건강/의료"
+    },
+    {
+      "rank": 2,
+      "keyword": "탄핵",
+      "count": 17,
+      "representative_title": "정성호 \"조희대 탄핵 최종 책임은 민주당이 져야\"",
+      "representative_link": "https://n.news.naver.com/article/586/0000143063?ntype=RANKING",
+      "press": "시사저널",
+      "related_articles": [
+        {
+          "title": "‘조희대 탄핵’에 “반대” 44%, “찬성” 34%···이 대통령 지지율은 떨어져 43%[NBS]",
+          "link": "https://n.news.naver.com/article/032/0003485221?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "현직판사 \"정치권력 원하는 결론 아니면 탄핵·법왜곡죄 피고인\"",
+          "link": "https://n.news.naver.com/article/001/0016465089?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "“권력이 원하는 결론 아니면 탄핵”…조희대 탄핵에 침묵 깬 부장판사",
+          "link": "https://n.news.naver.com/article/025/0003568162?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "'탄핵 추진' 후폭풍…현직 판사 \"제발 재판에 매진하고 싶다\"",
+          "link": "https://n.news.naver.com/article/057/0001979980?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "정성호 “조희대 탄핵, 후과에 대한 책임은 여당이 져야”",
+          "link": "https://n.news.naver.com/article/023/0004011851?ntype=RANKING",
+          "press": "조선일보"
+        }
+      ],
+      "related_titles": [
+        "‘조희대 탄핵’에 “반대” 44%, “찬성” 34%···이 대통령 지지율은 떨어져 43%[NBS]",
+        "현직판사 \"정치권력 원하는 결론 아니면 탄핵·법왜곡죄 피고인\"",
+        "“권력이 원하는 결론 아니면 탄핵”…조희대 탄핵에 침묵 깬 부장판사",
+        "'탄핵 추진' 후폭풍…현직 판사 \"제발 재판에 매진하고 싶다\"",
+        "정성호 “조희대 탄핵, 후과에 대한 책임은 여당이 져야”"
+      ],
+      "category": "국제"
+    },
+    {
+      "rank": 3,
+      "keyword": "무죄",
+      "count": 16,
+      "representative_title": "尹 '계엄 국무회의 위증' 무죄 확정",
+      "representative_link": "https://n.news.naver.com/article/448/0000653525?ntype=RANKING",
+      "press": "TV조선",
+      "related_articles": [
+        {
+          "title": "윤석열 '한덕수 재판 위증' 무죄 확정…특검 '완패'",
+          "link": "https://n.news.naver.com/article/057/0001979953?ntype=RANKING",
+          "press": "MBN"
+        },
+        {
+          "title": "윤석열 ‘계엄 국무회의 위증’ 무죄 확정",
+          "link": "https://n.news.naver.com/article/056/0012301655?ntype=RANKING",
+          "press": "KBS"
+        },
+        {
+          "title": "윤석열 무죄 확정 뒤 김계리, 마이크 앞 \"특검에 감사\" 씨익 [현장영상]",
+          "link": "https://n.news.naver.com/article/437/0000522551?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "[속보] 대법, 윤석열 무죄 확정…\"'국무회의 열려 했다' 위증 아냐\"",
+          "link": "https://n.news.naver.com/article/002/0002467665?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "'한덕수 내란 재판 위증' 윤석열 대법서 무죄 확정",
+          "link": "https://n.news.naver.com/article/052/0002438383?ntype=RANKING",
+          "press": "YTN"
+        }
+      ],
+      "related_titles": [
+        "윤석열 '한덕수 재판 위증' 무죄 확정…특검 '완패'",
+        "윤석열 ‘계엄 국무회의 위증’ 무죄 확정",
+        "윤석열 무죄 확정 뒤 김계리, 마이크 앞 \"특검에 감사\" 씨익 [현장영상]",
+        "[속보] 대법, 윤석열 무죄 확정…\"'국무회의 열려 했다' 위증 아냐\"",
+        "'한덕수 내란 재판 위증' 윤석열 대법서 무죄 확정"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "윤석열",
+      "count": 15,
+      "representative_title": "대법원 윤석열 '국무회의 계획' 위증 무죄에 \"이중잣대\" 논란",
+      "representative_link": "https://n.news.naver.com/article/006/0000138960?ntype=RANKING",
+      "press": "미디어오늘",
+      "related_articles": [
+        {
+          "title": "윤석열 '한덕수 재판 위증' 무죄확정…尹측 \"특검이 짜맞춘 소설\"(종합2보)",
+          "link": "https://n.news.naver.com/article/001/0016465119?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[속보] 윤석열 측 김계리, 위증 무죄에 \"당연한 일이라 사법부 말고 특검에 감사해\"",
+          "link": "https://n.news.naver.com/article/002/0002467710?ntype=RANKING",
+          "press": "프레시안"
+        },
+        {
+          "title": "대법원 윤석열 '국무회의 계획' 위증 무죄에 \"이중잣대\" 논란",
+          "link": "https://n.news.naver.com/article/006/0000138960?ntype=RANKING",
+          "press": "미디어오늘"
+        }
+      ],
+      "related_titles": [
+        "윤석열 '한덕수 재판 위증' 무죄확정…尹측 \"특검이 짜맞춘 소설\"(종합2보)",
+        "[속보] 윤석열 측 김계리, 위증 무죄에 \"당연한 일이라 사법부 말고 특검에 감사해\"",
+        "대법원 윤석열 '국무회의 계획' 위증 무죄에 \"이중잣대\" 논란"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 5,
+      "keyword": "수능",
+      "count": 13,
+      "representative_title": "수능 만점 받고도 쉬쉬…3명 모두 신원 공개 거부한 이유",
+      "representative_link": "https://n.news.naver.com/article/053/0000063361?ntype=RANKING",
+      "press": "주간조선",
+      "related_articles": [
+        {
+          "title": "수능 만점 최소 3명 나왔는데…“신원 공개 거부” 쉬쉬하는 이유",
+          "link": "https://n.news.naver.com/article/025/0003568096?ntype=RANKING",
+          "press": "중앙일보"
+        },
+        {
+          "title": "수능 만점 최소 3명이지만 '쉬쉬'… 신원 공개 거부하는 이유",
+          "link": "https://n.news.naver.com/article/656/0000193616?ntype=RANKING",
+          "press": "대전일보"
+        },
+        {
+          "title": "\"알려지면 괜한 의심 받을라\"…수능 가채점 만점자들 신원 공개 꺼려",
+          "link": "https://n.news.naver.com/article/031/0001078584?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "수능 만점 받고도 쉬쉬…3명 모두 신원 공개 거부한 이유",
+          "link": "https://n.news.naver.com/article/053/0000063361?ntype=RANKING",
+          "press": "주간조선"
+        }
+      ],
+      "related_titles": [
+        "수능 만점 최소 3명 나왔는데…“신원 공개 거부” 쉬쉬하는 이유",
+        "수능 만점 최소 3명이지만 '쉬쉬'… 신원 공개 거부하는 이유",
+        "\"알려지면 괜한 의심 받을라\"…수능 가채점 만점자들 신원 공개 꺼려",
+        "수능 만점 받고도 쉬쉬…3명 모두 신원 공개 거부한 이유"
+      ],
+      "category": "사회/일반"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "삼성전자",
+      "count": 5,
+      "representative_title": "삼성전자 정기 임원 인사… 승진자 53%는 반도체 부문",
+      "representative_link": "https://n.news.naver.com/article/037/0000039213?ntype=RANKING",
+      "press": "주간동아",
+      "related_articles": [
+        {
+          "title": "\"삼성전자 망할 것 같아요? 반값이면 찬스\"…존 리가 말한 폭락장 투자법",
+          "link": "https://n.news.naver.com/article/014/0005610161?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "\"삼성전자 망할 것 같아요?\" 주가 반토막에도…\"월급의 10% 꾸준히 투자 하라\"",
+          "link": "https://n.news.naver.com/article/277/0005848183?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "삼성전자, 메모리 개발체제 일원화…시스템LSI '전략마케팅실' 부활",
+          "link": "https://n.news.naver.com/article/031/0001078657?ntype=RANKING",
+          "press": "아이뉴스24"
+        },
+        {
+          "title": "[속보] 코스피 '멸망의 날'? 삼성전자·SK하이닉스 장중 동반 마이너스 10%대 터치",
+          "link": "https://n.news.naver.com/article/088/0001042239?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "삼성전자 정기 임원 인사… 승진자 53%는 반도체 부문",
+          "link": "https://n.news.naver.com/article/037/0000039213?ntype=RANKING",
+          "press": "주간동아"
+        }
+      ],
+      "related_titles": [
+        "\"삼성전자 망할 것 같아요? 반값이면 찬스\"…존 리가 말한 폭락장 투자법",
+        "\"삼성전자 망할 것 같아요?\" 주가 반토막에도…\"월급의 10% 꾸준히 투자 하라\"",
+        "삼성전자, 메모리 개발체제 일원화…시스템LSI '전략마케팅실' 부활",
+        "[속보] 코스피 '멸망의 날'? 삼성전자·SK하이닉스 장중 동반 마이너스 10%대 터치",
+        "삼성전자 정기 임원 인사… 승진자 53%는 반도체 부문"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "젠슨",
+      "count": 5,
+      "representative_title": "젠슨 황 복귀했는데...엔비디아 또 '날벼락'?",
+      "representative_link": "https://n.news.naver.com/article/050/0000113793?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "[단독] 이재용·최태원 함께한 '젠슨 황의 밤'…수입 300만 달러 넘어 역대 최대",
+          "link": "https://n.news.naver.com/article/119/0003159678?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "젠슨 황만이 아니었다…엔비디아 임원, ‘대중국 반도체 밀수’ 혐의 기업 임원과 혼인",
+          "link": "https://n.news.naver.com/article/028/0002834062?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "젠슨 황 복귀했는데...엔비디아 또 '날벼락'?",
+          "link": "https://n.news.naver.com/article/050/0000113793?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "“젠슨 황이 곧 엔비디아… AI 버블 논하기에 너무 일러”",
+          "link": "https://n.news.naver.com/article/037/0000039217?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문",
+          "link": "https://n.news.naver.com/article/037/0000039211?ntype=RANKING",
+          "press": "주간동아"
+        }
+      ],
+      "related_titles": [
+        "[단독] 이재용·최태원 함께한 '젠슨 황의 밤'…수입 300만 달러 넘어 역대 최대",
+        "젠슨 황만이 아니었다…엔비디아 임원, ‘대중국 반도체 밀수’ 혐의 기업 임원과 혼인",
+        "젠슨 황 복귀했는데...엔비디아 또 '날벼락'?",
+        "“젠슨 황이 곧 엔비디아… AI 버블 논하기에 너무 일러”",
+        "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "주가",
+      "count": 3,
+      "representative_title": "“주가 빠질 땐 왜 대통령 탓 못 하나”…‘李 사심’ 이광수도 폭발",
+      "representative_link": "https://n.news.naver.com/article/018/0006415845?ntype=RANKING",
+      "press": "이데일리",
+      "related_articles": [
+        {
+          "title": "“주가 빠질 땐 왜 대통령 탓 못 하나”…‘李 사심’ 이광수도 폭발",
+          "link": "https://n.news.naver.com/article/018/0006415845?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "中에 밀려 주가 60% 폭락했는데…\"내년은 한국 독무대\" [분석+]",
+          "link": "https://n.news.naver.com/article/015/0005358548?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "“주가 빠질 땐 왜 대통령 탓 못 하나”…‘李 사심’ 이광수도 폭발",
+          "link": "https://n.news.naver.com/article/018/0006415845?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "中에 밀려 주가 60% 폭락했는데…\"내년은 한국 독무대\" [분석+]",
+          "link": "https://n.news.naver.com/article/015/0005358548?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "“주가 빠질 땐 왜 대통령 탓 못 하나”…‘李 사심’ 이광수도 폭발",
+          "link": "https://n.news.naver.com/article/018/0006415845?ntype=RANKING",
+          "press": "이데일리"
+        }
+      ],
+      "related_titles": [
+        "“주가 빠질 땐 왜 대통령 탓 못 하나”…‘李 사심’ 이광수도 폭발",
+        "中에 밀려 주가 60% 폭락했는데…\"내년은 한국 독무대\" [분석+]",
+        "“주가 빠질 땐 왜 대통령 탓 못 하나”…‘李 사심’ 이광수도 폭발",
+        "中에 밀려 주가 60% 폭락했는데…\"내년은 한국 독무대\" [분석+]",
+        "“주가 빠질 땐 왜 대통령 탓 못 하나”…‘李 사심’ 이광수도 폭발"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "코스피",
+      "count": 3,
+      "representative_title": "이기인 “李 분당집 판 돈 코스피 넣었다면 7억 손실…국민에 사과해야”",
+      "representative_link": "https://n.news.naver.com/article/666/0000133915?ntype=RANKING",
+      "press": "경기일보",
+      "related_articles": [
+        {
+          "title": "이기인 “李 분당집 판 돈 코스피 넣었다면 7억 손실…국민에 사과해야”",
+          "link": "https://n.news.naver.com/article/666/0000133915?ntype=RANKING",
+          "press": "경기일보"
+        },
+        {
+          "title": "“증안펀드 늘리고 공매도 금지하나”…코스피 급등락에 금융당국 추가 대책 ‘촉각’",
+          "link": "https://n.news.naver.com/article/138/0002249985?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "이기인 “李 분당집 판 돈 코스피 넣었다면 7억 손실…국민에 사과해야”",
+          "link": "https://n.news.naver.com/article/666/0000133915?ntype=RANKING",
+          "press": "경기일보"
+        },
+        {
+          "title": "“증안펀드 늘리고 공매도 금지하나”…코스피 급등락에 금융당국 추가 대책 ‘촉각’",
+          "link": "https://n.news.naver.com/article/138/0002249985?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "이기인 “李 분당집 판 돈 코스피 넣었다면 7억 손실…국민에 사과해야”",
+          "link": "https://n.news.naver.com/article/666/0000133915?ntype=RANKING",
+          "press": "경기일보"
+        }
+      ],
+      "related_titles": [
+        "이기인 “李 분당집 판 돈 코스피 넣었다면 7억 손실…국민에 사과해야”",
+        "“증안펀드 늘리고 공매도 금지하나”…코스피 급등락에 금융당국 추가 대책 ‘촉각’",
+        "이기인 “李 분당집 판 돈 코스피 넣었다면 7억 손실…국민에 사과해야”",
+        "“증안펀드 늘리고 공매도 금지하나”…코스피 급등락에 금융당국 추가 대책 ‘촉각’",
+        "이기인 “李 분당집 판 돈 코스피 넣었다면 7억 손실…국민에 사과해야”"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 4,
+      "representative_title": "강남3구 꺾였다…서울 집값 0.01% 상승 그쳐",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwNU9TYktRbUtjbE4xUnJETWVIVUhzdk55Z3FRYllqZk84RVEyT2RqWExFUEQ4VUk1Qk9ZZDJ0cjhLUEVuX1NmZU92SnhhYUtzS21IZW5vVDBhSi1XWGZkU3U0a0lzVUpO?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남3구 꺾였다…서울 집값 0.01% 상승 그쳐",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwNU9TYktRbUtjbE4xUnJETWVIVUhzdk55Z3FRYllqZk84RVEyT2RqWExFUEQ4VUk1Qk9ZZDJ0cjhLUEVuX1NmZU92SnhhYUtzS21IZW5vVDBhSi1XWGZkU3U0a0lzVUpO?oc=5",
+          "press": ""
+        },
+        {
+          "title": "영등포·광진도 하락 전환…94주 오른 서울 집값, 다음 주 꺾이나 [부동산360]",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VVnBlMDBETUxrT1k5SHgxQjFlc2hmVEJpM1loRkNCY3V4RHBLNm00b2I0Rkh1SDk0c084YjFtVFd0N3RjTHF0cDBhdGhzRURhLTk5cGpB?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NEpOTFBfdjh3b1hYZEkwUTE2RXRnNlVkbnpRa21yNlN3MnRxOEVvRG01N2RhTkZRTWg0YjBvS3dLZTAtTWpQUkxUVVpjMkp3Tm9FdmdBZzdwSVVxUmFSV1NnbEZuelB1UFE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남3구 꺾였다…서울 집값 0.01% 상승 그쳐",
+        "영등포·광진도 하락 전환…94주 오른 서울 집값, 다음 주 꺾이나 [부동산360]",
+        "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+        "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
