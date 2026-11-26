@@ -1,0 +1,492 @@
+{
+  "date": "2026-11-26",
+  "hour": "13",
+  "slot": "2026-11-26_13",
+  "crawled_at": "2026-11-26 13:00:05",
+  "total_articles": 407,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "무죄",
+      "count": 37,
+      "representative_title": "尹 '계엄 국무회의 위증' 무죄 확정",
+      "representative_link": "https://n.news.naver.com/article/448/0000653525?ntype=RANKING",
+      "press": "TV조선",
+      "related_articles": [
+        {
+          "title": "윤석열, ‘한덕수 재판 위증’ 혐의 무죄 확정",
+          "link": "https://n.news.naver.com/article/028/0002834044?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "[속보] 대법, 윤석열 ‘한덕수 재판 위증’ 무죄 확정",
+          "link": "https://n.news.naver.com/article/081/0003703384?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "[속보]윤석열 ‘한덕수 재판 위증 혐의’ 대법서 무죄 확정",
+          "link": "https://n.news.naver.com/article/032/0003485208?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "'한덕수 재판서 계엄 국무회의 위증 혐의' 윤석열 무죄 확정(종합)",
+          "link": "https://n.news.naver.com/article/001/0016464784?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "[2보] 대법, 윤석열 '한덕수 재판 위증' 무죄 확정",
+          "link": "https://n.news.naver.com/article/001/0016464688?ntype=RANKING",
+          "press": "연합뉴스"
+        }
+      ],
+      "related_titles": [
+        "윤석열, ‘한덕수 재판 위증’ 혐의 무죄 확정",
+        "[속보] 대법, 윤석열 ‘한덕수 재판 위증’ 무죄 확정",
+        "[속보]윤석열 ‘한덕수 재판 위증 혐의’ 대법서 무죄 확정",
+        "'한덕수 재판서 계엄 국무회의 위증 혐의' 윤석열 무죄 확정(종합)",
+        "[2보] 대법, 윤석열 '한덕수 재판 위증' 무죄 확정"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 2,
+      "keyword": "확정",
+      "count": 34,
+      "representative_title": "[속보] ‘토마토 바이러스’ 빠른 확산에 보상 확정…감염 경로 미궁",
+      "representative_link": "https://n.news.naver.com/article/662/0000109366?ntype=RANKING",
+      "press": "농민신문",
+      "related_articles": [
+        {
+          "title": "[속보] ‘토마토 바이러스’ 빠른 확산에 보상 확정…감염 경로 미궁",
+          "link": "https://n.news.naver.com/article/662/0000109366?ntype=RANKING",
+          "press": "농민신문"
+        }
+      ],
+      "related_titles": [
+        "[속보] ‘토마토 바이러스’ 빠른 확산에 보상 확정…감염 경로 미궁"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 3,
+      "keyword": "윤석열",
+      "count": 31,
+      "representative_title": "역대 대통령 호감도, 노무현-김대중-박정희 순…윤석열 꼴찌",
+      "representative_link": "https://n.news.naver.com/article/417/0001165714?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "역대 대통령 호감도, 노무현-김대중-박정희 순…윤석열 꼴찌",
+          "link": "https://n.news.naver.com/article/417/0001165714?ntype=RANKING",
+          "press": "동행미디어 시대"
+        }
+      ],
+      "related_titles": [
+        "역대 대통령 호감도, 노무현-김대중-박정희 순…윤석열 꼴찌"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 4,
+      "keyword": "재판",
+      "count": 25,
+      "representative_title": "[속보]국민 59% “李대통령 재판 재개 필요”-코리아정보리서치",
+      "representative_link": "https://n.news.naver.com/article/021/0002835673?ntype=RANKING",
+      "press": "문화일보",
+      "related_articles": [
+        {
+          "title": "국민 59% \"李 재판 재개 필요\"…지지율 35.1%, 부정평가 62.4%",
+          "link": "https://n.news.naver.com/article/448/0000653477?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "[속보]국민 59% “李대통령 재판 재개 필요”-코리아정보리서치",
+          "link": "https://n.news.naver.com/article/021/0002835673?ntype=RANKING",
+          "press": "문화일보"
+        }
+      ],
+      "related_titles": [
+        "국민 59% \"李 재판 재개 필요\"…지지율 35.1%, 부정평가 62.4%",
+        "[속보]국민 59% “李대통령 재판 재개 필요”-코리아정보리서치"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 5,
+      "keyword": "만점자",
+      "count": 23,
+      "representative_title": "[속보] 경찰, '리트 만점자' 의혹 강제수사 착수",
+      "representative_link": "https://n.news.naver.com/article/422/0000930078?ntype=RANKING",
+      "press": "연합뉴스TV",
+      "related_articles": [
+        {
+          "title": "[속보]경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색",
+          "link": "https://n.news.naver.com/article/032/0003485217?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "경찰, ‘리트 만점자’ 이진우씨 집·수능시험지 보관학교 압수수색 [세상&]",
+          "link": "https://n.news.naver.com/article/016/0002728786?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "리트 만점자 자취방도 조사했다…경찰, ‘생명과학’ 과외 교사도 불러 조사 [세상&]",
+          "link": "https://n.news.naver.com/article/016/0002728758?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "[속보] 경찰, ‘리트 만점자’ 집·수능시험지 보관 고등학교 압수수색",
+          "link": "https://n.news.naver.com/article/022/0004178283?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "“의심만 받는데 굳이?”… 수능 만점자 3명 모두 신원 공개 거부",
+          "link": "https://n.news.naver.com/article/366/0001207472?ntype=RANKING",
+          "press": "조선비즈"
+        }
+      ],
+      "related_titles": [
+        "[속보]경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색",
+        "경찰, ‘리트 만점자’ 이진우씨 집·수능시험지 보관학교 압수수색 [세상&]",
+        "리트 만점자 자취방도 조사했다…경찰, ‘생명과학’ 과외 교사도 불러 조사 [세상&]",
+        "[속보] 경찰, ‘리트 만점자’ 집·수능시험지 보관 고등학교 압수수색",
+        "“의심만 받는데 굳이?”… 수능 만점자 3명 모두 신원 공개 거부"
+      ],
+      "category": "사건/사고"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "젠슨",
+      "count": 5,
+      "representative_title": "젠슨 황 복귀했는데...엔비디아 또 '날벼락'?",
+      "representative_link": "https://n.news.naver.com/article/050/0000113793?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "젠슨 황 복귀했는데...엔비디아 또 '날벼락'?",
+          "link": "https://n.news.naver.com/article/050/0000113793?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "젠슨 황 복귀 후폭풍에 AI 빚투 공포까지… 엔비디아·빅테크 신용 위험 ‘사상 최고’",
+          "link": "https://n.news.naver.com/article/366/0001207428?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "[단독] 이재용·최태원 함께한 '젠슨 황의 밤'…수입 300만 달러 넘어 역대 최대",
+          "link": "https://n.news.naver.com/article/119/0003159678?ntype=RANKING",
+          "press": "데일리안"
+        },
+        {
+          "title": "“젠슨 황이 곧 엔비디아… AI 버블 논하기에 너무 일러”",
+          "link": "https://n.news.naver.com/article/037/0000039217?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문",
+          "link": "https://n.news.naver.com/article/037/0000039211?ntype=RANKING",
+          "press": "주간동아"
+        }
+      ],
+      "related_titles": [
+        "젠슨 황 복귀했는데...엔비디아 또 '날벼락'?",
+        "젠슨 황 복귀 후폭풍에 AI 빚투 공포까지… 엔비디아·빅테크 신용 위험 ‘사상 최고’",
+        "[단독] 이재용·최태원 함께한 '젠슨 황의 밤'…수입 300만 달러 넘어 역대 최대",
+        "“젠슨 황이 곧 엔비디아… AI 버블 논하기에 너무 일러”",
+        "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "코스피",
+      "count": 5,
+      "representative_title": "“외국인 투매에 속수무책”…코스피 6.2% 급락, 4690선 마감",
+      "representative_link": "https://n.news.naver.com/article/138/0002249920?ntype=RANKING",
+      "press": "디지털데일리",
+      "related_articles": [
+        {
+          "title": "\"공매도 금지 나올까\"…코스피 6% 폭락 다음날, 증권가가 꼽은 '단기 처방전'은",
+          "link": "https://n.news.naver.com/article/014/0005609968?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "[속보] 코스피 '멸망의 날'? 삼성전자·SK하이닉스 장중 동반 마이너스 10%대 터치",
+          "link": "https://n.news.naver.com/article/088/0001042239?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "‘최악은 피했다’ 美, 과잉생산관세 한국 15% 유지...코스피 상승 출발",
+          "link": "https://n.news.naver.com/article/243/0000106302?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "“증안펀드 늘리고 공매도 금지하나”…코스피 급등락에 금융당국 추가 대책 ‘촉각’",
+          "link": "https://n.news.naver.com/article/138/0002249985?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "“외국인 투매에 속수무책”…코스피 6.2% 급락, 4690선 마감",
+          "link": "https://n.news.naver.com/article/138/0002249920?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "\"공매도 금지 나올까\"…코스피 6% 폭락 다음날, 증권가가 꼽은 '단기 처방전'은",
+        "[속보] 코스피 '멸망의 날'? 삼성전자·SK하이닉스 장중 동반 마이너스 10%대 터치",
+        "‘최악은 피했다’ 美, 과잉생산관세 한국 15% 유지...코스피 상승 출발",
+        "“증안펀드 늘리고 공매도 금지하나”…코스피 급등락에 금융당국 추가 대책 ‘촉각’",
+        "“외국인 투매에 속수무책”…코스피 6.2% 급락, 4690선 마감"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "금리",
+      "count": 4,
+      "representative_title": "은행 돈으로 저축은행이 대출…중저신용자 금리 5%p 낮춘다",
+      "representative_link": "https://n.news.naver.com/article/648/0000053000?ntype=RANKING",
+      "press": "비즈워치",
+      "related_articles": [
+        {
+          "title": "은행 돈으로 저축은행이 대출…중저신용자 금리 5%p 낮춘다",
+          "link": "https://n.news.naver.com/article/648/0000053000?ntype=RANKING",
+          "press": "비즈워치"
+        },
+        {
+          "title": "[속보] 올해만 세 차례 금리 인상… 한은, 기준금리 연 3.25%로 올렸다",
+          "link": "https://n.news.naver.com/article/469/0000967859?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "한은, 금리 연 3.25%로 인상…동결 소수 의견 2명(종합)",
+          "link": "https://n.news.naver.com/article/003/0014346374?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "“이번이 마지막 금리 인상?”…외국인, 10년물 국채선물 대거 사들였다",
+          "link": "https://n.news.naver.com/article/024/0000109872?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "[속보] 올해만 세 차례 금리 인상… 한은, 기준금리 연 3.25%로 올렸다",
+          "link": "https://n.news.naver.com/article/469/0000967859?ntype=RANKING",
+          "press": "한국일보"
+        }
+      ],
+      "related_titles": [
+        "은행 돈으로 저축은행이 대출…중저신용자 금리 5%p 낮춘다",
+        "[속보] 올해만 세 차례 금리 인상… 한은, 기준금리 연 3.25%로 올렸다",
+        "한은, 금리 연 3.25%로 인상…동결 소수 의견 2명(종합)",
+        "“이번이 마지막 금리 인상?”…외국인, 10년물 국채선물 대거 사들였다",
+        "[속보] 올해만 세 차례 금리 인상… 한은, 기준금리 연 3.25%로 올렸다"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "급락",
+      "count": 3,
+      "representative_title": "\"11% 급락, 지금이 싸다\" 하이닉스 저가 매수...삼전과 동반 반등",
+      "representative_link": "https://n.news.naver.com/article/008/0005446614?ntype=RANKING",
+      "press": "머니투데이",
+      "related_articles": [
+        {
+          "title": "\"11% 급락, 지금이 싸다\" 하이닉스 저가 매수...삼전과 동반 반등",
+          "link": "https://n.news.naver.com/article/008/0005446614?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "\"11% 급락, 지금이 싸다\" 하이닉스 저가 매수...삼전과 동반 반등",
+          "link": "https://n.news.naver.com/article/008/0005446614?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "\"11% 급락, 지금이 싸다\" 하이닉스 저가 매수...삼전과 동반 반등",
+          "link": "https://n.news.naver.com/article/008/0005446614?ntype=RANKING",
+          "press": "머니투데이"
+        }
+      ],
+      "related_titles": [
+        "\"11% 급락, 지금이 싸다\" 하이닉스 저가 매수...삼전과 동반 반등",
+        "\"11% 급락, 지금이 싸다\" 하이닉스 저가 매수...삼전과 동반 반등",
+        "\"11% 급락, 지금이 싸다\" 하이닉스 저가 매수...삼전과 동반 반등"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "삼성전자",
+      "count": 3,
+      "representative_title": "삼성전자 정기 임원 인사… 승진자 53%는 반도체 부문",
+      "representative_link": "https://n.news.naver.com/article/037/0000039213?ntype=RANKING",
+      "press": "주간동아",
+      "related_articles": [
+        {
+          "title": "삼성전자 10주에 204만원 손실…107조 벌고도 왜 반토막 났나 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004178175?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "삼성전자 정기 임원 인사… 승진자 53%는 반도체 부문",
+          "link": "https://n.news.naver.com/article/037/0000039213?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "삼성전자 10주에 204만원 손실…107조 벌고도 왜 반토막 났나 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004178175?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "삼성전자 정기 임원 인사… 승진자 53%는 반도체 부문",
+          "link": "https://n.news.naver.com/article/037/0000039213?ntype=RANKING",
+          "press": "주간동아"
+        },
+        {
+          "title": "삼성전자 10주에 204만원 손실…107조 벌고도 왜 반토막 났나 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004178175?ntype=RANKING",
+          "press": "세계일보"
+        }
+      ],
+      "related_titles": [
+        "삼성전자 10주에 204만원 손실…107조 벌고도 왜 반토막 났나 [숫자 뒤의 진실]",
+        "삼성전자 정기 임원 인사… 승진자 53%는 반도체 부문",
+        "삼성전자 10주에 204만원 손실…107조 벌고도 왜 반토막 났나 [숫자 뒤의 진실]",
+        "삼성전자 정기 임원 인사… 승진자 53%는 반도체 부문",
+        "삼성전자 10주에 204만원 손실…107조 벌고도 왜 반토막 났나 [숫자 뒤의 진실]"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "처참한",
+      "series_title": "처참한의 몰락",
+      "count": 1,
+      "representative_title": "'제2의 메시'로 불리던 日 특급 유망주의 처참한 몰락…아스널서 EPL 데뷔→끝없는 부상 발목",
+      "representative_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4RGdaRHB2dHpOVnZHbl9VR0YyREFhcnF4cG42RDU1TU1Pd2JkV2l4R08tdFRXQXpuY3hZZjk0SzlOUWRyUGJOamtuVE5BbzRQV0hYZHQ4U01ZUkUtSVI3V05NcEhFZkRiVmtqVGROSTFPUUpGb2Z3WTdxemdKUQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'제2의 메시'로 불리던 日 특급 유망주의 처참한 몰락…아스널서 EPL 데뷔→끝없는 부상 발목",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4RGdaRHB2dHpOVnZHbl9VR0YyREFhcnF4cG42RDU1TU1Pd2JkV2l4R08tdFRXQXpuY3hZZjk0SzlOUWRyUGJOamtuVE5BbzRQV0hYZHQ4U01ZUkUtSVI3V05NcEhFZkRiVmtqVGROSTFPUUpGb2Z3WTdxemdKUQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'제2의 메시'로 불리던 日 특급 유망주의 처참한 몰락…아스널서 EPL 데뷔→끝없는 부상 발목"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 1,
+      "representative_title": "민주당 지지층 이탈, 이재명 정권 몰락 재촉",
+      "representative_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MRU14Q2oxXzJzMHBEMUxfZTR1VFhpQlkyWHl1bjlwS2Q3ek5SSFVEclZmeGpCaG13YllsbU5yLUpwb01obmx2ZUlSY2syREJfV0Z6Q2NsTXJVVDByRWREYUU1aW9KbGpkQnJr0gFvQVVfeXFMTlk5eEpzOV9IN2JWWDhFMDNNV3ZqTmRYY25IdkNPdG4wS0xkZGs1eDVSb0xMSjBKYVBuWUNDT043T2E3eE9IbzFWR0p6QS1MbHAwLXhlOU5hMTI2TU53WU1ZQTU4N2VBV2k5bjVyd2ZZ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "민주당 지지층 이탈, 이재명 정권 몰락 재촉",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MRU14Q2oxXzJzMHBEMUxfZTR1VFhpQlkyWHl1bjlwS2Q3ek5SSFVEclZmeGpCaG13YllsbU5yLUpwb01obmx2ZUlSY2syREJfV0Z6Q2NsTXJVVDByRWREYUU1aW9KbGpkQnJr0gFvQVVfeXFMTlk5eEpzOV9IN2JWWDhFMDNNV3ZqTmRYY25IdkNPdG4wS0xkZGs1eDVSb0xMSjBKYVBuWUNDT043T2E3eE9IbzFWR0p6QS1MbHAwLXhlOU5hMTI2TU53WU1ZQTU4N2VBV2k5bjVyd2ZZ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "민주당 지지층 이탈, 이재명 정권 몰락 재촉"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "닷컴",
+      "series_title": "닷컴의 몰락",
+      "count": 1,
+      "representative_title": "AI 거품 붕괴, 닷컴 몰락보다 더 치명적일 수도",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tRHVaVG1LN1A2TzdiM3pkSll1aTNRYzZKMXpOTEtqdHlyUHpEbWJPbENSVEtvSU1tRmZMbW5ZZWJtc0VYZnhfWWZDQV9UU19OY1BoMG5mYmx6Zw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "AI 거품 붕괴, 닷컴 몰락보다 더 치명적일 수도",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tRHVaVG1LN1A2TzdiM3pkSll1aTNRYzZKMXpOTEtqdHlyUHpEbWJPbENSVEtvSU1tRmZMbW5ZZWJtc0VYZnhfWWZDQV9UU19OY1BoMG5mYmx6Zw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "AI 거품 붕괴, 닷컴 몰락보다 더 치명적일 수도"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "슈퍼스타",
+      "series_title": "슈퍼스타의 몰락",
+      "count": 1,
+      "representative_title": "'어떻게 이런 일이' 슈퍼스타 몰락, 女 약물 복용→사망 논란 드디어 답했다 \"죽음은 비극이지만...\" 법정 대응 예고 - 머니투데이",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10Y2RjUHFUQ21HbHdHNjhfZW1jMDhYM3lEMmgtLVdYdVJTTzZ5NVptNFBjOTNad00tLVMwa3N5dWZPMVBJWXdIMnBSa09rNjNaaDBSRTI2WksyZUFDcDhWOGg2am9qWUdnWUHSAW9BVV95cUxOejMyXzhZcm1XckpjcDlvalpRR09vYWJ1clVaaVYzUW4tZjhRVTRFbm9rdkFJckQtdDZpR2xWMkx1SzJIbmExOGxlYkRmSUdwMURJR1dvOTdGV2c2TDB0UG02X1RCZFpUQWw3dVVnRDA?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "'어떻게 이런 일이' 슈퍼스타 몰락, 女 약물 복용→사망 논란 드디어 답했다 \"죽음은 비극이지만...\" 법정 대응 예고 - 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10Y2RjUHFUQ21HbHdHNjhfZW1jMDhYM3lEMmgtLVdYdVJTTzZ5NVptNFBjOTNad00tLVMwa3N5dWZPMVBJWXdIMnBSa09rNjNaaDBSRTI2WksyZUFDcDhWOGg2am9qWUdnWUHSAW9BVV95cUxOejMyXzhZcm1XckpjcDlvalpRR09vYWJ1clVaaVYzUW4tZjhRVTRFbm9rdkFJckQtdDZpR2xWMkx1SzJIbmExOGxlYkRmSUdwMURJR1dvOTdGV2c2TDB0UG02X1RCZFpUQWw3dVVnRDA?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "'어떻게 이런 일이' 슈퍼스타 몰락, 女 약물 복용→사망 논란 드디어 답했다 \"죽음은 비극이지만...\" 법정 대응 예고 - 머니투데이"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "어촌전시관",
+      "series_title": "어촌전시관의 몰락",
+      "count": 1,
+      "representative_title": "65억 들인 완도 어촌전시관의 몰락…녹슨 포토존만 남기고 '폐관'",
+      "representative_link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ORG9UV3VJSUFNeXJpa3JYYnEzMUVwR0NHdVlVRGYyZkxuMi1DT0pmdmtHTXUxSEhwU21wYmlWWk5CYWtfQXRPSlBKVldVb1BrS09OWXBOYkZHQy0yWkZTRg?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "65억 들인 완도 어촌전시관의 몰락…녹슨 포토존만 남기고 '폐관'",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ORG9UV3VJSUFNeXJpa3JYYnEzMUVwR0NHdVlVRGYyZkxuMi1DT0pmdmtHTXUxSEhwU21wYmlWWk5CYWtfQXRPSlBKVldVb1BrS09OWXBOYkZHQy0yWkZTRg?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "65억 들인 완도 어촌전시관의 몰락…녹슨 포토존만 남기고 '폐관'"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 2,
+      "representative_title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NEpOTFBfdjh3b1hYZEkwUTE2RXRnNlVkbnpRa21yNlN3MnRxOEVvRG01N2RhTkZRTWg0YjBvS3dLZTAtTWpQUkxUVVpjMkp3Tm9FdmdBZzdwSVVxUmFSV1NnbEZuelB1UFE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+        "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입"
+      ],
+      "category": "부동산"
+    }
+  ]
+}
