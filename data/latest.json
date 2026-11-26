@@ -1,27 +1,32 @@
 {
   "date": "2026-11-26",
-  "hour": "07",
-  "slot": "2026-11-26_07",
-  "crawled_at": "2026-11-26 07:00:01",
-  "total_articles": 407,
+  "hour": "10",
+  "slot": "2026-11-26_10",
+  "crawled_at": "2026-11-26 10:00:02",
+  "total_articles": 406,
   "topics": [
     {
       "rank": 1,
       "keyword": "만에",
-      "count": 21,
-      "representative_title": "차단기동 10분 만에 퇴각…경고사격도 준비했던 軍",
-      "representative_link": "https://n.news.naver.com/article/449/0000368691?ntype=RANKING",
-      "press": "채널A",
+      "count": 17,
+      "representative_title": "영끌·빚투족 비상…가계대출 금리 3년 만에 5% 돌파",
+      "representative_link": "https://n.news.naver.com/article/024/0000109881?ntype=RANKING",
+      "press": "매경이코노미",
       "related_articles": [
         {
-          "title": "가수 비, 대출받아 920억 강남 빌딩 사더니…5년 만에 ‘깜짝’",
-          "link": "https://n.news.naver.com/article/016/0002728526?ntype=RANKING",
-          "press": "헤럴드경제"
+          "title": "인수 계약도 안 됐는데…홈플러스, 106일 만에 온·오프라인 다시 '셧다운'",
+          "link": "https://n.news.naver.com/article/629/0000555637?ntype=RANKING",
+          "press": "더팩트"
         },
         {
-          "title": "가수 비, 920억에 강남 빌딩 샀는데 5년 만에 가격이…'깜짝'",
-          "link": "https://n.news.naver.com/article/015/0005358158?ntype=RANKING",
-          "press": "한국경제"
+          "title": "[오늘의 날씨] 하루 만에 초겨울서 늦가을로…서울 한낮 16도",
+          "link": "https://n.news.naver.com/article/629/0000555641?ntype=RANKING",
+          "press": "더팩트"
+        },
+        {
+          "title": "미스 유니버스 75년 만에 첫 ‘엄마 우승자’ 탄생···7세 딸 둔 미 국방부 직원",
+          "link": "https://n.news.naver.com/article/032/0003485173?ntype=RANKING",
+          "press": "경향신문"
         },
         {
           "title": "당선 5일 만에 \"수능 성적이\"…부학생회장 사퇴문에 '술렁' [이거 봤어?]",
@@ -29,80 +34,80 @@
           "press": "한국경제"
         },
         {
-          "title": "집유 중 시속 182㎞ 만취 질주…남태현, 구속 닷새 만에 상고",
-          "link": "https://n.news.naver.com/article/008/0005446484?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "가수 비, 920억에 산 강남 빌딩 가치가…5년 만에 '깜짝'",
-          "link": "https://n.news.naver.com/article/018/0006415601?ntype=RANKING",
-          "press": "이데일리"
+          "title": "가수 비, 대출받아 920억 강남 빌딩 사더니…5년 만에 ‘깜짝’",
+          "link": "https://n.news.naver.com/article/016/0002728526?ntype=RANKING",
+          "press": "헤럴드경제"
         }
       ],
       "related_titles": [
-        "가수 비, 대출받아 920억 강남 빌딩 사더니…5년 만에 ‘깜짝’",
-        "가수 비, 920억에 강남 빌딩 샀는데 5년 만에 가격이…'깜짝'",
+        "인수 계약도 안 됐는데…홈플러스, 106일 만에 온·오프라인 다시 '셧다운'",
+        "[오늘의 날씨] 하루 만에 초겨울서 늦가을로…서울 한낮 16도",
+        "미스 유니버스 75년 만에 첫 ‘엄마 우승자’ 탄생···7세 딸 둔 미 국방부 직원",
         "당선 5일 만에 \"수능 성적이\"…부학생회장 사퇴문에 '술렁' [이거 봤어?]",
-        "집유 중 시속 182㎞ 만취 질주…남태현, 구속 닷새 만에 상고",
-        "가수 비, 920억에 산 강남 빌딩 가치가…5년 만에 '깜짝'"
+        "가수 비, 대출받아 920억 강남 빌딩 사더니…5년 만에 ‘깜짝’"
       ],
       "category": "연예/문화"
     },
     {
       "rank": 2,
-      "keyword": "탄핵",
-      "count": 13,
-      "representative_title": "김종훈 진보당 대표, 조희대 탄핵 5당 연대 제안 환영",
-      "representative_link": "https://n.news.naver.com/article/047/0002537243?ntype=RANKING",
-      "press": "오마이뉴스",
+      "keyword": "관세",
+      "count": 11,
+      "representative_title": "美, 14개 교역국에 과잉생산 관세 추진…韓 15% 상한 유지",
+      "representative_link": "https://n.news.naver.com/article/293/0000093832?ntype=RANKING",
+      "press": "블로터",
       "related_articles": [
         {
-          "title": "경실련 \"조희대 탄핵 답아냐\" 반대 목소리에 양부남 단장의 답변은",
-          "link": "https://n.news.naver.com/article/006/0000138946?ntype=RANKING",
-          "press": "미디어오늘"
+          "title": "美, 韓 과잉생산 '호남반도체'도 콕 찝었다…\"관세 25% 될수도\"",
+          "link": "https://n.news.naver.com/article/421/0009310753?ntype=RANKING",
+          "press": "뉴스1"
         },
         {
-          "title": "\"조희대 탄핵\" 5당 뭉쳤다…절차·시점엔 묘한 '엇박자'",
-          "link": "https://n.news.naver.com/article/437/0000522449?ntype=RANKING",
-          "press": "JTBC"
+          "title": "美, 한국 포함 14개국 '과잉생산 관세'…韓 15% 상한 유지",
+          "link": "https://n.news.naver.com/article/629/0000555650?ntype=RANKING",
+          "press": "더팩트"
         },
         {
-          "title": "“앨리스 황, 中에 정보 넘겼다”... 트럼프 탄핵 불쏘시개 되나",
-          "link": "https://n.news.naver.com/article/023/0004011688?ntype=RANKING",
-          "press": "조선일보"
+          "title": "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
+          "link": "https://n.news.naver.com/article/001/0016463981?ntype=RANKING",
+          "press": "연합뉴스"
         },
         {
-          "title": "조희대 탄핵 반대 48.2%…'취임 100일' 김민석 부정 평가 56.3% [KSOI]",
-          "link": "https://n.news.naver.com/article/586/0000143034?ntype=RANKING",
-          "press": "시사저널"
+          "title": "美, 14개 교역국에 과잉생산 관세 추진…韓 15% 상한 유지",
+          "link": "https://n.news.naver.com/article/293/0000093832?ntype=RANKING",
+          "press": "블로터"
         },
         {
-          "title": "창원지법 전체판사회의 \"법관 탄핵 추진, 사법권 독립·헌법 가치 훼손\"",
-          "link": "https://n.news.naver.com/article/052/0002438057?ntype=RANKING",
-          "press": "YTN"
+          "title": "美 증시 극심한 변동성, 나스닥 장중 4.6% 급락 후 반등…물가·관세 우려에 AI주 흔들",
+          "link": "https://n.news.naver.com/article/138/0002249953?ntype=RANKING",
+          "press": "디지털데일리"
         }
       ],
       "related_titles": [
-        "경실련 \"조희대 탄핵 답아냐\" 반대 목소리에 양부남 단장의 답변은",
-        "\"조희대 탄핵\" 5당 뭉쳤다…절차·시점엔 묘한 '엇박자'",
-        "“앨리스 황, 中에 정보 넘겼다”... 트럼프 탄핵 불쏘시개 되나",
-        "조희대 탄핵 반대 48.2%…'취임 100일' 김민석 부정 평가 56.3% [KSOI]",
-        "창원지법 전체판사회의 \"법관 탄핵 추진, 사법권 독립·헌법 가치 훼손\""
+        "美, 韓 과잉생산 '호남반도체'도 콕 찝었다…\"관세 25% 될수도\"",
+        "美, 한국 포함 14개국 '과잉생산 관세'…韓 15% 상한 유지",
+        "美, 중국 등 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합2보)",
+        "美, 14개 교역국에 과잉생산 관세 추진…韓 15% 상한 유지",
+        "美 증시 극심한 변동성, 나스닥 장중 4.6% 급락 후 반등…물가·관세 우려에 AI주 흔들"
       ],
-      "category": "국제"
+      "category": "경제/투자"
     },
     {
       "rank": 3,
       "keyword": "만원",
-      "count": 13,
+      "count": 11,
       "representative_title": "삼성전자, 17만원 선 깨졌다",
       "representative_link": "https://n.news.naver.com/article/050/0000113743?ntype=RANKING",
       "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "경찰서 앞 울먹인 고경표…\"팁만 5만원\" 미담에 씁쓸한 뒷맛",
-          "link": "https://n.news.naver.com/article/215/0001273992?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "차 안에서 뭐 하길래…‘월 1000만원’ 출장 서비스 中서 화제",
+          "link": "https://n.news.naver.com/article/020/0003765174?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "\"이걸 들고 다닌다고?\" 벽돌 만큼 무거운데 550만원…역대 최고가 워크맨",
+          "link": "https://n.news.naver.com/article/277/0005847458?ntype=RANKING",
+          "press": "아시아경제"
         },
         {
           "title": "\"차 안에서 뭘 하길래 월 1000만원?\"…여성 손님들 입소문에 줄까지 섰다는 '이 사업'",
@@ -118,105 +123,100 @@
           "title": "삼전 17만원·하닉 103만원…코스피 4600선 '추락'",
           "link": "https://n.news.naver.com/article/586/0000143029?ntype=RANKING",
           "press": "시사저널"
-        },
-        {
-          "title": "“전국민 1인당 80만원 쏜다”…반도체 호황에 보너스 쏘는 이곳",
-          "link": "https://n.news.naver.com/article/025/0003567854?ntype=RANKING",
-          "press": "중앙일보"
         }
       ],
       "related_titles": [
-        "경찰서 앞 울먹인 고경표…\"팁만 5만원\" 미담에 씁쓸한 뒷맛",
+        "차 안에서 뭐 하길래…‘월 1000만원’ 출장 서비스 中서 화제",
+        "\"이걸 들고 다닌다고?\" 벽돌 만큼 무거운데 550만원…역대 최고가 워크맨",
         "\"차 안에서 뭘 하길래 월 1000만원?\"…여성 손님들 입소문에 줄까지 섰다는 '이 사업'",
         "삼전 17만원·하닉 103만원…코스피 4600선 '추락'",
-        "삼전 17만원·하닉 103만원…코스피 4600선 '추락'",
-        "“전국민 1인당 80만원 쏜다”…반도체 호황에 보너스 쏘는 이곳"
+        "삼전 17만원·하닉 103만원…코스피 4600선 '추락'"
       ],
       "category": "경제/투자"
     },
     {
       "rank": 4,
-      "keyword": "경찰",
+      "keyword": "홈플러스",
       "count": 11,
-      "representative_title": "경찰, 김병기 송치... 뉴스타파 보도 1년 2개월 만",
-      "representative_link": "https://n.news.naver.com/article/607/0000003616?ntype=RANKING",
-      "press": "뉴스타파",
+      "representative_title": "홈플러스, 내일부터 전 점포 임시 영업 중단",
+      "representative_link": "https://n.news.naver.com/article/422/0000929969?ntype=RANKING",
+      "press": "연합뉴스TV",
       "related_articles": [
         {
-          "title": "분리수거장서 '3천만원' 지퍼백 나왔다…환경미화원·경찰 덕분 주인 품으로",
-          "link": "https://n.news.naver.com/article/079/0004213750?ntype=RANKING",
-          "press": "노컷뉴스"
+          "title": "자금난 못 이긴 홈플러스...전 점포 27일부터 '임시휴업'",
+          "link": "https://n.news.naver.com/article/092/0002446937?ntype=RANKING",
+          "press": "지디넷코리아"
         },
         {
-          "title": "'이진우 과외교사' 경찰 출석하며 \"명복을 빕니다, 하지만\"",
-          "link": "https://n.news.naver.com/article/437/0000522442?ntype=RANKING",
-          "press": "JTBC"
+          "title": "홈플러스, 내일부터 전 점포 임시 영업 중단",
+          "link": "https://n.news.naver.com/article/422/0000929969?ntype=RANKING",
+          "press": "연합뉴스TV"
         },
         {
-          "title": "'리트 만점자' 과외 대학생, 경찰 출석…\"죽음이 도피처 돼선 안 돼\"",
-          "link": "https://n.news.naver.com/article/586/0000143025?ntype=RANKING",
-          "press": "시사저널"
+          "title": "홈플러스 모레부터 다시 휴업…“곰팡이 피자 판매”",
+          "link": "https://n.news.naver.com/article/449/0000368720?ntype=RANKING",
+          "press": "채널A"
         },
         {
-          "title": "'리트 만점' 故 이진우 과외교사 경찰 출석…\"진실 묻어선 안 돼\"",
-          "link": "https://n.news.naver.com/article/014/0005609640?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "홈플러스 27일부터 전 점포 영업 임시 중단",
+          "link": "https://n.news.naver.com/article/022/0004178190?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "'이진우 과외' 주장 남성, 경찰 출석...\"진실 묻어선 안 돼\"",
-          "link": "https://n.news.naver.com/article/119/0003159396?ntype=RANKING",
-          "press": "데일리안"
+          "title": "홈플러스, 27일부터 전국 67개점 영업 중단",
+          "link": "https://n.news.naver.com/article/655/0000033694?ntype=RANKING",
+          "press": "CJB청주방송"
         }
       ],
       "related_titles": [
-        "분리수거장서 '3천만원' 지퍼백 나왔다…환경미화원·경찰 덕분 주인 품으로",
-        "'이진우 과외교사' 경찰 출석하며 \"명복을 빕니다, 하지만\"",
-        "'리트 만점자' 과외 대학생, 경찰 출석…\"죽음이 도피처 돼선 안 돼\"",
-        "'리트 만점' 故 이진우 과외교사 경찰 출석…\"진실 묻어선 안 돼\"",
-        "'이진우 과외' 주장 남성, 경찰 출석...\"진실 묻어선 안 돼\""
+        "자금난 못 이긴 홈플러스...전 점포 27일부터 '임시휴업'",
+        "홈플러스, 내일부터 전 점포 임시 영업 중단",
+        "홈플러스 모레부터 다시 휴업…“곰팡이 피자 판매”",
+        "홈플러스 27일부터 전 점포 영업 임시 중단",
+        "홈플러스, 27일부터 전국 67개점 영업 중단"
       ],
-      "category": "사건/사고"
+      "category": "사회/일반"
     },
     {
       "rank": 5,
-      "keyword": "관세",
-      "count": 11,
-      "representative_title": "美, 한국 관세 상한 15% 유지…中은 20% 추가",
-      "representative_link": "https://n.news.naver.com/article/374/0000545927?ntype=RANKING",
-      "press": "SBS Biz",
+      "keyword": "탄핵",
+      "count": 10,
+      "representative_title": "민주당 원로 유인태도 \"조희대 탄핵 중지해야\"",
+      "representative_link": "https://n.news.naver.com/article/002/0002467634?ntype=RANKING",
+      "press": "프레시안",
       "related_articles": [
         {
-          "title": "美USTR, 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합)",
-          "link": "https://n.news.naver.com/article/001/0016463973?ntype=RANKING",
-          "press": "연합뉴스"
+          "title": "“앨리스 황, 中에 정보 넘겼다”... 트럼프 탄핵 불쏘시개 되나",
+          "link": "https://n.news.naver.com/article/023/0004011688?ntype=RANKING",
+          "press": "조선일보"
         },
         {
-          "title": "USTR \"한·일·EU 등 관세 상한 15% 유지\"...AP \"중 일부 제품 최대 45%\"",
-          "link": "https://n.news.naver.com/article/052/0002438118?ntype=RANKING",
-          "press": "YTN"
+          "title": "조희대 탄핵 반대 48.2%…'취임 100일' 김민석 부정 평가 56.3% [KSOI]",
+          "link": "https://n.news.naver.com/article/586/0000143034?ntype=RANKING",
+          "press": "시사저널"
         },
         {
-          "title": "美, 한국·EU·일본 등에 ‘15% 상한’ 관세 예고",
-          "link": "https://n.news.naver.com/article/005/0001887479?ntype=RANKING",
-          "press": "국민일보"
+          "title": "\"재판 이유로 한 탄핵, 헌법질서 위태롭게 해\"…일선 법원 첫 공식 반격",
+          "link": "https://n.news.naver.com/article/586/0000143042?ntype=RANKING",
+          "press": "시사저널"
         },
         {
-          "title": "美, '과잉생산' 추가 관세 발표…한국은 합의대로 15% 상한 유지",
-          "link": "https://n.news.naver.com/article/421/0009310564?ntype=RANKING",
-          "press": "뉴스1"
+          "title": "조희대 탄핵 추진에...장동혁 \"깡통 탄핵\" 한동훈 \"인용 안 되면 사퇴하라\"",
+          "link": "https://n.news.naver.com/article/057/0001979890?ntype=RANKING",
+          "press": "MBN"
         },
         {
-          "title": "미국, 한국 등 14곳에 ‘과잉생산 관세’ 예고…“합의국은 15% 상한”",
-          "link": "https://n.news.naver.com/article/056/0012301331?ntype=RANKING",
-          "press": "KBS"
+          "title": "조희대 탄핵 추진에...장동혁 \"깡통 탄핵\" 한동훈 \"인용 안 되면 사퇴하라\"",
+          "link": "https://n.news.naver.com/article/057/0001979890?ntype=RANKING",
+          "press": "MBN"
         }
       ],
       "related_titles": [
-        "美USTR, 14개 경제주체에 과잉생산 관세…韓 15% 상한 유지(종합)",
-        "USTR \"한·일·EU 등 관세 상한 15% 유지\"...AP \"중 일부 제품 최대 45%\"",
-        "美, 한국·EU·일본 등에 ‘15% 상한’ 관세 예고",
-        "美, '과잉생산' 추가 관세 발표…한국은 합의대로 15% 상한 유지",
-        "미국, 한국 등 14곳에 ‘과잉생산 관세’ 예고…“합의국은 15% 상한”"
+        "“앨리스 황, 中에 정보 넘겼다”... 트럼프 탄핵 불쏘시개 되나",
+        "조희대 탄핵 반대 48.2%…'취임 100일' 김민석 부정 평가 56.3% [KSOI]",
+        "\"재판 이유로 한 탄핵, 헌법질서 위태롭게 해\"…일선 법원 첫 공식 반격",
+        "조희대 탄핵 추진에...장동혁 \"깡통 탄핵\" 한동훈 \"인용 안 되면 사퇴하라\"",
+        "조희대 탄핵 추진에...장동혁 \"깡통 탄핵\" 한동훈 \"인용 안 되면 사퇴하라\""
       ],
       "category": "국제"
     }
@@ -224,137 +224,8 @@
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "코스피",
-      "count": 10,
-      "representative_title": "또 사이드카…갈피 못 잡고 요동치는 2026 코스피",
-      "representative_link": "https://n.news.naver.com/article/056/0012301184?ntype=RANKING",
-      "press": "KBS",
-      "related_articles": [
-        {
-          "title": "“코스피, 3500이 적정”…버핏지수로는 지금도 ‘심각한 고평가’",
-          "link": "https://n.news.naver.com/article/025/0003567916?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
-          "title": "[단독] 박현주, 코스피 무너진날 “10조 증안펀드, 100조로 키우자” 제안",
-          "link": "https://n.news.naver.com/article/009/0005769004?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "하루짜리 '젠슨 황 효과'... 코스피 6% 급락, 금통위 앞두고 다시 불안",
-          "link": "https://n.news.naver.com/article/047/0002537254?ntype=RANKING",
-          "press": "오마이뉴스"
-        },
-        {
-          "title": "[속보] 코스피 '멸망의 날'? 삼성전자·SK하이닉스 장중 동반 마이너스 10%대 터치",
-          "link": "https://n.news.naver.com/article/088/0001042239?ntype=RANKING",
-          "press": "매일신문"
-        },
-        {
-          "title": "또 사이드카…갈피 못 잡고 요동치는 2026 코스피",
-          "link": "https://n.news.naver.com/article/056/0012301184?ntype=RANKING",
-          "press": "KBS"
-        }
-      ],
-      "related_titles": [
-        "“코스피, 3500이 적정”…버핏지수로는 지금도 ‘심각한 고평가’",
-        "[단독] 박현주, 코스피 무너진날 “10조 증안펀드, 100조로 키우자” 제안",
-        "하루짜리 '젠슨 황 효과'... 코스피 6% 급락, 금통위 앞두고 다시 불안",
-        "[속보] 코스피 '멸망의 날'? 삼성전자·SK하이닉스 장중 동반 마이너스 10%대 터치",
-        "또 사이드카…갈피 못 잡고 요동치는 2026 코스피"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 2,
-      "keyword": "급락",
-      "count": 8,
-      "representative_title": "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문",
-      "representative_link": "https://n.news.naver.com/article/037/0000039211?ntype=RANKING",
-      "press": "주간동아",
-      "related_articles": [
-        {
-          "title": "\"변동성 끝이 안 보인다\"…공포지수 30 돌파, 나스닥 한때 4%대 급락",
-          "link": "https://n.news.naver.com/article/018/0006415608?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "반도체주 급락 속…SK하이닉스, '100조 주주환원' 재확인",
-          "link": "https://n.news.naver.com/article/031/0001078464?ntype=RANKING",
-          "press": "아이뉴스24"
-        },
-        {
-          "title": "\"삼성전자, 믿었는데 너마저\" SK하닉 이어 10%대 급락…美 AI·관세 악재",
-          "link": "https://n.news.naver.com/article/243/0000106282?ntype=RANKING",
-          "press": "이코노미스트"
-        },
-        {
-          "title": "[오늘의증시] \"말짱 황\" 하루 만에 삼전닉스 10%대 급락...4600선 후퇴",
-          "link": "https://n.news.naver.com/article/243/0000106284?ntype=RANKING",
-          "press": "이코노미스트"
-        },
-        {
-          "title": "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문",
-          "link": "https://n.news.naver.com/article/037/0000039211?ntype=RANKING",
-          "press": "주간동아"
-        }
-      ],
-      "related_titles": [
-        "\"변동성 끝이 안 보인다\"…공포지수 30 돌파, 나스닥 한때 4%대 급락",
-        "반도체주 급락 속…SK하이닉스, '100조 주주환원' 재확인",
-        "\"삼성전자, 믿었는데 너마저\" SK하닉 이어 10%대 급락…美 AI·관세 악재",
-        "[오늘의증시] \"말짱 황\" 하루 만에 삼전닉스 10%대 급락...4600선 후퇴",
-        "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 3,
-      "keyword": "만에",
-      "count": 5,
-      "representative_title": "영끌·빚투족 비상…가계대출 금리 3년 만에 5% 돌파",
-      "representative_link": "https://n.news.naver.com/article/024/0000109881?ntype=RANKING",
-      "press": "매경이코노미",
-      "related_articles": [
-        {
-          "title": "\"이혼 통보 2시간 만에 가상자산 '싹' 옮긴 미국인 남편…美계좌 자산도 나눌 수 있나요?\" [이런 法]",
-          "link": "https://n.news.naver.com/article/014/0005609471?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        },
-        {
-          "title": "영끌·빚투족 비상…가계대출 금리 3년 만에 5% 돌파",
-          "link": "https://n.news.naver.com/article/024/0000109881?ntype=RANKING",
-          "press": "매경이코노미"
-        },
-        {
-          "title": "\"이혼 통보 2시간 만에 가상자산 '싹' 옮긴 미국인 남편…美계좌 자산도 나눌 수 있나요?\" [이런 法]",
-          "link": "https://n.news.naver.com/article/014/0005609471?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        },
-        {
-          "title": "영끌·빚투족 비상…가계대출 금리 3년 만에 5% 돌파",
-          "link": "https://n.news.naver.com/article/024/0000109881?ntype=RANKING",
-          "press": "매경이코노미"
-        },
-        {
-          "title": "\"이혼 통보 2시간 만에 가상자산 '싹' 옮긴 미국인 남편…美계좌 자산도 나눌 수 있나요?\" [이런 法]",
-          "link": "https://n.news.naver.com/article/014/0005609471?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        }
-      ],
-      "related_titles": [
-        "\"이혼 통보 2시간 만에 가상자산 '싹' 옮긴 미국인 남편…美계좌 자산도 나눌 수 있나요?\" [이런 法]",
-        "영끌·빚투족 비상…가계대출 금리 3년 만에 5% 돌파",
-        "\"이혼 통보 2시간 만에 가상자산 '싹' 옮긴 미국인 남편…美계좌 자산도 나눌 수 있나요?\" [이런 法]",
-        "영끌·빚투족 비상…가계대출 금리 3년 만에 5% 돌파",
-        "\"이혼 통보 2시간 만에 가상자산 '싹' 옮긴 미국인 남편…美계좌 자산도 나눌 수 있나요?\" [이런 法]"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 4,
       "keyword": "삼성전자",
-      "count": 5,
+      "count": 7,
       "representative_title": "삼성전자, 17만원 선 깨졌다",
       "representative_link": "https://n.news.naver.com/article/050/0000113743?ntype=RANKING",
       "press": "한경비즈니스",
@@ -365,75 +236,204 @@
           "press": "매일경제"
         },
         {
-          "title": "“삼성전자 망할 것 같아요?”…존리, 주가 반토막에도 ‘오히려 찬스’라는 이유가",
-          "link": "https://n.news.naver.com/article/011/0004686186?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
-          "title": "삼성전자, 17만원 선 깨졌다",
-          "link": "https://n.news.naver.com/article/050/0000113743?ntype=RANKING",
-          "press": "한경비즈니스"
-        },
-        {
-          "title": "“삼성전자 반값됐는데 망했나요?”…존 리가 개미들에게 던진 질문은",
-          "link": "https://n.news.naver.com/article/009/0005769098?ntype=RANKING",
-          "press": "매일경제"
+          "title": "삼성전자 0.7%·SK하이닉스 1.65%↑…프리마켓서 반등 '시동'",
+          "link": "https://n.news.naver.com/article/003/0014345805?ntype=RANKING",
+          "press": "뉴시스"
         },
         {
           "title": "“삼성전자 망할 것 같아요?”…존리, 주가 반토막에도 ‘오히려 찬스’라는 이유가",
           "link": "https://n.news.naver.com/article/011/0004686186?ntype=RANKING",
           "press": "서울경제"
+        },
+        {
+          "title": "[속보] 코스피 '멸망의 날'? 삼성전자·SK하이닉스 장중 동반 마이너스 10%대 터치",
+          "link": "https://n.news.naver.com/article/088/0001042239?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "삼성전자 10주에 204만원 손실…107조 벌고도 왜 반토막 났나 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004178175?ntype=RANKING",
+          "press": "세계일보"
         }
       ],
       "related_titles": [
         "“삼성전자 반값됐는데 망했나요?”…존 리가 개미들에게 던진 질문은",
+        "삼성전자 0.7%·SK하이닉스 1.65%↑…프리마켓서 반등 '시동'",
         "“삼성전자 망할 것 같아요?”…존리, 주가 반토막에도 ‘오히려 찬스’라는 이유가",
-        "삼성전자, 17만원 선 깨졌다",
-        "“삼성전자 반값됐는데 망했나요?”…존 리가 개미들에게 던진 질문은",
-        "“삼성전자 망할 것 같아요?”…존리, 주가 반토막에도 ‘오히려 찬스’라는 이유가"
+        "[속보] 코스피 '멸망의 날'? 삼성전자·SK하이닉스 장중 동반 마이너스 10%대 터치",
+        "삼성전자 10주에 204만원 손실…107조 벌고도 왜 반토막 났나 [숫자 뒤의 진실]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "코스피",
+      "count": 5,
+      "representative_title": "삼전 17만원·하닉 103만원…코스피 4600선 '추락'",
+      "representative_link": "https://n.news.naver.com/article/586/0000143029?ntype=RANKING",
+      "press": "시사저널",
+      "related_articles": [
+        {
+          "title": "\"이젠 뭘 사야 하나\" 3600조 증발…피할 곳도 사라진 코스피",
+          "link": "https://n.news.naver.com/article/008/0005446545?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "삼전 17만원·하닉 103만원…코스피 4600선 '추락'",
+          "link": "https://n.news.naver.com/article/586/0000143029?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "하루 만에 5000피 반납…반도체 쇼크에 코스피 6% 급락",
+          "link": "https://n.news.naver.com/article/024/0000109886?ntype=RANKING",
+          "press": "매경이코노미"
+        },
+        {
+          "title": "‘최악은 피했다’ 美, 과잉생산관세 한국 15% 유지...코스피 상승 출발",
+          "link": "https://n.news.naver.com/article/243/0000106302?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "\"이젠 뭘 사야 하나\" 3600조 증발…피할 곳도 사라진 코스피",
+          "link": "https://n.news.naver.com/article/008/0005446545?ntype=RANKING",
+          "press": "머니투데이"
+        }
+      ],
+      "related_titles": [
+        "\"이젠 뭘 사야 하나\" 3600조 증발…피할 곳도 사라진 코스피",
+        "삼전 17만원·하닉 103만원…코스피 4600선 '추락'",
+        "하루 만에 5000피 반납…반도체 쇼크에 코스피 6% 급락",
+        "‘최악은 피했다’ 美, 과잉생산관세 한국 15% 유지...코스피 상승 출발",
+        "\"이젠 뭘 사야 하나\" 3600조 증발…피할 곳도 사라진 코스피"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "엔비디아",
+      "count": 5,
+      "representative_title": "엔비디아 3.91%·나스닥 0.62%↓…뉴욕증시 혼조 마감",
+      "representative_link": "https://n.news.naver.com/article/005/0001887548?ntype=RANKING",
+      "press": "국민일보",
+      "related_articles": [
+        {
+          "title": "S&P \"엔비디아 등급 강등 검토\"…무디스 \"안정적 전망 유지\"(종합)",
+          "link": "https://n.news.naver.com/article/001/0016464148?ntype=RANKING",
+          "press": "연합뉴스"
+        },
+        {
+          "title": "S＆P, 엔비디아 신용등급 강등 검토…젠슨 황 복귀로 지배구조 우려",
+          "link": "https://n.news.naver.com/article/028/0002834022?ntype=RANKING",
+          "press": "한겨레"
+        },
+        {
+          "title": "엔비디아 3.91%·나스닥 0.62%↓…뉴욕증시 혼조 마감",
+          "link": "https://n.news.naver.com/article/005/0001887548?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "엔비디아 3.9%↓…\"변동성 끝이 안보인다\" 했는데 뜻밖의 전망",
+          "link": "https://n.news.naver.com/article/215/0001273999?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "“젠슨 황이 곧 엔비디아… AI 버블 논하기에 너무 일러”",
+          "link": "https://n.news.naver.com/article/037/0000039217?ntype=RANKING",
+          "press": "주간동아"
+        }
+      ],
+      "related_titles": [
+        "S&P \"엔비디아 등급 강등 검토\"…무디스 \"안정적 전망 유지\"(종합)",
+        "S＆P, 엔비디아 신용등급 강등 검토…젠슨 황 복귀로 지배구조 우려",
+        "엔비디아 3.91%·나스닥 0.62%↓…뉴욕증시 혼조 마감",
+        "엔비디아 3.9%↓…\"변동성 끝이 안보인다\" 했는데 뜻밖의 전망",
+        "“젠슨 황이 곧 엔비디아… AI 버블 논하기에 너무 일러”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "장중",
+      "count": 4,
+      "representative_title": "장중 4.6% 추락, 0.6% 하락 마감…나스닥 롤러코스터[뉴욕마감]",
+      "representative_link": "https://n.news.naver.com/article/008/0005446572?ntype=RANKING",
+      "press": "머니투데이",
+      "related_articles": [
+        {
+          "title": "장중 4.6% 추락, 0.6% 하락 마감…나스닥 롤러코스터[뉴욕마감]",
+          "link": "https://n.news.naver.com/article/008/0005446572?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "美 증시 극심한 변동성, 나스닥 장중 4.6% 급락 후 반등…물가·관세 우려에 AI주 흔들",
+          "link": "https://n.news.naver.com/article/138/0002249953?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "장중 4.6% 급락한 나스닥...점심 먹고 돌아온 '저가 매수' [마켓무버의 국장 힌트]",
+          "link": "https://n.news.naver.com/article/215/0001274009?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "장중 4.6% 추락, 0.6% 하락 마감…나스닥 롤러코스터[뉴욕마감]",
+          "link": "https://n.news.naver.com/article/008/0005446572?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "美 증시 극심한 변동성, 나스닥 장중 4.6% 급락 후 반등…물가·관세 우려에 AI주 흔들",
+          "link": "https://n.news.naver.com/article/138/0002249953?ntype=RANKING",
+          "press": "디지털데일리"
+        }
+      ],
+      "related_titles": [
+        "장중 4.6% 추락, 0.6% 하락 마감…나스닥 롤러코스터[뉴욕마감]",
+        "美 증시 극심한 변동성, 나스닥 장중 4.6% 급락 후 반등…물가·관세 우려에 AI주 흔들",
+        "장중 4.6% 급락한 나스닥...점심 먹고 돌아온 '저가 매수' [마켓무버의 국장 힌트]",
+        "장중 4.6% 추락, 0.6% 하락 마감…나스닥 롤러코스터[뉴욕마감]",
+        "美 증시 극심한 변동성, 나스닥 장중 4.6% 급락 후 반등…물가·관세 우려에 AI주 흔들"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "주식",
+      "keyword": "급락",
       "count": 4,
-      "representative_title": "“내년 1분기 증시 반등해도 주식 비중 줄여야”…신영증권의 경고",
-      "representative_link": "https://n.news.naver.com/article/138/0002249921?ntype=RANKING",
-      "press": "디지털데일리",
+      "representative_title": "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문",
+      "representative_link": "https://n.news.naver.com/article/037/0000039211?ntype=RANKING",
+      "press": "주간동아",
       "related_articles": [
         {
-          "title": "주식 미리 사놓고 ‘호재 기사’ 쓴 언론사 기자 등 과징금 50억",
-          "link": "https://n.news.naver.com/article/032/0003485117?ntype=RANKING",
-          "press": "경향신문"
+          "title": "[오늘의증시] \"말짱 황\" 하루 만에 삼전닉스 10%대 급락...4600선 후퇴",
+          "link": "https://n.news.naver.com/article/243/0000106284?ntype=RANKING",
+          "press": "이코노미스트"
         },
         {
-          "title": "주식 사놓고 보도…금융당국, 기자 포함 언론 관계자에 50억 과징금",
-          "link": "https://n.news.naver.com/article/119/0003159536?ntype=RANKING",
-          "press": "데일리안"
+          "title": "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문",
+          "link": "https://n.news.naver.com/article/037/0000039211?ntype=RANKING",
+          "press": "주간동아"
         },
         {
-          "title": "“내년 1분기 증시 반등해도 주식 비중 줄여야”…신영증권의 경고",
-          "link": "https://n.news.naver.com/article/138/0002249921?ntype=RANKING",
-          "press": "디지털데일리"
+          "title": "[오늘의증시] \"말짱 황\" 하루 만에 삼전닉스 10%대 급락...4600선 후퇴",
+          "link": "https://n.news.naver.com/article/243/0000106284?ntype=RANKING",
+          "press": "이코노미스트"
         },
         {
-          "title": "주식 투자 권유하던 부장, 눈 퉁퉁 부은 날…“마통까지 끌어다썼다가 8억 날렸다”",
-          "link": "https://n.news.naver.com/article/030/0003489961?ntype=RANKING",
-          "press": "전자신문"
+          "title": "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문",
+          "link": "https://n.news.naver.com/article/037/0000039211?ntype=RANKING",
+          "press": "주간동아"
         },
         {
-          "title": "주식 사놓고 보도…금융당국, 기자 포함 언론 관계자에 50억 과징금",
-          "link": "https://n.news.naver.com/article/119/0003159536?ntype=RANKING",
-          "press": "데일리안"
+          "title": "[오늘의증시] \"말짱 황\" 하루 만에 삼전닉스 10%대 급락...4600선 후퇴",
+          "link": "https://n.news.naver.com/article/243/0000106284?ntype=RANKING",
+          "press": "이코노미스트"
         }
       ],
       "related_titles": [
-        "주식 미리 사놓고 ‘호재 기사’ 쓴 언론사 기자 등 과징금 50억",
-        "주식 사놓고 보도…금융당국, 기자 포함 언론 관계자에 50억 과징금",
-        "“내년 1분기 증시 반등해도 주식 비중 줄여야”…신영증권의 경고",
-        "주식 투자 권유하던 부장, 눈 퉁퉁 부은 날…“마통까지 끌어다썼다가 8억 날렸다”",
-        "주식 사놓고 보도…금융당국, 기자 포함 언론 관계자에 50억 과징금"
+        "[오늘의증시] \"말짱 황\" 하루 만에 삼전닉스 10%대 급락...4600선 후퇴",
+        "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문",
+        "[오늘의증시] \"말짱 황\" 하루 만에 삼전닉스 10%대 급락...4600선 후퇴",
+        "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문",
+        "[오늘의증시] \"말짱 황\" 하루 만에 삼전닉스 10%대 급락...4600선 후퇴"
       ],
       "category": "주식/코인"
     }
@@ -441,6 +441,26 @@
   "moljak_topics": [
     {
       "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 1,
+      "representative_title": "민주당 지지층 이탈, 이재명 정권 몰락 재촉",
+      "representative_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MRU14Q2oxXzJzMHBEMUxfZTR1VFhpQlkyWHl1bjlwS2Q3ek5SSFVEclZmeGpCaG13YllsbU5yLUpwb01obmx2ZUlSY2syREJfV0Z6Q2NsTXJVVDByRWREYUU1aW9KbGpkQnJr0gFvQVVfeXFMTlk5eEpzOV9IN2JWWDhFMDNNV3ZqTmRYY25IdkNPdG4wS0xkZGs1eDVSb0xMSjBKYVBuWUNDT043T2E3eE9IbzFWR0p6QS1MbHAwLXhlOU5hMTI2TU53WU1ZQTU4N2VBV2k5bjVyd2ZZ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "민주당 지지층 이탈, 이재명 정권 몰락 재촉",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MRU14Q2oxXzJzMHBEMUxfZTR1VFhpQlkyWHl1bjlwS2Q3ek5SSFVEclZmeGpCaG13YllsbU5yLUpwb01obmx2ZUlSY2syREJfV0Z6Q2NsTXJVVDByRWREYUU1aW9KbGpkQnJr0gFvQVVfeXFMTlk5eEpzOV9IN2JWWDhFMDNNV3ZqTmRYY25IdkNPdG4wS0xkZGs1eDVSb0xMSjBKYVBuWUNDT043T2E3eE9IbzFWR0p6QS1MbHAwLXhlOU5hMTI2TU53WU1ZQTU4N2VBV2k5bjVyd2ZZ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "민주당 지지층 이탈, 이재명 정권 몰락 재촉"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
       "keyword": "닷컴",
       "series_title": "닷컴의 몰락",
       "count": 1,
@@ -460,7 +480,7 @@
       "category": "몰락"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "keyword": "슈퍼스타",
       "series_title": "슈퍼스타의 몰락",
       "count": 1,
@@ -480,7 +500,7 @@
       "category": "몰락"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "keyword": "어촌전시관",
       "series_title": "어촌전시관의 몰락",
       "count": 1,
@@ -500,7 +520,7 @@
       "category": "몰락"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "keyword": "만점자",
       "series_title": "만점자의 몰락",
       "count": 1,
@@ -518,55 +538,20 @@
         "만점자의 몰락이라는 희비극 [한겨레 프리즘]"
       ],
       "category": "몰락"
-    },
-    {
-      "rank": 5,
-      "keyword": "젠슨",
-      "series_title": "젠슨의 몰락",
-      "count": 1,
-      "representative_title": "[태평로] 젠슨 황의 몰락이 던지는 질문",
-      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1FTjFHLWVtbXNDNzJMMy1YTWx4QTJTLWJRbS1ScWlQOXpuVE5wc0Q0LUFnZEd1OGt6QzEzbWlTRVVSZkpDN0VPVHJIU0p5c2V3Nm9FdGd1LUJMT0dFM1ZrMGhLSmJQMDBUYlpkM1JjQWRmaTk5Q3RzUVd4OHJLcUdqeDE3dHRr?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "[태평로] 젠슨 황의 몰락이 던지는 질문",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1FTjFHLWVtbXNDNzJMMy1YTWx4QTJTLWJRbS1ScWlQOXpuVE5wc0Q0LUFnZEd1OGt6QzEzbWlTRVVSZkpDN0VPVHJIU0p5c2V3Nm9FdGd1LUJMT0dFM1ZrMGhLSmJQMDBUYlpkM1JjQWRmaTk5Q3RzUVd4OHJLcUdqeDE3dHRr?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "[태평로] 젠슨 황의 몰락이 던지는 질문"
-      ],
-      "category": "몰락"
     }
   ],
   "budongsan_topics": [
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 9,
-      "representative_title": "강남3구 집값 일제히 하락…서울 상승폭 ‘주춤’",
-      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUk43aHc2SFFoRUJBNS01SHFSQjAwTEhuOTQ5Nm5yQ2FqbWhLdnpPSmJBblhoOURJbXN2aHFJM2M1YmJPWXEtSjJGc2xhdDFtSTdYZTI2VnRubEFjbmpMdzNLU1RIVi1l?oc=5",
+      "count": 2,
+      "representative_title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
       "press": "",
       "related_articles": [
         {
           "title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
-          "press": ""
-        },
-        {
-          "title": "강남發 집값 하락, 한강벨트 확산…서울 부동산 변곡점 오나",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DWlVIYlpaUWZzRzZWSWo0WFB4Y0RhSnE2T21heVlGZFM5T2wtVm1SR3AtRi1nWjB5RkRtWnVDTW92cUZIVzloNksxOFdkSDJlQmx3YVBYUV9qODVkbHVJbHJ4aUtfbHJNdzZCSw?oc=5",
-          "press": ""
-        },
-        {
-          "title": "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuTEhCak1yMVpCT1hyOHZZVUx5a2N1NnB5WTBzcVQ0WXdyUDVNTlgxaDBkUG1lQ0VoaEdwcllKSXNZZzduUlFSZU03S1BLWG5xb19jWQ?oc=5",
-          "press": ""
-        },
-        {
-          "title": "서울 집값 상승폭 반토막…전세 매물 줄고 분양도 급감",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SWGtlNU5OTkxTUkdDS2l2dmVWZmd2dnVsbE5LanJBcmRhZnBMbHRkMG10aktXMHZsX0tQNHB1ZEd6QTAyazRTTUhOcmZTVk5BTzFEOF9zODVQb2oz?oc=5",
           "press": ""
         },
         {
@@ -577,29 +562,7 @@
       ],
       "related_titles": [
         "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
-        "강남發 집값 하락, 한강벨트 확산…서울 부동산 변곡점 오나",
-        "부동산 시장이 뒤집혔다…다시 쓰는 서울 집값 공식 [스페셜 리포트]",
-        "서울 집값 상승폭 반토막…전세 매물 줄고 분양도 급감",
         "8개월 만에…동작구 집값도 하락 전환, 서울 부동산 '냉각기' 진입"
-      ],
-      "category": "부동산"
-    },
-    {
-      "rank": 2,
-      "keyword": "머니투데이",
-      "count": 2,
-      "representative_title": "집값 잡혔다는데 빌라마저 뛴다…거래절벽이 만든 통계의 착시 - 머니투데이",
-      "representative_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oSTNmTnVQdUM2d0VJXzYwNHQ1Zm5XZmFxZzE4YmRfNzNDQ2oxQWxzMXR4YnBFMlV5SGIzYWhMTV9MR2FWYzFZb1lxaXVVVGl4MkxSd2lvUlExaUhmVF9HZkhjZWMxd3RtYUZqdG5QNNIBb0FVX3lxTE5oSTNmTnVQdUM2d0VJXzYwNHQ1Zm5XZmFxZzE4YmRfNzNDQ2oxQWxzMXR4YnBFMlV5SGIzYWhMTV9MR2FWYzFZb1lxaXVVVGl4MkxSd2lvUlExaUhmVF9HZkhjZWMxd3RtYUZqdG5QNA?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "집값 잡혔다는데 빌라마저 뛴다…거래절벽이 만든 통계의 착시 - 머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oSTNmTnVQdUM2d0VJXzYwNHQ1Zm5XZmFxZzE4YmRfNzNDQ2oxQWxzMXR4YnBFMlV5SGIzYWhMTV9MR2FWYzFZb1lxaXVVVGl4MkxSd2lvUlExaUhmVF9HZkhjZWMxd3RtYUZqdG5QNNIBb0FVX3lxTE5oSTNmTnVQdUM2d0VJXzYwNHQ1Zm5XZmFxZzE4YmRfNzNDQ2oxQWxzMXR4YnBFMlV5SGIzYWhMTV9MR2FWYzFZb1lxaXVVVGl4MkxSd2lvUlExaUhmVF9HZkhjZWMxd3RtYUZqdG5QNA?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "집값 잡혔다는데 빌라마저 뛴다…거래절벽이 만든 통계의 착시 - 머니투데이"
       ],
       "category": "부동산"
     }
