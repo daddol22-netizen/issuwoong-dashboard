@@ -1,27 +1,108 @@
 {
   "date": "2026-11-27",
-  "hour": "13",
-  "slot": "2026-11-27_13",
-  "crawled_at": "2026-11-27 13:00:01",
-  "total_articles": 404,
+  "hour": "16",
+  "slot": "2026-11-27_16",
+  "crawled_at": "2026-11-27 16:00:01",
+  "total_articles": 407,
   "topics": [
     {
       "rank": 1,
+      "keyword": "대통령",
+      "count": 17,
+      "representative_title": "이 대통령, 최휘영 '교체 기습 통보' 보도에 정정 요구",
+      "representative_link": "https://n.news.naver.com/article/214/0001538502?ntype=RANKING",
+      "press": "MBC",
+      "related_articles": [
+        {
+          "title": "이 대통령, 최휘영 '교체 기습 통보' 보도에 정정 요구",
+          "link": "https://n.news.naver.com/article/214/0001538502?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "역대 대통령 호감도 1위는 노무현…2·3위는 박정희·김대중",
+          "link": "https://n.news.naver.com/article/366/0001207771?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "李 대통령, 최휘영 ‘기습교체 통보’ 보도에 “명예훼손, 정정해달라”",
+          "link": "https://n.news.naver.com/article/005/0001887852?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "\"오를 땐 박수, 내릴 땐 누구 탓?\"…'5천피' 붕괴에 커진 '이 대통령 책임론'",
+          "link": "https://n.news.naver.com/article/437/0000522780?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "이 대통령 요청한 ‘판다 한 쌍’…‘대만관’ 논란에 무산",
+          "link": "https://n.news.naver.com/article/056/0012302591?ntype=RANKING",
+          "press": "KBS"
+        }
+      ],
+      "related_titles": [
+        "이 대통령, 최휘영 '교체 기습 통보' 보도에 정정 요구",
+        "역대 대통령 호감도 1위는 노무현…2·3위는 박정희·김대중",
+        "李 대통령, 최휘영 ‘기습교체 통보’ 보도에 “명예훼손, 정정해달라”",
+        "\"오를 땐 박수, 내릴 땐 누구 탓?\"…'5천피' 붕괴에 커진 '이 대통령 책임론'",
+        "이 대통령 요청한 ‘판다 한 쌍’…‘대만관’ 논란에 무산"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 2,
+      "keyword": "아들",
+      "count": 17,
+      "representative_title": "전직 유력 정치인 아들, 스토킹·폭행 혐의 체포",
+      "representative_link": "https://n.news.naver.com/article/666/0000134049?ntype=RANKING",
+      "press": "경기일보",
+      "related_articles": [
+        {
+          "title": "‘마약 투약’ 남경필 아들, 또?…결별 통보한 前 연인에 “성관계 영상 유포하겠다”, 협박·스토킹",
+          "link": "https://n.news.naver.com/article/016/0002729538?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "‘강호동 아들’ 강시후, 전국 학생골프대회 준우승",
+          "link": "https://n.news.naver.com/article/366/0001207757?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "남경필 전 경기지사 아들, 스토킹·협박 혐의로 체포",
+          "link": "https://n.news.naver.com/article/032/0003485497?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "‘마약 투약’ 남경필 아들, 전 연인에 성관계 영상 협박하다 체포 [자막뉴스]",
+          "link": "https://n.news.naver.com/article/449/0000368886?ntype=RANKING",
+          "press": "채널A"
+        },
+        {
+          "title": "\"성관계 영상 유포하겠다\" 헤어진 연인 폭행·협박한 전 정치인 아들 체포",
+          "link": "https://n.news.naver.com/article/082/0001409276?ntype=RANKING",
+          "press": "부산일보"
+        }
+      ],
+      "related_titles": [
+        "‘마약 투약’ 남경필 아들, 또?…결별 통보한 前 연인에 “성관계 영상 유포하겠다”, 협박·스토킹",
+        "‘강호동 아들’ 강시후, 전국 학생골프대회 준우승",
+        "남경필 전 경기지사 아들, 스토킹·협박 혐의로 체포",
+        "‘마약 투약’ 남경필 아들, 전 연인에 성관계 영상 협박하다 체포 [자막뉴스]",
+        "\"성관계 영상 유포하겠다\" 헤어진 연인 폭행·협박한 전 정치인 아들 체포"
+      ],
+      "category": "정치"
+    },
+    {
+      "rank": 3,
       "keyword": "한동훈",
-      "count": 22,
+      "count": 16,
       "representative_title": "홍준표, 또 한동훈 저격 “용병세력들의 난동”",
       "representative_link": "https://n.news.naver.com/article/033/0000053666?ntype=RANKING",
       "press": "주간경향",
       "related_articles": [
         {
-          "title": "“한동훈 다음은 이 사람?”…국민이 꼽은 ‘일 잘하는 의원’ 2위",
-          "link": "https://n.news.naver.com/article/018/0006416491?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "'일 잘하는 국회의원' 누구?…현역 1위 한동훈, 2위 서영교",
-          "link": "https://n.news.naver.com/article/437/0000522734?ntype=RANKING",
-          "press": "JTBC"
+          "title": "“오세훈 한동훈 이준석 저 씹다 찌그러져” 국민의힘 前 윤리위원들 또 폭로 [자막뉴스]",
+          "link": "https://n.news.naver.com/article/449/0000368884?ntype=RANKING",
+          "press": "채널A"
         },
         {
           "title": "한동훈, 압수수색에 “‘민주당의 지팡이’ 된 경찰, 마음대로 해 봐라”",
@@ -29,210 +110,90 @@
           "press": "부산일보"
         },
         {
-          "title": "장동혁 \"한동훈, 징계 무효 소송으로 복당하라… 왜 지도부 흔드나\"",
-          "link": "https://n.news.naver.com/article/082/0001409247?ntype=RANKING",
-          "press": "부산일보"
-        },
-        {
-          "title": "장동혁 \"한동훈, 복당해도 다시 징계할 수 있어…추가 사유 있다\"",
-          "link": "https://n.news.naver.com/article/003/0014348727?ntype=RANKING",
-          "press": "뉴시스"
-        }
-      ],
-      "related_titles": [
-        "“한동훈 다음은 이 사람?”…국민이 꼽은 ‘일 잘하는 의원’ 2위",
-        "'일 잘하는 국회의원' 누구?…현역 1위 한동훈, 2위 서영교",
-        "한동훈, 압수수색에 “‘민주당의 지팡이’ 된 경찰, 마음대로 해 봐라”",
-        "장동혁 \"한동훈, 징계 무효 소송으로 복당하라… 왜 지도부 흔드나\"",
-        "장동혁 \"한동훈, 복당해도 다시 징계할 수 있어…추가 사유 있다\""
-      ],
-      "category": "사건/사고"
-    },
-    {
-      "rank": 2,
-      "keyword": "의혹",
-      "count": 17,
-      "representative_title": "[속보]‘尹 관저 의혹’ 김대기 1심 징역 2년에 집행유예 3년",
-      "representative_link": "https://n.news.naver.com/article/449/0000368883?ntype=RANKING",
-      "press": "채널A",
-      "related_articles": [
-        {
-          "title": "\"신천지로 몰려 깊은 상처\" 최민희, 오늘 중징계 기로…신천지 의혹 꺼내 맞불",
-          "link": "https://n.news.naver.com/article/469/0000968101?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "뮤지컬 배우 이동연, 팬레터 폐기 의혹…분리수거장 사진에 해명 요구",
-          "link": "https://n.news.naver.com/article/119/0003160143?ntype=RANKING",
-          "press": "데일리안"
-        },
-        {
-          "title": "서울경찰청, 김승원 전 법무장관 후보자 검찰 수사자료 한동훈에 유출한 의혹 관련 법무부·공소청 등 압수수색",
-          "link": "https://n.news.naver.com/article/087/0001233902?ntype=RANKING",
-          "press": "강원일보"
-        },
-        {
-          "title": "[속보]‘尹 관저 의혹’ 1심 이상민 무죄…김대기 징역형 집행유예",
-          "link": "https://n.news.naver.com/article/029/0003061491?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "\"유진의 YTN 인수 내가 도왔다\"...윤 캠프 네트워크본부장 개입 의혹",
-          "link": "https://n.news.naver.com/article/607/0000003621?ntype=RANKING",
-          "press": "뉴스타파"
-        }
-      ],
-      "related_titles": [
-        "\"신천지로 몰려 깊은 상처\" 최민희, 오늘 중징계 기로…신천지 의혹 꺼내 맞불",
-        "뮤지컬 배우 이동연, 팬레터 폐기 의혹…분리수거장 사진에 해명 요구",
-        "서울경찰청, 김승원 전 법무장관 후보자 검찰 수사자료 한동훈에 유출한 의혹 관련 법무부·공소청 등 압수수색",
-        "[속보]‘尹 관저 의혹’ 1심 이상민 무죄…김대기 징역형 집행유예",
-        "\"유진의 YTN 인수 내가 도왔다\"...윤 캠프 네트워크본부장 개입 의혹"
-      ],
-      "category": "사건/사고"
-    },
-    {
-      "rank": 3,
-      "keyword": "대통령",
-      "count": 14,
-      "representative_title": "이 대통령 역대 대통령 호감도 '4위'…1위는?",
-      "representative_link": "https://n.news.naver.com/article/057/0001980096?ntype=RANKING",
-      "press": "MBN",
-      "related_articles": [
-        {
-          "title": "유승민 \"집 팔고 주식 사라고 부추겼던 대통령…월세거지로 전락시켜\"",
-          "link": "https://n.news.naver.com/article/437/0000522751?ntype=RANKING",
+          "title": "'일 잘하는 국회의원' 누구?…현역 1위 한동훈, 2위 서영교",
+          "link": "https://n.news.naver.com/article/437/0000522734?ntype=RANKING",
           "press": "JTBC"
         },
         {
-          "title": "\"돈이 없다\" 실토한 이란 대통령…빵 줄고 전기 끊겨",
-          "link": "https://n.news.naver.com/article/057/0001980007?ntype=RANKING",
-          "press": "MBN"
+          "title": "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색",
+          "link": "https://n.news.naver.com/article/056/0012302590?ntype=RANKING",
+          "press": "KBS"
         },
         {
-          "title": "이 대통령 역대 대통령 호감도 '4위'…1위는?",
-          "link": "https://n.news.naver.com/article/057/0001980096?ntype=RANKING",
-          "press": "MBN"
-        },
-        {
-          "title": "이 대통령 역대 대통령 호감도 '4위'…1위는?",
-          "link": "https://n.news.naver.com/article/057/0001980096?ntype=RANKING",
-          "press": "MBN"
-        },
-        {
-          "title": "이 대통령 지지율 41%…민주 37%·국힘 30%[한국갤럽]",
-          "link": "https://n.news.naver.com/article/082/0001409248?ntype=RANKING",
-          "press": "부산일보"
+          "title": "장동혁 \"한동훈, 복당해도 다시 징계…추가 징계 사유 있어\"",
+          "link": "https://n.news.naver.com/article/586/0000143157?ntype=RANKING",
+          "press": "시사저널"
         }
       ],
       "related_titles": [
-        "유승민 \"집 팔고 주식 사라고 부추겼던 대통령…월세거지로 전락시켜\"",
-        "\"돈이 없다\" 실토한 이란 대통령…빵 줄고 전기 끊겨",
-        "이 대통령 역대 대통령 호감도 '4위'…1위는?",
-        "이 대통령 역대 대통령 호감도 '4위'…1위는?",
-        "이 대통령 지지율 41%…민주 37%·국힘 30%[한국갤럽]"
+        "“오세훈 한동훈 이준석 저 씹다 찌그러져” 국민의힘 前 윤리위원들 또 폭로 [자막뉴스]",
+        "한동훈, 압수수색에 “‘민주당의 지팡이’ 된 경찰, 마음대로 해 봐라”",
+        "'일 잘하는 국회의원' 누구?…현역 1위 한동훈, 2위 서영교",
+        "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색",
+        "장동혁 \"한동훈, 복당해도 다시 징계…추가 징계 사유 있어\""
       ],
-      "category": "경제/투자"
+      "category": "사건/사고"
     },
     {
       "rank": 4,
-      "keyword": "경찰",
-      "count": 14,
-      "representative_title": "[단독]경찰, 음주운전 낸시랭 불구속 송치…면허 취소 수준",
-      "representative_link": "https://n.news.naver.com/article/629/0000556176?ntype=RANKING",
-      "press": "더팩트",
+      "keyword": "여성",
+      "count": 15,
+      "representative_title": "철원 GOP 철책 200m까지 접근했다…30대 여성 정체",
+      "representative_link": "https://n.news.naver.com/article/055/0001406302?ntype=RANKING",
+      "press": "SBS",
       "related_articles": [
         {
-          "title": "휴가 중에도 본능 못 숨겼다…엘리베이터 앞 할머니 통화에 '촉' 온 경찰",
-          "link": "https://n.news.naver.com/article/277/0005848538?ntype=RANKING",
-          "press": "아시아경제"
+          "title": "강원 철원 민통선 넘어 GOP 향하던 30대 탈북민 여성 붙잡혀",
+          "link": "https://n.news.naver.com/article/214/0001538462?ntype=RANKING",
+          "press": "MBC"
         },
         {
-          "title": "[단독] 경찰, '임플란트 시술 중 환자 사망' 치과 압수수색",
-          "link": "https://n.news.naver.com/article/055/0001406265?ntype=RANKING",
+          "title": "민통선 넘어 북으로 걸어가고 있었다… 軍, 30대 탈북 여성 이동 경위 조사",
+          "link": "https://n.news.naver.com/article/469/0000968116?ntype=RANKING",
+          "press": "한국일보"
+        },
+        {
+          "title": "30대 탈북 여성, 간식·술 챙겨 민통선 북쪽 GOP 철책 접근",
+          "link": "https://n.news.naver.com/article/008/0005447393?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "30대 탈북 여성, 철원 민통선 넘어 GOP 철책 향하다 검거 [자막뉴스]",
+          "link": "https://n.news.naver.com/article/449/0000368904?ntype=RANKING",
+          "press": "채널A"
+        },
+        {
+          "title": "철원 GOP 철책 200m까지 접근했다…30대 여성 정체",
+          "link": "https://n.news.naver.com/article/055/0001406302?ntype=RANKING",
           "press": "SBS"
-        },
-        {
-          "title": "임플란트 시술 환자 2명 사망…경찰, 강남 소재 치과 압수수색",
-          "link": "https://n.news.naver.com/article/005/0001887842?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "[단독]경찰, 음주운전 낸시랭 불구속 송치…면허 취소 수준",
-          "link": "https://n.news.naver.com/article/629/0000556176?ntype=RANKING",
-          "press": "더팩트"
         }
       ],
       "related_titles": [
-        "휴가 중에도 본능 못 숨겼다…엘리베이터 앞 할머니 통화에 '촉' 온 경찰",
-        "[단독] 경찰, '임플란트 시술 중 환자 사망' 치과 압수수색",
-        "임플란트 시술 환자 2명 사망…경찰, 강남 소재 치과 압수수색",
-        "[단독]경찰, 음주운전 낸시랭 불구속 송치…면허 취소 수준"
+        "강원 철원 민통선 넘어 GOP 향하던 30대 탈북민 여성 붙잡혀",
+        "민통선 넘어 북으로 걸어가고 있었다… 軍, 30대 탈북 여성 이동 경위 조사",
+        "30대 탈북 여성, 간식·술 챙겨 민통선 북쪽 GOP 철책 접근",
+        "30대 탈북 여성, 철원 민통선 넘어 GOP 철책 향하다 검거 [자막뉴스]",
+        "철원 GOP 철책 200m까지 접근했다…30대 여성 정체"
       ],
-      "category": "사건/사고"
+      "category": "사회/일반"
     },
     {
       "rank": 5,
-      "keyword": "혐의",
-      "count": 13,
-      "representative_title": "전직 유력 정치인 아들, 스토킹·폭행 혐의 체포",
-      "representative_link": "https://n.news.naver.com/article/666/0000134049?ntype=RANKING",
-      "press": "경기일보",
-      "related_articles": [
-        {
-          "title": "'마약사범' 남경필 아들…여친에게 '성관계 영상 유포' 협박·폭행 혐의",
-          "link": "https://n.news.naver.com/article/437/0000522762?ntype=RANKING",
-          "press": "JTBC"
-        },
-        {
-          "title": "[단독] 남경필 장남, '전 연인 성관계 영상 유포 협박' 혐의 체포",
-          "link": "https://n.news.naver.com/article/015/0005358979?ntype=RANKING",
-          "press": "한국경제"
-        },
-        {
-          "title": "'제자 성폭행 혐의' 유명 뮤지컬 배우 남경주 오늘 국민참여재판 시작",
-          "link": "https://n.news.naver.com/article/057/0001980094?ntype=RANKING",
-          "press": "MBN"
-        },
-        {
-          "title": "'제자 성폭행 혐의' 뮤지컬 배우 남경주 오늘 국민참여재판",
-          "link": "https://n.news.naver.com/article/001/0016466753?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "‘마약 전과’ 前정치인 아들, 前연인 성관계 영상 유포 협박 등 혐의 체포",
-          "link": "https://n.news.naver.com/article/020/0003765701?ntype=RANKING",
-          "press": "동아일보"
-        }
-      ],
-      "related_titles": [
-        "'마약사범' 남경필 아들…여친에게 '성관계 영상 유포' 협박·폭행 혐의",
-        "[단독] 남경필 장남, '전 연인 성관계 영상 유포 협박' 혐의 체포",
-        "'제자 성폭행 혐의' 유명 뮤지컬 배우 남경주 오늘 국민참여재판 시작",
-        "'제자 성폭행 혐의' 뮤지컬 배우 남경주 오늘 국민참여재판",
-        "‘마약 전과’ 前정치인 아들, 前연인 성관계 영상 유포 협박 등 혐의 체포"
-      ],
-      "category": "정치"
-    }
-  ],
-  "stock_topics": [
-    {
-      "rank": 1,
       "keyword": "삼성전자",
-      "count": 13,
-      "representative_title": "삼성전자, 오늘 배당금 입금…100주 보유하면 약 39만원",
-      "representative_link": "https://n.news.naver.com/article/031/0001078969?ntype=RANKING",
-      "press": "아이뉴스24",
+      "count": 14,
+      "representative_title": "“삼성전자 역대급 배당” 회장님도 4488억",
+      "representative_link": "https://n.news.naver.com/article/050/0000113858?ntype=RANKING",
+      "press": "한경비즈니스",
       "related_articles": [
+        {
+          "title": "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004178502?ntype=RANKING",
+          "press": "세계일보"
+        },
         {
           "title": "삼성전자, 오늘 역대 최대 30조원 배당… 개미들에 5조원, 이재용 4500억",
           "link": "https://n.news.naver.com/article/023/0004012077?ntype=RANKING",
           "press": "조선일보"
-        },
-        {
-          "title": "삼성전자, 오늘 역대 최대 30조 배당…100주 보유하면 39만원",
-          "link": "https://n.news.naver.com/article/421/0009313738?ntype=RANKING",
-          "press": "뉴스1"
         },
         {
           "title": "오늘 삼성전자 배당금 30조 들어온다, 이재용 얼마 받을까?",
@@ -240,42 +201,87 @@
           "press": "국민일보"
         },
         {
-          "title": "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
-          "link": "https://n.news.naver.com/article/032/0003485367?ntype=RANKING",
-          "press": "경향신문"
+          "title": "오늘 풀리는 '삼성전자' 배당 30조…이재용 계좌엔 얼마가?",
+          "link": "https://n.news.naver.com/article/437/0000522768?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "삼성전자, 오늘 역대 최대 30조 배당...이재용 4,488억",
-          "link": "https://n.news.naver.com/article/052/0002438863?ntype=RANKING",
-          "press": "YTN"
+          "title": "삼성전자, 오늘 30조 배당…이재용 회장 4488억",
+          "link": "https://n.news.naver.com/article/028/0002834272?ntype=RANKING",
+          "press": "한겨레"
         }
       ],
       "related_titles": [
+        "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실]",
         "삼성전자, 오늘 역대 최대 30조원 배당… 개미들에 5조원, 이재용 4500억",
-        "삼성전자, 오늘 역대 최대 30조 배당…100주 보유하면 39만원",
         "오늘 삼성전자 배당금 30조 들어온다, 이재용 얼마 받을까?",
-        "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
-        "삼성전자, 오늘 역대 최대 30조 배당...이재용 4,488억"
+        "오늘 풀리는 '삼성전자' 배당 30조…이재용 계좌엔 얼마가?",
+        "삼성전자, 오늘 30조 배당…이재용 회장 4488억"
+      ],
+      "category": "경제/투자"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "삼성전자",
+      "count": 14,
+      "representative_title": "“삼성전자 역대급 배당” 회장님도 4488억",
+      "representative_link": "https://n.news.naver.com/article/050/0000113858?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004178502?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "삼성전자, 오늘 역대 최대 30조원 배당… 개미들에 5조원, 이재용 4500억",
+          "link": "https://n.news.naver.com/article/023/0004012077?ntype=RANKING",
+          "press": "조선일보"
+        },
+        {
+          "title": "오늘 삼성전자 배당금 30조 들어온다, 이재용 얼마 받을까?",
+          "link": "https://n.news.naver.com/article/005/0001887818?ntype=RANKING",
+          "press": "국민일보"
+        },
+        {
+          "title": "오늘 풀리는 '삼성전자' 배당 30조…이재용 계좌엔 얼마가?",
+          "link": "https://n.news.naver.com/article/437/0000522768?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "삼성전자, 오늘 30조 배당…이재용 회장 4488억",
+          "link": "https://n.news.naver.com/article/028/0002834272?ntype=RANKING",
+          "press": "한겨레"
+        }
+      ],
+      "related_titles": [
+        "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실]",
+        "삼성전자, 오늘 역대 최대 30조원 배당… 개미들에 5조원, 이재용 4500억",
+        "오늘 삼성전자 배당금 30조 들어온다, 이재용 얼마 받을까?",
+        "오늘 풀리는 '삼성전자' 배당 30조…이재용 계좌엔 얼마가?",
+        "삼성전자, 오늘 30조 배당…이재용 회장 4488억"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
       "keyword": "배당",
-      "count": 7,
-      "representative_title": "삼전, '슈퍼 30조' 배당 오늘 입금…100주 보유하면 얼마?",
-      "representative_link": "https://n.news.naver.com/article/374/0000546259?ntype=RANKING",
-      "press": "SBS Biz",
+      "count": 9,
+      "representative_title": "'2심 무죄' 유지될까…오세훈 여론조사 대납 의혹 상고심 배당",
+      "representative_link": "https://n.news.naver.com/article/586/0000143167?ntype=RANKING",
+      "press": "시사저널",
       "related_articles": [
-        {
-          "title": "SK하이닉스 배당락 주의보…다음달 29일 배당 지급 [이런국장 저런주식]",
-          "link": "https://n.news.naver.com/article/011/0004686791?ntype=RANKING",
-          "press": "서울경제"
-        },
         {
           "title": "374원 배당 받다 입금액 보고 ‘깜짝’…삼전 개미들 “4분기도 잘 부탁드려요” [투자360]",
           "link": "https://n.news.naver.com/article/016/0002729295?ntype=RANKING",
           "press": "헤럴드경제"
+        },
+        {
+          "title": "'2심 무죄' 유지될까…오세훈 여론조사 대납 의혹 상고심 배당",
+          "link": "https://n.news.naver.com/article/586/0000143167?ntype=RANKING",
+          "press": "시사저널"
         },
         {
           "title": "삼전, '슈퍼 30조' 배당 오늘 입금…100주 보유하면 얼마?",
@@ -283,245 +289,156 @@
           "press": "SBS Biz"
         },
         {
-          "title": "SK하이닉스 배당락 주의보…다음달 29일 배당 지급 [이런국장 저런주식]",
-          "link": "https://n.news.naver.com/article/011/0004686791?ntype=RANKING",
-          "press": "서울경제"
-        },
-        {
           "title": "374원 배당 받다 입금액 보고 ‘깜짝’…삼전 개미들 “4분기도 잘 부탁드려요” [투자360]",
           "link": "https://n.news.naver.com/article/016/0002729295?ntype=RANKING",
           "press": "헤럴드경제"
+        },
+        {
+          "title": "'2심 무죄' 유지될까…오세훈 여론조사 대납 의혹 상고심 배당",
+          "link": "https://n.news.naver.com/article/586/0000143167?ntype=RANKING",
+          "press": "시사저널"
         }
       ],
       "related_titles": [
-        "SK하이닉스 배당락 주의보…다음달 29일 배당 지급 [이런국장 저런주식]",
         "374원 배당 받다 입금액 보고 ‘깜짝’…삼전 개미들 “4분기도 잘 부탁드려요” [투자360]",
+        "'2심 무죄' 유지될까…오세훈 여론조사 대납 의혹 상고심 배당",
         "삼전, '슈퍼 30조' 배당 오늘 입금…100주 보유하면 얼마?",
-        "SK하이닉스 배당락 주의보…다음달 29일 배당 지급 [이런국장 저런주식]",
-        "374원 배당 받다 입금액 보고 ‘깜짝’…삼전 개미들 “4분기도 잘 부탁드려요” [투자360]"
+        "374원 배당 받다 입금액 보고 ‘깜짝’…삼전 개미들 “4분기도 잘 부탁드려요” [투자360]",
+        "'2심 무죄' 유지될까…오세훈 여론조사 대납 의혹 상고심 배당"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 3,
-      "keyword": "이재용",
-      "count": 7,
-      "representative_title": "머스크 제안에 이재용 “뭘 더 해줄 수 있나”…반도체 칩 구하려 진땀 뺀 테슬라",
-      "representative_link": "https://n.news.naver.com/article/666/0000134038?ntype=RANKING",
-      "press": "경기일보",
-      "related_articles": [
-        {
-          "title": "머스크 제안에 이재용 “뭘 더 해줄 수 있나”…반도체 칩 구하려 진땀 뺀 테슬라",
-          "link": "https://n.news.naver.com/article/666/0000134038?ntype=RANKING",
-          "press": "경기일보"
-        },
-        {
-          "title": "머스크 제안에 이재용 “뭘 더 해줄 수 있나”…반도체 칩 구하려 진땀 뺀 테슬라",
-          "link": "https://n.news.naver.com/article/666/0000134038?ntype=RANKING",
-          "press": "경기일보"
-        },
-        {
-          "title": "머스크 제안에 이재용 “뭘 더 해줄 수 있나”…반도체 칩 구하려 진땀 뺀 테슬라",
-          "link": "https://n.news.naver.com/article/666/0000134038?ntype=RANKING",
-          "press": "경기일보"
-        }
-      ],
-      "related_titles": [
-        "머스크 제안에 이재용 “뭘 더 해줄 수 있나”…반도체 칩 구하려 진땀 뺀 테슬라",
-        "머스크 제안에 이재용 “뭘 더 해줄 수 있나”…반도체 칩 구하려 진땀 뺀 테슬라",
-        "머스크 제안에 이재용 “뭘 더 해줄 수 있나”…반도체 칩 구하려 진땀 뺀 테슬라"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 4,
-      "keyword": "코스닥",
+      "keyword": "주식",
       "count": 6,
-      "representative_title": "코스닥 5%대 급등에 매수 사이드카 발동… 3거래일 만",
-      "representative_link": "https://n.news.naver.com/article/656/0000193725?ntype=RANKING",
-      "press": "대전일보",
+      "representative_title": "개미 69% \"주식 투자로 손해\"…37% \"그래도 오르겠지\"",
+      "representative_link": "https://n.news.naver.com/article/448/0000653777?ntype=RANKING",
+      "press": "TV조선",
       "related_articles": [
         {
-          "title": "코스닥 5%대 급등에 매수 사이드카 발동… 3거래일 만",
-          "link": "https://n.news.naver.com/article/656/0000193725?ntype=RANKING",
-          "press": "대전일보"
+          "title": "300만원하던 주식 100만원됐다…초고수, SK하이닉스 순매수 1위 [주식 초고수는 지금]",
+          "link": "https://n.news.naver.com/article/011/0004686859?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "코스닥 '5%대 급등' 매수 사이드카…코스피도 상승폭 키워",
-          "link": "https://n.news.naver.com/article/079/0004214549?ntype=RANKING",
-          "press": "노컷뉴스"
+          "title": "300만원하던 주식 100만원됐다…초고수, SK하이닉스 순매수 1위 [주식 초고수는 지금]",
+          "link": "https://n.news.naver.com/article/011/0004686859?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "코스닥 5%대 급등해 매수 사이드카…코스피는 1%대 상승해 4,800 회복",
-          "link": "https://n.news.naver.com/article/056/0012302525?ntype=RANKING",
-          "press": "KBS"
+          "title": "1주 17만원→13조원? “주식 절대 팔지 마라”…머스크 ‘파격 전망’, 이유가",
+          "link": "https://n.news.naver.com/article/011/0004686902?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "코스닥, 5.9% 급등에 매수사이드카…코스피도 4800선 회복",
-          "link": "https://n.news.naver.com/article/003/0014348968?ntype=RANKING",
-          "press": "뉴시스"
+          "title": "\"李대통령, 주식 투자 강권하더니 폭락엔 침묵…명확한 대국민 사기\" 국힘 의원 맹비판",
+          "link": "https://n.news.naver.com/article/014/0005610725?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
-          "title": "코스닥 장중 5% 넘게 급등…증안펀드 투입 기대에 외국인·기관 ‘사자’ 행렬",
-          "link": "https://n.news.naver.com/article/005/0001887833?ntype=RANKING",
-          "press": "국민일보"
+          "title": "누구는 주식 팔아 집 샀고, \"그 돈이 10조\"…남은 개미들은 남은 게 없어, \"피눈물”",
+          "link": "https://n.news.naver.com/article/030/0003490530?ntype=RANKING",
+          "press": "전자신문"
         }
       ],
       "related_titles": [
-        "코스닥 5%대 급등에 매수 사이드카 발동… 3거래일 만",
-        "코스닥 '5%대 급등' 매수 사이드카…코스피도 상승폭 키워",
-        "코스닥 5%대 급등해 매수 사이드카…코스피는 1%대 상승해 4,800 회복",
-        "코스닥, 5.9% 급등에 매수사이드카…코스피도 4800선 회복",
-        "코스닥 장중 5% 넘게 급등…증안펀드 투입 기대에 외국인·기관 ‘사자’ 행렬"
+        "300만원하던 주식 100만원됐다…초고수, SK하이닉스 순매수 1위 [주식 초고수는 지금]",
+        "300만원하던 주식 100만원됐다…초고수, SK하이닉스 순매수 1위 [주식 초고수는 지금]",
+        "1주 17만원→13조원? “주식 절대 팔지 마라”…머스크 ‘파격 전망’, 이유가",
+        "\"李대통령, 주식 투자 강권하더니 폭락엔 침묵…명확한 대국민 사기\" 국힘 의원 맹비판",
+        "누구는 주식 팔아 집 샀고, \"그 돈이 10조\"…남은 개미들은 남은 게 없어, \"피눈물”"
       ],
       "category": "주식/코인"
-    },
-    {
-      "rank": 5,
-      "keyword": "매수",
-      "count": 5,
-      "representative_title": "'숏의 대가'가 매수 나섰다…마이클 버리, 나스닥 공매도 전량 청산",
-      "representative_link": "https://n.news.naver.com/article/050/0000113846?ntype=RANKING",
-      "press": "한경비즈니스",
-      "related_articles": [
-        {
-          "title": "'숏의 대가'가 매수 나섰다…마이클 버리, 나스닥 공매도 전량 청산",
-          "link": "https://n.news.naver.com/article/050/0000113846?ntype=RANKING",
-          "press": "한경비즈니스"
-        },
-        {
-          "title": "'숏의 대가'가 매수 나섰다…마이클 버리, 나스닥 공매도 전량 청산",
-          "link": "https://n.news.naver.com/article/050/0000113846?ntype=RANKING",
-          "press": "한경비즈니스"
-        },
-        {
-          "title": "'숏의 대가'가 매수 나섰다…마이클 버리, 나스닥 공매도 전량 청산",
-          "link": "https://n.news.naver.com/article/050/0000113846?ntype=RANKING",
-          "press": "한경비즈니스"
-        }
-      ],
-      "related_titles": [
-        "'숏의 대가'가 매수 나섰다…마이클 버리, 나스닥 공매도 전량 청산",
-        "'숏의 대가'가 매수 나섰다…마이클 버리, 나스닥 공매도 전량 청산",
-        "'숏의 대가'가 매수 나섰다…마이클 버리, 나스닥 공매도 전량 청산"
-      ],
-      "category": "주식/코인"
-    }
-  ],
-  "moljak_topics": [
-    {
-      "rank": 1,
-      "keyword": "정권",
-      "series_title": "정권의 몰락",
-      "count": 3,
-      "representative_title": "민주당 지지층 이탈, 이재명 정권 몰락 재촉",
-      "representative_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MRU14Q2oxXzJzMHBEMUxfZTR1VFhpQlkyWHl1bjlwS2Q3ek5SSFVEclZmeGpCaG13YllsbU5yLUpwb01obmx2ZUlSY2syREJfV0Z6Q2NsTXJVVDByRWREYUU1aW9KbGpkQnJr0gFvQVVfeXFMTlk5eEpzOV9IN2JWWDhFMDNNV3ZqTmRYY25IdkNPdG4wS0xkZGs1eDVSb0xMSjBKYVBuWUNDT043T2E3eE9IbzFWR0p6QS1MbHAwLXhlOU5hMTI2TU53WU1ZQTU4N2VBV2k5bjVyd2ZZ?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "조희대 탄핵은 '정권 몰락 트리거' \"김민석 대표 독약 먹는 것\" ㅣ이현종의 뉴스쇼 [문화일보] #shorts",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUmxEeEZQYW15ZzRMeHd2OUdSbWdyZHg1b2ROSGxnTVAwWFMtOTVxaFdEMkk4bC10UFNaYlJfMlNVekZWMDFBVHBqb3RVQ0t5Tmt0WmJB?oc=5",
-          "press": ""
-        },
-        {
-          "title": "민주당 지지층 이탈, 이재명 정권 몰락 재촉",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MRU14Q2oxXzJzMHBEMUxfZTR1VFhpQlkyWHl1bjlwS2Q3ek5SSFVEclZmeGpCaG13YllsbU5yLUpwb01obmx2ZUlSY2syREJfV0Z6Q2NsTXJVVDByRWREYUU1aW9KbGpkQnJr0gFvQVVfeXFMTlk5eEpzOV9IN2JWWDhFMDNNV3ZqTmRYY25IdkNPdG4wS0xkZGs1eDVSb0xMSjBKYVBuWUNDT043T2E3eE9IbzFWR0p6QS1MbHAwLXhlOU5hMTI2TU53WU1ZQTU4N2VBV2k5bjVyd2ZZ?oc=5",
-          "press": ""
-        },
-        {
-          "title": "조희대 탄핵 강행의 위험한 결말 \"이재명 정권 몰락, 트리거 될 것\"ㅣ이현종의 뉴스쇼 [문화일보]",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kZEpyVllwZ2RvOVlwRmI5bDN5ZFRfYW5ROWFRbnZHWWpfdVc1aDBDdnEzUU1OcVhsM3lXaGJhZC1idjNCRHdyMWlGVUxSY3RzZW5BaQ?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "조희대 탄핵은 '정권 몰락 트리거' \"김민석 대표 독약 먹는 것\" ㅣ이현종의 뉴스쇼 [문화일보] #shorts",
-        "민주당 지지층 이탈, 이재명 정권 몰락 재촉",
-        "조희대 탄핵 강행의 위험한 결말 \"이재명 정권 몰락, 트리거 될 것\"ㅣ이현종의 뉴스쇼 [문화일보]"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 2,
-      "keyword": "황제",
-      "series_title": "황제의 몰락",
-      "count": 1,
-      "representative_title": "김종대 “몰락한 황제 젠슨 황, 트럼프 등에 업고 괴물 돼 돌아와” [김은지의 뉴스IN]",
-      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QeU5Cb3l0bDJrUVBIY0NncWxXNWRhclFlMWJ0Wk5UNGlBSnZVV1dRVno3YnhQcHVEenlia2VQYjJmSXl5U19sLWhaVHZTeXgzVTM1MmprT2theUp2cFZYY1BVRHhvaG9uQkE?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "김종대 “몰락한 황제 젠슨 황, 트럼프 등에 업고 괴물 돼 돌아와” [김은지의 뉴스IN]",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QeU5Cb3l0bDJrUVBIY0NncWxXNWRhclFlMWJ0Wk5UNGlBSnZVV1dRVno3YnhQcHVEenlia2VQYjJmSXl5U19sLWhaVHZTeXgzVTM1MmprT2theUp2cFZYY1BVRHhvaG9uQkE?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "김종대 “몰락한 황제 젠슨 황, 트럼프 등에 업고 괴물 돼 돌아와” [김은지의 뉴스IN]"
-      ],
-      "category": "몰락"
-    },
-    {
-      "rank": 3,
-      "keyword": "젠슨",
-      "series_title": "젠슨의 몰락",
-      "count": 1,
-      "representative_title": "[태평로] 젠슨 황의 몰락이 던지는 질문",
-      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1FTjFHLWVtbXNDNzJMMy1YTWx4QTJTLWJRbS1ScWlQOXpuVE5wc0Q0LUFnZEd1OGt6QzEzbWlTRVVSZkpDN0VPVHJIU0p5c2V3Nm9FdGd1LUJMT0dFM1ZrMGhLSmJQMDBUYlpkM1JjQWRmaTk5Q3RzUVd4OHJLcUdqeDE3dHRr?oc=5",
-      "press": "",
-      "related_articles": [
-        {
-          "title": "[태평로] 젠슨 황의 몰락이 던지는 질문",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1FTjFHLWVtbXNDNzJMMy1YTWx4QTJTLWJRbS1ScWlQOXpuVE5wc0Q0LUFnZEd1OGt6QzEzbWlTRVVSZkpDN0VPVHJIU0p5c2V3Nm9FdGd1LUJMT0dFM1ZrMGhLSmJQMDBUYlpkM1JjQWRmaTk5Q3RzUVd4OHJLcUdqeDE3dHRr?oc=5",
-          "press": ""
-        }
-      ],
-      "related_titles": [
-        "[태평로] 젠슨 황의 몰락이 던지는 질문"
-      ],
-      "category": "몰락"
     },
     {
       "rank": 4,
-      "keyword": "만점자",
-      "series_title": "만점자의 몰락",
-      "count": 1,
-      "representative_title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
-      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
-      "press": "",
+      "keyword": "만원",
+      "count": 4,
+      "representative_title": "2000만원→4억 만든 직장인…비결은 \"매달 부업 500만원 몽땅 투자\"",
+      "representative_link": "https://n.news.naver.com/article/008/0005447354?ntype=RANKING",
+      "press": "머니투데이",
       "related_articles": [
         {
-          "title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
-          "press": ""
+          "title": "2000만원→4억 만든 직장인…비결은 \"매달 부업 500만원 몽땅 투자\"",
+          "link": "https://n.news.naver.com/article/008/0005447354?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "2000만원→4억 만든 직장인…비결은 \"매달 부업 500만원 몽땅 투자\"",
+          "link": "https://n.news.naver.com/article/008/0005447354?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "2000만원→4억 만든 직장인…비결은 \"매달 부업 500만원 몽땅 투자\"",
+          "link": "https://n.news.naver.com/article/008/0005447354?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "2000만원→4억 만든 직장인…비결은 \"매달 부업 500만원 몽땅 투자\"",
+          "link": "https://n.news.naver.com/article/008/0005447354?ntype=RANKING",
+          "press": "머니투데이"
+        },
+        {
+          "title": "2000만원→4억 만든 직장인…비결은 \"매달 부업 500만원 몽땅 투자\"",
+          "link": "https://n.news.naver.com/article/008/0005447354?ntype=RANKING",
+          "press": "머니투데이"
         }
       ],
       "related_titles": [
-        "만점자의 몰락이라는 희비극 [한겨레 프리즘]"
+        "2000만원→4억 만든 직장인…비결은 \"매달 부업 500만원 몽땅 투자\"",
+        "2000만원→4억 만든 직장인…비결은 \"매달 부업 500만원 몽땅 투자\"",
+        "2000만원→4억 만든 직장인…비결은 \"매달 부업 500만원 몽땅 투자\"",
+        "2000만원→4억 만든 직장인…비결은 \"매달 부업 500만원 몽땅 투자\"",
+        "2000만원→4억 만든 직장인…비결은 \"매달 부업 500만원 몽땅 투자\""
       ],
-      "category": "몰락"
+      "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "록스타",
-      "series_title": "록스타의 몰락",
-      "count": 1,
-      "representative_title": "반도체 록스타의 몰락 [비즈앤피플]",
-      "representative_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96bFZOa1pMN0dLV014QVpHSjhENDBUTGJtLUxBZ2d2eXJHMkxVdGc3Y2pacTJyUnFkd1dfWlJkWFFnbFI5Z1g3X3ROb3JudUxHdXhseDQ0OHRtSVRKLVVDRS1UQlVlYU1JaHkxMnU4cFZLOEhFSkJyaw?oc=5",
-      "press": "",
+      "keyword": "하이닉스",
+      "count": 3,
+      "representative_title": "SK하이닉스 110만 돌파...코스닥 8% 급등 700선 회복",
+      "representative_link": "https://n.news.naver.com/article/243/0000106375?ntype=RANKING",
+      "press": "이코노미스트",
       "related_articles": [
         {
-          "title": "반도체 록스타의 몰락 [비즈앤피플]",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96bFZOa1pMN0dLV014QVpHSjhENDBUTGJtLUxBZ2d2eXJHMkxVdGc3Y2pacTJyUnFkd1dfWlJkWFFnbFI5Z1g3X3ROb3JudUxHdXhseDQ0OHRtSVRKLVVDRS1UQlVlYU1JaHkxMnU4cFZLOEhFSkJyaw?oc=5",
-          "press": ""
+          "title": "하이닉스 투자로 100억 만든 95년생…‘이 때’ 팔았다 [나만없어]",
+          "link": "https://n.news.naver.com/article/081/0003703877?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "SK하이닉스 110만 돌파...코스닥 8% 급등 700선 회복",
+          "link": "https://n.news.naver.com/article/243/0000106375?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "하이닉스 투자로 100억 만든 95년생…‘이 때’ 팔았다 [나만없어]",
+          "link": "https://n.news.naver.com/article/081/0003703877?ntype=RANKING",
+          "press": "서울신문"
+        },
+        {
+          "title": "SK하이닉스 110만 돌파...코스닥 8% 급등 700선 회복",
+          "link": "https://n.news.naver.com/article/243/0000106375?ntype=RANKING",
+          "press": "이코노미스트"
+        },
+        {
+          "title": "하이닉스 투자로 100억 만든 95년생…‘이 때’ 팔았다 [나만없어]",
+          "link": "https://n.news.naver.com/article/081/0003703877?ntype=RANKING",
+          "press": "서울신문"
         }
       ],
       "related_titles": [
-        "반도체 록스타의 몰락 [비즈앤피플]"
+        "하이닉스 투자로 100억 만든 95년생…‘이 때’ 팔았다 [나만없어]",
+        "SK하이닉스 110만 돌파...코스닥 8% 급등 700선 회복",
+        "하이닉스 투자로 100억 만든 95년생…‘이 때’ 팔았다 [나만없어]",
+        "SK하이닉스 110만 돌파...코스닥 8% 급등 700선 회복",
+        "하이닉스 투자로 100억 만든 95년생…‘이 때’ 팔았다 [나만없어]"
       ],
-      "category": "몰락"
+      "category": "주식/코인"
     }
   ],
+  "moljak_topics": [],
   "budongsan_topics": [
     {
       "rank": 1,
