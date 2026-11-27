@@ -1,0 +1,582 @@
+{
+  "date": "2026-11-27",
+  "hour": "10",
+  "slot": "2026-11-27_10",
+  "crawled_at": "2026-11-27 10:00:01",
+  "total_articles": 406,
+  "topics": [
+    {
+      "rank": 1,
+      "keyword": "대통령",
+      "count": 17,
+      "representative_title": "李대통령 \"SNS에서 폭언·욕설하면 차단한다\"",
+      "representative_link": "https://n.news.naver.com/article/448/0000653669?ntype=RANKING",
+      "press": "TV조선",
+      "related_articles": [
+        {
+          "title": "역대 대통령 호감도 노무현 1위, 윤석열은 꼴찌…이재명은?",
+          "link": "https://n.news.naver.com/article/437/0000522657?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "“우리에게는 돈이 없다” 경제난 실토한 대통령…빵값 오르고 전기마저 끊기는 이란",
+          "link": "https://n.news.naver.com/article/011/0004686762?ntype=RANKING",
+          "press": "서울경제"
+        },
+        {
+          "title": "'대통령의 사람'이 '대통령 재판' 쥐나…속속 맞춰지는 李 공소 취소 퍼즐",
+          "link": "https://n.news.naver.com/article/586/0000143127?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "\"李대통령 분당 집 판 돈, 코스피 넣었다면 7억 손실…국민에 사과해야\"",
+          "link": "https://n.news.naver.com/article/014/0005610583?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "李대통령, SNS 사용에 “폭언, 욕설 싫다…그런 경우 차단한다”",
+          "link": "https://n.news.naver.com/article/029/0003061454?ntype=RANKING",
+          "press": "디지털타임스"
+        }
+      ],
+      "related_titles": [
+        "역대 대통령 호감도 노무현 1위, 윤석열은 꼴찌…이재명은?",
+        "“우리에게는 돈이 없다” 경제난 실토한 대통령…빵값 오르고 전기마저 끊기는 이란",
+        "'대통령의 사람'이 '대통령 재판' 쥐나…속속 맞춰지는 李 공소 취소 퍼즐",
+        "\"李대통령 분당 집 판 돈, 코스피 넣었다면 7억 손실…국민에 사과해야\"",
+        "李대통령, SNS 사용에 “폭언, 욕설 싫다…그런 경우 차단한다”"
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 2,
+      "keyword": "이재용",
+      "count": 11,
+      "representative_title": "머스크 \"반도체 좀 팔아줘\"…이재용 \"그럼 뭘 해줄건데\"",
+      "representative_link": "https://n.news.naver.com/article/031/0001078900?ntype=RANKING",
+      "press": "아이뉴스24",
+      "related_articles": [
+        {
+          "title": "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
+          "link": "https://n.news.naver.com/article/032/0003485367?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "이재용, 메모리 장기구매 요청한 머스크에 “뭘 더 해줄 수 있느냐”",
+          "link": "https://n.news.naver.com/article/020/0003765517?ntype=RANKING",
+          "press": "동아일보"
+        },
+        {
+          "title": "머스크에 \"뭘 더 해줄 수 있나\"…이재용 '배짱 협상'에 온라인 들썩",
+          "link": "https://n.news.naver.com/article/003/0014348479?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "머스크 '파격 제안'에도 이재용 \"뭘 더 해줄건데?\" 뜻밖의 반문…무슨 일?",
+          "link": "https://n.news.naver.com/article/088/0001042626?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "이재용 \"뭘 더 해줄 수 있냐\"…머스크 진땀 빼게 한 한마디",
+          "link": "https://n.news.naver.com/article/215/0001274126?ntype=RANKING",
+          "press": "한국경제TV"
+        }
+      ],
+      "related_titles": [
+        "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
+        "이재용, 메모리 장기구매 요청한 머스크에 “뭘 더 해줄 수 있느냐”",
+        "머스크에 \"뭘 더 해줄 수 있나\"…이재용 '배짱 협상'에 온라인 들썩",
+        "머스크 '파격 제안'에도 이재용 \"뭘 더 해줄건데?\" 뜻밖의 반문…무슨 일?",
+        "이재용 \"뭘 더 해줄 수 있냐\"…머스크 진땀 빼게 한 한마디"
+      ],
+      "category": "산업/테크"
+    },
+    {
+      "rank": 3,
+      "keyword": "머스크",
+      "count": 10,
+      "representative_title": "\"뭘 더 해줄 건데?\"…이재용이 머스크 제안에 건넨 말",
+      "representative_link": "https://n.news.naver.com/article/448/0000653674?ntype=RANKING",
+      "press": "TV조선",
+      "related_articles": [
+        {
+          "title": "美어린이에 '24조' 통 큰 기부…\"절대 팔지 마라\" 머스크 호언장담, 왜",
+          "link": "https://n.news.naver.com/article/215/0001274140?ntype=RANKING",
+          "press": "한국경제TV"
+        },
+        {
+          "title": "머스크, 美 어린이 1인당 스페이스X 2주 기부…총 24조 규모",
+          "link": "https://n.news.naver.com/article/293/0000093907?ntype=RANKING",
+          "press": "블로터"
+        },
+        {
+          "title": "\"뭘 더 해줄 건데?\"…이재용이 머스크 제안에 건넨 말",
+          "link": "https://n.news.naver.com/article/448/0000653674?ntype=RANKING",
+          "press": "TV조선"
+        }
+      ],
+      "related_titles": [
+        "美어린이에 '24조' 통 큰 기부…\"절대 팔지 마라\" 머스크 호언장담, 왜",
+        "머스크, 美 어린이 1인당 스페이스X 2주 기부…총 24조 규모",
+        "\"뭘 더 해줄 건데?\"…이재용이 머스크 제안에 건넨 말"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "반도체",
+      "count": 10,
+      "representative_title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
+      "representative_link": "https://n.news.naver.com/article/030/0003490412?ntype=RANKING",
+      "press": "전자신문",
+      "related_articles": [
+        {
+          "title": "한국인 반도체 기술자, 중국서 '반간첩 혐의'로 3년째 구금",
+          "link": "https://n.news.naver.com/article/421/0009313188?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "중국 다녀온 장관의 아찔한 발언... 그 시간 서울 한복판서 벌어진 일 [반도체 특별과외]",
+          "link": "https://n.news.naver.com/article/047/0002537419?ntype=RANKING",
+          "press": "오마이뉴스"
+        },
+        {
+          "title": "[손병관의 뉴스프레소] 중국, 3년째 반도체 기술자 구금... 쟁점은 '블랙요원 정보 교환'",
+          "link": "https://n.news.naver.com/article/047/0002537416?ntype=RANKING",
+          "press": "오마이뉴스"
+        },
+        {
+          "title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
+          "link": "https://n.news.naver.com/article/030/0003490412?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "[속보] 한은 총재도 설명 힘든 국내주식 \"반도체 영업이익 700조인데, 시총 2000조라니…\"",
+          "link": "https://n.news.naver.com/article/002/0002467777?ntype=RANKING",
+          "press": "프레시안"
+        }
+      ],
+      "related_titles": [
+        "한국인 반도체 기술자, 중국서 '반간첩 혐의'로 3년째 구금",
+        "중국 다녀온 장관의 아찔한 발언... 그 시간 서울 한복판서 벌어진 일 [반도체 특별과외]",
+        "[손병관의 뉴스프레소] 중국, 3년째 반도체 기술자 구금... 쟁점은 '블랙요원 정보 교환'",
+        "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
+        "[속보] 한은 총재도 설명 힘든 국내주식 \"반도체 영업이익 700조인데, 시총 2000조라니…\""
+      ],
+      "category": "경제/투자"
+    },
+    {
+      "rank": 5,
+      "keyword": "만점자",
+      "count": 8,
+      "representative_title": "의사 국시 만점자 7배 늘었다",
+      "representative_link": "https://n.news.naver.com/article/050/0000113819?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "[단독] 이진우 '리트' 본 이유 \"책 내려는데 마침 만점자 없길래\"",
+          "link": "https://n.news.naver.com/article/437/0000522689?ntype=RANKING",
+          "press": "JTBC"
+        },
+        {
+          "title": "\"수능 이력만으론 출판 한계\"…'리트 만점자'의 진짜 목적",
+          "link": "https://n.news.naver.com/article/015/0005358881?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "'리트 만점자' 사망에도 끝나지 않은 수사…영장에 '성명불상 공범'",
+          "link": "https://n.news.naver.com/article/586/0000143125?ntype=RANKING",
+          "press": "시사저널"
+        },
+        {
+          "title": "만점자 무려 27배로…'간호냥이'·'의사냥이'도 있나?",
+          "link": "https://n.news.naver.com/article/055/0001406221?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "[속보] 의사 국가시험 일부 과목 만점자 4년새 7배로",
+          "link": "https://n.news.naver.com/article/654/0000213619?ntype=RANKING",
+          "press": "강원도민일보"
+        }
+      ],
+      "related_titles": [
+        "[단독] 이진우 '리트' 본 이유 \"책 내려는데 마침 만점자 없길래\"",
+        "\"수능 이력만으론 출판 한계\"…'리트 만점자'의 진짜 목적",
+        "'리트 만점자' 사망에도 끝나지 않은 수사…영장에 '성명불상 공범'",
+        "만점자 무려 27배로…'간호냥이'·'의사냥이'도 있나?",
+        "[속보] 의사 국가시험 일부 과목 만점자 4년새 7배로"
+      ],
+      "category": "사건/사고"
+    }
+  ],
+  "stock_topics": [
+    {
+      "rank": 1,
+      "keyword": "주식",
+      "count": 6,
+      "representative_title": "\"모든 아이에 주식 선물\" 약속하더니…머스크의 '폭탄 발언'",
+      "representative_link": "https://n.news.naver.com/article/015/0005358864?ntype=RANKING",
+      "press": "한국경제",
+      "related_articles": [
+        {
+          "title": "\"모든 아이에 주식 선물\" 약속하더니…머스크의 '폭탄 발언'",
+          "link": "https://n.news.naver.com/article/015/0005358864?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "\"국민들 꿈이 날아갔다\"…주식 팔아 집 산 돈 10조, 남은 개미는 폭락장에 '피눈물'",
+          "link": "https://n.news.naver.com/article/014/0005610547?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "\"주가 급락에 약정금 3억 날렸다\"…주식 팔아 집 사기도 옛말",
+          "link": "https://n.news.naver.com/article/003/0014348399?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "주식 2천만원 투자해 100억 찍더니 \"용산 아파트로 갈아타\"…95년생의 승부수",
+          "link": "https://n.news.naver.com/article/088/0001042627?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "누구는 주식 팔아 집 샀고, \"그 돈이 10조\"…남은 개미들은 남은 게 없어, \"피눈물”",
+          "link": "https://n.news.naver.com/article/030/0003490530?ntype=RANKING",
+          "press": "전자신문"
+        }
+      ],
+      "related_titles": [
+        "\"모든 아이에 주식 선물\" 약속하더니…머스크의 '폭탄 발언'",
+        "\"국민들 꿈이 날아갔다\"…주식 팔아 집 산 돈 10조, 남은 개미는 폭락장에 '피눈물'",
+        "\"주가 급락에 약정금 3억 날렸다\"…주식 팔아 집 사기도 옛말",
+        "주식 2천만원 투자해 100억 찍더니 \"용산 아파트로 갈아타\"…95년생의 승부수",
+        "누구는 주식 팔아 집 샀고, \"그 돈이 10조\"…남은 개미들은 남은 게 없어, \"피눈물”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "엔비디아",
+      "count": 6,
+      "representative_title": "젠슨 황 복귀했는데...엔비디아 또 '날벼락'?",
+      "representative_link": "https://n.news.naver.com/article/050/0000113793?ntype=RANKING",
+      "press": "한경비즈니스",
+      "related_articles": [
+        {
+          "title": "\"엔비디아 칩 많이 산 실리콘밸리 업체 2곳, 알고보니 중국이 소유\"",
+          "link": "https://n.news.naver.com/article/052/0002438753?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "\"中에 하나라도 임대하면 칩 못팔아\"…엔비디아 판매상 강경방침",
+          "link": "https://n.news.naver.com/article/374/0000546192?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "젠슨 황 복귀했는데...엔비디아 또 '날벼락'?",
+          "link": "https://n.news.naver.com/article/050/0000113793?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "日 키옥시아, 엔비디아 손잡는다…삼성·SK 노리나",
+          "link": "https://n.news.naver.com/article/050/0000113844?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
+          "title": "젠슨 황 복귀, ‘독’이었나…S&P, 엔비디아 신용등급 강등 검토",
+          "link": "https://n.news.naver.com/article/024/0000109914?ntype=RANKING",
+          "press": "매경이코노미"
+        }
+      ],
+      "related_titles": [
+        "\"엔비디아 칩 많이 산 실리콘밸리 업체 2곳, 알고보니 중국이 소유\"",
+        "\"中에 하나라도 임대하면 칩 못팔아\"…엔비디아 판매상 강경방침",
+        "젠슨 황 복귀했는데...엔비디아 또 '날벼락'?",
+        "日 키옥시아, 엔비디아 손잡는다…삼성·SK 노리나",
+        "젠슨 황 복귀, ‘독’이었나…S&P, 엔비디아 신용등급 강등 검토"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "코스피",
+      "count": 4,
+      "representative_title": "\"폭락장 끝난 줄 알았는데\"…코스피 급등에 숨은 '함정'",
+      "representative_link": "https://n.news.naver.com/article/015/0005358862?ntype=RANKING",
+      "press": "한국경제",
+      "related_articles": [
+        {
+          "title": "\"폭락장 끝난 줄 알았는데\"…코스피 급등에 숨은 '함정'",
+          "link": "https://n.news.naver.com/article/015/0005358862?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "\"李대통령 분당 집 판 돈, 코스피 넣었다면 7억 손실…국민에 사과해야\"",
+          "link": "https://n.news.naver.com/article/014/0005610583?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "“증안펀드 늘리고 공매도 금지하나”…코스피 급등락에 금융당국 추가 대책 ‘촉각’",
+          "link": "https://n.news.naver.com/article/138/0002249985?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "美 증시 낙폭 축소에 반도체주 반등…코스피, 4745.10에 상승 출발",
+          "link": "https://n.news.naver.com/article/138/0002249975?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "\"李대통령 분당 집 판 돈, 코스피 넣었다면 7억 손실…국민에 사과해야\"",
+          "link": "https://n.news.naver.com/article/014/0005610583?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        }
+      ],
+      "related_titles": [
+        "\"폭락장 끝난 줄 알았는데\"…코스피 급등에 숨은 '함정'",
+        "\"李대통령 분당 집 판 돈, 코스피 넣었다면 7억 손실…국민에 사과해야\"",
+        "“증안펀드 늘리고 공매도 금지하나”…코스피 급등락에 금융당국 추가 대책 ‘촉각’",
+        "美 증시 낙폭 축소에 반도체주 반등…코스피, 4745.10에 상승 출발",
+        "\"李대통령 분당 집 판 돈, 코스피 넣었다면 7억 손실…국민에 사과해야\""
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성전자",
+      "count": 4,
+      "representative_title": "머스크도 애타는 삼성전자 반도체…이재용 \"뭘 더 해줄 수 있나?\"",
+      "representative_link": "https://n.news.naver.com/article/053/0000063383?ntype=RANKING",
+      "press": "주간조선",
+      "related_articles": [
+        {
+          "title": "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
+          "link": "https://n.news.naver.com/article/032/0003485367?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004178502?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "“삼성전자 15% 폭락 차트 보더니 결국 눈물”…생방송 중 무너진 증시 진행자, 무슨 일이",
+          "link": "https://n.news.naver.com/article/030/0003490497?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "머스크도 애타는 삼성전자 반도체…이재용 \"뭘 더 해줄 수 있나?\"",
+          "link": "https://n.news.naver.com/article/053/0000063383?ntype=RANKING",
+          "press": "주간조선"
+        },
+        {
+          "title": "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
+          "link": "https://n.news.naver.com/article/032/0003485367?ntype=RANKING",
+          "press": "경향신문"
+        }
+      ],
+      "related_titles": [
+        "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
+        "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실]",
+        "“삼성전자 15% 폭락 차트 보더니 결국 눈물”…생방송 중 무너진 증시 진행자, 무슨 일이",
+        "머스크도 애타는 삼성전자 반도체…이재용 \"뭘 더 해줄 수 있나?\"",
+        "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "주가",
+      "count": 3,
+      "representative_title": "“주가 빠질 때 왜 대통령 탓 못하나” 이광수가 매불쇼서 한 말",
+      "representative_link": "https://n.news.naver.com/article/021/0002835898?ntype=RANKING",
+      "press": "문화일보",
+      "related_articles": [
+        {
+          "title": "\"하필 하닉 주가 반토막일 때?\" 최태원·노소영 각자의 속내는? [사건X파일]",
+          "link": "https://n.news.naver.com/article/052/0002438726?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "“주가 빠질 때 왜 대통령 탓 못하나” 이광수가 매불쇼서 한 말",
+          "link": "https://n.news.naver.com/article/021/0002835898?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "“주가 빠질 때 왜 대통령 탓 못하나” 이광수가 매불쇼서 한 말",
+          "link": "https://n.news.naver.com/article/021/0002835898?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "\"하필 하닉 주가 반토막일 때?\" 최태원·노소영 각자의 속내는? [사건X파일]",
+          "link": "https://n.news.naver.com/article/052/0002438726?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "\"하필 하닉 주가 반토막일 때?\" 최태원·노소영 각자의 속내는? [사건X파일]",
+          "link": "https://n.news.naver.com/article/052/0002438726?ntype=RANKING",
+          "press": "YTN"
+        }
+      ],
+      "related_titles": [
+        "\"하필 하닉 주가 반토막일 때?\" 최태원·노소영 각자의 속내는? [사건X파일]",
+        "“주가 빠질 때 왜 대통령 탓 못하나” 이광수가 매불쇼서 한 말",
+        "“주가 빠질 때 왜 대통령 탓 못하나” 이광수가 매불쇼서 한 말",
+        "\"하필 하닉 주가 반토막일 때?\" 최태원·노소영 각자의 속내는? [사건X파일]",
+        "\"하필 하닉 주가 반토막일 때?\" 최태원·노소영 각자의 속내는? [사건X파일]"
+      ],
+      "category": "주식/코인"
+    }
+  ],
+  "moljak_topics": [
+    {
+      "rank": 1,
+      "keyword": "정권",
+      "series_title": "정권의 몰락",
+      "count": 3,
+      "representative_title": "민주당 지지층 이탈, 이재명 정권 몰락 재촉",
+      "representative_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MRU14Q2oxXzJzMHBEMUxfZTR1VFhpQlkyWHl1bjlwS2Q3ek5SSFVEclZmeGpCaG13YllsbU5yLUpwb01obmx2ZUlSY2syREJfV0Z6Q2NsTXJVVDByRWREYUU1aW9KbGpkQnJr0gFvQVVfeXFMTlk5eEpzOV9IN2JWWDhFMDNNV3ZqTmRYY25IdkNPdG4wS0xkZGs1eDVSb0xMSjBKYVBuWUNDT043T2E3eE9IbzFWR0p6QS1MbHAwLXhlOU5hMTI2TU53WU1ZQTU4N2VBV2k5bjVyd2ZZ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "조희대 탄핵은 '정권 몰락 트리거' \"김민석 대표 독약 먹는 것\" ㅣ이현종의 뉴스쇼 [문화일보] #shorts",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUmxEeEZQYW15ZzRMeHd2OUdSbWdyZHg1b2ROSGxnTVAwWFMtOTVxaFdEMkk4bC10UFNaYlJfMlNVekZWMDFBVHBqb3RVQ0t5Tmt0WmJB?oc=5",
+          "press": ""
+        },
+        {
+          "title": "민주당 지지층 이탈, 이재명 정권 몰락 재촉",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MRU14Q2oxXzJzMHBEMUxfZTR1VFhpQlkyWHl1bjlwS2Q3ek5SSFVEclZmeGpCaG13YllsbU5yLUpwb01obmx2ZUlSY2syREJfV0Z6Q2NsTXJVVDByRWREYUU1aW9KbGpkQnJr0gFvQVVfeXFMTlk5eEpzOV9IN2JWWDhFMDNNV3ZqTmRYY25IdkNPdG4wS0xkZGs1eDVSb0xMSjBKYVBuWUNDT043T2E3eE9IbzFWR0p6QS1MbHAwLXhlOU5hMTI2TU53WU1ZQTU4N2VBV2k5bjVyd2ZZ?oc=5",
+          "press": ""
+        },
+        {
+          "title": "조희대 탄핵 강행의 위험한 결말 \"이재명 정권 몰락, 트리거 될 것\"ㅣ이현종의 뉴스쇼 [문화일보]",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kZEpyVllwZ2RvOVlwRmI5bDN5ZFRfYW5ROWFRbnZHWWpfdVc1aDBDdnEzUU1OcVhsM3lXaGJhZC1idjNCRHdyMWlGVUxSY3RzZW5BaQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "조희대 탄핵은 '정권 몰락 트리거' \"김민석 대표 독약 먹는 것\" ㅣ이현종의 뉴스쇼 [문화일보] #shorts",
+        "민주당 지지층 이탈, 이재명 정권 몰락 재촉",
+        "조희대 탄핵 강행의 위험한 결말 \"이재명 정권 몰락, 트리거 될 것\"ㅣ이현종의 뉴스쇼 [문화일보]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 2,
+      "keyword": "황제",
+      "series_title": "황제의 몰락",
+      "count": 1,
+      "representative_title": "김종대 “몰락한 황제 젠슨 황, 트럼프 등에 업고 괴물 돼 돌아와” [김은지의 뉴스IN]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QeU5Cb3l0bDJrUVBIY0NncWxXNWRhclFlMWJ0Wk5UNGlBSnZVV1dRVno3YnhQcHVEenlia2VQYjJmSXl5U19sLWhaVHZTeXgzVTM1MmprT2theUp2cFZYY1BVRHhvaG9uQkE?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "김종대 “몰락한 황제 젠슨 황, 트럼프 등에 업고 괴물 돼 돌아와” [김은지의 뉴스IN]",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QeU5Cb3l0bDJrUVBIY0NncWxXNWRhclFlMWJ0Wk5UNGlBSnZVV1dRVno3YnhQcHVEenlia2VQYjJmSXl5U19sLWhaVHZTeXgzVTM1MmprT2theUp2cFZYY1BVRHhvaG9uQkE?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "김종대 “몰락한 황제 젠슨 황, 트럼프 등에 업고 괴물 돼 돌아와” [김은지의 뉴스IN]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 3,
+      "keyword": "젠슨",
+      "series_title": "젠슨의 몰락",
+      "count": 1,
+      "representative_title": "[태평로] 젠슨 황의 몰락이 던지는 질문",
+      "representative_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1FTjFHLWVtbXNDNzJMMy1YTWx4QTJTLWJRbS1ScWlQOXpuVE5wc0Q0LUFnZEd1OGt6QzEzbWlTRVVSZkpDN0VPVHJIU0p5c2V3Nm9FdGd1LUJMT0dFM1ZrMGhLSmJQMDBUYlpkM1JjQWRmaTk5Q3RzUVd4OHJLcUdqeDE3dHRr?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "[태평로] 젠슨 황의 몰락이 던지는 질문",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1FTjFHLWVtbXNDNzJMMy1YTWx4QTJTLWJRbS1ScWlQOXpuVE5wc0Q0LUFnZEd1OGt6QzEzbWlTRVVSZkpDN0VPVHJIU0p5c2V3Nm9FdGd1LUJMT0dFM1ZrMGhLSmJQMDBUYlpkM1JjQWRmaTk5Q3RzUVd4OHJLcUdqeDE3dHRr?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "[태평로] 젠슨 황의 몰락이 던지는 질문"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 4,
+      "keyword": "만점자",
+      "series_title": "만점자의 몰락",
+      "count": 1,
+      "representative_title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "만점자의 몰락이라는 희비극 [한겨레 프리즘]"
+      ],
+      "category": "몰락"
+    },
+    {
+      "rank": 5,
+      "keyword": "록스타",
+      "series_title": "록스타의 몰락",
+      "count": 1,
+      "representative_title": "반도체 록스타의 몰락 [비즈앤피플]",
+      "representative_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96bFZOa1pMN0dLV014QVpHSjhENDBUTGJtLUxBZ2d2eXJHMkxVdGc3Y2pacTJyUnFkd1dfWlJkWFFnbFI5Z1g3X3ROb3JudUxHdXhseDQ0OHRtSVRKLVVDRS1UQlVlYU1JaHkxMnU4cFZLOEhFSkJyaw?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "반도체 록스타의 몰락 [비즈앤피플]",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96bFZOa1pMN0dLV014QVpHSjhENDBUTGJtLUxBZ2d2eXJHMkxVdGc3Y2pacTJyUnFkd1dfWlJkWFFnbFI5Z1g3X3ROb3JudUxHdXhseDQ0OHRtSVRKLVVDRS1UQlVlYU1JaHkxMnU4cFZLOEhFSkJyaw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "반도체 록스타의 몰락 [비즈앤피플]"
+      ],
+      "category": "몰락"
+    }
+  ],
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 4,
+      "representative_title": "강남3구 꺾였다…서울 집값 0.01% 상승 그쳐",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwNU9TYktRbUtjbE4xUnJETWVIVUhzdk55Z3FRYllqZk84RVEyT2RqWExFUEQ4VUk1Qk9ZZDJ0cjhLUEVuX1NmZU92SnhhYUtzS21IZW5vVDBhSi1XWGZkU3U0a0lzVUpO?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남3구 꺾였다…서울 집값 0.01% 상승 그쳐",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwNU9TYktRbUtjbE4xUnJETWVIVUhzdk55Z3FRYllqZk84RVEyT2RqWExFUEQ4VUk1Qk9ZZDJ0cjhLUEVuX1NmZU92SnhhYUtzS21IZW5vVDBhSi1XWGZkU3U0a0lzVUpO?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 상승폭 반토막…전세 매물 줄고 분양도 급감",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SWGtlNU5OTkxTUkdDS2l2dmVWZmd2dnVsbE5LanJBcmRhZnBMbHRkMG10aktXMHZsX0tQNHB1ZEd6QTAyazRTTUhOcmZTVk5BTzFEOF9zODVQb2oz?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 94주째 올라 또 최장 기록…성북·노원·서대문 상승 견인",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UYi1ocUdFYnJTQzNaVUs0cWVVTlRyR2w2VzY5Ql91dnZmSkNMcVNjcTFDWVB1NFhBUmJWWXhycGtJMWhqT2ZxSWs0SVZMdk1veW9fOGVrRC1hZw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남3구 꺾였다…서울 집값 0.01% 상승 그쳐",
+        "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+        "서울 집값 상승폭 반토막…전세 매물 줄고 분양도 급감",
+        "서울 집값 94주째 올라 또 최장 기록…성북·노원·서대문 상승 견인"
+      ],
+      "category": "부동산"
+    }
+  ]
+}

@@ -1,118 +1,65 @@
 {
   "date": "2026-11-27",
-  "hour": "07",
-  "slot": "2026-11-27_07",
-  "crawled_at": "2026-11-27 07:00:01",
-  "total_articles": 405,
+  "hour": "10",
+  "slot": "2026-11-27_10",
+  "crawled_at": "2026-11-27 10:00:01",
+  "total_articles": 406,
   "topics": [
     {
       "rank": 1,
       "keyword": "대통령",
-      "count": 18,
+      "count": 17,
       "representative_title": "李대통령 \"SNS에서 폭언·욕설하면 차단한다\"",
       "representative_link": "https://n.news.naver.com/article/448/0000653669?ntype=RANKING",
       "press": "TV조선",
       "related_articles": [
         {
-          "title": "\"돈이 없다\" 실토한 이란 대통령…빵 줄고 전기 끊겨",
-          "link": "https://n.news.naver.com/article/057/0001980007?ntype=RANKING",
-          "press": "MBN"
+          "title": "역대 대통령 호감도 노무현 1위, 윤석열은 꼴찌…이재명은?",
+          "link": "https://n.news.naver.com/article/437/0000522657?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "이 대통령 \"정부 지원받아 성공하면 이익 독차지 말고 재투자해야\"",
-          "link": "https://n.news.naver.com/article/057/0001980041?ntype=RANKING",
-          "press": "MBN"
+          "title": "“우리에게는 돈이 없다” 경제난 실토한 대통령…빵값 오르고 전기마저 끊기는 이란",
+          "link": "https://n.news.naver.com/article/011/0004686762?ntype=RANKING",
+          "press": "서울경제"
         },
         {
-          "title": "李 대통령 “SNS에서 폭언·욕설하면 차단한다”",
-          "link": "https://n.news.naver.com/article/023/0004011955?ntype=RANKING",
-          "press": "조선일보"
+          "title": "'대통령의 사람'이 '대통령 재판' 쥐나…속속 맞춰지는 李 공소 취소 퍼즐",
+          "link": "https://n.news.naver.com/article/586/0000143127?ntype=RANKING",
+          "press": "시사저널"
         },
         {
-          "title": "[단독] 李대통령-이용철 ‘연결고리’는 차지훈… 공소취소 우려 증폭",
-          "link": "https://n.news.naver.com/article/022/0004178374?ntype=RANKING",
-          "press": "세계일보"
+          "title": "\"李대통령 분당 집 판 돈, 코스피 넣었다면 7억 손실…국민에 사과해야\"",
+          "link": "https://n.news.naver.com/article/014/0005610583?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
-          "title": "이기인 \"李대통령 분당 아파트 판 돈 코스피 넣었다면 7억 손실\"",
-          "link": "https://n.news.naver.com/article/421/0009313101?ntype=RANKING",
-          "press": "뉴스1"
+          "title": "李대통령, SNS 사용에 “폭언, 욕설 싫다…그런 경우 차단한다”",
+          "link": "https://n.news.naver.com/article/029/0003061454?ntype=RANKING",
+          "press": "디지털타임스"
         }
       ],
       "related_titles": [
-        "\"돈이 없다\" 실토한 이란 대통령…빵 줄고 전기 끊겨",
-        "이 대통령 \"정부 지원받아 성공하면 이익 독차지 말고 재투자해야\"",
-        "李 대통령 “SNS에서 폭언·욕설하면 차단한다”",
-        "[단독] 李대통령-이용철 ‘연결고리’는 차지훈… 공소취소 우려 증폭",
-        "이기인 \"李대통령 분당 아파트 판 돈 코스피 넣었다면 7억 손실\""
+        "역대 대통령 호감도 노무현 1위, 윤석열은 꼴찌…이재명은?",
+        "“우리에게는 돈이 없다” 경제난 실토한 대통령…빵값 오르고 전기마저 끊기는 이란",
+        "'대통령의 사람'이 '대통령 재판' 쥐나…속속 맞춰지는 李 공소 취소 퍼즐",
+        "\"李대통령 분당 집 판 돈, 코스피 넣었다면 7억 손실…국민에 사과해야\"",
+        "李대통령, SNS 사용에 “폭언, 욕설 싫다…그런 경우 차단한다”"
       ],
       "category": "경제/투자"
     },
     {
       "rank": 2,
-      "keyword": "반도체",
-      "count": 13,
-      "representative_title": "반도체 키우는 것도 문제?…트럼프의 달라진 관세 명분",
-      "representative_link": "https://n.news.naver.com/article/648/0000053013?ntype=RANKING",
-      "press": "비즈워치",
-      "related_articles": [
-        {
-          "title": "'AI 반도체 품귀'에 머스크도 진땀… 이재용 \"뭘 더 해줄 수 있나\"",
-          "link": "https://n.news.naver.com/article/469/0000968045?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "한국인 반도체 기술자, 중국서 '반간첩 혐의'로 3년째 구금",
-          "link": "https://n.news.naver.com/article/421/0009313188?ntype=RANKING",
-          "press": "뉴스1"
-        },
-        {
-          "title": "삼성에 반도체 장기 계약 제안했다가…머스크도 진땀 뺀 이재용의 한마디",
-          "link": "https://n.news.naver.com/article/008/0005447152?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "\"이재용, '반도체 장기구매할게' 머스크에 '그럼 뭘 해줄건데'\"",
-          "link": "https://n.news.naver.com/article/001/0016466655?ntype=RANKING",
-          "press": "연합뉴스"
-        },
-        {
-          "title": "“이재용, ‘반도체 장기구매할게’ 머스크에 ‘다들 그 정도는...뭘 더 해줄건데?’”",
-          "link": "https://n.news.naver.com/article/011/0004686663?ntype=RANKING",
-          "press": "서울경제"
-        }
-      ],
-      "related_titles": [
-        "'AI 반도체 품귀'에 머스크도 진땀… 이재용 \"뭘 더 해줄 수 있나\"",
-        "한국인 반도체 기술자, 중국서 '반간첩 혐의'로 3년째 구금",
-        "삼성에 반도체 장기 계약 제안했다가…머스크도 진땀 뺀 이재용의 한마디",
-        "\"이재용, '반도체 장기구매할게' 머스크에 '그럼 뭘 해줄건데'\"",
-        "“이재용, ‘반도체 장기구매할게’ 머스크에 ‘다들 그 정도는...뭘 더 해줄건데?’”"
-      ],
-      "category": "산업/테크"
-    },
-    {
-      "rank": 3,
       "keyword": "이재용",
       "count": 11,
-      "representative_title": "머스크도 퇴짜 맞은 메모리… 이재용 “뭘 더 해줄 건데?”",
-      "representative_link": "https://n.news.naver.com/article/023/0004011958?ntype=RANKING",
-      "press": "조선일보",
+      "representative_title": "머스크 \"반도체 좀 팔아줘\"…이재용 \"그럼 뭘 해줄건데\"",
+      "representative_link": "https://n.news.naver.com/article/031/0001078900?ntype=RANKING",
+      "press": "아이뉴스24",
       "related_articles": [
         {
-          "title": "이재용 \"뭘 더 해줄 수 있냐\"…머스크 진땀 빼게 한 한마디",
-          "link": "https://n.news.naver.com/article/215/0001274126?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "WSJ \"이재용, 칩 요청한 머스크에 '뭘 더 해줄 건데' 2연타\"",
-          "link": "https://n.news.naver.com/article/057/0001980070?ntype=RANKING",
-          "press": "MBN"
-        },
-        {
-          "title": "머스크도 퇴짜 맞은 메모리… 이재용 “뭘 더 해줄 건데?”",
-          "link": "https://n.news.naver.com/article/023/0004011958?ntype=RANKING",
-          "press": "조선일보"
+          "title": "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
+          "link": "https://n.news.naver.com/article/032/0003485367?ntype=RANKING",
+          "press": "경향신문"
         },
         {
           "title": "이재용, 메모리 장기구매 요청한 머스크에 “뭘 더 해줄 수 있느냐”",
@@ -120,296 +67,208 @@
           "press": "동아일보"
         },
         {
-          "title": "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
-          "link": "https://n.news.naver.com/article/032/0003485367?ntype=RANKING",
-          "press": "경향신문"
+          "title": "머스크에 \"뭘 더 해줄 수 있나\"…이재용 '배짱 협상'에 온라인 들썩",
+          "link": "https://n.news.naver.com/article/003/0014348479?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "머스크 '파격 제안'에도 이재용 \"뭘 더 해줄건데?\" 뜻밖의 반문…무슨 일?",
+          "link": "https://n.news.naver.com/article/088/0001042626?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "이재용 \"뭘 더 해줄 수 있냐\"…머스크 진땀 빼게 한 한마디",
+          "link": "https://n.news.naver.com/article/215/0001274126?ntype=RANKING",
+          "press": "한국경제TV"
         }
       ],
       "related_titles": [
-        "이재용 \"뭘 더 해줄 수 있냐\"…머스크 진땀 빼게 한 한마디",
-        "WSJ \"이재용, 칩 요청한 머스크에 '뭘 더 해줄 건데' 2연타\"",
-        "머스크도 퇴짜 맞은 메모리… 이재용 “뭘 더 해줄 건데?”",
+        "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
         "이재용, 메모리 장기구매 요청한 머스크에 “뭘 더 해줄 수 있느냐”",
-        "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”"
+        "머스크에 \"뭘 더 해줄 수 있나\"…이재용 '배짱 협상'에 온라인 들썩",
+        "머스크 '파격 제안'에도 이재용 \"뭘 더 해줄건데?\" 뜻밖의 반문…무슨 일?",
+        "이재용 \"뭘 더 해줄 수 있냐\"…머스크 진땀 빼게 한 한마디"
       ],
       "category": "산업/테크"
     },
     {
-      "rank": 4,
-      "keyword": "주식",
+      "rank": 3,
+      "keyword": "머스크",
       "count": 10,
-      "representative_title": "“이때 주식 사면 24% 번다”…적중률 100% 신호 뭐길래",
-      "representative_link": "https://n.news.naver.com/article/025/0003568166?ntype=RANKING",
-      "press": "중앙일보",
+      "representative_title": "\"뭘 더 해줄 건데?\"…이재용이 머스크 제안에 건넨 말",
+      "representative_link": "https://n.news.naver.com/article/448/0000653674?ntype=RANKING",
+      "press": "TV조선",
       "related_articles": [
         {
-          "title": "SK하이닉스 호황에 웃는다…\"아직 저평가\"라는 종목 [주식R]",
-          "link": "https://n.news.naver.com/article/215/0001274134?ntype=RANKING",
+          "title": "美어린이에 '24조' 통 큰 기부…\"절대 팔지 마라\" 머스크 호언장담, 왜",
+          "link": "https://n.news.naver.com/article/215/0001274140?ntype=RANKING",
           "press": "한국경제TV"
         },
         {
-          "title": "61만원→53만원 목표가 낮추더니…\"매수 기회\"라는 종목 [주식R]",
-          "link": "https://n.news.naver.com/article/215/0001274130?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "머스크, 美 어린이 1인당 스페이스X 2주 기부…총 24조 규모",
+          "link": "https://n.news.naver.com/article/293/0000093907?ntype=RANKING",
+          "press": "블로터"
         },
         {
-          "title": "“이때 주식 사면 24% 번다”…적중률 100% 신호 뭐길래",
-          "link": "https://n.news.naver.com/article/025/0003568166?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
-          "title": "미국 모든 청소년·어린이 스페이스X 주식 2주씩 갖는다…머스크 통큰 기부",
-          "link": "https://n.news.naver.com/article/029/0003061418?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "\"국민들 꿈이 날아갔다\"…주식 팔아 집 산 돈 10조, 남은 개미는 폭락장에 '피눈물'",
-          "link": "https://n.news.naver.com/article/014/0005610547?ntype=RANKING",
-          "press": "파이낸셜뉴스"
+          "title": "\"뭘 더 해줄 건데?\"…이재용이 머스크 제안에 건넨 말",
+          "link": "https://n.news.naver.com/article/448/0000653674?ntype=RANKING",
+          "press": "TV조선"
         }
       ],
       "related_titles": [
-        "SK하이닉스 호황에 웃는다…\"아직 저평가\"라는 종목 [주식R]",
-        "61만원→53만원 목표가 낮추더니…\"매수 기회\"라는 종목 [주식R]",
-        "“이때 주식 사면 24% 번다”…적중률 100% 신호 뭐길래",
-        "미국 모든 청소년·어린이 스페이스X 주식 2주씩 갖는다…머스크 통큰 기부",
-        "\"국민들 꿈이 날아갔다\"…주식 팔아 집 산 돈 10조, 남은 개미는 폭락장에 '피눈물'"
+        "美어린이에 '24조' 통 큰 기부…\"절대 팔지 마라\" 머스크 호언장담, 왜",
+        "머스크, 美 어린이 1인당 스페이스X 2주 기부…총 24조 규모",
+        "\"뭘 더 해줄 건데?\"…이재용이 머스크 제안에 건넨 말"
+      ],
+      "category": "사회/일반"
+    },
+    {
+      "rank": 4,
+      "keyword": "반도체",
+      "count": 10,
+      "representative_title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
+      "representative_link": "https://n.news.naver.com/article/030/0003490412?ntype=RANKING",
+      "press": "전자신문",
+      "related_articles": [
+        {
+          "title": "한국인 반도체 기술자, 중국서 '반간첩 혐의'로 3년째 구금",
+          "link": "https://n.news.naver.com/article/421/0009313188?ntype=RANKING",
+          "press": "뉴스1"
+        },
+        {
+          "title": "중국 다녀온 장관의 아찔한 발언... 그 시간 서울 한복판서 벌어진 일 [반도체 특별과외]",
+          "link": "https://n.news.naver.com/article/047/0002537419?ntype=RANKING",
+          "press": "오마이뉴스"
+        },
+        {
+          "title": "[손병관의 뉴스프레소] 중국, 3년째 반도체 기술자 구금... 쟁점은 '블랙요원 정보 교환'",
+          "link": "https://n.news.naver.com/article/047/0002537416?ntype=RANKING",
+          "press": "오마이뉴스"
+        },
+        {
+          "title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
+          "link": "https://n.news.naver.com/article/030/0003490412?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "[속보] 한은 총재도 설명 힘든 국내주식 \"반도체 영업이익 700조인데, 시총 2000조라니…\"",
+          "link": "https://n.news.naver.com/article/002/0002467777?ntype=RANKING",
+          "press": "프레시안"
+        }
+      ],
+      "related_titles": [
+        "한국인 반도체 기술자, 중국서 '반간첩 혐의'로 3년째 구금",
+        "중국 다녀온 장관의 아찔한 발언... 그 시간 서울 한복판서 벌어진 일 [반도체 특별과외]",
+        "[손병관의 뉴스프레소] 중국, 3년째 반도체 기술자 구금... 쟁점은 '블랙요원 정보 교환'",
+        "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
+        "[속보] 한은 총재도 설명 힘든 국내주식 \"반도체 영업이익 700조인데, 시총 2000조라니…\""
       ],
       "category": "경제/투자"
     },
     {
       "rank": 5,
-      "keyword": "만원",
-      "count": 10,
-      "representative_title": "\"월급 200만원 주면서\"…결국 폭발한 김선태, 무슨 일",
-      "representative_link": "https://n.news.naver.com/article/215/0001274128?ntype=RANKING",
-      "press": "한국경제TV",
+      "keyword": "만점자",
+      "count": 8,
+      "representative_title": "의사 국시 만점자 7배 늘었다",
+      "representative_link": "https://n.news.naver.com/article/050/0000113819?ntype=RANKING",
+      "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "\"월급 200만원 주면서\"…결국 폭발한 김선태, 무슨 일",
-          "link": "https://n.news.naver.com/article/215/0001274128?ntype=RANKING",
-          "press": "한국경제TV"
+          "title": "[단독] 이진우 '리트' 본 이유 \"책 내려는데 마침 만점자 없길래\"",
+          "link": "https://n.news.naver.com/article/437/0000522689?ntype=RANKING",
+          "press": "JTBC"
         },
         {
-          "title": "차 안에서 뭘 하길래…30대 男 \"한 달 1000만원 법니다\"",
-          "link": "https://n.news.naver.com/article/018/0006415770?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "홍윤화, 930만원 주고 산 '10돈 금팔찌'…지금 팔면 얼마 받나 [머니팁]",
-          "link": "https://n.news.naver.com/article/015/0005358819?ntype=RANKING",
+          "title": "\"수능 이력만으론 출판 한계\"…'리트 만점자'의 진짜 목적",
+          "link": "https://n.news.naver.com/article/015/0005358881?ntype=RANKING",
           "press": "한국경제"
         },
         {
-          "title": "2000만원→100억 만든 95년생…'폭락 직전' 하닉 팔고 50억 아파트 샀다",
-          "link": "https://n.news.naver.com/article/008/0005447189?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "'리트 만점자' 사망에도 끝나지 않은 수사…영장에 '성명불상 공범'",
+          "link": "https://n.news.naver.com/article/586/0000143125?ntype=RANKING",
+          "press": "시사저널"
         },
         {
-          "title": "주택 종부세 73만명에 고지, 19만명↑…1인당 평균세액 200만원",
-          "link": "https://n.news.naver.com/article/001/0016466217?ntype=RANKING",
-          "press": "연합뉴스"
+          "title": "만점자 무려 27배로…'간호냥이'·'의사냥이'도 있나?",
+          "link": "https://n.news.naver.com/article/055/0001406221?ntype=RANKING",
+          "press": "SBS"
+        },
+        {
+          "title": "[속보] 의사 국가시험 일부 과목 만점자 4년새 7배로",
+          "link": "https://n.news.naver.com/article/654/0000213619?ntype=RANKING",
+          "press": "강원도민일보"
         }
       ],
       "related_titles": [
-        "\"월급 200만원 주면서\"…결국 폭발한 김선태, 무슨 일",
-        "차 안에서 뭘 하길래…30대 男 \"한 달 1000만원 법니다\"",
-        "홍윤화, 930만원 주고 산 '10돈 금팔찌'…지금 팔면 얼마 받나 [머니팁]",
-        "2000만원→100억 만든 95년생…'폭락 직전' 하닉 팔고 50억 아파트 샀다",
-        "주택 종부세 73만명에 고지, 19만명↑…1인당 평균세액 200만원"
+        "[단독] 이진우 '리트' 본 이유 \"책 내려는데 마침 만점자 없길래\"",
+        "\"수능 이력만으론 출판 한계\"…'리트 만점자'의 진짜 목적",
+        "'리트 만점자' 사망에도 끝나지 않은 수사…영장에 '성명불상 공범'",
+        "만점자 무려 27배로…'간호냥이'·'의사냥이'도 있나?",
+        "[속보] 의사 국가시험 일부 과목 만점자 4년새 7배로"
       ],
-      "category": "사회/일반"
+      "category": "사건/사고"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
       "keyword": "주식",
-      "count": 10,
-      "representative_title": "“이때 주식 사면 24% 번다”…적중률 100% 신호 뭐길래",
-      "representative_link": "https://n.news.naver.com/article/025/0003568166?ntype=RANKING",
-      "press": "중앙일보",
+      "count": 6,
+      "representative_title": "\"모든 아이에 주식 선물\" 약속하더니…머스크의 '폭탄 발언'",
+      "representative_link": "https://n.news.naver.com/article/015/0005358864?ntype=RANKING",
+      "press": "한국경제",
       "related_articles": [
         {
-          "title": "SK하이닉스 호황에 웃는다…\"아직 저평가\"라는 종목 [주식R]",
-          "link": "https://n.news.naver.com/article/215/0001274134?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "61만원→53만원 목표가 낮추더니…\"매수 기회\"라는 종목 [주식R]",
-          "link": "https://n.news.naver.com/article/215/0001274130?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "“이때 주식 사면 24% 번다”…적중률 100% 신호 뭐길래",
-          "link": "https://n.news.naver.com/article/025/0003568166?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
-          "title": "미국 모든 청소년·어린이 스페이스X 주식 2주씩 갖는다…머스크 통큰 기부",
-          "link": "https://n.news.naver.com/article/029/0003061418?ntype=RANKING",
-          "press": "디지털타임스"
+          "title": "\"모든 아이에 주식 선물\" 약속하더니…머스크의 '폭탄 발언'",
+          "link": "https://n.news.naver.com/article/015/0005358864?ntype=RANKING",
+          "press": "한국경제"
         },
         {
           "title": "\"국민들 꿈이 날아갔다\"…주식 팔아 집 산 돈 10조, 남은 개미는 폭락장에 '피눈물'",
           "link": "https://n.news.naver.com/article/014/0005610547?ntype=RANKING",
           "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "\"주가 급락에 약정금 3억 날렸다\"…주식 팔아 집 사기도 옛말",
+          "link": "https://n.news.naver.com/article/003/0014348399?ntype=RANKING",
+          "press": "뉴시스"
+        },
+        {
+          "title": "주식 2천만원 투자해 100억 찍더니 \"용산 아파트로 갈아타\"…95년생의 승부수",
+          "link": "https://n.news.naver.com/article/088/0001042627?ntype=RANKING",
+          "press": "매일신문"
+        },
+        {
+          "title": "누구는 주식 팔아 집 샀고, \"그 돈이 10조\"…남은 개미들은 남은 게 없어, \"피눈물”",
+          "link": "https://n.news.naver.com/article/030/0003490530?ntype=RANKING",
+          "press": "전자신문"
         }
       ],
       "related_titles": [
-        "SK하이닉스 호황에 웃는다…\"아직 저평가\"라는 종목 [주식R]",
-        "61만원→53만원 목표가 낮추더니…\"매수 기회\"라는 종목 [주식R]",
-        "“이때 주식 사면 24% 번다”…적중률 100% 신호 뭐길래",
-        "미국 모든 청소년·어린이 스페이스X 주식 2주씩 갖는다…머스크 통큰 기부",
-        "\"국민들 꿈이 날아갔다\"…주식 팔아 집 산 돈 10조, 남은 개미는 폭락장에 '피눈물'"
+        "\"모든 아이에 주식 선물\" 약속하더니…머스크의 '폭탄 발언'",
+        "\"국민들 꿈이 날아갔다\"…주식 팔아 집 산 돈 10조, 남은 개미는 폭락장에 '피눈물'",
+        "\"주가 급락에 약정금 3억 날렸다\"…주식 팔아 집 사기도 옛말",
+        "주식 2천만원 투자해 100억 찍더니 \"용산 아파트로 갈아타\"…95년생의 승부수",
+        "누구는 주식 팔아 집 샀고, \"그 돈이 10조\"…남은 개미들은 남은 게 없어, \"피눈물”"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 2,
-      "keyword": "코스피",
-      "count": 6,
-      "representative_title": "긴축 부담에 반등 동력 약해진 코스피… 증안펀드 확대에 기대 거나",
-      "representative_link": "https://n.news.naver.com/article/469/0000968004?ntype=RANKING",
-      "press": "한국일보",
-      "related_articles": [
-        {
-          "title": "코스피 18% 빠질 때 20% 올랐다…증권가가 찍은 이 종목 [종목e슈]",
-          "link": "https://n.news.naver.com/article/018/0006416304?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "긴축 부담에 반등 동력 약해진 코스피… 증안펀드 확대에 기대 거나",
-          "link": "https://n.news.naver.com/article/469/0000968004?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "이기인 \"李대통령 분당 아파트 판 돈 코스피 넣었다면 7억 손실\"",
-          "link": "https://n.news.naver.com/article/421/0009313101?ntype=RANKING",
-          "press": "뉴스1"
-        },
-        {
-          "title": "‘해도 해도 너무했다’ 삼전·닉스만 ‘198조’ 팔아치운 외국인…코스피 시총 비중도 붕괴 [투자360]",
-          "link": "https://n.news.naver.com/article/016/0002729150?ntype=RANKING",
-          "press": "헤럴드경제"
-        },
-        {
-          "title": "\"공매도 금지 나올까\"…코스피 6% 폭락 다음날, 증권가가 꼽은 '단기 처방전'은",
-          "link": "https://n.news.naver.com/article/014/0005609968?ntype=RANKING",
-          "press": "파이낸셜뉴스"
-        }
-      ],
-      "related_titles": [
-        "코스피 18% 빠질 때 20% 올랐다…증권가가 찍은 이 종목 [종목e슈]",
-        "긴축 부담에 반등 동력 약해진 코스피… 증안펀드 확대에 기대 거나",
-        "이기인 \"李대통령 분당 아파트 판 돈 코스피 넣었다면 7억 손실\"",
-        "‘해도 해도 너무했다’ 삼전·닉스만 ‘198조’ 팔아치운 외국인…코스피 시총 비중도 붕괴 [투자360]",
-        "\"공매도 금지 나올까\"…코스피 6% 폭락 다음날, 증권가가 꼽은 '단기 처방전'은"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 3,
-      "keyword": "삼성전자",
-      "count": 6,
-      "representative_title": "삼성전자 정기 임원 인사… 승진자 53%는 반도체 부문",
-      "representative_link": "https://n.news.naver.com/article/037/0000039213?ntype=RANKING",
-      "press": "주간동아",
-      "related_articles": [
-        {
-          "title": "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
-          "link": "https://n.news.naver.com/article/032/0003485367?ntype=RANKING",
-          "press": "경향신문"
-        },
-        {
-          "title": "\"삼성전자 망할 것 같아요?\" 주가 반토막에도…\"월급의 10% 꾸준히 투자 하라\"",
-          "link": "https://n.news.naver.com/article/277/0005848183?ntype=RANKING",
-          "press": "아시아경제"
-        },
-        {
-          "title": "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실]",
-          "link": "https://n.news.naver.com/article/022/0004178502?ntype=RANKING",
-          "press": "세계일보"
-        },
-        {
-          "title": "美 “삼성전자·SK하이닉스, 李대통령” 콕 집어…韓에 최대 25% 관세 으름장",
-          "link": "https://n.news.naver.com/article/081/0003703638?ntype=RANKING",
-          "press": "서울신문"
-        },
-        {
-          "title": "“삼성전자 15% 폭락 차트 보더니 결국 눈물”…생방송 중 무너진 증시 진행자, 무슨 일이",
-          "link": "https://n.news.naver.com/article/030/0003490497?ntype=RANKING",
-          "press": "전자신문"
-        }
-      ],
-      "related_titles": [
-        "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
-        "\"삼성전자 망할 것 같아요?\" 주가 반토막에도…\"월급의 10% 꾸준히 투자 하라\"",
-        "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실]",
-        "美 “삼성전자·SK하이닉스, 李대통령” 콕 집어…韓에 최대 25% 관세 으름장",
-        "“삼성전자 15% 폭락 차트 보더니 결국 눈물”…생방송 중 무너진 증시 진행자, 무슨 일이"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 4,
-      "keyword": "종목",
-      "count": 5,
-      "representative_title": "개인 순매수 10개 종목 ‘와르르’…기관은 인버스로 벌었다",
-      "representative_link": "https://n.news.naver.com/article/024/0000109910?ntype=RANKING",
-      "press": "매경이코노미",
-      "related_articles": [
-        {
-          "title": "“폭락장서 나 홀로 27% 급등”…증권가 목표가 줄상향한 ‘이 종목’",
-          "link": "https://n.news.naver.com/article/018/0006416182?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "개인 순매수 10개 종목 ‘와르르’…기관은 인버스로 벌었다",
-          "link": "https://n.news.naver.com/article/024/0000109910?ntype=RANKING",
-          "press": "매경이코노미"
-        },
-        {
-          "title": "“폭락장서 나 홀로 27% 급등”…증권가 목표가 줄상향한 ‘이 종목’",
-          "link": "https://n.news.naver.com/article/018/0006416182?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "개인 순매수 10개 종목 ‘와르르’…기관은 인버스로 벌었다",
-          "link": "https://n.news.naver.com/article/024/0000109910?ntype=RANKING",
-          "press": "매경이코노미"
-        },
-        {
-          "title": "“폭락장서 나 홀로 27% 급등”…증권가 목표가 줄상향한 ‘이 종목’",
-          "link": "https://n.news.naver.com/article/018/0006416182?ntype=RANKING",
-          "press": "이데일리"
-        }
-      ],
-      "related_titles": [
-        "“폭락장서 나 홀로 27% 급등”…증권가 목표가 줄상향한 ‘이 종목’",
-        "개인 순매수 10개 종목 ‘와르르’…기관은 인버스로 벌었다",
-        "“폭락장서 나 홀로 27% 급등”…증권가 목표가 줄상향한 ‘이 종목’",
-        "개인 순매수 10개 종목 ‘와르르’…기관은 인버스로 벌었다",
-        "“폭락장서 나 홀로 27% 급등”…증권가 목표가 줄상향한 ‘이 종목’"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 5,
       "keyword": "엔비디아",
-      "count": 5,
+      "count": 6,
       "representative_title": "젠슨 황 복귀했는데...엔비디아 또 '날벼락'?",
       "representative_link": "https://n.news.naver.com/article/050/0000113793?ntype=RANKING",
       "press": "한경비즈니스",
       "related_articles": [
         {
-          "title": "없어서 못사던 엔비디아 '블랙웰' 칩, 매물로 쏟아져…무슨 일?",
-          "link": "https://n.news.naver.com/article/008/0005447095?ntype=RANKING",
-          "press": "머니투데이"
+          "title": "\"엔비디아 칩 많이 산 실리콘밸리 업체 2곳, 알고보니 중국이 소유\"",
+          "link": "https://n.news.naver.com/article/052/0002438753?ntype=RANKING",
+          "press": "YTN"
         },
         {
-          "title": "[비즈 나우] S&P, 엔비디아 경고…AI 빨간불",
-          "link": "https://n.news.naver.com/article/374/0000545970?ntype=RANKING",
+          "title": "\"中에 하나라도 임대하면 칩 못팔아\"…엔비디아 판매상 강경방침",
+          "link": "https://n.news.naver.com/article/374/0000546192?ntype=RANKING",
           "press": "SBS Biz"
         },
         {
@@ -418,22 +277,151 @@
           "press": "한경비즈니스"
         },
         {
+          "title": "日 키옥시아, 엔비디아 손잡는다…삼성·SK 노리나",
+          "link": "https://n.news.naver.com/article/050/0000113844?ntype=RANKING",
+          "press": "한경비즈니스"
+        },
+        {
           "title": "젠슨 황 복귀, ‘독’이었나…S&P, 엔비디아 신용등급 강등 검토",
           "link": "https://n.news.naver.com/article/024/0000109914?ntype=RANKING",
           "press": "매경이코노미"
-        },
-        {
-          "title": "“젠슨 황이 곧 엔비디아… AI 버블 논하기에 너무 일러”",
-          "link": "https://n.news.naver.com/article/037/0000039217?ntype=RANKING",
-          "press": "주간동아"
         }
       ],
       "related_titles": [
-        "없어서 못사던 엔비디아 '블랙웰' 칩, 매물로 쏟아져…무슨 일?",
-        "[비즈 나우] S&P, 엔비디아 경고…AI 빨간불",
+        "\"엔비디아 칩 많이 산 실리콘밸리 업체 2곳, 알고보니 중국이 소유\"",
+        "\"中에 하나라도 임대하면 칩 못팔아\"…엔비디아 판매상 강경방침",
         "젠슨 황 복귀했는데...엔비디아 또 '날벼락'?",
-        "젠슨 황 복귀, ‘독’이었나…S&P, 엔비디아 신용등급 강등 검토",
-        "“젠슨 황이 곧 엔비디아… AI 버블 논하기에 너무 일러”"
+        "日 키옥시아, 엔비디아 손잡는다…삼성·SK 노리나",
+        "젠슨 황 복귀, ‘독’이었나…S&P, 엔비디아 신용등급 강등 검토"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "코스피",
+      "count": 4,
+      "representative_title": "\"폭락장 끝난 줄 알았는데\"…코스피 급등에 숨은 '함정'",
+      "representative_link": "https://n.news.naver.com/article/015/0005358862?ntype=RANKING",
+      "press": "한국경제",
+      "related_articles": [
+        {
+          "title": "\"폭락장 끝난 줄 알았는데\"…코스피 급등에 숨은 '함정'",
+          "link": "https://n.news.naver.com/article/015/0005358862?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
+          "title": "\"李대통령 분당 집 판 돈, 코스피 넣었다면 7억 손실…국민에 사과해야\"",
+          "link": "https://n.news.naver.com/article/014/0005610583?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        },
+        {
+          "title": "“증안펀드 늘리고 공매도 금지하나”…코스피 급등락에 금융당국 추가 대책 ‘촉각’",
+          "link": "https://n.news.naver.com/article/138/0002249985?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "美 증시 낙폭 축소에 반도체주 반등…코스피, 4745.10에 상승 출발",
+          "link": "https://n.news.naver.com/article/138/0002249975?ntype=RANKING",
+          "press": "디지털데일리"
+        },
+        {
+          "title": "\"李대통령 분당 집 판 돈, 코스피 넣었다면 7억 손실…국민에 사과해야\"",
+          "link": "https://n.news.naver.com/article/014/0005610583?ntype=RANKING",
+          "press": "파이낸셜뉴스"
+        }
+      ],
+      "related_titles": [
+        "\"폭락장 끝난 줄 알았는데\"…코스피 급등에 숨은 '함정'",
+        "\"李대통령 분당 집 판 돈, 코스피 넣었다면 7억 손실…국민에 사과해야\"",
+        "“증안펀드 늘리고 공매도 금지하나”…코스피 급등락에 금융당국 추가 대책 ‘촉각’",
+        "美 증시 낙폭 축소에 반도체주 반등…코스피, 4745.10에 상승 출발",
+        "\"李대통령 분당 집 판 돈, 코스피 넣었다면 7억 손실…국민에 사과해야\""
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "삼성전자",
+      "count": 4,
+      "representative_title": "머스크도 애타는 삼성전자 반도체…이재용 \"뭘 더 해줄 수 있나?\"",
+      "representative_link": "https://n.news.naver.com/article/053/0000063383?ntype=RANKING",
+      "press": "주간조선",
+      "related_articles": [
+        {
+          "title": "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
+          "link": "https://n.news.naver.com/article/032/0003485367?ntype=RANKING",
+          "press": "경향신문"
+        },
+        {
+          "title": "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실]",
+          "link": "https://n.news.naver.com/article/022/0004178502?ntype=RANKING",
+          "press": "세계일보"
+        },
+        {
+          "title": "“삼성전자 15% 폭락 차트 보더니 결국 눈물”…생방송 중 무너진 증시 진행자, 무슨 일이",
+          "link": "https://n.news.naver.com/article/030/0003490497?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "머스크도 애타는 삼성전자 반도체…이재용 \"뭘 더 해줄 수 있나?\"",
+          "link": "https://n.news.naver.com/article/053/0000063383?ntype=RANKING",
+          "press": "주간조선"
+        },
+        {
+          "title": "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
+          "link": "https://n.news.naver.com/article/032/0003485367?ntype=RANKING",
+          "press": "경향신문"
+        }
+      ],
+      "related_titles": [
+        "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”",
+        "생방송 중 울먹인 증시 전문가…삼성전자 레버리지 하루 만에 19% 폭락 [숫자 뒤의 진실]",
+        "“삼성전자 15% 폭락 차트 보더니 결국 눈물”…생방송 중 무너진 증시 진행자, 무슨 일이",
+        "머스크도 애타는 삼성전자 반도체…이재용 \"뭘 더 해줄 수 있나?\"",
+        "“머스크 ‘삼성전자 칩 장기구매’ 제안에···이재용 ‘뭐 더 해줄 건데’”"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 5,
+      "keyword": "주가",
+      "count": 3,
+      "representative_title": "“주가 빠질 때 왜 대통령 탓 못하나” 이광수가 매불쇼서 한 말",
+      "representative_link": "https://n.news.naver.com/article/021/0002835898?ntype=RANKING",
+      "press": "문화일보",
+      "related_articles": [
+        {
+          "title": "\"하필 하닉 주가 반토막일 때?\" 최태원·노소영 각자의 속내는? [사건X파일]",
+          "link": "https://n.news.naver.com/article/052/0002438726?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "“주가 빠질 때 왜 대통령 탓 못하나” 이광수가 매불쇼서 한 말",
+          "link": "https://n.news.naver.com/article/021/0002835898?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "“주가 빠질 때 왜 대통령 탓 못하나” 이광수가 매불쇼서 한 말",
+          "link": "https://n.news.naver.com/article/021/0002835898?ntype=RANKING",
+          "press": "문화일보"
+        },
+        {
+          "title": "\"하필 하닉 주가 반토막일 때?\" 최태원·노소영 각자의 속내는? [사건X파일]",
+          "link": "https://n.news.naver.com/article/052/0002438726?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "\"하필 하닉 주가 반토막일 때?\" 최태원·노소영 각자의 속내는? [사건X파일]",
+          "link": "https://n.news.naver.com/article/052/0002438726?ntype=RANKING",
+          "press": "YTN"
+        }
+      ],
+      "related_titles": [
+        "\"하필 하닉 주가 반토막일 때?\" 최태원·노소영 각자의 속내는? [사건X파일]",
+        "“주가 빠질 때 왜 대통령 탓 못하나” 이광수가 매불쇼서 한 말",
+        "“주가 빠질 때 왜 대통령 탓 못하나” 이광수가 매불쇼서 한 말",
+        "\"하필 하닉 주가 반토막일 때?\" 최태원·노소영 각자의 속내는? [사건X파일]",
+        "\"하필 하닉 주가 반토막일 때?\" 최태원·노소영 각자의 속내는? [사건X파일]"
       ],
       "category": "주식/코인"
     }
@@ -473,21 +461,21 @@
     },
     {
       "rank": 2,
-      "keyword": "만점자",
-      "series_title": "만점자의 몰락",
+      "keyword": "황제",
+      "series_title": "황제의 몰락",
       "count": 1,
-      "representative_title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
-      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
+      "representative_title": "김종대 “몰락한 황제 젠슨 황, 트럼프 등에 업고 괴물 돼 돌아와” [김은지의 뉴스IN]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QeU5Cb3l0bDJrUVBIY0NncWxXNWRhclFlMWJ0Wk5UNGlBSnZVV1dRVno3YnhQcHVEenlia2VQYjJmSXl5U19sLWhaVHZTeXgzVTM1MmprT2theUp2cFZYY1BVRHhvaG9uQkE?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
+          "title": "김종대 “몰락한 황제 젠슨 황, 트럼프 등에 업고 괴물 돼 돌아와” [김은지의 뉴스IN]",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QeU5Cb3l0bDJrUVBIY0NncWxXNWRhclFlMWJ0Wk5UNGlBSnZVV1dRVno3YnhQcHVEenlia2VQYjJmSXl5U19sLWhaVHZTeXgzVTM1MmprT2theUp2cFZYY1BVRHhvaG9uQkE?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "만점자의 몰락이라는 희비극 [한겨레 프리즘]"
+        "김종대 “몰락한 황제 젠슨 황, 트럼프 등에 업고 괴물 돼 돌아와” [김은지의 뉴스IN]"
       ],
       "category": "몰락"
     },
@@ -513,21 +501,21 @@
     },
     {
       "rank": 4,
-      "keyword": "처참한",
-      "series_title": "처참한의 몰락",
+      "keyword": "만점자",
+      "series_title": "만점자의 몰락",
       "count": 1,
-      "representative_title": "'제2의 메시'로 불리던 日 특급 유망주의 처참한 몰락…아스널서 EPL 데뷔→끝없는 부상 발목",
-      "representative_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4RGdaRHB2dHpOVnZHbl9VR0YyREFhcnF4cG42RDU1TU1Pd2JkV2l4R08tdFRXQXpuY3hZZjk0SzlOUWRyUGJOamtuVE5BbzRQV0hYZHQ4U01ZUkUtSVI3V05NcEhFZkRiVmtqVGROSTFPUUpGb2Z3WTdxemdKUQ?oc=5",
+      "representative_title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
+      "representative_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
       "press": "",
       "related_articles": [
         {
-          "title": "'제2의 메시'로 불리던 日 특급 유망주의 처참한 몰락…아스널서 EPL 데뷔→끝없는 부상 발목",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4RGdaRHB2dHpOVnZHbl9VR0YyREFhcnF4cG42RDU1TU1Pd2JkV2l4R08tdFRXQXpuY3hZZjk0SzlOUWRyUGJOamtuVE5BbzRQV0hYZHQ4U01ZUkUtSVI3V05NcEhFZkRiVmtqVGROSTFPUUpGb2Z3WTdxemdKUQ?oc=5",
+          "title": "만점자의 몰락이라는 희비극 [한겨레 프리즘]",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hMF83ZlBnTFFaSVpDQ0tsUFhLbTExQXI3anhoUURxMUdOYkhNTVV1cDdiR2JNM1lEUHlTNkNjSVY5XzU5YU5IQ3NKd1EwSjkxa2NBOG42WFRjTGNiWERtYV9hS0RoQQ?oc=5",
           "press": ""
         }
       ],
       "related_titles": [
-        "'제2의 메시'로 불리던 日 특급 유망주의 처참한 몰락…아스널서 EPL 데뷔→끝없는 부상 발목"
+        "만점자의 몰락이라는 희비극 [한겨레 프리즘]"
       ],
       "category": "몰락"
     },
@@ -552,5 +540,43 @@
       "category": "몰락"
     }
   ],
-  "budongsan_topics": []
+  "budongsan_topics": [
+    {
+      "rank": 1,
+      "keyword": "서울",
+      "count": 4,
+      "representative_title": "강남3구 꺾였다…서울 집값 0.01% 상승 그쳐",
+      "representative_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwNU9TYktRbUtjbE4xUnJETWVIVUhzdk55Z3FRYllqZk84RVEyT2RqWExFUEQ4VUk1Qk9ZZDJ0cjhLUEVuX1NmZU92SnhhYUtzS21IZW5vVDBhSi1XWGZkU3U0a0lzVUpO?oc=5",
+      "press": "",
+      "related_articles": [
+        {
+          "title": "강남3구 꺾였다…서울 집값 0.01% 상승 그쳐",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwNU9TYktRbUtjbE4xUnJETWVIVUhzdk55Z3FRYllqZk84RVEyT2RqWExFUEQ4VUk1Qk9ZZDJ0cjhLUEVuX1NmZU92SnhhYUtzS21IZW5vVDBhSi1XWGZkU3U0a0lzVUpO?oc=5",
+          "press": ""
+        },
+        {
+          "title": "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRUJBR1NHNm1lcEpTQ1cwTHBQMnBYTXRESWpZLUowN3plOElFM0NvM0ZGbHlaOVk0VnRCd3lRajlDellIZDltQl9FdjFDMjFYdC0wbF90NFhUdw?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 상승폭 반토막…전세 매물 줄고 분양도 급감",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SWGtlNU5OTkxTUkdDS2l2dmVWZmd2dnVsbE5LanJBcmRhZnBMbHRkMG10aktXMHZsX0tQNHB1ZEd6QTAyazRTTUhOcmZTVk5BTzFEOF9zODVQb2oz?oc=5",
+          "press": ""
+        },
+        {
+          "title": "서울 집값 94주째 올라 또 최장 기록…성북·노원·서대문 상승 견인",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UYi1ocUdFYnJTQzNaVUs0cWVVTlRyR2w2VzY5Ql91dnZmSkNMcVNjcTFDWVB1NFhBUmJWWXhycGtJMWhqT2ZxSWs0SVZMdk1veW9fOGVrRC1hZw?oc=5",
+          "press": ""
+        }
+      ],
+      "related_titles": [
+        "강남3구 꺾였다…서울 집값 0.01% 상승 그쳐",
+        "강남 아파트 가격은 '뚝'…서울 부동산에 벌어진 '반전' [시장톡]",
+        "서울 집값 상승폭 반토막…전세 매물 줄고 분양도 급감",
+        "서울 집값 94주째 올라 또 최장 기록…성북·노원·서대문 상승 견인"
+      ],
+      "category": "부동산"
+    }
+  ]
 }
