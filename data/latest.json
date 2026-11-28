@@ -1,360 +1,213 @@
 {
   "date": "2026-11-28",
-  "hour": "13",
-  "slot": "2026-11-28_13",
-  "crawled_at": "2026-11-28 13:00:05",
-  "total_articles": 409,
+  "hour": "16",
+  "slot": "2026-11-28_16",
+  "crawled_at": "2026-11-28 16:00:01",
+  "total_articles": 404,
   "topics": [
     {
       "rank": 1,
-      "keyword": "만원",
-      "count": 17,
-      "representative_title": "200kg 돌덩이 굴린 10대들…피해액만 1000만원",
-      "representative_link": "https://n.news.naver.com/article/030/0003490842?ntype=RANKING",
-      "press": "전자신문",
+      "keyword": "회장",
+      "count": 20,
+      "representative_title": "DL그룹 회장, 질책하다 '논란의 한밤중 수백명 호출'",
+      "representative_link": "https://n.news.naver.com/article/243/0000106422?ntype=RANKING",
+      "press": "이코노미스트",
       "related_articles": [
         {
-          "title": "200kg 돌덩이 굴린 10대들…피해액만 1000만원",
-          "link": "https://n.news.naver.com/article/030/0003490842?ntype=RANKING",
-          "press": "전자신문"
+          "title": "DL그룹 회장, 실적 부진 지적하다 한밤중 직원 수백명 호출",
+          "link": "https://n.news.naver.com/article/366/0001207922?ntype=RANKING",
+          "press": "조선비즈"
         },
         {
-          "title": "\"2000만원 안 넘으면 된다더니\"…60대 은퇴자 당황한 이유 [고정삼의 절세GPT]",
-          "link": "https://n.news.naver.com/article/015/0005359279?ntype=RANKING",
-          "press": "한국경제"
+          "title": "[속보] 이해욱 DL그룹 회장, 밤늦게 직원 수백명 소집…실적·사고 질타",
+          "link": "https://n.news.naver.com/article/029/0003061605?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "\"700만원 짜리 겸손 패션\" 젠슨황 복귀 착장은 모두 명품",
-          "link": "https://n.news.naver.com/article/469/0000968274?ntype=RANKING",
-          "press": "한국일보"
+          "title": "퇴근한 직원들 다시 회사로…이해욱 DL 회장 심야 출근 지시 논란",
+          "link": "https://n.news.naver.com/article/119/0003160496?ntype=RANKING",
+          "press": "데일리안"
         },
         {
-          "title": "470만원 재킷에 210만원 신발…\"명품 감고 겸손 연출\"",
-          "link": "https://n.news.naver.com/article/055/0001406472?ntype=RANKING",
-          "press": "SBS"
+          "title": "밤 10시 회사로 되돌아온 400명…DL회장 호출, 새벽에야 끝나",
+          "link": "https://n.news.naver.com/article/005/0001887965?ntype=RANKING",
+          "press": "국민일보"
         },
         {
-          "title": "470만원 재킷에 210만원 신발…\"명품 감고 겸손 연출\"",
-          "link": "https://n.news.naver.com/article/055/0001406472?ntype=RANKING",
-          "press": "SBS"
+          "title": "밤 10시 직원 수백명 호출…이해욱 DL그룹 회장 또 구설",
+          "link": "https://n.news.naver.com/article/079/0004214845?ntype=RANKING",
+          "press": "노컷뉴스"
         }
       ],
       "related_titles": [
-        "200kg 돌덩이 굴린 10대들…피해액만 1000만원",
-        "\"2000만원 안 넘으면 된다더니\"…60대 은퇴자 당황한 이유 [고정삼의 절세GPT]",
-        "\"700만원 짜리 겸손 패션\" 젠슨황 복귀 착장은 모두 명품",
-        "470만원 재킷에 210만원 신발…\"명품 감고 겸손 연출\"",
-        "470만원 재킷에 210만원 신발…\"명품 감고 겸손 연출\""
+        "DL그룹 회장, 실적 부진 지적하다 한밤중 직원 수백명 호출",
+        "[속보] 이해욱 DL그룹 회장, 밤늦게 직원 수백명 소집…실적·사고 질타",
+        "퇴근한 직원들 다시 회사로…이해욱 DL 회장 심야 출근 지시 논란",
+        "밤 10시 회사로 되돌아온 400명…DL회장 호출, 새벽에야 끝나",
+        "밤 10시 직원 수백명 호출…이해욱 DL그룹 회장 또 구설"
+      ],
+      "category": "사건/사고"
+    },
+    {
+      "rank": 2,
+      "keyword": "만원",
+      "count": 18,
+      "representative_title": "순금 얹고 캐럴까지…호텔 케이크 '60만원 시대'",
+      "representative_link": "https://n.news.naver.com/article/031/0001079253?ntype=RANKING",
+      "press": "아이뉴스24",
+      "related_articles": [
+        {
+          "title": "[르포] 2600만원 車도 도심 자율주행은 기본… ‘더 똑똑한 전기차’ 격전장 된 광저우",
+          "link": "https://n.news.naver.com/article/366/0001207923?ntype=RANKING",
+          "press": "조선비즈"
+        },
+        {
+          "title": "김구라 “주가 70만원 때 일부만 정리” 아쉬움…현대차, 6개월 새 주가 60% 빠졌다",
+          "link": "https://n.news.naver.com/article/016/0002729738?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "김구라도 \"현대차 70만원 때 더 팔걸\" 후회…주가 흐름 보니",
+          "link": "https://n.news.naver.com/article/277/0005849066?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "학위·자격증 없이 '월 620만원'…잘생긴 20대 남성들 몰린 서비스 정체",
+          "link": "https://n.news.naver.com/article/277/0005849059?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "가죽 잠바 벗은 젠슨 황…‘반성 패션’에 걸친 명품만 700만원",
+          "link": "https://n.news.naver.com/article/021/0002836130?ntype=RANKING",
+          "press": "문화일보"
+        }
+      ],
+      "related_titles": [
+        "[르포] 2600만원 車도 도심 자율주행은 기본… ‘더 똑똑한 전기차’ 격전장 된 광저우",
+        "김구라 “주가 70만원 때 일부만 정리” 아쉬움…현대차, 6개월 새 주가 60% 빠졌다",
+        "김구라도 \"현대차 70만원 때 더 팔걸\" 후회…주가 흐름 보니",
+        "학위·자격증 없이 '월 620만원'…잘생긴 20대 남성들 몰린 서비스 정체",
+        "가죽 잠바 벗은 젠슨 황…‘반성 패션’에 걸친 명품만 700만원"
       ],
       "category": "사회/일반"
     },
     {
-      "rank": 2,
-      "keyword": "젠슨",
-      "count": 15,
-      "representative_title": "“470만원짜리 겸손 연출”…젠슨 황 ‘복귀 재킷’ 알고보니",
-      "representative_link": "https://n.news.naver.com/article/025/0003568567?ntype=RANKING",
-      "press": "중앙일보",
-      "related_articles": [
-        {
-          "title": "'젠슨 황 불륜 상대' 연계 중국 시설에서 엔비디아 최첨단 칩 발견",
-          "link": "https://n.news.naver.com/article/052/0002439273?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "젠슨 황 불륜녀, 무슨 짓을 한거야…중국 시설서 발견된 물건 ‘충격’",
-          "link": "https://n.news.naver.com/article/009/0005770187?ntype=RANKING",
-          "press": "매일경제"
-        },
-        {
-          "title": "“470만원짜리 겸손 연출”…젠슨 황 ‘복귀 재킷’ 알고보니",
-          "link": "https://n.news.naver.com/article/025/0003568567?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
-          "title": "“미쳤다, 젠슨 황 복귀 알고 4천억 콜옵션 수익 ”…SNS 글 진위 논란",
-          "link": "https://n.news.naver.com/article/028/0002834336?ntype=RANKING",
-          "press": "한겨레"
-        },
-        {
-          "title": "\"미안해요\" 젠슨 황 '반성 재킷' 정체…가죽 대신 470만원대 디올",
-          "link": "https://n.news.naver.com/article/008/0005447644?ntype=RANKING",
-          "press": "머니투데이"
-        }
-      ],
-      "related_titles": [
-        "'젠슨 황 불륜 상대' 연계 중국 시설에서 엔비디아 최첨단 칩 발견",
-        "젠슨 황 불륜녀, 무슨 짓을 한거야…중국 시설서 발견된 물건 ‘충격’",
-        "“470만원짜리 겸손 연출”…젠슨 황 ‘복귀 재킷’ 알고보니",
-        "“미쳤다, 젠슨 황 복귀 알고 4천억 콜옵션 수익 ”…SNS 글 진위 논란",
-        "\"미안해요\" 젠슨 황 '반성 재킷' 정체…가죽 대신 470만원대 디올"
-      ],
-      "category": "국제"
-    },
-    {
       "rank": 3,
-      "keyword": "공포탄",
-      "count": 14,
-      "representative_title": "인천공항 출국하려던 전역군인 가방서 공포탄 적발",
-      "representative_link": "https://n.news.naver.com/article/003/0014350544?ntype=RANKING",
-      "press": "뉴시스",
+      "keyword": "직원",
+      "count": 15,
+      "representative_title": "실적 부진 지적하다…금요일 밤 직원 수백명에 \"회사로\"",
+      "representative_link": "https://n.news.naver.com/article/055/0001406524?ntype=RANKING",
+      "press": "SBS",
       "related_articles": [
         {
-          "title": "전역 때 넣어둔 걸 깜빡…인천공항 보안검색서 공포탄 적발",
-          "link": "https://n.news.naver.com/article/005/0001887958?ntype=RANKING",
-          "press": "국민일보"
-        },
-        {
-          "title": "비행기 타려던 전역 군인 가방에 공포탄… 한 달 만에 유사 사건 발생",
-          "link": "https://n.news.naver.com/article/469/0000968275?ntype=RANKING",
-          "press": "한국일보"
-        },
-        {
-          "title": "인천공항 출국하던 전역군인 여행가방서 또 '공포탄'",
-          "link": "https://n.news.naver.com/article/055/0001406492?ntype=RANKING",
+          "title": "실적 부진 지적하다…금요일 밤 직원 수백명에 \"회사로\"",
+          "link": "https://n.news.naver.com/article/055/0001406524?ntype=RANKING",
           "press": "SBS"
         },
         {
-          "title": "인천공항서 전역 군인 5.56㎜ 공포탄 적발…軍, 탄약 관리 어떻게 하길래",
-          "link": "https://n.news.naver.com/article/666/0000134135?ntype=RANKING",
-          "press": "경기일보"
-        },
-        {
-          "title": "전역할 때 가지고 나온 공포탄…잊고 있다가 공항서 딱 걸렸다",
-          "link": "https://n.news.naver.com/article/020/0003765891?ntype=RANKING",
-          "press": "동아일보"
+          "title": "\"퇴근자까지 전원 호출\"… 한밤중 직원 400명 소집한 재벌 회장님",
+          "link": "https://n.news.naver.com/article/660/0000122403?ntype=RANKING",
+          "press": "kbc광주방송"
         }
       ],
       "related_titles": [
-        "전역 때 넣어둔 걸 깜빡…인천공항 보안검색서 공포탄 적발",
-        "비행기 타려던 전역 군인 가방에 공포탄… 한 달 만에 유사 사건 발생",
-        "인천공항 출국하던 전역군인 여행가방서 또 '공포탄'",
-        "인천공항서 전역 군인 5.56㎜ 공포탄 적발…軍, 탄약 관리 어떻게 하길래",
-        "전역할 때 가지고 나온 공포탄…잊고 있다가 공항서 딱 걸렸다"
+        "실적 부진 지적하다…금요일 밤 직원 수백명에 \"회사로\"",
+        "\"퇴근자까지 전원 호출\"… 한밤중 직원 400명 소집한 재벌 회장님"
       ],
       "category": "사회/일반"
     },
     {
       "rank": 4,
-      "keyword": "최민희",
-      "count": 13,
-      "representative_title": "최민희 징계로 두쪽난 집권당...친청계, 극렬 반발",
-      "representative_link": "https://n.news.naver.com/article/417/0001165959?ntype=RANKING",
-      "press": "동행미디어 시대",
+      "keyword": "경찰",
+      "count": 12,
+      "representative_title": "제천 야산 텐트서 백골 시신 발견…경찰 조사 중",
+      "representative_link": "https://n.news.naver.com/article/422/0000930782?ntype=RANKING",
+      "press": "연합뉴스TV",
       "related_articles": [
         {
-          "title": "최민희 징계에 오늘 김민석 사퇴 집회...국힘, 대전서 장외투쟁",
-          "link": "https://n.news.naver.com/article/052/0002439272?ntype=RANKING",
-          "press": "YTN"
+          "title": "'리트 만점자' 이진우, 공범 있었나…경찰 '시험성적 수익화'도 수사",
+          "link": "https://n.news.naver.com/article/014/0005610921?ntype=RANKING",
+          "press": "파이낸셜뉴스"
         },
         {
-          "title": "최민희 중징계에 김민석 겨눈 정청래… 與 계파갈등 기폭제 되나",
-          "link": "https://n.news.naver.com/article/469/0000968256?ntype=RANKING",
-          "press": "한국일보"
+          "title": "마포대교 일대서 마지막 신호…홍민기 전 연인 ‘실종’, 경찰 수사",
+          "link": "https://n.news.naver.com/article/009/0005770199?ntype=RANKING",
+          "press": "매일경제"
         },
         {
-          "title": "최민희 '2년 정지' 징계에 친청 반발…오늘 '김민석 사퇴' 촉구 집회",
-          "link": "https://n.news.naver.com/article/055/0001406508?ntype=RANKING",
-          "press": "SBS"
+          "title": "인천공항 전역한 20대 남성 가방에서 공포탄 적발‥경찰 조사",
+          "link": "https://n.news.naver.com/article/214/0001538644?ntype=RANKING",
+          "press": "MBC"
         },
         {
-          "title": "최민희 중징계 이튿날 '김민석 사퇴' 집회…與 복잡해지는 통합 과제",
-          "link": "https://n.news.naver.com/article/421/0009315049?ntype=RANKING",
-          "press": "뉴스1"
+          "title": "한동훈 “경찰, 대통령한테 잘못된 교육 받았나”…‘민주당 지팡이 자처’ 정면 비판",
+          "link": "https://n.news.naver.com/article/021/0002836129?ntype=RANKING",
+          "press": "문화일보"
         },
         {
-          "title": "최민희 징계 놓고 친명 \"읍참마속\"-친청 \"김민석은?\"... 민주당 내분 격랑 속으로",
-          "link": "https://n.news.naver.com/article/047/0002537524?ntype=RANKING",
-          "press": "오마이뉴스"
+          "title": "“남친 올라타 퍽퍽”…미녀 파이터 경찰 체포에 日 ‘발칵’",
+          "link": "https://n.news.naver.com/article/018/0006416826?ntype=RANKING",
+          "press": "이데일리"
         }
       ],
       "related_titles": [
-        "최민희 징계에 오늘 김민석 사퇴 집회...국힘, 대전서 장외투쟁",
-        "최민희 중징계에 김민석 겨눈 정청래… 與 계파갈등 기폭제 되나",
-        "최민희 '2년 정지' 징계에 친청 반발…오늘 '김민석 사퇴' 촉구 집회",
-        "최민희 중징계 이튿날 '김민석 사퇴' 집회…與 복잡해지는 통합 과제",
-        "최민희 징계 놓고 친명 \"읍참마속\"-친청 \"김민석은?\"... 민주당 내분 격랑 속으로"
+        "'리트 만점자' 이진우, 공범 있었나…경찰 '시험성적 수익화'도 수사",
+        "마포대교 일대서 마지막 신호…홍민기 전 연인 ‘실종’, 경찰 수사",
+        "인천공항 전역한 20대 남성 가방에서 공포탄 적발‥경찰 조사",
+        "한동훈 “경찰, 대통령한테 잘못된 교육 받았나”…‘민주당 지팡이 자처’ 정면 비판",
+        "“남친 올라타 퍽퍽”…미녀 파이터 경찰 체포에 日 ‘발칵’"
       ],
-      "category": "사회/일반"
+      "category": "사건/사고"
     },
     {
       "rank": 5,
-      "keyword": "엔비디아",
+      "keyword": "대통령",
       "count": 12,
-      "representative_title": "엔비디아 최첨단 칩, 中시설서 발견…“앨리스 황 연관”",
-      "representative_link": "https://n.news.naver.com/article/449/0000368970?ntype=RANKING",
-      "press": "채널A",
+      "representative_title": "이 대통령 \"성형후기 조작 기막혀… 국민 기만 엄정 대응\"",
+      "representative_link": "https://n.news.naver.com/article/469/0000968280?ntype=RANKING",
+      "press": "한국일보",
       "related_articles": [
         {
-          "title": "엔비디아 최첨단 칩, 中시설서 발견…“앨리스 황 연관”",
-          "link": "https://n.news.naver.com/article/449/0000368970?ntype=RANKING",
-          "press": "채널A"
+          "title": "李대통령 “동해 AI 데이터센터, 투자 마중물…선도국가 위해 모든 역량 동원”",
+          "link": "https://n.news.naver.com/article/022/0004178809?ntype=RANKING",
+          "press": "세계일보"
         },
         {
-          "title": "美가 막은 엔비디아 최첨단 칩, 中데이터센터에 설치됐다",
-          "link": "https://n.news.naver.com/article/023/0004012252?ntype=RANKING",
-          "press": "조선일보"
+          "title": "[속보] 李대통령 “AI 속도전서 한 걸음 앞서야 선도자”…동해 AIDC 착공식 참석",
+          "link": "https://n.news.naver.com/article/029/0003061603?ntype=RANKING",
+          "press": "디지털타임스"
         },
         {
-          "title": "'젠슨황 불륜 상대' 연계 中시설서 엔비디아 최첨단 칩 발견",
-          "link": "https://n.news.naver.com/article/001/0016468520?ntype=RANKING",
-          "press": "연합뉴스"
+          "title": "“인허가 속도 엄청나”…李대통령 혀 내두른 강원 AI 데이터센터",
+          "link": "https://n.news.naver.com/article/020/0003765901?ntype=RANKING",
+          "press": "동아일보"
         },
         {
-          "title": "'블랙웰' 엔비디아 최첨단 칩 '젠슨황 불륜 상대' 연계 中시설에서 발견",
-          "link": "https://n.news.naver.com/article/374/0000546420?ntype=RANKING",
-          "press": "SBS Biz"
+          "title": "이 대통령 \"성형후기 조작 기막혀… 국민 기만 엄정 대응\"",
+          "link": "https://n.news.naver.com/article/469/0000968280?ntype=RANKING",
+          "press": "한국일보"
         },
         {
-          "title": "엔비디아 AI 칩 사들인 美 기업…알고 보니 中 자회사",
-          "link": "https://n.news.naver.com/article/024/0000109927?ntype=RANKING",
-          "press": "매경이코노미"
+          "title": "李대통령, 동해 찾아 \"제 부친·형님도 광부였다…강원, AI 핵심 거점으로 도약\"",
+          "link": "https://n.news.naver.com/article/008/0005447705?ntype=RANKING",
+          "press": "머니투데이"
         }
       ],
       "related_titles": [
-        "엔비디아 최첨단 칩, 中시설서 발견…“앨리스 황 연관”",
-        "美가 막은 엔비디아 최첨단 칩, 中데이터센터에 설치됐다",
-        "'젠슨황 불륜 상대' 연계 中시설서 엔비디아 최첨단 칩 발견",
-        "'블랙웰' 엔비디아 최첨단 칩 '젠슨황 불륜 상대' 연계 中시설에서 발견",
-        "엔비디아 AI 칩 사들인 美 기업…알고 보니 中 자회사"
+        "李대통령 “동해 AI 데이터센터, 투자 마중물…선도국가 위해 모든 역량 동원”",
+        "[속보] 李대통령 “AI 속도전서 한 걸음 앞서야 선도자”…동해 AIDC 착공식 참석",
+        "“인허가 속도 엄청나”…李대통령 혀 내두른 강원 AI 데이터센터",
+        "이 대통령 \"성형후기 조작 기막혀… 국민 기만 엄정 대응\"",
+        "李대통령, 동해 찾아 \"제 부친·형님도 광부였다…강원, AI 핵심 거점으로 도약\""
       ],
-      "category": "산업/테크"
+      "category": "경제/투자"
     }
   ],
   "stock_topics": [
     {
       "rank": 1,
-      "keyword": "엔비디아",
-      "count": 12,
-      "representative_title": "엔비디아 최첨단 칩, 中시설서 발견…“앨리스 황 연관”",
-      "representative_link": "https://n.news.naver.com/article/449/0000368970?ntype=RANKING",
-      "press": "채널A",
-      "related_articles": [
-        {
-          "title": "'젠슨 황 불륜 상대' 연계 중국 시설에서 엔비디아 최첨단 칩 발견",
-          "link": "https://n.news.naver.com/article/052/0002439273?ntype=RANKING",
-          "press": "YTN"
-        },
-        {
-          "title": "엔비디아 최첨단 칩, 中시설서 발견…“앨리스 황 연관”",
-          "link": "https://n.news.naver.com/article/449/0000368970?ntype=RANKING",
-          "press": "채널A"
-        },
-        {
-          "title": "美가 막은 엔비디아 최첨단 칩, 中데이터센터에 설치됐다",
-          "link": "https://n.news.naver.com/article/023/0004012252?ntype=RANKING",
-          "press": "조선일보"
-        },
-        {
-          "title": "‘젠슨 황 불륜 상대’ 연관된 中 데이터센터에서 엔비디아 최첨단 칩 발견",
-          "link": "https://n.news.naver.com/article/366/0001207894?ntype=RANKING",
-          "press": "조선비즈"
-        },
-        {
-          "title": "'젠슨황 불륜 상대' 연계 中시설서 엔비디아 최첨단 칩 발견",
-          "link": "https://n.news.naver.com/article/001/0016468520?ntype=RANKING",
-          "press": "연합뉴스"
-        }
-      ],
-      "related_titles": [
-        "'젠슨 황 불륜 상대' 연계 중국 시설에서 엔비디아 최첨단 칩 발견",
-        "엔비디아 최첨단 칩, 中시설서 발견…“앨리스 황 연관”",
-        "美가 막은 엔비디아 최첨단 칩, 中데이터센터에 설치됐다",
-        "‘젠슨 황 불륜 상대’ 연관된 中 데이터센터에서 엔비디아 최첨단 칩 발견",
-        "'젠슨황 불륜 상대' 연계 中시설서 엔비디아 최첨단 칩 발견"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 2,
-      "keyword": "주식",
-      "count": 7,
-      "representative_title": "반포 큰손들이 먼저 움직인다…주식 접고 택한 투자법",
-      "representative_link": "https://n.news.naver.com/article/025/0003568552?ntype=RANKING",
-      "press": "중앙일보",
-      "related_articles": [
-        {
-          "title": "주식 2000만원서 “100억 찍으면 팔겠다”던 95년생…'폭락 직전' SK하닉 팔고 50억 집 샀다",
-          "link": "https://n.news.naver.com/article/030/0003490822?ntype=RANKING",
-          "press": "전자신문"
-        },
-        {
-          "title": "반포 큰손들이 먼저 움직인다…주식 접고 택한 투자법",
-          "link": "https://n.news.naver.com/article/025/0003568552?ntype=RANKING",
-          "press": "중앙일보"
-        },
-        {
-          "title": "\"삼전닉스 주식 말고 이걸 샀어야\"…50만원짜리가 200만원 됐다[이슈속으로]",
-          "link": "https://n.news.naver.com/article/008/0005447669?ntype=RANKING",
-          "press": "머니투데이"
-        },
-        {
-          "title": "홍익표, '배우자 주식 처분' 피하려 소송‥기각되자 상임위 변경",
-          "link": "https://n.news.naver.com/article/214/0001538635?ntype=RANKING",
-          "press": "MBC"
-        },
-        {
-          "title": "“빚투로 2억 날려 그만 해야 하는데…주식 끊는 법 있나요?”",
-          "link": "https://n.news.naver.com/article/016/0002729746?ntype=RANKING",
-          "press": "헤럴드경제"
-        }
-      ],
-      "related_titles": [
-        "주식 2000만원서 “100억 찍으면 팔겠다”던 95년생…'폭락 직전' SK하닉 팔고 50억 집 샀다",
-        "반포 큰손들이 먼저 움직인다…주식 접고 택한 투자법",
-        "\"삼전닉스 주식 말고 이걸 샀어야\"…50만원짜리가 200만원 됐다[이슈속으로]",
-        "홍익표, '배우자 주식 처분' 피하려 소송‥기각되자 상임위 변경",
-        "“빚투로 2억 날려 그만 해야 하는데…주식 끊는 법 있나요?”"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 3,
-      "keyword": "주가",
-      "count": 5,
-      "representative_title": "주가 급락에 칼 빼든 SK하이닉스…하루 70만주 자사주 매입 주문",
-      "representative_link": "https://n.news.naver.com/article/018/0006416763?ntype=RANKING",
-      "press": "이데일리",
-      "related_articles": [
-        {
-          "title": "주가 오를 땐 “내 덕”·내릴 땐 “남 탓”… 트럼프, 비판 보도에 “하류 인생” 원색 비난",
-          "link": "https://n.news.naver.com/article/029/0003061594?ntype=RANKING",
-          "press": "디지털타임스"
-        },
-        {
-          "title": "주가 급락에 칼 빼든 SK하이닉스…하루 70만주 자사주 매입 주문",
-          "link": "https://n.news.naver.com/article/018/0006416763?ntype=RANKING",
-          "press": "이데일리"
-        },
-        {
-          "title": "\"주가 70만원일 때 더 팔았더라면\"…김구라, 현대차 투자에 '한숨'",
-          "link": "https://n.news.naver.com/article/215/0001274268?ntype=RANKING",
-          "press": "한국경제TV"
-        },
-        {
-          "title": "김구라 “주가 70만원 때 일부만 정리” 아쉬움…현대차, 6개월 새 주가 60% 빠졌다",
-          "link": "https://n.news.naver.com/article/016/0002729738?ntype=RANKING",
-          "press": "헤럴드경제"
-        },
-        {
-          "title": "김구라 “주가 70만원 때 일부만 정리” 아쉬움…현대차, 6개월 새 주가 60% 빠졌다",
-          "link": "https://n.news.naver.com/article/016/0002729738?ntype=RANKING",
-          "press": "헤럴드경제"
-        }
-      ],
-      "related_titles": [
-        "주가 오를 땐 “내 덕”·내릴 땐 “남 탓”… 트럼프, 비판 보도에 “하류 인생” 원색 비난",
-        "주가 급락에 칼 빼든 SK하이닉스…하루 70만주 자사주 매입 주문",
-        "\"주가 70만원일 때 더 팔았더라면\"…김구라, 현대차 투자에 '한숨'",
-        "김구라 “주가 70만원 때 일부만 정리” 아쉬움…현대차, 6개월 새 주가 60% 빠졌다",
-        "김구라 “주가 70만원 때 일부만 정리” 아쉬움…현대차, 6개월 새 주가 60% 빠졌다"
-      ],
-      "category": "주식/코인"
-    },
-    {
-      "rank": 4,
       "keyword": "삼성전자",
-      "count": 4,
+      "count": 6,
       "representative_title": "삼성전자 4만 원까지 떨어질 수도…전문가의 무서운 전망, 이유는",
       "representative_link": "https://n.news.naver.com/article/011/0004687112?ntype=RANKING",
       "press": "서울경제",
@@ -365,6 +218,16 @@
           "press": "서울경제"
         },
         {
+          "title": "전문가 “삼성전자 4만원 갈 수도” 섬뜩 경고…‘67만원’ 장밋빛 전망에 찬물?",
+          "link": "https://n.news.naver.com/article/666/0000134153?ntype=RANKING",
+          "press": "경기일보"
+        },
+        {
+          "title": "삼성전자 출신 임원도 경고…韓 반도체 웃고 있을 때 아니다 [강경주의 테크X]",
+          "link": "https://n.news.naver.com/article/015/0005359299?ntype=RANKING",
+          "press": "한국경제"
+        },
+        {
           "title": "\"삼성전자 7만원도 바닥 아니다\"…이대로 가다가는 '섬뜩 경고'",
           "link": "https://n.news.naver.com/article/215/0001274266?ntype=RANKING",
           "press": "한국경제TV"
@@ -373,67 +236,186 @@
           "title": "[한국의 CISO-권력지도] 삼성전자, DX·DS '보안 투톱'…이사회 연 3회 보고",
           "link": "https://n.news.naver.com/article/293/0000093938?ntype=RANKING",
           "press": "블로터"
-        },
-        {
-          "title": "17만원대 삼성전자 아직 바닥 아니다?…'4만전자' 가능성 있다",
-          "link": "https://n.news.naver.com/article/053/0000063415?ntype=RANKING",
-          "press": "주간조선"
-        },
-        {
-          "title": "삼성전자 4만 원까지 떨어질 수도…전문가의 무서운 전망, 이유는",
-          "link": "https://n.news.naver.com/article/011/0004687112?ntype=RANKING",
-          "press": "서울경제"
         }
       ],
       "related_titles": [
         "삼성전자 4만 원까지 떨어질 수도…전문가의 무서운 전망, 이유는",
+        "전문가 “삼성전자 4만원 갈 수도” 섬뜩 경고…‘67만원’ 장밋빛 전망에 찬물?",
+        "삼성전자 출신 임원도 경고…韓 반도체 웃고 있을 때 아니다 [강경주의 테크X]",
         "\"삼성전자 7만원도 바닥 아니다\"…이대로 가다가는 '섬뜩 경고'",
-        "[한국의 CISO-권력지도] 삼성전자, DX·DS '보안 투톱'…이사회 연 3회 보고",
-        "17만원대 삼성전자 아직 바닥 아니다?…'4만전자' 가능성 있다",
-        "삼성전자 4만 원까지 떨어질 수도…전문가의 무서운 전망, 이유는"
+        "[한국의 CISO-권력지도] 삼성전자, DX·DS '보안 투톱'…이사회 연 3회 보고"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 2,
+      "keyword": "엔비디아",
+      "count": 6,
+      "representative_title": "엔비디아 블랙웰, 앨리스 황 연계 중국 데이터센터서 첫 확인",
+      "representative_link": "https://n.news.naver.com/article/417/0001165965?ntype=RANKING",
+      "press": "동행미디어 시대",
+      "related_articles": [
+        {
+          "title": "젠슨 황 불륜 상대' 연계 중국 시설에서 엔비디아 최첨단 칩 발견",
+          "link": "https://n.news.naver.com/article/052/0002439327?ntype=RANKING",
+          "press": "YTN"
+        },
+        {
+          "title": "젠슨 황 불륜녀 연계 中 데이터센터서 엔비디아 최첨단 칩 발견",
+          "link": "https://n.news.naver.com/article/448/0000653917?ntype=RANKING",
+          "press": "TV조선"
+        },
+        {
+          "title": "'블랙웰' 엔비디아 최첨단 칩 '젠슨황 불륜 상대' 연계 中시설에서 발견",
+          "link": "https://n.news.naver.com/article/374/0000546420?ntype=RANKING",
+          "press": "SBS Biz"
+        },
+        {
+          "title": "中암시장서 엔비디아 'B300' 서버값 5배 폭등…대당 40억원 돌파",
+          "link": "https://n.news.naver.com/article/092/0002447331?ntype=RANKING",
+          "press": "지디넷코리아"
+        },
+        {
+          "title": "'젠슨황 불륜' 앨리스 황 연계 중국 시설서 엔비디아 최첨단 칩 발견",
+          "link": "https://n.news.naver.com/article/629/0000556452?ntype=RANKING",
+          "press": "더팩트"
+        }
+      ],
+      "related_titles": [
+        "젠슨 황 불륜 상대' 연계 중국 시설에서 엔비디아 최첨단 칩 발견",
+        "젠슨 황 불륜녀 연계 中 데이터센터서 엔비디아 최첨단 칩 발견",
+        "'블랙웰' 엔비디아 최첨단 칩 '젠슨황 불륜 상대' 연계 中시설에서 발견",
+        "中암시장서 엔비디아 'B300' 서버값 5배 폭등…대당 40억원 돌파",
+        "'젠슨황 불륜' 앨리스 황 연계 중국 시설서 엔비디아 최첨단 칩 발견"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 3,
+      "keyword": "주식",
+      "count": 5,
+      "representative_title": "“빚투로 2억 날려 그만 해야 하는데…주식 끊는 법 있나요?”",
+      "representative_link": "https://n.news.naver.com/article/016/0002729746?ntype=RANKING",
+      "press": "헤럴드경제",
+      "related_articles": [
+        {
+          "title": "생방송 눈물, 이유 밝힌 주식 전문가 \"추가 하락 경고해야 하는 부담 때문에\"",
+          "link": "https://n.news.naver.com/article/277/0005849047?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "홍익표, '배우자 주식 처분' 피하려 소송‥기각되자 상임위 변경",
+          "link": "https://n.news.naver.com/article/214/0001538635?ntype=RANKING",
+          "press": "MBC"
+        },
+        {
+          "title": "“빚투로 2억 날려 그만 해야 하는데…주식 끊는 법 있나요?”",
+          "link": "https://n.news.naver.com/article/016/0002729746?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "주식 2000만원서 “100억 찍으면 팔겠다”던 95년생…'폭락 직전' SK하닉 팔고 50억 집 샀다",
+          "link": "https://n.news.naver.com/article/030/0003490822?ntype=RANKING",
+          "press": "전자신문"
+        },
+        {
+          "title": "\"삼전닉스 주식 말고 이걸 샀어야\"…50만원짜리가 200만원 됐다[이슈속으로]",
+          "link": "https://n.news.naver.com/article/008/0005447669?ntype=RANKING",
+          "press": "머니투데이"
+        }
+      ],
+      "related_titles": [
+        "생방송 눈물, 이유 밝힌 주식 전문가 \"추가 하락 경고해야 하는 부담 때문에\"",
+        "홍익표, '배우자 주식 처분' 피하려 소송‥기각되자 상임위 변경",
+        "“빚투로 2억 날려 그만 해야 하는데…주식 끊는 법 있나요?”",
+        "주식 2000만원서 “100억 찍으면 팔겠다”던 95년생…'폭락 직전' SK하닉 팔고 50억 집 샀다",
+        "\"삼전닉스 주식 말고 이걸 샀어야\"…50만원짜리가 200만원 됐다[이슈속으로]"
+      ],
+      "category": "주식/코인"
+    },
+    {
+      "rank": 4,
+      "keyword": "주가",
+      "count": 4,
+      "representative_title": "김구라도 \"현대차 70만원 때 더 팔걸\" 후회…주가 흐름 보니",
+      "representative_link": "https://n.news.naver.com/article/277/0005849066?ntype=RANKING",
+      "press": "아시아경제",
+      "related_articles": [
+        {
+          "title": "주가 급락에 칼 빼든 SK하이닉스…하루 70만주 자사주 매입 주문",
+          "link": "https://n.news.naver.com/article/018/0006416763?ntype=RANKING",
+          "press": "이데일리"
+        },
+        {
+          "title": "김구라도 \"현대차 70만원 때 더 팔걸\" 후회…주가 흐름 보니",
+          "link": "https://n.news.naver.com/article/277/0005849066?ntype=RANKING",
+          "press": "아시아경제"
+        },
+        {
+          "title": "김구라 “주가 70만원 때 일부만 정리” 아쉬움…현대차, 6개월 새 주가 60% 빠졌다",
+          "link": "https://n.news.naver.com/article/016/0002729738?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "김구라 “주가 70만원 때 일부만 정리” 아쉬움…현대차, 6개월 새 주가 60% 빠졌다",
+          "link": "https://n.news.naver.com/article/016/0002729738?ntype=RANKING",
+          "press": "헤럴드경제"
+        },
+        {
+          "title": "\"주가 70만원일 때 더 팔았더라면\"…김구라, 현대차 투자에 '한숨'",
+          "link": "https://n.news.naver.com/article/215/0001274268?ntype=RANKING",
+          "press": "한국경제TV"
+        }
+      ],
+      "related_titles": [
+        "주가 급락에 칼 빼든 SK하이닉스…하루 70만주 자사주 매입 주문",
+        "김구라도 \"현대차 70만원 때 더 팔걸\" 후회…주가 흐름 보니",
+        "김구라 “주가 70만원 때 일부만 정리” 아쉬움…현대차, 6개월 새 주가 60% 빠졌다",
+        "김구라 “주가 70만원 때 일부만 정리” 아쉬움…현대차, 6개월 새 주가 60% 빠졌다",
+        "\"주가 70만원일 때 더 팔았더라면\"…김구라, 현대차 투자에 '한숨'"
       ],
       "category": "주식/코인"
     },
     {
       "rank": 5,
-      "keyword": "나스닥",
+      "keyword": "코스피",
       "count": 3,
-      "representative_title": "[뉴욕증시]AI 저가 매수에 나스닥 2.31% 상승",
-      "representative_link": "https://n.news.naver.com/article/417/0001165963?ntype=RANKING",
-      "press": "동행미디어 시대",
+      "representative_title": "'사이드카'에도 더 뛰었다…코스닥 8% 폭등, 코스피 4900 탈환",
+      "representative_link": "https://n.news.naver.com/article/629/0000556345?ntype=RANKING",
+      "press": "더팩트",
       "related_articles": [
         {
-          "title": "[속보]나스닥 2.3% 급등…다우는 4년만에 최고의 한 주",
-          "link": "https://n.news.naver.com/article/018/0006416775?ntype=RANKING",
-          "press": "이데일리"
+          "title": "1866조에서 1664조로…코스피 19% 빠지자 국민연금 202조 ‘순삭’",
+          "link": "https://n.news.naver.com/article/081/0003704079?ntype=RANKING",
+          "press": "서울신문"
         },
         {
-          "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑",
-          "link": "https://n.news.naver.com/article/310/0000142174?ntype=RANKING",
-          "press": "여성신문"
+          "title": "“4% 급등에도 고점 대비 반토막”…코스피 구할 증안펀드 언제 투입되나 [증시레이더]",
+          "link": "https://n.news.naver.com/article/138/0002250214?ntype=RANKING",
+          "press": "디지털데일리"
         },
         {
-          "title": "[뉴욕증시]AI 저가 매수에 나스닥 2.31% 상승",
-          "link": "https://n.news.naver.com/article/417/0001165963?ntype=RANKING",
-          "press": "동행미디어 시대"
+          "title": "'사이드카'에도 더 뛰었다…코스닥 8% 폭등, 코스피 4900 탈환",
+          "link": "https://n.news.naver.com/article/629/0000556345?ntype=RANKING",
+          "press": "더팩트"
         },
         {
-          "title": "[속보]나스닥 2.3% 급등…다우는 4년만에 최고의 한 주",
-          "link": "https://n.news.naver.com/article/018/0006416775?ntype=RANKING",
-          "press": "이데일리"
+          "title": "1866조에서 1664조로…코스피 19% 빠지자 국민연금 202조 ‘순삭’",
+          "link": "https://n.news.naver.com/article/081/0003704079?ntype=RANKING",
+          "press": "서울신문"
         },
         {
-          "title": "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑",
-          "link": "https://n.news.naver.com/article/310/0000142174?ntype=RANKING",
-          "press": "여성신문"
+          "title": "“4% 급등에도 고점 대비 반토막”…코스피 구할 증안펀드 언제 투입되나 [증시레이더]",
+          "link": "https://n.news.naver.com/article/138/0002250214?ntype=RANKING",
+          "press": "디지털데일리"
         }
       ],
       "related_titles": [
-        "[속보]나스닥 2.3% 급등…다우는 4년만에 최고의 한 주",
-        "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑",
-        "[뉴욕증시]AI 저가 매수에 나스닥 2.31% 상승",
-        "[속보]나스닥 2.3% 급등…다우는 4년만에 최고의 한 주",
-        "뉴욕증시, AI·기술주 반등에 일제히 상승…나스닥 2.3%↑"
+        "1866조에서 1664조로…코스피 19% 빠지자 국민연금 202조 ‘순삭’",
+        "“4% 급등에도 고점 대비 반토막”…코스피 구할 증안펀드 언제 투입되나 [증시레이더]",
+        "'사이드카'에도 더 뛰었다…코스닥 8% 폭등, 코스피 4900 탈환",
+        "1866조에서 1664조로…코스피 19% 빠지자 국민연금 202조 ‘순삭’",
+        "“4% 급등에도 고점 대비 반토막”…코스피 구할 증안펀드 언제 투입되나 [증시레이더]"
       ],
       "category": "주식/코인"
     }
@@ -443,11 +425,16 @@
       "rank": 1,
       "keyword": "정권",
       "series_title": "정권의 몰락",
-      "count": 3,
+      "count": 4,
       "representative_title": "민주당 지지층 이탈, 이재명 정권 몰락 재촉",
       "representative_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MRU14Q2oxXzJzMHBEMUxfZTR1VFhpQlkyWHl1bjlwS2Q3ek5SSFVEclZmeGpCaG13YllsbU5yLUpwb01obmx2ZUlSY2syREJfV0Z6Q2NsTXJVVDByRWREYUU1aW9KbGpkQnJr0gFvQVVfeXFMTlk5eEpzOV9IN2JWWDhFMDNNV3ZqTmRYY25IdkNPdG4wS0xkZGs1eDVSb0xMSjBKYVBuWUNDT043T2E3eE9IbzFWR0p6QS1MbHAwLXhlOU5hMTI2TU53WU1ZQTU4N2VBV2k5bjVyd2ZZ?oc=5",
       "press": "",
       "related_articles": [
+        {
+          "title": "국민의힘 “공소취소 방아쇠 당기면 정권 몰락”",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5laHN2bV9yZ25OX1hFWUFsWnJtWDU1STk2LVhVeld0UXRHQndRMGRTX0pRSkxxMnIxeWZUZjRGa1ZGYi1aTXR6Vl9qbEtZTk5ja1lmOXJ5cXNTN2FubkFDekRsMm5TX3ZaUzloNWtCQdIBc0FVX3lxTE5jOEtyM3BpaVJRUWU4anZVVTlORWhqdVRpQXVuaUtmMU80R0gwbnlJcWRpdzIxWk9Rd3VwalN1Y0k3SVUzWjcxV2RUZXRFSGJJSmhKdWdwdlc3ZUFWRmI0UnJnQWV2SWx4bUlXeFZKbVJTSEk?oc=5",
+          "press": ""
+        },
         {
           "title": "조희대 탄핵은 '정권 몰락 트리거' \"김민석 대표 독약 먹는 것\" ㅣ이현종의 뉴스쇼 [문화일보] #shorts",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUmxEeEZQYW15ZzRMeHd2OUdSbWdyZHg1b2ROSGxnTVAwWFMtOTVxaFdEMkk4bC10UFNaYlJfMlNVekZWMDFBVHBqb3RVQ0t5Tmt0WmJB?oc=5",
@@ -465,6 +452,7 @@
         }
       ],
       "related_titles": [
+        "국민의힘 “공소취소 방아쇠 당기면 정권 몰락”",
         "조희대 탄핵은 '정권 몰락 트리거' \"김민석 대표 독약 먹는 것\" ㅣ이현종의 뉴스쇼 [문화일보] #shorts",
         "민주당 지지층 이탈, 이재명 정권 몰락 재촉",
         "조희대 탄핵 강행의 위험한 결말 \"이재명 정권 몰락, 트리거 될 것\"ㅣ이현종의 뉴스쇼 [문화일보]"
@@ -562,7 +550,7 @@
     {
       "rank": 1,
       "keyword": "서울",
-      "count": 5,
+      "count": 6,
       "representative_title": "서울 아파트 언제쯤 하락 전환할까?",
       "representative_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FNFo0NnFzb0JYY2hlS1R5QmZHUzV4bko2OEI3STZ5RzBNc3ZCZ3RlMFJhWTctOE9iNDMtSWlvcXAwWkpRSGo3aXZEdmJlaDNpbGY2a0FKR0d6dTg?oc=5",
       "press": "",
